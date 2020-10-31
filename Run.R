@@ -12,8 +12,10 @@ rm(list=ls())
 #*******************
 # CODE.dir.1="C:/Users/JinCheol Choi/Desktop/R/Functions/"
 # CODE.dir.2="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/"
-CODE.dir.1="C:/Users/jchoi02/Desktop/R/Functions/"
-CODE.dir.2="C:/Users/jchoi02/Desktop/R/Soccer_Analysis/"
+# CODE.dir.1="C:/Users/JinCheol Choi/Desktop/R/Functions/"
+# CODE.dir.2="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/"
+CODE.dir.1="C:/Users/JinCheol Choi/Desktop/R/Functions/"
+CODE.dir.2="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/"
 
 Year=2020
 Countries=c(
@@ -25,7 +27,7 @@ Countries=c(
   "china",
   "japan",
   "turkey"
-  )
+)
 # england : "premier-league", "championship", "league-one", "league-two"
 # spain : "laliga"
 # italy : "serie-a"
@@ -47,7 +49,7 @@ Leagues=c(
   "j1-league",
   "j2-league",
   "super-lig"
-  )
+)
 source(paste0(CODE.dir.1, "Functions.R"))
 source(paste0(CODE.dir.2, "SA_Functions.R"))
 
@@ -70,7 +72,7 @@ lapply(c("data.table",
 #
 #*******************************
 Years=2020
-data.dir.1="C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Data/Game_results/"
+data.dir.1="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Data/Game_results/"
 lapply(c("data.table",
          "rvest"), checkpackages)
 source(paste0(CODE.dir.2, "Extract_Data_Game_Results.R"))
@@ -83,18 +85,18 @@ source(paste0(CODE.dir.2, "Extract_Data_Game_Results.R"))
 #********************************
 # load
 #*****
-#load("C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Rdata/2020-10-24-Uni-Dist.Rdata")
-load("C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Rdata/2020-10-24-Ind-Dist.Rdata")
+#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-24-Uni-Dist.Rdata")
+load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-24-Ind-Dist.Rdata")
 Optimal_Settings
 Optimal_Pars="Yes" # use optimal parameters based on Optimal_Settings
 # Prob_Estimate="Exact"
 # Chosen_Profit_Criteria=1
 # Coef=1/5.8
 
-data.dir.1="C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Data/Game_results/"
-# data.dir.2="C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Data/Over_under_score_odds/"
-output.dir="C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Output/Over_under_score_odds/"
-log.dir="C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Log/Over_under_score_odds/"
+data.dir.1="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Data/Game_results/"
+# data.dir.2="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Data/Over_under_score_odds/"
+output.dir="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Output/Over_under_score_odds/"
+log.dir="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Log/Over_under_score_odds/"
 
 source(paste0(CODE.dir.1, "Functions.R"))
 source(paste0(CODE.dir.2, "SA_Functions.R"))
@@ -139,8 +141,8 @@ while(Loop==0){
 # Optimal parameter values ----
 #
 #******************************
-data.dir.1="C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Data/Game_results/"
-output.dir="C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Output/Over_under_score_odds/"
+data.dir.1="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Data/Game_results/"
+output.dir="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Output/Over_under_score_odds/"
 Capital=10000
 Years=2020
 Betting_Amount=10   # Amount*Proportion (input any amount)
@@ -163,9 +165,9 @@ All_Leagues=c(
 )
 Prob_Estimates=c("Poisson", "Exact", "Negative_Binom", "Implied") # "Poisson", "Exact", "Negative_Binom", "Implied"
 Chosen_Profit_Criterias=c(1, 2, 3) # choose the option to bet by : 
-                             # 1 : maximum profit
-                             # 2 : minimum profit
-                             # 3 : a larger profit between the lowest option of "Over"s and the highest option of "Under"s
+# 1 : maximum profit
+# 2 : minimum profit
+# 3 : a larger profit between the lowest option of "Over"s and the highest option of "Under"s
 Coefs=1/seq(1, 16, by=0.1)
 Last_Date="2020-10-24" # the last date in training set
 #
@@ -200,17 +202,17 @@ for(League_Ind in 1:length(All_Leagues)){
   #League_Ind=1
   Selected_Training_Output=Training_Output[League==All_Leagues[League_Ind]&
                                              Prob_Est=="Exact"
-                                             # Chosen_Profit_Criterion==1 &
-                                             # Efficient>0
-                                             # Efficient<2 &
-                                             # Cum_Profit>1000 &
-                                             # Bet_Std<1000 &
-                                             # Profit_Std<500
-                                             # Cum_Profit_Std<1000 &
-                                             #Total_Bet<100000000 &
-                                             #Min_Cum_Profit>0 &
-                                             #Fixed_Bet_Prof_Ind>0 &
-                                             #Kelly_Bet_Prof_Ind>0
+                                           # Chosen_Profit_Criterion==1 &
+                                           # Efficient>0
+                                           # Efficient<2 &
+                                           # Cum_Profit>1000 &
+                                           # Bet_Std<1000 &
+                                           # Profit_Std<500
+                                           # Cum_Profit_Std<1000 &
+                                           #Total_Bet<100000000 &
+                                           #Min_Cum_Profit>0 &
+                                           #Fixed_Bet_Prof_Ind>0 &
+                                           #Kelly_Bet_Prof_Ind>0
                                            , ]%>%
     filter(Cum_Profit==max(Cum_Profit))
   
@@ -366,8 +368,8 @@ Simul_Result[[1]][Date>=First_Date&Profit>0, ] %>%
 #**************
 # save and load
 #**************
-#save.image("C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Rdata/2020-10-24-Ind-Dist.Rdata")
-#load("C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Rdata/2020-10-24-Ind-Dist.Rdata")
-#load("C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Rdata/2020-10-11-Ind-Dist.Rdata")
-#load("C:/Users/jchoi02/Desktop/R/Soccer_Analysis/Rdata/2020-10-04-Ind-Dist.Rdata")
+#save.image("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-24-Ind-Dist.Rdata")
+#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-24-Ind-Dist.Rdata")
+#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-11-Ind-Dist.Rdata")
+#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-04-Ind-Dist.Rdata")
 
