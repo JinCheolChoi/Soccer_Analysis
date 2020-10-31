@@ -1,0 +1,381 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+12.05.2019,2019,Brighton,Manchester City,1,4
+12.05.2019,2019,Burnley,Arsenal,1,3
+12.05.2019,2019,Crystal Palace,Bournemouth,5,3
+12.05.2019,2019,Fulham,Newcastle,0,4
+12.05.2019,2019,Leicester,Chelsea,0,0
+12.05.2019,2019,Liverpool,Wolves,2,0
+12.05.2019,2019,Manchester Utd,Cardiff,0,2
+12.05.2019,2019,Southampton,Huddersfield,1,1
+12.05.2019,2019,Tottenham,Everton,2,2
+12.05.2019,2019,Watford,West Ham,1,4
+06.05.2019,2019,Manchester City,Leicester,1,0
+05.05.2019,2019,Arsenal,Brighton,1,1
+05.05.2019,2019,Chelsea,Watford,3,0
+05.05.2019,2019,Huddersfield,Manchester Utd,1,1
+04.05.2019,2019,Bournemouth,Tottenham,1,0
+04.05.2019,2019,Cardiff,Crystal Palace,2,3
+04.05.2019,2019,Newcastle,Liverpool,2,3
+04.05.2019,2019,West Ham,Southampton,3,0
+04.05.2019,2019,Wolves,Fulham,1,0
+03.05.2019,2019,Everton,Burnley,2,0
+28.04.2019,2019,Burnley,Manchester City,0,1
+28.04.2019,2019,Leicester,Arsenal,3,0
+28.04.2019,2019,Manchester Utd,Chelsea,1,1
+27.04.2019,2019,Brighton,Newcastle,1,1
+27.04.2019,2019,Crystal Palace,Everton,0,0
+27.04.2019,2019,Fulham,Cardiff,1,0
+27.04.2019,2019,Southampton,Bournemouth,3,3
+27.04.2019,2019,Tottenham,West Ham,0,1
+27.04.2019,2019,Watford,Wolves,1,2
+26.04.2019,2019,Liverpool,Huddersfield,5,0
+24.04.2019,2019,Manchester Utd,Manchester City,0,2
+24.04.2019,2019,Wolves,Arsenal,3,1
+23.04.2019,2019,Tottenham,Brighton,1,0
+23.04.2019,2019,Watford,Southampton,1,1
+22.04.2019,2019,Chelsea,Burnley,2,2
+21.04.2019,2019,Arsenal,Crystal Palace,2,3
+21.04.2019,2019,Cardiff,Liverpool,0,2
+21.04.2019,2019,Everton,Manchester Utd,4,0
+20.04.2019,2019,Bournemouth,Fulham,0,1
+20.04.2019,2019,Huddersfield,Watford,1,2
+20.04.2019,2019,Manchester City,Tottenham,1,0
+20.04.2019,2019,Newcastle,Southampton,3,1
+20.04.2019,2019,West Ham,Leicester,2,2
+20.04.2019,2019,Wolves,Brighton,0,0
+16.04.2019,2019,Brighton,Cardiff,0,2
+15.04.2019,2019,Watford,Arsenal,0,1
+14.04.2019,2019,Crystal Palace,Manchester City,1,3
+14.04.2019,2019,Liverpool,Chelsea,2,0
+13.04.2019,2019,Brighton,Bournemouth,0,5
+13.04.2019,2019,Burnley,Cardiff,2,0
+13.04.2019,2019,Fulham,Everton,2,0
+13.04.2019,2019,Manchester Utd,West Ham,2,1
+13.04.2019,2019,Southampton,Wolves,3,1
+13.04.2019,2019,Tottenham,Huddersfield,4,0
+12.04.2019,2019,Leicester,Newcastle,0,1
+08.04.2019,2019,Chelsea,West Ham,2,0
+07.04.2019,2019,Everton,Arsenal,1,0
+06.04.2019,2019,Bournemouth,Burnley,1,3
+06.04.2019,2019,Huddersfield,Leicester,1,4
+06.04.2019,2019,Newcastle,Crystal Palace,0,1
+05.04.2019,2019,Southampton,Liverpool,1,3
+03.04.2019,2019,Manchester City,Cardiff,2,0
+03.04.2019,2019,Tottenham,Crystal Palace,2,0
+03.04.2019,2019,Chelsea,Brighton,3,0
+02.04.2019,2019,Watford,Fulham,4,1
+02.04.2019,2019,Wolves,Manchester Utd,2,1
+01.04.2019,2019,Arsenal,Newcastle,2,0
+31.03.2019,2019,Cardiff,Chelsea,1,2
+31.03.2019,2019,Liverpool,Tottenham,2,1
+30.03.2019,2019,Brighton,Southampton,0,1
+30.03.2019,2019,Burnley,Wolves,2,0
+30.03.2019,2019,Crystal Palace,Huddersfield,2,0
+30.03.2019,2019,Fulham,Manchester City,0,2
+30.03.2019,2019,Leicester,Bournemouth,2,0
+30.03.2019,2019,Manchester Utd,Watford,2,1
+30.03.2019,2019,West Ham,Everton,0,2
+17.03.2019,2019,Everton,Chelsea,2,0
+17.03.2019,2019,Fulham,Liverpool,1,2
+16.03.2019,2019,Bournemouth,Newcastle,2,2
+16.03.2019,2019,Burnley,Leicester,1,2
+16.03.2019,2019,West Ham,Huddersfield,4,3
+10.03.2019,2019,Arsenal,Manchester Utd,2,0
+10.03.2019,2019,Chelsea,Wolves,1,1
+10.03.2019,2019,Liverpool,Burnley,4,2
+09.03.2019,2019,Cardiff,West Ham,2,0
+09.03.2019,2019,Crystal Palace,Brighton,1,2
+09.03.2019,2019,Huddersfield,Bournemouth,0,2
+09.03.2019,2019,Leicester,Fulham,3,1
+09.03.2019,2019,Manchester City,Watford,3,1
+09.03.2019,2019,Newcastle,Everton,3,2
+09.03.2019,2019,Southampton,Tottenham,2,1
+03.03.2019,2019,Everton,Liverpool,0,0
+03.03.2019,2019,Fulham,Chelsea,1,2
+03.03.2019,2019,Watford,Leicester,2,1
+02.03.2019,2019,Bournemouth,Manchester City,0,1
+02.03.2019,2019,Brighton,Huddersfield,1,0
+02.03.2019,2019,Burnley,Crystal Palace,1,3
+02.03.2019,2019,Manchester Utd,Southampton,3,2
+02.03.2019,2019,Tottenham,Arsenal,1,1
+02.03.2019,2019,West Ham,Newcastle,2,0
+02.03.2019,2019,Wolves,Cardiff,2,0
+27.02.2019,2019,Arsenal,Bournemouth,5,1
+27.02.2019,2019,Chelsea,Tottenham,2,0
+27.02.2019,2019,Crystal Palace,Manchester Utd,1,3
+27.02.2019,2019,Liverpool,Watford,5,0
+27.02.2019,2019,Manchester City,West Ham,1,0
+27.02.2019,2019,Southampton,Fulham,2,0
+26.02.2019,2019,Cardiff,Everton,0,3
+26.02.2019,2019,Huddersfield,Wolves,1,0
+26.02.2019,2019,Leicester,Brighton,2,1
+26.02.2019,2019,Newcastle,Burnley,2,0
+24.02.2019,2019,Arsenal,Southampton,2,0
+24.02.2019,2019,Manchester Utd,Liverpool,0,0
+23.02.2019,2019,Bournemouth,Wolves,1,1
+23.02.2019,2019,Burnley,Tottenham,2,1
+23.02.2019,2019,Leicester,Crystal Palace,1,4
+23.02.2019,2019,Newcastle,Huddersfield,2,0
+22.02.2019,2019,Cardiff,Watford,1,5
+22.02.2019,2019,West Ham,Fulham,3,1
+11.02.2019,2019,Wolves,Newcastle,1,1
+10.02.2019,2019,Manchester City,Chelsea,6,0
+10.02.2019,2019,Tottenham,Leicester,3,1
+09.02.2019,2019,Brighton,Burnley,1,3
+09.02.2019,2019,Crystal Palace,West Ham,1,1
+09.02.2019,2019,Fulham,Manchester Utd,0,3
+09.02.2019,2019,Huddersfield,Arsenal,1,2
+09.02.2019,2019,Liverpool,Bournemouth,3,0
+09.02.2019,2019,Southampton,Cardiff,1,2
+09.02.2019,2019,Watford,Everton,1,0
+06.02.2019,2019,Everton,Manchester City,0,2
+04.02.2019,2019,West Ham,Liverpool,1,1
+03.02.2019,2019,Leicester,Manchester Utd,0,1
+03.02.2019,2019,Manchester City,Arsenal,3,1
+02.02.2019,2019,Brighton,Watford,0,0
+02.02.2019,2019,Burnley,Southampton,1,1
+02.02.2019,2019,Cardiff,Bournemouth,2,0
+02.02.2019,2019,Chelsea,Huddersfield,5,0
+02.02.2019,2019,Crystal Palace,Fulham,2,0
+02.02.2019,2019,Everton,Wolves,1,3
+02.02.2019,2019,Tottenham,Newcastle,1,0
+30.01.2019,2019,Bournemouth,Chelsea,4,0
+30.01.2019,2019,Liverpool,Leicester,1,1
+30.01.2019,2019,Southampton,Crystal Palace,1,1
+30.01.2019,2019,Tottenham,Watford,2,1
+29.01.2019,2019,Arsenal,Cardiff,2,1
+29.01.2019,2019,Fulham,Brighton,4,2
+29.01.2019,2019,Huddersfield,Everton,0,1
+29.01.2019,2019,Manchester Utd,Burnley,2,2
+29.01.2019,2019,Newcastle,Manchester City,2,1
+29.01.2019,2019,Wolves,West Ham,3,0
+20.01.2019,2019,Fulham,Tottenham,1,2
+20.01.2019,2019,Huddersfield,Manchester City,0,3
+19.01.2019,2019,Arsenal,Chelsea,2,0
+19.01.2019,2019,Bournemouth,West Ham,2,0
+19.01.2019,2019,Liverpool,Crystal Palace,4,3
+19.01.2019,2019,Manchester Utd,Brighton,2,1
+19.01.2019,2019,Newcastle,Cardiff,3,0
+19.01.2019,2019,Southampton,Everton,2,1
+19.01.2019,2019,Watford,Burnley,0,0
+19.01.2019,2019,Wolves,Leicester,4,3
+14.01.2019,2019,Manchester City,Wolves,3,0
+13.01.2019,2019,Everton,Bournemouth,2,0
+13.01.2019,2019,Tottenham,Manchester Utd,0,1
+12.01.2019,2019,Brighton,Liverpool,0,1
+12.01.2019,2019,Burnley,Fulham,2,1
+12.01.2019,2019,Cardiff,Huddersfield,0,0
+12.01.2019,2019,Chelsea,Newcastle,2,1
+12.01.2019,2019,Crystal Palace,Watford,1,2
+12.01.2019,2019,Leicester,Southampton,1,2
+12.01.2019,2019,West Ham,Arsenal,1,0
+03.01.2019,2019,Manchester City,Liverpool,2,1
+02.01.2019,2019,Bournemouth,Watford,3,3
+02.01.2019,2019,Chelsea,Southampton,0,0
+02.01.2019,2019,Huddersfield,Burnley,1,2
+02.01.2019,2019,Newcastle,Manchester Utd,0,2
+02.01.2019,2019,West Ham,Brighton,2,2
+02.01.2019,2019,Wolves,Crystal Palace,0,2
+01.01.2019,2019,Arsenal,Fulham,4,1
+01.01.2019,2019,Cardiff,Tottenham,0,3
+01.01.2019,2019,Everton,Leicester,0,1
+30.12.2018,2019,Burnley,West Ham,2,0
+30.12.2018,2019,Crystal Palace,Chelsea,0,1
+30.12.2018,2019,Manchester Utd,Bournemouth,4,1
+30.12.2018,2019,Southampton,Manchester City,1,3
+29.12.2018,2019,Brighton,Everton,1,0
+29.12.2018,2019,Fulham,Huddersfield,1,0
+29.12.2018,2019,Leicester,Cardiff,0,1
+29.12.2018,2019,Liverpool,Arsenal,5,1
+29.12.2018,2019,Tottenham,Wolves,1,3
+29.12.2018,2019,Watford,Newcastle,1,1
+27.12.2018,2019,Southampton,West Ham,1,2
+26.12.2018,2019,Brighton,Arsenal,1,1
+26.12.2018,2019,Burnley,Everton,1,5
+26.12.2018,2019,Crystal Palace,Cardiff,0,0
+26.12.2018,2019,Fulham,Wolves,1,1
+26.12.2018,2019,Leicester,Manchester City,2,1
+26.12.2018,2019,Liverpool,Newcastle,4,0
+26.12.2018,2019,Manchester Utd,Huddersfield,3,1
+26.12.2018,2019,Tottenham,Bournemouth,5,0
+26.12.2018,2019,Watford,Chelsea,1,2
+23.12.2018,2019,Everton,Tottenham,2,6
+22.12.2018,2019,Arsenal,Burnley,3,1
+22.12.2018,2019,Bournemouth,Brighton,2,0
+22.12.2018,2019,Cardiff,Manchester Utd,1,5
+22.12.2018,2019,Chelsea,Leicester,0,1
+22.12.2018,2019,Huddersfield,Southampton,1,3
+22.12.2018,2019,Manchester City,Crystal Palace,2,3
+22.12.2018,2019,Newcastle,Fulham,0,0
+22.12.2018,2019,West Ham,Watford,0,2
+21.12.2018,2019,Wolves,Liverpool,0,2
+16.12.2018,2019,Brighton,Chelsea,1,2
+16.12.2018,2019,Liverpool,Manchester Utd,3,1
+16.12.2018,2019,Southampton,Arsenal,3,2
+15.12.2018,2019,Crystal Palace,Leicester,1,0
+15.12.2018,2019,Fulham,West Ham,0,2
+15.12.2018,2019,Huddersfield,Newcastle,0,1
+15.12.2018,2019,Manchester City,Everton,3,1
+15.12.2018,2019,Tottenham,Burnley,1,0
+15.12.2018,2019,Watford,Cardiff,3,2
+15.12.2018,2019,Wolves,Bournemouth,2,0
+10.12.2018,2019,Everton,Watford,2,2
+09.12.2018,2019,Newcastle,Wolves,1,2
+08.12.2018,2019,Arsenal,Huddersfield,1,0
+08.12.2018,2019,Bournemouth,Liverpool,0,4
+08.12.2018,2019,Burnley,Brighton,1,0
+08.12.2018,2019,Cardiff,Southampton,1,0
+08.12.2018,2019,Chelsea,Manchester City,2,0
+08.12.2018,2019,Leicester,Tottenham,0,2
+08.12.2018,2019,Manchester Utd,Fulham,4,1
+08.12.2018,2019,West Ham,Crystal Palace,3,2
+05.12.2018,2019,Burnley,Liverpool,1,3
+05.12.2018,2019,Everton,Newcastle,1,1
+05.12.2018,2019,Fulham,Leicester,1,1
+05.12.2018,2019,Manchester Utd,Arsenal,2,2
+05.12.2018,2019,Tottenham,Southampton,3,1
+05.12.2018,2019,Wolves,Chelsea,2,1
+04.12.2018,2019,Bournemouth,Huddersfield,2,1
+04.12.2018,2019,Brighton,Crystal Palace,3,1
+04.12.2018,2019,Watford,Manchester City,1,2
+04.12.2018,2019,West Ham,Cardiff,3,1
+02.12.2018,2019,Arsenal,Tottenham,4,2
+02.12.2018,2019,Chelsea,Fulham,2,0
+02.12.2018,2019,Liverpool,Everton,1,0
+01.12.2018,2019,Crystal Palace,Burnley,2,0
+01.12.2018,2019,Huddersfield,Brighton,1,2
+01.12.2018,2019,Leicester,Watford,2,0
+01.12.2018,2019,Manchester City,Bournemouth,3,1
+01.12.2018,2019,Newcastle,West Ham,0,3
+01.12.2018,2019,Southampton,Manchester Utd,2,2
+30.11.2018,2019,Cardiff,Wolves,2,1
+26.11.2018,2019,Burnley,Newcastle,1,2
+25.11.2018,2019,Bournemouth,Arsenal,1,2
+25.11.2018,2019,Wolves,Huddersfield,0,2
+24.11.2018,2019,Brighton,Leicester,1,1
+24.11.2018,2019,Everton,Cardiff,1,0
+24.11.2018,2019,Fulham,Southampton,3,2
+24.11.2018,2019,Manchester Utd,Crystal Palace,0,0
+24.11.2018,2019,Tottenham,Chelsea,3,1
+24.11.2018,2019,Watford,Liverpool,0,3
+24.11.2018,2019,West Ham,Manchester City,0,4
+11.11.2018,2019,Arsenal,Wolves,1,1
+11.11.2018,2019,Chelsea,Everton,0,0
+11.11.2018,2019,Liverpool,Fulham,2,0
+11.11.2018,2019,Manchester City,Manchester Utd,3,1
+10.11.2018,2019,Cardiff,Brighton,2,1
+10.11.2018,2019,Crystal Palace,Tottenham,0,1
+10.11.2018,2019,Huddersfield,West Ham,1,1
+10.11.2018,2019,Leicester,Burnley,0,0
+10.11.2018,2019,Newcastle,Bournemouth,2,1
+10.11.2018,2019,Southampton,Watford,1,1
+05.11.2018,2019,Huddersfield,Fulham,1,0
+04.11.2018,2019,Chelsea,Crystal Palace,3,1
+04.11.2018,2019,Manchester City,Southampton,6,1
+03.11.2018,2019,Arsenal,Liverpool,1,1
+03.11.2018,2019,Bournemouth,Manchester Utd,1,2
+03.11.2018,2019,Cardiff,Leicester,0,1
+03.11.2018,2019,Everton,Brighton,3,1
+03.11.2018,2019,Newcastle,Watford,1,0
+03.11.2018,2019,West Ham,Burnley,4,2
+03.11.2018,2019,Wolves,Tottenham,2,3
+29.10.2018,2019,Tottenham,Manchester City,0,1
+28.10.2018,2019,Burnley,Chelsea,0,4
+28.10.2018,2019,Crystal Palace,Arsenal,2,2
+28.10.2018,2019,Manchester Utd,Everton,2,1
+27.10.2018,2019,Brighton,Wolves,1,0
+27.10.2018,2019,Fulham,Bournemouth,0,3
+27.10.2018,2019,Leicester,West Ham,1,1
+27.10.2018,2019,Liverpool,Cardiff,4,1
+27.10.2018,2019,Southampton,Newcastle,0,0
+27.10.2018,2019,Watford,Huddersfield,3,0
+22.10.2018,2019,Arsenal,Leicester,3,1
+21.10.2018,2019,Everton,Crystal Palace,2,0
+20.10.2018,2019,Bournemouth,Southampton,0,0
+20.10.2018,2019,Cardiff,Fulham,4,2
+20.10.2018,2019,Chelsea,Manchester Utd,2,2
+20.10.2018,2019,Huddersfield,Liverpool,0,1
+20.10.2018,2019,Manchester City,Burnley,5,0
+20.10.2018,2019,Newcastle,Brighton,0,1
+20.10.2018,2019,West Ham,Tottenham,0,1
+20.10.2018,2019,Wolves,Watford,0,2
+07.10.2018,2019,Fulham,Arsenal,1,5
+07.10.2018,2019,Liverpool,Manchester City,0,0
+07.10.2018,2019,Southampton,Chelsea,0,3
+06.10.2018,2019,Burnley,Huddersfield,1,1
+06.10.2018,2019,Crystal Palace,Wolves,0,1
+06.10.2018,2019,Leicester,Everton,1,2
+06.10.2018,2019,Manchester Utd,Newcastle,3,2
+06.10.2018,2019,Tottenham,Cardiff,1,0
+06.10.2018,2019,Watford,Bournemouth,0,4
+05.10.2018,2019,Brighton,West Ham,1,0
+01.10.2018,2019,Bournemouth,Crystal Palace,2,1
+30.09.2018,2019,Cardiff,Burnley,1,2
+29.09.2018,2019,Arsenal,Watford,2,0
+29.09.2018,2019,Chelsea,Liverpool,1,1
+29.09.2018,2019,Everton,Fulham,3,0
+29.09.2018,2019,Huddersfield,Tottenham,0,2
+29.09.2018,2019,Manchester City,Brighton,2,0
+29.09.2018,2019,Newcastle,Leicester,0,2
+29.09.2018,2019,West Ham,Manchester Utd,3,1
+29.09.2018,2019,Wolves,Southampton,2,0
+23.09.2018,2019,Arsenal,Everton,2,0
+23.09.2018,2019,West Ham,Chelsea,0,0
+22.09.2018,2019,Brighton,Tottenham,1,2
+22.09.2018,2019,Burnley,Bournemouth,4,0
+22.09.2018,2019,Cardiff,Manchester City,0,5
+22.09.2018,2019,Crystal Palace,Newcastle,0,0
+22.09.2018,2019,Fulham,Watford,1,1
+22.09.2018,2019,Leicester,Huddersfield,3,1
+22.09.2018,2019,Liverpool,Southampton,3,0
+22.09.2018,2019,Manchester Utd,Wolves,1,1
+17.09.2018,2019,Southampton,Brighton,2,2
+16.09.2018,2019,Everton,West Ham,1,3
+16.09.2018,2019,Wolves,Burnley,1,0
+15.09.2018,2019,Bournemouth,Leicester,4,2
+15.09.2018,2019,Chelsea,Cardiff,4,1
+15.09.2018,2019,Huddersfield,Crystal Palace,0,1
+15.09.2018,2019,Manchester City,Fulham,3,0
+15.09.2018,2019,Newcastle,Arsenal,1,2
+15.09.2018,2019,Tottenham,Liverpool,1,2
+15.09.2018,2019,Watford,Manchester Utd,1,2
+02.09.2018,2019,Burnley,Manchester Utd,0,2
+02.09.2018,2019,Cardiff,Arsenal,2,3
+02.09.2018,2019,Watford,Tottenham,2,1
+01.09.2018,2019,Brighton,Fulham,2,2
+01.09.2018,2019,Chelsea,Bournemouth,2,0
+01.09.2018,2019,Crystal Palace,Southampton,0,2
+01.09.2018,2019,Everton,Huddersfield,1,1
+01.09.2018,2019,Leicester,Liverpool,1,2
+01.09.2018,2019,Manchester City,Newcastle,2,1
+01.09.2018,2019,West Ham,Wolves,0,1
+27.08.2018,2019,Manchester Utd,Tottenham,0,3
+26.08.2018,2019,Fulham,Burnley,4,2
+26.08.2018,2019,Newcastle,Chelsea,1,2
+26.08.2018,2019,Watford,Crystal Palace,2,1
+25.08.2018,2019,Arsenal,West Ham,3,1
+25.08.2018,2019,Bournemouth,Everton,2,2
+25.08.2018,2019,Huddersfield,Cardiff,0,0
+25.08.2018,2019,Liverpool,Brighton,1,0
+25.08.2018,2019,Southampton,Leicester,1,2
+25.08.2018,2019,Wolves,Manchester City,1,1
+20.08.2018,2019,Crystal Palace,Liverpool,0,2
+19.08.2018,2019,Brighton,Manchester Utd,3,2
+19.08.2018,2019,Burnley,Watford,1,3
+19.08.2018,2019,Manchester City,Huddersfield,6,1
+18.08.2018,2019,Cardiff,Newcastle,0,0
+18.08.2018,2019,Chelsea,Arsenal,3,2
+18.08.2018,2019,Everton,Southampton,2,1
+18.08.2018,2019,Leicester,Wolves,2,0
+18.08.2018,2019,Tottenham,Fulham,3,1
+18.08.2018,2019,West Ham,Bournemouth,1,2
+12.08.2018,2019,Arsenal,Manchester City,0,2
+12.08.2018,2019,Liverpool,West Ham,4,0
+12.08.2018,2019,Southampton,Burnley,0,0
+11.08.2018,2019,Bournemouth,Cardiff,2,0
+11.08.2018,2019,Fulham,Crystal Palace,0,2
+11.08.2018,2019,Huddersfield,Chelsea,0,3
+11.08.2018,2019,Newcastle,Tottenham,1,2
+11.08.2018,2019,Watford,Brighton,2,0
+11.08.2018,2019,Wolves,Everton,2,2
+10.08.2018,2019,Manchester Utd,Leicester,2,1

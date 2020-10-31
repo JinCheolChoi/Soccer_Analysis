@@ -1,0 +1,32 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-10-04 09:06:53"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 1 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], calculate kelly scores"
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League   Home_Team Away_Team
+1: 2020-10-04 premier-league Aston Villa Liverpool
+                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10203967/aston-villa-fc-v-liverpool-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:        0         0     1.14      5.25     1.47      2.55
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.2      1.62      3.6      1.25      6.5       1.1
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N
+1:     Under 1.5        5.25                    0.2569113 19
+   Chosen_Option_Std    Kelly         Record_Time
+1:         0.1002386 6.201621 2020-10-04 09:07:42
+[1] "Country : [england], League : [premier-league], Progress : 1 out of 1"
+[1] "Added game"
+         Date   Home_Team Away_Team
+1: 2020-10-04 Aston Villa Liverpool
+[1] ""
+[1] ""

@@ -1,0 +1,381 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+18.04.2008,2007,Apeldoorn,Almere City,5,1
+18.04.2008,2007,Den Haag,FC Volendam,0,1
+18.04.2008,2007,Dordrecht,Den Bosch,1,0
+18.04.2008,2007,FC Emmen,Veendam,3,2
+18.04.2008,2007,G.A. Eagles,Haarlem,3,3
+18.04.2008,2007,Helmond,Zwolle,0,2
+18.04.2008,2007,Maastricht,Cambuur,2,2
+18.04.2008,2007,Oss,Eindhoven FC,3,1
+18.04.2008,2007,Telstar,Roosendaal,2,1
+18.04.2008,2007,Waalwijk,Sittard,2,1
+11.04.2008,2007,Almere City,G.A. Eagles,0,4
+11.04.2008,2007,Cambuur,Helmond,5,1
+11.04.2008,2007,Den Bosch,Telstar,3,0
+11.04.2008,2007,Eindhoven FC,Apeldoorn,4,1
+11.04.2008,2007,FC Volendam,Dordrecht,2,0
+11.04.2008,2007,Haarlem,Maastricht,0,0
+11.04.2008,2007,Roosendaal,Oss,0,1
+11.04.2008,2007,Sittard,Den Haag,2,2
+11.04.2008,2007,Veendam,Waalwijk,0,1
+11.04.2008,2007,Zwolle,FC Emmen,1,1
+04.04.2008,2007,Apeldoorn,FC Volendam,3,6
+04.04.2008,2007,Cambuur,Den Haag,2,1
+04.04.2008,2007,Den Bosch,Roosendaal,2,0
+04.04.2008,2007,FC Emmen,Dordrecht,1,0
+04.04.2008,2007,G.A. Eagles,Veendam,0,1
+04.04.2008,2007,Helmond,Sittard,1,1
+04.04.2008,2007,Maastricht,Eindhoven FC,4,1
+04.04.2008,2007,Oss,Haarlem,4,1
+04.04.2008,2007,Telstar,Almere City,0,1
+04.04.2008,2007,Waalwijk,Zwolle,2,0
+30.03.2008,2007,Telstar,G.A. Eagles,1,2
+28.03.2008,2007,Almere City,Maastricht,1,1
+28.03.2008,2007,Den Haag,Waalwijk,0,1
+28.03.2008,2007,Dordrecht,Helmond,0,1
+28.03.2008,2007,Eindhoven FC,FC Emmen,2,3
+28.03.2008,2007,Haarlem,Den Bosch,0,2
+28.03.2008,2007,Roosendaal,Apeldoorn,2,1
+28.03.2008,2007,Sittard,Cambuur,2,0
+28.03.2008,2007,Veendam,Oss,0,2
+28.03.2008,2007,Zwolle,FC Volendam,1,2
+24.03.2008,2007,Haarlem,Telstar,0,1
+23.03.2008,2007,Apeldoorn,G.A. Eagles,2,0
+21.03.2008,2007,Almere City,Eindhoven FC,3,1
+21.03.2008,2007,Cambuur,Den Bosch,0,2
+21.03.2008,2007,Den Haag,Haarlem,2,1
+21.03.2008,2007,FC Volendam,Oss,3,0
+21.03.2008,2007,Helmond,Waalwijk,3,3
+21.03.2008,2007,Maastricht,FC Emmen,5,1
+21.03.2008,2007,Roosendaal,Dordrecht,1,2
+21.03.2008,2007,Veendam,Sittard,3,1
+21.03.2008,2007,Zwolle,Telstar,1,0
+16.03.2008,2007,FC Emmen,Den Haag,1,2
+14.03.2008,2007,Den Bosch,Zwolle,0,0
+14.03.2008,2007,Dordrecht,Telstar,1,0
+14.03.2008,2007,Eindhoven FC,Veendam,0,1
+14.03.2008,2007,FC Volendam,Cambuur,3,0
+14.03.2008,2007,G.A. Eagles,Roosendaal,1,2
+14.03.2008,2007,Haarlem,Helmond,0,1
+14.03.2008,2007,Oss,Almere City,1,2
+14.03.2008,2007,Sittard,Maastricht,0,7
+14.03.2008,2007,Waalwijk,Apeldoorn,3,0
+10.03.2008,2007,Almere City,Haarlem,2,0
+10.03.2008,2007,Apeldoorn,Dordrecht,3,2
+10.03.2008,2007,Cambuur,FC Emmen,0,1
+10.03.2008,2007,Eindhoven FC,Den Haag,0,0
+10.03.2008,2007,Maastricht,Helmond,0,1
+10.03.2008,2007,Oss,G.A. Eagles,1,0
+10.03.2008,2007,Roosendaal,FC Volendam,1,2
+10.03.2008,2007,Telstar,Waalwijk,2,0
+10.03.2008,2007,Veendam,Den Bosch,0,3
+10.03.2008,2007,Zwolle,Sittard,2,3
+07.03.2008,2007,Den Bosch,Maastricht,1,1
+07.03.2008,2007,Den Haag,Apeldoorn,3,0
+07.03.2008,2007,Dordrecht,Zwolle,1,1
+07.03.2008,2007,FC Emmen,Roosendaal,1,2
+07.03.2008,2007,FC Volendam,Almere City,3,0
+07.03.2008,2007,G.A. Eagles,Eindhoven FC,1,1
+07.03.2008,2007,Haarlem,Cambuur,0,1
+07.03.2008,2007,Helmond,Veendam,1,2
+07.03.2008,2007,Sittard,Telstar,0,3
+07.03.2008,2007,Waalwijk,Oss,3,0
+02.03.2008,2007,Eindhoven FC,Zwolle,1,2
+29.02.2008,2007,Almere City,Den Bosch,1,0
+29.02.2008,2007,Apeldoorn,FC Emmen,4,5
+29.02.2008,2007,Cambuur,Waalwijk,2,0
+29.02.2008,2007,FC Volendam,Sittard,2,3
+29.02.2008,2007,G.A. Eagles,Helmond,1,2
+29.02.2008,2007,Maastricht,Veendam,1,1
+29.02.2008,2007,Oss,Dordrecht,1,1
+29.02.2008,2007,Roosendaal,Den Haag,0,1
+22.02.2008,2007,Den Bosch,G.A. Eagles,3,1
+22.02.2008,2007,Den Haag,Almere City,1,1
+22.02.2008,2007,Dordrecht,Haarlem,1,1
+22.02.2008,2007,FC Emmen,Oss,2,1
+22.02.2008,2007,Helmond,Roosendaal,2,0
+22.02.2008,2007,Sittard,Eindhoven FC,3,0
+22.02.2008,2007,Telstar,Apeldoorn,4,4
+22.02.2008,2007,Veendam,Cambuur,4,4
+22.02.2008,2007,Waalwijk,FC Volendam,2,3
+22.02.2008,2007,Zwolle,Maastricht,7,0
+18.02.2008,2007,Den Bosch,Oss,1,1
+17.02.2008,2007,G.A. Eagles,Den Haag,1,2
+17.02.2008,2007,Haarlem,FC Volendam,2,2
+15.02.2008,2007,Almere City,Sittard,1,1
+15.02.2008,2007,Apeldoorn,Veendam,5,0
+15.02.2008,2007,Eindhoven FC,Cambuur,2,1
+15.02.2008,2007,FC Emmen,Den Bosch,0,3
+15.02.2008,2007,Maastricht,Roosendaal,1,1
+15.02.2008,2007,Oss,Zwolle,2,4
+15.02.2008,2007,Telstar,Helmond,2,0
+15.02.2008,2007,Waalwijk,Dordrecht,4,1
+10.02.2008,2007,Zwolle,G.A. Eagles,1,0
+08.02.2008,2007,Cambuur,Oss,1,2
+08.02.2008,2007,Den Bosch,Waalwijk,1,1
+08.02.2008,2007,Den Haag,Telstar,3,0
+08.02.2008,2007,Dordrecht,Eindhoven FC,1,1
+08.02.2008,2007,FC Volendam,Maastricht,1,0
+08.02.2008,2007,Helmond,Apeldoorn,5,0
+08.02.2008,2007,Roosendaal,Haarlem,1,1
+08.02.2008,2007,Sittard,FC Emmen,3,3
+08.02.2008,2007,Veendam,Almere City,1,1
+03.02.2008,2007,Den Haag,Den Bosch,0,1
+01.02.2008,2007,Almere City,Helmond,3,1
+01.02.2008,2007,Cambuur,Zwolle,1,1
+01.02.2008,2007,Dordrecht,Sittard,1,0
+01.02.2008,2007,Eindhoven FC,Roosendaal,1,2
+01.02.2008,2007,FC Emmen,FC Volendam,2,2
+01.02.2008,2007,G.A. Eagles,Maastricht,2,1
+01.02.2008,2007,Oss,Apeldoorn,2,0
+01.02.2008,2007,Telstar,Veendam,2,1
+01.02.2008,2007,Waalwijk,Haarlem,2,0
+27.01.2008,2007,FC Volendam,Telstar,2,0
+25.01.2008,2007,Apeldoorn,Cambuur,2,2
+25.01.2008,2007,Haarlem,FC Emmen,1,2
+25.01.2008,2007,Helmond,Eindhoven FC,4,1
+25.01.2008,2007,Maastricht,Dordrecht,3,2
+25.01.2008,2007,Roosendaal,Waalwijk,0,4
+25.01.2008,2007,Sittard,G.A. Eagles,2,2
+25.01.2008,2007,Veendam,Den Haag,3,3
+25.01.2008,2007,Zwolle,Almere City,1,1
+23.01.2008,2007,Den Bosch,FC Volendam,1,1
+20.01.2008,2007,Den Bosch,Helmond,0,2
+18.01.2008,2007,Almere City,FC Emmen,4,1
+18.01.2008,2007,Apeldoorn,Sittard,2,3
+18.01.2008,2007,Den Haag,Dordrecht,2,1
+18.01.2008,2007,Eindhoven FC,Haarlem,2,2
+18.01.2008,2007,G.A. Eagles,FC Volendam,1,2
+18.01.2008,2007,Maastricht,Waalwijk,1,1
+18.01.2008,2007,Roosendaal,Cambuur,1,0
+18.01.2008,2007,Telstar,Oss,1,1
+18.01.2008,2007,Veendam,Zwolle,2,2
+14.01.2008,2007,Telstar,Maastricht,0,3
+14.01.2008,2007,Veendam,Roosendaal,0,0
+11.01.2008,2007,Cambuur,Almere City,1,0
+11.01.2008,2007,Dordrecht,Veendam,2,2
+11.01.2008,2007,FC Emmen,Telstar,1,1
+11.01.2008,2007,FC Volendam,Eindhoven FC,6,2
+11.01.2008,2007,Haarlem,Apeldoorn,2,1
+11.01.2008,2007,Helmond,Den Haag,2,0
+11.01.2008,2007,Oss,Maastricht,4,1
+11.01.2008,2007,Sittard,Den Bosch,0,1
+11.01.2008,2007,Waalwijk,G.A. Eagles,7,2
+11.01.2008,2007,Zwolle,Roosendaal,1,1
+23.12.2007,2007,Waalwijk,Eindhoven FC,1,0
+21.12.2007,2007,Almere City,Dordrecht,1,0
+21.12.2007,2007,Apeldoorn,Zwolle,0,1
+21.12.2007,2007,Den Haag,Oss,5,1
+21.12.2007,2007,G.A. Eagles,Cambuur,3,1
+21.12.2007,2007,Helmond,FC Emmen,0,3
+21.12.2007,2007,Sittard,Haarlem,1,0
+16.12.2007,2007,Zwolle,Den Haag,2,1
+15.12.2007,2007,Eindhoven FC,Den Bosch,1,0
+14.12.2007,2007,Cambuur,Telstar,0,1
+14.12.2007,2007,Dordrecht,G.A. Eagles,5,0
+14.12.2007,2007,FC Emmen,Waalwijk,1,2
+14.12.2007,2007,FC Volendam,Helmond,4,0
+14.12.2007,2007,Haarlem,Veendam,3,1
+14.12.2007,2007,Maastricht,Apeldoorn,2,3
+14.12.2007,2007,Oss,Sittard,2,0
+14.12.2007,2007,Roosendaal,Almere City,2,1
+09.12.2007,2007,Helmond,Oss,0,1
+07.12.2007,2007,Den Bosch,Apeldoorn,3,1
+07.12.2007,2007,Den Haag,Maastricht,0,3
+07.12.2007,2007,Dordrecht,Cambuur,2,3
+07.12.2007,2007,FC Emmen,G.A. Eagles,3,1
+07.12.2007,2007,Sittard,Roosendaal,0,0
+07.12.2007,2007,Telstar,Eindhoven FC,2,0
+07.12.2007,2007,Veendam,FC Volendam,3,3
+07.12.2007,2007,Waalwijk,Almere City,1,1
+07.12.2007,2007,Zwolle,Haarlem,3,0
+02.12.2007,2007,Almere City,Den Haag,4,0
+30.11.2007,2007,Apeldoorn,Telstar,0,1
+30.11.2007,2007,Cambuur,Veendam,1,1
+30.11.2007,2007,Eindhoven FC,Sittard,1,0
+30.11.2007,2007,FC Volendam,Waalwijk,1,1
+30.11.2007,2007,G.A. Eagles,Den Bosch,2,3
+30.11.2007,2007,Haarlem,Dordrecht,1,1
+30.11.2007,2007,Maastricht,Zwolle,4,1
+30.11.2007,2007,Oss,FC Emmen,4,4
+30.11.2007,2007,Roosendaal,Helmond,1,4
+23.11.2007,2007,Den Bosch,Veendam,4,0
+23.11.2007,2007,Den Haag,Eindhoven FC,5,2
+23.11.2007,2007,Dordrecht,Apeldoorn,1,1
+23.11.2007,2007,FC Emmen,Cambuur,2,0
+23.11.2007,2007,FC Volendam,Roosendaal,1,1
+23.11.2007,2007,G.A. Eagles,Oss,2,0
+23.11.2007,2007,Haarlem,Almere City,2,2
+23.11.2007,2007,Helmond,Maastricht,2,2
+23.11.2007,2007,Sittard,Zwolle,0,3
+23.11.2007,2007,Waalwijk,Telstar,1,2
+18.11.2007,2007,Apeldoorn,Den Haag,1,1
+16.11.2007,2007,Almere City,FC Volendam,1,1
+16.11.2007,2007,Cambuur,Haarlem,1,3
+16.11.2007,2007,Eindhoven FC,G.A. Eagles,2,0
+16.11.2007,2007,Maastricht,Den Bosch,2,1
+16.11.2007,2007,Oss,Waalwijk,2,2
+16.11.2007,2007,Roosendaal,FC Emmen,4,0
+16.11.2007,2007,Telstar,Sittard,4,1
+16.11.2007,2007,Veendam,Helmond,0,1
+16.11.2007,2007,Zwolle,Dordrecht,1,1
+11.11.2007,2007,Den Bosch,Den Haag,0,2
+09.11.2007,2007,Apeldoorn,Oss,1,4
+09.11.2007,2007,FC Volendam,FC Emmen,5,1
+09.11.2007,2007,Haarlem,Waalwijk,2,2
+09.11.2007,2007,Helmond,Almere City,2,1
+09.11.2007,2007,Maastricht,G.A. Eagles,0,1
+09.11.2007,2007,Roosendaal,Eindhoven FC,3,0
+09.11.2007,2007,Sittard,Dordrecht,2,5
+09.11.2007,2007,Veendam,Telstar,2,0
+09.11.2007,2007,Zwolle,Cambuur,4,1
+04.11.2007,2007,Den Haag,Veendam,0,0
+04.11.2007,2007,Oss,Den Bosch,2,1
+04.11.2007,2007,Waalwijk,Roosendaal,2,0
+02.11.2007,2007,Almere City,Zwolle,1,3
+02.11.2007,2007,Cambuur,Apeldoorn,0,1
+02.11.2007,2007,Dordrecht,Maastricht,1,2
+02.11.2007,2007,Eindhoven FC,Helmond,3,0
+02.11.2007,2007,FC Emmen,Haarlem,3,0
+02.11.2007,2007,G.A. Eagles,Sittard,2,1
+02.11.2007,2007,Telstar,FC Volendam,2,3
+28.10.2007,2007,FC Volendam,Den Haag,2,2
+26.10.2007,2007,Almere City,Apeldoorn,5,0
+26.10.2007,2007,Cambuur,Maastricht,0,1
+26.10.2007,2007,Den Bosch,Dordrecht,2,1
+26.10.2007,2007,Eindhoven FC,Oss,4,2
+26.10.2007,2007,Haarlem,G.A. Eagles,0,1
+26.10.2007,2007,Roosendaal,Telstar,2,0
+26.10.2007,2007,Sittard,Waalwijk,1,1
+26.10.2007,2007,Veendam,FC Emmen,3,1
+26.10.2007,2007,Zwolle,Helmond,1,1
+19.10.2007,2007,Apeldoorn,Eindhoven FC,2,0
+19.10.2007,2007,Den Haag,Sittard,3,0
+19.10.2007,2007,Dordrecht,FC Volendam,1,1
+19.10.2007,2007,FC Emmen,Zwolle,0,1
+19.10.2007,2007,G.A. Eagles,Almere City,1,0
+19.10.2007,2007,Helmond,Cambuur,1,1
+19.10.2007,2007,Maastricht,Haarlem,2,0
+19.10.2007,2007,Oss,Roosendaal,3,3
+19.10.2007,2007,Telstar,Den Bosch,0,1
+19.10.2007,2007,Waalwijk,Veendam,5,2
+12.10.2007,2007,Cambuur,G.A. Eagles,0,2
+12.10.2007,2007,Dordrecht,Almere City,3,3
+12.10.2007,2007,Eindhoven FC,Waalwijk,1,4
+12.10.2007,2007,FC Emmen,Helmond,2,1
+12.10.2007,2007,FC Volendam,Den Bosch,4,1
+12.10.2007,2007,Haarlem,Sittard,1,2
+12.10.2007,2007,Maastricht,Telstar,2,1
+12.10.2007,2007,Oss,Den Haag,1,3
+12.10.2007,2007,Roosendaal,Veendam,4,1
+12.10.2007,2007,Zwolle,Apeldoorn,5,0
+05.10.2007,2007,Almere City,Roosendaal,2,3
+05.10.2007,2007,Apeldoorn,Maastricht,4,1
+05.10.2007,2007,Den Bosch,Eindhoven FC,2,0
+05.10.2007,2007,Den Haag,Zwolle,3,1
+05.10.2007,2007,G.A. Eagles,Dordrecht,1,2
+05.10.2007,2007,Helmond,FC Volendam,2,1
+05.10.2007,2007,Sittard,Oss,0,1
+05.10.2007,2007,Telstar,Cambuur,1,2
+05.10.2007,2007,Veendam,Haarlem,1,1
+05.10.2007,2007,Waalwijk,FC Emmen,3,1
+30.09.2007,2007,G.A. Eagles,Zwolle,3,1
+30.09.2007,2007,Oss,Cambuur,3,2
+30.09.2007,2007,Telstar,Den Haag,1,2
+30.09.2007,2007,Waalwijk,Den Bosch,3,2
+28.09.2007,2007,Almere City,Veendam,0,0
+28.09.2007,2007,Apeldoorn,Helmond,3,1
+28.09.2007,2007,Eindhoven FC,Dordrecht,1,3
+28.09.2007,2007,FC Emmen,Sittard,1,1
+28.09.2007,2007,Haarlem,Roosendaal,1,1
+28.09.2007,2007,Maastricht,FC Volendam,2,0
+21.09.2007,2007,Cambuur,Eindhoven FC,1,1
+21.09.2007,2007,Den Bosch,FC Emmen,1,1
+21.09.2007,2007,Den Haag,G.A. Eagles,1,2
+21.09.2007,2007,Dordrecht,Waalwijk,0,1
+21.09.2007,2007,FC Volendam,Haarlem,1,0
+21.09.2007,2007,Helmond,Telstar,2,1
+21.09.2007,2007,Roosendaal,Maastricht,1,2
+21.09.2007,2007,Sittard,Almere City,3,1
+21.09.2007,2007,Veendam,Apeldoorn,5,1
+21.09.2007,2007,Zwolle,Oss,1,0
+17.09.2007,2007,Almere City,Cambuur,1,2
+17.09.2007,2007,Apeldoorn,Haarlem,4,3
+17.09.2007,2007,Den Bosch,Sittard,1,1
+17.09.2007,2007,Den Haag,Helmond,2,0
+17.09.2007,2007,Eindhoven FC,FC Volendam,2,6
+17.09.2007,2007,G.A. Eagles,Waalwijk,2,0
+17.09.2007,2007,Maastricht,Oss,2,2
+17.09.2007,2007,Roosendaal,Zwolle,2,1
+17.09.2007,2007,Telstar,FC Emmen,0,1
+17.09.2007,2007,Veendam,Dordrecht,2,1
+14.09.2007,2007,Cambuur,Roosendaal,2,2
+14.09.2007,2007,Dordrecht,Den Haag,5,0
+14.09.2007,2007,FC Emmen,Almere City,0,0
+14.09.2007,2007,FC Volendam,G.A. Eagles,5,1
+14.09.2007,2007,Haarlem,Eindhoven FC,3,1
+14.09.2007,2007,Helmond,Den Bosch,0,1
+14.09.2007,2007,Oss,Telstar,1,0
+14.09.2007,2007,Sittard,Apeldoorn,5,2
+14.09.2007,2007,Waalwijk,Maastricht,1,0
+14.09.2007,2007,Zwolle,Veendam,3,1
+07.09.2007,2007,Almere City,Oss,4,0
+07.09.2007,2007,Apeldoorn,Waalwijk,2,6
+07.09.2007,2007,Cambuur,FC Volendam,2,1
+07.09.2007,2007,Den Haag,FC Emmen,2,2
+07.09.2007,2007,Helmond,Haarlem,1,1
+07.09.2007,2007,Maastricht,Sittard,4,1
+07.09.2007,2007,Roosendaal,G.A. Eagles,0,2
+07.09.2007,2007,Telstar,Dordrecht,1,4
+07.09.2007,2007,Veendam,Eindhoven FC,4,1
+07.09.2007,2007,Zwolle,Den Bosch,4,1
+02.09.2007,2007,Haarlem,Den Haag,2,0
+31.08.2007,2007,Den Bosch,Cambuur,4,2
+31.08.2007,2007,Dordrecht,Roosendaal,1,0
+31.08.2007,2007,Eindhoven FC,Almere City,2,2
+31.08.2007,2007,FC Emmen,Maastricht,1,1
+31.08.2007,2007,G.A. Eagles,Apeldoorn,4,0
+31.08.2007,2007,Oss,FC Volendam,0,2
+31.08.2007,2007,Sittard,Veendam,2,0
+31.08.2007,2007,Telstar,Zwolle,0,1
+31.08.2007,2007,Waalwijk,Helmond,2,1
+27.08.2007,2007,Almere City,Telstar,1,2
+27.08.2007,2007,Den Haag,Cambuur,1,0
+27.08.2007,2007,Dordrecht,FC Emmen,2,1
+27.08.2007,2007,Eindhoven FC,Maastricht,3,1
+27.08.2007,2007,FC Volendam,Apeldoorn,1,2
+27.08.2007,2007,Haarlem,Oss,0,0
+27.08.2007,2007,Roosendaal,Den Bosch,0,1
+27.08.2007,2007,Sittard,Helmond,0,1
+27.08.2007,2007,Veendam,G.A. Eagles,4,2
+27.08.2007,2007,Zwolle,Waalwijk,0,0
+24.08.2007,2007,Apeldoorn,Roosendaal,2,1
+24.08.2007,2007,Cambuur,Sittard,2,2
+24.08.2007,2007,Den Bosch,Haarlem,3,1
+24.08.2007,2007,FC Emmen,Eindhoven FC,2,1
+24.08.2007,2007,FC Volendam,Zwolle,2,2
+24.08.2007,2007,G.A. Eagles,Telstar,1,2
+24.08.2007,2007,Helmond,Dordrecht,2,1
+24.08.2007,2007,Maastricht,Almere City,0,0
+24.08.2007,2007,Oss,Veendam,1,2
+24.08.2007,2007,Waalwijk,Den Haag,2,2
+19.08.2007,2007,Den Haag,Roosendaal,0,0
+19.08.2007,2007,Helmond,G.A. Eagles,3,0
+19.08.2007,2007,Telstar,Haarlem,1,0
+17.08.2007,2007,Den Bosch,Almere City,4,1
+17.08.2007,2007,Dordrecht,Oss,1,1
+17.08.2007,2007,FC Emmen,Apeldoorn,3,3
+17.08.2007,2007,Sittard,FC Volendam,0,1
+17.08.2007,2007,Veendam,Maastricht,0,0
+17.08.2007,2007,Waalwijk,Cambuur,6,3
+17.08.2007,2007,Zwolle,Eindhoven FC,3,3
+10.08.2007,2007,Almere City,Waalwijk,2,2
+10.08.2007,2007,Apeldoorn,Den Bosch,0,1
+10.08.2007,2007,Cambuur,Dordrecht,2,1
+10.08.2007,2007,Eindhoven FC,Telstar,0,0
+10.08.2007,2007,FC Volendam,Veendam,2,2
+10.08.2007,2007,G.A. Eagles,FC Emmen,6,0
+10.08.2007,2007,Haarlem,Zwolle,1,1
+10.08.2007,2007,Maastricht,Den Haag,2,1
+10.08.2007,2007,Oss,Helmond,1,1
+10.08.2007,2007,Roosendaal,Sittard,1,0

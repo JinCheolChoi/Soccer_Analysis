@@ -1,0 +1,949 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-10-19 08:03:47"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 0 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-10-19 08:04:14"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], 7 new game(s) found to add."
+[1] "Country : [england], League : [championship], calculate kelly scores"
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League    Home_Team     Away_Team
+1: 2020-10-20 championship Bristol City Middlesbrough
+                                                                                    URL
+1: https://www.playnow.com/sports/sports/event/10214362/bristol-city-v-middlesbrough-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.07       8.5     1.38       2.8      2.2       1.6
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.9      1.22        7      1.06        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5         8.5                            0 7
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 3.586207 2020-10-19 08:05:14
+[1] "Country : [england], League : [championship], Progress : 1 out of 7"
+[1] "Added game"
+         Date    Home_Team     Away_Team
+1: 2020-10-20 Bristol City Middlesbrough
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League Home_Team Away_Team
+1: 2020-10-20 championship  Coventry   Swansea
+                                                                                 URL
+1: https://www.playnow.com/sports/sports/event/10214357/coventry-city-v-swansea-city
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.06         9     1.33         3     2.05      1.67
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.6      1.25      6.5      1.07        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5           9                            0 3
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 4.333333 2020-10-19 08:05:41
+[1] "Country : [england], League : [championship], Progress : 2 out of 7"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20  Coventry   Swansea
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League    Home_Team Away_Team
+1: 2020-10-20 championship Huddersfield     Derby
+                                                                                     URL
+1: https://www.playnow.com/sports/sports/event/10214358/huddersfield-town-v-derby-county
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.07       8.5     1.36       2.9     2.15      1.62
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     3.75      1.22        7      1.07        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5         8.5                            0 6
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 3.586207 2020-10-19 08:06:01
+[1] "Country : [england], League : [championship], Progress : 3 out of 7"
+[1] "Added game"
+         Date    Home_Team Away_Team
+1: 2020-10-20 Huddersfield     Derby
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League Home_Team Away_Team
+1: 2020-10-20 championship  Millwall     Luton
+                                                                             URL
+1: https://www.playnow.com/sports/sports/event/10214356/millwall-fc-v-luton-town
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.07         9     1.36       2.9     2.15      1.62
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     3.75      1.22        7      1.07        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5           9                            0 2
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 4.333333 2020-10-19 08:06:22
+[1] "Country : [england], League : [championship], Progress : 4 out of 7"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20  Millwall     Luton
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League Home_Team  Away_Team
+1: 2020-10-20 championship   Norwich Birmingham
+                                                                                      URL
+1: https://www.playnow.com/sports/sports/event/10214360/norwich-city-fc-v-birmingham-city
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.05        10      1.3       3.2        2      1.75
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.4      1.28        6      1.09        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N
+1:     Under 0.5          10                            0 10
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 7.428571 2020-10-19 08:06:45
+[1] "Country : [england], League : [championship], Progress : 5 out of 7"
+[1] "Added game"
+         Date Home_Team  Away_Team
+1: 2020-10-20   Norwich Birmingham
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League  Home_Team Away_Team
+1: 2020-10-20 championship Nottingham Rotherham
+                                                                                         URL
+1: https://www.playnow.com/sports/sports/event/10214353/nottingham-forest-v-rotherham-united
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.06        10     1.33         3     2.05       1.7
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.6      1.25      6.5      1.08        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5          10                            0 8
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 7.428571 2020-10-19 08:07:05
+[1] "Country : [england], League : [championship], Progress : 6 out of 7"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-10-20 Nottingham Rotherham
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League Home_Team Away_Team
+1: 2020-10-20 championship   Reading   Wycombe
+                                                                                   URL
+1: https://www.playnow.com/sports/sports/event/10214354/reading-fc-v-wycombe-wanderers
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        11     1.28       3.4     1.87      1.83
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.2       1.3     5.75      1.11        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5          11                          NaN 0
+   Chosen_Option_Std Kelly         Record_Time
+1:               NaN    26 2020-10-19 08:07:27
+[1] "Country : [england], League : [championship], Progress : 7 out of 7"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20   Reading   Wycombe
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2020-10-19 08:07:27"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], 12 new game(s) found to add."
+[1] "Country : [england], League : [league-one], calculate kelly scores"
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League  Home_Team      Away_Team
+1: 2020-10-20 league-one Shrewsbury Bristol Rovers
+                                                                                     URL
+1: https://www.playnow.com/sports/sports/event/10220899/shrewsbury-town-v-bristol-rovers
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.06        10     1.33         3        2       1.7
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.5      1.25      6.5      1.08        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5          10                            0 4
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 7.428571 2020-10-19 08:08:22
+[1] "Country : [england], League : [league-one], Progress : 1 out of 12"
+[1] "Added game"
+         Date  Home_Team      Away_Team
+1: 2020-10-20 Shrewsbury Bristol Rovers
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League  Home_Team  Away_Team
+1: 2020-10-20 league-one Gillingham Portsmouth
+                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10220903/gillingham-fc-v-portsmouth-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        12     1.28       3.4     1.87      1.87
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:        3      1.33      5.5      1.11        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5         5.5                            0 3
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 1.762712 2020-10-19 08:08:56
+[1] "Country : [england], League : [league-one], Progress : 2 out of 12"
+[1] "Added game"
+         Date  Home_Team  Away_Team
+1: 2020-10-20 Gillingham Portsmouth
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League  Home_Team Away_Team
+1: 2020-10-20 league-one Accrington Fleetwood
+                                                                                        URL
+1: https://www.playnow.com/sports/sports/event/10220896/accrington-stanley-v-fleetwood-town
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.05        11     1.28       3.4     1.87      1.83
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:        3      1.33     5.75      1.11        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5          11                            0 1
+   Chosen_Option_Std Kelly         Record_Time
+1:                 0    26 2020-10-19 08:09:17
+[1] "Country : [england], League : [league-one], Progress : 3 out of 12"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-10-20 Accrington Fleetwood
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-10-20 league-one Blackpool  Charlton
+                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10220898/blackpool-v-charlton-athletic
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.06        10      1.3       3.2        2      1.75
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.4      1.28        6      1.09        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5          10                            0 2
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 7.428571 2020-10-19 08:09:38
+[1] "Country : [england], League : [league-one], Progress : 4 out of 12"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20 Blackpool  Charlton
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-10-20 league-one Doncaster   Ipswich
+                                                                                    URL
+1: https://www.playnow.com/sports/sports/event/10220897/doncaster-rovers-v-ipswich-town
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.06         9     1.33         3     2.05       1.7
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.5      1.25      6.5      1.08        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5           9                          NaN 0
+   Chosen_Option_Std    Kelly         Record_Time
+1:               NaN 4.333333 2020-10-19 08:09:58
+[1] "Country : [england], League : [league-one], Progress : 5 out of 12"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20 Doncaster   Ipswich
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team     Away_Team
+1: 2020-10-20 league-one      Hull AFC Wimbledon
+                                                                              URL
+1: https://www.playnow.com/sports/sports/event/10220901/hull-city-v-afc-wimbledon
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        13     1.22       3.9     1.75         2
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     2.75       1.4     4.75      1.14        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5        4.75                          NaN 0
+   Chosen_Option_Std   Kelly         Record_Time
+1:               NaN 1.56391 2020-10-19 08:10:18
+[1] "Country : [england], League : [league-one], Progress : 6 out of 12"
+[1] "Added game"
+         Date Home_Team     Away_Team
+1: 2020-10-20      Hull AFC Wimbledon
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-10-20 league-one   Lincoln  Plymouth
+                                                                                   URL
+1: https://www.playnow.com/sports/sports/event/10220895/lincoln-city-v-plymouth-argyle
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        13     1.22      3.75     1.75      1.95
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.8      1.38        5      1.14        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5           5                          NaN 0
+   Chosen_Option_Std Kelly         Record_Time
+1:               NaN 1.625 2020-10-19 08:10:39
+[1] "Country : [england], League : [league-one], Progress : 7 out of 12"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20   Lincoln  Plymouth
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League  Home_Team Away_Team
+1: 2020-10-20 league-one Oxford Utd   MK Dons
+                                                                                       URL
+1: https://www.playnow.com/sports/sports/event/10220902/oxford-united-v-milton-keynes-dons
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.05        10      1.3       3.2     1.95      1.75
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     3.25      1.28        6      1.09        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5          10                            0 2
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 7.428571 2020-10-19 08:10:59
+[1] "Country : [england], League : [league-one], Progress : 8 out of 12"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-10-20 Oxford Utd   MK Dons
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League  Home_Team Away_Team
+1: 2020-10-20 league-one Sunderland     Crewe
+                                                                                     URL
+1: https://www.playnow.com/sports/sports/event/10220904/sunderland-afc-v-crewe-alexandra
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        12     1.25       3.5     1.83      1.87
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:        3      1.33      5.5      1.12        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5         5.5                          NaN 0
+   Chosen_Option_Std    Kelly         Record_Time
+1:               NaN 1.762712 2020-10-19 08:11:19
+[1] "Country : [england], League : [league-one], Progress : 9 out of 12"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-10-20 Sunderland     Crewe
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team    Away_Team
+1: 2020-10-20 league-one     Wigan Peterborough
+                                                                                         URL
+1: https://www.playnow.com/sports/sports/event/10220905/wigan-athletic-v-peterborough-united
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.03        13     1.22      3.75     1.75         2
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.8      1.38        5      1.14        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5           5                            0 5
+   Chosen_Option_Std Kelly         Record_Time
+1:                 0 1.625 2020-10-19 08:11:40
+[1] "Country : [england], League : [league-one], Progress : 10 out of 12"
+[1] "Added game"
+         Date Home_Team    Away_Team
+1: 2020-10-20     Wigan Peterborough
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-10-20 league-one    Burton  Rochdale
+                                                                                 URL
+1: https://www.playnow.com/sports/sports/event/10220906/burton-albion-v-rochdale-afc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        13     1.22      3.75     1.75      1.95
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.8      1.38        5      1.13        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5           5                            0 3
+   Chosen_Option_Std Kelly         Record_Time
+1:                 0 1.625 2020-10-19 08:12:00
+[1] "Country : [england], League : [league-one], Progress : 11 out of 12"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20    Burton  Rochdale
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League   Home_Team Away_Team
+1: 2020-10-20 league-one Northampton   Swindon
+                                                                                    URL
+1: https://www.playnow.com/sports/sports/event/10220900/northampton-town-v-swindon-town
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        11     1.28       3.4     1.87      1.83
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.2       1.3     5.75       1.1        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5          11                            0 6
+   Chosen_Option_Std Kelly         Record_Time
+1:                 0    26 2020-10-19 08:12:20
+[1] "Country : [england], League : [league-one], Progress : 12 out of 12"
+[1] "Added game"
+         Date   Home_Team Away_Team
+1: 2020-10-20 Northampton   Swindon
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2020-10-19 08:12:20"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], 12 new game(s) found to add."
+[1] "Country : [england], League : [league-two], calculate kelly scores"
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League  Home_Team  Away_Team
+1: 2020-10-20 league-two Cheltenham Scunthorpe
+                                                                                        URL
+1: https://www.playnow.com/sports/sports/event/10224696/cheltenham-town-v-scunthorpe-united
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        13     1.25       3.6     1.75      1.95
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.9      1.36        5      1.13        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5           5                    0.3333333 6
+   Chosen_Option_Std Kelly         Record_Time
+1:         0.1924501 1.625 2020-10-19 08:13:11
+[1] "Country : [england], League : [league-two], Progress : 1 out of 12"
+[1] "Added game"
+         Date  Home_Team  Away_Team
+1: 2020-10-20 Cheltenham Scunthorpe
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-10-20 league-two Morecambe Mansfield
+                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10224700/morecambe-fc-v-mansfield-town
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        13     1.22      3.75     1.75      1.95
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.8      1.38        5      1.13        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5           5                            0 8
+   Chosen_Option_Std Kelly         Record_Time
+1:                 0 1.625 2020-10-19 08:13:32
+[1] "Country : [england], League : [league-two], Progress : 2 out of 12"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20 Morecambe Mansfield
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-10-20 league-two    Barrow    Bolton
+                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10224698/barrow-afc-v-bolton-wanderers
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        12     1.25       3.5     1.83      1.87
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:        3      1.33      5.5      1.11        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5         5.5                          NaN 0
+   Chosen_Option_Std    Kelly         Record_Time
+1:               NaN 1.762712 2020-10-19 08:13:53
+[1] "Country : [england], League : [league-two], Progress : 3 out of 12"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20    Barrow    Bolton
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League     Home_Team Away_Team
+1: 2020-10-20 league-two Cambridge Utd Port Vale
+                                                                                 URL
+1: https://www.playnow.com/sports/sports/event/10224697/cambridge-united-v-port-vale
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.08         8     1.38       2.8     2.25       1.6
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.9      1.22      7.5      1.06        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5           8                            0 2
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 3.058824 2020-10-19 08:14:18
+[1] "Country : [england], League : [league-two], Progress : 4 out of 12"
+[1] "Added game"
+         Date     Home_Team Away_Team
+1: 2020-10-20 Cambridge Utd Port Vale
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-10-20 league-two    Exeter   Crawley
+                                                                               URL
+1: https://www.playnow.com/sports/sports/event/10224702/exeter-city-v-crawley-town
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        12     1.28       3.4     1.87      1.87
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:        3      1.33      5.5      1.11        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5         5.5                            0 5
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 1.762712 2020-10-19 08:14:44
+[1] "Country : [england], League : [league-two], Progress : 5 out of 12"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20    Exeter   Crawley
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-10-20 league-two    Oldham  Carlisle
+                                                                                      URL
+1: https://www.playnow.com/sports/sports/event/10224706/oldham-athletic-v-carlisle-united
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.06         9      1.3       3.2        2       1.7
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.4      1.28      6.5      1.09        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5           9                            0 2
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 4.333333 2020-10-19 08:15:05
+[1] "Country : [england], League : [league-two], Progress : 6 out of 12"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20    Oldham  Carlisle
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-10-20 league-two Stevenage   Newport
+                                                                                      URL
+1: https://www.playnow.com/sports/sports/event/10224708/stevenage-fc-v-newport-county-afc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.06         9     1.33         3      2.1      1.67
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.6      1.25      6.5      1.07        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5           9                            0 5
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 4.333333 2020-10-19 08:15:25
+[1] "Country : [england], League : [league-two], Progress : 7 out of 12"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20 Stevenage   Newport
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League     Home_Team Away_Team
+1: 2020-10-20 league-two Bradford City   Walsall
+                                                                               URL
+1: https://www.playnow.com/sports/sports/event/10224705/bradford-city-v-walsall-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.05        11      1.3      3.25     1.95       1.8
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.2       1.3        6       1.1        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5          11                          NaN 0
+   Chosen_Option_Std Kelly         Record_Time
+1:               NaN    26 2020-10-19 08:15:52
+[1] "Country : [england], League : [league-two], Progress : 8 out of 12"
+[1] "Added game"
+         Date     Home_Team Away_Team
+1: 2020-10-20 Bradford City   Walsall
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League  Home_Team    Away_Team
+1: 2020-10-20 league-two Colchester Forest Green
+                                                                                            URL
+1: https://www.playnow.com/sports/sports/event/10224699/colchester-united-v-forest-green-rovers
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.05        10      1.3       3.2     1.95      1.75
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.4      1.28        6      1.09        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5          10                            0 2
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 7.428571 2020-10-19 08:16:14
+[1] "Country : [england], League : [league-two], Progress : 9 out of 12"
+[1] "Added game"
+         Date  Home_Team    Away_Team
+1: 2020-10-20 Colchester Forest Green
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-10-20 league-two   Grimsby Harrogate
+                                                                                     URL
+1: https://www.playnow.com/sports/sports/event/10224707/grimsby-town-v-harrogate-town-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.06        10     1.33         3        2       1.7
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.5      1.25      6.5      1.08        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5          10                          NaN 0
+   Chosen_Option_Std    Kelly         Record_Time
+1:               NaN 7.428571 2020-10-19 08:16:41
+[1] "Country : [england], League : [league-two], Progress : 10 out of 12"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20   Grimsby Harrogate
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-10-20 league-two   Salford  Southend
+                                                                                      URL
+1: https://www.playnow.com/sports/sports/event/10224703/salford-city-fc-v-southend-united
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.03        14     1.22       3.9      1.7      2.05
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.7       1.4     4.75      1.15        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5        4.75                          NaN 0
+   Chosen_Option_Std   Kelly         Record_Time
+1:               NaN 1.56391 2020-10-19 08:17:04
+[1] "Country : [england], League : [league-two], Progress : 11 out of 12"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20   Salford  Southend
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team     Away_Team
+1: 2020-10-20 league-two  Tranmere Leyton Orient
+                                                                                    URL
+1: https://www.playnow.com/sports/sports/event/10224704/tranmere-rovers-v-leyton-orient
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.06        10     1.33         3     2.05       1.7
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.5      1.25      6.5      1.08        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5          10                          NaN 0
+   Chosen_Option_Std    Kelly         Record_Time
+1:               NaN 7.428571 2020-10-19 08:17:25
+[1] "Country : [england], League : [league-two], Progress : 12 out of 12"
+[1] "Added game"
+         Date Home_Team     Away_Team
+1: 2020-10-20  Tranmere Leyton Orient
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : spain, laliga - 2020-10-19 08:17:25"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], get all hyperlinks for games"
+[1] "Country : [spain], League : [laliga], game times"
+[1] "Country : [spain], League : [laliga], Over_under_score_odds"
+[1] "Country : [spain], League : [laliga], extract team names"
+[1] "Country : [spain], League : [laliga], 0 new game(s) found to add."
+[1] "Country : [spain], League : [laliga], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2020-10-19 08:17:59"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], New team names found. Add them in the function, Over_Under_Score_Odds_Manipulation."
+[1] "[New team names to be edited]--------------------"
+[1] "Genoa CFC"
+[1] "-------------------------------------------------"
+[1] ""
+[1] "[Reference]--------------------------------------"
+ [1] "AC Milan"     "ACN Siena"    "ACR Messina"  "Ancona"      
+ [5] "AS Roma"      "Ascoli"       "Atalanta"     "Bari"        
+ [9] "Benevento"    "Bologna"      "Brescia"      "Cagliari"    
+[13] "Carpi"        "Catania"      "Cesena"       "Chievo"      
+[17] "Como"         "Cremonese"    "Crotone"      "Empoli"      
+[21] "Fiorentina"   "Foggia"       "Frosinone"    "Genoa"       
+[25] "Inter"        "Juventus"     "L.R. Vicenza" "Lazio"       
+[29] "Lecce"        "Livorno"      "Modena"       "Napoli"      
+[33] "Novara"       "Padova"       "Palermo"      "Parma"       
+[37] "Perugia"      "Pescara"      "Piacenza"     "Pisa"        
+[41] "Reggiana"     "Reggina"      "Salernitana"  "Sampdoria"   
+[45] "Sassuolo"     "Spal"         "Spezia"       "Torino"      
+[49] "Treviso"      "Udinese"      "Venezia"      "Verona"      
+[1] "-------------------------------------------------"
+[1] "Country : [italy], League : [serie-a], 1 new game(s) found to add."
+[1] "Country : [italy], League : [serie-a], calculate kelly scores"
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team
+1: 2020-10-19 serie-a    Verona Genoa CFC
+                                                                              URL
+1: https://www.playnow.com/sports/sports/event/10215648/hellas-verona-v-genoa-cfc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.03        14     1.22      4.25      1.7       2.1
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     2.65      1.44     4.75      1.16        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5        4.75                          NaN 0
+   Chosen_Option_Std   Kelly         Record_Time
+1:               NaN 1.56391 2020-10-19 08:18:56
+[1] "Country : [italy], League : [serie-a], Progress : 1 out of 1"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-19    Verona Genoa CFC
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2020-10-19 08:18:57"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], New team names found. Add them in the function, Over_Under_Score_Odds_Manipulation."
+[1] "[New team names to be edited]--------------------"
+[1] "NAC Breda"
+[1] "-------------------------------------------------"
+[1] ""
+[1] "[Reference]--------------------------------------"
+ [1] "Achilles 29"      "Almere City"      "Apeldoorn"       
+ [4] "Breda"            "Cambuur"          "Den Bosch"       
+ [7] "Den Haag"         "Dordrecht"        "Eindhoven FC"    
+[10] "Excelsior"        "FC Emmen"         "FC Volendam"     
+[13] "G.A. Eagles"      "Graafschap"       "Groningen"       
+[16] "Haarlem"          "Helmond"          "Heracles"        
+[19] "Jong Ajax"        "Jong AZ"          "Jong FC Twente"  
+[22] "Jong PSV"         "Jong Utrecht"     "Maastricht"      
+[25] "Nijmegen"         "Oss"              "Roda"            
+[28] "Roosendaal"       "Sittard"          "Sparta Rotterdam"
+[31] "Telstar"          "Twente"           "Veendam"         
+[34] "Venlo"            "Waalwijk"         "Willem II"       
+[37] "Zwolle"          
+[1] "-------------------------------------------------"
+[1] "Country : [netherlands], League : [eerste-divisie], 3 new game(s) found to add."
+[1] "Country : [netherlands], League : [eerste-divisie], calculate kelly scores"
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2020-10-20 eerste-divisie  Jong PSV  Nijmegen
+                                                                                      URL
+1: https://www.playnow.com/sports/sports/event/10222293/jong-psv-eindhoven-v-nec-nijmegen
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:        0         0     1.15      4.75      1.5       2.4
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     2.25      1.57     3.75      1.22      6.5      1.08
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 5.5         6.5                    0.3333333 3
+   Chosen_Option_Std    Kelly         Record_Time
+1:         0.2721655 2.122449 2020-10-19 08:19:48
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 1 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20  Jong PSV  Nijmegen
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2020-10-20 eerste-divisie NAC Breda   Cambuur
+                                                                           URL
+1: https://www.playnow.com/sports/sports/event/10220721/nac-breda-v-sc-cambuur
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.02        17     1.18      4.25      1.6       2.2
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.4       1.5     4.25       1.2        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 1.5        4.25                          NaN 0
+   Chosen_Option_Std    Kelly         Record_Time
+1:               NaN 1.454545 2020-10-19 08:20:10
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 2 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20 NAC Breda   Cambuur
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2020-10-20 eerste-divisie       Oss Den Bosch
+                                                                           URL
+1: https://www.playnow.com/sports/sports/event/10222292/top-oss-v-fc-den-bosch
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:        0         0     1.16       4.5     1.53      2.35
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.3      1.57      3.9      1.22        7      1.08
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N
+1:      Over 5.5           7                   0.05882353 17
+   Chosen_Option_Std    Kelly         Record_Time
+1:        0.05706721 2.363636 2020-10-19 08:20:34
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 3 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20       Oss Den Bosch
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : germany, 3-liga - 2020-10-19 08:20:34"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [germany], League : [3-liga], navigate to the website"
+[1] "Country : [germany], League : [3-liga], get all hyperlinks for games"
+[1] "Country : [germany], League : [3-liga], game times"
+[1] "Country : [germany], League : [3-liga], Over_under_score_odds"
+[1] "Country : [germany], League : [3-liga], extract team names"
+[1] "Country : [germany], League : [3-liga], 5 new game(s) found to add."
+[1] "Country : [germany], League : [3-liga], calculate kelly scores"
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League Home_Team Away_Team
+1: 2020-10-20 3-liga Uerdingen     Wehen
+                                                                                                   URL
+1: https://www.playnow.com/sports/sports/event/10224481/krefelder-fc-uerdingen-05-v-sv-wehen-wiesbaden
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        13     1.25       3.6      1.8      1.95
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.9      1.36     5.25      1.13        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5        5.25                            1 1
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 1.691057 2020-10-19 08:21:26
+[1] "Country : [germany], League : [3-liga], Progress : 1 out of 5"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20 Uerdingen     Wehen
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League Home_Team Away_Team
+1: 2020-10-20 3-liga      Verl Magdeburg
+                                                                             URL
+1: https://www.playnow.com/sports/sports/event/10224483/sc-verl-v-1-fc-magdeburg
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.06        10     1.33         3     2.05       1.7
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.5      1.25      6.5      1.08        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5          10                          NaN 0
+   Chosen_Option_Std    Kelly         Record_Time
+1:               NaN 7.428571 2020-10-19 08:21:47
+[1] "Country : [germany], League : [3-liga], Progress : 2 out of 5"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-20      Verl Magdeburg
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League         Home_Team Away_Team
+1: 2020-10-20 3-liga SG Dynamo Dresden   Zwickau
+                                                                                    URL
+1: https://www.playnow.com/sports/sports/event/10224485/sg-dynamo-dresden-v-fsv-zwickau
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        13     1.25       3.6     1.75      1.95
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.9      1.36     5.25      1.13        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5        5.25                          NaN 0
+   Chosen_Option_Std    Kelly         Record_Time
+1:               NaN 1.691057 2020-10-19 08:22:07
+[1] "Country : [germany], League : [3-liga], Progress : 3 out of 5"
+[1] "Added game"
+         Date         Home_Team Away_Team
+1: 2020-10-20 SG Dynamo Dresden   Zwickau
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League Home_Team     Away_Team
+1: 2020-10-20 3-liga  Mannheim Hansa Rostock
+                                                                                              URL
+1: https://www.playnow.com/sports/sports/event/10224482/sv-waldhof-mannheim-07-v-fc-hansa-rostock
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.03        13     1.22      3.75     1.75      1.95
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.8      1.38        5      1.14        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5           5                            0 1
+   Chosen_Option_Std Kelly         Record_Time
+1:                 0 1.625 2020-10-19 08:22:33
+[1] "Country : [germany], League : [3-liga], Progress : 4 out of 5"
+[1] "Added game"
+         Date Home_Team     Away_Team
+1: 2020-10-20  Mannheim Hansa Rostock
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League        Home_Team Away_Team
+1: 2020-10-20 3-liga Turkgucu Munchen    Lubeck
+                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10225546/turkgucu-munchen-v-vfb-lubeck
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.03        15      1.2         4     1.67       2.1
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.6      1.44      4.5      1.16        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5         4.5                          NaN 0
+   Chosen_Option_Std    Kelly         Record_Time
+1:               NaN 1.507246 2020-10-19 08:22:53
+[1] "Country : [germany], League : [3-liga], Progress : 5 out of 5"
+[1] "Added game"
+         Date        Home_Team Away_Team
+1: 2020-10-20 Turkgucu Munchen    Lubeck
+[1] ""
+[1] ""

@@ -1,0 +1,452 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+14.03.,2020,AFC Fylde,Aldershot,1,0
+14.03.,2020,Dover,Chesterfield,1,1
+14.03.,2020,FC Halifax,Ebbsfleet,0,1
+14.03.,2020,Maidenhead,Stockport,1,2
+14.03.,2020,Notts Co,Eastleigh,4,0
+14.03.,2020,Sutton,Hartlepool,1,1
+10.03.,2020,Dag & Red,AFC Fylde,1,2
+10.03.,2020,Notts Co,Aldershot,3,1
+10.03.,2020,Woking,Barnet,1,3
+07.03.,2020,AFC Fylde,Solihull Moors,0,0
+07.03.,2020,Aldershot,Dag & Red,0,1
+07.03.,2020,Barrow,Notts Co,0,2
+07.03.,2020,Chorley,Chesterfield,1,2
+07.03.,2020,Dover,Yeovil,0,1
+07.03.,2020,FC Halifax,Woking,0,2
+07.03.,2020,Harrogate,Bromley,1,1
+07.03.,2020,Hartlepool,Ebbsfleet,0,1
+07.03.,2020,Maidenhead,Boreham Wood,0,1
+07.03.,2020,Stockport,Barnet,1,1
+07.03.,2020,Sutton,Torquay,2,0
+07.03.,2020,Wrexham,Eastleigh,0,0
+03.03.,2020,AFC Fylde,Notts Co,1,2
+03.03.,2020,Barnet,Boreham Wood,2,2
+03.03.,2020,Chesterfield,Harrogate,3,4
+03.03.,2020,Chorley,Eastleigh,1,2
+03.03.,2020,FC Halifax,Sutton,1,0
+03.03.,2020,Solihull Moors,Hartlepool,0,1
+29.02.,2020,Barrow,Dag & Red,2,1
+29.02.,2020,Boreham Wood,Hartlepool,1,1
+29.02.,2020,Bromley,Sutton,0,1
+29.02.,2020,Ebbsfleet,Stockport,0,1
+29.02.,2020,Solihull Moors,Dover,3,0
+29.02.,2020,Torquay,Chorley,2,0
+29.02.,2020,Woking,Maidenhead,2,0
+29.02.,2020,Yeovil,Wrexham,3,0
+25.02.,2020,Aldershot,Boreham Wood,3,2
+25.02.,2020,Maidenhead,Ebbsfleet,1,3
+22.02.,2020,Boreham Wood,Yeovil,1,0
+22.02.,2020,Bromley,Wrexham,0,2
+22.02.,2020,Chesterfield,Ebbsfleet,4,0
+22.02.,2020,Chorley,Barnet,0,1
+22.02.,2020,Dag & Red,Solihull Moors,2,0
+22.02.,2020,Dover,AFC Fylde,5,1
+22.02.,2020,Harrogate,Eastleigh,3,0
+22.02.,2020,Hartlepool,Notts Co,2,0
+22.02.,2020,Maidenhead,Aldershot,1,2
+22.02.,2020,Sutton,Barrow,2,2
+22.02.,2020,Torquay,FC Halifax,1,0
+22.02.,2020,Woking,Stockport,1,1
+18.02.,2020,Barrow,Dover,1,0
+15.02.,2020,Ebbsfleet,Chorley,1,0
+15.02.,2020,Notts Co,Woking,1,1
+15.02.,2020,Stockport,Bromley,1,0
+11.02.,2020,Eastleigh,AFC Fylde,2,2
+11.02.,2020,Harrogate,Yeovil,3,0
+11.02.,2020,Solihull Moors,Barnet,1,0
+08.02.,2020,Bromley,Solihull Moors,2,2
+08.02.,2020,Chesterfield,Wrexham,3,2
+08.02.,2020,Dag & Red,Stockport,1,1
+08.02.,2020,Hartlepool,Aldershot,2,0
+04.02.,2020,Dover,Barrow,2,1
+01.02.,2020,AFC Fylde,Boreham Wood,1,2
+01.02.,2020,Aldershot,Harrogate,1,1
+01.02.,2020,Barnet,Hartlepool,2,1
+01.02.,2020,Barrow,Torquay,2,1
+01.02.,2020,Eastleigh,Woking,2,0
+01.02.,2020,Ebbsfleet,Sutton,1,1
+01.02.,2020,FC Halifax,Bromley,2,1
+01.02.,2020,Notts Co,Chesterfield,3,0
+01.02.,2020,Solihull Moors,Maidenhead,0,2
+01.02.,2020,Stockport,Dover,0,2
+01.02.,2020,Wrexham,Dag & Red,0,0
+01.02.,2020,Yeovil,Chorley,1,1
+28.01.,2020,Eastleigh,Aldershot,0,0
+28.01.,2020,Ebbsfleet,Woking,2,1
+28.01.,2020,FC Halifax,Dover,4,2
+28.01.,2020,Solihull Moors,Barrow,0,0
+25.01.,2020,Boreham Wood,Barrow,1,1
+25.01.,2020,Bromley,Barnet,1,2
+25.01.,2020,Chesterfield,AFC Fylde,1,1
+25.01.,2020,Chorley,FC Halifax,0,1
+25.01.,2020,Dag & Red,Notts Co,2,0
+25.01.,2020,Dover,Aldershot,2,0
+25.01.,2020,Harrogate,Wrexham,0,2
+25.01.,2020,Hartlepool,Stockport,2,0
+25.01.,2020,Maidenhead,Eastleigh,2,0
+25.01.,2020,Sutton,Solihull Moors,0,0
+25.01.,2020,Torquay,Ebbsfleet,0,0
+25.01.,2020,Woking,Yeovil,1,0
+18.01.,2020,AFC Fylde,Torquay,2,3
+18.01.,2020,Aldershot,Chorley,3,3
+18.01.,2020,Barrow,Bromley,2,0
+18.01.,2020,Eastleigh,Chesterfield,0,2
+18.01.,2020,Ebbsfleet,Harrogate,0,2
+18.01.,2020,FC Halifax,Maidenhead,5,2
+18.01.,2020,Notts Co,Dover,0,0
+18.01.,2020,Solihull Moors,Boreham Wood,0,2
+18.01.,2020,Stockport,Sutton,0,0
+18.01.,2020,Wrexham,Woking,3,0
+18.01.,2020,Yeovil,Hartlepool,2,2
+11.01.,2020,Dover,Hartlepool,1,1
+07.01.,2020,Hartlepool,Eastleigh,2,1
+04.01.,2020,Barnet,FC Halifax,1,1
+04.01.,2020,Barrow,Ebbsfleet,7,0
+04.01.,2020,Chesterfield,Sutton,1,0
+04.01.,2020,Dag & Red,Torquay,0,0
+04.01.,2020,Harrogate,Maidenhead,1,0
+04.01.,2020,Notts Co,Bromley,2,1
+04.01.,2020,Stockport,Boreham Wood,1,3
+04.01.,2020,Woking,Chorley,1,0
+04.01.,2020,Wrexham,Aldershot,1,2
+04.01.,2020,Yeovil,Solihull Moors,0,0
+01.01.,2020,AFC Fylde,Barrow,0,1
+01.01.,2020,Aldershot,Eastleigh,3,1
+01.01.,2020,Boreham Wood,Barnet,0,0
+01.01.,2020,Bromley,Dover,3,0
+01.01.,2020,Chorley,Wrexham,0,2
+01.01.,2020,Ebbsfleet,Dag & Red,1,1
+01.01.,2020,FC Halifax,Stockport,0,0
+01.01.,2020,Hartlepool,Harrogate,0,1
+01.01.,2020,Maidenhead,Notts Co,0,0
+01.01.,2020,Solihull Moors,Chesterfield,3,0
+01.01.,2020,Sutton,Woking,6,2
+01.01.,2020,Torquay,Yeovil,0,2
+28.12.2019,2020,AFC Fylde,Stockport,1,2
+28.12.2019,2020,Aldershot,Barnet,0,0
+28.12.2019,2020,Boreham Wood,Eastleigh,2,2
+28.12.2019,2020,Bromley,Dag & Red,3,0
+28.12.2019,2020,Chorley,Harrogate,0,2
+28.12.2019,2020,Ebbsfleet,Dover,0,1
+28.12.2019,2020,FC Halifax,Chesterfield,1,0
+28.12.2019,2020,Hartlepool,Barrow,2,2
+28.12.2019,2020,Maidenhead,Wrexham,2,0
+28.12.2019,2020,Solihull Moors,Notts Co,0,1
+28.12.2019,2020,Sutton,Yeovil,3,2
+28.12.2019,2020,Torquay,Woking,4,1
+26.12.2019,2020,Barrow,AFC Fylde,1,1
+26.12.2019,2020,Chesterfield,Solihull Moors,2,2
+26.12.2019,2020,Dag & Red,Ebbsfleet,1,1
+26.12.2019,2020,Dover,Bromley,3,0
+26.12.2019,2020,Harrogate,Hartlepool,4,1
+26.12.2019,2020,Notts Co,Maidenhead,3,0
+26.12.2019,2020,Stockport,FC Halifax,5,1
+26.12.2019,2020,Woking,Sutton,0,2
+26.12.2019,2020,Wrexham,Chorley,3,1
+26.12.2019,2020,Yeovil,Torquay,6,2
+21.12.2019,2020,AFC Fylde,Yeovil,2,2
+21.12.2019,2020,Aldershot,Stockport,2,1
+21.12.2019,2020,Boreham Wood,Harrogate,2,1
+21.12.2019,2020,Bromley,Eastleigh,2,3
+21.12.2019,2020,Chorley,Dover,1,1
+21.12.2019,2020,FC Halifax,Notts Co,2,4
+21.12.2019,2020,Hartlepool,Dag & Red,1,0
+21.12.2019,2020,Maidenhead,Barnet,1,4
+21.12.2019,2020,Sutton,Wrexham,3,1
+21.12.2019,2020,Torquay,Chesterfield,0,3
+10.12.2019,2020,AFC Fylde,Sutton,0,0
+10.12.2019,2020,Chesterfield,Yeovil,1,2
+07.12.2019,2020,Barnet,AFC Fylde,2,1
+07.12.2019,2020,Barrow,Aldershot,1,0
+07.12.2019,2020,Chesterfield,Bromley,1,2
+07.12.2019,2020,Dag & Red,Maidenhead,1,2
+07.12.2019,2020,Dover,Boreham Wood,0,2
+07.12.2019,2020,Eastleigh,Ebbsfleet,1,1
+07.12.2019,2020,Harrogate,Torquay,2,1
+07.12.2019,2020,Notts Co,Sutton,1,1
+07.12.2019,2020,Stockport,Chorley,4,2
+07.12.2019,2020,Woking,Hartlepool,2,1
+07.12.2019,2020,Wrexham,Solihull Moors,2,0
+07.12.2019,2020,Yeovil,FC Halifax,2,0
+03.12.2019,2020,Eastleigh,Wrexham,0,2
+30.11.2019,2020,Aldershot,Chesterfield,2,2
+30.11.2019,2020,Boreham Wood,Woking,1,0
+30.11.2019,2020,Bromley,Yeovil,1,1
+30.11.2019,2020,Chorley,Dag & Red,1,0
+30.11.2019,2020,Ebbsfleet,Wrexham,2,1
+30.11.2019,2020,Maidenhead,Barrow,0,4
+30.11.2019,2020,Sutton,Harrogate,3,1
+30.11.2019,2020,Torquay,Stockport,1,5
+26.11.2019,2020,Barnet,Ebbsfleet,5,2
+26.11.2019,2020,Barrow,Chorley,2,2
+26.11.2019,2020,Chesterfield,Hartlepool,1,5
+26.11.2019,2020,Dag & Red,Sutton,1,2
+26.11.2019,2020,Dover,Maidenhead,3,4
+26.11.2019,2020,Eastleigh,Torquay,3,2
+26.11.2019,2020,Harrogate,FC Halifax,2,2
+26.11.2019,2020,Notts Co,Boreham Wood,2,2
+26.11.2019,2020,Stockport,Solihull Moors,1,4
+26.11.2019,2020,Woking,Bromley,2,1
+26.11.2019,2020,Wrexham,AFC Fylde,0,1
+26.11.2019,2020,Yeovil,Aldershot,2,2
+23.11.2019,2020,AFC Fylde,Dag & Red,3,0
+23.11.2019,2020,Aldershot,Notts Co,2,1
+23.11.2019,2020,Barrow,Barnet,2,1
+23.11.2019,2020,Chorley,Torquay,1,0
+23.11.2019,2020,Dover,Solihull Moors,1,1
+23.11.2019,2020,FC Halifax,Eastleigh,1,1
+23.11.2019,2020,Harrogate,Chesterfield,3,1
+23.11.2019,2020,Hartlepool,Boreham Wood,2,2
+23.11.2019,2020,Maidenhead,Woking,2,3
+23.11.2019,2020,Stockport,Ebbsfleet,1,1
+23.11.2019,2020,Sutton,Bromley,0,2
+23.11.2019,2020,Wrexham,Yeovil,3,3
+16.11.2019,2020,Barnet,Stockport,1,2
+16.11.2019,2020,Boreham Wood,Maidenhead,2,1
+16.11.2019,2020,Bromley,Harrogate,3,3
+16.11.2019,2020,Chesterfield,Chorley,2,3
+16.11.2019,2020,Dag & Red,Aldershot,6,1
+16.11.2019,2020,Ebbsfleet,Hartlepool,2,2
+16.11.2019,2020,Notts Co,Barrow,0,3
+16.11.2019,2020,Solihull Moors,AFC Fylde,3,1
+16.11.2019,2020,Torquay,Sutton,1,2
+16.11.2019,2020,Woking,FC Halifax,0,0
+16.11.2019,2020,Yeovil,Dover,0,1
+09.11.2019,2020,Stockport,Dag & Red,1,0
+05.11.2019,2020,Hartlepool,Solihull Moors,0,1
+02.11.2019,2020,AFC Fylde,Dover,0,0
+02.11.2019,2020,Aldershot,Maidenhead,2,0
+02.11.2019,2020,Barnet,Chorley,2,1
+02.11.2019,2020,Barrow,Sutton,1,0
+02.11.2019,2020,Eastleigh,Harrogate,4,2
+02.11.2019,2020,Ebbsfleet,Chesterfield,2,2
+02.11.2019,2020,FC Halifax,Torquay,2,4
+02.11.2019,2020,Notts Co,Hartlepool,2,2
+02.11.2019,2020,Solihull Moors,Dag & Red,2,1
+02.11.2019,2020,Stockport,Woking,1,3
+02.11.2019,2020,Wrexham,Bromley,1,0
+02.11.2019,2020,Yeovil,Boreham Wood,1,1
+29.10.2019,2020,Boreham Wood,Aldershot,0,0
+29.10.2019,2020,Bromley,Stockport,2,2
+29.10.2019,2020,Chorley,Ebbsfleet,0,4
+29.10.2019,2020,Dag & Red,Barrow,0,2
+29.10.2019,2020,Dover,Eastleigh,3,1
+29.10.2019,2020,Harrogate,Barnet,2,1
+29.10.2019,2020,Maidenhead,AFC Fylde,1,1
+29.10.2019,2020,Sutton,FC Halifax,0,1
+29.10.2019,2020,Torquay,Wrexham,1,0
+29.10.2019,2020,Woking,Notts Co,0,4
+26.10.2019,2020,Boreham Wood,AFC Fylde,0,2
+26.10.2019,2020,Bromley,FC Halifax,5,0
+26.10.2019,2020,Chesterfield,Notts Co,1,0
+26.10.2019,2020,Chorley,Yeovil,1,2
+26.10.2019,2020,Dag & Red,Wrexham,2,1
+26.10.2019,2020,Dover,Stockport,0,1
+26.10.2019,2020,Harrogate,Aldershot,1,0
+26.10.2019,2020,Hartlepool,Barnet,2,0
+26.10.2019,2020,Maidenhead,Solihull Moors,1,0
+26.10.2019,2020,Sutton,Ebbsfleet,2,3
+26.10.2019,2020,Torquay,Barrow,4,2
+26.10.2019,2020,Woking,Eastleigh,1,1
+15.10.2019,2020,Wrexham,Chesterfield,0,1
+12.10.2019,2020,Aldershot,Hartlepool,0,3
+12.10.2019,2020,Barnet,Woking,2,2
+12.10.2019,2020,Eastleigh,Chorley,0,0
+12.10.2019,2020,Ebbsfleet,Maidenhead,1,2
+12.10.2019,2020,FC Halifax,Boreham Wood,0,2
+12.10.2019,2020,Notts Co,Torquay,2,0
+12.10.2019,2020,Solihull Moors,Bromley,2,1
+12.10.2019,2020,Yeovil,Harrogate,1,2
+09.10.2019,2020,Stockport,Hartlepool,2,1
+08.10.2019,2020,AFC Fylde,Chesterfield,1,3
+08.10.2019,2020,Aldershot,Dover,4,0
+08.10.2019,2020,Barnet,Bromley,1,2
+08.10.2019,2020,Barrow,Boreham Wood,3,1
+08.10.2019,2020,Eastleigh,Maidenhead,2,1
+08.10.2019,2020,Ebbsfleet,Torquay,2,4
+08.10.2019,2020,FC Halifax,Chorley,0,0
+08.10.2019,2020,Notts Co,Dag & Red,2,0
+08.10.2019,2020,Solihull Moors,Sutton,2,0
+08.10.2019,2020,Wrexham,Harrogate,1,1
+08.10.2019,2020,Yeovil,Woking,3,1
+05.10.2019,2020,Boreham Wood,Solihull Moors,1,0
+05.10.2019,2020,Bromley,Barrow,1,2
+05.10.2019,2020,Chesterfield,Eastleigh,1,2
+05.10.2019,2020,Chorley,Aldershot,0,0
+05.10.2019,2020,Dag & Red,Barnet,1,1
+05.10.2019,2020,Dover,Notts Co,2,2
+05.10.2019,2020,Harrogate,Ebbsfleet,2,0
+05.10.2019,2020,Hartlepool,Yeovil,2,1
+05.10.2019,2020,Maidenhead,FC Halifax,0,1
+05.10.2019,2020,Sutton,Stockport,0,0
+05.10.2019,2020,Torquay,AFC Fylde,2,1
+05.10.2019,2020,Woking,Wrexham,1,1
+01.10.2019,2020,AFC Fylde,Barnet,0,4
+01.10.2019,2020,Solihull Moors,Wrexham,3,1
+28.09.2019,2020,Barnet,Solihull Moors,0,0
+28.09.2019,2020,Barrow,Maidenhead,2,0
+28.09.2019,2020,Chesterfield,Aldershot,2,1
+28.09.2019,2020,Dag & Red,Chorley,0,0
+28.09.2019,2020,Dover,FC Halifax,0,2
+28.09.2019,2020,Eastleigh,Hartlepool,1,1
+28.09.2019,2020,Harrogate,Sutton,2,0
+28.09.2019,2020,Notts Co,AFC Fylde,2,0
+28.09.2019,2020,Stockport,Torquay,0,4
+28.09.2019,2020,Woking,Boreham Wood,1,2
+28.09.2019,2020,Wrexham,Ebbsfleet,1,0
+28.09.2019,2020,Yeovil,Bromley,3,1
+24.09.2019,2020,AFC Fylde,Wrexham,3,2
+24.09.2019,2020,Aldershot,Yeovil,1,3
+24.09.2019,2020,Boreham Wood,Notts Co,1,2
+24.09.2019,2020,Bromley,Woking,1,0
+24.09.2019,2020,Chorley,Barrow,1,3
+24.09.2019,2020,Ebbsfleet,Barnet,3,0
+24.09.2019,2020,FC Halifax,Harrogate,0,1
+24.09.2019,2020,Hartlepool,Chesterfield,1,1
+24.09.2019,2020,Maidenhead,Dover,1,2
+24.09.2019,2020,Solihull Moors,Stockport,2,0
+24.09.2019,2020,Sutton,Dag & Red,0,2
+24.09.2019,2020,Torquay,Eastleigh,2,3
+21.09.2019,2020,AFC Fylde,Eastleigh,3,1
+21.09.2019,2020,Aldershot,Wrexham,1,0
+21.09.2019,2020,Boreham Wood,Stockport,4,0
+21.09.2019,2020,Bromley,Notts Co,2,1
+21.09.2019,2020,Chorley,Woking,1,1
+21.09.2019,2020,Ebbsfleet,Barrow,0,3
+21.09.2019,2020,FC Halifax,Barnet,4,2
+21.09.2019,2020,Hartlepool,Dover,0,2
+21.09.2019,2020,Maidenhead,Harrogate,1,1
+21.09.2019,2020,Solihull Moors,Yeovil,0,1
+21.09.2019,2020,Sutton,Chesterfield,4,0
+21.09.2019,2020,Torquay,Dag & Red,0,0
+17.09.2019,2020,Barnet,Aldershot,2,0
+14.09.2019,2020,Barnet,Maidenhead,1,0
+14.09.2019,2020,Barrow,Solihull Moors,3,0
+14.09.2019,2020,Chesterfield,Torquay,1,0
+14.09.2019,2020,Dag & Red,Hartlepool,3,1
+14.09.2019,2020,Dover,Chorley,1,1
+14.09.2019,2020,Eastleigh,Bromley,1,1
+14.09.2019,2020,Harrogate,Boreham Wood,0,0
+14.09.2019,2020,Notts Co,FC Halifax,1,0
+14.09.2019,2020,Stockport,Aldershot,1,2
+14.09.2019,2020,Woking,Ebbsfleet,2,2
+14.09.2019,2020,Wrexham,Sutton,1,1
+14.09.2019,2020,Yeovil,AFC Fylde,3,2
+07.09.2019,2020,Aldershot,Barrow,1,2
+07.09.2019,2020,Boreham Wood,Dover,3,1
+07.09.2019,2020,Bromley,Chesterfield,2,1
+07.09.2019,2020,Chorley,Stockport,3,0
+07.09.2019,2020,Ebbsfleet,Eastleigh,1,1
+07.09.2019,2020,FC Halifax,Yeovil,0,2
+07.09.2019,2020,Hartlepool,Woking,1,1
+07.09.2019,2020,Maidenhead,Dag & Red,0,1
+07.09.2019,2020,Sutton,Notts Co,1,1
+07.09.2019,2020,Torquay,Harrogate,4,2
+04.09.2019,2020,Dag & Red,Bromley,1,1
+03.09.2019,2020,Barrow,Hartlepool,0,1
+03.09.2019,2020,Chesterfield,FC Halifax,2,3
+03.09.2019,2020,Dover,Ebbsfleet,1,1
+03.09.2019,2020,Eastleigh,Boreham Wood,2,0
+03.09.2019,2020,Harrogate,Chorley,2,0
+03.09.2019,2020,Notts Co,Solihull Moors,0,0
+03.09.2019,2020,Stockport,AFC Fylde,2,1
+03.09.2019,2020,Woking,Torquay,1,1
+03.09.2019,2020,Wrexham,Maidenhead,2,2
+03.09.2019,2020,Yeovil,Sutton,1,0
+31.08.2019,2020,Bromley,AFC Fylde,2,2
+31.08.2019,2020,Chesterfield,Dag & Red,1,1
+31.08.2019,2020,Chorley,Boreham Wood,1,3
+31.08.2019,2020,Eastleigh,Barnet,1,2
+31.08.2019,2020,Ebbsfleet,Aldershot,1,2
+31.08.2019,2020,FC Halifax,Solihull Moors,2,1
+31.08.2019,2020,Harrogate,Dover,0,2
+31.08.2019,2020,Sutton,Maidenhead,0,3
+31.08.2019,2020,Torquay,Hartlepool,1,2
+31.08.2019,2020,Woking,Barrow,3,2
+31.08.2019,2020,Wrexham,Stockport,1,2
+31.08.2019,2020,Yeovil,Notts Co,3,1
+26.08.2019,2020,AFC Fylde,Harrogate,0,0
+26.08.2019,2020,Aldershot,Sutton,1,1
+26.08.2019,2020,Barnet,Torquay,2,2
+26.08.2019,2020,Barrow,FC Halifax,1,2
+26.08.2019,2020,Boreham Wood,Ebbsfleet,1,2
+26.08.2019,2020,Dag & Red,Yeovil,3,2
+26.08.2019,2020,Dover,Woking,1,2
+26.08.2019,2020,Hartlepool,Wrexham,4,2
+26.08.2019,2020,Maidenhead,Bromley,1,2
+26.08.2019,2020,Notts Co,Chorley,5,1
+26.08.2019,2020,Solihull Moors,Eastleigh,1,2
+26.08.2019,2020,Stockport,Chesterfield,2,0
+24.08.2019,2020,Bromley,Boreham Wood,1,0
+24.08.2019,2020,Chesterfield,Barrow,2,2
+24.08.2019,2020,Chorley,Hartlepool,0,0
+24.08.2019,2020,Eastleigh,Dag & Red,1,1
+24.08.2019,2020,Ebbsfleet,Notts Co,2,2
+24.08.2019,2020,FC Halifax,AFC Fylde,4,1
+24.08.2019,2020,Harrogate,Stockport,2,1
+24.08.2019,2020,Sutton,Dover,1,2
+24.08.2019,2020,Torquay,Aldershot,2,0
+24.08.2019,2020,Woking,Solihull Moors,2,0
+24.08.2019,2020,Wrexham,Barnet,1,1
+24.08.2019,2020,Yeovil,Maidenhead,1,2
+18.08.2019,2020,Notts Co,Wrexham,1,1
+17.08.2019,2020,AFC Fylde,Woking,1,4
+17.08.2019,2020,Aldershot,FC Halifax,1,1
+17.08.2019,2020,Barnet,Chesterfield,2,2
+17.08.2019,2020,Barrow,Yeovil,1,0
+17.08.2019,2020,Boreham Wood,Sutton,0,1
+17.08.2019,2020,Dag & Red,Harrogate,4,2
+17.08.2019,2020,Dover,Torquay,1,2
+17.08.2019,2020,Hartlepool,Bromley,2,3
+17.08.2019,2020,Maidenhead,Chorley,4,1
+17.08.2019,2020,Solihull Moors,Ebbsfleet,2,1
+17.08.2019,2020,Stockport,Eastleigh,2,0
+13.08.2019,2020,Aldershot,Bromley,0,1
+13.08.2019,2020,Barnet,Dover,0,1
+13.08.2019,2020,Chesterfield,Woking,1,2
+13.08.2019,2020,Chorley,Solihull Moors,1,6
+13.08.2019,2020,Dag & Red,Boreham Wood,0,3
+13.08.2019,2020,Eastleigh,Sutton,1,1
+13.08.2019,2020,Ebbsfleet,Yeovil,1,3
+13.08.2019,2020,Harrogate,Notts Co,0,2
+13.08.2019,2020,Hartlepool,AFC Fylde,2,2
+13.08.2019,2020,Stockport,Barrow,3,2
+13.08.2019,2020,Torquay,Maidenhead,0,2
+13.08.2019,2020,Wrexham,FC Halifax,1,0
+10.08.2019,2020,AFC Fylde,Ebbsfleet,1,0
+10.08.2019,2020,Barrow,Eastleigh,2,0
+10.08.2019,2020,Boreham Wood,Chesterfield,2,2
+10.08.2019,2020,Bromley,Torquay,3,3
+10.08.2019,2020,Dover,Wrexham,2,1
+10.08.2019,2020,FC Halifax,Dag & Red,1,0
+10.08.2019,2020,Maidenhead,Hartlepool,0,1
+10.08.2019,2020,Notts Co,Barnet,1,2
+10.08.2019,2020,Solihull Moors,Aldershot,2,1
+10.08.2019,2020,Sutton,Chorley,2,2
+10.08.2019,2020,Woking,Harrogate,1,0
+10.08.2019,2020,Yeovil,Stockport,1,1
+06.08.2019,2020,AFC Fylde,Chorley,0,0
+06.08.2019,2020,Barrow,Harrogate,0,3
+06.08.2019,2020,Boreham Wood,Wrexham,2,2
+06.08.2019,2020,Bromley,Ebbsfleet,3,1
+06.08.2019,2020,Dover,Dag & Red,1,2
+06.08.2019,2020,FC Halifax,Hartlepool,2,0
+06.08.2019,2020,Maidenhead,Chesterfield,1,1
+06.08.2019,2020,Notts Co,Stockport,1,1
+06.08.2019,2020,Solihull Moors,Torquay,3,0
+06.08.2019,2020,Sutton,Barnet,1,1
+06.08.2019,2020,Woking,Aldershot,0,1
+06.08.2019,2020,Yeovil,Eastleigh,1,0
+03.08.2019,2020,Aldershot,AFC Fylde,1,2
+03.08.2019,2020,Barnet,Yeovil,1,0
+03.08.2019,2020,Chesterfield,Dover,1,2
+03.08.2019,2020,Chorley,Bromley,0,0
+03.08.2019,2020,Dag & Red,Woking,0,2
+03.08.2019,2020,Eastleigh,Notts Co,1,0
+03.08.2019,2020,Ebbsfleet,FC Halifax,1,4
+03.08.2019,2020,Harrogate,Solihull Moors,2,2
+03.08.2019,2020,Hartlepool,Sutton,1,3
+03.08.2019,2020,Stockport,Maidenhead,0,1
+03.08.2019,2020,Torquay,Boreham Wood,2,1
+03.08.2019,2020,Wrexham,Barrow,2,1

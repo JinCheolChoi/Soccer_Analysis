@@ -1,0 +1,204 @@
+"Time","H.team.1","A.team.1","H.team.2","A.team.2","Choose.1","Choose.2","Odd.1","Odd.2","joint.odds","result.mat"
+2015-08-08,"Bournemouth","Aston Villa","Chelsea","Swansea","A","A","4.4","9.86",43.384,0
+2015-08-08,"Chelsea","Swansea","Everton","Watford","A","A","9.86","4.77",47.0322,0
+2015-08-08,"Chelsea","Swansea","Leicester","Sunderland","A","A","9.86","4.7",46.342,0
+2015-08-08,"Chelsea","Swansea","Manchester United","Tottenham","A","A","9.86","5.78",56.9908,0
+2015-08-09,"Arsenal","West Ham","Newcastle","Southampton","A","D","13.21","3.21",42.4041,1
+2015-08-09,"Arsenal","West Ham","Stoke","Liverpool","A","H","13.21","3.66",48.3486,0
+2015-08-09,"Arsenal","West Ham","Stoke","Liverpool","A","D","13.21","3.38",44.6498,1
+2015-08-22,"Crystal Palace","Aston Villa","Manchester United","Newcastle","A","A","4.69","9.66",45.3054,0
+2015-08-29,"Aston Villa","Sunderland","Manchester City","Watford","D","A","3.3","13.89",45.837,0
+2015-08-29,"Aston Villa","Sunderland","Manchester City","Watford","A","A","3.87","13.89",53.7543,0
+2015-08-29,"Bournemouth","Leicester","Manchester City","Watford","D","A","3.6","13.89",50.004,0
+2015-08-29,"Bournemouth","Leicester","Manchester City","Watford","A","A","3.58","13.89",49.7262,0
+2015-08-29,"Chelsea","Crystal Palace","Liverpool","West Ham","A","D","9.12","5.05",46.056,0
+2015-08-29,"Chelsea","Crystal Palace","Liverpool","West Ham","D","A","4.93","8.96",44.1728,0
+2015-08-29,"Chelsea","Crystal Palace","Manchester City","Watford","A","D","9.12","6.88",62.7456,0
+2015-08-29,"Chelsea","Crystal Palace","Newcastle","Arsenal","A","H","9.12","5.61",51.1632,0
+2015-08-29,"Liverpool","West Ham","Manchester City","Watford","A","D","8.96","6.88",61.6448,0
+2015-08-29,"Liverpool","West Ham","Newcastle","Arsenal","A","H","8.96","5.61",50.2656,0
+2015-08-29,"Manchester City","Watford","Newcastle","Arsenal","A","D","13.89","4.31",59.8659,0
+2015-08-29,"Manchester City","Watford","Stoke","West Brom","A","D","13.89","3.24",45.0036,0
+2015-08-29,"Manchester City","Watford","Stoke","West Brom","A","A","13.89","3.95",54.8655,0
+2015-08-29,"Manchester City","Watford","Tottenham","Everton","A","D","13.89","3.46",48.0594,0
+2015-08-29,"Manchester City","Watford","Tottenham","Everton","A","A","13.89","3.72",51.6708,0
+2015-09-12,"Arsenal","Stoke","Crystal Palace","Manchester City","A","H","10.55","4.85",51.1675,0
+2015-09-12,"Arsenal","Stoke","Crystal Palace","Manchester City","A","D","10.55","3.77",39.7735,0
+2015-09-12,"Arsenal","Stoke","Manchester United","Liverpool","A","A","10.55","4.4",46.42,0
+2015-09-19,"Bournemouth","Sunderland","Manchester City","West Ham","D","A","4.41","10.76",47.4516,0
+2015-09-19,"Bournemouth","Sunderland","Manchester City","West Ham","A","A","5.76","10.76",61.9776,0
+2015-09-26,"Leicester","Arsenal","Manchester United","Sunderland","H","A","4.47","13.92",62.2224,0
+2015-09-26,"Leicester","Arsenal","Manchester United","Sunderland","D","A","3.91","13.92",54.4272,0
+2015-09-26,"Liverpool","Aston Villa","Manchester United","Sunderland","A","D","7.2","6.8",48.96,0
+2015-09-26,"Liverpool","Aston Villa","Manchester United","Sunderland","D","A","4.24","13.92",59.0208,0
+2015-09-26,"Liverpool","Aston Villa","Newcastle","Chelsea","A","H","7.2","5.51",39.672,1
+2015-09-26,"Manchester United","Sunderland","Newcastle","Chelsea","A","D","13.92","4.05",56.376,0
+2015-09-26,"Manchester United","Sunderland","Southampton","Swansea","A","D","13.92","3.52",48.9984,0
+2015-09-26,"Manchester United","Sunderland","Southampton","Swansea","A","A","13.92","4.52",62.9184,0
+2015-09-26,"Manchester United","Sunderland","Stoke","Bournemouth","A","D","13.92","3.35",46.632,0
+2015-09-26,"Manchester United","Sunderland","Stoke","Bournemouth","A","A","13.92","2.95",41.064,0
+2015-09-26,"Manchester United","Sunderland","Tottenham","Manchester City","A","H","13.92","3.45",48.024,1
+2015-09-26,"Manchester United","Sunderland","Tottenham","Manchester City","A","D","13.92","3.48",48.4416,0
+2015-09-26,"Manchester United","Sunderland","West Ham","Norwich","A","D","13.92","3.41",47.4672,0
+2015-09-26,"Manchester United","Sunderland","West Ham","Norwich","A","A","13.92","3.32",46.2144,0
+2015-10-03,"Aston Villa","Stoke","Manchester City","Newcastle","D","A","3.16","12.9",40.764,0
+2015-10-03,"Bournemouth","Watford","Manchester City","Newcastle","D","A","3.31","12.9",42.699,0
+2015-10-03,"Bournemouth","Watford","Manchester City","Newcastle","A","A","3.54","12.9",45.666,0
+2015-10-03,"Chelsea","Southampton","Manchester City","Newcastle","D","A","3.69","12.9",47.601,0
+2015-10-03,"Chelsea","Southampton","Manchester City","Newcastle","A","A","4.76","12.9",61.404,0
+2015-10-03,"Crystal Palace","West Brom","Manchester City","Newcastle","D","A","3.51","12.9",45.279,0
+2015-10-03,"Crystal Palace","West Brom","Manchester City","Newcastle","A","A","4.74","12.9",61.146,0
+2015-10-03,"Manchester City","Newcastle","Norwich","Leicester","A","D","12.9","3.37",43.473,1
+2015-10-03,"Manchester City","Newcastle","Norwich","Leicester","A","A","12.9","3.22",41.538,0
+2015-10-03,"Manchester City","Newcastle","Sunderland","West Ham","A","H","12.9","3.07",39.603,0
+2015-10-03,"Manchester City","Newcastle","Sunderland","West Ham","A","D","12.9","3.39",43.731,1
+2015-10-17,"Chelsea","Aston Villa","Crystal Palace","West Ham","A","A","9.51","4.2",39.942,0
+2015-10-17,"Chelsea","Aston Villa","Manchester City","Bournemouth","A","D","9.51","5.14",48.8814,0
+2015-10-17,"Chelsea","Aston Villa","Manchester City","Bournemouth","D","A","5.37","9.51",51.0687,0
+2015-10-17,"Chelsea","Aston Villa","Southampton","Leicester","A","A","9.51","4.79",45.5529,0
+2015-10-17,"Chelsea","Aston Villa","Watford","Arsenal","A","H","9.51","5.94",56.4894,0
+2015-10-17,"Chelsea","Aston Villa","Watford","Arsenal","A","D","9.51","4.21",40.0371,0
+2015-10-17,"Crystal Palace","West Ham","Manchester City","Bournemouth","A","A","4.2","9.51",39.942,0
+2015-10-17,"Manchester City","Bournemouth","Southampton","Leicester","A","A","9.51","4.79",45.5529,0
+2015-10-17,"Manchester City","Bournemouth","Watford","Arsenal","A","H","9.51","5.94",56.4894,0
+2015-10-17,"Manchester City","Bournemouth","Watford","Arsenal","A","D","9.51","4.21",40.0371,0
+2015-10-31,"Chelsea","Liverpool","Manchester City","Norwich","A","A","3.77","11.36",42.8272,0
+2015-10-31,"Crystal Palace","Manchester United","Manchester City","Norwich","H","A","4.12","11.36",46.8032,0
+2015-10-31,"Manchester City","Norwich","Swansea","Arsenal","A","H","11.36","4.62",52.4832,0
+2015-10-31,"Manchester City","Norwich","Swansea","Arsenal","A","D","11.36","3.81",43.2816,1
+2015-11-01,"Everton","Sunderland","Southampton","Bournemouth","A","A","7.12","6.46",45.9952,0
+2015-11-07,"Leicester","Watford","Manchester United","West Brom","A","A","4.18","10",41.8,0
+2015-11-07,"Manchester United","West Brom","Stoke","Chelsea","A","H","10","4.24",42.4,1
+2015-11-07,"Manchester United","West Brom","Sunderland","Southampton","A","H","10","4.65",46.5,1
+2015-11-08,"Aston Villa","Manchester City","Liverpool","Crystal Palace","H","A","8.05","5.99",48.2195,0
+2015-11-21,"Chelsea","Norwich","Everton","Aston Villa","A","A","8.07","5.52",44.5464,0
+2015-11-21,"Chelsea","Norwich","Southampton","Stoke","A","A","8.07","5.67",45.7569,0
+2015-11-21,"Chelsea","Norwich","West Brom","Arsenal","A","H","8.07","6.14",49.5498,0
+2015-11-29,"Liverpool","Swansea","Norwich","Arsenal","A","H","7.26","5.73",41.5998,0
+2015-12-05,"Arsenal","Sunderland","Chelsea","Bournemouth","A","D","10.76","4.7",50.572,0
+2015-12-05,"Arsenal","Sunderland","Chelsea","Bournemouth","D","A","5.93","8.59",50.9387,0
+2015-12-05,"Arsenal","Sunderland","Manchester United","West Ham","A","D","10.76","4.46",47.9896,0
+2015-12-05,"Arsenal","Sunderland","Manchester United","West Ham","D","A","5.93","7.95",47.1435,0
+2015-12-05,"Arsenal","Sunderland","Southampton","Aston Villa","A","D","10.76","4.34",46.6984,0
+2015-12-05,"Arsenal","Sunderland","Southampton","Aston Villa","D","A","5.93","7.07",41.9251,0
+2015-12-05,"Arsenal","Sunderland","Stoke","Manchester City","A","H","10.76","5.05",54.338,0
+2015-12-05,"Arsenal","Sunderland","Stoke","Manchester City","A","D","10.76","3.77",40.5652,0
+2015-12-05,"Arsenal","Sunderland","West Brom","Tottenham","A","H","10.76","4.58",49.2808,0
+2015-12-05,"Chelsea","Bournemouth","Southampton","Aston Villa","A","A","8.59","7.07",60.7313,0
+2015-12-05,"Chelsea","Bournemouth","Stoke","Manchester City","A","H","8.59","5.05",43.3795,0
+2015-12-05,"Manchester United","West Ham","Southampton","Aston Villa","A","A","7.95","7.07",56.2065,0
+2015-12-05,"Manchester United","West Ham","Stoke","Manchester City","A","H","7.95","5.05",40.1475,0
+2015-12-13,"Aston Villa","Arsenal","Liverpool","West Brom","H","A","6.23","8.36",52.0828,0
+2015-12-13,"Aston Villa","Arsenal","Tottenham","Newcastle","H","A","6.23","8.45",52.6435,0
+2015-12-13,"Liverpool","West Brom","Tottenham","Newcastle","A","D","8.36","5.24",43.8064,1
+2015-12-19,"Chelsea","Sunderland","Manchester United","Norwich","A","D","10.34","4.57",47.2538,0
+2015-12-19,"Chelsea","Sunderland","Manchester United","Norwich","D","A","5.45","8.05",43.8725,0
+2015-12-19,"Chelsea","Sunderland","Newcastle","Aston Villa","A","A","10.34","3.98",41.1532,0
+2015-12-26,"Aston Villa","West Ham","Manchester City","Sunderland","D","A","3.18","13.56",43.1208,0
+2015-12-26,"Aston Villa","West Ham","Manchester City","Sunderland","A","A","3.04","13.56",41.2224,0
+2015-12-26,"Bournemouth","Crystal Palace","Manchester City","Sunderland","D","A","3.39","13.56",45.9684,0
+2015-12-26,"Bournemouth","Crystal Palace","Manchester City","Sunderland","A","A","3.5","13.56",47.46,0
+2015-12-26,"Chelsea","Watford","Manchester City","Sunderland","A","D","6.97","7.2",50.184,0
+2015-12-26,"Chelsea","Watford","Manchester City","Sunderland","D","A","4.33","13.56",58.7148,0
+2015-12-26,"Chelsea","Watford","Tottenham","Norwich","A","A","6.97","7.53",52.4841,0
+2015-12-26,"Liverpool","Leicester","Manchester City","Sunderland","D","A","3.73","13.56",50.5788,0
+2015-12-26,"Liverpool","Leicester","Manchester City","Sunderland","A","A","3.63","13.56",49.2228,0
+2015-12-26,"Manchester City","Sunderland","Newcastle","Everton","A","H","13.56","3.39",45.9684,0
+2015-12-26,"Manchester City","Sunderland","Newcastle","Everton","A","D","13.56","3.47",47.0532,0
+2015-12-26,"Manchester City","Sunderland","Southampton","Arsenal","A","H","13.56","3.44",46.6464,0
+2015-12-26,"Manchester City","Sunderland","Southampton","Arsenal","A","D","13.56","3.36",45.5616,0
+2015-12-26,"Manchester City","Sunderland","Stoke","Manchester United","A","H","13.56","3.51",47.5956,0
+2015-12-26,"Manchester City","Sunderland","Stoke","Manchester United","A","D","13.56","3.2",43.392,0
+2015-12-26,"Manchester City","Sunderland","Swansea","West Brom","A","D","13.56","3.32",45.0192,0
+2015-12-26,"Manchester City","Sunderland","Swansea","West Brom","A","A","13.56","4.44",60.2064,0
+2015-12-26,"Manchester City","Sunderland","Tottenham","Norwich","A","D","13.56","4.47",60.6132,0
+2015-12-26,"Manchester City","Sunderland","Tottenham","Norwich","D","A","7.2","7.53",54.216,0
+2016-01-02,"Arsenal","Newcastle","Leicester","Bournemouth","A","D","11.79","3.65",43.0335,0
+2016-01-02,"Arsenal","Newcastle","Leicester","Bournemouth","A","A","11.79","4.04",47.6316,0
+2016-01-02,"Arsenal","Newcastle","Manchester United","Swansea","A","D","11.79","4.09",48.2211,0
+2016-01-02,"Arsenal","Newcastle","Manchester United","Swansea","D","A","6.49","7.73",50.1677,0
+2016-01-02,"Arsenal","Newcastle","Watford","Manchester City","A","H","11.79","4.89",57.6531,0
+2016-01-02,"Arsenal","Newcastle","Watford","Manchester City","A","D","11.79","3.89",45.8631,0
+2016-01-02,"Arsenal","Newcastle","West Ham","Liverpool","A","H","11.79","4.02",47.3958,0
+2016-01-02,"Arsenal","Newcastle","West Ham","Liverpool","A","D","11.79","3.47",40.9113,0
+2016-01-13,"Chelsea","West Brom","Manchester City","Everton","A","A","8.22","6.18",50.7996,0
+2016-01-16,"Chelsea","Everton","Manchester City","Crystal Palace","A","A","5.15","8.33",42.8995,0
+2016-01-16,"Chelsea","Everton","Tottenham","Sunderland","A","A","5.15","8.67",44.6505,0
+2016-01-16,"Manchester City","Crystal Palace","Southampton","West Brom","A","A","8.33","5.71",47.5643,0
+2016-01-16,"Manchester City","Crystal Palace","Tottenham","Sunderland","A","D","8.33","5",41.65,0
+2016-01-16,"Manchester City","Crystal Palace","Tottenham","Sunderland","D","A","4.94","8.67",42.8298,0
+2016-01-16,"Southampton","West Brom","Tottenham","Sunderland","A","A","5.71","8.67",49.5057,0
+2016-02-02,"Manchester United","Stoke","Sunderland","Manchester City","A","H","6.1","6.7",40.87,0
+2016-02-06,"Liverpool","Sunderland","Manchester City","Leicester","A","A","7.71","5.65",43.5615,0
+2016-02-06,"Liverpool","Sunderland","Southampton","West Ham","A","A","7.71","5.31",40.9401,0
+2016-02-06,"Liverpool","Sunderland","Tottenham","Watford","A","A","7.71","7.23",55.7433,0
+2016-02-06,"Manchester City","Leicester","Tottenham","Watford","A","A","5.65","7.23",40.8495,0
+2016-02-13,"Chelsea","Newcastle","Everton","West Brom","A","A","8.61","7.41",63.8001,0
+2016-02-13,"Chelsea","Newcastle","Sunderland","Manchester United","A","H","8.61","5.03",43.3083,1
+2016-03-02,"Arsenal","Swansea","Manchester United","Watford","A","D","10.96","3.93",43.0728,0
+2016-03-02,"Arsenal","Swansea","Manchester United","Watford","A","A","10.96","5.93",64.9928,0
+2016-03-02,"Arsenal","Swansea","Stoke","Newcastle","A","A","10.96","3.8",41.648,0
+2016-03-05,"Chelsea","Stoke","Manchester City","Aston Villa","A","D","6.99","7.25",50.6775,0
+2016-03-05,"Chelsea","Stoke","Southampton","Sunderland","A","A","6.99","5.92",41.3808,0
+2016-03-05,"Manchester City","Aston Villa","Newcastle","Bournemouth","A","H","17.9","2.58",46.182,0
+2016-03-05,"Manchester City","Aston Villa","Newcastle","Bournemouth","A","D","17.9","3.26",58.354,0
+2016-03-05,"Manchester City","Aston Villa","Newcastle","Bournemouth","A","A","17.9","2.86",51.194,0
+2016-03-05,"Manchester City","Aston Villa","Southampton","Sunderland","D","A","7.25","5.92",42.92,1
+2016-03-05,"Manchester City","Aston Villa","Swansea","Norwich","A","D","17.9","3.29",58.891,0
+2016-03-05,"Manchester City","Aston Villa","Tottenham","Arsenal","A","H","17.9","2.3",41.17,0
+2016-03-05,"Manchester City","Aston Villa","Tottenham","Arsenal","A","D","17.9","3.4",60.86,0
+2016-03-05,"Manchester City","Aston Villa","Tottenham","Arsenal","A","A","17.9","3.17",56.743,0
+2016-03-05,"Manchester City","Aston Villa","Watford","Leicester","A","H","17.9","2.93",52.447,0
+2016-03-05,"Manchester City","Aston Villa","Watford","Leicester","A","D","17.9","3.25",58.175,0
+2016-03-05,"Manchester City","Aston Villa","Watford","Leicester","A","A","17.9","2.53",45.287,0
+2016-04-02,"Arsenal","Watford","Aston Villa","Chelsea","A","H","9.19","5.06",46.5014,0
+2016-04-02,"Arsenal","Watford","West Ham","Crystal Palace","A","A","9.19","4.34",39.8846,0
+2016-04-09,"Crystal Palace","Norwich","Manchester City","West Brom","A","A","4.38","10.02",43.8876,0
+2016-04-09,"Manchester City","West Brom","Southampton","Newcastle","A","D","10.02","4.01",40.1802,0
+2016-04-09,"Manchester City","West Brom","Southampton","Newcastle","A","A","10.02","5.7",57.114,0
+2016-04-16,"Chelsea","Manchester City","Manchester United","Aston Villa","D","A","3.44","13.86",47.6784,0
+2016-04-16,"Everton","Southampton","Manchester United","Aston Villa","H","A","2.96","13.86",41.0256,0
+2016-04-16,"Everton","Southampton","Manchester United","Aston Villa","D","A","3.34","13.86",46.2924,0
+2016-04-16,"Manchester United","Aston Villa","Newcastle","Swansea","A","D","13.86","3.34",46.2924,1
+2016-04-16,"Manchester United","Aston Villa","Newcastle","Swansea","A","A","13.86","3.06",42.4116,0
+2016-04-16,"Manchester United","Aston Villa","Norwich","Sunderland","A","D","13.86","3.27",45.3222,1
+2016-04-16,"Manchester United","Aston Villa","Norwich","Sunderland","A","A","13.86","3.26",45.1836,0
+2016-04-16,"Manchester United","Aston Villa","West Brom","Watford","A","D","13.86","3.14",43.5204,1
+2016-04-16,"Manchester United","Aston Villa","West Brom","Watford","A","A","13.86","3.32",46.0152,0
+2016-04-20,"Manchester United","Crystal Palace","West Ham","Watford","A","A","8.22","7.49",61.5678,0
+2016-04-20,"Manchester United","Crystal Palace","Liverpool","Everton","A","A","8.22","5.16",42.4152,0
+2016-04-23,"Aston Villa","Southampton","Liverpool","Newcastle","H","A","6.72","6.38",42.8736,0
+2016-04-23,"Aston Villa","Southampton","Manchester City","Stoke","D","A","4.13","10.34",42.7042,0
+2016-04-23,"Liverpool","Newcastle","Manchester City","Stoke","D","A","4.59","10.34",47.4606,0
+2016-04-30,"Arsenal","Norwich","Everton","Bournemouth","A","D","12.33","3.62",44.6346,0
+2016-04-30,"Arsenal","Norwich","Newcastle","Crystal Palace","A","D","12.33","3.48",42.9084,0
+2016-04-30,"Arsenal","Norwich","Newcastle","Crystal Palace","A","A","12.33","3.6",44.388,0
+2016-04-30,"Arsenal","Norwich","Stoke","Sunderland","A","D","12.33","3.32",40.9356,0
+2016-04-30,"Arsenal","Norwich","Watford","Aston Villa","A","D","12.33","3.75",46.2375,0
+2016-04-30,"Arsenal","Norwich","Watford","Aston Villa","A","A","12.33","5.2",64.116,0
+2016-04-30,"Arsenal","Norwich","West Brom","West Ham","A","H","12.33","3.85",47.4705,0
+2016-04-30,"Arsenal","Norwich","West Brom","West Ham","A","D","12.33","3.49",43.0317,0
+2016-05-07,"Aston Villa","Newcastle","West Ham","Swansea","H","A","5.01","9",45.09,0
+2016-05-15,"Arsenal","Aston Villa","Chelsea","Leicester","A","H","22.05","2",44.1,0
+2016-05-15,"Arsenal","Aston Villa","Chelsea","Leicester","D","D","10.89","3.8",41.382,0
+2016-05-15,"Arsenal","Aston Villa","Everton","Norwich","D","D","10.89","4.12",44.8668,0
+2016-05-15,"Arsenal","Aston Villa","Everton","Norwich","D","A","10.89","4.61",50.2029,0
+2016-05-15,"Arsenal","Aston Villa","Newcastle","Tottenham","D","H","10.89","5.01",54.5589,0
+2016-05-15,"Arsenal","Aston Villa","Newcastle","Tottenham","D","D","10.89","4",43.56,0
+2016-05-15,"Arsenal","Aston Villa","Stoke","West Ham","D","D","10.89","3.76",40.9464,0
+2016-05-15,"Arsenal","Aston Villa","Stoke","West Ham","A","A","22.05","2.25",49.6125,0
+2016-05-15,"Arsenal","Aston Villa","Swansea","Manchester City","D","D","10.89","4.87",53.0343,0
+2016-05-15,"Arsenal","Aston Villa","Watford","Sunderland","D","D","10.89","4.21",45.8469,0
+2016-05-15,"Arsenal","Aston Villa","Watford","Sunderland","D","A","10.89","5.09",55.4301,0
+2016-05-15,"Arsenal","Aston Villa","West Brom","Liverpool","A","H","22.05","2.57",56.6685,0
+2016-05-15,"Arsenal","Aston Villa","West Brom","Liverpool","A","A","22.05","2.69",59.3145,0
+2016-05-15,"Chelsea","Leicester","Southampton","Crystal Palace","D","A","3.8","10.68",40.584,0
+2016-05-15,"Everton","Norwich","Southampton","Crystal Palace","D","A","4.12","10.68",44.0016,0
+2016-05-15,"Everton","Norwich","Southampton","Crystal Palace","A","A","4.61","10.68",49.2348,0
+2016-05-15,"Newcastle","Tottenham","Southampton","Crystal Palace","H","A","5.01","10.68",53.5068,0
+2016-05-15,"Newcastle","Tottenham","Southampton","Crystal Palace","D","A","4","10.68",42.72,0
+2016-05-15,"Southampton","Crystal Palace","Stoke","West Ham","A","D","10.68","3.76",40.1568,0
+2016-05-15,"Southampton","Crystal Palace","Swansea","Manchester City","D","H","6.26","6.77",42.3802,0
+2016-05-15,"Southampton","Crystal Palace","Swansea","Manchester City","A","D","10.68","4.87",52.0116,0
+2016-05-15,"Southampton","Crystal Palace","Watford","Sunderland","A","D","10.68","4.21",44.9628,0
+2016-05-15,"Southampton","Crystal Palace","Watford","Sunderland","A","A","10.68","5.09",54.3612,0

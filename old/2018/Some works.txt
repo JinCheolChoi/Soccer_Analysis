@@ -1,0 +1,48 @@
+Let O_{1} and O_{2} denote the two nominated odds by the bookmarker, m denote the bookmarker's margin. Then, the implied probability of each odds is calculated as
+
+P_{I}(O_{1})=1/O_{1}(1-m) and P_{I}(O_{2})=1/O_{2}(1-m), respectively.
+
+########################
+
+x
+(1-k)x=y
+z=1.4ky+(1-k)y=(0.4k+1)(1-k)x
+a=1.4kz+(1-k)z=(0.4k+1)z=(0.4k+1)(0.4k+1)(1-k)x
+(1-k)(0.4k+1)^n=1
+log(1-k)+nlog(0.4k+1)=0
+z(n) = x(1-k){(n-1)k+1}^n
+
+# the number of successive winnings to recover the money after one loss given kelly proportion (=k)
+n=-log(1-k)/log(0.4k+1)
+-2.5 < k
+0 < k < 1
+
+by L's hospital's rule, lim_{x->0}(-log(1-k)/log(0.4k+1))=-lim_{x->0}(log(1-k)/log(0.4k+1))=-lim_{x->0}((0.4k+1)/(0.4(1-k)))=2.5
+let r be defined as r = -log(1-k)/log(0.4k+1) - 2.5 
+0 < r
+0 < k < 1
+
+having a positive association with k, r can be alternatively used as an indicator of risk that the wagerer is willing to take.
+
+########################
+
+as win-draw-win game requires the wager to choose at least two individual games to place a bet,
+ we consider joint odds nominated on the possibilities of the result of two individual games
+# b : joint odds
+# k : kelly criterion
+# x : money
+# p : joint winning probability
+
+two possible results of betting : (1) win (2) lose
+
+expected gain = (b-1)kxp+(-kx(1-p))
+
+(b-1)kxp>kx(1-p)
+(b-1)p>(1-p)
+b>1+(1-p)/p
+b>1/p
+
+#
+so, if b>1/p, betting!
+
+

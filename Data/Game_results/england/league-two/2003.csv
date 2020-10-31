@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+08.05.2004,2003,Bury,Macclesfield,2,0
+08.05.2004,2003,Cheltenham,Huddersfield,1,1
+08.05.2004,2003,Doncaster,Carlisle,1,0
+08.05.2004,2003,Hull,Bristol Rovers,3,0
+08.05.2004,2003,Kidderminster,Boston Utd,2,0
+08.05.2004,2003,Leyton Orient,Cambridge Utd,0,1
+08.05.2004,2003,Lincoln,Yeovil,2,3
+08.05.2004,2003,Mansfield,Northampton,1,2
+08.05.2004,2003,Oxford Utd,Rochdale,2,0
+08.05.2004,2003,Scunthorpe,Darlington,0,1
+08.05.2004,2003,Southend,Torquay,1,2
+08.05.2004,2003,Swansea,York,0,0
+01.05.2004,2003,Boston Utd,Doncaster,0,0
+01.05.2004,2003,Bristol Rovers,Lincoln,3,1
+01.05.2004,2003,Cambridge Utd,Scunthorpe,3,2
+01.05.2004,2003,Carlisle,Cheltenham,1,1
+01.05.2004,2003,Darlington,Swansea,1,2
+01.05.2004,2003,Huddersfield,Mansfield,1,3
+01.05.2004,2003,Macclesfield,Oxford Utd,2,1
+01.05.2004,2003,Northampton,Bury,3,2
+01.05.2004,2003,Rochdale,Southend,1,1
+01.05.2004,2003,Torquay,Kidderminster,1,1
+01.05.2004,2003,Yeovil,Hull,1,2
+01.05.2004,2003,York,Leyton Orient,1,2
+24.04.2004,2003,Bury,Bristol Rovers,0,0
+24.04.2004,2003,Cheltenham,Torquay,1,3
+24.04.2004,2003,Doncaster,York,3,1
+24.04.2004,2003,Hull,Huddersfield,0,0
+24.04.2004,2003,Kidderminster,Rochdale,0,1
+24.04.2004,2003,Leyton Orient,Boston Utd,1,3
+24.04.2004,2003,Lincoln,Darlington,1,1
+24.04.2004,2003,Mansfield,Carlisle,2,3
+24.04.2004,2003,Oxford Utd,Cambridge Utd,2,2
+24.04.2004,2003,Scunthorpe,Macclesfield,1,0
+24.04.2004,2003,Southend,Yeovil,0,2
+24.04.2004,2003,Swansea,Northampton,0,2
+20.04.2004,2003,Northampton,Huddersfield,0,1
+20.04.2004,2003,Southend,Hull,2,2
+20.04.2004,2003,York,Yeovil,1,2
+17.04.2004,2003,Boston Utd,Mansfield,1,2
+17.04.2004,2003,Bristol Rovers,Swansea,2,1
+17.04.2004,2003,Cambridge Utd,Kidderminster,0,0
+17.04.2004,2003,Carlisle,Lincoln,0,2
+17.04.2004,2003,Darlington,Oxford Utd,2,0
+17.04.2004,2003,Huddersfield,Scunthorpe,3,2
+17.04.2004,2003,Macclesfield,Hull,1,1
+17.04.2004,2003,Northampton,Southend,2,2
+17.04.2004,2003,Rochdale,Leyton Orient,3,0
+17.04.2004,2003,Torquay,Doncaster,1,0
+17.04.2004,2003,Yeovil,Bury,2,1
+17.04.2004,2003,York,Cheltenham,0,2
+13.04.2004,2003,York,Bury,1,1
+12.04.2004,2003,Boston Utd,Yeovil,3,2
+12.04.2004,2003,Cheltenham,Scunthorpe,2,1
+12.04.2004,2003,Doncaster,Cambridge Utd,2,0
+12.04.2004,2003,Kidderminster,Huddersfield,2,1
+12.04.2004,2003,Leyton Orient,Carlisle,1,1
+12.04.2004,2003,Mansfield,Bristol Rovers,0,0
+12.04.2004,2003,Northampton,Lincoln,1,1
+12.04.2004,2003,Rochdale,Macclesfield,1,2
+12.04.2004,2003,Southend,Darlington,3,2
+12.04.2004,2003,Swansea,Hull,2,3
+12.04.2004,2003,Torquay,Oxford Utd,3,0
+10.04.2004,2003,Bristol Rovers,Doncaster,1,2
+10.04.2004,2003,Carlisle,Kidderminster,1,0
+10.04.2004,2003,Darlington,Mansfield,1,0
+10.04.2004,2003,Huddersfield,Southend,1,0
+10.04.2004,2003,Hull,Northampton,2,3
+10.04.2004,2003,Lincoln,Swansea,2,1
+10.04.2004,2003,Macclesfield,Leyton Orient,1,0
+10.04.2004,2003,Scunthorpe,Rochdale,2,2
+10.04.2004,2003,Yeovil,Cheltenham,0,0
+09.04.2004,2003,Bury,Torquay,2,1
+09.04.2004,2003,Cambridge Utd,York,2,0
+09.04.2004,2003,Oxford Utd,Boston Utd,0,0
+06.04.2004,2003,Mansfield,Oxford Utd,3,1
+04.04.2004,2003,York,Macclesfield,0,2
+03.04.2004,2003,Boston Utd,Darlington,1,0
+03.04.2004,2003,Cheltenham,Bristol Rovers,1,2
+03.04.2004,2003,Doncaster,Bury,3,1
+03.04.2004,2003,Kidderminster,Hull,1,1
+03.04.2004,2003,Leyton Orient,Huddersfield,1,1
+03.04.2004,2003,Mansfield,Cambridge Utd,1,1
+03.04.2004,2003,Northampton,Oxford Utd,2,1
+03.04.2004,2003,Rochdale,Lincoln,0,3
+03.04.2004,2003,Swansea,Carlisle,1,2
+03.04.2004,2003,Torquay,Yeovil,2,2
+02.04.2004,2003,Southend,Scunthorpe,4,2
+31.03.2004,2003,Boston Utd,Hull,1,2
+30.03.2004,2003,Macclesfield,Lincoln,0,0
+30.03.2004,2003,Mansfield,Torquay,2,1
+30.03.2004,2003,Rochdale,Doncaster,1,1
+27.03.2004,2003,Bristol Rovers,York,3,0
+27.03.2004,2003,Bury,Boston Utd,1,3
+27.03.2004,2003,Cambridge Utd,Cheltenham,2,1
+27.03.2004,2003,Carlisle,Southend,1,2
+27.03.2004,2003,Darlington,Torquay,1,1
+27.03.2004,2003,Huddersfield,Swansea,3,0
+27.03.2004,2003,Hull,Rochdale,1,0
+27.03.2004,2003,Lincoln,Kidderminster,1,1
+27.03.2004,2003,Macclesfield,Northampton,0,4
+27.03.2004,2003,Oxford Utd,Doncaster,0,0
+27.03.2004,2003,Scunthorpe,Leyton Orient,1,1
+27.03.2004,2003,Yeovil,Mansfield,1,1
+23.03.2004,2003,Scunthorpe,Carlisle,2,3
+23.03.2004,2003,Mansfield,Swansea,1,1
+20.03.2004,2003,Boston Utd,Bristol Rovers,1,0
+20.03.2004,2003,Cheltenham,Bury,1,2
+20.03.2004,2003,Doncaster,Darlington,1,1
+20.03.2004,2003,Kidderminster,Macclesfield,1,4
+20.03.2004,2003,Leyton Orient,Lincoln,0,2
+20.03.2004,2003,Rochdale,Carlisle,2,0
+20.03.2004,2003,Swansea,Scunthorpe,4,2
+20.03.2004,2003,Torquay,Cambridge Utd,3,0
+17.03.2004,2003,Oxford Utd,Cheltenham,1,0
+16.03.2004,2003,Bristol Rovers,Torquay,2,2
+16.03.2004,2003,Bury,Mansfield,3,0
+16.03.2004,2003,Cambridge Utd,Boston Utd,0,1
+16.03.2004,2003,Carlisle,Northampton,1,1
+16.03.2004,2003,Huddersfield,Rochdale,1,1
+16.03.2004,2003,Hull,Leyton Orient,3,0
+16.03.2004,2003,Lincoln,Southend,2,2
+16.03.2004,2003,Macclesfield,Swansea,2,1
+16.03.2004,2003,Scunthorpe,Kidderminster,0,2
+16.03.2004,2003,Yeovil,Doncaster,0,1
+13.03.2004,2003,Carlisle,Oxford Utd,2,0
+13.03.2004,2003,Darlington,Cambridge Utd,3,4
+13.03.2004,2003,Doncaster,Cheltenham,1,1
+13.03.2004,2003,Huddersfield,Macclesfield,4,0
+13.03.2004,2003,Hull,Scunthorpe,2,1
+13.03.2004,2003,Leyton Orient,Kidderminster,1,1
+13.03.2004,2003,Lincoln,Mansfield,4,1
+13.03.2004,2003,Northampton,Boston Utd,2,0
+13.03.2004,2003,Rochdale,Bury,0,0
+13.03.2004,2003,Southend,Swansea,1,1
+13.03.2004,2003,Yeovil,Bristol Rovers,4,0
+13.03.2004,2003,York,Torquay,0,0
+09.03.2004,2003,Darlington,Cheltenham,2,1
+09.03.2004,2003,Carlisle,Huddersfield,1,0
+09.03.2004,2003,Swansea,Rochdale,1,1
+09.03.2004,2003,York,Scunthorpe,1,3
+06.03.2004,2003,Boston Utd,Rochdale,2,0
+06.03.2004,2003,Bristol Rovers,Southend,1,1
+06.03.2004,2003,Bury,Leyton Orient,1,1
+06.03.2004,2003,Cambridge Utd,Northampton,0,1
+06.03.2004,2003,Cheltenham,Lincoln,3,2
+06.03.2004,2003,Kidderminster,York,4,1
+06.03.2004,2003,Macclesfield,Darlington,0,1
+06.03.2004,2003,Mansfield,Hull,1,0
+06.03.2004,2003,Oxford Utd,Huddersfield,0,1
+06.03.2004,2003,Scunthorpe,Yeovil,3,0
+06.03.2004,2003,Torquay,Carlisle,4,1
+05.03.2004,2003,Swansea,Doncaster,1,1
+03.03.2004,2003,Boston Utd,Southend,0,2
+03.03.2004,2003,Oxford Utd,York,0,0
+02.03.2004,2003,Cambridge Utd,Swansea,0,1
+02.03.2004,2003,Huddersfield,Yeovil,3,1
+02.03.2004,2003,Kidderminster,Northampton,2,1
+02.03.2004,2003,Leyton Orient,Bristol Rovers,1,1
+28.02.2004,2003,Bristol Rovers,Oxford Utd,1,1
+28.02.2004,2003,Bury,Darlington,1,1
+28.02.2004,2003,Cheltenham,Mansfield,4,2
+28.02.2004,2003,Lincoln,Hull,2,0
+28.02.2004,2003,Northampton,Leyton Orient,1,0
+28.02.2004,2003,Southend,Macclesfield,1,0
+28.02.2004,2003,Torquay,Boston Utd,2,0
+28.02.2004,2003,Yeovil,Cambridge Utd,4,1
+27.02.2004,2003,Doncaster,Kidderminster,5,0
+24.02.2004,2003,Swansea,Leyton Orient,2,1
+24.02.2004,2003,Bury,Southend,1,1
+24.02.2004,2003,Torquay,Scunthorpe,1,0
+21.02.2004,2003,Boston Utd,York,2,0
+21.02.2004,2003,Cambridge Utd,Bristol Rovers,3,1
+21.02.2004,2003,Darlington,Yeovil,3,2
+21.02.2004,2003,Huddersfield,Lincoln,2,1
+21.02.2004,2003,Hull,Torquay,0,1
+21.02.2004,2003,Kidderminster,Swansea,2,0
+21.02.2004,2003,Leyton Orient,Southend,2,1
+21.02.2004,2003,Macclesfield,Carlisle,1,1
+21.02.2004,2003,Mansfield,Doncaster,1,2
+21.02.2004,2003,Oxford Utd,Bury,1,1
+21.02.2004,2003,Rochdale,Cheltenham,0,0
+21.02.2004,2003,Scunthorpe,Northampton,1,0
+18.02.2004,2003,Boston Utd,Swansea,1,1
+17.02.2004,2003,Bristol Rovers,Huddersfield,1,1
+17.02.2004,2003,Cambridge Utd,Carlisle,2,2
+17.02.2004,2003,York,Lincoln,1,4
+17.02.2004,2003,Darlington,Northampton,1,2
+14.02.2004,2003,Bristol Rovers,Darlington,0,3
+14.02.2004,2003,Bury,Cambridge Utd,1,0
+14.02.2004,2003,Carlisle,Hull,1,1
+14.02.2004,2003,Cheltenham,Boston Utd,1,0
+14.02.2004,2003,Doncaster,Macclesfield,1,0
+14.02.2004,2003,Lincoln,Scunthorpe,1,1
+14.02.2004,2003,Northampton,Rochdale,3,1
+14.02.2004,2003,Southend,Kidderminster,3,0
+14.02.2004,2003,Torquay,Huddersfield,0,1
+14.02.2004,2003,Yeovil,Oxford Utd,1,0
+14.02.2004,2003,York,Mansfield,1,2
+11.02.2004,2003,Oxford Utd,Scunthorpe,3,2
+10.02.2004,2003,Kidderminster,Cheltenham,0,0
+07.02.2004,2003,Carlisle,Bury,2,1
+07.02.2004,2003,Huddersfield,Darlington,0,2
+07.02.2004,2003,Hull,York,2,1
+07.02.2004,2003,Kidderminster,Yeovil,0,1
+07.02.2004,2003,Leyton Orient,Oxford Utd,1,0
+07.02.2004,2003,Lincoln,Boston Utd,1,1
+07.02.2004,2003,Macclesfield,Cheltenham,1,2
+07.02.2004,2003,Northampton,Bristol Rovers,2,0
+07.02.2004,2003,Rochdale,Mansfield,3,0
+07.02.2004,2003,Scunthorpe,Doncaster,2,2
+07.02.2004,2003,Southend,Cambridge Utd,1,0
+07.02.2004,2003,Swansea,Torquay,1,2
+03.02.2004,2003,Northampton,Yeovil,2,0
+31.01.2004,2003,Cheltenham,Leyton Orient,1,0
+31.01.2004,2003,Darlington,Rochdale,1,0
+31.01.2004,2003,Oxford Utd,Kidderminster,2,1
+31.01.2004,2003,Yeovil,Macclesfield,2,2
+30.01.2004,2003,Doncaster,Northampton,1,0
+27.01.2004,2003,Scunthorpe,Mansfield,0,0
+27.01.2004,2003,Southend,York,0,0
+25.01.2004,2003,York,Huddersfield,0,2
+24.01.2004,2003,Bristol Rovers,Carlisle,1,0
+24.01.2004,2003,Bury,Kidderminster,0,0
+24.01.2004,2003,Cambridge Utd,Rochdale,0,0
+24.01.2004,2003,Cheltenham,Hull,0,2
+24.01.2004,2003,Mansfield,Southend,1,0
+24.01.2004,2003,Torquay,Macclesfield,4,1
+24.01.2004,2003,Yeovil,Leyton Orient,1,2
+23.01.2004,2003,Doncaster,Lincoln,0,2
+17.01.2004,2003,Carlisle,Yeovil,2,0
+17.01.2004,2003,Huddersfield,Boston Utd,2,0
+17.01.2004,2003,Hull,Oxford Utd,4,2
+17.01.2004,2003,Kidderminster,Darlington,1,1
+17.01.2004,2003,Leyton Orient,Mansfield,3,1
+17.01.2004,2003,Lincoln,Torquay,1,3
+17.01.2004,2003,Macclesfield,Cambridge Utd,0,1
+17.01.2004,2003,Northampton,York,2,1
+17.01.2004,2003,Rochdale,Bristol Rovers,2,2
+17.01.2004,2003,Scunthorpe,Bury,0,0
+17.01.2004,2003,Southend,Doncaster,0,2
+17.01.2004,2003,Swansea,Cheltenham,0,0
+13.01.2004,2003,Macclesfield,Bristol Rovers,2,1
+13.01.2004,2003,Lincoln,Cheltenham,0,0
+10.01.2004,2003,Boston Utd,Macclesfield,3,1
+10.01.2004,2003,Bristol Rovers,Scunthorpe,1,0
+10.01.2004,2003,Bury,Swansea,2,0
+10.01.2004,2003,Cambridge Utd,Huddersfield,1,2
+10.01.2004,2003,Darlington,Hull,0,1
+10.01.2004,2003,Doncaster,Leyton Orient,5,0
+10.01.2004,2003,Mansfield,Kidderminster,1,0
+10.01.2004,2003,Oxford Utd,Lincoln,0,0
+10.01.2004,2003,Torquay,Northampton,3,1
+10.01.2004,2003,Yeovil,Rochdale,1,0
+10.01.2004,2003,York,Carlisle,2,0
+09.01.2004,2003,Cheltenham,Southend,1,1
+06.01.2004,2003,Swansea,Oxford Utd,0,0
+03.01.2004,2003,Carlisle,Boston Utd,2,1
+03.01.2004,2003,Huddersfield,Doncaster,3,1
+03.01.2004,2003,Hull,Cambridge Utd,2,0
+03.01.2004,2003,Leyton Orient,Darlington,1,0
+03.01.2004,2003,Lincoln,Bury,2,1
+03.01.2004,2003,Rochdale,Torquay,1,0
+28.12.2003,2003,Carlisle,Darlington,1,1
+28.12.2003,2003,Huddersfield,Bury,1,0
+28.12.2003,2003,Hull,Doncaster,3,1
+28.12.2003,2003,Kidderminster,Bristol Rovers,1,0
+28.12.2003,2003,Leyton Orient,Torquay,0,0
+28.12.2003,2003,Lincoln,Cambridge Utd,2,2
+28.12.2003,2003,Macclesfield,Mansfield,1,1
+28.12.2003,2003,Northampton,Cheltenham,1,0
+28.12.2003,2003,Rochdale,York,1,2
+28.12.2003,2003,Scunthorpe,Boston Utd,0,1
+28.12.2003,2003,Southend,Oxford Utd,0,1
+28.12.2003,2003,Swansea,Yeovil,3,2
+26.12.2003,2003,Boston Utd,Lincoln,0,1
+26.12.2003,2003,Bristol Rovers,Northampton,1,2
+26.12.2003,2003,Bury,Carlisle,1,3
+26.12.2003,2003,Cambridge Utd,Southend,0,1
+26.12.2003,2003,Cheltenham,Macclesfield,3,2
+26.12.2003,2003,Darlington,Huddersfield,0,1
+26.12.2003,2003,Doncaster,Scunthorpe,1,0
+26.12.2003,2003,Mansfield,Rochdale,1,0
+26.12.2003,2003,Oxford Utd,Leyton Orient,2,1
+26.12.2003,2003,Torquay,Swansea,0,0
+26.12.2003,2003,Yeovil,Kidderminster,1,2
+26.12.2003,2003,York,Hull,0,2
+21.12.2003,2003,York,Kidderminster,1,0
+20.12.2003,2003,Carlisle,Torquay,2,0
+20.12.2003,2003,Darlington,Macclesfield,0,1
+20.12.2003,2003,Huddersfield,Oxford Utd,1,1
+20.12.2003,2003,Hull,Mansfield,0,1
+20.12.2003,2003,Leyton Orient,Bury,2,0
+20.12.2003,2003,Rochdale,Boston Utd,1,0
+20.12.2003,2003,Southend,Bristol Rovers,0,1
+20.12.2003,2003,Yeovil,Scunthorpe,2,1
+19.12.2003,2003,Doncaster,Swansea,3,1
+19.12.2003,2003,Northampton,Cambridge Utd,1,2
+13.12.2003,2003,Boston Utd,Northampton,1,1
+13.12.2003,2003,Bristol Rovers,Yeovil,0,1
+13.12.2003,2003,Bury,Rochdale,1,2
+13.12.2003,2003,Cambridge Utd,Darlington,1,0
+13.12.2003,2003,Cheltenham,Doncaster,1,3
+13.12.2003,2003,Kidderminster,Leyton Orient,2,1
+13.12.2003,2003,Macclesfield,Huddersfield,4,0
+13.12.2003,2003,Mansfield,Lincoln,1,2
+13.12.2003,2003,Oxford Utd,Carlisle,2,1
+13.12.2003,2003,Scunthorpe,Hull,1,1
+13.12.2003,2003,Swansea,Southend,2,3
+13.12.2003,2003,Torquay,York,1,1
+06.12.2003,2003,Darlington,York,3,0
+06.12.2003,2003,Hull,Bury,2,0
+29.11.2003,2003,Boston Utd,Kidderminster,2,2
+29.11.2003,2003,Bristol Rovers,Hull,2,1
+29.11.2003,2003,Cambridge Utd,Leyton Orient,1,4
+29.11.2003,2003,Carlisle,Doncaster,0,1
+29.11.2003,2003,Darlington,Scunthorpe,2,2
+29.11.2003,2003,Huddersfield,Cheltenham,0,0
+29.11.2003,2003,Macclesfield,Bury,1,0
+29.11.2003,2003,Northampton,Mansfield,0,3
+29.11.2003,2003,Rochdale,Oxford Utd,1,2
+29.11.2003,2003,Torquay,Southend,3,0
+29.11.2003,2003,Yeovil,Lincoln,3,1
+29.11.2003,2003,York,Swansea,0,0
+22.11.2003,2003,Bury,Northampton,1,0
+22.11.2003,2003,Cheltenham,Carlisle,2,1
+22.11.2003,2003,Doncaster,Boston Utd,3,0
+22.11.2003,2003,Hull,Yeovil,0,0
+22.11.2003,2003,Kidderminster,Torquay,1,2
+22.11.2003,2003,Leyton Orient,York,2,2
+22.11.2003,2003,Lincoln,Bristol Rovers,3,1
+22.11.2003,2003,Mansfield,Huddersfield,3,3
+22.11.2003,2003,Oxford Utd,Macclesfield,3,1
+22.11.2003,2003,Scunthorpe,Cambridge Utd,4,0
+22.11.2003,2003,Southend,Rochdale,4,0
+22.11.2003,2003,Swansea,Darlington,1,0
+17.11.2003,2003,Northampton,Swansea,2,1
+15.11.2003,2003,Boston Utd,Leyton Orient,3,0
+15.11.2003,2003,Bristol Rovers,Bury,1,2
+15.11.2003,2003,Cambridge Utd,Oxford Utd,1,1
+15.11.2003,2003,Carlisle,Mansfield,0,2
+15.11.2003,2003,Darlington,Lincoln,0,0
+15.11.2003,2003,Huddersfield,Hull,3,1
+15.11.2003,2003,Macclesfield,Scunthorpe,2,2
+15.11.2003,2003,Rochdale,Kidderminster,0,1
+15.11.2003,2003,Torquay,Cheltenham,3,1
+15.11.2003,2003,Yeovil,Southend,4,0
+15.11.2003,2003,York,Doncaster,1,0
+01.11.2003,2003,Bury,Yeovil,2,1
+01.11.2003,2003,Cheltenham,York,1,1
+01.11.2003,2003,Doncaster,Torquay,1,0
+01.11.2003,2003,Hull,Macclesfield,2,2
+01.11.2003,2003,Kidderminster,Cambridge Utd,2,2
+01.11.2003,2003,Leyton Orient,Rochdale,2,1
+01.11.2003,2003,Lincoln,Carlisle,2,0
+01.11.2003,2003,Mansfield,Boston Utd,2,1
+01.11.2003,2003,Oxford Utd,Darlington,3,1
+01.11.2003,2003,Scunthorpe,Huddersfield,6,2
+01.11.2003,2003,Southend,Northampton,0,1
+01.11.2003,2003,Swansea,Bristol Rovers,0,0
+25.10.2003,2003,Boston Utd,Torquay,4,0
+25.10.2003,2003,Cambridge Utd,Yeovil,1,4
+25.10.2003,2003,Darlington,Bury,1,3
+25.10.2003,2003,Huddersfield,Carlisle,2,1
+25.10.2003,2003,Hull,Lincoln,3,0
+25.10.2003,2003,Kidderminster,Doncaster,0,2
+25.10.2003,2003,Leyton Orient,Northampton,1,1
+25.10.2003,2003,Macclesfield,Southend,1,2
+25.10.2003,2003,Mansfield,Cheltenham,4,0
+25.10.2003,2003,Oxford Utd,Bristol Rovers,0,0
+25.10.2003,2003,Rochdale,Swansea,0,1
+25.10.2003,2003,Scunthorpe,York,0,0
+21.10.2003,2003,Bristol Rovers,Leyton Orient,1,1
+21.10.2003,2003,Bury,Hull,0,0
+21.10.2003,2003,Carlisle,Scunthorpe,1,4
+21.10.2003,2003,Cheltenham,Darlington,2,1
+21.10.2003,2003,Doncaster,Rochdale,2,1
+21.10.2003,2003,Lincoln,Macclesfield,3,2
+21.10.2003,2003,Northampton,Kidderminster,0,1
+21.10.2003,2003,Southend,Boston Utd,0,2
+21.10.2003,2003,Swansea,Cambridge Utd,0,2
+21.10.2003,2003,Torquay,Mansfield,1,0
+21.10.2003,2003,Yeovil,Huddersfield,2,1
+21.10.2003,2003,York,Oxford Utd,2,2
+18.10.2003,2003,Bristol Rovers,Cambridge Utd,0,2
+18.10.2003,2003,Bury,Oxford Utd,0,4
+18.10.2003,2003,Carlisle,Macclesfield,0,1
+18.10.2003,2003,Cheltenham,Rochdale,0,2
+18.10.2003,2003,Doncaster,Mansfield,4,2
+18.10.2003,2003,Lincoln,Huddersfield,3,1
+18.10.2003,2003,Southend,Leyton Orient,1,2
+18.10.2003,2003,Swansea,Kidderminster,0,0
+18.10.2003,2003,Torquay,Hull,1,1
+18.10.2003,2003,Yeovil,Darlington,1,0
+18.10.2003,2003,York,Boston Utd,1,1
+17.10.2003,2003,Northampton,Scunthorpe,1,1
+12.10.2003,2003,Hull,Carlisle,2,1
+11.10.2003,2003,Boston Utd,Cheltenham,3,1
+11.10.2003,2003,Cambridge Utd,Bury,1,2
+11.10.2003,2003,Darlington,Bristol Rovers,0,4
+11.10.2003,2003,Huddersfield,Torquay,1,0
+11.10.2003,2003,Kidderminster,Southend,1,2
+11.10.2003,2003,Leyton Orient,Swansea,1,2
+11.10.2003,2003,Macclesfield,Doncaster,1,3
+11.10.2003,2003,Mansfield,York,2,0
+11.10.2003,2003,Oxford Utd,Yeovil,1,0
+11.10.2003,2003,Rochdale,Northampton,1,1
+11.10.2003,2003,Scunthorpe,Lincoln,1,3
+04.10.2003,2003,Boston Utd,Oxford Utd,1,1
+04.10.2003,2003,Cheltenham,Yeovil,3,1
+04.10.2003,2003,Doncaster,Bristol Rovers,5,1
+04.10.2003,2003,Kidderminster,Carlisle,2,1
+04.10.2003,2003,Leyton Orient,Macclesfield,2,0
+04.10.2003,2003,Mansfield,Darlington,3,1
+04.10.2003,2003,Northampton,Hull,1,5
+04.10.2003,2003,Rochdale,Scunthorpe,2,0
+04.10.2003,2003,Southend,Huddersfield,1,2
+04.10.2003,2003,Swansea,Lincoln,2,2
+04.10.2003,2003,Torquay,Bury,3,1
+04.10.2003,2003,York,Cambridge Utd,2,0
+01.10.2003,2003,Oxford Utd,Torquay,1,0
+30.09.2003,2003,Bristol Rovers,Mansfield,1,3
+30.09.2003,2003,Bury,York,2,0
+30.09.2003,2003,Cambridge Utd,Doncaster,3,3
+30.09.2003,2003,Carlisle,Leyton Orient,0,1
+30.09.2003,2003,Darlington,Southend,0,0
+30.09.2003,2003,Huddersfield,Kidderminster,1,0
+30.09.2003,2003,Hull,Swansea,1,0
+30.09.2003,2003,Lincoln,Northampton,0,0
+30.09.2003,2003,Macclesfield,Rochdale,2,1
+30.09.2003,2003,Scunthorpe,Cheltenham,5,2
+30.09.2003,2003,Yeovil,Boston Utd,2,0
+27.09.2003,2003,Bristol Rovers,Cheltenham,2,0
+27.09.2003,2003,Bury,Doncaster,1,3
+27.09.2003,2003,Cambridge Utd,Mansfield,1,2
+27.09.2003,2003,Carlisle,Swansea,1,2
+27.09.2003,2003,Darlington,Boston Utd,3,0
+27.09.2003,2003,Huddersfield,Leyton Orient,3,0
+27.09.2003,2003,Hull,Kidderminster,6,1
+27.09.2003,2003,Lincoln,Rochdale,1,1
+27.09.2003,2003,Macclesfield,York,0,0
+27.09.2003,2003,Oxford Utd,Northampton,3,0
+27.09.2003,2003,Scunthorpe,Southend,1,1
+27.09.2003,2003,Yeovil,Torquay,0,2
+20.09.2003,2003,Boston Utd,Bury,1,0
+20.09.2003,2003,Cheltenham,Cambridge Utd,0,3
+20.09.2003,2003,Doncaster,Oxford Utd,2,0
+20.09.2003,2003,Kidderminster,Lincoln,1,2
+20.09.2003,2003,Leyton Orient,Scunthorpe,1,1
+20.09.2003,2003,Mansfield,Yeovil,0,1
+20.09.2003,2003,Northampton,Macclesfield,0,0
+20.09.2003,2003,Rochdale,Hull,0,2
+20.09.2003,2003,Southend,Carlisle,2,2
+20.09.2003,2003,Swansea,Huddersfield,2,0
+20.09.2003,2003,Torquay,Darlington,2,2
+20.09.2003,2003,York,Bristol Rovers,2,1
+17.09.2003,2003,Boston Utd,Cambridge Utd,1,2
+16.09.2003,2003,Cheltenham,Oxford Utd,0,0
+16.09.2003,2003,Doncaster,Yeovil,0,1
+16.09.2003,2003,Kidderminster,Scunthorpe,0,2
+16.09.2003,2003,Leyton Orient,Hull,1,1
+16.09.2003,2003,Mansfield,Bury,5,3
+16.09.2003,2003,Northampton,Carlisle,2,0
+16.09.2003,2003,Rochdale,Huddersfield,1,1
+16.09.2003,2003,Southend,Lincoln,0,2
+16.09.2003,2003,Swansea,Macclesfield,3,0
+16.09.2003,2003,Torquay,Bristol Rovers,2,1
+16.09.2003,2003,York,Darlington,1,1
+13.09.2003,2003,Bristol Rovers,Boston Utd,2,0
+13.09.2003,2003,Bury,Cheltenham,1,1
+13.09.2003,2003,Cambridge Utd,Torquay,1,1
+13.09.2003,2003,Carlisle,Rochdale,3,2
+13.09.2003,2003,Darlington,Doncaster,2,1
+13.09.2003,2003,Huddersfield,Northampton,3,0
+13.09.2003,2003,Hull,Southend,3,2
+13.09.2003,2003,Lincoln,Leyton Orient,0,0
+13.09.2003,2003,Macclesfield,Kidderminster,1,1
+13.09.2003,2003,Oxford Utd,Mansfield,1,1
+13.09.2003,2003,Scunthorpe,Swansea,2,2
+13.09.2003,2003,Yeovil,York,3,0
+08.09.2003,2003,Doncaster,Hull,0,0
+06.09.2003,2003,Boston Utd,Scunthorpe,1,1
+06.09.2003,2003,Bristol Rovers,Kidderminster,1,0
+06.09.2003,2003,Bury,Huddersfield,2,1
+06.09.2003,2003,Darlington,Carlisle,2,0
+06.09.2003,2003,Mansfield,Macclesfield,3,2
+06.09.2003,2003,Oxford Utd,Southend,2,0
+06.09.2003,2003,Torquay,Leyton Orient,2,1
+06.09.2003,2003,Yeovil,Swansea,2,0
+06.09.2003,2003,York,Rochdale,1,2
+05.09.2003,2003,Cambridge Utd,Lincoln,0,0
+05.09.2003,2003,Cheltenham,Northampton,4,3
+30.08.2003,2003,Carlisle,Cambridge Utd,0,0
+30.08.2003,2003,Huddersfield,Bristol Rovers,2,1
+30.08.2003,2003,Hull,Boston Utd,2,1
+30.08.2003,2003,Kidderminster,Oxford Utd,1,1
+30.08.2003,2003,Leyton Orient,Cheltenham,1,4
+30.08.2003,2003,Lincoln,York,3,0
+30.08.2003,2003,Macclesfield,Yeovil,4,1
+30.08.2003,2003,Northampton,Doncaster,1,0
+30.08.2003,2003,Rochdale,Darlington,4,2
+30.08.2003,2003,Scunthorpe,Torquay,2,1
+30.08.2003,2003,Southend,Bury,1,0
+30.08.2003,2003,Swansea,Mansfield,4,1
+26.08.2003,2003,Mansfield,Scunthorpe,5,0
+26.08.2003,2003,York,Southend,2,0
+25.08.2003,2003,Boston Utd,Carlisle,1,0
+25.08.2003,2003,Bristol Rovers,Macclesfield,2,2
+25.08.2003,2003,Bury,Lincoln,2,1
+25.08.2003,2003,Cambridge Utd,Hull,0,2
+25.08.2003,2003,Cheltenham,Kidderminster,2,1
+25.08.2003,2003,Darlington,Leyton Orient,2,1
+25.08.2003,2003,Doncaster,Huddersfield,1,1
+25.08.2003,2003,Oxford Utd,Swansea,3,0
+25.08.2003,2003,Torquay,Rochdale,1,3
+25.08.2003,2003,Yeovil,Northampton,0,2
+23.08.2003,2003,Carlisle,Bristol Rovers,0,2
+23.08.2003,2003,Huddersfield,York,0,1
+23.08.2003,2003,Hull,Cheltenham,3,3
+23.08.2003,2003,Kidderminster,Bury,0,2
+23.08.2003,2003,Leyton Orient,Yeovil,2,0
+23.08.2003,2003,Lincoln,Doncaster,0,0
+23.08.2003,2003,Macclesfield,Torquay,1,1
+23.08.2003,2003,Rochdale,Cambridge Utd,2,2
+23.08.2003,2003,Scunthorpe,Oxford Utd,1,1
+23.08.2003,2003,Southend,Mansfield,0,3
+22.08.2003,2003,Northampton,Darlington,1,0
+22.08.2003,2003,Swansea,Boston Utd,3,0
+16.08.2003,2003,Boston Utd,Huddersfield,2,2
+16.08.2003,2003,Bristol Rovers,Rochdale,0,0
+16.08.2003,2003,Bury,Scunthorpe,2,3
+16.08.2003,2003,Cambridge Utd,Macclesfield,3,1
+16.08.2003,2003,Cheltenham,Swansea,3,4
+16.08.2003,2003,Darlington,Kidderminster,0,2
+16.08.2003,2003,Doncaster,Southend,2,0
+16.08.2003,2003,Mansfield,Leyton Orient,1,1
+16.08.2003,2003,Oxford Utd,Hull,2,1
+16.08.2003,2003,Torquay,Lincoln,1,0
+16.08.2003,2003,Yeovil,Carlisle,3,0
+16.08.2003,2003,York,Northampton,1,0
+09.08.2003,2003,Carlisle,York,1,2
+09.08.2003,2003,Huddersfield,Cambridge Utd,2,2
+09.08.2003,2003,Hull,Darlington,4,1
+09.08.2003,2003,Kidderminster,Mansfield,2,1
+09.08.2003,2003,Leyton Orient,Doncaster,1,3
+09.08.2003,2003,Lincoln,Oxford Utd,0,1
+09.08.2003,2003,Macclesfield,Boston Utd,0,0
+09.08.2003,2003,Northampton,Torquay,0,1
+09.08.2003,2003,Rochdale,Yeovil,1,3
+09.08.2003,2003,Scunthorpe,Bristol Rovers,1,2
+09.08.2003,2003,Southend,Cheltenham,2,0
+09.08.2003,2003,Swansea,Bury,4,2

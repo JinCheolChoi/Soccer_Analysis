@@ -1,0 +1,463 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+17.11.2018,2018,Albirex Niigata,Renofa Yamaguchi,0,2
+17.11.2018,2018,Chiba,Tochigi,0,0
+17.11.2018,2018,Gifu,Avispa Fukuoka,0,0
+17.11.2018,2018,Kamatamare,Kyoto,0,2
+17.11.2018,2018,Kanazawa,Mito,3,1
+17.11.2018,2018,Kofu,Yokohama,0,1
+17.11.2018,2018,Kumamoto,Ehime,3,0
+17.11.2018,2018,Machida,Verdy,1,1
+17.11.2018,2018,Montedio Yamagata,Oita,1,1
+17.11.2018,2018,Okayama,Omiya Ardija,0,1
+17.11.2018,2018,Yamaga,Tokushima,0,0
+11.11.2018,2018,Avispa Fukuoka,Kumamoto,1,0
+11.11.2018,2018,Ehime,Machida,0,2
+11.11.2018,2018,Mito,Gifu,1,1
+11.11.2018,2018,Renofa Yamaguchi,Kofu,0,1
+11.11.2018,2018,Tochigi,Yamaga,0,1
+11.11.2018,2018,Tokushima,Albirex Niigata,0,0
+11.11.2018,2018,Verdy,Kamatamare,1,0
+10.11.2018,2018,Kyoto,Chiba,0,3
+10.11.2018,2018,Oita,Kanazawa,2,1
+10.11.2018,2018,Omiya Ardija,Montedio Yamagata,2,1
+10.11.2018,2018,Yokohama,Okayama,2,1
+04.11.2018,2018,Chiba,Tokushima,2,0
+04.11.2018,2018,Gifu,Montedio Yamagata,0,1
+04.11.2018,2018,Kamatamare,Tochigi,1,2
+04.11.2018,2018,Kanazawa,Omiya Ardija,1,1
+04.11.2018,2018,Kyoto,Ehime,0,1
+04.11.2018,2018,Machida,Avispa Fukuoka,2,1
+04.11.2018,2018,Mito,Kofu,2,0
+04.11.2018,2018,Okayama,Renofa Yamaguchi,0,1
+04.11.2018,2018,Yamaga,Verdy,1,0
+04.11.2018,2018,Yokohama,Oita,3,1
+03.11.2018,2018,Albirex Niigata,Kumamoto,2,3
+31.10.2018,2018,Kamatamare,Machida,1,1
+28.10.2018,2018,Albirex Niigata,Machida,2,0
+28.10.2018,2018,Avispa Fukuoka,Kanazawa,2,2
+28.10.2018,2018,Ehime,Verdy,2,2
+28.10.2018,2018,Gifu,Chiba,2,0
+28.10.2018,2018,Kofu,Kamatamare,1,0
+28.10.2018,2018,Kumamoto,Okayama,0,0
+28.10.2018,2018,Montedio Yamagata,Mito,0,1
+28.10.2018,2018,Oita,Yamaga,1,0
+28.10.2018,2018,Omiya Ardija,Kyoto,1,2
+28.10.2018,2018,Renofa Yamaguchi,Tochigi,1,0
+28.10.2018,2018,Tokushima,Yokohama,0,1
+21.10.2018,2018,Chiba,Oita,2,4
+21.10.2018,2018,Kamatamare,Renofa Yamaguchi,0,0
+21.10.2018,2018,Mito,Kumamoto,3,2
+21.10.2018,2018,Montedio Yamagata,Avispa Fukuoka,2,2
+21.10.2018,2018,Okayama,Machida,1,0
+21.10.2018,2018,Tochigi,Kofu,2,2
+21.10.2018,2018,Verdy,Tokushima,2,1
+21.10.2018,2018,Yamaga,Gifu,0,0
+21.10.2018,2018,Yokohama,Omiya Ardija,1,1
+20.10.2018,2018,Kyoto,Albirex Niigata,0,2
+19.10.2018,2018,Kanazawa,Ehime,0,0
+17.10.2018,2018,Renofa Yamaguchi,Machida,0,1
+16.10.2018,2018,Tokushima,Kofu,0,1
+14.10.2018,2018,Chiba,Montedio Yamagata,2,1
+14.10.2018,2018,Kamatamare,Kumamoto,1,0
+14.10.2018,2018,Kanazawa,Yamaga,0,2
+14.10.2018,2018,Machida,Oita,3,2
+14.10.2018,2018,Mito,Verdy,0,1
+13.10.2018,2018,Ehime,Yokohama,0,2
+13.10.2018,2018,Gifu,Okayama,2,1
+13.10.2018,2018,Kofu,Albirex Niigata,0,0
+13.10.2018,2018,Kyoto,Tokushima,1,0
+13.10.2018,2018,Omiya Ardija,Tochigi,1,0
+13.10.2018,2018,Renofa Yamaguchi,Avispa Fukuoka,0,1
+07.10.2018,2018,Kumamoto,Chiba,1,3
+07.10.2018,2018,Machida,Montedio Yamagata,0,0
+07.10.2018,2018,Oita,Kyoto,2,1
+07.10.2018,2018,Renofa Yamaguchi,Gifu,4,1
+07.10.2018,2018,Tochigi,Yokohama,0,0
+07.10.2018,2018,Tokushima,Kanazawa,0,3
+06.10.2018,2018,Albirex Niigata,Kamatamare,2,1
+06.10.2018,2018,Avispa Fukuoka,Okayama,1,1
+06.10.2018,2018,Omiya Ardija,Mito,2,1
+06.10.2018,2018,Verdy,Kofu,0,1
+06.10.2018,2018,Yamaga,Ehime,0,0
+30.09.2018,2018,Kanazawa,Gifu,2,0
+30.09.2018,2018,Kumamoto,Kyoto,0,4
+30.09.2018,2018,Montedio Yamagata,Yamaga,3,3
+30.09.2018,2018,Tochigi,Verdy,0,1
+30.09.2018,2018,Yokohama,Renofa Yamaguchi,2,3
+29.09.2018,2018,Avispa Fukuoka,Omiya Ardija,3,1
+29.09.2018,2018,Ehime,Chiba,1,0
+29.09.2018,2018,Mito,Oita,1,2
+29.09.2018,2018,Okayama,Albirex Niigata,1,2
+26.09.2018,2018,Kyoto,Avispa Fukuoka,1,0
+24.09.2018,2018,Kanazawa,Montedio Yamagata,1,0
+23.09.2018,2018,Chiba,Yokohama,0,1
+23.09.2018,2018,Gifu,Verdy,1,1
+23.09.2018,2018,Kamatamare,Omiya Ardija,0,2
+23.09.2018,2018,Mito,Albirex Niigata,0,1
+23.09.2018,2018,Yamaga,Kumamoto,2,0
+22.09.2018,2018,Ehime,Avispa Fukuoka,2,3
+22.09.2018,2018,Kofu,Okayama,2,0
+22.09.2018,2018,Kyoto,Tochigi,0,2
+22.09.2018,2018,Machida,Tokushima,1,1
+22.09.2018,2018,Renofa Yamaguchi,Oita,1,3
+19.09.2018,2018,Kofu,Omiya Ardija,1,0
+19.09.2018,2018,Kamatamare,Montedio Yamagata,1,1
+16.09.2018,2018,Chiba,Avispa Fukuoka,3,3
+16.09.2018,2018,Verdy,Kumamoto,2,2
+16.09.2018,2018,Yokohama,Mito,1,2
+15.09.2018,2018,Albirex Niigata,Kanazawa,2,1
+15.09.2018,2018,Montedio Yamagata,Kofu,1,1
+15.09.2018,2018,Oita,Kamatamare,5,0
+15.09.2018,2018,Okayama,Kyoto,2,2
+15.09.2018,2018,Omiya Ardija,Machida,1,0
+15.09.2018,2018,Tochigi,Ehime,1,3
+15.09.2018,2018,Tokushima,Gifu,2,1
+15.09.2018,2018,Yamaga,Renofa Yamaguchi,0,0
+12.09.2018,2018,Avispa Fukuoka,Yokohama,0,0
+09.09.2018,2018,Machida,Mito,0,0
+09.09.2018,2018,Okayama,Chiba,0,2
+09.09.2018,2018,Renofa Yamaguchi,Montedio Yamagata,0,1
+08.09.2018,2018,Albirex Niigata,Gifu,5,0
+08.09.2018,2018,Avispa Fukuoka,Yamaga,0,1
+08.09.2018,2018,Ehime,Kamatamare,0,0
+08.09.2018,2018,Kumamoto,Oita,1,3
+08.09.2018,2018,Kyoto,Kanazawa,0,0
+08.09.2018,2018,Tokushima,Tochigi,4,1
+08.09.2018,2018,Verdy,Yokohama,2,1
+01.09.2018,2018,Avispa Fukuoka,Oita,1,0
+01.09.2018,2018,Ehime,Albirex Niigata,0,0
+01.09.2018,2018,Gifu,Omiya Ardija,0,1
+01.09.2018,2018,Kamatamare,Tokushima,0,4
+01.09.2018,2018,Kanazawa,Verdy,0,1
+01.09.2018,2018,Kofu,Machida,0,2
+01.09.2018,2018,Mito,Yamaga,1,1
+01.09.2018,2018,Montedio Yamagata,Kumamoto,2,1
+01.09.2018,2018,Renofa Yamaguchi,Chiba,0,4
+01.09.2018,2018,Tochigi,Okayama,0,1
+01.09.2018,2018,Yokohama,Kyoto,3,1
+26.08.2018,2018,Albirex Niigata,Avispa Fukuoka,0,3
+26.08.2018,2018,Kumamoto,Tochigi,0,1
+26.08.2018,2018,Machida,Gifu,1,0
+26.08.2018,2018,Okayama,Mito,0,1
+26.08.2018,2018,Omiya Ardija,Renofa Yamaguchi,4,4
+25.08.2018,2018,Chiba,Verdy,2,3
+25.08.2018,2018,Kamatamare,Kanazawa,0,2
+25.08.2018,2018,Kyoto,Kofu,1,1
+25.08.2018,2018,Montedio Yamagata,Ehime,1,1
+25.08.2018,2018,Oita,Tokushima,0,1
+25.08.2018,2018,Yamaga,Yokohama,1,3
+22.08.2018,2018,Okayama,Tokushima,2,1
+19.08.2018,2018,Gifu,Kumamoto,0,2
+18.08.2018,2018,Kanazawa,Okayama,0,1
+18.08.2018,2018,Kofu,Ehime,0,1
+18.08.2018,2018,Mito,Chiba,1,0
+18.08.2018,2018,Omiya Ardija,Albirex Niigata,2,1
+18.08.2018,2018,Renofa Yamaguchi,Kyoto,1,2
+18.08.2018,2018,Tochigi,Avispa Fukuoka,1,0
+18.08.2018,2018,Tokushima,Montedio Yamagata,5,1
+18.08.2018,2018,Verdy,Oita,0,0
+18.08.2018,2018,Yamaga,Machida,0,1
+18.08.2018,2018,Yokohama,Kamatamare,2,0
+12.08.2018,2018,Ehime,Omiya Ardija,1,5
+12.08.2018,2018,Machida,Chiba,3,3
+12.08.2018,2018,Renofa Yamaguchi,Tokushima,2,2
+11.08.2018,2018,Albirex Niigata,Tochigi,0,3
+11.08.2018,2018,Avispa Fukuoka,Mito,2,0
+11.08.2018,2018,Gifu,Kyoto,2,3
+11.08.2018,2018,Kamatamare,Yamaga,0,1
+11.08.2018,2018,Kanazawa,Kofu,1,2
+11.08.2018,2018,Kumamoto,Yokohama,3,5
+11.08.2018,2018,Montedio Yamagata,Verdy,2,1
+11.08.2018,2018,Oita,Okayama,4,1
+05.08.2018,2018,Kumamoto,Kanazawa,0,1
+05.08.2018,2018,Oita,Albirex Niigata,4,0
+05.08.2018,2018,Okayama,Kamatamare,3,0
+04.08.2018,2018,Chiba,Yamaga,2,3
+04.08.2018,2018,Ehime,Renofa Yamaguchi,2,0
+04.08.2018,2018,Kofu,Avispa Fukuoka,1,2
+04.08.2018,2018,Kyoto,Montedio Yamagata,1,0
+04.08.2018,2018,Tochigi,Gifu,4,1
+04.08.2018,2018,Tokushima,Mito,1,0
+04.08.2018,2018,Verdy,Omiya Ardija,2,1
+04.08.2018,2018,Yokohama,Machida,2,3
+29.07.2018,2018,Albirex Niigata,Chiba,1,2
+29.07.2018,2018,Gifu,Oita,0,2
+29.07.2018,2018,Kyoto,Verdy,0,1
+29.07.2018,2018,Mito,Ehime,4,1
+29.07.2018,2018,Omiya Ardija,Kumamoto,2,1
+29.07.2018,2018,Tochigi,Kanazawa,1,1
+29.07.2018,2018,Yamaga,Kofu,1,0
+25.07.2018,2018,Chiba,Kofu,2,1
+25.07.2018,2018,Gifu,Kamatamare,2,3
+25.07.2018,2018,Kanazawa,Yokohama,0,0
+25.07.2018,2018,Kumamoto,Renofa Yamaguchi,2,2
+25.07.2018,2018,Machida,Kyoto,2,1
+25.07.2018,2018,Mito,Tochigi,0,0
+25.07.2018,2018,Montedio Yamagata,Okayama,1,0
+25.07.2018,2018,Oita,Ehime,0,1
+25.07.2018,2018,Omiya Ardija,Yamaga,1,2
+25.07.2018,2018,Tokushima,Avispa Fukuoka,3,1
+25.07.2018,2018,Verdy,Albirex Niigata,4,3
+21.07.2018,2018,Avispa Fukuoka,Verdy,0,0
+21.07.2018,2018,Ehime,Okayama,2,0
+21.07.2018,2018,Kamatamare,Chiba,2,1
+21.07.2018,2018,Kofu,Kumamoto,3,2
+21.07.2018,2018,Machida,Kanazawa,1,0
+21.07.2018,2018,Montedio Yamagata,Albirex Niigata,1,2
+21.07.2018,2018,Oita,Tochigi,0,0
+21.07.2018,2018,Renofa Yamaguchi,Mito,2,2
+21.07.2018,2018,Tokushima,Omiya Ardija,2,1
+21.07.2018,2018,Yamaga,Kyoto,1,0
+21.07.2018,2018,Yokohama,Gifu,3,0
+16.07.2018,2018,Kumamoto,Machida,2,3
+16.07.2018,2018,Kyoto,Mito,0,1
+16.07.2018,2018,Okayama,Yamaga,0,0
+15.07.2018,2018,Albirex Niigata,Yokohama,0,1
+15.07.2018,2018,Avispa Fukuoka,Kamatamare,3,1
+15.07.2018,2018,Chiba,Kanazawa,3,4
+15.07.2018,2018,Ehime,Tokushima,1,0
+15.07.2018,2018,Kofu,Gifu,1,3
+15.07.2018,2018,Omiya Ardija,Oita,1,0
+15.07.2018,2018,Tochigi,Montedio Yamagata,1,0
+15.07.2018,2018,Verdy,Renofa Yamaguchi,3,1
+08.07.2018,2018,Gifu,Ehime,1,2
+07.07.2018,2018,Chiba,Omiya Ardija,1,3
+07.07.2018,2018,Kanazawa,Renofa Yamaguchi,2,2
+07.07.2018,2018,Machida,Tochigi,0,1
+07.07.2018,2018,Mito,Kamatamare,5,0
+07.07.2018,2018,Oita,Kofu,2,4
+07.07.2018,2018,Tokushima,Kumamoto,1,0
+07.07.2018,2018,Verdy,Okayama,0,1
+07.07.2018,2018,Yamaga,Albirex Niigata,2,0
+07.07.2018,2018,Yokohama,Montedio Yamagata,1,1
+04.07.2018,2018,Kofu,Kanazawa,1,3
+01.07.2018,2018,Okayama,Kanazawa,3,3
+01.07.2018,2018,Renofa Yamaguchi,Yokohama,0,3
+30.06.2018,2018,Albirex Niigata,Mito,1,1
+30.06.2018,2018,Avispa Fukuoka,Machida,2,2
+30.06.2018,2018,Kamatamare,Verdy,3,1
+30.06.2018,2018,Kofu,Kyoto,1,1
+30.06.2018,2018,Kumamoto,Yamaga,1,3
+30.06.2018,2018,Montedio Yamagata,Gifu,2,0
+30.06.2018,2018,Omiya Ardija,Ehime,1,1
+30.06.2018,2018,Tochigi,Chiba,0,1
+30.06.2018,2018,Tokushima,Oita,3,0
+27.06.2018,2018,Okayama,Verdy,0,1
+24.06.2018,2018,Machida,Albirex Niigata,0,0
+24.06.2018,2018,Yokohama,Kofu,1,0
+23.06.2018,2018,Ehime,Mito,0,1
+23.06.2018,2018,Gifu,Renofa Yamaguchi,2,2
+23.06.2018,2018,Kamatamare,Okayama,1,0
+23.06.2018,2018,Kanazawa,Kumamoto,0,0
+23.06.2018,2018,Kyoto,Omiya Ardija,0,3
+23.06.2018,2018,Montedio Yamagata,Tokushima,3,2
+23.06.2018,2018,Oita,Avispa Fukuoka,1,0
+23.06.2018,2018,Verdy,Tochigi,3,0
+23.06.2018,2018,Yamaga,Chiba,4,2
+20.06.2018,2018,Albirex Niigata,Kofu,1,5
+17.06.2018,2018,Gifu,Machida,0,1
+17.06.2018,2018,Okayama,Yokohama,0,0
+16.06.2018,2018,Avispa Fukuoka,Albirex Niigata,0,2
+16.06.2018,2018,Chiba,Ehime,2,1
+16.06.2018,2018,Kanazawa,Tochigi,2,0
+16.06.2018,2018,Kofu,Montedio Yamagata,1,2
+16.06.2018,2018,Kumamoto,Kamatamare,1,1
+16.06.2018,2018,Mito,Omiya Ardija,1,2
+16.06.2018,2018,Tokushima,Renofa Yamaguchi,1,2
+16.06.2018,2018,Verdy,Kyoto,3,1
+16.06.2018,2018,Yamaga,Oita,1,4
+10.06.2018,2018,Albirex Niigata,Verdy,1,2
+10.06.2018,2018,Ehime,Oita,1,0
+10.06.2018,2018,Kamatamare,Gifu,0,1
+10.06.2018,2018,Kumamoto,Avispa Fukuoka,0,1
+10.06.2018,2018,Montedio Yamagata,Chiba,2,1
+10.06.2018,2018,Omiya Ardija,Yokohama,4,0
+10.06.2018,2018,Tochigi,Mito,1,2
+10.06.2018,2018,Tokushima,Machida,1,2
+09.06.2018,2018,Kyoto,Yamaga,0,1
+09.06.2018,2018,Renofa Yamaguchi,Okayama,1,0
+03.06.2018,2018,Oita,Kumamoto,2,0
+03.06.2018,2018,Yamaga,Tochigi,1,0
+03.06.2018,2018,Yokohama,Verdy,2,2
+02.06.2018,2018,Avispa Fukuoka,Tokushima,1,0
+02.06.2018,2018,Chiba,Renofa Yamaguchi,2,2
+02.06.2018,2018,Gifu,Mito,4,0
+02.06.2018,2018,Kanazawa,Kyoto,1,3
+02.06.2018,2018,Machida,Ehime,2,1
+02.06.2018,2018,Okayama,Montedio Yamagata,2,2
+02.06.2018,2018,Omiya Ardija,Kamatamare,2,2
+27.05.2018,2018,Chiba,Kumamoto,3,1
+27.05.2018,2018,Machida,Okayama,1,3
+27.05.2018,2018,Mito,Avispa Fukuoka,0,2
+27.05.2018,2018,Montedio Yamagata,Kanazawa,2,1
+27.05.2018,2018,Renofa Yamaguchi,Kamatamare,1,0
+27.05.2018,2018,Tochigi,Omiya Ardija,0,1
+26.05.2018,2018,Gifu,Albirex Niigata,2,1
+26.05.2018,2018,Kofu,Oita,6,2
+26.05.2018,2018,Kyoto,Yokohama,0,2
+26.05.2018,2018,Tokushima,Yamaga,1,1
+26.05.2018,2018,Verdy,Ehime,0,0
+20.05.2018,2018,Albirex Niigata,Montedio Yamagata,0,0
+20.05.2018,2018,Ehime,Kyoto,1,2
+20.05.2018,2018,Kamatamare,Kofu,0,3
+20.05.2018,2018,Kanazawa,Tokushima,0,0
+20.05.2018,2018,Kumamoto,Mito,2,1
+20.05.2018,2018,Oita,Renofa Yamaguchi,2,2
+20.05.2018,2018,Tochigi,Machida,0,0
+20.05.2018,2018,Yamaga,Avispa Fukuoka,1,0
+20.05.2018,2018,Yokohama,Chiba,3,3
+19.05.2018,2018,Omiya Ardija,Gifu,0,2
+13.05.2018,2018,Machida,Kamatamare,3,0
+13.05.2018,2018,Mito,Okayama,3,0
+13.05.2018,2018,Montedio Yamagata,Omiya Ardija,1,1
+13.05.2018,2018,Oita,Gifu,2,1
+12.05.2018,2018,Avispa Fukuoka,Ehime,2,0
+12.05.2018,2018,Chiba,Albirex Niigata,1,2
+12.05.2018,2018,Kofu,Tochigi,2,1
+12.05.2018,2018,Renofa Yamaguchi,Verdy,4,3
+12.05.2018,2018,Tokushima,Kyoto,1,0
+12.05.2018,2018,Yamaga,Kanazawa,5,0
+12.05.2018,2018,Yokohama,Kumamoto,4,2
+06.05.2018,2018,Albirex Niigata,Oita,1,2
+06.05.2018,2018,Ehime,Tochigi,1,1
+06.05.2018,2018,Gifu,Yamaga,2,0
+06.05.2018,2018,Kumamoto,Kofu,1,4
+06.05.2018,2018,Kyoto,Renofa Yamaguchi,1,2
+06.05.2018,2018,Machida,Yokohama,1,0
+06.05.2018,2018,Mito,Tokushima,0,1
+06.05.2018,2018,Montedio Yamagata,Kamatamare,2,0
+06.05.2018,2018,Okayama,Avispa Fukuoka,2,2
+06.05.2018,2018,Omiya Ardija,Chiba,0,1
+06.05.2018,2018,Verdy,Kanazawa,0,1
+03.05.2018,2018,Avispa Fukuoka,Montedio Yamagata,2,1
+03.05.2018,2018,Chiba,Okayama,1,0
+03.05.2018,2018,Kamatamare,Yokohama,1,2
+03.05.2018,2018,Kanazawa,Albirex Niigata,2,3
+03.05.2018,2018,Kofu,Renofa Yamaguchi,1,1
+03.05.2018,2018,Kumamoto,Gifu,1,2
+03.05.2018,2018,Oita,Omiya Ardija,1,2
+03.05.2018,2018,Tochigi,Kyoto,3,1
+03.05.2018,2018,Tokushima,Ehime,2,0
+03.05.2018,2018,Verdy,Machida,1,4
+03.05.2018,2018,Yamaga,Mito,2,0
+28.04.2018,2018,Ehime,Yamaga,1,1
+28.04.2018,2018,Gifu,Kanazawa,0,1
+28.04.2018,2018,Kamatamare,Avispa Fukuoka,1,1
+28.04.2018,2018,Kofu,Chiba,1,1
+28.04.2018,2018,Mito,Kyoto,1,2
+28.04.2018,2018,Montedio Yamagata,Tochigi,0,1
+28.04.2018,2018,Oita,Machida,4,3
+28.04.2018,2018,Okayama,Kumamoto,3,1
+28.04.2018,2018,Omiya Ardija,Verdy,2,0
+28.04.2018,2018,Renofa Yamaguchi,Albirex Niigata,1,2
+28.04.2018,2018,Yokohama,Tokushima,1,0
+22.04.2018,2018,Albirex Niigata,Omiya Ardija,0,1
+22.04.2018,2018,Avispa Fukuoka,Chiba,3,1
+22.04.2018,2018,Kanazawa,Oita,0,1
+22.04.2018,2018,Machida,Renofa Yamaguchi,1,2
+22.04.2018,2018,Tokushima,Kamatamare,0,1
+22.04.2018,2018,Yamaga,Montedio Yamagata,1,0
+22.04.2018,2018,Yokohama,Tochigi,0,0
+21.04.2018,2018,Ehime,Kofu,0,0
+21.04.2018,2018,Kyoto,Kumamoto,1,2
+21.04.2018,2018,Okayama,Gifu,0,0
+21.04.2018,2018,Verdy,Mito,3,0
+15.04.2018,2018,Chiba,Machida,3,2
+15.04.2018,2018,Gifu,Tokushima,0,0
+15.04.2018,2018,Kamatamare,Ehime,1,1
+15.04.2018,2018,Kumamoto,Verdy,0,0
+15.04.2018,2018,Mito,Kanazawa,1,0
+15.04.2018,2018,Montedio Yamagata,Kyoto,1,0
+15.04.2018,2018,Oita,Yokohama,1,1
+15.04.2018,2018,Tochigi,Albirex Niigata,2,1
+14.04.2018,2018,Avispa Fukuoka,Renofa Yamaguchi,2,0
+14.04.2018,2018,Kofu,Yamaga,0,1
+14.04.2018,2018,Omiya Ardija,Okayama,1,1
+08.04.2018,2018,Albirex Niigata,Okayama,0,1
+08.04.2018,2018,Ehime,Montedio Yamagata,0,2
+08.04.2018,2018,Kanazawa,Chiba,3,1
+08.04.2018,2018,Machida,Kumamoto,2,2
+08.04.2018,2018,Tochigi,Tokushima,1,1
+08.04.2018,2018,Yamaga,Kamatamare,1,1
+08.04.2018,2018,Yokohama,Avispa Fukuoka,2,2
+07.04.2018,2018,Kofu,Mito,1,1
+07.04.2018,2018,Kyoto,Oita,0,1
+07.04.2018,2018,Renofa Yamaguchi,Omiya Ardija,2,1
+07.04.2018,2018,Verdy,Gifu,0,0
+01.04.2018,2018,Avispa Fukuoka,Tochigi,2,1
+01.04.2018,2018,Gifu,Kofu,3,4
+01.04.2018,2018,Kumamoto,Albirex Niigata,3,1
+01.04.2018,2018,Mito,Machida,0,1
+01.04.2018,2018,Oita,Chiba,4,0
+01.04.2018,2018,Okayama,Ehime,0,1
+01.04.2018,2018,Tokushima,Verdy,0,4
+01.04.2018,2018,Yamaga,Omiya Ardija,3,2
+01.04.2018,2018,Yokohama,Kanazawa,0,4
+31.03.2018,2018,Kyoto,Kamatamare,1,1
+31.03.2018,2018,Montedio Yamagata,Renofa Yamaguchi,0,1
+25.03.2018,2018,Albirex Niigata,Tokushima,1,0
+25.03.2018,2018,Chiba,Kyoto,2,0
+25.03.2018,2018,Ehime,Gifu,1,3
+25.03.2018,2018,Kamatamare,Oita,1,2
+25.03.2018,2018,Kanazawa,Machida,1,1
+25.03.2018,2018,Mito,Yokohama,0,0
+25.03.2018,2018,Okayama,Kofu,1,0
+25.03.2018,2018,Omiya Ardija,Avispa Fukuoka,2,1
+25.03.2018,2018,Renofa Yamaguchi,Yamaga,2,2
+25.03.2018,2018,Tochigi,Kumamoto,1,0
+25.03.2018,2018,Verdy,Montedio Yamagata,0,0
+21.03.2018,2018,Albirex Niigata,Ehime,0,1
+21.03.2018,2018,Chiba,Kamatamare,6,1
+21.03.2018,2018,Gifu,Tochigi,1,1
+21.03.2018,2018,Kofu,Tokushima,0,1
+21.03.2018,2018,Kumamoto,Omiya Ardija,2,1
+21.03.2018,2018,Kyoto,Okayama,0,1
+21.03.2018,2018,Machida,Yamaga,2,1
+21.03.2018,2018,Montedio Yamagata,Yokohama,2,3
+21.03.2018,2018,Oita,Mito,3,1
+21.03.2018,2018,Renofa Yamaguchi,Kanazawa,2,2
+21.03.2018,2018,Verdy,Avispa Fukuoka,1,1
+17.03.2018,2018,Avispa Fukuoka,Kofu,0,2
+17.03.2018,2018,Ehime,Kumamoto,1,2
+17.03.2018,2018,Kyoto,Gifu,2,1
+17.03.2018,2018,Mito,Renofa Yamaguchi,3,0
+17.03.2018,2018,Montedio Yamagata,Machida,2,2
+17.03.2018,2018,Oita,Verdy,0,0
+17.03.2018,2018,Omiya Ardija,Kanazawa,1,1
+17.03.2018,2018,Tochigi,Kamatamare,1,0
+17.03.2018,2018,Tokushima,Chiba,4,1
+17.03.2018,2018,Yamaga,Okayama,1,1
+17.03.2018,2018,Yokohama,Albirex Niigata,0,3
+11.03.2018,2018,Albirex Niigata,Kyoto,1,1
+11.03.2018,2018,Chiba,Gifu,2,3
+11.03.2018,2018,Kamatamare,Mito,1,2
+11.03.2018,2018,Kanazawa,Avispa Fukuoka,0,1
+11.03.2018,2018,Kumamoto,Montedio Yamagata,1,2
+11.03.2018,2018,Machida,Kofu,0,0
+11.03.2018,2018,Okayama,Oita,1,0
+11.03.2018,2018,Tochigi,Renofa Yamaguchi,2,5
+11.03.2018,2018,Verdy,Yamaga,2,1
+11.03.2018,2018,Yokohama,Ehime,3,0
+10.03.2018,2018,Omiya Ardija,Tokushima,0,1
+04.03.2018,2018,Chiba,Mito,0,0
+04.03.2018,2018,Kanazawa,Kamatamare,0,1
+04.03.2018,2018,Kumamoto,Tokushima,2,1
+04.03.2018,2018,Machida,Omiya Ardija,3,2
+04.03.2018,2018,Oita,Montedio Yamagata,2,2
+04.03.2018,2018,Okayama,Tochigi,3,0
+04.03.2018,2018,Renofa Yamaguchi,Ehime,1,0
+03.03.2018,2018,Albirex Niigata,Yamaga,1,1
+03.03.2018,2018,Avispa Fukuoka,Kyoto,2,2
+03.03.2018,2018,Gifu,Yokohama,0,1
+03.03.2018,2018,Kofu,Verdy,0,0
+25.02.2018,2018,Avispa Fukuoka,Gifu,2,0
+25.02.2018,2018,Ehime,Kanazawa,1,2
+25.02.2018,2018,Kamatamare,Albirex Niigata,0,1
+25.02.2018,2018,Kyoto,Machida,0,2
+25.02.2018,2018,Mito,Montedio Yamagata,3,0
+25.02.2018,2018,Omiya Ardija,Kofu,2,1
+25.02.2018,2018,Renofa Yamaguchi,Kumamoto,4,1
+25.02.2018,2018,Tochigi,Oita,2,4
+25.02.2018,2018,Tokushima,Okayama,0,1
+25.02.2018,2018,Verdy,Chiba,2,1
+25.02.2018,2018,Yokohama,Yamaga,0,0

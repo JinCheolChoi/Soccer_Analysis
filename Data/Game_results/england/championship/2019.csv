@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+22.07.,2019,Birmingham,Derby,1,3
+22.07.,2019,Brentford,Barnsley,1,2
+22.07.,2019,Bristol City,Preston,1,1
+22.07.,2019,Cardiff,Hull,3,0
+22.07.,2019,Leeds,Charlton,4,0
+22.07.,2019,Luton,Blackburn,3,2
+22.07.,2019,Millwall,Huddersfield,4,1
+22.07.,2019,Nottingham,Stoke,1,4
+22.07.,2019,Reading,Swansea,1,4
+22.07.,2019,Sheffield Wed,Middlesbrough,1,2
+22.07.,2019,West Brom,QPR,2,2
+22.07.,2019,Wigan,Fulham,1,1
+19.07.,2019,Barnsley,Nottingham,1,0
+19.07.,2019,Derby,Leeds,1,3
+18.07.,2019,Blackburn,Reading,4,3
+18.07.,2019,Charlton,Wigan,2,2
+18.07.,2019,Fulham,Sheffield Wed,5,3
+18.07.,2019,Hull,Luton,0,1
+18.07.,2019,Middlesbrough,Cardiff,1,3
+18.07.,2019,Preston,Birmingham,2,0
+18.07.,2019,QPR,Millwall,4,3
+18.07.,2019,Stoke,Brentford,1,0
+18.07.,2019,Swansea,Bristol City,1,0
+17.07.,2019,Huddersfield,West Brom,2,1
+16.07.,2019,Leeds,Barnsley,1,0
+15.07.,2019,Birmingham,Charlton,1,1
+15.07.,2019,Brentford,Preston,1,0
+15.07.,2019,Bristol City,Stoke,1,1
+15.07.,2019,Nottingham,Swansea,2,2
+14.07.,2019,Cardiff,Derby,2,1
+14.07.,2019,Luton,QPR,1,1
+14.07.,2019,Millwall,Blackburn,1,0
+14.07.,2019,Reading,Middlesbrough,1,2
+14.07.,2019,Sheffield Wed,Huddersfield,0,0
+14.07.,2019,West Brom,Fulham,0,0
+14.07.,2019,Wigan,Hull,8,0
+12.07.,2019,Stoke,Birmingham,2,0
+12.07.,2019,Swansea,Leeds,0,1
+11.07.,2019,Barnsley,Wigan,0,0
+11.07.,2019,Blackburn,West Brom,1,1
+11.07.,2019,Charlton,Reading,0,1
+11.07.,2019,Derby,Brentford,1,3
+11.07.,2019,Hull,Millwall,0,1
+11.07.,2019,Middlesbrough,Bristol City,1,3
+11.07.,2019,Preston,Nottingham,1,1
+11.07.,2019,QPR,Sheffield Wed,0,3
+10.07.,2019,Fulham,Cardiff,2,0
+10.07.,2019,Huddersfield,Luton,0,2
+09.07.,2019,Leeds,Stoke,5,0
+08.07.,2019,Birmingham,Swansea,1,3
+08.07.,2019,Bristol City,Hull,2,1
+08.07.,2019,Millwall,Middlesbrough,0,2
+08.07.,2019,Sheffield Wed,Preston,1,3
+08.07.,2019,West Brom,Derby,2,0
+08.07.,2019,Wigan,QPR,1,0
+07.07.,2019,Brentford,Charlton,2,1
+07.07.,2019,Cardiff,Blackburn,2,3
+07.07.,2019,Luton,Barnsley,1,1
+07.07.,2019,Nottingham,Fulham,0,1
+07.07.,2019,Reading,Huddersfield,0,0
+05.07.,2019,Middlesbrough,QPR,0,1
+05.07.,2019,Swansea,Sheffield Wed,2,1
+05.07.,2019,West Brom,Hull,4,2
+04.07.,2019,Blackburn,Leeds,1,3
+04.07.,2019,Brentford,Wigan,3,0
+04.07.,2019,Bristol City,Cardiff,0,1
+04.07.,2019,Derby,Nottingham,1,1
+04.07.,2019,Fulham,Birmingham,1,0
+04.07.,2019,Huddersfield,Preston,0,0
+04.07.,2019,Luton,Reading,0,5
+04.07.,2019,Stoke,Barnsley,4,0
+03.07.,2019,Charlton,Millwall,0,1
+02.07.,2019,Hull,Middlesbrough,2,1
+01.07.,2019,Birmingham,Huddersfield,0,3
+01.07.,2019,Nottingham,Bristol City,1,0
+01.07.,2019,Preston,Derby,0,1
+01.07.,2019,Sheffield Wed,West Brom,0,3
+30.06.,2019,Barnsley,Blackburn,2,0
+30.06.,2019,Cardiff,Charlton,0,0
+30.06.,2019,Leeds,Luton,1,1
+30.06.,2019,Millwall,Swansea,1,1
+30.06.,2019,QPR,Fulham,1,2
+30.06.,2019,Reading,Brentford,0,3
+30.06.,2019,Wigan,Stoke,3,0
+28.06.,2019,Bristol City,Sheffield Wed,1,2
+28.06.,2019,Nottingham,Huddersfield,3,1
+27.06.,2019,Barnsley,Millwall,0,0
+27.06.,2019,Birmingham,Hull,3,3
+27.06.,2019,Charlton,QPR,1,0
+27.06.,2019,Derby,Reading,2,1
+27.06.,2019,Leeds,Fulham,3,0
+27.06.,2019,Preston,Cardiff,1,3
+27.06.,2019,Stoke,Middlesbrough,0,2
+27.06.,2019,Swansea,Luton,0,1
+27.06.,2019,Wigan,Blackburn,2,0
+26.06.,2019,Brentford,West Brom,1,0
+21.06.,2019,Cardiff,Leeds,2,0
+20.06.,2019,Blackburn,Bristol City,3,1
+20.06.,2019,Fulham,Brentford,0,2
+20.06.,2019,Huddersfield,Wigan,0,2
+20.06.,2019,Hull,Charlton,0,1
+20.06.,2019,Luton,Preston,1,1
+20.06.,2019,Middlesbrough,Swansea,0,3
+20.06.,2019,Millwall,Derby,2,3
+20.06.,2019,QPR,Barnsley,0,1
+20.06.,2019,Reading,Stoke,1,1
+20.06.,2019,Sheffield Wed,Nottingham,1,1
+20.06.,2019,West Brom,Birmingham,0,0
+08.03.,2019,Derby,Blackburn,3,0
+07.03.,2019,Barnsley,Cardiff,0,2
+07.03.,2019,Birmingham,Reading,1,3
+07.03.,2019,Brentford,Sheffield Wed,5,0
+07.03.,2019,Bristol City,Fulham,1,1
+07.03.,2019,Charlton,Middlesbrough,0,1
+07.03.,2019,Leeds,Huddersfield,2,0
+07.03.,2019,Preston,QPR,1,3
+07.03.,2019,Stoke,Hull,5,1
+07.03.,2019,Swansea,West Brom,0,0
+07.03.,2019,Wigan,Luton,0,0
+06.03.,2019,Nottingham,Millwall,0,3
+02.03.,2019,Middlesbrough,Nottingham,2,2
+29.02.,2019,Blackburn,Swansea,2,2
+29.02.,2019,Cardiff,Brentford,2,2
+29.02.,2019,Fulham,Preston,2,0
+29.02.,2019,Huddersfield,Charlton,4,0
+29.02.,2019,Hull,Leeds,0,4
+29.02.,2019,Luton,Stoke,1,1
+29.02.,2019,Millwall,Bristol City,1,1
+29.02.,2019,QPR,Birmingham,2,2
+29.02.,2019,Reading,Barnsley,2,0
+29.02.,2019,Sheffield Wed,Derby,1,3
+29.02.,2019,West Brom,Wigan,0,1
+26.02.,2019,Blackburn,Stoke,0,0
+26.02.,2019,Fulham,Swansea,1,0
+26.02.,2019,Hull,Barnsley,0,1
+26.02.,2019,Middlesbrough,Leeds,0,1
+26.02.,2019,Millwall,Birmingham,0,0
+26.02.,2019,Reading,Wigan,0,3
+26.02.,2019,Sheffield Wed,Charlton,1,0
+25.02.,2019,Cardiff,Nottingham,0,1
+25.02.,2019,Huddersfield,Bristol City,2,1
+25.02.,2019,Luton,Brentford,2,1
+25.02.,2019,QPR,Derby,2,1
+25.02.,2019,West Brom,Preston,2,0
+22.02.,2019,Barnsley,Middlesbrough,1,0
+22.02.,2019,Birmingham,Sheffield Wed,3,3
+22.02.,2019,Brentford,Blackburn,2,2
+22.02.,2019,Bristol City,West Brom,0,3
+22.02.,2019,Charlton,Luton,3,1
+22.02.,2019,Leeds,Reading,1,0
+22.02.,2019,Nottingham,QPR,0,0
+22.02.,2019,Preston,Hull,2,1
+22.02.,2019,Stoke,Cardiff,2,0
+22.02.,2019,Swansea,Huddersfield,3,1
+22.02.,2019,Wigan,Millwall,1,0
+21.02.,2019,Derby,Fulham,1,1
+15.02.,2019,Birmingham,Brentford,1,1
+15.02.,2019,Cardiff,Wigan,2,2
+15.02.,2019,Charlton,Blackburn,0,2
+15.02.,2019,Derby,Huddersfield,1,1
+15.02.,2019,Fulham,Barnsley,0,3
+15.02.,2019,Leeds,Bristol City,1,0
+15.02.,2019,Middlesbrough,Luton,0,1
+15.02.,2019,Preston,Millwall,0,1
+15.02.,2019,QPR,Stoke,4,2
+15.02.,2019,Sheffield Wed,Reading,0,3
+15.02.,2019,West Brom,Nottingham,2,2
+14.02.,2019,Hull,Swansea,4,4
+12.02.,2019,Bristol City,Derby,3,2
+12.02.,2019,Huddersfield,Cardiff,0,3
+12.02.,2019,Luton,Sheffield Wed,1,0
+12.02.,2019,Millwall,Fulham,1,1
+12.02.,2019,Reading,West Brom,1,2
+12.02.,2019,Stoke,Preston,0,2
+11.02.,2019,Barnsley,Birmingham,0,1
+11.02.,2019,Blackburn,Hull,3,0
+11.02.,2019,Brentford,Leeds,1,1
+11.02.,2019,Nottingham,Charlton,0,1
+11.02.,2019,Swansea,QPR,0,0
+11.02.,2019,Wigan,Middlesbrough,2,2
+09.02.,2019,Millwall,West Brom,0,2
+08.02.,2019,Barnsley,Sheffield Wed,1,1
+08.02.,2019,Blackburn,Fulham,0,1
+08.02.,2019,Brentford,Middlesbrough,3,2
+08.02.,2019,Huddersfield,QPR,2,0
+08.02.,2019,Luton,Cardiff,0,1
+08.02.,2019,Nottingham,Leeds,2,0
+08.02.,2019,Reading,Hull,1,1
+08.02.,2019,Stoke,Charlton,3,1
+08.02.,2019,Swansea,Derby,2,3
+08.02.,2019,Wigan,Preston,1,2
+07.02.,2019,Bristol City,Birmingham,1,3
+01.02.,2019,Birmingham,Nottingham,2,1
+01.02.,2019,Charlton,Barnsley,2,1
+01.02.,2019,Fulham,Huddersfield,3,2
+01.02.,2019,Hull,Brentford,1,5
+01.02.,2019,Leeds,Wigan,0,1
+01.02.,2019,Middlesbrough,Blackburn,1,1
+01.02.,2019,Preston,Swansea,1,1
+01.02.,2019,QPR,Bristol City,0,1
+01.02.,2019,Sheffield Wed,Millwall,0,0
+01.02.,2019,West Brom,Luton,2,0
+31.01.,2019,Cardiff,Reading,1,1
+31.01.,2019,Derby,Stoke,4,0
+28.01.,2019,Blackburn,QPR,2,1
+28.01.,2019,Brentford,Nottingham,0,1
+28.01.,2019,Cardiff,West Brom,2,1
+28.01.,2019,Hull,Huddersfield,1,2
+28.01.,2019,Leeds,Millwall,3,2
+28.01.,2019,Luton,Derby,3,2
+28.01.,2019,Reading,Bristol City,0,1
+28.01.,2019,Wigan,Sheffield Wed,2,1
+25.01.,2019,Stoke,Swansea,2,0
+22.01.,2019,Charlton,Fulham,0,0
+22.01.,2019,Nottingham,Reading,1,1
+21.01.,2019,Barnsley,Preston,0,3
+21.01.,2019,Middlesbrough,Birmingham,1,1
+20.01.,2019,West Brom,Stoke,0,1
+19.01.,2019,Nottingham,Luton,3,1
+18.01.,2019,Birmingham,Cardiff,1,1
+18.01.,2019,Bristol City,Barnsley,1,0
+18.01.,2019,Derby,Hull,1,0
+18.01.,2019,Huddersfield,Brentford,0,0
+18.01.,2019,Millwall,Reading,2,0
+18.01.,2019,Preston,Charlton,2,1
+18.01.,2019,QPR,Leeds,1,0
+18.01.,2019,Sheffield Wed,Blackburn,0,5
+18.01.,2019,Swansea,Wigan,2,1
+17.01.,2019,Fulham,Middlesbrough,1,0
+12.01.,2019,Cardiff,Swansea,0,0
+11.01.,2019,Barnsley,Huddersfield,2,1
+11.01.,2019,Blackburn,Preston,1,1
+11.01.,2019,Brentford,QPR,3,1
+11.01.,2019,Charlton,West Brom,2,2
+11.01.,2019,Hull,Fulham,0,1
+11.01.,2019,Leeds,Sheffield Wed,0,2
+11.01.,2019,Luton,Birmingham,1,2
+11.01.,2019,Middlesbrough,Derby,2,2
+11.01.,2019,Reading,Nottingham,1,1
+11.01.,2019,Stoke,Millwall,0,0
+11.01.,2019,Wigan,Bristol City,0,2
+02.01.,2019,Derby,Barnsley,2,1
+02.01.,2019,Swansea,Charlton,1,0
+01.01.,2019,Birmingham,Wigan,2,3
+01.01.,2019,Bristol City,Brentford,0,4
+01.01.,2019,Fulham,Reading,1,2
+01.01.,2019,Huddersfield,Stoke,2,5
+01.01.,2019,Millwall,Luton,3,1
+01.01.,2019,Nottingham,Blackburn,3,2
+01.01.,2019,Preston,Middlesbrough,0,2
+01.01.,2019,QPR,Cardiff,6,1
+01.01.,2019,Sheffield Wed,Hull,0,1
+01.01.,2019,West Brom,Leeds,1,1
+30.12.2019,2019,Derby,Charlton,2,1
+29.12.2019,2019,Birmingham,Leeds,4,5
+29.12.2019,2019,Bristol City,Luton,3,0
+29.12.2019,2019,Fulham,Stoke,1,0
+29.12.2019,2019,Huddersfield,Blackburn,2,1
+29.12.2019,2019,Millwall,Brentford,1,0
+29.12.2019,2019,Nottingham,Wigan,1,0
+29.12.2019,2019,Preston,Reading,0,2
+29.12.2019,2019,QPR,Hull,1,2
+29.12.2019,2019,Sheffield Wed,Cardiff,1,2
+29.12.2019,2019,Swansea,Barnsley,0,0
+29.12.2019,2019,West Brom,Middlesbrough,0,2
+26.12.2019,2019,Barnsley,West Brom,1,1
+26.12.2019,2019,Blackburn,Birmingham,1,1
+26.12.2019,2019,Brentford,Swansea,3,1
+26.12.2019,2019,Cardiff,Millwall,1,1
+26.12.2019,2019,Charlton,Bristol City,3,2
+26.12.2019,2019,Hull,Nottingham,0,2
+26.12.2019,2019,Leeds,Preston,1,1
+26.12.2019,2019,Luton,Fulham,3,3
+26.12.2019,2019,Middlesbrough,Huddersfield,1,0
+26.12.2019,2019,Reading,QPR,1,0
+26.12.2019,2019,Stoke,Sheffield Wed,3,2
+26.12.2019,2019,Wigan,Derby,1,1
+23.12.2019,2019,Blackburn,Wigan,0,0
+22.12.2019,2019,Sheffield Wed,Bristol City,1,0
+21.12.2019,2019,Cardiff,Preston,0,0
+21.12.2019,2019,Fulham,Leeds,2,1
+21.12.2019,2019,Huddersfield,Nottingham,2,1
+21.12.2019,2019,Hull,Birmingham,3,0
+21.12.2019,2019,Luton,Swansea,0,1
+21.12.2019,2019,Millwall,Barnsley,1,2
+21.12.2019,2019,QPR,Charlton,2,2
+21.12.2019,2019,Reading,Derby,3,0
+21.12.2019,2019,West Brom,Brentford,1,1
+20.12.2019,2019,Middlesbrough,Stoke,2,1
+14.12.2019,2019,Barnsley,QPR,5,3
+14.12.2019,2019,Birmingham,West Brom,2,3
+14.12.2019,2019,Brentford,Fulham,1,0
+14.12.2019,2019,Bristol City,Blackburn,0,2
+14.12.2019,2019,Derby,Millwall,0,1
+14.12.2019,2019,Leeds,Cardiff,3,3
+14.12.2019,2019,Nottingham,Sheffield Wed,0,4
+14.12.2019,2019,Preston,Luton,2,1
+14.12.2019,2019,Stoke,Reading,0,0
+14.12.2019,2019,Swansea,Middlesbrough,3,1
+14.12.2019,2019,Wigan,Huddersfield,1,1
+13.12.2019,2019,Charlton,Hull,2,2
+11.12.2019,2019,Barnsley,Reading,1,1
+11.12.2019,2019,Birmingham,QPR,0,2
+11.12.2019,2019,Brentford,Cardiff,2,1
+11.12.2019,2019,Derby,Sheffield Wed,1,1
+11.12.2019,2019,Swansea,Blackburn,1,1
+11.12.2019,2019,Wigan,West Brom,1,1
+10.12.2019,2019,Bristol City,Millwall,1,2
+10.12.2019,2019,Charlton,Huddersfield,0,1
+10.12.2019,2019,Leeds,Hull,2,0
+10.12.2019,2019,Nottingham,Middlesbrough,1,1
+10.12.2019,2019,Preston,Fulham,2,1
+10.12.2019,2019,Stoke,Luton,3,0
+08.12.2019,2019,West Brom,Swansea,5,1
+07.12.2019,2019,Blackburn,Derby,1,0
+07.12.2019,2019,Cardiff,Barnsley,3,2
+07.12.2019,2019,Fulham,Bristol City,1,2
+07.12.2019,2019,Huddersfield,Leeds,0,2
+07.12.2019,2019,Hull,Stoke,2,1
+07.12.2019,2019,Luton,Wigan,2,1
+07.12.2019,2019,Middlesbrough,Charlton,1,0
+07.12.2019,2019,QPR,Preston,2,0
+07.12.2019,2019,Reading,Birmingham,2,3
+07.12.2019,2019,Sheffield Wed,Brentford,2,1
+06.12.2019,2019,Millwall,Nottingham,2,2
+02.12.2019,2019,Preston,West Brom,0,1
+30.11.2019,2019,Barnsley,Hull,3,1
+30.11.2019,2019,Birmingham,Millwall,1,1
+30.11.2019,2019,Brentford,Luton,7,0
+30.11.2019,2019,Bristol City,Huddersfield,5,2
+30.11.2019,2019,Charlton,Sheffield Wed,1,3
+30.11.2019,2019,Derby,QPR,1,1
+30.11.2019,2019,Leeds,Middlesbrough,4,0
+30.11.2019,2019,Nottingham,Cardiff,0,1
+30.11.2019,2019,Stoke,Blackburn,1,2
+30.11.2019,2019,Wigan,Reading,1,3
+29.11.2019,2019,Swansea,Fulham,1,2
+27.11.2019,2019,Blackburn,Brentford,1,0
+27.11.2019,2019,Hull,Preston,4,0
+27.11.2019,2019,Middlesbrough,Barnsley,1,0
+27.11.2019,2019,QPR,Nottingham,0,4
+27.11.2019,2019,Sheffield Wed,Birmingham,1,1
+27.11.2019,2019,West Brom,Bristol City,4,1
+26.11.2019,2019,Cardiff,Stoke,1,0
+26.11.2019,2019,Fulham,Derby,3,0
+26.11.2019,2019,Huddersfield,Swansea,1,1
+26.11.2019,2019,Luton,Charlton,2,1
+26.11.2019,2019,Millwall,Wigan,2,2
+26.11.2019,2019,Reading,Leeds,0,1
+24.11.2019,2019,Middlesbrough,Hull,2,2
+23.11.2019,2019,Blackburn,Barnsley,3,2
+23.11.2019,2019,Brentford,Reading,1,0
+23.11.2019,2019,Bristol City,Nottingham,0,0
+23.11.2019,2019,Charlton,Cardiff,2,2
+23.11.2019,2019,Derby,Preston,1,0
+23.11.2019,2019,Huddersfield,Birmingham,1,1
+23.11.2019,2019,Luton,Leeds,1,2
+23.11.2019,2019,Stoke,Wigan,2,1
+23.11.2019,2019,Swansea,Millwall,0,1
+23.11.2019,2019,West Brom,Sheffield Wed,2,1
+22.11.2019,2019,Fulham,QPR,2,1
+10.11.2019,2019,Cardiff,Bristol City,0,1
+09.11.2019,2019,Barnsley,Stoke,2,4
+09.11.2019,2019,Birmingham,Fulham,0,1
+09.11.2019,2019,Hull,West Brom,0,1
+09.11.2019,2019,Leeds,Blackburn,2,1
+09.11.2019,2019,Millwall,Charlton,2,1
+09.11.2019,2019,Nottingham,Derby,1,0
+09.11.2019,2019,Preston,Huddersfield,3,1
+09.11.2019,2019,QPR,Middlesbrough,2,2
+09.11.2019,2019,Reading,Luton,3,0
+09.11.2019,2019,Sheffield Wed,Swansea,2,2
+09.11.2019,2019,Wigan,Brentford,0,3
+04.11.2019,2019,Stoke,West Brom,0,2
+03.11.2019,2019,Charlton,Preston,0,1
+02.11.2019,2019,Blackburn,Sheffield Wed,2,1
+02.11.2019,2019,Brentford,Huddersfield,0,1
+02.11.2019,2019,Cardiff,Birmingham,4,2
+02.11.2019,2019,Derby,Middlesbrough,2,0
+02.11.2019,2019,Fulham,Hull,0,3
+02.11.2019,2019,Leeds,QPR,2,0
+02.11.2019,2019,Luton,Nottingham,1,2
+02.11.2019,2019,Reading,Millwall,2,1
+02.11.2019,2019,Wigan,Swansea,1,2
+01.11.2019,2019,Barnsley,Bristol City,2,2
+28.10.2019,2019,QPR,Brentford,1,3
+27.10.2019,2019,Bristol City,Wigan,2,2
+27.10.2019,2019,Swansea,Cardiff,1,0
+26.10.2019,2019,Birmingham,Luton,2,1
+26.10.2019,2019,Huddersfield,Barnsley,2,1
+26.10.2019,2019,Hull,Derby,2,0
+26.10.2019,2019,Middlesbrough,Fulham,0,0
+26.10.2019,2019,Millwall,Stoke,2,0
+26.10.2019,2019,Preston,Blackburn,3,2
+26.10.2019,2019,Sheffield Wed,Leeds,0,0
+26.10.2019,2019,West Brom,Charlton,2,2
+23.10.2019,2019,Bristol City,Charlton,2,1
+23.10.2019,2019,Derby,Wigan,1,0
+23.10.2019,2019,Fulham,Luton,3,2
+23.10.2019,2019,Huddersfield,Middlesbrough,0,0
+23.10.2019,2019,Nottingham,Hull,1,2
+22.10.2019,2019,Birmingham,Blackburn,1,0
+22.10.2019,2019,Millwall,Cardiff,2,2
+22.10.2019,2019,Preston,Leeds,1,1
+22.10.2019,2019,QPR,Reading,2,2
+22.10.2019,2019,Sheffield Wed,Stoke,1,0
+22.10.2019,2019,Swansea,Brentford,0,3
+22.10.2019,2019,West Brom,Barnsley,2,2
+20.10.2019,2019,Wigan,Nottingham,1,0
+19.10.2019,2019,Barnsley,Swansea,1,1
+19.10.2019,2019,Blackburn,Huddersfield,2,2
+19.10.2019,2019,Brentford,Millwall,3,2
+19.10.2019,2019,Charlton,Derby,3,0
+19.10.2019,2019,Hull,QPR,2,3
+19.10.2019,2019,Leeds,Birmingham,1,0
+19.10.2019,2019,Luton,Bristol City,3,0
+19.10.2019,2019,Middlesbrough,West Brom,0,1
+19.10.2019,2019,Reading,Preston,1,0
+19.10.2019,2019,Stoke,Fulham,2,0
+18.10.2019,2019,Cardiff,Sheffield Wed,1,1
+05.10.2019,2019,Bristol City,Reading,1,0
+05.10.2019,2019,Derby,Luton,2,0
+05.10.2019,2019,Fulham,Charlton,2,2
+05.10.2019,2019,Huddersfield,Hull,3,0
+05.10.2019,2019,Millwall,Leeds,2,1
+05.10.2019,2019,Nottingham,Brentford,1,0
+05.10.2019,2019,Preston,Barnsley,5,1
+05.10.2019,2019,QPR,Blackburn,4,2
+05.10.2019,2019,Sheffield Wed,Wigan,1,0
+05.10.2019,2019,Swansea,Stoke,1,2
+05.10.2019,2019,West Brom,Cardiff,4,2
+04.10.2019,2019,Birmingham,Middlesbrough,2,1
+02.10.2019,2019,Barnsley,Derby,2,2
+02.10.2019,2019,Brentford,Bristol City,1,1
+02.10.2019,2019,Cardiff,QPR,3,0
+02.10.2019,2019,Charlton,Swansea,1,2
+02.10.2019,2019,Luton,Millwall,1,1
+01.10.2019,2019,Blackburn,Nottingham,1,1
+01.10.2019,2019,Hull,Sheffield Wed,1,0
+01.10.2019,2019,Leeds,West Brom,1,0
+01.10.2019,2019,Middlesbrough,Preston,1,1
+01.10.2019,2019,Reading,Fulham,1,4
+01.10.2019,2019,Stoke,Huddersfield,0,1
+01.10.2019,2019,Wigan,Birmingham,1,0
+29.09.2019,2019,Barnsley,Brentford,1,3
+28.09.2019,2019,Blackburn,Luton,1,2
+28.09.2019,2019,Charlton,Leeds,1,0
+28.09.2019,2019,Derby,Birmingham,3,2
+28.09.2019,2019,Huddersfield,Millwall,1,1
+28.09.2019,2019,Hull,Cardiff,2,2
+28.09.2019,2019,Middlesbrough,Sheffield Wed,1,4
+28.09.2019,2019,Preston,Bristol City,3,3
+28.09.2019,2019,QPR,West Brom,0,2
+28.09.2019,2019,Swansea,Reading,1,1
+27.09.2019,2019,Fulham,Wigan,2,0
+27.09.2019,2019,Stoke,Nottingham,2,3
+22.09.2019,2019,West Brom,Huddersfield,4,2
+21.09.2019,2019,Birmingham,Preston,0,1
+21.09.2019,2019,Brentford,Stoke,0,0
+21.09.2019,2019,Bristol City,Swansea,0,0
+21.09.2019,2019,Cardiff,Middlesbrough,1,0
+21.09.2019,2019,Leeds,Derby,1,1
+21.09.2019,2019,Luton,Hull,0,3
+21.09.2019,2019,Millwall,QPR,1,2
+21.09.2019,2019,Nottingham,Barnsley,1,0
+21.09.2019,2019,Reading,Blackburn,1,2
+21.09.2019,2019,Sheffield Wed,Fulham,1,1
+21.09.2019,2019,Wigan,Charlton,2,0
+15.09.2019,2019,Barnsley,Leeds,0,2
+15.09.2019,2019,Huddersfield,Sheffield Wed,0,2
+14.09.2019,2019,Blackburn,Millwall,2,0
+14.09.2019,2019,Charlton,Birmingham,0,1
+14.09.2019,2019,Fulham,West Brom,1,1
+14.09.2019,2019,Hull,Wigan,2,2
+14.09.2019,2019,Middlesbrough,Reading,1,0
+14.09.2019,2019,Preston,Brentford,2,0
+14.09.2019,2019,QPR,Luton,3,2
+14.09.2019,2019,Stoke,Bristol City,1,2
+14.09.2019,2019,Swansea,Nottingham,0,1
+13.09.2019,2019,Derby,Cardiff,1,1
+31.08.2019,2019,Birmingham,Stoke,2,1
+31.08.2019,2019,Brentford,Derby,3,0
+31.08.2019,2019,Bristol City,Middlesbrough,2,2
+31.08.2019,2019,Leeds,Swansea,0,1
+31.08.2019,2019,Luton,Huddersfield,2,1
+31.08.2019,2019,Millwall,Hull,1,1
+31.08.2019,2019,Nottingham,Preston,1,1
+31.08.2019,2019,Reading,Charlton,0,2
+31.08.2019,2019,Sheffield Wed,QPR,1,2
+31.08.2019,2019,West Brom,Blackburn,3,2
+31.08.2019,2019,Wigan,Barnsley,0,0
+30.08.2019,2019,Cardiff,Fulham,1,1
+25.08.2019,2019,Swansea,Birmingham,3,0
+24.08.2019,2019,Barnsley,Luton,1,3
+24.08.2019,2019,Blackburn,Cardiff,0,0
+24.08.2019,2019,Charlton,Brentford,1,0
+24.08.2019,2019,Derby,West Brom,1,1
+24.08.2019,2019,Fulham,Nottingham,1,2
+24.08.2019,2019,Huddersfield,Reading,0,2
+24.08.2019,2019,Hull,Bristol City,1,3
+24.08.2019,2019,Middlesbrough,Millwall,1,1
+24.08.2019,2019,Preston,Sheffield Wed,2,1
+24.08.2019,2019,QPR,Wigan,3,1
+24.08.2019,2019,Stoke,Leeds,0,3
+21.08.2019,2019,Cardiff,Huddersfield,2,1
+21.08.2019,2019,Charlton,Nottingham,1,1
+21.08.2019,2019,Fulham,Millwall,4,0
+21.08.2019,2019,Leeds,Brentford,1,0
+21.08.2019,2019,Preston,Stoke,3,1
+21.08.2019,2019,QPR,Swansea,1,3
+21.08.2019,2019,West Brom,Reading,1,1
+20.08.2019,2019,Birmingham,Barnsley,2,0
+20.08.2019,2019,Derby,Bristol City,1,2
+20.08.2019,2019,Hull,Blackburn,0,1
+20.08.2019,2019,Middlesbrough,Wigan,1,0
+20.08.2019,2019,Sheffield Wed,Luton,1,0
+18.08.2019,2019,Reading,Cardiff,3,0
+17.08.2019,2019,Barnsley,Charlton,2,2
+17.08.2019,2019,Blackburn,Middlesbrough,1,0
+17.08.2019,2019,Brentford,Hull,1,1
+17.08.2019,2019,Bristol City,QPR,2,0
+17.08.2019,2019,Luton,West Brom,1,2
+17.08.2019,2019,Millwall,Sheffield Wed,1,0
+17.08.2019,2019,Nottingham,Birmingham,3,0
+17.08.2019,2019,Stoke,Derby,2,2
+17.08.2019,2019,Swansea,Preston,3,2
+17.08.2019,2019,Wigan,Leeds,0,2
+16.08.2019,2019,Huddersfield,Fulham,1,2
+10.08.2019,2019,Birmingham,Bristol City,1,1
+10.08.2019,2019,Cardiff,Luton,2,1
+10.08.2019,2019,Charlton,Stoke,3,1
+10.08.2019,2019,Derby,Swansea,0,0
+10.08.2019,2019,Fulham,Blackburn,2,0
+10.08.2019,2019,Hull,Reading,2,1
+10.08.2019,2019,Leeds,Nottingham,1,1
+10.08.2019,2019,Middlesbrough,Brentford,0,1
+10.08.2019,2019,Preston,Wigan,3,0
+10.08.2019,2019,QPR,Huddersfield,1,1
+10.08.2019,2019,Sheffield Wed,Barnsley,2,0
+10.08.2019,2019,West Brom,Millwall,1,1
+05.08.2019,2019,Huddersfield,Derby,1,2
+04.08.2019,2019,Bristol City,Leeds,1,3
+03.08.2019,2019,Barnsley,Fulham,1,0
+03.08.2019,2019,Blackburn,Charlton,1,2
+03.08.2019,2019,Brentford,Birmingham,0,1
+03.08.2019,2019,Millwall,Preston,1,0
+03.08.2019,2019,Nottingham,West Brom,1,2
+03.08.2019,2019,Reading,Sheffield Wed,1,3
+03.08.2019,2019,Stoke,QPR,1,2
+03.08.2019,2019,Swansea,Hull,2,1
+03.08.2019,2019,Wigan,Cardiff,3,2
+02.08.2019,2019,Luton,Middlesbrough,3,3

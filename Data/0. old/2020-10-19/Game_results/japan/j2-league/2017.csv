@@ -1,0 +1,463 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+19.11.2017,2017,Chiba,Yokohama,2,1
+19.11.2017,2017,Kamatamare,Nagoya,0,2
+19.11.2017,2017,Kanazawa,Mito,2,1
+19.11.2017,2017,Kusatsu,V-Varen Nagasaki,1,4
+19.11.2017,2017,Montedio Yamagata,Gifu,4,1
+19.11.2017,2017,Oita,Kumamoto,2,1
+19.11.2017,2017,Okayama,Avispa Fukuoka,1,1
+19.11.2017,2017,Renofa Yamaguchi,Ehime,1,1
+19.11.2017,2017,Shonan,Machida,1,1
+19.11.2017,2017,Verdy,Tokushima,2,1
+19.11.2017,2017,Yamaga,Kyoto,0,1
+12.11.2017,2017,Ehime,Kusatsu,4,2
+12.11.2017,2017,Machida,Renofa Yamaguchi,0,1
+12.11.2017,2017,Mito,Montedio Yamagata,0,1
+12.11.2017,2017,Yokohama,Okayama,1,1
+11.11.2017,2017,Avispa Fukuoka,Yamaga,1,1
+11.11.2017,2017,Gifu,Shonan,1,1
+11.11.2017,2017,Kumamoto,Kanazawa,1,4
+11.11.2017,2017,Kyoto,Verdy,0,1
+11.11.2017,2017,Nagoya,Chiba,0,3
+11.11.2017,2017,Tokushima,Oita,1,0
+11.11.2017,2017,V-Varen Nagasaki,Kamatamare,3,1
+08.11.2017,2017,Ehime,Kyoto,0,2
+05.11.2017,2017,Avispa Fukuoka,Shonan,2,1
+05.11.2017,2017,Chiba,Machida,2,1
+05.11.2017,2017,Ehime,Tokushima,1,3
+05.11.2017,2017,Kamatamare,Yamaga,1,1
+05.11.2017,2017,Kanazawa,Gifu,1,1
+05.11.2017,2017,Kusatsu,Kyoto,1,1
+05.11.2017,2017,Mito,V-Varen Nagasaki,0,2
+05.11.2017,2017,Oita,Montedio Yamagata,1,1
+05.11.2017,2017,Okayama,Nagoya,0,1
+05.11.2017,2017,Verdy,Renofa Yamaguchi,1,2
+05.11.2017,2017,Yokohama,Kumamoto,2,0
+29.10.2017,2017,Machida,Kamatamare,1,1
+29.10.2017,2017,Montedio Yamagata,Ehime,2,2
+29.10.2017,2017,Nagoya,Kusatsu,4,2
+29.10.2017,2017,Renofa Yamaguchi,Kanazawa,0,1
+29.10.2017,2017,Shonan,Okayama,1,1
+29.10.2017,2017,Yamaga,Gifu,2,1
+28.10.2017,2017,Kumamoto,V-Varen Nagasaki,0,2
+28.10.2017,2017,Kyoto,Yokohama,2,2
+28.10.2017,2017,Oita,Chiba,1,2
+28.10.2017,2017,Tokushima,Mito,2,3
+28.10.2017,2017,Verdy,Avispa Fukuoka,0,0
+22.10.2017,2017,Avispa Fukuoka,Chiba,0,1
+22.10.2017,2017,Kamatamare,Montedio Yamagata,0,0
+22.10.2017,2017,Kanazawa,Kyoto,0,0
+22.10.2017,2017,Kumamoto,Tokushima,1,1
+22.10.2017,2017,Okayama,Kusatsu,2,1
+21.10.2017,2017,Gifu,Verdy,1,2
+21.10.2017,2017,Renofa Yamaguchi,Mito,1,0
+21.10.2017,2017,Shonan,Ehime,1,0
+21.10.2017,2017,V-Varen Nagasaki,Nagoya,1,1
+21.10.2017,2017,Yamaga,Oita,0,2
+20.10.2017,2017,Yokohama,Machida,2,2
+15.10.2017,2017,Ehime,Kamatamare,2,1
+15.10.2017,2017,Kusatsu,Verdy,1,2
+15.10.2017,2017,Machida,Kanazawa,1,1
+15.10.2017,2017,Nagoya,Shonan,3,2
+15.10.2017,2017,V-Varen Nagasaki,Renofa Yamaguchi,2,1
+14.10.2017,2017,Chiba,Yamaga,5,1
+14.10.2017,2017,Gifu,Tokushima,0,2
+14.10.2017,2017,Kyoto,Kumamoto,2,1
+14.10.2017,2017,Mito,Okayama,1,0
+14.10.2017,2017,Montedio Yamagata,Yokohama,2,0
+14.10.2017,2017,Oita,Avispa Fukuoka,1,1
+08.10.2017,2017,Kamatamare,Kyoto,0,4
+08.10.2017,2017,Oita,Gifu,3,3
+07.10.2017,2017,Chiba,Okayama,3,1
+07.10.2017,2017,Kanazawa,Ehime,4,1
+07.10.2017,2017,Machida,V-Varen Nagasaki,1,1
+07.10.2017,2017,Renofa Yamaguchi,Nagoya,1,3
+07.10.2017,2017,Shonan,Mito,3,0
+07.10.2017,2017,Tokushima,Kusatsu,4,1
+07.10.2017,2017,Verdy,Montedio Yamagata,3,1
+07.10.2017,2017,Yamaga,Kumamoto,1,0
+07.10.2017,2017,Yokohama,Avispa Fukuoka,1,3
+01.10.2017,2017,Gifu,Nagoya,2,6
+01.10.2017,2017,Kamatamare,Tokushima,0,0
+01.10.2017,2017,Kumamoto,Ehime,2,1
+01.10.2017,2017,Kusatsu,Yokohama,1,1
+01.10.2017,2017,Okayama,Oita,0,3
+01.10.2017,2017,Verdy,Machida,3,1
+30.09.2017,2017,Avispa Fukuoka,Renofa Yamaguchi,2,1
+30.09.2017,2017,Kyoto,Chiba,2,0
+30.09.2017,2017,Mito,Yamaga,0,1
+30.09.2017,2017,Montedio Yamagata,V-Varen Nagasaki,0,0
+30.09.2017,2017,Shonan,Kanazawa,4,2
+24.09.2017,2017,Ehime,Yokohama,2,3
+24.09.2017,2017,Gifu,Avispa Fukuoka,1,2
+24.09.2017,2017,Kanazawa,Oita,1,1
+24.09.2017,2017,Mito,Kusatsu,4,0
+24.09.2017,2017,Montedio Yamagata,Kumamoto,0,1
+24.09.2017,2017,Nagoya,Verdy,4,1
+24.09.2017,2017,V-Varen Nagasaki,Chiba,2,1
+24.09.2017,2017,Yamaga,Renofa Yamaguchi,2,3
+23.09.2017,2017,Kyoto,Shonan,0,0
+23.09.2017,2017,Okayama,Kamatamare,0,1
+23.09.2017,2017,Tokushima,Machida,2,2
+18.09.2017,2017,Kumamoto,Avispa Fukuoka,1,1
+17.09.2017,2017,Kanazawa,Nagoya,3,1
+16.09.2017,2017,Chiba,Mito,2,1
+16.09.2017,2017,Machida,Montedio Yamagata,0,0
+16.09.2017,2017,Oita,V-Varen Nagasaki,1,2
+16.09.2017,2017,Renofa Yamaguchi,Gifu,0,1
+16.09.2017,2017,Shonan,Kamatamare,1,0
+16.09.2017,2017,Tokushima,Okayama,3,3
+16.09.2017,2017,Yamaga,Kusatsu,3,0
+16.09.2017,2017,Yokohama,Verdy,1,1
+10.09.2017,2017,Kamatamare,Kumamoto,0,0
+10.09.2017,2017,Kusatsu,Chiba,2,0
+10.09.2017,2017,Okayama,Machida,1,1
+10.09.2017,2017,Verdy,Yamaga,1,2
+10.09.2017,2017,V-Varen Nagasaki,Tokushima,2,1
+09.09.2017,2017,Avispa Fukuoka,Ehime,0,1
+09.09.2017,2017,Mito,Gifu,1,2
+09.09.2017,2017,Montedio Yamagata,Kyoto,2,2
+09.09.2017,2017,Nagoya,Oita,0,1
+09.09.2017,2017,Renofa Yamaguchi,Shonan,3,5
+09.09.2017,2017,Yokohama,Kanazawa,2,0
+03.09.2017,2017,Gifu,Ehime,2,1
+02.09.2017,2017,Chiba,Verdy,2,2
+02.09.2017,2017,Kamatamare,Avispa Fukuoka,2,2
+02.09.2017,2017,Kanazawa,V-Varen Nagasaki,1,2
+02.09.2017,2017,Kumamoto,Machida,0,1
+02.09.2017,2017,Kyoto,Renofa Yamaguchi,1,2
+02.09.2017,2017,Mito,Nagoya,1,1
+02.09.2017,2017,Montedio Yamagata,Okayama,1,1
+02.09.2017,2017,Oita,Kusatsu,1,0
+02.09.2017,2017,Shonan,Yokohama,2,2
+02.09.2017,2017,Yamaga,Tokushima,3,1
+27.08.2017,2017,Avispa Fukuoka,Mito,0,0
+27.08.2017,2017,Ehime,Verdy,0,3
+27.08.2017,2017,Kumamoto,Okayama,0,1
+27.08.2017,2017,V-Varen Nagasaki,Kyoto,1,0
+26.08.2017,2017,Chiba,Gifu,1,3
+26.08.2017,2017,Kanazawa,Kamatamare,1,2
+26.08.2017,2017,Kusatsu,Shonan,0,2
+26.08.2017,2017,Machida,Yamaga,1,2
+26.08.2017,2017,Nagoya,Yokohama,2,3
+26.08.2017,2017,Renofa Yamaguchi,Oita,2,3
+26.08.2017,2017,Tokushima,Montedio Yamagata,1,1
+20.08.2017,2017,Ehime,Machida,1,1
+20.08.2017,2017,Gifu,Kamatamare,0,1
+20.08.2017,2017,Kusatsu,Kanazawa,1,1
+20.08.2017,2017,Kyoto,Oita,2,2
+20.08.2017,2017,Montedio Yamagata,Chiba,2,2
+20.08.2017,2017,Nagoya,Avispa Fukuoka,3,1
+20.08.2017,2017,Okayama,Yamaga,0,0
+20.08.2017,2017,Shonan,Kumamoto,0,0
+20.08.2017,2017,Tokushima,Renofa Yamaguchi,5,0
+20.08.2017,2017,Verdy,V-Varen Nagasaki,2,1
+20.08.2017,2017,Yokohama,Mito,1,0
+16.08.2017,2017,Avispa Fukuoka,V-Varen Nagasaki,0,1
+16.08.2017,2017,Chiba,Shonan,0,1
+16.08.2017,2017,Kamatamare,Yokohama,1,0
+16.08.2017,2017,Kanazawa,Tokushima,0,4
+16.08.2017,2017,Kumamoto,Gifu,0,0
+16.08.2017,2017,Machida,Nagoya,3,4
+16.08.2017,2017,Mito,Kyoto,2,0
+16.08.2017,2017,Oita,Verdy,0,2
+16.08.2017,2017,Okayama,Ehime,0,1
+16.08.2017,2017,Renofa Yamaguchi,Kusatsu,3,2
+16.08.2017,2017,Yamaga,Montedio Yamagata,3,2
+12.08.2017,2017,Nagoya,Yamaga,5,2
+11.08.2017,2017,Chiba,Renofa Yamaguchi,2,1
+11.08.2017,2017,Ehime,Mito,0,0
+11.08.2017,2017,Gifu,Okayama,1,1
+11.08.2017,2017,Kusatsu,Kamatamare,1,2
+11.08.2017,2017,Kyoto,Avispa Fukuoka,0,1
+11.08.2017,2017,Montedio Yamagata,Kanazawa,2,1
+11.08.2017,2017,Oita,Machida,1,3
+11.08.2017,2017,Tokushima,Yokohama,2,2
+11.08.2017,2017,Verdy,Kumamoto,1,0
+11.08.2017,2017,V-Varen Nagasaki,Shonan,0,2
+06.08.2017,2017,Nagoya,Ehime,7,4
+05.08.2017,2017,Kamatamare,Mito,2,0
+05.08.2017,2017,Kanazawa,Verdy,0,0
+05.08.2017,2017,Kusatsu,Montedio Yamagata,0,1
+05.08.2017,2017,Kyoto,Okayama,1,1
+05.08.2017,2017,Machida,Avispa Fukuoka,0,1
+05.08.2017,2017,Renofa Yamaguchi,Kumamoto,1,2
+05.08.2017,2017,Shonan,Yamaga,2,1
+05.08.2017,2017,Tokushima,Chiba,0,1
+05.08.2017,2017,V-Varen Nagasaki,Gifu,2,1
+05.08.2017,2017,Yokohama,Oita,1,2
+30.07.2017,2017,Gifu,Kusatsu,2,0
+30.07.2017,2017,Kumamoto,Nagoya,0,1
+30.07.2017,2017,Okayama,V-Varen Nagasaki,2,0
+29.07.2017,2017,Avispa Fukuoka,Montedio Yamagata,2,0
+29.07.2017,2017,Ehime,Chiba,1,0
+29.07.2017,2017,Kamatamare,Oita,0,1
+29.07.2017,2017,Machida,Kyoto,0,2
+29.07.2017,2017,Mito,Verdy,3,2
+29.07.2017,2017,Renofa Yamaguchi,Yokohama,1,2
+29.07.2017,2017,Shonan,Tokushima,2,0
+29.07.2017,2017,Yamaga,Kanazawa,4,0
+23.07.2017,2017,Avispa Fukuoka,Tokushima,0,1
+23.07.2017,2017,Okayama,Renofa Yamaguchi,2,1
+22.07.2017,2017,Chiba,Kanazawa,2,0
+22.07.2017,2017,Gifu,Machida,0,2
+22.07.2017,2017,Kusatsu,Kumamoto,1,1
+22.07.2017,2017,Kyoto,Nagoya,3,1
+22.07.2017,2017,Montedio Yamagata,Shonan,3,0
+22.07.2017,2017,Oita,Mito,0,0
+22.07.2017,2017,Verdy,Kamatamare,3,3
+22.07.2017,2017,Yamaga,Ehime,2,1
+22.07.2017,2017,Yokohama,V-Varen Nagasaki,2,1
+16.07.2017,2017,Ehime,Oita,2,2
+16.07.2017,2017,Kumamoto,Chiba,1,0
+16.07.2017,2017,Kusatsu,Avispa Fukuoka,1,3
+16.07.2017,2017,Machida,Mito,2,0
+16.07.2017,2017,Nagoya,Montedio Yamagata,1,0
+16.07.2017,2017,Shonan,Verdy,2,0
+16.07.2017,2017,Tokushima,Kyoto,1,1
+15.07.2017,2017,Kamatamare,Renofa Yamaguchi,1,3
+15.07.2017,2017,Kanazawa,Okayama,1,2
+15.07.2017,2017,V-Varen Nagasaki,Yamaga,1,0
+15.07.2017,2017,Yokohama,Gifu,1,0
+09.07.2017,2017,Gifu,Kyoto,3,2
+09.07.2017,2017,Renofa Yamaguchi,Montedio Yamagata,2,0
+09.07.2017,2017,Verdy,Okayama,1,1
+09.07.2017,2017,V-Varen Nagasaki,Ehime,2,0
+08.07.2017,2017,Avispa Fukuoka,Kanazawa,0,2
+08.07.2017,2017,Chiba,Kamatamare,4,3
+08.07.2017,2017,Machida,Kusatsu,2,0
+08.07.2017,2017,Mito,Kumamoto,2,2
+08.07.2017,2017,Nagoya,Tokushima,0,2
+08.07.2017,2017,Oita,Shonan,0,0
+08.07.2017,2017,Yamaga,Yokohama,3,1
+01.07.2017,2017,Avispa Fukuoka,Gifu,1,0
+01.07.2017,2017,Chiba,Oita,4,1
+01.07.2017,2017,Kamatamare,V-Varen Nagasaki,0,1
+01.07.2017,2017,Kanazawa,Yokohama,3,2
+01.07.2017,2017,Kumamoto,Verdy,4,0
+01.07.2017,2017,Kyoto,Kusatsu,1,0
+01.07.2017,2017,Montedio Yamagata,Machida,1,3
+01.07.2017,2017,Okayama,Mito,3,0
+01.07.2017,2017,Renofa Yamaguchi,Yamaga,1,2
+01.07.2017,2017,Shonan,Nagoya,2,1
+01.07.2017,2017,Tokushima,Ehime,4,1
+25.06.2017,2017,Ehime,Avispa Fukuoka,0,1
+25.06.2017,2017,Gifu,Chiba,4,6
+25.06.2017,2017,Kumamoto,Renofa Yamaguchi,0,2
+25.06.2017,2017,Kusatsu,Oita,0,4
+25.06.2017,2017,Kyoto,Kanazawa,1,3
+25.06.2017,2017,Machida,Verdy,2,4
+25.06.2017,2017,Mito,Kamatamare,2,1
+25.06.2017,2017,Montedio Yamagata,Tokushima,1,6
+25.06.2017,2017,Nagoya,V-Varen Nagasaki,2,0
+25.06.2017,2017,Yamaga,Okayama,1,1
+25.06.2017,2017,Yokohama,Shonan,0,1
+18.06.2017,2017,Kusatsu,Yamaga,0,2
+17.06.2017,2017,Avispa Fukuoka,Nagoya,3,1
+17.06.2017,2017,Kanazawa,Renofa Yamaguchi,3,2
+17.06.2017,2017,Mito,Chiba,3,1
+17.06.2017,2017,Oita,Kamatamare,2,1
+17.06.2017,2017,Okayama,Gifu,1,1
+17.06.2017,2017,Shonan,Kyoto,1,0
+17.06.2017,2017,Tokushima,Kumamoto,3,0
+17.06.2017,2017,Verdy,Ehime,3,3
+17.06.2017,2017,V-Varen Nagasaki,Machida,0,0
+17.06.2017,2017,Yokohama,Montedio Yamagata,0,1
+11.06.2017,2017,Ehime,Gifu,2,0
+11.06.2017,2017,Kamatamare,Kanazawa,1,0
+11.06.2017,2017,Kyoto,Machida,2,2
+11.06.2017,2017,Montedio Yamagata,Kusatsu,1,0
+11.06.2017,2017,Renofa Yamaguchi,Okayama,0,1
+11.06.2017,2017,V-Varen Nagasaki,Kumamoto,1,0
+11.06.2017,2017,Yamaga,Mito,0,1
+10.06.2017,2017,Chiba,Avispa Fukuoka,0,0
+10.06.2017,2017,Oita,Yokohama,2,2
+10.06.2017,2017,Tokushima,Shonan,0,1
+10.06.2017,2017,Verdy,Nagoya,2,1
+05.06.2017,2017,Kumamoto,Kyoto,0,3
+04.06.2017,2017,Machida,Ehime,1,2
+04.06.2017,2017,Yamaga,Verdy,1,1
+03.06.2017,2017,Avispa Fukuoka,Kamatamare,3,1
+03.06.2017,2017,Gifu,Montedio Yamagata,1,1
+03.06.2017,2017,Kusatsu,Tokushima,0,2
+03.06.2017,2017,Mito,Oita,2,0
+03.06.2017,2017,Nagoya,Kanazawa,2,3
+03.06.2017,2017,Okayama,Chiba,2,1
+03.06.2017,2017,Shonan,V-Varen Nagasaki,1,1
+03.06.2017,2017,Yokohama,Renofa Yamaguchi,1,0
+28.05.2017,2017,Avispa Fukuoka,Kusatsu,1,3
+28.05.2017,2017,Kanazawa,Yamaga,0,4
+28.05.2017,2017,Kumamoto,Mito,2,3
+28.05.2017,2017,Oita,Okayama,1,1
+27.05.2017,2017,Chiba,Ehime,4,2
+27.05.2017,2017,Kyoto,Gifu,1,1
+27.05.2017,2017,Renofa Yamaguchi,Machida,0,1
+27.05.2017,2017,Shonan,Montedio Yamagata,0,1
+27.05.2017,2017,Tokushima,Kamatamare,1,1
+27.05.2017,2017,V-Varen Nagasaki,Verdy,1,0
+27.05.2017,2017,Yokohama,Nagoya,1,2
+21.05.2017,2017,Chiba,Kumamoto,1,1
+21.05.2017,2017,Ehime,Nagoya,1,2
+21.05.2017,2017,Gifu,V-Varen Nagasaki,4,4
+21.05.2017,2017,Kamatamare,Kusatsu,1,2
+21.05.2017,2017,Kanazawa,Avispa Fukuoka,0,5
+21.05.2017,2017,Machida,Oita,2,2
+21.05.2017,2017,Mito,Tokushima,1,1
+21.05.2017,2017,Montedio Yamagata,Renofa Yamaguchi,3,2
+21.05.2017,2017,Okayama,Yokohama,2,1
+21.05.2017,2017,Verdy,Kyoto,1,2
+21.05.2017,2017,Yamaga,Shonan,1,2
+17.05.2017,2017,Ehime,Okayama,2,0
+17.05.2017,2017,Gifu,Kumamoto,1,2
+17.05.2017,2017,Kusatsu,Renofa Yamaguchi,2,1
+17.05.2017,2017,Kyoto,Mito,1,1
+17.05.2017,2017,Montedio Yamagata,Yamaga,1,0
+17.05.2017,2017,Nagoya,Machida,2,1
+17.05.2017,2017,Shonan,Avispa Fukuoka,0,3
+17.05.2017,2017,Tokushima,Kanazawa,1,1
+17.05.2017,2017,Verdy,Chiba,3,0
+17.05.2017,2017,V-Varen Nagasaki,Oita,2,1
+17.05.2017,2017,Yokohama,Kamatamare,2,1
+13.05.2017,2017,Avispa Fukuoka,Okayama,1,0
+13.05.2017,2017,Chiba,V-Varen Nagasaki,5,0
+13.05.2017,2017,Kamatamare,Verdy,0,0
+13.05.2017,2017,Kanazawa,Montedio Yamagata,1,1
+13.05.2017,2017,Kumamoto,Shonan,0,1
+13.05.2017,2017,Kusatsu,Ehime,0,3
+13.05.2017,2017,Mito,Yokohama,0,0
+13.05.2017,2017,Oita,Nagoya,4,1
+13.05.2017,2017,Renofa Yamaguchi,Kyoto,1,1
+13.05.2017,2017,Tokushima,Gifu,1,1
+13.05.2017,2017,Yamaga,Machida,1,1
+07.05.2017,2017,Ehime,Renofa Yamaguchi,2,1
+07.05.2017,2017,Gifu,Oita,1,2
+07.05.2017,2017,Kanazawa,Chiba,2,1
+07.05.2017,2017,Kumamoto,Kusatsu,1,2
+07.05.2017,2017,Kyoto,Kamatamare,1,0
+07.05.2017,2017,Machida,Shonan,0,0
+07.05.2017,2017,Montedio Yamagata,Nagoya,0,0
+07.05.2017,2017,Okayama,Tokushima,3,2
+07.05.2017,2017,Verdy,Yokohama,1,1
+07.05.2017,2017,V-Varen Nagasaki,Mito,0,0
+07.05.2017,2017,Yamaga,Avispa Fukuoka,0,1
+03.05.2017,2017,Kamatamare,Chiba,1,1
+03.05.2017,2017,Kusatsu,Gifu,0,2
+03.05.2017,2017,Machida,Kumamoto,2,1
+03.05.2017,2017,Montedio Yamagata,Mito,0,0
+03.05.2017,2017,Nagoya,Kyoto,1,1
+03.05.2017,2017,Oita,Yamaga,0,0
+03.05.2017,2017,Shonan,Renofa Yamaguchi,1,0
+03.05.2017,2017,Tokushima,Avispa Fukuoka,2,1
+03.05.2017,2017,Verdy,Kanazawa,2,1
+03.05.2017,2017,V-Varen Nagasaki,Okayama,3,0
+03.05.2017,2017,Yokohama,Ehime,4,0
+29.04.2017,2017,Avispa Fukuoka,Verdy,1,0
+29.04.2017,2017,Chiba,Tokushima,2,0
+29.04.2017,2017,Ehime,Montedio Yamagata,2,0
+29.04.2017,2017,Gifu,Kanazawa,1,0
+29.04.2017,2017,Kumamoto,Yokohama,1,4
+29.04.2017,2017,Kusatsu,Nagoya,1,4
+29.04.2017,2017,Mito,Machida,3,2
+29.04.2017,2017,Oita,Kyoto,1,3
+29.04.2017,2017,Okayama,Shonan,0,2
+29.04.2017,2017,Renofa Yamaguchi,V-Varen Nagasaki,0,3
+29.04.2017,2017,Yamaga,Kamatamare,4,0
+23.04.2017,2017,Kamatamare,Gifu,1,3
+23.04.2017,2017,Kanazawa,Kumamoto,0,2
+23.04.2017,2017,Okayama,Montedio Yamagata,2,1
+22.04.2017,2017,Ehime,V-Varen Nagasaki,1,0
+22.04.2017,2017,Kyoto,Yamaga,1,1
+22.04.2017,2017,Machida,Tokushima,0,1
+22.04.2017,2017,Mito,Avispa Fukuoka,1,1
+22.04.2017,2017,Nagoya,Renofa Yamaguchi,0,2
+22.04.2017,2017,Shonan,Oita,0,1
+22.04.2017,2017,Verdy,Kusatsu,3,1
+22.04.2017,2017,Yokohama,Chiba,4,0
+16.04.2017,2017,Kamatamare,Okayama,1,1
+16.04.2017,2017,Kumamoto,Yamaga,2,0
+15.04.2017,2017,Kusatsu,Mito,0,1
+15.04.2017,2017,Kyoto,Ehime,3,2
+15.04.2017,2017,Machida,Yokohama,1,0
+15.04.2017,2017,Montedio Yamagata,Verdy,1,0
+15.04.2017,2017,Oita,Kanazawa,1,0
+15.04.2017,2017,Renofa Yamaguchi,Chiba,0,1
+15.04.2017,2017,Shonan,Gifu,3,3
+15.04.2017,2017,Tokushima,Nagoya,2,2
+15.04.2017,2017,V-Varen Nagasaki,Avispa Fukuoka,0,1
+09.04.2017,2017,Ehime,Kumamoto,1,0
+09.04.2017,2017,Montedio Yamagata,Oita,3,2
+09.04.2017,2017,Verdy,Shonan,2,3
+08.04.2017,2017,Avispa Fukuoka,Machida,1,3
+08.04.2017,2017,Chiba,Kusatsu,1,1
+08.04.2017,2017,Gifu,Mito,2,1
+08.04.2017,2017,Nagoya,Kamatamare,2,1
+08.04.2017,2017,Okayama,Kanazawa,0,1
+08.04.2017,2017,Renofa Yamaguchi,Tokushima,1,1
+08.04.2017,2017,Yamaga,V-Varen Nagasaki,3,0
+08.04.2017,2017,Yokohama,Kyoto,2,0
+02.04.2017,2017,Avispa Fukuoka,Yokohama,0,0
+02.04.2017,2017,Kamatamare,Shonan,3,0
+02.04.2017,2017,Kanazawa,Kusatsu,2,0
+02.04.2017,2017,Okayama,Verdy,0,1
+02.04.2017,2017,V-Varen Nagasaki,Montedio Yamagata,2,0
+01.04.2017,2017,Chiba,Kyoto,2,2
+01.04.2017,2017,Machida,Gifu,0,1
+01.04.2017,2017,Mito,Renofa Yamaguchi,1,1
+01.04.2017,2017,Nagoya,Kumamoto,5,1
+01.04.2017,2017,Oita,Ehime,1,1
+01.04.2017,2017,Tokushima,Yamaga,0,2
+26.03.2017,2017,Kanazawa,Machida,2,2
+26.03.2017,2017,Kumamoto,Oita,0,1
+26.03.2017,2017,Kusatsu,Okayama,1,2
+26.03.2017,2017,Montedio Yamagata,Avispa Fukuoka,0,0
+26.03.2017,2017,Renofa Yamaguchi,Kamatamare,1,0
+26.03.2017,2017,Yamaga,Nagoya,1,2
+25.03.2017,2017,Kyoto,V-Varen Nagasaki,0,1
+25.03.2017,2017,Mito,Ehime,1,0
+25.03.2017,2017,Shonan,Chiba,2,0
+25.03.2017,2017,Verdy,Gifu,1,0
+25.03.2017,2017,Yokohama,Tokushima,0,2
+19.03.2017,2017,Avispa Fukuoka,Kumamoto,2,1
+19.03.2017,2017,Ehime,Shonan,0,1
+19.03.2017,2017,Gifu,Yokohama,1,2
+19.03.2017,2017,Kusatsu,Machida,0,1
+19.03.2017,2017,Montedio Yamagata,Kamatamare,0,0
+19.03.2017,2017,Okayama,Kyoto,2,1
+19.03.2017,2017,Renofa Yamaguchi,Verdy,0,2
+19.03.2017,2017,Yamaga,Chiba,3,1
+18.03.2017,2017,Nagoya,Mito,2,1
+18.03.2017,2017,Oita,Tokushima,0,1
+18.03.2017,2017,V-Varen Nagasaki,Kanazawa,2,1
+12.03.2017,2017,Avispa Fukuoka,Kyoto,2,1
+12.03.2017,2017,Gifu,Yamaga,0,1
+12.03.2017,2017,Kamatamare,Ehime,2,2
+12.03.2017,2017,Kanazawa,Shonan,0,0
+12.03.2017,2017,Kumamoto,Montedio Yamagata,1,1
+12.03.2017,2017,Machida,Okayama,1,1
+12.03.2017,2017,Oita,Renofa Yamaguchi,2,0
+12.03.2017,2017,Tokushima,V-Varen Nagasaki,3,1
+12.03.2017,2017,Yokohama,Kusatsu,1,0
+11.03.2017,2017,Chiba,Nagoya,2,0
+11.03.2017,2017,Verdy,Mito,4,0
+05.03.2017,2017,Ehime,Yamaga,0,0
+05.03.2017,2017,Kamatamare,Machida,2,2
+05.03.2017,2017,Okayama,Kumamoto,1,1
+05.03.2017,2017,Renofa Yamaguchi,Avispa Fukuoka,1,2
+05.03.2017,2017,Verdy,Oita,1,0
+05.03.2017,2017,V-Varen Nagasaki,Yokohama,1,1
+04.03.2017,2017,Chiba,Montedio Yamagata,1,1
+04.03.2017,2017,Kyoto,Tokushima,1,0
+04.03.2017,2017,Mito,Kanazawa,4,0
+04.03.2017,2017,Nagoya,Gifu,1,1
+04.03.2017,2017,Shonan,Kusatsu,3,1
+26.02.2017,2017,Avispa Fukuoka,Oita,1,2
+26.02.2017,2017,Ehime,Kanazawa,1,0
+26.02.2017,2017,Gifu,Renofa Yamaguchi,2,2
+26.02.2017,2017,Kumamoto,Kamatamare,2,1
+26.02.2017,2017,Kyoto,Montedio Yamagata,1,2
+26.02.2017,2017,Machida,Chiba,0,1
+26.02.2017,2017,Mito,Shonan,0,1
+26.02.2017,2017,Nagoya,Okayama,2,0
+26.02.2017,2017,Tokushima,Verdy,1,0
+26.02.2017,2017,V-Varen Nagasaki,Kusatsu,4,0
+26.02.2017,2017,Yokohama,Yamaga,1,0

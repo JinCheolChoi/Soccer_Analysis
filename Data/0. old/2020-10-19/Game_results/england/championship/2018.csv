@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+06.05.2018,2018,Birmingham,Fulham,3,1
+06.05.2018,2018,Bolton,Nottingham,3,2
+06.05.2018,2018,Brentford,Hull,1,1
+06.05.2018,2018,Bristol City,Sheffield Utd,2,3
+06.05.2018,2018,Cardiff,Reading,0,0
+06.05.2018,2018,Derby,Barnsley,4,1
+06.05.2018,2018,Ipswich,Middlesbrough,2,2
+06.05.2018,2018,Leeds,QPR,2,0
+06.05.2018,2018,Millwall,Aston Villa,1,0
+06.05.2018,2018,Preston,Burton,2,1
+06.05.2018,2018,Sheffield Wed,Norwich,5,1
+06.05.2018,2018,Sunderland,Wolves,3,0
+28.04.2018,2018,Aston Villa,Derby,1,1
+28.04.2018,2018,Barnsley,Brentford,2,0
+28.04.2018,2018,Burton,Bolton,2,0
+28.04.2018,2018,Hull,Cardiff,0,2
+28.04.2018,2018,Middlesbrough,Millwall,2,0
+28.04.2018,2018,Norwich,Leeds,2,1
+28.04.2018,2018,Nottingham,Bristol City,0,0
+28.04.2018,2018,QPR,Birmingham,3,1
+28.04.2018,2018,Reading,Ipswich,0,4
+28.04.2018,2018,Sheffield Utd,Preston,0,1
+28.04.2018,2018,Wolves,Sheffield Wed,0,0
+27.04.2018,2018,Fulham,Sunderland,2,1
+24.04.2018,2018,Nottingham,Barnsley,3,0
+24.04.2018,2018,Derby,Cardiff,3,1
+21.04.2018,2018,Birmingham,Sheffield Utd,2,1
+21.04.2018,2018,Bolton,Wolves,0,4
+21.04.2018,2018,Brentford,QPR,2,1
+21.04.2018,2018,Bristol City,Hull,5,5
+21.04.2018,2018,Cardiff,Nottingham,2,1
+21.04.2018,2018,Derby,Middlesbrough,1,2
+21.04.2018,2018,Ipswich,Aston Villa,0,4
+21.04.2018,2018,Leeds,Barnsley,2,1
+21.04.2018,2018,Preston,Norwich,0,0
+21.04.2018,2018,Sheffield Wed,Reading,3,0
+21.04.2018,2018,Sunderland,Burton,1,2
+20.04.2018,2018,Millwall,Fulham,0,3
+15.04.2018,2018,Wolves,Birmingham,2,0
+14.04.2018,2018,Barnsley,Bolton,2,2
+14.04.2018,2018,Burton,Derby,3,1
+14.04.2018,2018,Fulham,Brentford,1,1
+14.04.2018,2018,Hull,Sheffield Wed,0,1
+14.04.2018,2018,Middlesbrough,Bristol City,2,1
+14.04.2018,2018,Norwich,Cardiff,0,2
+14.04.2018,2018,Nottingham,Ipswich,2,1
+14.04.2018,2018,QPR,Preston,1,2
+14.04.2018,2018,Reading,Sunderland,2,2
+14.04.2018,2018,Sheffield Utd,Millwall,1,1
+13.04.2018,2018,Aston Villa,Leeds,1,0
+11.04.2018,2018,Wolves,Derby,2,0
+10.04.2018,2018,Aston Villa,Cardiff,1,0
+10.04.2018,2018,Bolton,Millwall,0,2
+10.04.2018,2018,Bristol City,Birmingham,3,1
+10.04.2018,2018,Burton,Hull,0,5
+10.04.2018,2018,Fulham,Reading,1,0
+10.04.2018,2018,Ipswich,Barnsley,1,0
+10.04.2018,2018,Nottingham,Brentford,0,1
+10.04.2018,2018,Preston,Leeds,3,1
+10.04.2018,2018,QPR,Sheffield Wed,4,2
+10.04.2018,2018,Sheffield Utd,Middlesbrough,2,1
+10.04.2018,2018,Sunderland,Norwich,1,1
+07.04.2018,2018,Barnsley,Sheffield Utd,3,2
+07.04.2018,2018,Birmingham,Burton,1,1
+07.04.2018,2018,Brentford,Ipswich,1,0
+07.04.2018,2018,Derby,Bolton,3,0
+07.04.2018,2018,Hull,QPR,4,0
+07.04.2018,2018,Leeds,Sunderland,1,1
+07.04.2018,2018,Middlesbrough,Nottingham,2,0
+07.04.2018,2018,Millwall,Bristol City,2,0
+07.04.2018,2018,Norwich,Aston Villa,3,1
+07.04.2018,2018,Reading,Preston,1,0
+07.04.2018,2018,Sheffield Wed,Fulham,0,1
+06.04.2018,2018,Cardiff,Wolves,0,1
+03.04.2018,2018,Aston Villa,Reading,3,0
+03.04.2018,2018,Bolton,Birmingham,0,1
+03.04.2018,2018,Fulham,Leeds,2,0
+03.04.2018,2018,Wolves,Hull,2,2
+02.04.2018,2018,Bristol City,Brentford,0,1
+02.04.2018,2018,Burton,Middlesbrough,1,1
+02.04.2018,2018,Ipswich,Millwall,2,2
+02.04.2018,2018,Preston,Derby,0,1
+02.04.2018,2018,QPR,Norwich,4,1
+02.04.2018,2018,Sheffield Utd,Cardiff,1,1
+02.04.2018,2018,Sunderland,Sheffield Wed,1,3
+31.03.2018,2018,Birmingham,Ipswich,1,0
+31.03.2018,2018,Hull,Aston Villa,0,0
+30.03.2018,2018,Barnsley,Bristol City,2,2
+30.03.2018,2018,Brentford,Sheffield Utd,1,1
+30.03.2018,2018,Cardiff,Burton,3,1
+30.03.2018,2018,Derby,Sunderland,1,4
+30.03.2018,2018,Leeds,Bolton,2,1
+30.03.2018,2018,Middlesbrough,Wolves,1,2
+30.03.2018,2018,Millwall,Nottingham,2,0
+30.03.2018,2018,Norwich,Fulham,0,2
+30.03.2018,2018,Reading,QPR,1,0
+30.03.2018,2018,Sheffield Wed,Preston,4,1
+17.03.2018,2018,Barnsley,Millwall,0,2
+17.03.2018,2018,Birmingham,Hull,3,0
+17.03.2018,2018,Bolton,Aston Villa,1,0
+17.03.2018,2018,Brentford,Middlesbrough,1,1
+17.03.2018,2018,Bristol City,Ipswich,1,0
+17.03.2018,2018,Fulham,QPR,2,2
+17.03.2018,2018,Leeds,Sheffield Wed,1,2
+17.03.2018,2018,Norwich,Reading,3,2
+17.03.2018,2018,Sheffield Utd,Nottingham,0,0
+17.03.2018,2018,Sunderland,Preston,0,2
+17.03.2018,2018,Wolves,Burton,3,1
+13.03.2018,2018,Aston Villa,QPR,1,3
+13.03.2018,2018,Barnsley,Norwich,1,1
+13.03.2018,2018,Brentford,Cardiff,1,3
+13.03.2018,2018,Ipswich,Hull,0,3
+13.03.2018,2018,Sheffield Utd,Burton,2,0
+13.03.2018,2018,Wolves,Reading,3,0
+11.03.2018,2018,Nottingham,Derby,0,0
+10.03.2018,2018,Aston Villa,Wolves,4,1
+10.03.2018,2018,Burton,Bristol City,0,0
+10.03.2018,2018,Cardiff,Birmingham,3,2
+10.03.2018,2018,Hull,Norwich,4,3
+10.03.2018,2018,Ipswich,Sheffield Utd,0,0
+10.03.2018,2018,Middlesbrough,Barnsley,3,1
+10.03.2018,2018,Millwall,Brentford,1,0
+10.03.2018,2018,Preston,Fulham,1,2
+10.03.2018,2018,QPR,Sunderland,1,0
+10.03.2018,2018,Reading,Leeds,2,2
+10.03.2018,2018,Sheffield Wed,Bolton,1,1
+07.03.2018,2018,Leeds,Wolves,0,3
+06.03.2018,2018,Birmingham,Middlesbrough,0,1
+06.03.2018,2018,Burton,Brentford,0,2
+06.03.2018,2018,Cardiff,Barnsley,2,1
+06.03.2018,2018,Fulham,Sheffield Utd,3,0
+06.03.2018,2018,Hull,Millwall,1,2
+06.03.2018,2018,Norwich,Nottingham,0,0
+06.03.2018,2018,Preston,Bristol City,2,1
+06.03.2018,2018,QPR,Derby,1,1
+06.03.2018,2018,Reading,Bolton,1,1
+06.03.2018,2018,Sheffield Wed,Ipswich,1,2
+06.03.2018,2018,Sunderland,Aston Villa,0,3
+03.03.2018,2018,Bolton,Preston,1,3
+03.03.2018,2018,Bristol City,Sheffield Wed,4,0
+03.03.2018,2018,Derby,Fulham,1,2
+03.03.2018,2018,Millwall,Sunderland,1,1
+03.03.2018,2018,Nottingham,Birmingham,2,1
+02.03.2018,2018,Middlesbrough,Leeds,3,0
+27.02.2018,2018,Hull,Barnsley,1,1
+27.02.2018,2018,Reading,Sheffield Utd,1,3
+25.02.2018,2018,Cardiff,Bristol City,1,0
+24.02.2018,2018,Birmingham,Barnsley,0,2
+24.02.2018,2018,Burton,Millwall,0,1
+24.02.2018,2018,Fulham,Wolves,2,0
+24.02.2018,2018,Leeds,Brentford,1,0
+24.02.2018,2018,Norwich,Bolton,0,0
+24.02.2018,2018,Preston,Ipswich,0,1
+24.02.2018,2018,QPR,Nottingham,2,5
+24.02.2018,2018,Reading,Derby,3,3
+24.02.2018,2018,Sheffield Wed,Aston Villa,2,4
+24.02.2018,2018,Sunderland,Middlesbrough,3,3
+23.02.2018,2018,Hull,Sheffield Utd,1,0
+21.02.2018,2018,Bristol City,Fulham,1,1
+21.02.2018,2018,Derby,Leeds,2,2
+21.02.2018,2018,Ipswich,Cardiff,0,1
+21.02.2018,2018,Wolves,Norwich,2,2
+20.02.2018,2018,Aston Villa,Preston,1,1
+20.02.2018,2018,Barnsley,Burton,1,2
+20.02.2018,2018,Bolton,Sunderland,1,0
+20.02.2018,2018,Brentford,Birmingham,5,0
+20.02.2018,2018,Middlesbrough,Hull,3,1
+20.02.2018,2018,Millwall,Sheffield Wed,2,1
+20.02.2018,2018,Nottingham,Reading,1,1
+20.02.2018,2018,Sheffield Utd,QPR,2,1
+18.02.2018,2018,Leeds,Bristol City,2,2
+18.02.2018,2018,Norwich,Ipswich,1,1
+17.02.2018,2018,Birmingham,Millwall,0,1
+17.02.2018,2018,Burton,Nottingham,0,0
+17.02.2018,2018,Cardiff,Middlesbrough,1,0
+17.02.2018,2018,Fulham,Aston Villa,2,0
+17.02.2018,2018,Preston,Wolves,1,1
+17.02.2018,2018,QPR,Bolton,2,0
+17.02.2018,2018,Sunderland,Brentford,0,2
+13.02.2018,2018,Sheffield Wed,Derby,2,0
+13.02.2018,2018,Cardiff,Bolton,2,0
+11.02.2018,2018,Aston Villa,Birmingham,2,0
+10.02.2018,2018,Barnsley,Sheffield Wed,1,1
+10.02.2018,2018,Bolton,Fulham,1,1
+10.02.2018,2018,Brentford,Preston,1,1
+10.02.2018,2018,Bristol City,Sunderland,3,3
+10.02.2018,2018,Derby,Norwich,1,1
+10.02.2018,2018,Ipswich,Burton,0,0
+10.02.2018,2018,Middlesbrough,Reading,2,1
+10.02.2018,2018,Nottingham,Hull,0,2
+10.02.2018,2018,Sheffield Utd,Leeds,2,1
+10.02.2018,2018,Wolves,QPR,2,1
+09.02.2018,2018,Millwall,Cardiff,1,1
+03.02.2018,2018,Aston Villa,Burton,3,2
+03.02.2018,2018,Derby,Brentford,3,0
+03.02.2018,2018,Fulham,Nottingham,2,0
+03.02.2018,2018,Leeds,Cardiff,1,4
+03.02.2018,2018,Norwich,Middlesbrough,1,0
+03.02.2018,2018,Preston,Hull,2,1
+03.02.2018,2018,QPR,Barnsley,1,0
+03.02.2018,2018,Reading,Millwall,0,2
+03.02.2018,2018,Sheffield Wed,Birmingham,1,3
+03.02.2018,2018,Sunderland,Ipswich,0,2
+03.02.2018,2018,Wolves,Sheffield Utd,3,0
+02.02.2018,2018,Bolton,Bristol City,1,0
+30.01.2018,2018,Birmingham,Sunderland,3,1
+30.01.2018,2018,Burton,Reading,1,3
+30.01.2018,2018,Hull,Leeds,0,0
+30.01.2018,2018,Middlesbrough,Sheffield Wed,0,0
+30.01.2018,2018,Millwall,Derby,0,0
+30.01.2018,2018,Nottingham,Preston,0,3
+30.01.2018,2018,Sheffield Utd,Aston Villa,0,1
+27.01.2018,2018,Barnsley,Fulham,1,3
+27.01.2018,2018,Brentford,Norwich,0,1
+27.01.2018,2018,Bristol City,QPR,2,0
+27.01.2018,2018,Ipswich,Wolves,0,1
+20.01.2018,2018,Aston Villa,Barnsley,3,1
+20.01.2018,2018,Bolton,Ipswich,1,1
+20.01.2018,2018,Fulham,Burton,6,0
+20.01.2018,2018,Leeds,Millwall,3,4
+20.01.2018,2018,Norwich,Sheffield Utd,1,2
+20.01.2018,2018,Preston,Birmingham,1,1
+20.01.2018,2018,QPR,Middlesbrough,0,3
+20.01.2018,2018,Reading,Brentford,0,1
+20.01.2018,2018,Sheffield Wed,Cardiff,0,0
+20.01.2018,2018,Sunderland,Hull,1,0
+20.01.2018,2018,Wolves,Nottingham,0,2
+19.01.2018,2018,Derby,Bristol City,0,0
+13.01.2018,2018,Barnsley,Wolves,0,0
+13.01.2018,2018,Birmingham,Derby,0,3
+13.01.2018,2018,Brentford,Bolton,2,0
+13.01.2018,2018,Bristol City,Norwich,0,1
+13.01.2018,2018,Burton,QPR,1,3
+13.01.2018,2018,Cardiff,Sunderland,4,0
+13.01.2018,2018,Hull,Reading,0,0
+13.01.2018,2018,Ipswich,Leeds,1,0
+13.01.2018,2018,Middlesbrough,Fulham,0,1
+13.01.2018,2018,Millwall,Preston,1,1
+13.01.2018,2018,Nottingham,Aston Villa,0,1
+12.01.2018,2018,Sheffield Utd,Sheffield Wed,0,0
+02.01.2018,2018,Fulham,Ipswich,4,1
+02.01.2018,2018,Reading,Birmingham,0,2
+02.01.2018,2018,Wolves,Brentford,3,0
+01.01.2018,2018,Aston Villa,Bristol City,5,0
+01.01.2018,2018,Bolton,Hull,1,0
+01.01.2018,2018,Derby,Sheffield Utd,1,1
+01.01.2018,2018,Leeds,Nottingham,0,0
+01.01.2018,2018,Norwich,Millwall,2,1
+01.01.2018,2018,Preston,Middlesbrough,2,3
+01.01.2018,2018,QPR,Cardiff,2,1
+01.01.2018,2018,Sheffield Wed,Burton,0,3
+01.01.2018,2018,Sunderland,Barnsley,0,1
+30.12.2017,2018,Barnsley,Reading,1,1
+30.12.2017,2018,Birmingham,Leeds,1,0
+30.12.2017,2018,Brentford,Sheffield Wed,2,0
+30.12.2017,2018,Bristol City,Wolves,1,2
+30.12.2017,2018,Burton,Norwich,0,0
+30.12.2017,2018,Hull,Fulham,2,2
+30.12.2017,2018,Ipswich,Derby,1,2
+30.12.2017,2018,Middlesbrough,Aston Villa,0,1
+30.12.2017,2018,Nottingham,Sunderland,0,1
+30.12.2017,2018,Sheffield Utd,Bolton,0,1
+29.12.2017,2018,Cardiff,Preston,0,1
+29.12.2017,2018,Millwall,QPR,1,0
+26.12.2017,2018,Barnsley,Preston,0,0
+26.12.2017,2018,Birmingham,Norwich,0,2
+26.12.2017,2018,Brentford,Aston Villa,2,1
+26.12.2017,2018,Bristol City,Reading,2,0
+26.12.2017,2018,Burton,Leeds,1,2
+26.12.2017,2018,Cardiff,Fulham,2,4
+26.12.2017,2018,Hull,Derby,0,0
+26.12.2017,2018,Ipswich,QPR,0,0
+26.12.2017,2018,Middlesbrough,Bolton,2,0
+26.12.2017,2018,Millwall,Wolves,2,2
+26.12.2017,2018,Nottingham,Sheffield Wed,0,3
+26.12.2017,2018,Sheffield Utd,Sunderland,3,0
+23.12.2017,2018,Aston Villa,Sheffield Utd,2,2
+23.12.2017,2018,Bolton,Cardiff,2,0
+23.12.2017,2018,Derby,Millwall,3,0
+23.12.2017,2018,Fulham,Barnsley,2,1
+23.12.2017,2018,Leeds,Hull,1,0
+23.12.2017,2018,Preston,Nottingham,1,1
+23.12.2017,2018,QPR,Bristol City,1,1
+23.12.2017,2018,Reading,Burton,1,2
+23.12.2017,2018,Sheffield Wed,Middlesbrough,1,2
+23.12.2017,2018,Sunderland,Birmingham,1,1
+23.12.2017,2018,Wolves,Ipswich,1,0
+22.12.2017,2018,Norwich,Brentford,1,2
+16.12.2017,2018,Birmingham,QPR,1,2
+16.12.2017,2018,Bolton,Burton,0,1
+16.12.2017,2018,Brentford,Barnsley,0,0
+16.12.2017,2018,Bristol City,Nottingham,2,1
+16.12.2017,2018,Cardiff,Hull,1,0
+16.12.2017,2018,Derby,Aston Villa,2,0
+16.12.2017,2018,Ipswich,Reading,2,0
+16.12.2017,2018,Leeds,Norwich,1,0
+16.12.2017,2018,Millwall,Middlesbrough,2,1
+16.12.2017,2018,Preston,Sheffield Utd,1,0
+16.12.2017,2018,Sunderland,Fulham,1,0
+15.12.2017,2018,Sheffield Wed,Wolves,0,1
+11.12.2017,2018,Reading,Cardiff,2,2
+09.12.2017,2018,Aston Villa,Millwall,0,0
+09.12.2017,2018,Barnsley,Derby,0,3
+09.12.2017,2018,Burton,Preston,1,2
+09.12.2017,2018,Fulham,Birmingham,1,0
+09.12.2017,2018,Hull,Brentford,3,2
+09.12.2017,2018,Middlesbrough,Ipswich,2,0
+09.12.2017,2018,Norwich,Sheffield Wed,3,1
+09.12.2017,2018,Nottingham,Bolton,3,2
+09.12.2017,2018,QPR,Leeds,1,3
+09.12.2017,2018,Wolves,Sunderland,0,0
+08.12.2017,2018,Sheffield Utd,Bristol City,1,2
+04.12.2017,2018,Birmingham,Wolves,0,1
+02.12.2017,2018,Bolton,Barnsley,3,1
+02.12.2017,2018,Brentford,Fulham,3,1
+02.12.2017,2018,Bristol City,Middlesbrough,2,1
+02.12.2017,2018,Derby,Burton,1,0
+02.12.2017,2018,Ipswich,Nottingham,4,2
+02.12.2017,2018,Millwall,Sheffield Utd,3,1
+02.12.2017,2018,Preston,QPR,1,0
+02.12.2017,2018,Sheffield Wed,Hull,2,2
+02.12.2017,2018,Sunderland,Reading,1,3
+01.12.2017,2018,Cardiff,Norwich,3,1
+01.12.2017,2018,Leeds,Aston Villa,1,1
+28.11.2017,2018,Derby,Ipswich,0,1
+28.11.2017,2018,Reading,Barnsley,3,0
+27.11.2017,2018,QPR,Brentford,2,2
+26.11.2017,2018,Nottingham,Cardiff,0,2
+25.11.2017,2018,Aston Villa,Ipswich,2,0
+25.11.2017,2018,Barnsley,Leeds,0,2
+25.11.2017,2018,Burton,Sunderland,0,2
+25.11.2017,2018,Fulham,Millwall,1,0
+25.11.2017,2018,Hull,Bristol City,2,3
+25.11.2017,2018,Middlesbrough,Derby,0,3
+25.11.2017,2018,Norwich,Preston,1,1
+25.11.2017,2018,Reading,Sheffield Wed,0,0
+25.11.2017,2018,Sheffield Utd,Birmingham,1,1
+25.11.2017,2018,Wolves,Bolton,5,1
+22.11.2017,2018,Ipswich,Sheffield Wed,2,2
+22.11.2017,2018,Middlesbrough,Birmingham,2,0
+22.11.2017,2018,Wolves,Leeds,4,1
+21.11.2017,2018,Aston Villa,Sunderland,2,1
+21.11.2017,2018,Barnsley,Cardiff,0,1
+21.11.2017,2018,Bolton,Reading,2,2
+21.11.2017,2018,Brentford,Burton,1,1
+21.11.2017,2018,Bristol City,Preston,1,2
+21.11.2017,2018,Derby,QPR,2,0
+21.11.2017,2018,Millwall,Hull,0,0
+21.11.2017,2018,Nottingham,Norwich,1,0
+21.11.2017,2018,Sheffield Utd,Fulham,4,5
+19.11.2017,2018,Leeds,Middlesbrough,2,1
+18.11.2017,2018,Birmingham,Nottingham,1,0
+18.11.2017,2018,Cardiff,Brentford,2,0
+18.11.2017,2018,Fulham,Derby,1,1
+18.11.2017,2018,Hull,Ipswich,2,2
+18.11.2017,2018,Norwich,Barnsley,1,1
+18.11.2017,2018,QPR,Aston Villa,1,2
+18.11.2017,2018,Reading,Wolves,0,2
+18.11.2017,2018,Sheffield Wed,Bristol City,0,0
+18.11.2017,2018,Sunderland,Millwall,2,2
+17.11.2017,2018,Burton,Sheffield Utd,1,3
+17.11.2017,2018,Preston,Bolton,0,0
+05.11.2017,2018,Middlesbrough,Sunderland,1,0
+04.11.2017,2018,Aston Villa,Sheffield Wed,1,2
+04.11.2017,2018,Barnsley,Birmingham,2,0
+04.11.2017,2018,Bolton,Norwich,2,1
+04.11.2017,2018,Brentford,Leeds,3,1
+04.11.2017,2018,Bristol City,Cardiff,2,1
+04.11.2017,2018,Derby,Reading,2,4
+04.11.2017,2018,Ipswich,Preston,3,0
+04.11.2017,2018,Millwall,Burton,0,1
+04.11.2017,2018,Nottingham,QPR,4,0
+04.11.2017,2018,Sheffield Utd,Hull,4,1
+03.11.2017,2018,Wolves,Fulham,2,0
+01.11.2017,2018,Birmingham,Brentford,0,2
+01.11.2017,2018,Preston,Aston Villa,0,2
+31.10.2017,2018,Burton,Barnsley,2,4
+31.10.2017,2018,Cardiff,Ipswich,3,1
+31.10.2017,2018,Fulham,Bristol City,0,2
+31.10.2017,2018,Hull,Middlesbrough,1,3
+31.10.2017,2018,Leeds,Derby,1,2
+31.10.2017,2018,Norwich,Wolves,0,2
+31.10.2017,2018,QPR,Sheffield Utd,1,0
+31.10.2017,2018,Reading,Nottingham,3,1
+31.10.2017,2018,Sheffield Wed,Millwall,2,1
+31.10.2017,2018,Sunderland,Bolton,3,3
+29.10.2017,2018,Birmingham,Aston Villa,0,0
+28.10.2017,2018,Burton,Ipswich,1,2
+28.10.2017,2018,Cardiff,Millwall,0,0
+28.10.2017,2018,Fulham,Bolton,1,1
+28.10.2017,2018,Hull,Nottingham,2,3
+28.10.2017,2018,Norwich,Derby,1,2
+28.10.2017,2018,Preston,Brentford,2,3
+28.10.2017,2018,QPR,Wolves,2,1
+28.10.2017,2018,Reading,Middlesbrough,0,2
+28.10.2017,2018,Sheffield Wed,Barnsley,1,1
+28.10.2017,2018,Sunderland,Bristol City,1,2
+27.10.2017,2018,Leeds,Sheffield Utd,1,2
+22.10.2017,2018,Ipswich,Norwich,0,1
+21.10.2017,2018,Aston Villa,Fulham,2,1
+21.10.2017,2018,Barnsley,Hull,0,1
+21.10.2017,2018,Bolton,QPR,1,1
+21.10.2017,2018,Brentford,Sunderland,3,3
+21.10.2017,2018,Bristol City,Leeds,0,3
+21.10.2017,2018,Derby,Sheffield Wed,2,0
+21.10.2017,2018,Middlesbrough,Cardiff,0,1
+21.10.2017,2018,Millwall,Birmingham,2,0
+21.10.2017,2018,Nottingham,Burton,2,0
+21.10.2017,2018,Sheffield Utd,Reading,2,1
+21.10.2017,2018,Wolves,Preston,3,2
+15.10.2017,2018,Derby,Nottingham,2,0
+14.10.2017,2018,Barnsley,Middlesbrough,2,2
+14.10.2017,2018,Bolton,Sheffield Wed,2,1
+14.10.2017,2018,Brentford,Millwall,1,0
+14.10.2017,2018,Fulham,Preston,2,2
+14.10.2017,2018,Leeds,Reading,0,1
+14.10.2017,2018,Norwich,Hull,1,1
+14.10.2017,2018,Sheffield Utd,Ipswich,1,0
+14.10.2017,2018,Sunderland,QPR,1,1
+14.10.2017,2018,Wolves,Aston Villa,2,0
+13.10.2017,2018,Birmingham,Cardiff,1,0
+13.10.2017,2018,Bristol City,Burton,0,0
+01.10.2017,2018,Sheffield Wed,Leeds,3,0
+30.09.2017,2018,Aston Villa,Bolton,1,0
+30.09.2017,2018,Burton,Wolves,0,4
+30.09.2017,2018,Cardiff,Derby,0,0
+30.09.2017,2018,Hull,Birmingham,6,1
+30.09.2017,2018,Ipswich,Bristol City,1,3
+30.09.2017,2018,Middlesbrough,Brentford,2,2
+30.09.2017,2018,Millwall,Barnsley,1,3
+30.09.2017,2018,Nottingham,Sheffield Utd,2,1
+30.09.2017,2018,Preston,Sunderland,2,2
+30.09.2017,2018,Reading,Norwich,1,2
+29.09.2017,2018,QPR,Fulham,1,2
+27.09.2017,2018,Birmingham,Sheffield Wed,1,0
+27.09.2017,2018,Sheffield Utd,Wolves,2,0
+26.09.2017,2018,Barnsley,QPR,1,1
+26.09.2017,2018,Brentford,Derby,1,1
+26.09.2017,2018,Bristol City,Bolton,2,0
+26.09.2017,2018,Burton,Aston Villa,0,4
+26.09.2017,2018,Cardiff,Leeds,3,1
+26.09.2017,2018,Hull,Preston,1,2
+26.09.2017,2018,Ipswich,Sunderland,5,2
+26.09.2017,2018,Middlesbrough,Norwich,0,1
+26.09.2017,2018,Millwall,Reading,2,1
+26.09.2017,2018,Nottingham,Fulham,1,3
+24.09.2017,2018,Sheffield Wed,Sheffield Utd,2,4
+23.09.2017,2018,Aston Villa,Nottingham,2,1
+23.09.2017,2018,Bolton,Brentford,0,3
+23.09.2017,2018,Derby,Birmingham,1,1
+23.09.2017,2018,Fulham,Middlesbrough,1,1
+23.09.2017,2018,Leeds,Ipswich,3,2
+23.09.2017,2018,Norwich,Bristol City,0,0
+23.09.2017,2018,Preston,Millwall,0,0
+23.09.2017,2018,QPR,Burton,0,0
+23.09.2017,2018,Reading,Hull,1,1
+23.09.2017,2018,Sunderland,Cardiff,1,2
+23.09.2017,2018,Wolves,Barnsley,2,1
+16.09.2017,2018,Barnsley,Aston Villa,0,3
+16.09.2017,2018,Birmingham,Preston,1,3
+16.09.2017,2018,Brentford,Reading,1,1
+16.09.2017,2018,Bristol City,Derby,4,1
+16.09.2017,2018,Burton,Fulham,2,1
+16.09.2017,2018,Cardiff,Sheffield Wed,1,1
+16.09.2017,2018,Hull,Sunderland,1,1
+16.09.2017,2018,Ipswich,Bolton,2,0
+16.09.2017,2018,Middlesbrough,QPR,3,2
+16.09.2017,2018,Millwall,Leeds,1,0
+16.09.2017,2018,Nottingham,Wolves,1,2
+16.09.2017,2018,Sheffield Utd,Norwich,0,1
+13.09.2017,2018,Fulham,Hull,2,1
+12.09.2017,2018,Aston Villa,Middlesbrough,0,0
+12.09.2017,2018,Bolton,Sheffield Utd,0,1
+12.09.2017,2018,Leeds,Birmingham,2,0
+12.09.2017,2018,Norwich,Burton,0,0
+12.09.2017,2018,Preston,Cardiff,3,0
+12.09.2017,2018,QPR,Millwall,2,2
+12.09.2017,2018,Sheffield Wed,Brentford,2,1
+12.09.2017,2018,Sunderland,Nottingham,0,1
+12.09.2017,2018,Wolves,Bristol City,3,3
+09.09.2017,2018,Aston Villa,Brentford,0,0
+09.09.2017,2018,Bolton,Middlesbrough,0,3
+09.09.2017,2018,Fulham,Cardiff,1,1
+09.09.2017,2018,Leeds,Burton,5,0
+09.09.2017,2018,Norwich,Birmingham,1,0
+09.09.2017,2018,Preston,Barnsley,1,1
+09.09.2017,2018,QPR,Ipswich,2,1
+09.09.2017,2018,Reading,Bristol City,0,1
+09.09.2017,2018,Sheffield Wed,Nottingham,3,1
+09.09.2017,2018,Sunderland,Sheffield Utd,1,2
+09.09.2017,2018,Wolves,Millwall,1,0
+08.09.2017,2018,Derby,Hull,5,0
+26.08.2017,2018,Barnsley,Sunderland,3,0
+26.08.2017,2018,Birmingham,Reading,0,2
+26.08.2017,2018,Brentford,Wolves,0,0
+26.08.2017,2018,Burton,Sheffield Wed,1,1
+26.08.2017,2018,Cardiff,QPR,2,1
+26.08.2017,2018,Ipswich,Fulham,0,2
+26.08.2017,2018,Middlesbrough,Preston,0,0
+26.08.2017,2018,Millwall,Norwich,4,0
+26.08.2017,2018,Nottingham,Leeds,0,2
+26.08.2017,2018,Sheffield Utd,Derby,3,1
+25.08.2017,2018,Bristol City,Aston Villa,1,1
+25.08.2017,2018,Hull,Bolton,4,0
+19.08.2017,2018,Aston Villa,Norwich,4,2
+19.08.2017,2018,Bolton,Derby,1,2
+19.08.2017,2018,Bristol City,Millwall,0,0
+19.08.2017,2018,Fulham,Sheffield Wed,0,1
+19.08.2017,2018,Ipswich,Brentford,2,0
+19.08.2017,2018,Nottingham,Middlesbrough,2,1
+19.08.2017,2018,Preston,Reading,1,0
+19.08.2017,2018,QPR,Hull,2,1
+19.08.2017,2018,Sheffield Utd,Barnsley,1,0
+19.08.2017,2018,Sunderland,Leeds,0,2
+19.08.2017,2018,Wolves,Cardiff,1,2
+18.08.2017,2018,Burton,Birmingham,2,1
+16.08.2017,2018,Norwich,QPR,2,0
+16.08.2017,2018,Sheffield Wed,Sunderland,1,1
+15.08.2017,2018,Barnsley,Nottingham,2,1
+15.08.2017,2018,Birmingham,Bolton,0,0
+15.08.2017,2018,Brentford,Bristol City,2,2
+15.08.2017,2018,Cardiff,Sheffield Utd,2,0
+15.08.2017,2018,Derby,Preston,1,0
+15.08.2017,2018,Hull,Wolves,2,3
+15.08.2017,2018,Leeds,Fulham,0,0
+15.08.2017,2018,Middlesbrough,Burton,2,0
+15.08.2017,2018,Millwall,Ipswich,3,4
+15.08.2017,2018,Reading,Aston Villa,2,1
+13.08.2017,2018,Norwich,Sunderland,1,3
+12.08.2017,2018,Barnsley,Ipswich,1,2
+12.08.2017,2018,Birmingham,Bristol City,2,1
+12.08.2017,2018,Brentford,Nottingham,3,4
+12.08.2017,2018,Cardiff,Aston Villa,3,0
+12.08.2017,2018,Derby,Wolves,0,2
+12.08.2017,2018,Hull,Burton,4,1
+12.08.2017,2018,Leeds,Preston,0,0
+12.08.2017,2018,Middlesbrough,Sheffield Utd,1,0
+12.08.2017,2018,Millwall,Bolton,1,1
+12.08.2017,2018,Reading,Fulham,1,1
+12.08.2017,2018,Sheffield Wed,QPR,1,1
+06.08.2017,2018,Bolton,Leeds,2,3
+05.08.2017,2018,Aston Villa,Hull,1,1
+05.08.2017,2018,Bristol City,Barnsley,3,1
+05.08.2017,2018,Burton,Cardiff,0,1
+05.08.2017,2018,Fulham,Norwich,1,1
+05.08.2017,2018,Ipswich,Birmingham,1,0
+05.08.2017,2018,Preston,Sheffield Wed,1,0
+05.08.2017,2018,QPR,Reading,2,0
+05.08.2017,2018,Sheffield Utd,Brentford,1,0
+05.08.2017,2018,Wolves,Middlesbrough,1,0
+04.08.2017,2018,Nottingham,Millwall,1,0
+04.08.2017,2018,Sunderland,Derby,1,1

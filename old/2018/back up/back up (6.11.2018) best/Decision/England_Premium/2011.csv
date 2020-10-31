@@ -1,0 +1,611 @@
+"Time","H.team.1","A.team.1","H.team.2","A.team.2","Choose.1","Choose.2","Odd.1","Odd.2","joint.odds","result.mat"
+2010-08-14,"Aston Villa","West Ham","Chelsea","West Brom","H","A","1.92","18",34.56,0
+2010-08-14,"Aston Villa","West Ham","Chelsea","West Brom","D","A","3.34","18",60.12,0
+2010-08-14,"Aston Villa","West Ham","Chelsea","West Brom","A","A","4.14","18",74.52,0
+2010-08-14,"Blackburn","Everton","Chelsea","West Brom","H","A","2.92","18",52.56,0
+2010-08-14,"Blackburn","Everton","Chelsea","West Brom","D","A","3.24","18",58.32,0
+2010-08-14,"Blackburn","Everton","Chelsea","West Brom","A","A","2.42","18",43.56,0
+2010-08-14,"Bolton","Fulham","Chelsea","West Brom","H","A","2.19","18",39.42,0
+2010-08-14,"Bolton","Fulham","Chelsea","West Brom","D","A","3.26","18",58.68,0
+2010-08-14,"Bolton","Fulham","Chelsea","West Brom","A","A","3.36","18",60.48,0
+2010-08-14,"Chelsea","West Brom","Sunderland","Birmingham","A","H","18","2.11",37.98,0
+2010-08-14,"Chelsea","West Brom","Sunderland","Birmingham","A","D","18","3.27",58.86,0
+2010-08-14,"Chelsea","West Brom","Sunderland","Birmingham","A","A","18","3.54",63.72,0
+2010-08-14,"Chelsea","West Brom","Tottenham","Manchester City","A","H","18","2.23",40.14,0
+2010-08-14,"Chelsea","West Brom","Tottenham","Manchester City","A","D","18","3.28",59.04,0
+2010-08-14,"Chelsea","West Brom","Tottenham","Manchester City","A","A","18","3.24",58.32,0
+2010-08-14,"Chelsea","West Brom","Wigan","Blackpool","A","H","18","1.74",31.32,0
+2010-08-14,"Chelsea","West Brom","Wigan","Blackpool","A","D","18","3.57",64.26,0
+2010-08-14,"Chelsea","West Brom","Wigan","Blackpool","D","A","7.11","4.8",34.128,0
+2010-08-14,"Chelsea","West Brom","Wigan","Blackpool","A","A","18","4.8",86.4,0
+2010-08-14,"Chelsea","West Brom","Wolves","Stoke","A","H","18","2.38",42.84,0
+2010-08-14,"Chelsea","West Brom","Wolves","Stoke","A","D","18","3.19",57.42,0
+2010-08-14,"Chelsea","West Brom","Wolves","Stoke","A","A","18","3.03",54.54,0
+2010-08-21,"Arsenal","Blackpool","Birmingham","Blackburn","A","H","17.59","2.29",40.2811,0
+2010-08-21,"Arsenal","Blackpool","Birmingham","Blackburn","A","D","17.59","3.16",55.5844,0
+2010-08-21,"Arsenal","Blackpool","Birmingham","Blackburn","A","A","17.59","3.22",56.6398,0
+2010-08-21,"Arsenal","Blackpool","Everton","Wolves","A","D","17.59","4.03",70.8877,0
+2010-08-21,"Arsenal","Blackpool","Everton","Wolves","D","A","7.38","7.37",54.3906,0
+2010-08-21,"Arsenal","Blackpool","Stoke","Tottenham","A","H","17.59","3.15",55.4085,0
+2010-08-21,"Arsenal","Blackpool","Stoke","Tottenham","A","D","17.59","3.24",56.9916,0
+2010-08-21,"Arsenal","Blackpool","Stoke","Tottenham","A","A","17.59","2.28",40.1052,0
+2010-08-21,"Arsenal","Blackpool","West Brom","Sunderland","A","H","17.59","2.11",37.1149,0
+2010-08-21,"Arsenal","Blackpool","West Brom","Sunderland","A","D","17.59","3.3",58.047,0
+2010-08-21,"Arsenal","Blackpool","West Brom","Sunderland","A","A","17.59","3.48",61.2132,0
+2010-08-21,"Arsenal","Blackpool","West Ham","Bolton","A","H","17.59","2.23",39.2257,0
+2010-08-21,"Arsenal","Blackpool","West Ham","Bolton","A","D","17.59","3.25",57.1675,0
+2010-08-21,"Arsenal","Blackpool","West Ham","Bolton","A","A","17.59","3.24",56.9916,0
+2010-08-21,"Arsenal","Blackpool","Wigan","Chelsea","D","H","7.38","12.94",95.4972,0
+2010-08-21,"Arsenal","Blackpool","Wigan","Chelsea","D","D","7.38","5.67",41.8446,0
+2010-08-21,"Arsenal","Blackpool","Wigan","Chelsea","A","D","17.59","5.67",99.7353,0
+2010-08-21,"Birmingham","Blackburn","Wigan","Chelsea","D","H","3.16","12.94",40.8904,0
+2010-08-21,"Birmingham","Blackburn","Wigan","Chelsea","A","H","3.22","12.94",41.6668,0
+2010-08-21,"Everton","Wolves","Wigan","Chelsea","D","H","4.03","12.94",52.1482,0
+2010-08-21,"Everton","Wolves","Wigan","Chelsea","A","H","7.37","12.94",95.3678,0
+2010-08-21,"Everton","Wolves","Wigan","Chelsea","A","D","7.37","5.67",41.7879,0
+2010-08-21,"Stoke","Tottenham","Wigan","Chelsea","H","H","3.15","12.94",40.761,1
+2010-08-21,"Stoke","Tottenham","Wigan","Chelsea","D","H","3.24","12.94",41.9256,0
+2010-08-21,"West Brom","Sunderland","Wigan","Chelsea","D","H","3.3","12.94",42.702,0
+2010-08-21,"West Brom","Sunderland","Wigan","Chelsea","A","H","3.48","12.94",45.0312,0
+2010-08-21,"West Ham","Bolton","Wigan","Chelsea","D","H","3.25","12.94",42.055,0
+2010-08-21,"West Ham","Bolton","Wigan","Chelsea","A","H","3.24","12.94",41.9256,0
+2010-08-28,"Blackburn","Arsenal","Chelsea","Stoke","H","D","4.93","8.33",41.0669,0
+2010-08-28,"Blackburn","Arsenal","Chelsea","Stoke","D","A","3.58","23.45",83.951,0
+2010-08-28,"Blackburn","Arsenal","Chelsea","Stoke","A","A","1.73","23.45",40.5685,0
+2010-08-28,"Blackburn","Arsenal","Manchester United","West Ham","H","D","4.93","7.52",37.0736,0
+2010-08-28,"Blackburn","Arsenal","Manchester United","West Ham","H","A","4.93","21.02",103.6286,0
+2010-08-28,"Blackburn","Arsenal","Manchester United","West Ham","D","A","3.58","21.02",75.2516,0
+2010-08-28,"Blackburn","Arsenal","Manchester United","West Ham","A","A","1.73","21.02",36.3646,0
+2010-08-28,"Blackburn","Arsenal","Tottenham","Wigan","H","A","4.93","11.96",58.9628,0
+2010-08-28,"Blackburn","Arsenal","Tottenham","Wigan","D","A","3.58","11.96",42.8168,0
+2010-08-28,"Blackpool","Fulham","Chelsea","Stoke","H","A","3.03","23.45",71.0535,0
+2010-08-28,"Blackpool","Fulham","Chelsea","Stoke","D","A","3.28","23.45",76.916,0
+2010-08-28,"Blackpool","Fulham","Chelsea","Stoke","A","A","2.33","23.45",54.6385,0
+2010-08-28,"Blackpool","Fulham","Manchester United","West Ham","H","A","3.03","21.02",63.6906,0
+2010-08-28,"Blackpool","Fulham","Manchester United","West Ham","D","A","3.28","21.02",68.9456,0
+2010-08-28,"Blackpool","Fulham","Manchester United","West Ham","A","A","2.33","21.02",48.9766,0
+2010-08-28,"Blackpool","Fulham","Tottenham","Wigan","H","A","3.03","11.96",36.2388,0
+2010-08-28,"Blackpool","Fulham","Tottenham","Wigan","D","A","3.28","11.96",39.2288,0
+2010-08-28,"Chelsea","Stoke","Manchester United","West Ham","D","D","8.33","7.52",62.6416,0
+2010-08-28,"Chelsea","Stoke","Tottenham","Wigan","D","D","8.33","5.59",46.5647,0
+2010-08-28,"Chelsea","Stoke","Tottenham","Wigan","D","A","8.33","11.96",99.6268,0
+2010-08-28,"Chelsea","Stoke","Wolves","Newcastle","A","H","23.45","2.44",57.218,0
+2010-08-28,"Chelsea","Stoke","Wolves","Newcastle","A","D","23.45","3.25",76.2125,1
+2010-08-28,"Chelsea","Stoke","Wolves","Newcastle","A","A","23.45","2.87",67.3015,0
+2010-08-28,"Manchester United","West Ham","Tottenham","Wigan","D","D","7.52","5.59",42.0368,0
+2010-08-28,"Manchester United","West Ham","Tottenham","Wigan","D","A","7.52","11.96",89.9392,0
+2010-08-28,"Manchester United","West Ham","Wolves","Newcastle","A","H","21.02","2.44",51.2888,0
+2010-08-28,"Manchester United","West Ham","Wolves","Newcastle","A","D","21.02","3.25",68.315,1
+2010-08-28,"Manchester United","West Ham","Wolves","Newcastle","A","A","21.02","2.87",60.3274,0
+2010-08-28,"Tottenham","Wigan","Wolves","Newcastle","A","D","11.96","3.25",38.87,1
+2010-08-28,"Tottenham","Wigan","Wolves","Newcastle","A","A","11.96","2.87",34.3252,0
+2010-08-29,"Aston Villa","Everton","Liverpool","West Brom","D","A","3.23","11.05",35.6915,0
+2010-08-29,"Bolton","Birmingham","Liverpool","West Brom","D","A","3.27","11.05",36.1335,0
+2010-08-29,"Bolton","Birmingham","Liverpool","West Brom","A","A","3.6","11.05",39.78,0
+2010-08-29,"Liverpool","West Brom","Sunderland","Manchester City","A","H","11.05","4.8",53.04,0
+2010-08-29,"Liverpool","West Brom","Sunderland","Manchester City","A","D","11.05","3.6",39.78,0
+2010-09-11,"Arsenal","Bolton","Everton","Manchester United","A","H","12.95","3.94",51.023,0
+2010-09-11,"Arsenal","Bolton","Everton","Manchester United","A","D","12.95","3.29",42.6055,0
+2010-09-11,"Arsenal","Bolton","Fulham","Wolves","A","D","12.95","3.45",44.6775,0
+2010-09-11,"Arsenal","Bolton","Fulham","Wolves","A","A","12.95","4.59",59.4405,0
+2010-09-11,"Arsenal","Bolton","Manchester City","Blackburn","A","D","12.95","4.15",53.7425,0
+2010-09-11,"Arsenal","Bolton","Manchester City","Blackburn","D","A","5.76","7.27",41.8752,0
+2010-09-11,"Arsenal","Bolton","Manchester City","Blackburn","A","A","12.95","7.27",94.1465,0
+2010-09-11,"Arsenal","Bolton","Newcastle","Blackpool","A","D","12.95","4.37",56.5915,0
+2010-09-11,"Arsenal","Bolton","Newcastle","Blackpool","D","A","5.76","7.08",40.7808,0
+2010-09-11,"Arsenal","Bolton","Newcastle","Blackpool","A","A","12.95","7.08",91.686,0
+2010-09-11,"Arsenal","Bolton","West Brom","Tottenham","A","H","12.95","3.25",42.0875,0
+2010-09-11,"Arsenal","Bolton","West Brom","Tottenham","A","D","12.95","3.28",42.476,0
+2010-09-11,"Arsenal","Bolton","West Ham","Chelsea","D","H","5.76","9.45",54.432,0
+2010-09-11,"Arsenal","Bolton","West Ham","Chelsea","A","D","12.95","4.86",62.937,0
+2010-09-11,"Arsenal","Bolton","Wigan","Sunderland","A","H","12.95","2.42",31.339,0
+2010-09-11,"Arsenal","Bolton","Wigan","Sunderland","A","D","12.95","3.24",41.958,0
+2010-09-11,"Arsenal","Bolton","Wigan","Sunderland","A","A","12.95","2.92",37.814,0
+2010-09-11,"Everton","Manchester United","West Ham","Chelsea","H","H","3.94","9.45",37.233,0
+2010-09-11,"Everton","Manchester United","West Ham","Chelsea","D","H","3.29","9.45",31.0905,0
+2010-09-11,"Fulham","Wolves","Manchester City","Blackburn","A","A","4.59","7.27",33.3693,0
+2010-09-11,"Fulham","Wolves","Newcastle","Blackpool","A","A","4.59","7.08",32.4972,0
+2010-09-11,"Fulham","Wolves","West Ham","Chelsea","D","H","3.45","9.45",32.6025,0
+2010-09-11,"Fulham","Wolves","West Ham","Chelsea","A","H","4.59","9.45",43.3755,0
+2010-09-11,"Manchester City","Blackburn","Newcastle","Blackpool","A","D","7.27","4.37",31.7699,0
+2010-09-11,"Manchester City","Blackburn","Newcastle","Blackpool","A","A","7.27","7.08",51.4716,0
+2010-09-11,"Manchester City","Blackburn","West Ham","Chelsea","D","H","4.15","9.45",39.2175,0
+2010-09-11,"Manchester City","Blackburn","West Ham","Chelsea","A","H","7.27","9.45",68.7015,0
+2010-09-11,"Manchester City","Blackburn","West Ham","Chelsea","A","D","7.27","4.86",35.3322,0
+2010-09-11,"Newcastle","Blackpool","West Ham","Chelsea","D","H","4.37","9.45",41.2965,0
+2010-09-11,"Newcastle","Blackpool","West Ham","Chelsea","A","H","7.08","9.45",66.906,0
+2010-09-11,"Newcastle","Blackpool","West Ham","Chelsea","A","D","7.08","4.86",34.4088,0
+2010-09-11,"West Brom","Tottenham","West Ham","Chelsea","H","H","3.25","9.45",30.7125,0
+2010-09-11,"West Brom","Tottenham","West Ham","Chelsea","D","H","3.28","9.45",30.996,0
+2010-09-11,"West Ham","Chelsea","Wigan","Sunderland","H","D","9.45","3.24",30.618,1
+2010-09-18,"Aston Villa","Bolton","Tottenham","Wolves","A","A","5.3","7.53",39.909,0
+2010-09-18,"Everton","Newcastle","Sunderland","Arsenal","A","H","5.66","5.45",30.847,0
+2010-09-18,"Everton","Newcastle","Tottenham","Wolves","A","A","5.66","7.53",42.6198,0
+2010-09-18,"Stoke","West Ham","Tottenham","Wolves","A","A","4.27","7.53",32.1531,0
+2010-09-18,"Sunderland","Arsenal","Tottenham","Wolves","H","A","5.45","7.53",41.0385,0
+2010-09-19,"Chelsea","Blackpool","Manchester United","Liverpool","A","H","23.7","1.7",40.29,0
+2010-09-19,"Chelsea","Blackpool","Manchester United","Liverpool","D","D","9.2","3.56",32.752,0
+2010-09-19,"Chelsea","Blackpool","Manchester United","Liverpool","A","D","23.7","3.56",84.372,0
+2010-09-19,"Chelsea","Blackpool","Manchester United","Liverpool","D","A","9.2","5.24",48.208,0
+2010-09-19,"Chelsea","Blackpool","Wigan","Manchester City","D","H","9.2","4.99",45.908,0
+2010-09-19,"Chelsea","Blackpool","Wigan","Manchester City","D","D","9.2","3.66",33.672,0
+2010-09-19,"Chelsea","Blackpool","Wigan","Manchester City","A","D","23.7","3.66",86.742,0
+2010-09-19,"Chelsea","Blackpool","Wigan","Manchester City","A","A","23.7","1.7",40.29,0
+2010-09-25,"Arsenal","West Brom","Birmingham","Wigan","A","D","12.09","3.37",40.7433,1
+2010-09-25,"Arsenal","West Brom","Birmingham","Wigan","A","A","12.09","4.45",53.8005,0
+2010-09-25,"Arsenal","West Brom","Blackpool","Blackburn","A","H","12.09","2.94",35.5446,0
+2010-09-25,"Arsenal","West Brom","Blackpool","Blackburn","A","D","12.09","3.25",39.2925,1
+2010-09-25,"Arsenal","West Brom","Fulham","Everton","A","H","12.09","2.67",32.2803,0
+2010-09-25,"Arsenal","West Brom","Fulham","Everton","A","D","12.09","3.18",38.4462,1
+2010-09-25,"Arsenal","West Brom","Fulham","Everton","A","A","12.09","2.68",32.4012,0
+2010-09-25,"Arsenal","West Brom","Liverpool","Sunderland","A","D","12.09","4.17",50.4153,1
+2010-09-25,"Arsenal","West Brom","Liverpool","Sunderland","D","A","5.55","8.22",45.621,0
+2010-09-25,"Arsenal","West Brom","Liverpool","Sunderland","A","A","12.09","8.22",99.3798,0
+2010-09-25,"Arsenal","West Brom","Manchester City","Chelsea","A","H","12.09","3.44",41.5896,0
+2010-09-25,"Arsenal","West Brom","Manchester City","Chelsea","A","D","12.09","3.19",38.5671,1
+2010-09-25,"Arsenal","West Brom","West Ham","Tottenham","A","H","12.09","3.35",40.5015,0
+2010-09-25,"Arsenal","West Brom","West Ham","Tottenham","A","D","12.09","3.3",39.897,1
+2010-09-25,"Birmingham","Wigan","Liverpool","Sunderland","A","A","4.45","8.22",36.579,0
+2010-09-26,"Bolton","Manchester United","Newcastle","Stoke","H","A","7.63","4.27",32.5801,0
+2010-10-03,"Chelsea","Arsenal","Liverpool","Blackpool","D","A","3.76","10.28",38.6528,0
+2010-10-03,"Chelsea","Arsenal","Liverpool","Blackpool","A","A","4.99","10.28",51.2972,0
+2010-10-03,"Chelsea","Arsenal","Manchester City","Newcastle","A","A","4.99","7.51",37.4749,0
+2010-10-03,"Liverpool","Blackpool","Manchester City","Newcastle","A","D","10.28","4.2",43.176,0
+2010-10-03,"Liverpool","Blackpool","Manchester City","Newcastle","D","A","5.12","7.51",38.4512,0
+2010-10-03,"Liverpool","Blackpool","Manchester City","Newcastle","A","A","10.28","7.51",77.2028,0
+2010-10-16,"Arsenal","Birmingham","Aston Villa","Chelsea","A","H","10.93","4.73",51.6989,0
+2010-10-16,"Arsenal","Birmingham","Aston Villa","Chelsea","A","D","10.93","3.54",38.6922,0
+2010-10-16,"Arsenal","Birmingham","Bolton","Stoke","A","D","10.93","3.23",35.3039,0
+2010-10-16,"Arsenal","Birmingham","Bolton","Stoke","A","A","10.93","3.47",37.9271,0
+2010-10-16,"Arsenal","Birmingham","Fulham","Tottenham","A","H","10.93","2.88",31.4784,0
+2010-10-16,"Arsenal","Birmingham","Fulham","Tottenham","A","D","10.93","3.19",34.8667,0
+2010-10-16,"Arsenal","Birmingham","Manchester United","West Brom","A","D","10.93","5.51",60.2243,0
+2010-10-16,"Arsenal","Birmingham","Manchester United","West Brom","D","A","5.14","11.84",60.8576,0
+2010-10-16,"Arsenal","Birmingham","Newcastle","Wigan","A","D","10.93","3.64",39.7852,0
+2010-10-16,"Arsenal","Birmingham","Newcastle","Wigan","A","A","10.93","4.88",53.3384,0
+2010-10-16,"Arsenal","Birmingham","Wolves","West Ham","A","D","10.93","3.23",35.3039,0
+2010-10-16,"Arsenal","Birmingham","Wolves","West Ham","A","A","10.93","3.17",34.6481,0
+2010-10-16,"Aston Villa","Chelsea","Manchester United","West Brom","H","A","4.73","11.84",56.0032,0
+2010-10-16,"Aston Villa","Chelsea","Manchester United","West Brom","D","A","3.54","11.84",41.9136,0
+2010-10-16,"Bolton","Stoke","Manchester United","West Brom","D","A","3.23","11.84",38.2432,0
+2010-10-16,"Bolton","Stoke","Manchester United","West Brom","A","A","3.47","11.84",41.0848,0
+2010-10-16,"Fulham","Tottenham","Manchester United","West Brom","H","A","2.88","11.84",34.0992,0
+2010-10-16,"Fulham","Tottenham","Manchester United","West Brom","D","A","3.19","11.84",37.7696,0
+2010-10-16,"Manchester United","West Brom","Newcastle","Wigan","A","D","11.84","3.64",43.0976,0
+2010-10-16,"Manchester United","West Brom","Newcastle","Wigan","A","A","11.84","4.88",57.7792,0
+2010-10-16,"Manchester United","West Brom","Wolves","West Ham","A","D","11.84","3.23",38.2432,0
+2010-10-16,"Manchester United","West Brom","Wolves","West Ham","A","A","11.84","3.17",37.5328,0
+2010-10-23,"Birmingham","Blackpool","Chelsea","Wolves","A","D","3.91","8.11",31.7101,0
+2010-10-23,"Birmingham","Blackpool","Chelsea","Wolves","H","A","1.96","22.96",45.0016,0
+2010-10-23,"Birmingham","Blackpool","Chelsea","Wolves","D","A","3.38","22.96",77.6048,0
+2010-10-23,"Birmingham","Blackpool","Chelsea","Wolves","A","A","3.91","22.96",89.7736,0
+2010-10-23,"Chelsea","Wolves","Sunderland","Aston Villa","A","H","22.96","2.29",52.5784,0
+2010-10-23,"Chelsea","Wolves","Sunderland","Aston Villa","A","D","22.96","3.24",74.3904,0
+2010-10-23,"Chelsea","Wolves","Sunderland","Aston Villa","A","A","22.96","3.14",72.0944,0
+2010-10-23,"Chelsea","Wolves","Tottenham","Everton","A","H","22.96","2.07",47.5272,0
+2010-10-23,"Chelsea","Wolves","Tottenham","Everton","A","D","22.96","3.25",74.62,0
+2010-10-23,"Chelsea","Wolves","Tottenham","Everton","A","A","22.96","3.66",84.0336,0
+2010-10-23,"Chelsea","Wolves","West Brom","Fulham","A","H","22.96","2",45.92,0
+2010-10-23,"Chelsea","Wolves","West Brom","Fulham","A","D","22.96","3.29",75.5384,0
+2010-10-23,"Chelsea","Wolves","West Brom","Fulham","D","A","8.11","3.82",30.9802,0
+2010-10-23,"Chelsea","Wolves","West Brom","Fulham","A","A","22.96","3.82",87.7072,0
+2010-10-23,"Chelsea","Wolves","West Ham","Newcastle","A","H","22.96","2.31",53.0376,0
+2010-10-23,"Chelsea","Wolves","West Ham","Newcastle","A","D","22.96","3.27",75.0792,0
+2010-10-23,"Chelsea","Wolves","West Ham","Newcastle","A","A","22.96","3.08",70.7168,0
+2010-10-23,"Chelsea","Wolves","Wigan","Bolton","A","H","22.96","2.45",56.252,0
+2010-10-23,"Chelsea","Wolves","Wigan","Bolton","A","D","22.96","3.2",73.472,0
+2010-10-23,"Chelsea","Wolves","Wigan","Bolton","A","A","22.96","2.92",67.0432,0
+2010-10-24,"Liverpool","Blackburn","Stoke","Manchester United","A","H","5.8","5.49",31.842,0
+2010-10-30,"Arsenal","West Ham","Blackburn","Chelsea","D","H","6.6","7.26",47.916,0
+2010-10-30,"Arsenal","West Ham","Blackburn","Chelsea","A","H","15.28","7.26",110.9328,0
+2010-10-30,"Arsenal","West Ham","Blackburn","Chelsea","A","D","15.28","4.17",63.7176,0
+2010-10-30,"Arsenal","West Ham","Everton","Stoke","A","D","15.28","3.68",56.2304,0
+2010-10-30,"Arsenal","West Ham","Everton","Stoke","D","A","6.6","6.41",42.306,0
+2010-10-30,"Arsenal","West Ham","Everton","Stoke","A","A","15.28","6.41",97.9448,0
+2010-10-30,"Arsenal","West Ham","Fulham","Wigan","A","D","15.28","3.46",52.8688,0
+2010-10-30,"Arsenal","West Ham","Fulham","Wigan","D","A","6.6","4.55",30.03,0
+2010-10-30,"Arsenal","West Ham","Fulham","Wigan","A","A","15.28","4.55",69.524,0
+2010-10-30,"Arsenal","West Ham","Manchester United","Tottenham","A","D","15.28","3.92",59.8976,0
+2010-10-30,"Arsenal","West Ham","Manchester United","Tottenham","D","A","6.6","5.73",37.818,0
+2010-10-30,"Arsenal","West Ham","Manchester United","Tottenham","A","A","15.28","5.73",87.5544,0
+2010-10-30,"Arsenal","West Ham","Wolves","Manchester City","D","H","6.6","4.57",30.162,0
+2010-10-30,"Arsenal","West Ham","Wolves","Manchester City","A","H","15.28","4.57",69.8296,0
+2010-10-30,"Arsenal","West Ham","Wolves","Manchester City","A","D","15.28","3.43",52.4104,0
+2010-10-30,"Blackburn","Chelsea","Everton","Stoke","H","A","7.26","6.41",46.5366,1
+2010-10-30,"Blackburn","Chelsea","Fulham","Wigan","H","A","7.26","4.55",33.033,1
+2010-10-30,"Blackburn","Chelsea","Manchester United","Tottenham","H","A","7.26","5.73",41.5998,1
+2010-10-30,"Blackburn","Chelsea","Wolves","Manchester City","H","H","7.26","4.57",33.1782,0
+2010-10-30,"Everton","Stoke","Manchester United","Tottenham","A","A","6.41","5.73",36.7293,0
+2010-11-06,"Birmingham","West Ham","Manchester United","Wolves","D","A","3.26","13.58",44.2708,0
+2010-11-06,"Birmingham","West Ham","Manchester United","Wolves","A","A","3.9","13.58",52.962,0
+2010-11-06,"Blackburn","Wigan","Manchester United","Wolves","D","A","3.58","13.58",48.6164,0
+2010-11-06,"Blackburn","Wigan","Manchester United","Wolves","A","A","4.88","13.58",66.2704,0
+2010-11-06,"Blackpool","Everton","Manchester United","Wolves","H","A","4.72","13.58",64.0976,0
+2010-11-06,"Blackpool","Everton","Manchester United","Wolves","D","A","3.55","13.58",48.209,0
+2010-11-06,"Bolton","Tottenham","Manchester United","Wolves","H","A","3.03","13.58",41.1474,0
+2010-11-06,"Bolton","Tottenham","Manchester United","Wolves","D","A","3.23","13.58",43.8634,0
+2010-11-06,"Bolton","Tottenham","Manchester United","Wolves","A","A","2.36","13.58",32.0488,0
+2010-11-06,"Fulham","Aston Villa","Manchester United","Wolves","D","A","3.27","13.58",44.4066,0
+2010-11-06,"Fulham","Aston Villa","Manchester United","Wolves","A","A","3.66","13.58",49.7028,0
+2010-11-06,"Manchester United","Wolves","Sunderland","Stoke","A","D","13.58","3.15",42.777,0
+2010-11-06,"Manchester United","Wolves","Sunderland","Stoke","A","A","13.58","3.61",49.0238,0
+2010-11-07,"Arsenal","Newcastle","Liverpool","Chelsea","A","H","9.48","3.26",30.9048,1
+2010-11-07,"Arsenal","Newcastle","West Brom","Manchester City","A","H","9.48","3.19",30.2412,1
+2010-11-07,"Arsenal","Newcastle","West Brom","Manchester City","A","D","9.48","3.35",31.758,0
+2010-11-10,"Aston Villa","Blackpool","Chelsea","Fulham","A","D","7.33","5.67",41.5611,0
+2010-11-10,"Aston Villa","Blackpool","Chelsea","Fulham","D","A","4.21","13.19",55.5299,0
+2010-11-10,"Aston Villa","Blackpool","Chelsea","Fulham","A","A","7.33","13.19",96.6827,0
+2010-11-10,"Aston Villa","Blackpool","Everton","Bolton","A","A","7.33","5.71",41.8543,0
+2010-11-10,"Aston Villa","Blackpool","Newcastle","Blackburn","A","A","7.33","4.49",32.9117,0
+2010-11-10,"Aston Villa","Blackpool","Wigan","Liverpool","A","H","7.33","4.63",33.9379,0
+2010-11-10,"Aston Villa","Blackpool","Wolves","Arsenal","A","H","7.33","6.03",44.1999,0
+2010-11-10,"Chelsea","Fulham","Everton","Bolton","A","D","13.19","3.71",48.9349,0
+2010-11-10,"Chelsea","Fulham","Everton","Bolton","D","A","5.67","5.71",32.3757,0
+2010-11-10,"Chelsea","Fulham","Everton","Bolton","A","A","13.19","5.71",75.3149,0
+2010-11-10,"Chelsea","Fulham","Manchester City","Manchester United","A","H","13.19","2.68",35.3492,0
+2010-11-10,"Chelsea","Fulham","Manchester City","Manchester United","A","D","13.19","3.2",42.208,0
+2010-11-10,"Chelsea","Fulham","Manchester City","Manchester United","A","A","13.19","2.67",35.2173,0
+2010-11-10,"Chelsea","Fulham","Newcastle","Blackburn","A","D","13.19","3.55",46.8245,0
+2010-11-10,"Chelsea","Fulham","Newcastle","Blackburn","A","A","13.19","4.49",59.2231,0
+2010-11-10,"Chelsea","Fulham","West Ham","West Brom","A","D","13.19","3.29",43.3951,0
+2010-11-10,"Chelsea","Fulham","West Ham","West Brom","A","A","13.19","3.14",41.4166,0
+2010-11-10,"Chelsea","Fulham","Wigan","Liverpool","A","H","13.19","4.63",61.0697,0
+2010-11-10,"Chelsea","Fulham","Wigan","Liverpool","A","D","13.19","3.56",46.9564,0
+2010-11-10,"Chelsea","Fulham","Wolves","Arsenal","D","H","5.67","6.03",34.1901,0
+2010-11-10,"Chelsea","Fulham","Wolves","Arsenal","A","H","13.19","6.03",79.5357,0
+2010-11-10,"Chelsea","Fulham","Wolves","Arsenal","A","D","13.19","3.95",52.1005,0
+2010-11-10,"Everton","Bolton","Wolves","Arsenal","A","H","5.71","6.03",34.4313,0
+2010-11-13,"Aston Villa","Manchester United","Manchester City","Birmingham","H","A","5.14","8.4",43.176,0
+2010-11-13,"Aston Villa","Manchester United","Tottenham","Blackburn","H","A","5.14","5.97",30.6858,0
+2010-11-13,"Manchester City","Birmingham","Newcastle","Fulham","A","A","8.4","3.93",33.012,0
+2010-11-13,"Manchester City","Birmingham","Tottenham","Blackburn","A","D","8.4","3.72",31.248,0
+2010-11-13,"Manchester City","Birmingham","Tottenham","Blackburn","A","A","8.4","5.97",50.148,0
+2010-11-13,"Manchester City","Birmingham","West Ham","Blackpool","A","A","8.4","4.18",35.112,0
+2010-11-14,"Chelsea","Sunderland","Everton","Arsenal","A","H","13.79","2.97",40.9563,0
+2010-11-14,"Chelsea","Sunderland","Everton","Arsenal","A","D","13.79","3.28",45.2312,0
+2010-11-14,"Chelsea","Sunderland","Everton","Arsenal","A","A","13.79","2.37",32.6823,1
+2010-11-20,"Arsenal","Tottenham","Liverpool","West Ham","A","A","4.88","7.02",34.2576,0
+2010-11-20,"Arsenal","Tottenham","Manchester United","Wigan","D","A","3.68","13.5",49.68,0
+2010-11-20,"Arsenal","Tottenham","Manchester United","Wigan","A","A","4.88","13.5",65.88,0
+2010-11-20,"Birmingham","Chelsea","Liverpool","West Ham","H","A","5.7","7.02",40.014,0
+2010-11-20,"Birmingham","Chelsea","Manchester United","Wigan","H","D","5.7","5.6",31.92,0
+2010-11-20,"Birmingham","Chelsea","Manchester United","Wigan","H","A","5.7","13.5",76.95,0
+2010-11-20,"Birmingham","Chelsea","Manchester United","Wigan","D","A","3.63","13.5",49.005,0
+2010-11-20,"Blackpool","Wolves","Manchester United","Wigan","H","A","2.38","13.5",32.13,0
+2010-11-20,"Blackpool","Wolves","Manchester United","Wigan","D","A","3.29","13.5",44.415,0
+2010-11-20,"Blackpool","Wolves","Manchester United","Wigan","A","A","2.97","13.5",40.095,0
+2010-11-20,"Bolton","Newcastle","Manchester United","Wigan","D","A","3.28","13.5",44.28,0
+2010-11-20,"Bolton","Newcastle","Manchester United","Wigan","A","A","3.45","13.5",46.575,0
+2010-11-20,"Liverpool","West Ham","Manchester United","Wigan","A","D","7.02","5.6",39.312,0
+2010-11-20,"Liverpool","West Ham","Manchester United","Wigan","D","A","3.89","13.5",52.515,0
+2010-11-20,"Liverpool","West Ham","Manchester United","Wigan","A","A","7.02","13.5",94.77,0
+2010-11-20,"Manchester United","Wigan","West Brom","Stoke","A","H","13.5","2.3",31.05,1
+2010-11-20,"Manchester United","Wigan","West Brom","Stoke","A","D","13.5","3.17",42.795,0
+2010-11-20,"Manchester United","Wigan","West Brom","Stoke","A","A","13.5","3.21",43.335,0
+2010-11-27,"Aston Villa","Arsenal","Manchester United","Blackburn","H","A","3.92","11.5",45.08,0
+2010-11-27,"Aston Villa","Arsenal","Manchester United","Blackburn","D","A","3.36","11.5",38.64,0
+2010-11-27,"Bolton","Blackpool","Everton","West Brom","A","A","5.97","6.25",37.3125,0
+2010-11-27,"Bolton","Blackpool","Manchester United","Blackburn","A","D","5.97","5.35",31.9395,1
+2010-11-27,"Bolton","Blackpool","Manchester United","Blackburn","D","A","4.01","11.5",46.115,0
+2010-11-27,"Bolton","Blackpool","Manchester United","Blackburn","A","A","5.97","11.5",68.655,0
+2010-11-27,"Everton","West Brom","Manchester United","Blackburn","A","D","6.25","5.35",33.4375,1
+2010-11-27,"Everton","West Brom","Manchester United","Blackburn","D","A","3.86","11.5",44.39,0
+2010-11-27,"Everton","West Brom","Manchester United","Blackburn","A","A","6.25","11.5",71.875,0
+2010-11-27,"Fulham","Birmingham","Manchester United","Blackburn","D","A","3.25","11.5",37.375,0
+2010-11-27,"Fulham","Birmingham","Manchester United","Blackburn","A","A","3.98","11.5",45.77,0
+2010-11-27,"Manchester United","Blackburn","Stoke","Manchester City","A","H","11.5","3.38",38.87,0
+2010-11-27,"Manchester United","Blackburn","Stoke","Manchester City","A","D","11.5","3.27",37.605,1
+2010-11-27,"Manchester United","Blackburn","West Ham","Wigan","A","D","11.5","3.42",39.33,1
+2010-11-27,"Manchester United","Blackburn","West Ham","Wigan","A","A","11.5","3.95",45.425,0
+2010-11-27,"Manchester United","Blackburn","Wolves","Sunderland","A","H","11.5","2.64",30.36,0
+2010-11-27,"Manchester United","Blackburn","Wolves","Sunderland","A","D","11.5","3.19",36.685,1
+2010-11-27,"Manchester United","Blackburn","Wolves","Sunderland","A","A","11.5","2.72",31.28,0
+2010-12-04,"Arsenal","Fulham","Birmingham","Tottenham","A","H","10.37","3.58",37.1246,0
+2010-12-04,"Arsenal","Fulham","Birmingham","Tottenham","A","D","10.37","3.28",34.0136,0
+2010-12-04,"Arsenal","Fulham","Blackburn","Wolves","A","D","10.37","3.56",36.9172,0
+2010-12-04,"Arsenal","Fulham","Blackburn","Wolves","A","A","10.37","4.74",49.1538,0
+2010-12-04,"Arsenal","Fulham","Chelsea","Everton","A","D","10.37","4.49",46.5613,0
+2010-12-04,"Arsenal","Fulham","Chelsea","Everton","D","A","5.05","8.51",42.9755,0
+2010-12-04,"Arsenal","Fulham","Chelsea","Everton","A","A","10.37","8.51",88.2487,0
+2010-12-04,"Arsenal","Fulham","Manchester City","Bolton","A","D","10.37","4",41.48,0
+2010-12-04,"Arsenal","Fulham","Manchester City","Bolton","D","A","5.05","6.74",34.037,0
+2010-12-04,"Arsenal","Fulham","Manchester City","Bolton","A","A","10.37","6.74",69.8938,0
+2010-12-04,"Arsenal","Fulham","Wigan","Stoke","A","H","10.37","3.05",31.6285,0
+2010-12-04,"Arsenal","Fulham","Wigan","Stoke","A","D","10.37","3.15",32.6655,0
+2010-12-04,"Birmingham","Tottenham","Chelsea","Everton","H","A","3.58","8.51",30.4658,0
+2010-12-04,"Blackburn","Wolves","Chelsea","Everton","D","A","3.56","8.51",30.2956,0
+2010-12-04,"Blackburn","Wolves","Chelsea","Everton","A","A","4.74","8.51",40.3374,0
+2010-12-04,"Blackburn","Wolves","Manchester City","Bolton","A","A","4.74","6.74",31.9476,0
+2010-12-04,"Chelsea","Everton","Manchester City","Bolton","A","D","8.51","4",34.04,0
+2010-12-04,"Chelsea","Everton","Manchester City","Bolton","D","A","4.49","6.74",30.2626,0
+2010-12-04,"Chelsea","Everton","Manchester City","Bolton","A","A","8.51","6.74",57.3574,0
+2010-12-11,"Everton","Wigan","Stoke","Blackpool","A","D","7.76","3.93",30.4968,0
+2010-12-11,"Everton","Wigan","Stoke","Blackpool","A","A","7.76","5.54",42.9904,0
+2010-12-11,"Everton","Wigan","West Ham","Manchester City","A","H","7.76","4.05",31.428,0
+2010-12-26,"Aston Villa","Tottenham","Manchester United","Sunderland","H","A","3.44","12.34",42.4496,0
+2010-12-26,"Aston Villa","Tottenham","Manchester United","Sunderland","D","A","3.3","12.34",40.722,0
+2010-12-26,"Blackburn","Stoke","Manchester United","Sunderland","H","A","2.49","12.34",30.7266,0
+2010-12-26,"Blackburn","Stoke","Manchester United","Sunderland","D","A","3.17","12.34",39.1178,0
+2010-12-26,"Blackburn","Stoke","Manchester United","Sunderland","A","A","2.92","12.34",36.0328,1
+2010-12-26,"Bolton","West Brom","Manchester United","Sunderland","D","A","3.3","12.34",40.722,0
+2010-12-26,"Bolton","West Brom","Manchester United","Sunderland","A","A","3.67","12.34",45.2878,1
+2010-12-26,"Fulham","West Ham","Manchester United","Sunderland","D","A","3.3","12.34",40.722,0
+2010-12-26,"Fulham","West Ham","Manchester United","Sunderland","A","A","4.2","12.34",51.828,1
+2010-12-26,"Manchester United","Sunderland","Newcastle","Manchester City","A","H","12.34","3.15",38.871,0
+2010-12-26,"Manchester United","Sunderland","Newcastle","Manchester City","A","D","12.34","3.26",40.2284,0
+2010-12-26,"Manchester United","Sunderland","Wolves","Wigan","A","D","12.34","3.23",39.8582,0
+2010-12-26,"Manchester United","Sunderland","Wolves","Wigan","A","A","12.34","3.79",46.7686,1
+2010-12-28,"Birmingham","Manchester United","Manchester City","Aston Villa","H","D","7.44","4.09",30.4296,0
+2010-12-28,"Birmingham","Manchester United","Manchester City","Aston Villa","H","A","7.44","7.92",58.9248,0
+2010-12-28,"Birmingham","Manchester United","Manchester City","Aston Villa","D","A","4.1","7.92",32.472,0
+2010-12-28,"Birmingham","Manchester United","Stoke","Fulham","H","A","7.44","4.27",31.7688,0
+2010-12-28,"Birmingham","Manchester United","Sunderland","Blackpool","H","A","7.44","5.58",41.5152,0
+2010-12-28,"Birmingham","Manchester United","Tottenham","Newcastle","H","D","7.44","4.07",30.2808,0
+2010-12-28,"Birmingham","Manchester United","Tottenham","Newcastle","H","A","7.44","6.63",49.3272,0
+2010-12-28,"Birmingham","Manchester United","West Brom","Blackburn","H","A","7.44","4.83",35.9352,0
+2010-12-28,"Manchester City","Aston Villa","Stoke","Fulham","A","A","7.92","4.27",33.8184,0
+2010-12-28,"Manchester City","Aston Villa","Sunderland","Blackpool","A","A","7.92","5.58",44.1936,0
+2010-12-28,"Manchester City","Aston Villa","Tottenham","Newcastle","A","D","7.92","4.07",32.2344,0
+2010-12-28,"Manchester City","Aston Villa","Tottenham","Newcastle","A","A","7.92","6.63",52.5096,0
+2010-12-28,"Manchester City","Aston Villa","West Brom","Blackburn","A","A","7.92","4.83",38.2536,0
+2010-12-28,"Sunderland","Blackpool","Tottenham","Newcastle","A","A","5.58","6.63",36.9954,0
+2010-12-28,"Tottenham","Newcastle","West Brom","Blackburn","A","A","6.63","4.83",32.0229,0
+2010-12-29,"Chelsea","Bolton","Liverpool","Wolves","A","D","10.13","4.91",49.7383,0
+2010-12-29,"Chelsea","Bolton","Liverpool","Wolves","D","A","5.24","9.97",52.2428,0
+2010-12-29,"Chelsea","Bolton","Liverpool","Wolves","A","A","10.13","9.97",100.9961,0
+2010-12-29,"Chelsea","Bolton","Wigan","Arsenal","D","H","5.24","5.74",30.0776,0
+2010-12-29,"Chelsea","Bolton","Wigan","Arsenal","A","H","10.13","5.74",58.1462,0
+2010-12-29,"Chelsea","Bolton","Wigan","Arsenal","A","D","10.13","3.66",37.0758,0
+2010-12-29,"Liverpool","Wolves","Wigan","Arsenal","A","H","9.97","5.74",57.2278,0
+2010-12-29,"Liverpool","Wolves","Wigan","Arsenal","A","D","9.97","3.66",36.4902,0
+2011-01-01,"Birmingham","Arsenal","Liverpool","Bolton","H","A","5.92","5.25",31.08,0
+2011-01-01,"Birmingham","Arsenal","Manchester City","Blackpool","H","D","5.92","5.55",32.856,0
+2011-01-01,"Birmingham","Arsenal","Manchester City","Blackpool","H","A","5.92","10.96",64.8832,0
+2011-01-01,"Birmingham","Arsenal","Manchester City","Blackpool","D","A","3.79","10.96",41.5384,0
+2011-01-01,"Birmingham","Arsenal","Tottenham","Fulham","H","A","5.92","6.73",39.8416,0
+2011-01-01,"Birmingham","Arsenal","West Brom","Manchester United","H","H","5.92","5.36",31.7312,0
+2011-01-01,"Liverpool","Bolton","Manchester City","Blackpool","D","A","3.61","10.96",39.5656,0
+2011-01-01,"Liverpool","Bolton","Manchester City","Blackpool","A","A","5.25","10.96",57.54,0
+2011-01-01,"Liverpool","Bolton","Tottenham","Fulham","A","A","5.25","6.73",35.3325,0
+2011-01-01,"Manchester City","Blackpool","Stoke","Everton","A","H","10.96","2.87",31.4552,1
+2011-01-01,"Manchester City","Blackpool","Stoke","Everton","A","D","10.96","3.18",34.8528,0
+2011-01-01,"Manchester City","Blackpool","Sunderland","Blackburn","A","D","10.96","3.44",37.7024,0
+2011-01-01,"Manchester City","Blackpool","Sunderland","Blackburn","A","A","10.96","4.56",49.9776,0
+2011-01-01,"Manchester City","Blackpool","Tottenham","Fulham","A","D","10.96","3.93",43.0728,0
+2011-01-01,"Manchester City","Blackpool","Tottenham","Fulham","D","A","5.55","6.73",37.3515,0
+2011-01-01,"Manchester City","Blackpool","Tottenham","Fulham","A","A","10.96","6.73",73.7608,0
+2011-01-01,"Manchester City","Blackpool","West Brom","Manchester United","A","H","10.96","5.36",58.7456,1
+2011-01-01,"Manchester City","Blackpool","West Brom","Manchester United","A","D","10.96","3.64",39.8944,0
+2011-01-01,"Manchester City","Blackpool","West Ham","Wolves","A","D","10.96","3.3",36.168,0
+2011-01-01,"Manchester City","Blackpool","West Ham","Wolves","A","A","10.96","3.78",41.4288,0
+2011-01-01,"Sunderland","Blackburn","Tottenham","Fulham","A","A","4.56","6.73",30.6888,0
+2011-01-01,"Tottenham","Fulham","West Brom","Manchester United","A","H","6.73","5.36",36.0728,1
+2011-01-02,"Chelsea","Aston Villa","Wigan","Newcastle","A","H","11.8","2.56",30.208,0
+2011-01-02,"Chelsea","Aston Villa","Wigan","Newcastle","A","D","11.8","3.16",37.288,0
+2011-01-02,"Chelsea","Aston Villa","Wigan","Newcastle","A","A","11.8","2.81",33.158,0
+2011-01-04,"Blackpool","Birmingham","Manchester United","Stoke","D","A","3.29","9.36",30.7944,0
+2011-01-04,"Blackpool","Birmingham","Manchester United","Stoke","A","A","3.48","9.36",32.5728,0
+2011-01-04,"Fulham","West Brom","Manchester United","Stoke","D","A","3.27","9.36",30.6072,0
+2011-01-04,"Fulham","West Brom","Manchester United","Stoke","A","A","3.47","9.36",32.4792,0
+2011-01-05,"Arsenal","Manchester City","Wolves","Chelsea","A","H","4.58","6.56",30.0448,0
+2011-01-05,"Bolton","Wigan","Wolves","Chelsea","A","H","5.02","6.56",32.9312,0
+2011-01-15,"Chelsea","Blackburn","Manchester City","Wolves","A","D","12.23","4.47",54.6681,0
+2011-01-15,"Chelsea","Blackburn","Manchester City","Wolves","D","A","5.64","9.39",52.9596,0
+2011-01-15,"Chelsea","Blackburn","Stoke","Bolton","A","D","12.23","3.24",39.6252,0
+2011-01-15,"Chelsea","Blackburn","Stoke","Bolton","A","A","12.23","3.52",43.0496,0
+2011-01-15,"Chelsea","Blackburn","West Brom","Blackpool","A","D","12.23","3.76",45.9848,0
+2011-01-15,"Chelsea","Blackburn","West Brom","Blackpool","A","A","12.23","4.4",53.812,0
+2011-01-15,"Chelsea","Blackburn","West Ham","Arsenal","D","H","5.64","7.2",40.608,0
+2011-01-15,"Chelsea","Blackburn","West Ham","Arsenal","A","H","12.23","7.2",88.056,0
+2011-01-15,"Chelsea","Blackburn","West Ham","Arsenal","A","D","12.23","4.33",52.9559,0
+2011-01-15,"Chelsea","Blackburn","Wigan","Fulham","A","H","12.23","2.6",31.798,0
+2011-01-15,"Chelsea","Blackburn","Wigan","Fulham","A","D","12.23","3.14",38.4022,0
+2011-01-15,"Chelsea","Blackburn","Wigan","Fulham","A","A","12.23","2.79",34.1217,0
+2011-01-15,"Manchester City","Wolves","Stoke","Bolton","A","D","9.39","3.24",30.4236,0
+2011-01-15,"Manchester City","Wolves","Stoke","Bolton","A","A","9.39","3.52",33.0528,0
+2011-01-15,"Manchester City","Wolves","West Brom","Blackpool","A","D","9.39","3.76",35.3064,0
+2011-01-15,"Manchester City","Wolves","West Brom","Blackpool","A","A","9.39","4.4",41.316,0
+2011-01-15,"Manchester City","Wolves","West Ham","Arsenal","D","H","4.47","7.2",32.184,0
+2011-01-15,"Manchester City","Wolves","West Ham","Arsenal","A","H","9.39","7.2",67.608,0
+2011-01-15,"Manchester City","Wolves","West Ham","Arsenal","A","D","9.39","4.33",40.6587,0
+2011-01-15,"West Brom","Blackpool","West Ham","Arsenal","A","H","4.4","7.2",31.68,0
+2011-01-22,"Arsenal","Wigan","Aston Villa","Manchester City","A","H","15.13","3.4",51.442,0
+2011-01-22,"Arsenal","Wigan","Aston Villa","Manchester City","A","D","15.13","3.17",47.9621,0
+2011-01-22,"Arsenal","Wigan","Aston Villa","Manchester City","A","A","15.13","2.22",33.5886,0
+2011-01-22,"Arsenal","Wigan","Blackpool","Sunderland","A","H","15.13","2.45",37.0685,0
+2011-01-22,"Arsenal","Wigan","Blackpool","Sunderland","A","D","15.13","3.27",49.4751,0
+2011-01-22,"Arsenal","Wigan","Blackpool","Sunderland","A","A","15.13","2.87",43.4231,0
+2011-01-22,"Arsenal","Wigan","Everton","West Ham","A","D","15.13","4.02",60.8226,0
+2011-01-22,"Arsenal","Wigan","Everton","West Ham","D","A","6.56","7.02",46.0512,0
+2011-01-22,"Arsenal","Wigan","Everton","West Ham","A","A","15.13","7.02",106.2126,0
+2011-01-22,"Arsenal","Wigan","Fulham","Stoke","A","H","15.13","2.14",32.3782,0
+2011-01-22,"Arsenal","Wigan","Fulham","Stoke","A","D","15.13","3.21",48.5673,0
+2011-01-22,"Arsenal","Wigan","Fulham","Stoke","A","A","15.13","3.53",53.4089,0
+2011-01-22,"Arsenal","Wigan","Manchester United","Birmingham","D","D","6.56","6.33",41.5248,0
+2011-01-22,"Arsenal","Wigan","Manchester United","Birmingham","A","D","15.13","6.33",95.7729,0
+2011-01-22,"Arsenal","Wigan","Manchester United","Birmingham","D","A","6.56","14.76",96.8256,0
+2011-01-22,"Arsenal","Wigan","Newcastle","Tottenham","A","H","15.13","3.07",46.4491,0
+2011-01-22,"Arsenal","Wigan","Newcastle","Tottenham","A","D","15.13","3.29",49.7777,0
+2011-01-22,"Arsenal","Wigan","Newcastle","Tottenham","A","A","15.13","2.33",35.2529,0
+2011-01-22,"Arsenal","Wigan","Wolves","Liverpool","A","H","15.13","2.9",43.877,0
+2011-01-22,"Arsenal","Wigan","Wolves","Liverpool","A","D","15.13","3.17",47.9621,0
+2011-01-22,"Arsenal","Wigan","Wolves","Liverpool","A","A","15.13","2.51",37.9763,0
+2011-01-22,"Aston Villa","Manchester City","Manchester United","Birmingham","H","A","3.4","14.76",50.184,0
+2011-01-22,"Aston Villa","Manchester City","Manchester United","Birmingham","D","A","3.17","14.76",46.7892,0
+2011-01-22,"Aston Villa","Manchester City","Manchester United","Birmingham","A","A","2.22","14.76",32.7672,0
+2011-01-22,"Blackpool","Sunderland","Manchester United","Birmingham","H","A","2.45","14.76",36.162,0
+2011-01-22,"Blackpool","Sunderland","Manchester United","Birmingham","D","A","3.27","14.76",48.2652,0
+2011-01-22,"Blackpool","Sunderland","Manchester United","Birmingham","A","A","2.87","14.76",42.3612,0
+2011-01-22,"Everton","West Ham","Manchester United","Birmingham","A","D","7.02","6.33",44.4366,0
+2011-01-22,"Everton","West Ham","Manchester United","Birmingham","D","A","4.02","14.76",59.3352,0
+2011-01-22,"Everton","West Ham","Manchester United","Birmingham","A","A","7.02","14.76",103.6152,0
+2011-01-22,"Fulham","Stoke","Manchester United","Birmingham","H","A","2.14","14.76",31.5864,0
+2011-01-22,"Fulham","Stoke","Manchester United","Birmingham","D","A","3.21","14.76",47.3796,0
+2011-01-22,"Fulham","Stoke","Manchester United","Birmingham","A","A","3.53","14.76",52.1028,0
+2011-01-22,"Manchester United","Birmingham","Newcastle","Tottenham","A","H","14.76","3.07",45.3132,0
+2011-01-22,"Manchester United","Birmingham","Newcastle","Tottenham","A","D","14.76","3.29",48.5604,0
+2011-01-22,"Manchester United","Birmingham","Newcastle","Tottenham","A","A","14.76","2.33",34.3908,0
+2011-01-22,"Manchester United","Birmingham","Wolves","Liverpool","A","H","14.76","2.9",42.804,0
+2011-01-22,"Manchester United","Birmingham","Wolves","Liverpool","A","D","14.76","3.17",46.7892,0
+2011-01-22,"Manchester United","Birmingham","Wolves","Liverpool","A","A","14.76","2.51",37.0476,0
+2011-02-01,"Arsenal","Everton","Manchester United","Aston Villa","A","D","7.45","5.13",38.2185,0
+2011-02-01,"Arsenal","Everton","Manchester United","Aston Villa","D","A","4.23","9.22",39.0006,0
+2011-02-01,"Arsenal","Everton","Manchester United","Aston Villa","A","A","7.45","9.22",68.689,0
+2011-02-01,"Arsenal","Everton","Sunderland","Chelsea","A","H","7.45","5.03",37.4735,0
+2011-02-01,"Arsenal","Everton","West Brom","Wigan","A","A","7.45","4.9",36.505,0
+2011-02-01,"Manchester United","Aston Villa","Sunderland","Chelsea","A","H","9.22","5.03",46.3766,0
+2011-02-01,"Manchester United","Aston Villa","Sunderland","Chelsea","A","D","9.22","3.49",32.1778,0
+2011-02-01,"Manchester United","Aston Villa","West Brom","Wigan","A","D","9.22","3.59",33.0998,0
+2011-02-01,"Manchester United","Aston Villa","West Brom","Wigan","A","A","9.22","4.9",45.178,0
+2011-02-05,"Aston Villa","Fulham","Manchester City","West Brom","A","A","3.85","7.97",30.6845,0
+2011-02-05,"Everton","Blackpool","Manchester City","West Brom","A","D","7.48","4.32",32.3136,0
+2011-02-05,"Everton","Blackpool","Manchester City","West Brom","D","A","4.43","7.97",35.3071,0
+2011-02-05,"Everton","Blackpool","Manchester City","West Brom","A","A","7.48","7.97",59.6156,0
+2011-02-05,"Everton","Blackpool","Newcastle","Arsenal","A","H","7.48","4.86",36.3528,0
+2011-02-05,"Everton","Blackpool","Tottenham","Bolton","A","A","7.48","6.02",45.0296,0
+2011-02-05,"Everton","Blackpool","Wolves","Manchester United","D","H","4.43","7.52",33.3136,1
+2011-02-05,"Everton","Blackpool","Wolves","Manchester United","A","H","7.48","7.52",56.2496,0
+2011-02-05,"Everton","Blackpool","Wolves","Manchester United","A","D","7.48","4.18",31.2664,0
+2011-02-05,"Manchester City","West Brom","Newcastle","Arsenal","A","H","7.97","4.86",38.7342,0
+2011-02-05,"Manchester City","West Brom","Stoke","Sunderland","A","A","7.97","3.94",31.4018,0
+2011-02-05,"Manchester City","West Brom","Tottenham","Bolton","A","A","7.97","6.02",47.9794,0
+2011-02-05,"Manchester City","West Brom","Wolves","Manchester United","D","H","4.32","7.52",32.4864,1
+2011-02-05,"Manchester City","West Brom","Wolves","Manchester United","A","H","7.97","7.52",59.9344,0
+2011-02-05,"Manchester City","West Brom","Wolves","Manchester United","A","D","7.97","4.18",33.3146,0
+2011-02-05,"Newcastle","Arsenal","Wolves","Manchester United","H","H","4.86","7.52",36.5472,0
+2011-02-05,"Tottenham","Bolton","Wolves","Manchester United","A","H","6.02","7.52",45.2704,0
+2011-02-12,"Arsenal","Wolves","Birmingham","Stoke","A","H","12.07","2.49",30.0543,0
+2011-02-12,"Arsenal","Wolves","Birmingham","Stoke","A","D","12.07","3.16",38.1412,0
+2011-02-12,"Arsenal","Wolves","Birmingham","Stoke","A","A","12.07","2.93",35.3651,0
+2011-02-12,"Arsenal","Wolves","Blackburn","Newcastle","A","D","12.07","3.22",38.8654,0
+2011-02-12,"Arsenal","Wolves","Blackburn","Newcastle","A","A","12.07","3.3",39.831,0
+2011-02-12,"Arsenal","Wolves","Blackpool","Aston Villa","A","H","12.07","3.22",38.8654,0
+2011-02-12,"Arsenal","Wolves","Blackpool","Aston Villa","A","D","12.07","3.48",42.0036,0
+2011-02-12,"Arsenal","Wolves","Liverpool","Wigan","A","D","12.07","4.45",53.7115,0
+2011-02-12,"Arsenal","Wolves","Liverpool","Wigan","D","A","5.69","8.64",49.1616,0
+2011-02-12,"Arsenal","Wolves","Liverpool","Wigan","A","A","12.07","8.64",104.2848,0
+2011-02-12,"Arsenal","Wolves","Manchester United","Manchester City","A","D","12.07","3.38",40.7966,0
+2011-02-12,"Arsenal","Wolves","Manchester United","Manchester City","A","A","12.07","4.3",51.901,0
+2011-02-12,"Arsenal","Wolves","Sunderland","Tottenham","A","H","12.07","2.52",30.4164,0
+2011-02-12,"Arsenal","Wolves","Sunderland","Tottenham","A","D","12.07","3.23",38.9861,0
+2011-02-12,"Arsenal","Wolves","Sunderland","Tottenham","A","A","12.07","2.82",34.0374,0
+2011-02-12,"Arsenal","Wolves","West Brom","West Ham","A","D","12.07","3.67",44.2969,0
+2011-02-12,"Arsenal","Wolves","West Brom","West Ham","A","A","12.07","4.21",50.8147,0
+2011-02-12,"Blackpool","Aston Villa","Liverpool","Wigan","D","A","3.48","8.64",30.0672,0
+2011-02-12,"Liverpool","Wigan","Manchester United","Manchester City","A","A","8.64","4.3",37.152,0
+2011-02-12,"Liverpool","Wigan","West Brom","West Ham","A","D","8.64","3.67",31.7088,0
+2011-02-12,"Liverpool","Wigan","West Brom","West Ham","A","A","8.64","4.21",36.3744,0
+2011-02-26,"Aston Villa","Blackburn","Wigan","Manchester United","A","H","4.76","6.49",30.8924,0
+2011-02-26,"Everton","Sunderland","Wigan","Manchester United","A","H","5.33","6.49",34.5917,0
+2011-02-26,"Wigan","Manchester United","Wolves","Blackpool","H","A","6.49","4.73",30.6977,0
+2011-03-05,"Arsenal","Sunderland","Fulham","Blackburn","A","D","8.26","3.7",30.562,0
+2011-03-05,"Arsenal","Sunderland","Fulham","Blackburn","A","A","8.26","5.64",46.5864,0
+2011-03-05,"Arsenal","Sunderland","Manchester City","Wigan","A","D","8.26","4.69",38.7394,0
+2011-03-05,"Arsenal","Sunderland","Manchester City","Wigan","D","A","4.37","9.64",42.1268,1
+2011-03-05,"Arsenal","Sunderland","Manchester City","Wigan","A","A","8.26","9.64",79.6264,0
+2011-03-05,"Arsenal","Sunderland","West Ham","Stoke","A","A","8.26","3.7",30.562,0
+2011-03-05,"Birmingham","West Brom","Manchester City","Wigan","D","A","3.19","9.64",30.7516,1
+2011-03-05,"Bolton","Aston Villa","Manchester City","Wigan","D","A","3.33","9.64",32.1012,1
+2011-03-05,"Bolton","Aston Villa","Manchester City","Wigan","A","A","3.44","9.64",33.1616,0
+2011-03-05,"Fulham","Blackburn","Manchester City","Wigan","D","A","3.7","9.64",35.668,1
+2011-03-05,"Fulham","Blackburn","Manchester City","Wigan","A","A","5.64","9.64",54.3696,0
+2011-03-05,"Manchester City","Wigan","Newcastle","Everton","A","D","9.64","3.2",30.848,0
+2011-03-05,"Manchester City","Wigan","West Ham","Stoke","A","D","9.64","3.29",31.7156,0
+2011-03-05,"Manchester City","Wigan","West Ham","Stoke","A","A","9.64","3.7",35.668,0
+2011-03-19,"Aston Villa","Wolves","Manchester United","Bolton","A","A","4.04","8.59",34.7036,0
+2011-03-19,"Blackburn","Blackpool","Manchester United","Bolton","D","A","3.71","8.59",31.8689,0
+2011-03-19,"Blackburn","Blackpool","Manchester United","Bolton","A","A","4.55","8.59",39.0845,0
+2011-03-19,"Everton","Fulham","Manchester United","Bolton","A","A","3.97","8.59",34.1023,0
+2011-03-19,"Manchester United","Bolton","Tottenham","West Ham","A","D","8.59","3.73",32.0407,1
+2011-03-19,"Manchester United","Bolton","Tottenham","West Ham","A","A","8.59","5.49",47.1591,0
+2011-03-19,"Manchester United","Bolton","West Brom","Arsenal","A","H","8.59","4.34",37.2806,0
+2011-04-02,"Arsenal","Blackburn","Birmingham","Bolton","A","H","12.71","2.39",30.3769,0
+2011-04-02,"Arsenal","Blackburn","Birmingham","Bolton","A","D","12.71","3.25",41.3075,0
+2011-04-02,"Arsenal","Blackburn","Birmingham","Bolton","A","A","12.71","3",38.13,0
+2011-04-02,"Arsenal","Blackburn","Everton","Aston Villa","A","D","12.71","3.32",42.1972,0
+2011-04-02,"Arsenal","Blackburn","Everton","Aston Villa","A","A","12.71","3.83",48.6793,0
+2011-04-02,"Arsenal","Blackburn","Newcastle","Wolves","A","D","12.71","3.35",42.5785,0
+2011-04-02,"Arsenal","Blackburn","Newcastle","Wolves","A","A","12.71","3.72",47.2812,0
+2011-04-02,"Arsenal","Blackburn","Stoke","Chelsea","D","H","5.98","5.47",32.7106,1
+2011-04-02,"Arsenal","Blackburn","Stoke","Chelsea","A","H","12.71","5.47",69.5237,0
+2011-04-02,"Arsenal","Blackburn","Stoke","Chelsea","A","D","12.71","3.61",45.8831,0
+2011-04-02,"Arsenal","Blackburn","West Brom","Liverpool","A","H","12.71","3.23",41.0533,0
+2011-04-02,"Arsenal","Blackburn","West Brom","Liverpool","A","D","12.71","3.26",41.4346,0
+2011-04-02,"Arsenal","Blackburn","West Ham","Manchester United","A","H","12.71","4",50.84,0
+2011-04-02,"Arsenal","Blackburn","West Ham","Manchester United","A","D","12.71","3.35",42.5785,0
+2011-04-02,"Arsenal","Blackburn","Wigan","Tottenham","A","H","12.71","3.14",39.9094,0
+2011-04-02,"Arsenal","Blackburn","Wigan","Tottenham","A","D","12.71","3.27",41.5617,0
+2011-04-03,"Fulham","Blackpool","Manchester City","Sunderland","D","A","4.34","7.38",32.0292,0
+2011-04-03,"Fulham","Blackpool","Manchester City","Sunderland","A","A","6.6","7.38",48.708,0
+2011-04-09,"Blackburn","Birmingham","Chelsea","Wigan","D","A","3.32","14.79",49.1028,0
+2011-04-09,"Blackburn","Birmingham","Chelsea","Wigan","A","A","4","14.79",59.16,0
+2011-04-09,"Blackburn","Birmingham","Manchester United","Fulham","A","A","4","7.82",31.28,0
+2011-04-09,"Bolton","West Ham","Chelsea","Wigan","H","A","2.33","14.79",34.4607,0
+2011-04-09,"Bolton","West Ham","Chelsea","Wigan","D","A","3.22","14.79",47.6238,0
+2011-04-09,"Bolton","West Ham","Chelsea","Wigan","A","A","3.11","14.79",45.9969,0
+2011-04-09,"Chelsea","Wigan","Manchester United","Fulham","A","D","14.79","4.18",61.8222,0
+2011-04-09,"Chelsea","Wigan","Manchester United","Fulham","D","A","5.91","7.82",46.2162,0
+2011-04-09,"Chelsea","Wigan","Sunderland","West Brom","A","H","14.79","2.21",32.6859,0
+2011-04-09,"Chelsea","Wigan","Sunderland","West Brom","A","D","14.79","3.27",48.3633,0
+2011-04-09,"Chelsea","Wigan","Sunderland","West Brom","A","A","14.79","3.31",48.9549,0
+2011-04-09,"Chelsea","Wigan","Tottenham","Stoke","A","D","14.79","3.69",54.5751,0
+2011-04-09,"Chelsea","Wigan","Tottenham","Stoke","D","A","5.91","5.4",31.914,0
+2011-04-09,"Chelsea","Wigan","Tottenham","Stoke","A","A","14.79","5.4",79.866,0
+2011-04-09,"Chelsea","Wigan","Wolves","Everton","A","H","14.79","2.45",36.2355,0
+2011-04-09,"Chelsea","Wigan","Wolves","Everton","A","D","14.79","3.25",48.0675,0
+2011-04-09,"Chelsea","Wigan","Wolves","Everton","A","A","14.79","2.91",43.0389,0
+2011-04-09,"Manchester United","Fulham","Tottenham","Stoke","A","A","7.82","5.4",42.228,0
+2011-04-10,"Aston Villa","Newcastle","Blackpool","Arsenal","A","H","4.92","7.01",34.4892,0
+2011-04-20,"Chelsea","Birmingham","Tottenham","Arsenal","A","H","15.67","2.89",45.2863,0
+2011-04-20,"Chelsea","Birmingham","Tottenham","Arsenal","A","D","15.67","3.28",51.3976,0
+2011-04-20,"Chelsea","Birmingham","Tottenham","Arsenal","A","A","15.67","2.45",38.3915,0
+2011-04-23,"Aston Villa","Stoke","Chelsea","West Ham","D","A","3.2","14.22",45.504,0
+2011-04-23,"Aston Villa","Stoke","Chelsea","West Ham","A","A","3.73","14.22",53.0406,0
+2011-04-23,"Blackpool","Newcastle","Chelsea","West Ham","H","A","2.83","14.22",40.2426,0
+2011-04-23,"Blackpool","Newcastle","Chelsea","West Ham","D","A","3.36","14.22",47.7792,0
+2011-04-23,"Blackpool","Newcastle","Chelsea","West Ham","A","A","2.45","14.22",34.839,0
+2011-04-23,"Chelsea","West Ham","Liverpool","Birmingham","A","D","14.22","3.99",56.7378,0
+2011-04-23,"Chelsea","West Ham","Liverpool","Birmingham","D","A","6.45","7.23",46.6335,0
+2011-04-23,"Chelsea","West Ham","Liverpool","Birmingham","A","A","14.22","7.23",102.8106,0
+2011-04-23,"Chelsea","West Ham","Manchester United","Everton","A","D","14.22","3.87",55.0314,0
+2011-04-23,"Chelsea","West Ham","Manchester United","Everton","D","A","6.45","7.23",46.6335,0
+2011-04-23,"Chelsea","West Ham","Manchester United","Everton","A","A","14.22","7.23",102.8106,0
+2011-04-23,"Chelsea","West Ham","Sunderland","Wigan","A","H","14.22","2.11",30.0042,0
+2011-04-23,"Chelsea","West Ham","Sunderland","Wigan","A","D","14.22","3.24",46.0728,0
+2011-04-23,"Chelsea","West Ham","Sunderland","Wigan","A","A","14.22","3.61",51.3342,0
+2011-04-23,"Chelsea","West Ham","Tottenham","West Brom","A","D","14.22","4.02",57.1644,0
+2011-04-23,"Chelsea","West Ham","Tottenham","West Brom","D","A","6.45","6.35",40.9575,0
+2011-04-23,"Chelsea","West Ham","Tottenham","West Brom","A","A","14.22","6.35",90.297,0
+2011-04-23,"Chelsea","West Ham","Wolves","Fulham","A","H","14.22","2.47",35.1234,0
+2011-04-23,"Chelsea","West Ham","Wolves","Fulham","A","D","14.22","3.22",45.7884,0
+2011-04-23,"Chelsea","West Ham","Wolves","Fulham","A","A","14.22","2.91",41.3802,0
+2011-04-23,"Liverpool","Birmingham","Manchester United","Everton","A","A","7.23","7.23",52.2729,0
+2011-04-23,"Liverpool","Birmingham","Tottenham","West Brom","A","A","7.23","6.35",45.9105,0
+2011-04-23,"Manchester United","Everton","Tottenham","West Brom","A","A","7.23","6.35",45.9105,0
+2011-05-01,"Birmingham","Wolves","Manchester City","West Ham","A","A","3.5","8.79",30.765,0
+2011-05-01,"Liverpool","Newcastle","Manchester City","West Ham","A","D","7.59","4.67",35.4453,0
+2011-05-01,"Liverpool","Newcastle","Manchester City","West Ham","D","A","4.1","8.79",36.039,0
+2011-05-01,"Liverpool","Newcastle","Manchester City","West Ham","A","A","7.59","8.79",66.7161,0
+2011-05-07,"Aston Villa","Wigan","Tottenham","Blackpool","D","A","3.57","9",32.13,1
+2011-05-07,"Aston Villa","Wigan","Tottenham","Blackpool","A","A","4.82","9",43.38,0
+2011-05-07,"Bolton","Sunderland","Tottenham","Blackpool","D","A","3.51","9",31.59,1
+2011-05-07,"Bolton","Sunderland","Tottenham","Blackpool","A","A","5.03","9",45.27,0
+2011-05-07,"Newcastle","Birmingham","Tottenham","Blackpool","D","A","3.4","9",30.6,1
+2011-05-07,"Newcastle","Birmingham","Tottenham","Blackpool","A","A","4.39","9",39.51,0
+2011-05-07,"Tottenham","Blackpool","West Ham","Blackburn","A","D","9","3.36",30.24,0
+2011-05-07,"Tottenham","Blackpool","West Ham","Blackburn","A","A","9","3.61",32.49,0
+2011-05-15,"Arsenal","Aston Villa","Chelsea","Newcastle","A","D","8.1","6.05",49.005,0
+2011-05-15,"Arsenal","Aston Villa","Chelsea","Newcastle","D","A","4.65","13.1",60.915,0
+2011-05-15,"Arsenal","Aston Villa","Chelsea","Newcastle","A","A","8.1","13.1",106.11,1
+2011-05-15,"Arsenal","Aston Villa","Liverpool","Tottenham","A","D","8.1","3.78",30.618,0
+2011-05-15,"Arsenal","Aston Villa","Liverpool","Tottenham","A","A","8.1","5.44",44.064,1
+2011-05-15,"Arsenal","Aston Villa","Wigan","West Ham","A","A","8.1","4.02",32.562,1
+2011-05-15,"Birmingham","Fulham","Chelsea","Newcastle","D","A","3.25","13.1",42.575,0
+2011-05-15,"Birmingham","Fulham","Chelsea","Newcastle","A","A","3.48","13.1",45.588,1
+2011-05-15,"Chelsea","Newcastle","Liverpool","Tottenham","A","D","13.1","3.78",49.518,0
+2011-05-15,"Chelsea","Newcastle","Liverpool","Tottenham","D","A","6.05","5.44",32.912,0
+2011-05-15,"Chelsea","Newcastle","Liverpool","Tottenham","A","A","13.1","5.44",71.264,1
+2011-05-15,"Chelsea","Newcastle","Wigan","West Ham","A","D","13.1","3.62",47.422,0
+2011-05-15,"Chelsea","Newcastle","Wigan","West Ham","A","A","13.1","4.02",52.662,1
+2011-05-22,"Bolton","Manchester City","Manchester United","Blackpool","H","A","4.86","6.66",32.3676,1
+2011-05-22,"Manchester United","Blackpool","Tottenham","Birmingham","A","A","6.66","6.1",40.626,0

@@ -1,0 +1,320 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-10-24 06:47:14"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], re-open the server"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 3 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], calculate kelly scores"
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League   Home_Team Away_Team
+1: 2020-10-25 premier-league Southampton   Everton
+                                                                                URL
+1: https://www.playnow.com/sports/sports/event/10214665/southampton-fc-v-everton-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        14     1.22         4     1.75         2
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     2.75       1.4        5      1.15        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N
+1:      Over 4.5           5                    0.1333333 15
+   Chosen_Option_Std    Kelly         Record_Time
+1:        0.08777075 6.416667 2020-10-24 06:48:37
+[1] "Country : [england], League : [premier-league], Progress : 1 out of 3"
+[1] "Added game"
+         Date   Home_Team Away_Team
+1: 2020-10-25 Southampton   Everton
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2020-10-25 premier-league    Wolves Newcastle
+                                                                                                     URL
+1: https://www.playnow.com/sports/sports/event/10214666/wolverhampton-wanderers-fc-v-newcastle-united-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.07         9     1.38       2.9     2.15      1.62
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.9      1.22      7.5      1.07        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 3.5         3.9                            0 5
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 3.052632 2020-10-24 06:49:00
+[1] "Country : [england], League : [premier-league], Progress : 2 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-25    Wolves Newcastle
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2020-10-25 premier-league   Arsenal Leicester
+                                                                                   URL
+1: https://www.playnow.com/sports/sports/event/10214667/arsenal-fc-v-leicester-city-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.03        14     1.22      4.25      1.7      2.05
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.7      1.44     4.75      1.16        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N
+1:      Over 4.5        4.75                    0.2727273 11
+   Chosen_Option_Std    Kelly         Record_Time
+1:         0.1342816 4.290043 2020-10-24 06:49:24
+[1] "Country : [england], League : [premier-league], Progress : 3 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-25   Arsenal Leicester
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-10-24 06:49:25"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], 0 new game(s) found to add."
+[1] "Country : [england], League : [championship], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2020-10-24 06:49:59"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], re-open the server"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-one], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2020-10-24 06:50:52"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-two], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : spain, laliga - 2020-10-24 06:51:23"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], get all hyperlinks for games"
+[1] "Country : [spain], League : [laliga], game times"
+[1] "Country : [spain], League : [laliga], Over_under_score_odds"
+[1] "Country : [spain], League : [laliga], extract team names"
+[1] "Country : [spain], League : [laliga], 4 new game(s) found to add."
+[1] "Country : [spain], League : [laliga], calculate kelly scores"
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League  Home_Team Away_Team
+1: 2020-10-25 laliga Valladolid    Alaves
+                                                                                       URL
+1: https://www.playnow.com/sports/sports/event/10215262/real-valladolid-v-deportivo-alaves
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.14       5.5     1.67      2.15        3      1.36
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:        6      1.11       11      1.02        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5         5.5                            0 7
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 19.33333 2020-10-24 06:52:33
+[1] "Country : [spain], League : [laliga], Progress : 1 out of 4"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-10-25 Valladolid    Alaves
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League Home_Team  Away_Team
+1: 2020-10-25 laliga  Cadiz CF Villarreal
+                                                                             URL
+1: https://www.playnow.com/sports/sports/event/10215259/cadiz-cf-v-villarreal-cf
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.08         8     1.44       2.7      2.3      1.57
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     4.25       1.2        8      1.06        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 3.5        4.25                            0 1
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 3.741935 2020-10-24 06:53:01
+[1] "Country : [spain], League : [laliga], Progress : 2 out of 4"
+[1] "Added game"
+         Date Home_Team  Away_Team
+1: 2020-10-25  Cadiz CF Villarreal
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League Home_Team  Away_Team
+1: 2020-10-25 laliga    Getafe Granada CF
+                                                                           URL
+1: https://www.playnow.com/sports/sports/event/10215266/getafe-cf-v-granada-cf
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.14       5.5     1.67      2.15        3      1.36
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:        6      1.11       11      1.02        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 0.5         5.5                            0 6
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 19.33333 2020-10-24 06:53:22
+[1] "Country : [spain], League : [laliga], Progress : 3 out of 4"
+[1] "Added game"
+         Date Home_Team  Away_Team
+1: 2020-10-25    Getafe Granada CF
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League     Home_Team Away_Team
+1: 2020-10-25 laliga Real Sociedad    Huesca
+                                                                              URL
+1: https://www.playnow.com/sports/sports/event/10215267/real-sociedad-v-sd-huesca
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.07         9     1.38       2.9     2.15      1.62
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      3.9      1.22      7.5      1.07        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 3.5         3.9                            0 1
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 3.052632 2020-10-24 06:54:03
+[1] "Country : [spain], League : [laliga], Progress : 4 out of 4"
+[1] "Added game"
+         Date     Home_Team Away_Team
+1: 2020-10-25 Real Sociedad    Huesca
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2020-10-24 06:54:04"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], re-open the server"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], 3 new game(s) found to add."
+[1] "Country : [italy], League : [serie-a], calculate kelly scores"
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team
+1: 2020-10-25 serie-a  Cagliari   Crotone
+                                                                                 URL
+1: https://www.playnow.com/sports/sports/event/10222339/cagliari-calcio-v-fc-crotone
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.04        13     1.25      3.75      1.8      1.95
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.9      1.38     5.25      1.13        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 4.5        5.25                            0 2
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 10.54545 2020-10-24 06:55:25
+[1] "Country : [italy], League : [serie-a], Progress : 1 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-25  Cagliari   Crotone
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team
+1: 2020-10-25 serie-a Benevento    Napoli
+                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10225723/benevento-calcio-v-ssc-napoli
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:        0         0     1.11       6.5      1.4       2.8
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:        2      1.75      3.2      1.33      5.5      1.13
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 5.5         5.5                            0 1
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 19.33333 2020-10-24 06:55:58
+[1] "Country : [italy], League : [serie-a], Progress : 2 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-25 Benevento    Napoli
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team
+1: 2020-10-25 serie-a     Parma    Spezia
+                                                                                 URL
+1: https://www.playnow.com/sports/sports/event/10222340/parma-calcio-v-spezia-calcio
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.05        11      1.3       3.4     1.95       1.8
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     3.25       1.3        6       1.1        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N
+1:                        NA                           NA NA
+   Chosen_Option_Std Kelly         Record_Time
+1:                NA    NA 2020-10-24 06:56:36
+[1] "Country : [italy], League : [serie-a], Progress : 3 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-25     Parma    Spezia
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2020-10-24 06:56:37"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], re-open the server"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+
+Selenium message:chrome not reachable
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '5c28ec38eb72', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.19.130-boot2docker', java.version: '1.8.0_265'
+Driver info: driver.version: unknown
+
+Error: 	 Summary: UnknownError
+ 	 Detail: An unknown server-side error occurred while processing the command.
+ 	 class: org.openqa.selenium.WebDriverException
+	 Further Details: run errorDetails method

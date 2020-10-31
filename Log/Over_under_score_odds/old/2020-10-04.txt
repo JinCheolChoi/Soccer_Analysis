@@ -1,0 +1,52 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2020-10-04 05:24:14"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], 2 new game(s) found to add."
+[1] "Country : [netherlands], League : [eerste-divisie], calculate kelly scores"
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League Home_Team  Away_Team
+1: 2020-10-05 eerste-divisie Excelsior Graafschap
+                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10210558/sbv-excelsior-v-de-graafschap
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:        0         0     1.08       6.5     1.33       3.2
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     1.75      1.95     2.75       1.4     4.25      1.18
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 3.5        1.95                          0.4 5
+   Chosen_Option_Std     Kelly         Record_Time
+1:          0.219089 0.1626667 2020-10-04 05:24:54
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 1 out of 2"
+[1] "Added game"
+         Date Home_Team  Away_Team
+1: 2020-10-05 Excelsior Graafschap
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2020-10-05 eerste-divisie       Oss Dordrecht
+                                                                           URL
+1: https://www.playnow.com/sports/sports/event/10210559/top-oss-v-fc-dordrecht
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.03        14     1.18         4     1.62       2.2
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.5      1.47     4.25      1.18        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N
+1:      Over 2.5        1.62                          0.7 20
+   Chosen_Option_Std      Kelly         Record_Time
+1:         0.1024695 0.01519298 2020-10-04 05:25:31
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 2 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-10-05       Oss Dordrecht
+[1] ""
+[1] ""

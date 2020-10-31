@@ -1,0 +1,307 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+24.05.2003,2002,AS Roma,Atalanta,1,2
+24.05.2003,2002,Bologna,Reggina,0,2
+24.05.2003,2002,Brescia,Modena,2,2
+24.05.2003,2002,Como,Torino,1,0
+24.05.2003,2002,Empoli,Parma,0,2
+24.05.2003,2002,Inter,Perugia,2,2
+24.05.2003,2002,Juventus,Chievo,4,3
+24.05.2003,2002,Piacenza,AC Milan,4,2
+24.05.2003,2002,Udinese,Lazio,2,1
+17.05.2003,2002,AC Milan,Bologna,3,1
+17.05.2003,2002,Atalanta,Como,2,1
+17.05.2003,2002,Chievo,AS Roma,0,0
+17.05.2003,2002,Lazio,Brescia,3,1
+17.05.2003,2002,Modena,Inter,0,2
+17.05.2003,2002,Parma,Piacenza,3,2
+17.05.2003,2002,Perugia,Udinese,0,2
+17.05.2003,2002,Reggina,Juventus,2,1
+17.05.2003,2002,Torino,Empoli,1,1
+10.05.2003,2002,AS Roma,Torino,3,1
+10.05.2003,2002,Bologna,Lazio,0,2
+10.05.2003,2002,Brescia,AC Milan,1,0
+10.05.2003,2002,Como,Chievo,2,4
+10.05.2003,2002,Empoli,Atalanta,0,0
+10.05.2003,2002,Inter,Parma,1,1
+10.05.2003,2002,Juventus,Perugia,2,2
+10.05.2003,2002,Piacenza,Reggina,2,2
+10.05.2003,2002,Udinese,Modena,2,1
+03.05.2003,2002,AC Milan,Como,2,0
+03.05.2003,2002,Atalanta,Inter,1,1
+03.05.2003,2002,Chievo,Piacenza,3,1
+03.05.2003,2002,Lazio,Juventus,0,0
+03.05.2003,2002,Modena,Empoli,1,1
+03.05.2003,2002,Parma,Bologna,1,2
+03.05.2003,2002,Perugia,Brescia,0,0
+03.05.2003,2002,Reggina,AS Roma,2,3
+03.05.2003,2002,Torino,Udinese,0,1
+27.04.2003,2002,Bologna,Chievo,1,1
+27.04.2003,2002,Como,Modena,0,0
+27.04.2003,2002,Empoli,Udinese,1,1
+27.04.2003,2002,Inter,Lazio,1,1
+27.04.2003,2002,Juventus,Brescia,2,1
+27.04.2003,2002,Piacenza,Perugia,5,1
+27.04.2003,2002,Reggina,Parma,0,0
+26.04.2003,2002,AS Roma,AC Milan,2,1
+26.04.2003,2002,Atalanta,Torino,2,2
+19.04.2003,2002,AC Milan,Empoli,0,1
+19.04.2003,2002,Brescia,Inter,0,1
+19.04.2003,2002,Chievo,Reggina,2,1
+19.04.2003,2002,Juventus,AS Roma,2,1
+19.04.2003,2002,Lazio,Piacenza,2,1
+19.04.2003,2002,Modena,Bologna,3,2
+19.04.2003,2002,Parma,Torino,1,0
+19.04.2003,2002,Perugia,Atalanta,1,0
+19.04.2003,2002,Udinese,Como,3,2
+13.04.2003,2002,AS Roma,Parma,2,1
+13.04.2003,2002,Atalanta,Reggina,1,1
+13.04.2003,2002,Bologna,Juventus,2,2
+13.04.2003,2002,Empoli,Chievo,2,1
+13.04.2003,2002,Modena,Lazio,0,0
+13.04.2003,2002,Torino,Piacenza,1,3
+13.04.2003,2002,Udinese,Brescia,0,0
+12.04.2003,2002,Como,Perugia,1,1
+12.04.2003,2002,Inter,AC Milan,0,1
+06.04.2003,2002,Brescia,Atalanta,3,0
+06.04.2003,2002,Chievo,Udinese,3,0
+06.04.2003,2002,Inter,AS Roma,3,3
+06.04.2003,2002,Lazio,Como,3,0
+06.04.2003,2002,Perugia,Bologna,1,1
+06.04.2003,2002,Piacenza,Modena,3,3
+06.04.2003,2002,Reggina,Empoli,1,0
+05.04.2003,2002,Juventus,Torino,2,0
+05.04.2003,2002,Parma,AC Milan,1,0
+23.03.2003,2002,AS Roma,Piacenza,3,0
+23.03.2003,2002,Atalanta,Chievo,1,0
+23.03.2003,2002,Como,Bologna,5,1
+23.03.2003,2002,Empoli,Brescia,0,0
+23.03.2003,2002,Parma,Lazio,2,1
+23.03.2003,2002,Torino,Perugia,2,1
+23.03.2003,2002,Udinese,Inter,2,1
+22.03.2003,2002,AC Milan,Juventus,2,1
+22.03.2003,2002,Modena,Reggina,2,1
+16.03.2003,2002,Bologna,Udinese,1,0
+16.03.2003,2002,Brescia,Torino,1,0
+16.03.2003,2002,Chievo,Parma,0,4
+16.03.2003,2002,Inter,Como,4,0
+16.03.2003,2002,Lazio,Empoli,4,1
+16.03.2003,2002,Perugia,AS Roma,1,0
+16.03.2003,2002,Piacenza,Atalanta,2,0
+15.03.2003,2002,Juventus,Modena,3,0
+15.03.2003,2002,Reggina,AC Milan,0,0
+09.03.2003,2002,AC Milan,Chievo,0,0
+09.03.2003,2002,Atalanta,Parma,0,0
+09.03.2003,2002,Como,Brescia,1,1
+09.03.2003,2002,Empoli,Piacenza,3,1
+09.03.2003,2002,Modena,Perugia,1,1
+09.03.2003,2002,Torino,Reggina,1,0
+09.03.2003,2002,Udinese,Juventus,0,1
+08.03.2003,2002,AS Roma,Lazio,1,1
+08.03.2003,2002,Bologna,Inter,1,2
+02.03.2003,2002,AC Milan,Atalanta,3,3
+02.03.2003,2002,AS Roma,Empoli,3,1
+02.03.2003,2002,Chievo,Torino,3,2
+02.03.2003,2002,Juventus,Inter,3,0
+02.03.2003,2002,Perugia,Lazio,2,2
+02.03.2003,2002,Piacenza,Como,0,1
+02.03.2003,2002,Reggina,Udinese,3,2
+01.03.2003,2002,Brescia,Bologna,0,0
+01.03.2003,2002,Parma,Modena,1,1
+23.02.2003,2002,Bologna,Empoli,2,0
+23.02.2003,2002,Brescia,Reggina,2,1
+23.02.2003,2002,Inter,Piacenza,3,1
+23.02.2003,2002,Lazio,Atalanta,0,0
+23.02.2003,2002,Modena,Chievo,1,0
+23.02.2003,2002,Perugia,Parma,1,2
+23.02.2003,2002,Udinese,AS Roma,2,1
+22.02.2003,2002,Como,Juventus,1,3
+22.02.2003,2002,Torino,AC Milan,0,3
+16.02.2003,2002,AC Milan,Lazio,2,2
+16.02.2003,2002,Atalanta,Udinese,0,0
+16.02.2003,2002,Empoli,Perugia,1,1
+16.02.2003,2002,Parma,Juventus,1,2
+16.02.2003,2002,Piacenza,Bologna,3,1
+16.02.2003,2002,Reggina,Como,4,1
+16.02.2003,2002,Torino,Modena,1,1
+15.02.2003,2002,AS Roma,Brescia,0,0
+15.02.2003,2002,Chievo,Inter,2,1
+09.02.2003,2002,Bologna,Atalanta,2,3
+09.02.2003,2002,Brescia,Chievo,0,0
+09.02.2003,2002,Como,Parma,2,2
+09.02.2003,2002,Inter,Reggina,3,0
+09.02.2003,2002,Lazio,Torino,1,1
+09.02.2003,2002,Modena,AS Roma,1,1
+09.02.2003,2002,Perugia,AC Milan,1,0
+08.02.2003,2002,Juventus,Empoli,1,0
+08.02.2003,2002,Udinese,Piacenza,2,1
+02.02.2003,2002,AC Milan,Modena,2,1
+02.02.2003,2002,Atalanta,Juventus,1,1
+02.02.2003,2002,Chievo,Lazio,1,1
+02.02.2003,2002,Empoli,Como,0,0
+02.02.2003,2002,Parma,Udinese,3,2
+02.02.2003,2002,Reggina,Perugia,3,1
+02.02.2003,2002,Torino,Inter,0,2
+01.02.2003,2002,AS Roma,Bologna,3,1
+01.02.2003,2002,Piacenza,Brescia,1,4
+26.01.2003,2002,Bologna,Torino,2,2
+26.01.2003,2002,Brescia,Parma,1,1
+26.01.2003,2002,Inter,Empoli,3,0
+26.01.2003,2002,Juventus,Piacenza,2,0
+26.01.2003,2002,Lazio,Reggina,0,1
+26.01.2003,2002,Perugia,Chievo,1,0
+26.01.2003,2002,Udinese,AC Milan,1,0
+25.01.2003,2002,Como,AS Roma,2,0
+25.01.2003,2002,Modena,Atalanta,0,2
+19.01.2003,2002,AC Milan,Piacenza,2,1
+19.01.2003,2002,Atalanta,AS Roma,2,1
+19.01.2003,2002,Chievo,Juventus,1,4
+19.01.2003,2002,Lazio,Udinese,2,1
+19.01.2003,2002,Modena,Brescia,0,0
+19.01.2003,2002,Perugia,Inter,4,1
+19.01.2003,2002,Torino,Como,0,0
+18.01.2003,2002,Parma,Empoli,2,0
+18.01.2003,2002,Reggina,Bologna,1,0
+12.01.2003,2002,AS Roma,Chievo,0,1
+12.01.2003,2002,Bologna,AC Milan,0,2
+12.01.2003,2002,Como,Atalanta,1,1
+12.01.2003,2002,Inter,Modena,2,0
+12.01.2003,2002,Juventus,Reggina,5,0
+12.01.2003,2002,Piacenza,Parma,1,1
+12.01.2003,2002,Udinese,Perugia,0,0
+11.01.2003,2002,Brescia,Lazio,0,0
+11.01.2003,2002,Empoli,Torino,1,1
+06.01.2003,2002,Torino,Atalanta,1,1
+22.12.2002,2002,AC Milan,Brescia,0,0
+22.12.2002,2002,Atalanta,Empoli,2,2
+22.12.2002,2002,Chievo,Como,2,0
+22.12.2002,2002,Lazio,Bologna,1,1
+22.12.2002,2002,Parma,Inter,1,2
+22.12.2002,2002,Perugia,Juventus,0,1
+22.12.2002,2002,Reggina,Piacenza,3,1
+21.12.2002,2002,Modena,Udinese,0,1
+21.12.2002,2002,Torino,AS Roma,0,1
+19.12.2002,2002,Como,Udinese,0,2
+15.12.2002,2002,AS Roma,Reggina,3,0
+15.12.2002,2002,Brescia,Perugia,3,1
+15.12.2002,2002,Como,AC Milan,1,2
+15.12.2002,2002,Empoli,Modena,1,0
+15.12.2002,2002,Inter,Atalanta,1,0
+15.12.2002,2002,Juventus,Lazio,1,2
+15.12.2002,2002,Udinese,Torino,1,1
+14.12.2002,2002,Bologna,Parma,2,1
+14.12.2002,2002,Piacenza,Chievo,0,3
+08.12.2002,2002,Brescia,Juventus,2,0
+08.12.2002,2002,Chievo,Bologna,0,0
+08.12.2002,2002,Modena,Como,1,1
+08.12.2002,2002,Parma,Reggina,2,0
+08.12.2002,2002,Perugia,Piacenza,0,0
+08.12.2002,2002,Udinese,Empoli,2,1
+07.12.2002,2002,AC Milan,AS Roma,1,0
+07.12.2002,2002,Lazio,Inter,3,3
+01.12.2002,2002,AS Roma,Juventus,2,2
+01.12.2002,2002,Atalanta,Perugia,0,2
+01.12.2002,2002,Bologna,Modena,3,0
+01.12.2002,2002,Empoli,AC Milan,1,1
+01.12.2002,2002,Inter,Brescia,4,0
+01.12.2002,2002,Piacenza,Lazio,2,3
+01.12.2002,2002,Torino,Parma,0,4
+30.11.2002,2002,Reggina,Chievo,1,1
+24.11.2002,2002,Brescia,Udinese,1,1
+24.11.2002,2002,Chievo,Empoli,1,0
+24.11.2002,2002,Lazio,Modena,4,0
+24.11.2002,2002,Parma,AS Roma,3,0
+24.11.2002,2002,Perugia,Como,3,0
+24.11.2002,2002,Piacenza,Torino,1,0
+24.11.2002,2002,Reggina,Atalanta,1,1
+23.11.2002,2002,AC Milan,Inter,1,0
+23.11.2002,2002,Juventus,Bologna,1,1
+17.11.2002,2002,AC Milan,Parma,2,1
+17.11.2002,2002,Atalanta,Brescia,2,0
+17.11.2002,2002,Como,Lazio,1,3
+17.11.2002,2002,Empoli,Reggina,4,2
+17.11.2002,2002,Modena,Piacenza,1,0
+17.11.2002,2002,Torino,Juventus,0,4
+17.11.2002,2002,Udinese,Chievo,2,1
+16.11.2002,2002,AS Roma,Inter,2,2
+16.11.2002,2002,Bologna,Perugia,2,1
+10.11.2002,2002,Bologna,Como,1,0
+10.11.2002,2002,Brescia,Empoli,0,2
+10.11.2002,2002,Chievo,Atalanta,4,1
+10.11.2002,2002,Juventus,AC Milan,2,1
+10.11.2002,2002,Lazio,Parma,0,0
+10.11.2002,2002,Perugia,Torino,2,1
+10.11.2002,2002,Reggina,Modena,0,1
+09.11.2002,2002,Inter,Udinese,1,2
+09.11.2002,2002,Piacenza,AS Roma,1,1
+06.11.2002,2002,AC Milan,Udinese,1,0
+06.11.2002,2002,AS Roma,Como,2,1
+06.11.2002,2002,Atalanta,Modena,1,3
+06.11.2002,2002,Chievo,Perugia,3,0
+06.11.2002,2002,Empoli,Inter,3,4
+06.11.2002,2002,Parma,Brescia,4,3
+06.11.2002,2002,Piacenza,Juventus,0,1
+06.11.2002,2002,Reggina,Lazio,0,3
+06.11.2002,2002,Torino,Bologna,2,1
+03.11.2002,2002,AC Milan,Reggina,2,0
+03.11.2002,2002,AS Roma,Perugia,2,2
+03.11.2002,2002,Atalanta,Piacenza,2,0
+03.11.2002,2002,Como,Inter,0,2
+03.11.2002,2002,Empoli,Lazio,1,2
+03.11.2002,2002,Modena,Juventus,0,1
+03.11.2002,2002,Parma,Chievo,0,1
+02.11.2002,2002,Torino,Brescia,0,2
+02.11.2002,2002,Udinese,Bologna,0,0
+27.10.2002,2002,Brescia,Como,1,1
+27.10.2002,2002,Inter,Bologna,2,0
+27.10.2002,2002,Lazio,AS Roma,2,2
+27.10.2002,2002,Parma,Atalanta,2,1
+27.10.2002,2002,Perugia,Modena,2,0
+27.10.2002,2002,Piacenza,Empoli,1,2
+27.10.2002,2002,Reggina,Torino,2,1
+26.10.2002,2002,Chievo,AC Milan,3,2
+26.10.2002,2002,Juventus,Udinese,1,0
+20.10.2002,2002,Atalanta,AC Milan,1,4
+20.10.2002,2002,Bologna,Brescia,3,0
+20.10.2002,2002,Como,Piacenza,1,1
+20.10.2002,2002,Lazio,Perugia,3,0
+20.10.2002,2002,Modena,Parma,2,1
+20.10.2002,2002,Torino,Chievo,1,0
+20.10.2002,2002,Udinese,Reggina,1,0
+19.10.2002,2002,Empoli,AS Roma,1,3
+19.10.2002,2002,Inter,Juventus,1,1
+06.10.2002,2002,AC Milan,Torino,6,0
+06.10.2002,2002,Atalanta,Lazio,0,1
+06.10.2002,2002,Chievo,Modena,2,0
+06.10.2002,2002,Empoli,Bologna,0,0
+06.10.2002,2002,Juventus,Como,1,1
+06.10.2002,2002,Parma,Perugia,2,2
+06.10.2002,2002,Piacenza,Inter,1,4
+05.10.2002,2002,AS Roma,Udinese,4,1
+05.10.2002,2002,Reggina,Brescia,2,2
+29.09.2002,2002,Bologna,Piacenza,1,0
+29.09.2002,2002,Brescia,AS Roma,2,3
+29.09.2002,2002,Como,Reggina,1,1
+29.09.2002,2002,Inter,Chievo,2,1
+29.09.2002,2002,Modena,Torino,2,1
+29.09.2002,2002,Perugia,Empoli,1,3
+29.09.2002,2002,Udinese,Atalanta,1,0
+28.09.2002,2002,Juventus,Parma,2,2
+28.09.2002,2002,Lazio,AC Milan,1,1
+22.09.2002,2002,AS Roma,Modena,1,2
+22.09.2002,2002,Atalanta,Bologna,2,2
+22.09.2002,2002,Chievo,Brescia,1,2
+22.09.2002,2002,Parma,Como,2,0
+22.09.2002,2002,Piacenza,Udinese,2,0
+22.09.2002,2002,Reggina,Inter,1,2
+22.09.2002,2002,Torino,Lazio,0,1
+21.09.2002,2002,AC Milan,Perugia,3,0
+21.09.2002,2002,Empoli,Juventus,0,2
+15.09.2002,2002,Brescia,Piacenza,1,2
+15.09.2002,2002,Juventus,Atalanta,3,0
+15.09.2002,2002,Lazio,Chievo,2,3
+15.09.2002,2002,Perugia,Reggina,2,0
+15.09.2002,2002,Udinese,Parma,1,1
+14.09.2002,2002,Bologna,AS Roma,2,1
+14.09.2002,2002,Como,Empoli,0,2
+14.09.2002,2002,Inter,Torino,1,0
+14.09.2002,2002,Modena,AC Milan,0,3

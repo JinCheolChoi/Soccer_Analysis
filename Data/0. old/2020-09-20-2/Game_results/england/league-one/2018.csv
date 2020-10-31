@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+05.05.2018,2018,AFC Wimbledon,Bury,2,2
+05.05.2018,2018,Blackburn,Oxford Utd,2,1
+05.05.2018,2018,Doncaster,Wigan,0,1
+05.05.2018,2018,Fleetwood,Walsall,2,0
+05.05.2018,2018,Gillingham,Plymouth,5,2
+05.05.2018,2018,Northampton,Oldham,2,2
+05.05.2018,2018,Portsmouth,Peterborough,2,0
+05.05.2018,2018,Rochdale,Charlton,1,0
+05.05.2018,2018,Rotherham,Blackpool,1,0
+05.05.2018,2018,Scunthorpe,Bradford City,1,1
+05.05.2018,2018,Shrewsbury,MK Dons,0,1
+05.05.2018,2018,Southend,Bristol Rovers,0,0
+01.05.2018,2018,Bradford City,Walsall,1,1
+01.05.2018,2018,Doncaster,AFC Wimbledon,0,0
+01.05.2018,2018,Scunthorpe,Plymouth,2,0
+28.04.2018,2018,Blackpool,Shrewsbury,1,1
+28.04.2018,2018,Bradford City,Southend,0,2
+28.04.2018,2018,Bristol Rovers,Gillingham,1,1
+28.04.2018,2018,Bury,Portsmouth,1,0
+28.04.2018,2018,Charlton,Blackburn,1,0
+28.04.2018,2018,MK Dons,Scunthorpe,0,2
+28.04.2018,2018,Oldham,Doncaster,0,0
+28.04.2018,2018,Oxford Utd,Rochdale,2,1
+28.04.2018,2018,Peterborough,Fleetwood,2,0
+28.04.2018,2018,Plymouth,Rotherham,2,1
+28.04.2018,2018,Walsall,Northampton,1,0
+28.04.2018,2018,Wigan,AFC Wimbledon,1,1
+24.04.2018,2018,Doncaster,Blackburn,0,1
+24.04.2018,2018,Bradford City,MK Dons,2,0
+24.04.2018,2018,Rochdale,Plymouth,1,1
+24.04.2018,2018,Shrewsbury,Peterborough,3,1
+24.04.2018,2018,Oldham,Southend,0,3
+24.04.2018,2018,Bristol Rovers,Wigan,1,1
+21.04.2018,2018,AFC Wimbledon,Oldham,2,2
+21.04.2018,2018,Doncaster,Oxford Utd,0,1
+21.04.2018,2018,Fleetwood,Wigan,0,4
+21.04.2018,2018,Gillingham,Blackpool,0,3
+21.04.2018,2018,Northampton,Plymouth,2,0
+21.04.2018,2018,Portsmouth,Charlton,0,1
+21.04.2018,2018,Rochdale,Bradford City,1,1
+21.04.2018,2018,Rotherham,Bristol Rovers,2,0
+21.04.2018,2018,Scunthorpe,Walsall,1,0
+21.04.2018,2018,Shrewsbury,Bury,1,1
+21.04.2018,2018,Southend,MK Dons,4,0
+19.04.2018,2018,Blackburn,Peterborough,3,1
+17.04.2018,2018,Bradford City,Portsmouth,3,1
+17.04.2018,2018,Doncaster,Bury,3,3
+17.04.2018,2018,Gillingham,Rotherham,0,1
+17.04.2018,2018,Rochdale,Oldham,0,0
+17.04.2018,2018,Wigan,Oxford Utd,1,0
+17.04.2018,2018,Shrewsbury,Charlton,0,2
+14.04.2018,2018,Blackpool,Fleetwood,2,1
+14.04.2018,2018,Bristol Rovers,Blackburn,1,1
+14.04.2018,2018,Bury,Northampton,2,3
+14.04.2018,2018,Charlton,Scunthorpe,0,1
+14.04.2018,2018,MK Dons,Doncaster,1,2
+14.04.2018,2018,Oldham,Gillingham,1,1
+14.04.2018,2018,Oxford Utd,Southend,2,0
+14.04.2018,2018,Peterborough,Rochdale,0,1
+14.04.2018,2018,Plymouth,Portsmouth,0,0
+14.04.2018,2018,Walsall,AFC Wimbledon,2,3
+14.04.2018,2018,Wigan,Rotherham,0,0
+12.04.2018,2018,Bradford City,Shrewsbury,0,0
+11.04.2018,2018,Oldham,Walsall,1,1
+10.04.2018,2018,Gillingham,Blackburn,0,0
+10.04.2018,2018,AFC Wimbledon,Charlton,1,0
+10.04.2018,2018,Blackpool,Northampton,3,0
+10.04.2018,2018,Oxford Utd,Fleetwood,0,1
+10.04.2018,2018,Rochdale,Wigan,1,4
+07.04.2018,2018,AFC Wimbledon,Scunthorpe,1,1
+07.04.2018,2018,Blackburn,Southend,1,0
+07.04.2018,2018,Blackpool,Bradford City,5,0
+07.04.2018,2018,Bristol Rovers,Charlton,1,1
+07.04.2018,2018,Gillingham,Doncaster,0,0
+07.04.2018,2018,Oxford Utd,Oldham,0,0
+07.04.2018,2018,Plymouth,Peterborough,2,1
+07.04.2018,2018,Rochdale,Portsmouth,3,3
+07.04.2018,2018,Rotherham,Fleetwood,3,2
+07.04.2018,2018,Walsall,Bury,1,0
+07.04.2018,2018,Wigan,MK Dons,5,1
+03.04.2018,2018,Bury,Rochdale,0,2
+02.04.2018,2018,Charlton,Rotherham,3,1
+02.04.2018,2018,Fleetwood,Bristol Rovers,2,0
+02.04.2018,2018,MK Dons,Blackburn,1,2
+02.04.2018,2018,Oldham,Blackpool,2,1
+02.04.2018,2018,Peterborough,Northampton,2,0
+02.04.2018,2018,Portsmouth,Wigan,2,1
+02.04.2018,2018,Shrewsbury,Oxford Utd,3,2
+02.04.2018,2018,Southend,Gillingham,4,0
+31.03.2018,2018,Walsall,Portsmouth,0,1
+30.03.2018,2018,AFC Wimbledon,Fleetwood,0,1
+30.03.2018,2018,Blackpool,Doncaster,1,2
+30.03.2018,2018,Bristol Rovers,Bury,2,1
+30.03.2018,2018,Northampton,Charlton,0,4
+30.03.2018,2018,Oxford Utd,Scunthorpe,1,1
+30.03.2018,2018,Plymouth,Southend,4,0
+30.03.2018,2018,Rochdale,Shrewsbury,3,1
+30.03.2018,2018,Rotherham,Peterborough,1,1
+30.03.2018,2018,Wigan,Oldham,3,0
+29.03.2018,2018,Blackburn,Bradford City,2,0
+29.03.2018,2018,Gillingham,MK Dons,1,2
+25.03.2018,2018,Portsmouth,Oxford Utd,3,0
+24.03.2018,2018,Bradford City,Gillingham,1,0
+24.03.2018,2018,Bury,Wigan,0,2
+24.03.2018,2018,Charlton,Plymouth,2,0
+24.03.2018,2018,Fleetwood,Northampton,2,0
+24.03.2018,2018,MK Dons,Blackpool,0,0
+24.03.2018,2018,Peterborough,Bristol Rovers,1,1
+24.03.2018,2018,Scunthorpe,Rochdale,1,1
+24.03.2018,2018,Shrewsbury,AFC Wimbledon,1,0
+24.03.2018,2018,Southend,Rotherham,2,0
+21.03.2018,2018,Walsall,Wigan,0,3
+20.03.2018,2018,Northampton,Shrewsbury,1,1
+20.03.2018,2018,Rochdale,Fleetwood,0,2
+19.03.2018,2018,Doncaster,Bradford City,2,0
+17.03.2018,2018,Blackpool,Southend,1,1
+17.03.2018,2018,Charlton,Fleetwood,0,0
+17.03.2018,2018,MK Dons,Bury,2,1
+17.03.2018,2018,Northampton,Rotherham,0,3
+17.03.2018,2018,Oldham,Portsmouth,0,2
+17.03.2018,2018,Oxford Utd,Peterborough,2,1
+17.03.2018,2018,Plymouth,Bristol Rovers,3,2
+17.03.2018,2018,Rochdale,AFC Wimbledon,1,1
+17.03.2018,2018,Scunthorpe,Shrewsbury,1,2
+14.03.2018,2018,Bradford City,Wigan,0,1
+13.03.2018,2018,Blackpool,Charlton,1,0
+13.03.2018,2018,Bury,Peterborough,0,1
+13.03.2018,2018,MK Dons,Rotherham,3,2
+13.03.2018,2018,Rochdale,Southend,0,0
+10.03.2018,2018,AFC Wimbledon,Oxford Utd,2,1
+10.03.2018,2018,Blackburn,Blackpool,3,0
+10.03.2018,2018,Bristol Rovers,Northampton,1,1
+10.03.2018,2018,Bury,Oldham,2,2
+10.03.2018,2018,Fleetwood,Plymouth,1,1
+10.03.2018,2018,Peterborough,Charlton,4,1
+10.03.2018,2018,Portsmouth,Gillingham,1,3
+10.03.2018,2018,Rotherham,Rochdale,0,1
+10.03.2018,2018,Shrewsbury,Walsall,2,0
+10.03.2018,2018,Southend,Doncaster,0,0
+10.03.2018,2018,Wigan,Scunthorpe,3,3
+06.03.2018,2018,Walsall,Rochdale,0,3
+04.03.2018,2018,Blackburn,Wigan,2,2
+03.03.2018,2018,MK Dons,Bristol Rovers,0,1
+03.03.2018,2018,Scunthorpe,Oldham,0,2
+03.03.2018,2018,Southend,Walsall,0,3
+27.02.2018,2018,AFC Wimbledon,Blackburn,0,3
+27.02.2018,2018,Peterborough,Walsall,2,1
+24.02.2018,2018,Bristol Rovers,Scunthorpe,1,1
+24.02.2018,2018,Bury,Gillingham,2,1
+24.02.2018,2018,Charlton,Shrewsbury,0,2
+24.02.2018,2018,Fleetwood,MK Dons,1,1
+24.02.2018,2018,Northampton,Oxford Utd,0,0
+24.02.2018,2018,Peterborough,AFC Wimbledon,1,1
+24.02.2018,2018,Plymouth,Bradford City,1,0
+24.02.2018,2018,Portsmouth,Blackpool,0,2
+24.02.2018,2018,Rotherham,Doncaster,2,1
+24.02.2018,2018,Walsall,Blackburn,1,2
+24.02.2018,2018,Wigan,Rochdale,1,0
+21.02.2018,2018,Rochdale,MK Dons,0,0
+20.02.2018,2018,Fleetwood,Portsmouth,1,2
+20.02.2018,2018,Shrewsbury,Gillingham,1,1
+19.02.2018,2018,Blackburn,Bury,2,0
+18.02.2018,2018,Blackpool,Peterborough,1,1
+17.02.2018,2018,AFC Wimbledon,Bristol Rovers,1,0
+17.02.2018,2018,Doncaster,Fleetwood,3,0
+17.02.2018,2018,Gillingham,Walsall,0,0
+17.02.2018,2018,MK Dons,Charlton,1,2
+17.02.2018,2018,Oxford Utd,Plymouth,0,1
+17.02.2018,2018,Scunthorpe,Northampton,2,2
+17.02.2018,2018,Shrewsbury,Rotherham,0,1
+17.02.2018,2018,Southend,Portsmouth,3,1
+13.02.2018,2018,Bristol Rovers,Rochdale,3,2
+13.02.2018,2018,Bury,Southend,0,0
+13.02.2018,2018,Charlton,Bradford City,1,1
+13.02.2018,2018,Fleetwood,Shrewsbury,1,2
+13.02.2018,2018,Northampton,Gillingham,1,2
+13.02.2018,2018,Oldham,MK Dons,1,0
+13.02.2018,2018,Peterborough,Scunthorpe,2,2
+13.02.2018,2018,Plymouth,AFC Wimbledon,4,2
+13.02.2018,2018,Portsmouth,Blackburn,1,2
+13.02.2018,2018,Rotherham,Oxford Utd,3,1
+13.02.2018,2018,Walsall,Doncaster,4,2
+13.02.2018,2018,Wigan,Blackpool,0,2
+10.02.2018,2018,AFC Wimbledon,Northampton,1,3
+10.02.2018,2018,Blackburn,Oldham,2,2
+10.02.2018,2018,Blackpool,Walsall,2,2
+10.02.2018,2018,Bradford City,Bury,2,2
+10.02.2018,2018,Doncaster,Charlton,1,1
+10.02.2018,2018,Gillingham,Peterborough,1,1
+10.02.2018,2018,MK Dons,Portsmouth,1,2
+10.02.2018,2018,Oxford Utd,Bristol Rovers,1,2
+10.02.2018,2018,Scunthorpe,Rotherham,1,2
+10.02.2018,2018,Shrewsbury,Plymouth,1,2
+10.02.2018,2018,Southend,Wigan,3,1
+06.02.2018,2018,Bury,AFC Wimbledon,2,1
+03.02.2018,2018,Bristol Rovers,Shrewsbury,1,2
+03.02.2018,2018,Bury,Blackpool,1,1
+03.02.2018,2018,Charlton,Oxford Utd,2,3
+03.02.2018,2018,Fleetwood,Scunthorpe,2,3
+03.02.2018,2018,Northampton,Rochdale,0,1
+03.02.2018,2018,Oldham,Bradford City,2,1
+03.02.2018,2018,Peterborough,Southend,0,1
+03.02.2018,2018,Plymouth,Blackburn,2,0
+03.02.2018,2018,Portsmouth,Doncaster,2,2
+03.02.2018,2018,Rotherham,AFC Wimbledon,2,0
+03.02.2018,2018,Walsall,MK Dons,1,0
+03.02.2018,2018,Wigan,Gillingham,2,0
+30.01.2018,2018,Blackburn,Walsall,3,1
+27.01.2018,2018,Blackburn,Northampton,1,1
+27.01.2018,2018,Bradford City,AFC Wimbledon,0,4
+27.01.2018,2018,Doncaster,Bristol Rovers,1,3
+27.01.2018,2018,Gillingham,Fleetwood,2,1
+27.01.2018,2018,Oldham,Plymouth,1,2
+27.01.2018,2018,Portsmouth,Shrewsbury,0,1
+27.01.2018,2018,Southend,Scunthorpe,3,2
+23.01.2018,2018,Rotherham,Bradford City,2,0
+23.01.2018,2018,Scunthorpe,Doncaster,1,1
+20.01.2018,2018,AFC Wimbledon,Blackpool,2,0
+20.01.2018,2018,Bristol Rovers,Bradford City,3,1
+20.01.2018,2018,Charlton,Walsall,3,1
+20.01.2018,2018,Fleetwood,Blackburn,1,2
+20.01.2018,2018,Northampton,MK Dons,2,1
+20.01.2018,2018,Oxford Utd,Bury,1,2
+20.01.2018,2018,Peterborough,Oldham,3,0
+20.01.2018,2018,Plymouth,Wigan,1,3
+20.01.2018,2018,Rotherham,Portsmouth,1,0
+20.01.2018,2018,Scunthorpe,Gillingham,1,3
+20.01.2018,2018,Shrewsbury,Doncaster,2,2
+13.01.2018,2018,Blackburn,Shrewsbury,3,1
+13.01.2018,2018,Blackpool,Bristol Rovers,0,0
+13.01.2018,2018,Bradford City,Northampton,1,2
+13.01.2018,2018,Bury,Charlton,0,1
+13.01.2018,2018,Doncaster,Plymouth,1,1
+13.01.2018,2018,Gillingham,Rochdale,2,1
+13.01.2018,2018,MK Dons,AFC Wimbledon,0,0
+13.01.2018,2018,Oldham,Rotherham,1,1
+13.01.2018,2018,Portsmouth,Scunthorpe,1,1
+13.01.2018,2018,Southend,Fleetwood,1,2
+13.01.2018,2018,Walsall,Oxford Utd,2,1
+13.01.2018,2018,Wigan,Peterborough,0,0
+06.01.2018,2018,Charlton,Oldham,1,0
+06.01.2018,2018,Northampton,Southend,3,1
+06.01.2018,2018,Oxford Utd,Blackpool,1,0
+06.01.2018,2018,Plymouth,Bury,3,0
+01.01.2018,2018,AFC Wimbledon,Southend,2,0
+01.01.2018,2018,Bristol Rovers,Portsmouth,2,1
+01.01.2018,2018,Charlton,Gillingham,1,2
+01.01.2018,2018,Fleetwood,Bradford City,1,2
+01.01.2018,2018,Northampton,Wigan,0,1
+01.01.2018,2018,Oxford Utd,MK Dons,3,1
+01.01.2018,2018,Peterborough,Doncaster,1,1
+01.01.2018,2018,Plymouth,Walsall,1,0
+01.01.2018,2018,Rochdale,Blackpool,1,2
+01.01.2018,2018,Rotherham,Blackburn,1,1
+01.01.2018,2018,Scunthorpe,Bury,1,0
+01.01.2018,2018,Shrewsbury,Oldham,1,0
+30.12.2017,2018,Blackburn,Scunthorpe,2,2
+30.12.2017,2018,Blackpool,Plymouth,2,2
+30.12.2017,2018,Bradford City,Oxford Utd,3,2
+30.12.2017,2018,Bury,Fleetwood,0,2
+30.12.2017,2018,Gillingham,AFC Wimbledon,2,2
+30.12.2017,2018,MK Dons,Peterborough,1,0
+30.12.2017,2018,Oldham,Bristol Rovers,1,1
+30.12.2017,2018,Portsmouth,Northampton,3,1
+30.12.2017,2018,Southend,Shrewsbury,1,2
+30.12.2017,2018,Walsall,Rotherham,1,2
+29.12.2017,2018,Doncaster,Rochdale,2,0
+29.12.2017,2018,Wigan,Charlton,0,0
+26.12.2017,2018,Blackburn,Rochdale,2,0
+26.12.2017,2018,Blackpool,Scunthorpe,2,3
+26.12.2017,2018,Bradford City,Peterborough,1,3
+26.12.2017,2018,Bury,Rotherham,0,3
+26.12.2017,2018,Doncaster,Northampton,3,0
+26.12.2017,2018,Gillingham,Oxford Utd,1,1
+26.12.2017,2018,MK Dons,Plymouth,0,1
+26.12.2017,2018,Oldham,Fleetwood,1,2
+26.12.2017,2018,Portsmouth,AFC Wimbledon,2,1
+26.12.2017,2018,Southend,Charlton,3,1
+26.12.2017,2018,Walsall,Bristol Rovers,0,0
+26.12.2017,2018,Wigan,Shrewsbury,0,0
+23.12.2017,2018,AFC Wimbledon,Bradford City,2,1
+23.12.2017,2018,Bristol Rovers,Doncaster,0,1
+23.12.2017,2018,Charlton,Blackpool,1,1
+23.12.2017,2018,Northampton,Blackburn,1,1
+23.12.2017,2018,Oxford Utd,Wigan,0,7
+23.12.2017,2018,Peterborough,Bury,3,0
+23.12.2017,2018,Plymouth,Oldham,4,1
+23.12.2017,2018,Rochdale,Walsall,1,1
+23.12.2017,2018,Rotherham,MK Dons,2,1
+23.12.2017,2018,Scunthorpe,Southend,3,1
+23.12.2017,2018,Shrewsbury,Portsmouth,2,0
+22.12.2017,2018,Fleetwood,Gillingham,0,2
+17.12.2017,2018,Fleetwood,Peterborough,2,3
+16.12.2017,2018,AFC Wimbledon,Wigan,0,4
+16.12.2017,2018,Blackburn,Charlton,2,0
+16.12.2017,2018,Doncaster,Oldham,1,1
+16.12.2017,2018,Gillingham,Bristol Rovers,4,1
+16.12.2017,2018,Northampton,Walsall,2,1
+16.12.2017,2018,Portsmouth,Bury,1,0
+16.12.2017,2018,Rochdale,Oxford Utd,0,0
+16.12.2017,2018,Rotherham,Plymouth,1,1
+16.12.2017,2018,Scunthorpe,MK Dons,2,2
+16.12.2017,2018,Shrewsbury,Blackpool,1,0
+16.12.2017,2018,Southend,Bradford City,1,2
+09.12.2017,2018,Blackpool,Rotherham,1,2
+09.12.2017,2018,Bradford City,Rochdale,4,3
+09.12.2017,2018,Bristol Rovers,Southend,3,0
+09.12.2017,2018,Charlton,Portsmouth,0,1
+09.12.2017,2018,MK Dons,Shrewsbury,1,1
+09.12.2017,2018,Oldham,Northampton,5,1
+09.12.2017,2018,Oxford Utd,Doncaster,1,0
+09.12.2017,2018,Peterborough,Blackburn,2,3
+09.12.2017,2018,Plymouth,Gillingham,2,1
+09.12.2017,2018,Walsall,Scunthorpe,1,0
+09.12.2017,2018,Wigan,Fleetwood,2,0
+02.12.2017,2018,Bristol Rovers,Rotherham,2,1
+02.12.2017,2018,Southend,Oldham,2,0
+28.11.2017,2018,Blackpool,Blackburn,2,4
+28.11.2017,2018,Charlton,Peterborough,2,2
+25.11.2017,2018,AFC Wimbledon,Walsall,1,2
+25.11.2017,2018,Blackburn,Bristol Rovers,2,1
+25.11.2017,2018,Doncaster,MK Dons,2,1
+25.11.2017,2018,Fleetwood,Blackpool,0,0
+25.11.2017,2018,Gillingham,Oldham,0,0
+25.11.2017,2018,Northampton,Bury,0,0
+25.11.2017,2018,Portsmouth,Plymouth,1,0
+25.11.2017,2018,Rochdale,Peterborough,2,0
+25.11.2017,2018,Rotherham,Wigan,1,3
+25.11.2017,2018,Scunthorpe,Charlton,2,0
+25.11.2017,2018,Shrewsbury,Bradford City,0,1
+25.11.2017,2018,Southend,Oxford Utd,1,1
+21.11.2017,2018,Blackpool,Gillingham,1,1
+21.11.2017,2018,Bradford City,Scunthorpe,1,2
+21.11.2017,2018,Bury,Shrewsbury,1,0
+21.11.2017,2018,Charlton,Rochdale,2,1
+21.11.2017,2018,MK Dons,Southend,1,1
+21.11.2017,2018,Oldham,AFC Wimbledon,0,0
+21.11.2017,2018,Oxford Utd,Blackburn,2,4
+21.11.2017,2018,Peterborough,Portsmouth,2,1
+21.11.2017,2018,Plymouth,Northampton,2,0
+21.11.2017,2018,Walsall,Fleetwood,4,2
+21.11.2017,2018,Wigan,Doncaster,3,0
+18.11.2017,2018,Bristol Rovers,AFC Wimbledon,1,3
+18.11.2017,2018,Bury,Blackburn,0,3
+18.11.2017,2018,Charlton,MK Dons,2,2
+18.11.2017,2018,Fleetwood,Doncaster,0,0
+18.11.2017,2018,Northampton,Scunthorpe,0,3
+18.11.2017,2018,Oldham,Rochdale,3,1
+18.11.2017,2018,Peterborough,Blackpool,0,1
+18.11.2017,2018,Plymouth,Oxford Utd,0,4
+18.11.2017,2018,Portsmouth,Southend,1,0
+18.11.2017,2018,Rotherham,Shrewsbury,1,2
+18.11.2017,2018,Walsall,Gillingham,0,1
+18.11.2017,2018,Wigan,Bradford City,1,2
+12.11.2017,2018,AFC Wimbledon,Peterborough,2,2
+11.11.2017,2018,Blackpool,Portsmouth,2,3
+11.11.2017,2018,Bradford City,Plymouth,0,1
+11.11.2017,2018,Doncaster,Rotherham,1,1
+11.11.2017,2018,Gillingham,Bury,1,1
+11.11.2017,2018,MK Dons,Fleetwood,1,0
+11.11.2017,2018,Oxford Utd,Northampton,1,2
+11.11.2017,2018,Scunthorpe,Bristol Rovers,1,0
+31.10.2017,2018,Blackburn,Fleetwood,2,2
+28.10.2017,2018,Bristol Rovers,MK Dons,2,0
+28.10.2017,2018,Bury,Doncaster,0,1
+28.10.2017,2018,Charlton,AFC Wimbledon,1,0
+28.10.2017,2018,Fleetwood,Oxford Utd,2,0
+28.10.2017,2018,Northampton,Blackpool,1,0
+28.10.2017,2018,Oldham,Scunthorpe,2,3
+28.10.2017,2018,Peterborough,Shrewsbury,1,0
+28.10.2017,2018,Plymouth,Rochdale,1,1
+28.10.2017,2018,Portsmouth,Bradford City,0,1
+28.10.2017,2018,Rotherham,Gillingham,1,3
+28.10.2017,2018,Walsall,Southend,0,1
+28.10.2017,2018,Wigan,Blackburn,0,0
+24.10.2017,2018,Oldham,Bury,2,1
+21.10.2017,2018,AFC Wimbledon,Plymouth,0,1
+21.10.2017,2018,Blackburn,Portsmouth,3,0
+21.10.2017,2018,Blackpool,Wigan,1,3
+21.10.2017,2018,Bradford City,Charlton,0,1
+21.10.2017,2018,Doncaster,Walsall,0,3
+21.10.2017,2018,Gillingham,Northampton,1,2
+21.10.2017,2018,MK Dons,Oldham,4,4
+21.10.2017,2018,Oxford Utd,Rotherham,3,3
+21.10.2017,2018,Rochdale,Bristol Rovers,1,0
+21.10.2017,2018,Scunthorpe,Peterborough,2,1
+21.10.2017,2018,Shrewsbury,Fleetwood,1,0
+21.10.2017,2018,Southend,Bury,1,0
+17.10.2017,2018,AFC Wimbledon,Rotherham,3,1
+17.10.2017,2018,Blackburn,Plymouth,1,1
+17.10.2017,2018,Blackpool,Bury,2,1
+17.10.2017,2018,Bradford City,Oldham,1,1
+17.10.2017,2018,Doncaster,Portsmouth,2,1
+17.10.2017,2018,Gillingham,Wigan,1,1
+17.10.2017,2018,MK Dons,Walsall,1,1
+17.10.2017,2018,Oxford Utd,Charlton,1,1
+17.10.2017,2018,Rochdale,Northampton,2,2
+17.10.2017,2018,Scunthorpe,Fleetwood,1,1
+17.10.2017,2018,Shrewsbury,Bristol Rovers,4,0
+17.10.2017,2018,Southend,Peterborough,1,1
+14.10.2017,2018,Bristol Rovers,Oxford Utd,0,1
+14.10.2017,2018,Bury,Bradford City,3,1
+14.10.2017,2018,Charlton,Doncaster,1,0
+14.10.2017,2018,Fleetwood,Rochdale,2,2
+14.10.2017,2018,Northampton,AFC Wimbledon,0,1
+14.10.2017,2018,Oldham,Blackburn,1,0
+14.10.2017,2018,Peterborough,Gillingham,0,1
+14.10.2017,2018,Plymouth,Shrewsbury,1,1
+14.10.2017,2018,Portsmouth,MK Dons,2,0
+14.10.2017,2018,Rotherham,Scunthorpe,2,0
+14.10.2017,2018,Walsall,Blackpool,1,1
+14.10.2017,2018,Wigan,Southend,3,0
+08.10.2017,2018,Gillingham,Portsmouth,0,1
+07.10.2017,2018,Doncaster,Southend,4,1
+07.10.2017,2018,MK Dons,Bradford City,1,4
+07.10.2017,2018,Northampton,Bristol Rovers,0,6
+07.10.2017,2018,Oxford Utd,AFC Wimbledon,3,0
+07.10.2017,2018,Plymouth,Fleetwood,1,2
+07.10.2017,2018,Rochdale,Rotherham,0,1
+07.10.2017,2018,Scunthorpe,Wigan,1,2
+07.10.2017,2018,Walsall,Shrewsbury,1,1
+30.09.2017,2018,AFC Wimbledon,Rochdale,0,0
+30.09.2017,2018,Blackburn,Gillingham,1,0
+30.09.2017,2018,Bradford City,Doncaster,2,0
+30.09.2017,2018,Bristol Rovers,Plymouth,2,1
+30.09.2017,2018,Bury,MK Dons,0,2
+30.09.2017,2018,Fleetwood,Charlton,1,3
+30.09.2017,2018,Peterborough,Oxford Utd,1,4
+30.09.2017,2018,Portsmouth,Oldham,1,2
+30.09.2017,2018,Rotherham,Northampton,1,0
+30.09.2017,2018,Shrewsbury,Scunthorpe,2,0
+30.09.2017,2018,Southend,Blackpool,2,1
+30.09.2017,2018,Wigan,Walsall,2,0
+26.09.2017,2018,Blackburn,Rotherham,2,0
+26.09.2017,2018,Blackpool,Rochdale,0,0
+26.09.2017,2018,Bradford City,Fleetwood,0,3
+26.09.2017,2018,Bury,Oxford Utd,3,0
+26.09.2017,2018,Doncaster,Shrewsbury,1,2
+26.09.2017,2018,Gillingham,Scunthorpe,0,0
+26.09.2017,2018,MK Dons,Northampton,0,0
+26.09.2017,2018,Oldham,Peterborough,3,2
+26.09.2017,2018,Portsmouth,Bristol Rovers,3,0
+26.09.2017,2018,Southend,AFC Wimbledon,1,0
+26.09.2017,2018,Walsall,Charlton,2,2
+26.09.2017,2018,Wigan,Plymouth,1,0
+23.09.2017,2018,Bristol Rovers,Blackpool,3,1
+23.09.2017,2018,Charlton,Bury,1,1
+23.09.2017,2018,Fleetwood,Southend,2,4
+23.09.2017,2018,Northampton,Bradford City,0,1
+23.09.2017,2018,Oxford Utd,Walsall,1,2
+23.09.2017,2018,Peterborough,Wigan,3,2
+23.09.2017,2018,Plymouth,Doncaster,0,3
+23.09.2017,2018,Rochdale,Gillingham,3,0
+23.09.2017,2018,Rotherham,Oldham,5,1
+23.09.2017,2018,Scunthorpe,Portsmouth,2,0
+23.09.2017,2018,Shrewsbury,Blackburn,1,1
+22.09.2017,2018,AFC Wimbledon,MK Dons,0,2
+19.09.2017,2018,Wigan,Northampton,1,0
+17.09.2017,2018,Doncaster,Scunthorpe,0,1
+16.09.2017,2018,Blackburn,AFC Wimbledon,0,1
+16.09.2017,2018,Blackpool,Oxford Utd,3,1
+16.09.2017,2018,Bradford City,Rotherham,1,0
+16.09.2017,2018,Bury,Plymouth,0,0
+16.09.2017,2018,Gillingham,Charlton,1,0
+16.09.2017,2018,MK Dons,Rochdale,3,2
+16.09.2017,2018,Oldham,Shrewsbury,1,2
+16.09.2017,2018,Portsmouth,Fleetwood,4,1
+16.09.2017,2018,Southend,Northampton,2,2
+16.09.2017,2018,Walsall,Peterborough,1,1
+16.09.2017,2018,Wigan,Bristol Rovers,3,0
+12.09.2017,2018,AFC Wimbledon,Gillingham,1,1
+12.09.2017,2018,Bristol Rovers,Oldham,2,3
+12.09.2017,2018,Charlton,Wigan,0,3
+12.09.2017,2018,Fleetwood,Bury,3,2
+12.09.2017,2018,Northampton,Portsmouth,3,1
+12.09.2017,2018,Oxford Utd,Bradford City,2,2
+12.09.2017,2018,Peterborough,MK Dons,2,0
+12.09.2017,2018,Plymouth,Blackpool,1,3
+12.09.2017,2018,Rochdale,Doncaster,2,1
+12.09.2017,2018,Rotherham,Walsall,5,1
+12.09.2017,2018,Scunthorpe,Blackburn,0,1
+12.09.2017,2018,Shrewsbury,Southend,1,0
+09.09.2017,2018,AFC Wimbledon,Portsmouth,0,2
+09.09.2017,2018,Bristol Rovers,Walsall,2,1
+09.09.2017,2018,Charlton,Southend,2,1
+09.09.2017,2018,Fleetwood,Oldham,2,2
+09.09.2017,2018,Northampton,Doncaster,1,0
+09.09.2017,2018,Oxford Utd,Gillingham,3,0
+09.09.2017,2018,Peterborough,Bradford City,1,3
+09.09.2017,2018,Plymouth,MK Dons,0,1
+09.09.2017,2018,Rochdale,Blackburn,0,3
+09.09.2017,2018,Rotherham,Bury,3,2
+09.09.2017,2018,Scunthorpe,Blackpool,0,0
+09.09.2017,2018,Shrewsbury,Wigan,1,0
+03.09.2017,2018,Portsmouth,Rotherham,0,1
+02.09.2017,2018,Blackpool,AFC Wimbledon,1,0
+02.09.2017,2018,Bradford City,Bristol Rovers,3,1
+02.09.2017,2018,Bury,Scunthorpe,0,1
+02.09.2017,2018,Doncaster,Peterborough,0,0
+02.09.2017,2018,Gillingham,Shrewsbury,1,2
+02.09.2017,2018,MK Dons,Oxford Utd,1,1
+02.09.2017,2018,Oldham,Charlton,3,4
+02.09.2017,2018,Southend,Rochdale,0,0
+02.09.2017,2018,Walsall,Plymouth,2,1
+26.08.2017,2018,AFC Wimbledon,Doncaster,2,0
+26.08.2017,2018,Blackburn,MK Dons,4,1
+26.08.2017,2018,Blackpool,Oldham,2,1
+26.08.2017,2018,Bristol Rovers,Fleetwood,3,1
+26.08.2017,2018,Gillingham,Southend,3,3
+26.08.2017,2018,Northampton,Peterborough,1,4
+26.08.2017,2018,Oxford Utd,Shrewsbury,1,1
+26.08.2017,2018,Plymouth,Scunthorpe,0,4
+26.08.2017,2018,Rochdale,Bury,0,0
+26.08.2017,2018,Rotherham,Charlton,0,2
+26.08.2017,2018,Walsall,Bradford City,3,3
+26.08.2017,2018,Wigan,Portsmouth,1,1
+19.08.2017,2018,Bradford City,Blackburn,0,1
+19.08.2017,2018,Bury,Bristol Rovers,2,3
+19.08.2017,2018,Charlton,Northampton,4,1
+19.08.2017,2018,Doncaster,Blackpool,3,3
+19.08.2017,2018,Fleetwood,AFC Wimbledon,2,0
+19.08.2017,2018,MK Dons,Gillingham,1,0
+19.08.2017,2018,Oldham,Wigan,0,2
+19.08.2017,2018,Peterborough,Rotherham,2,1
+19.08.2017,2018,Portsmouth,Walsall,1,1
+19.08.2017,2018,Scunthorpe,Oxford Utd,1,0
+19.08.2017,2018,Shrewsbury,Rochdale,3,2
+19.08.2017,2018,Southend,Plymouth,1,1
+13.08.2017,2018,Wigan,Bury,4,1
+12.08.2017,2018,AFC Wimbledon,Shrewsbury,0,1
+12.08.2017,2018,Blackburn,Doncaster,1,3
+12.08.2017,2018,Blackpool,MK Dons,1,0
+12.08.2017,2018,Bristol Rovers,Peterborough,1,4
+12.08.2017,2018,Gillingham,Bradford City,0,1
+12.08.2017,2018,Northampton,Fleetwood,0,1
+12.08.2017,2018,Oxford Utd,Portsmouth,3,0
+12.08.2017,2018,Plymouth,Charlton,2,0
+12.08.2017,2018,Rochdale,Scunthorpe,1,1
+12.08.2017,2018,Rotherham,Southend,5,0
+12.08.2017,2018,Walsall,Oldham,2,1
+05.08.2017,2018,Bradford City,Blackpool,2,1
+05.08.2017,2018,Bury,Walsall,1,0
+05.08.2017,2018,Charlton,Bristol Rovers,1,0
+05.08.2017,2018,Doncaster,Gillingham,0,0
+05.08.2017,2018,Fleetwood,Rotherham,2,0
+05.08.2017,2018,MK Dons,Wigan,0,1
+05.08.2017,2018,Oldham,Oxford Utd,0,2
+05.08.2017,2018,Peterborough,Plymouth,2,1
+05.08.2017,2018,Portsmouth,Rochdale,2,0
+05.08.2017,2018,Scunthorpe,AFC Wimbledon,1,1
+05.08.2017,2018,Shrewsbury,Northampton,1,0
+05.08.2017,2018,Southend,Blackburn,2,1

@@ -1,0 +1,265 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+03.12.2005,2005,Avispa Fukuoka,Vegalta Sendai,1,1
+03.12.2005,2005,Kyoto,Kofu,1,2
+03.12.2005,2005,Montedio Yamagata,Sagan Tosu,1,0
+03.12.2005,2005,Sapporo,Kusatsu,2,1
+03.12.2005,2005,Tokushima,Mito,0,1
+03.12.2005,2005,Yokohama,Shonan,1,4
+26.11.2005,2005,Kofu,Avispa Fukuoka,0,5
+26.11.2005,2005,Kusatsu,Yokohama,1,3
+26.11.2005,2005,Mito,Montedio Yamagata,0,1
+26.11.2005,2005,Sagan Tosu,Sapporo,0,2
+26.11.2005,2005,Shonan,Tokushima,1,2
+26.11.2005,2005,Vegalta Sendai,Kyoto,0,1
+23.11.2005,2005,Avispa Fukuoka,Tokushima,0,0
+23.11.2005,2005,Kyoto,Shonan,4,0
+23.11.2005,2005,Montedio Yamagata,Kusatsu,4,0
+23.11.2005,2005,Sapporo,Kofu,2,4
+23.11.2005,2005,Vegalta Sendai,Mito,3,0
+23.11.2005,2005,Yokohama,Sagan Tosu,0,1
+19.11.2005,2005,Kofu,Montedio Yamagata,1,1
+19.11.2005,2005,Kusatsu,Avispa Fukuoka,0,2
+19.11.2005,2005,Sagan Tosu,Mito,1,2
+19.11.2005,2005,Sapporo,Kyoto,3,3
+19.11.2005,2005,Shonan,Vegalta Sendai,1,1
+19.11.2005,2005,Tokushima,Yokohama,1,3
+13.11.2005,2005,Avispa Fukuoka,Sapporo,3,0
+13.11.2005,2005,Kyoto,Yokohama,2,1
+13.11.2005,2005,Mito,Kofu,3,0
+13.11.2005,2005,Montedio Yamagata,Tokushima,1,3
+13.11.2005,2005,Shonan,Sagan Tosu,2,0
+13.11.2005,2005,Vegalta Sendai,Kusatsu,1,0
+06.11.2005,2005,Kofu,Shonan,5,2
+06.11.2005,2005,Kusatsu,Kyoto,0,2
+06.11.2005,2005,Montedio Yamagata,Vegalta Sendai,0,2
+06.11.2005,2005,Sagan Tosu,Tokushima,3,3
+06.11.2005,2005,Sapporo,Mito,1,1
+06.11.2005,2005,Yokohama,Avispa Fukuoka,3,1
+30.10.2005,2005,Sagan Tosu,Kofu,1,2
+29.10.2005,2005,Kyoto,Avispa Fukuoka,3,0
+29.10.2005,2005,Mito,Yokohama,1,0
+29.10.2005,2005,Shonan,Montedio Yamagata,2,0
+29.10.2005,2005,Tokushima,Kusatsu,3,2
+29.10.2005,2005,Vegalta Sendai,Sapporo,2,2
+23.10.2005,2005,Avispa Fukuoka,Sagan Tosu,4,1
+22.10.2005,2005,Kofu,Tokushima,5,0
+22.10.2005,2005,Kusatsu,Shonan,0,0
+22.10.2005,2005,Kyoto,Mito,3,1
+22.10.2005,2005,Sapporo,Montedio Yamagata,3,1
+22.10.2005,2005,Yokohama,Vegalta Sendai,1,2
+15.10.2005,2005,Mito,Avispa Fukuoka,0,3
+15.10.2005,2005,Montedio Yamagata,Yokohama,2,2
+15.10.2005,2005,Sagan Tosu,Kusatsu,4,1
+15.10.2005,2005,Shonan,Sapporo,0,0
+15.10.2005,2005,Tokushima,Kyoto,1,5
+15.10.2005,2005,Vegalta Sendai,Kofu,1,0
+05.10.2005,2005,Avispa Fukuoka,Montedio Yamagata,0,2
+05.10.2005,2005,Kusatsu,Kofu,1,2
+05.10.2005,2005,Kyoto,Sagan Tosu,0,1
+05.10.2005,2005,Mito,Shonan,0,1
+05.10.2005,2005,Tokushima,Vegalta Sendai,2,4
+05.10.2005,2005,Yokohama,Sapporo,1,1
+01.10.2005,2005,Kofu,Yokohama,0,0
+01.10.2005,2005,Kusatsu,Mito,0,0
+01.10.2005,2005,Montedio Yamagata,Kyoto,0,3
+01.10.2005,2005,Sagan Tosu,Vegalta Sendai,2,0
+01.10.2005,2005,Sapporo,Tokushima,2,0
+30.09.2005,2005,Shonan,Avispa Fukuoka,1,2
+24.09.2005,2005,Avispa Fukuoka,Kofu,2,2
+24.09.2005,2005,Kyoto,Sapporo,4,0
+24.09.2005,2005,Tokushima,Montedio Yamagata,2,1
+24.09.2005,2005,Vegalta Sendai,Shonan,2,0
+24.09.2005,2005,Yokohama,Kusatsu,1,0
+23.09.2005,2005,Mito,Sagan Tosu,1,0
+18.09.2005,2005,Sapporo,Avispa Fukuoka,1,3
+17.09.2005,2005,Kofu,Mito,2,2
+17.09.2005,2005,Kusatsu,Vegalta Sendai,0,2
+17.09.2005,2005,Sagan Tosu,Montedio Yamagata,1,2
+17.09.2005,2005,Shonan,Kyoto,0,0
+17.09.2005,2005,Yokohama,Tokushima,2,3
+14.09.2005,2005,Montedio Yamagata,Sapporo,1,0
+11.09.2005,2005,Montedio Yamagata,Shonan,1,1
+10.09.2005,2005,Avispa Fukuoka,Yokohama,3,0
+10.09.2005,2005,Kyoto,Kusatsu,6,0
+10.09.2005,2005,Mito,Vegalta Sendai,0,2
+10.09.2005,2005,Sapporo,Sagan Tosu,0,3
+10.09.2005,2005,Tokushima,Kofu,1,3
+04.09.2005,2005,Kofu,Sapporo,0,1
+04.09.2005,2005,Kusatsu,Tokushima,1,0
+04.09.2005,2005,Mito,Kyoto,1,1
+04.09.2005,2005,Sagan Tosu,Avispa Fukuoka,1,1
+04.09.2005,2005,Shonan,Yokohama,1,2
+04.09.2005,2005,Vegalta Sendai,Montedio Yamagata,0,0
+31.08.2005,2005,Avispa Fukuoka,Kusatsu,1,0
+31.08.2005,2005,Kofu,Sagan Tosu,1,1
+31.08.2005,2005,Montedio Yamagata,Mito,3,0
+31.08.2005,2005,Sapporo,Shonan,2,0
+31.08.2005,2005,Vegalta Sendai,Tokushima,2,2
+31.08.2005,2005,Yokohama,Kyoto,1,1
+27.08.2005,2005,Kyoto,Vegalta Sendai,3,1
+27.08.2005,2005,Sagan Tosu,Shonan,1,2
+27.08.2005,2005,Tokushima,Avispa Fukuoka,2,0
+27.08.2005,2005,Yokohama,Kofu,3,4
+26.08.2005,2005,Kusatsu,Montedio Yamagata,0,0
+26.08.2005,2005,Mito,Sapporo,1,0
+20.08.2005,2005,Avispa Fukuoka,Kyoto,2,1
+20.08.2005,2005,Kofu,Kusatsu,1,0
+20.08.2005,2005,Shonan,Mito,1,1
+20.08.2005,2005,Tokushima,Sagan Tosu,2,1
+20.08.2005,2005,Vegalta Sendai,Yokohama,0,0
+13.08.2005,2005,Kyoto,Tokushima,2,0
+13.08.2005,2005,Mito,Kusatsu,1,1
+13.08.2005,2005,Montedio Yamagata,Avispa Fukuoka,1,1
+13.08.2005,2005,Sagan Tosu,Yokohama,4,1
+13.08.2005,2005,Sapporo,Vegalta Sendai,2,1
+13.08.2005,2005,Shonan,Kofu,1,1
+06.08.2005,2005,Avispa Fukuoka,Mito,3,0
+06.08.2005,2005,Kofu,Kyoto,1,2
+06.08.2005,2005,Kusatsu,Sapporo,1,2
+06.08.2005,2005,Tokushima,Shonan,3,1
+06.08.2005,2005,Vegalta Sendai,Sagan Tosu,1,0
+06.08.2005,2005,Yokohama,Montedio Yamagata,1,2
+03.08.2005,2005,Mito,Tokushima,1,1
+03.08.2005,2005,Montedio Yamagata,Kofu,1,2
+03.08.2005,2005,Sagan Tosu,Kyoto,3,2
+03.08.2005,2005,Sapporo,Yokohama,1,2
+03.08.2005,2005,Shonan,Kusatsu,1,0
+03.08.2005,2005,Vegalta Sendai,Avispa Fukuoka,2,2
+30.07.2005,2005,Avispa Fukuoka,Shonan,2,0
+30.07.2005,2005,Kofu,Vegalta Sendai,2,1
+30.07.2005,2005,Kyoto,Montedio Yamagata,0,1
+30.07.2005,2005,Tokushima,Sapporo,1,1
+30.07.2005,2005,Yokohama,Mito,1,0
+29.07.2005,2005,Kusatsu,Sagan Tosu,1,0
+17.07.2005,2005,Mito,Kofu,1,0
+17.07.2005,2005,Vegalta Sendai,Kusatsu,4,0
+16.07.2005,2005,Avispa Fukuoka,Sagan Tosu,3,2
+16.07.2005,2005,Montedio Yamagata,Tokushima,2,2
+16.07.2005,2005,Sapporo,Kyoto,0,1
+16.07.2005,2005,Yokohama,Shonan,0,0
+13.07.2005,2005,Kofu,Yokohama,0,1
+13.07.2005,2005,Kusatsu,Avispa Fukuoka,1,2
+13.07.2005,2005,Kyoto,Mito,1,1
+13.07.2005,2005,Sagan Tosu,Sapporo,0,1
+13.07.2005,2005,Shonan,Montedio Yamagata,2,1
+13.07.2005,2005,Tokushima,Vegalta Sendai,3,3
+09.07.2005,2005,Avispa Fukuoka,Tokushima,3,1
+09.07.2005,2005,Montedio Yamagata,Kusatsu,1,1
+09.07.2005,2005,Sapporo,Kofu,3,1
+09.07.2005,2005,Vegalta Sendai,Kyoto,3,1
+09.07.2005,2005,Yokohama,Sagan Tosu,2,2
+08.07.2005,2005,Mito,Shonan,4,1
+02.07.2005,2005,Kofu,Avispa Fukuoka,2,1
+02.07.2005,2005,Kyoto,Yokohama,1,0
+02.07.2005,2005,Sagan Tosu,Mito,0,1
+02.07.2005,2005,Sapporo,Montedio Yamagata,0,2
+02.07.2005,2005,Shonan,Vegalta Sendai,1,0
+02.07.2005,2005,Tokushima,Kusatsu,2,1
+25.06.2005,2005,Kusatsu,Shonan,1,0
+25.06.2005,2005,Kyoto,Kofu,3,2
+25.06.2005,2005,Montedio Yamagata,Vegalta Sendai,0,0
+25.06.2005,2005,Sagan Tosu,Tokushima,1,1
+25.06.2005,2005,Yokohama,Sapporo,1,2
+24.06.2005,2005,Mito,Avispa Fukuoka,0,0
+18.06.2005,2005,Avispa Fukuoka,Sapporo,0,3
+18.06.2005,2005,Kusatsu,Kofu,1,2
+18.06.2005,2005,Montedio Yamagata,Yokohama,1,1
+18.06.2005,2005,Shonan,Sagan Tosu,4,3
+18.06.2005,2005,Tokushima,Kyoto,1,2
+18.06.2005,2005,Vegalta Sendai,Mito,1,0
+12.06.2005,2005,Mito,Montedio Yamagata,1,2
+11.06.2005,2005,Kofu,Shonan,2,2
+11.06.2005,2005,Kyoto,Avispa Fukuoka,3,2
+11.06.2005,2005,Sagan Tosu,Kusatsu,0,1
+11.06.2005,2005,Sapporo,Tokushima,0,0
+11.06.2005,2005,Yokohama,Vegalta Sendai,1,3
+04.06.2005,2005,Kusatsu,Mito,1,1
+04.06.2005,2005,Montedio Yamagata,Kyoto,1,3
+04.06.2005,2005,Sagan Tosu,Kofu,2,2
+04.06.2005,2005,Shonan,Avispa Fukuoka,0,2
+04.06.2005,2005,Vegalta Sendai,Sapporo,4,0
+03.06.2005,2005,Tokushima,Yokohama,2,0
+28.05.2005,2005,Avispa Fukuoka,Vegalta Sendai,2,1
+28.05.2005,2005,Kofu,Tokushima,5,0
+28.05.2005,2005,Kyoto,Shonan,2,1
+28.05.2005,2005,Montedio Yamagata,Sagan Tosu,1,3
+28.05.2005,2005,Sapporo,Kusatsu,3,1
+27.05.2005,2005,Mito,Yokohama,2,2
+21.05.2005,2005,Kofu,Montedio Yamagata,1,1
+21.05.2005,2005,Kusatsu,Kyoto,0,3
+21.05.2005,2005,Sagan Tosu,Vegalta Sendai,1,0
+21.05.2005,2005,Shonan,Sapporo,0,3
+21.05.2005,2005,Tokushima,Mito,0,1
+21.05.2005,2005,Yokohama,Avispa Fukuoka,1,1
+14.05.2005,2005,Avispa Fukuoka,Montedio Yamagata,0,0
+14.05.2005,2005,Kusatsu,Yokohama,1,1
+14.05.2005,2005,Kyoto,Sagan Tosu,0,3
+14.05.2005,2005,Sapporo,Mito,2,0
+14.05.2005,2005,Shonan,Tokushima,1,1
+14.05.2005,2005,Vegalta Sendai,Kofu,2,1
+08.05.2005,2005,Sagan Tosu,Shonan,0,0
+07.05.2005,2005,Kofu,Kusatsu,4,1
+07.05.2005,2005,Mito,Vegalta Sendai,2,2
+07.05.2005,2005,Montedio Yamagata,Sapporo,3,0
+07.05.2005,2005,Tokushima,Avispa Fukuoka,2,2
+07.05.2005,2005,Yokohama,Kyoto,1,2
+04.05.2005,2005,Avispa Fukuoka,Kofu,0,1
+04.05.2005,2005,Mito,Sagan Tosu,0,1
+04.05.2005,2005,Sapporo,Yokohama,1,0
+04.05.2005,2005,Shonan,Kusatsu,1,1
+04.05.2005,2005,Vegalta Sendai,Montedio Yamagata,0,1
+03.05.2005,2005,Kyoto,Tokushima,1,0
+30.04.2005,2005,Avispa Fukuoka,Kyoto,0,0
+30.04.2005,2005,Kusatsu,Sagan Tosu,0,2
+30.04.2005,2005,Montedio Yamagata,Mito,0,1
+30.04.2005,2005,Tokushima,Sapporo,1,1
+30.04.2005,2005,Vegalta Sendai,Shonan,3,0
+30.04.2005,2005,Yokohama,Kofu,1,3
+23.04.2005,2005,Kofu,Kyoto,0,3
+23.04.2005,2005,Kusatsu,Vegalta Sendai,0,2
+23.04.2005,2005,Sagan Tosu,Montedio Yamagata,0,2
+23.04.2005,2005,Sapporo,Avispa Fukuoka,1,1
+23.04.2005,2005,Shonan,Mito,3,1
+23.04.2005,2005,Yokohama,Tokushima,1,1
+17.04.2005,2005,Vegalta Sendai,Sagan Tosu,0,2
+16.04.2005,2005,Avispa Fukuoka,Yokohama,1,0
+16.04.2005,2005,Kyoto,Sapporo,0,0
+16.04.2005,2005,Mito,Kusatsu,1,0
+16.04.2005,2005,Montedio Yamagata,Shonan,1,1
+15.04.2005,2005,Tokushima,Kofu,1,1
+10.04.2005,2005,Kyoto,Vegalta Sendai,1,0
+09.04.2005,2005,Avispa Fukuoka,Kusatsu,4,2
+09.04.2005,2005,Kofu,Sagan Tosu,3,1
+09.04.2005,2005,Sapporo,Shonan,0,0
+09.04.2005,2005,Tokushima,Montedio Yamagata,1,1
+09.04.2005,2005,Yokohama,Mito,0,0
+03.04.2005,2005,Mito,Sapporo,2,0
+02.04.2005,2005,Kusatsu,Tokushima,2,0
+02.04.2005,2005,Montedio Yamagata,Avispa Fukuoka,0,0
+02.04.2005,2005,Sagan Tosu,Kyoto,2,3
+02.04.2005,2005,Shonan,Kofu,1,0
+02.04.2005,2005,Vegalta Sendai,Yokohama,3,4
+27.03.2005,2005,Kofu,Mito,4,1
+26.03.2005,2005,Avispa Fukuoka,Shonan,0,0
+26.03.2005,2005,Kyoto,Montedio Yamagata,2,1
+26.03.2005,2005,Sapporo,Vegalta Sendai,0,3
+26.03.2005,2005,Tokushima,Sagan Tosu,2,2
+26.03.2005,2005,Yokohama,Kusatsu,1,0
+20.03.2005,2005,Vegalta Sendai,Avispa Fukuoka,0,2
+19.03.2005,2005,Kusatsu,Sapporo,1,4
+19.03.2005,2005,Mito,Tokushima,1,2
+19.03.2005,2005,Montedio Yamagata,Kofu,3,1
+19.03.2005,2005,Sagan Tosu,Yokohama,0,0
+19.03.2005,2005,Shonan,Kyoto,1,2
+13.03.2005,2005,Sapporo,Sagan Tosu,0,1
+12.03.2005,2005,Avispa Fukuoka,Mito,4,1
+12.03.2005,2005,Kofu,Vegalta Sendai,1,1
+12.03.2005,2005,Kyoto,Kusatsu,3,0
+12.03.2005,2005,Tokushima,Shonan,2,3
+12.03.2005,2005,Yokohama,Montedio Yamagata,1,1
+05.03.2005,2005,Kofu,Sapporo,2,2
+05.03.2005,2005,Kusatsu,Montedio Yamagata,0,3
+05.03.2005,2005,Mito,Kyoto,2,3
+05.03.2005,2005,Sagan Tosu,Avispa Fukuoka,1,1
+05.03.2005,2005,Shonan,Yokohama,2,0
+05.03.2005,2005,Vegalta Sendai,Tokushima,0,3

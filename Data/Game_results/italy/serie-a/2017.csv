@@ -1,0 +1,381 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+20.05.2018,2017,AC Milan,Fiorentina,5,1
+20.05.2018,2017,Cagliari,Atalanta,1,0
+20.05.2018,2017,Chievo,Benevento,1,0
+20.05.2018,2017,Genoa,Torino,1,2
+20.05.2018,2017,Lazio,Inter,2,3
+20.05.2018,2017,Napoli,Crotone,2,1
+20.05.2018,2017,Sassuolo,AS Roma,0,1
+20.05.2018,2017,Spal,Sampdoria,3,1
+20.05.2018,2017,Udinese,Bologna,1,0
+19.05.2018,2017,Juventus,Verona,2,1
+13.05.2018,2017,AS Roma,Juventus,0,0
+13.05.2018,2017,Atalanta,AC Milan,1,1
+13.05.2018,2017,Bologna,Chievo,1,2
+13.05.2018,2017,Crotone,Lazio,2,2
+13.05.2018,2017,Fiorentina,Cagliari,0,1
+13.05.2018,2017,Sampdoria,Napoli,0,2
+13.05.2018,2017,Torino,Spal,2,1
+13.05.2018,2017,Verona,Udinese,0,1
+12.05.2018,2017,Benevento,Genoa,1,0
+12.05.2018,2017,Inter,Sassuolo,1,2
+06.05.2018,2017,Cagliari,AS Roma,0,1
+06.05.2018,2017,Chievo,Crotone,2,1
+06.05.2018,2017,Genoa,Fiorentina,2,3
+06.05.2018,2017,Lazio,Atalanta,1,1
+06.05.2018,2017,Napoli,Torino,2,2
+06.05.2018,2017,Sassuolo,Sampdoria,1,0
+06.05.2018,2017,Spal,Benevento,2,0
+06.05.2018,2017,Udinese,Inter,0,4
+05.05.2018,2017,AC Milan,Verona,4,1
+05.05.2018,2017,Juventus,Bologna,3,1
+29.04.2018,2017,Atalanta,Genoa,3,1
+29.04.2018,2017,Benevento,Udinese,3,3
+29.04.2018,2017,Bologna,AC Milan,1,2
+29.04.2018,2017,Crotone,Sassuolo,4,1
+29.04.2018,2017,Fiorentina,Napoli,3,0
+29.04.2018,2017,Sampdoria,Cagliari,4,1
+29.04.2018,2017,Torino,Lazio,0,1
+29.04.2018,2017,Verona,Spal,1,3
+28.04.2018,2017,AS Roma,Chievo,4,1
+28.04.2018,2017,Inter,Juventus,2,3
+23.04.2018,2017,Genoa,Verona,3,1
+22.04.2018,2017,Atalanta,Torino,2,1
+22.04.2018,2017,Cagliari,Bologna,0,0
+22.04.2018,2017,Chievo,Inter,1,2
+22.04.2018,2017,Juventus,Napoli,0,1
+22.04.2018,2017,Lazio,Sampdoria,4,0
+22.04.2018,2017,Udinese,Crotone,1,2
+21.04.2018,2017,AC Milan,Benevento,0,1
+21.04.2018,2017,Sassuolo,Fiorentina,1,0
+21.04.2018,2017,Spal,AS Roma,0,3
+18.04.2018,2017,AS Roma,Genoa,2,1
+18.04.2018,2017,Benevento,Atalanta,0,3
+18.04.2018,2017,Crotone,Juventus,1,1
+18.04.2018,2017,Fiorentina,Lazio,3,4
+18.04.2018,2017,Napoli,Udinese,4,2
+18.04.2018,2017,Sampdoria,Bologna,1,0
+18.04.2018,2017,Spal,Chievo,0,0
+18.04.2018,2017,Torino,AC Milan,1,1
+18.04.2018,2017,Verona,Sassuolo,0,1
+17.04.2018,2017,Inter,Cagliari,4,0
+15.04.2018,2017,AC Milan,Napoli,0,0
+15.04.2018,2017,Bologna,Verona,2,0
+15.04.2018,2017,Fiorentina,Spal,0,0
+15.04.2018,2017,Juventus,Sampdoria,3,0
+15.04.2018,2017,Lazio,AS Roma,0,0
+15.04.2018,2017,Sassuolo,Benevento,2,2
+14.04.2018,2017,Atalanta,Inter,0,0
+14.04.2018,2017,Cagliari,Udinese,2,1
+14.04.2018,2017,Chievo,Torino,0,0
+14.04.2018,2017,Genoa,Crotone,1,0
+08.04.2018,2017,AC Milan,Sassuolo,1,1
+08.04.2018,2017,Crotone,Bologna,1,0
+08.04.2018,2017,Napoli,Chievo,2,1
+08.04.2018,2017,Torino,Inter,1,0
+08.04.2018,2017,Udinese,Lazio,1,2
+08.04.2018,2017,Verona,Cagliari,1,0
+07.04.2018,2017,AS Roma,Fiorentina,0,2
+07.04.2018,2017,Benevento,Juventus,2,4
+07.04.2018,2017,Sampdoria,Genoa,0,0
+07.04.2018,2017,Spal,Atalanta,1,1
+04.04.2018,2017,AC Milan,Inter,0,0
+04.04.2018,2017,Benevento,Verona,3,0
+04.04.2018,2017,Chievo,Sassuolo,1,1
+04.04.2018,2017,Torino,Crotone,4,1
+03.04.2018,2017,Atalanta,Sampdoria,1,2
+03.04.2018,2017,Genoa,Cagliari,2,1
+03.04.2018,2017,Udinese,Fiorentina,0,2
+31.03.2018,2017,Atalanta,Udinese,2,0
+31.03.2018,2017,Bologna,AS Roma,1,1
+31.03.2018,2017,Cagliari,Torino,0,4
+31.03.2018,2017,Chievo,Sampdoria,2,1
+31.03.2018,2017,Fiorentina,Crotone,2,0
+31.03.2018,2017,Genoa,Spal,1,1
+31.03.2018,2017,Inter,Verona,3,0
+31.03.2018,2017,Juventus,AC Milan,3,1
+31.03.2018,2017,Lazio,Benevento,6,2
+31.03.2018,2017,Sassuolo,Napoli,1,1
+18.03.2018,2017,AC Milan,Chievo,3,2
+18.03.2018,2017,Benevento,Cagliari,1,2
+18.03.2018,2017,Crotone,AS Roma,0,2
+18.03.2018,2017,Lazio,Bologna,1,1
+18.03.2018,2017,Napoli,Genoa,1,0
+18.03.2018,2017,Sampdoria,Inter,0,5
+18.03.2018,2017,Torino,Fiorentina,1,2
+18.03.2018,2017,Verona,Atalanta,0,5
+17.03.2018,2017,Spal,Juventus,0,0
+17.03.2018,2017,Udinese,Sassuolo,1,2
+14.03.2018,2017,Juventus,Atalanta,2,0
+11.03.2018,2017,Bologna,Atalanta,0,1
+11.03.2018,2017,Cagliari,Lazio,2,2
+11.03.2018,2017,Crotone,Sampdoria,4,1
+11.03.2018,2017,Fiorentina,Benevento,1,0
+11.03.2018,2017,Genoa,AC Milan,0,1
+11.03.2018,2017,Inter,Napoli,0,0
+11.03.2018,2017,Juventus,Udinese,2,0
+11.03.2018,2017,Sassuolo,Spal,1,1
+10.03.2018,2017,Verona,Chievo,1,0
+09.03.2018,2017,AS Roma,Torino,3,0
+03.03.2018,2017,Lazio,Juventus,0,1
+03.03.2018,2017,Napoli,AS Roma,2,4
+03.03.2018,2017,Spal,Bologna,1,0
+26.02.2018,2017,Cagliari,Napoli,0,5
+25.02.2018,2017,AS Roma,AC Milan,0,2
+25.02.2018,2017,Crotone,Spal,2,3
+25.02.2018,2017,Fiorentina,Chievo,1,0
+25.02.2018,2017,Sampdoria,Udinese,2,1
+25.02.2018,2017,Sassuolo,Lazio,0,3
+25.02.2018,2017,Verona,Torino,2,1
+24.02.2018,2017,Bologna,Genoa,2,0
+24.02.2018,2017,Inter,Benevento,2,0
+19.02.2018,2017,Lazio,Verona,2,0
+18.02.2018,2017,AC Milan,Sampdoria,1,0
+18.02.2018,2017,Atalanta,Fiorentina,1,1
+18.02.2018,2017,Benevento,Crotone,3,2
+18.02.2018,2017,Bologna,Sassuolo,2,1
+18.02.2018,2017,Napoli,Spal,1,0
+18.02.2018,2017,Torino,Juventus,0,1
+17.02.2018,2017,Chievo,Cagliari,2,1
+17.02.2018,2017,Genoa,Inter,2,0
+17.02.2018,2017,Udinese,AS Roma,0,2
+11.02.2018,2017,AS Roma,Benevento,5,2
+11.02.2018,2017,Chievo,Genoa,0,1
+11.02.2018,2017,Inter,Bologna,2,1
+11.02.2018,2017,Sampdoria,Verona,2,0
+11.02.2018,2017,Sassuolo,Cagliari,0,0
+11.02.2018,2017,Torino,Udinese,2,0
+10.02.2018,2017,Crotone,Atalanta,1,1
+10.02.2018,2017,Napoli,Lazio,4,1
+10.02.2018,2017,Spal,AC Milan,0,4
+09.02.2018,2017,Fiorentina,Juventus,0,2
+05.02.2018,2017,Lazio,Genoa,1,2
+04.02.2018,2017,Atalanta,Chievo,1,0
+04.02.2018,2017,Benevento,Napoli,0,2
+04.02.2018,2017,Bologna,Fiorentina,1,2
+04.02.2018,2017,Cagliari,Spal,2,0
+04.02.2018,2017,Juventus,Sassuolo,7,0
+04.02.2018,2017,Udinese,AC Milan,1,1
+04.02.2018,2017,Verona,AS Roma,0,1
+03.02.2018,2017,Inter,Crotone,1,1
+03.02.2018,2017,Sampdoria,Torino,1,1
+28.01.2018,2017,AC Milan,Lazio,2,1
+28.01.2018,2017,AS Roma,Sampdoria,0,1
+28.01.2018,2017,Crotone,Cagliari,1,1
+28.01.2018,2017,Fiorentina,Verona,1,4
+28.01.2018,2017,Genoa,Udinese,0,1
+28.01.2018,2017,Napoli,Bologna,3,1
+28.01.2018,2017,Spal,Inter,1,1
+28.01.2018,2017,Torino,Benevento,3,0
+27.01.2018,2017,Chievo,Juventus,0,2
+27.01.2018,2017,Sassuolo,Atalanta,0,3
+24.01.2018,2017,Lazio,Udinese,3,0
+24.01.2018,2017,Sampdoria,AS Roma,1,1
+22.01.2018,2017,Juventus,Genoa,1,0
+21.01.2018,2017,Atalanta,Napoli,0,1
+21.01.2018,2017,Bologna,Benevento,3,0
+21.01.2018,2017,Cagliari,AC Milan,1,2
+21.01.2018,2017,Inter,AS Roma,1,1
+21.01.2018,2017,Lazio,Chievo,5,1
+21.01.2018,2017,Sampdoria,Fiorentina,3,1
+21.01.2018,2017,Sassuolo,Torino,1,1
+21.01.2018,2017,Udinese,Spal,1,1
+21.01.2018,2017,Verona,Crotone,0,3
+06.01.2018,2017,AC Milan,Crotone,1,0
+06.01.2018,2017,AS Roma,Atalanta,1,2
+06.01.2018,2017,Benevento,Sampdoria,3,2
+06.01.2018,2017,Cagliari,Juventus,0,1
+06.01.2018,2017,Genoa,Sassuolo,1,0
+06.01.2018,2017,Napoli,Verona,2,0
+06.01.2018,2017,Spal,Lazio,2,5
+06.01.2018,2017,Torino,Bologna,3,0
+05.01.2018,2017,Chievo,Udinese,1,1
+05.01.2018,2017,Fiorentina,Inter,1,1
+30.12.2017,2017,AS Roma,Sassuolo,1,1
+30.12.2017,2017,Atalanta,Cagliari,1,2
+30.12.2017,2017,Benevento,Chievo,1,0
+30.12.2017,2017,Bologna,Udinese,1,2
+30.12.2017,2017,Fiorentina,AC Milan,1,1
+30.12.2017,2017,Inter,Lazio,0,0
+30.12.2017,2017,Sampdoria,Spal,2,0
+30.12.2017,2017,Torino,Genoa,0,0
+30.12.2017,2017,Verona,Juventus,1,3
+29.12.2017,2017,Crotone,Napoli,0,1
+23.12.2017,2017,AC Milan,Atalanta,0,2
+23.12.2017,2017,Genoa,Benevento,1,0
+23.12.2017,2017,Juventus,AS Roma,1,0
+23.12.2017,2017,Lazio,Crotone,4,0
+23.12.2017,2017,Napoli,Sampdoria,3,2
+23.12.2017,2017,Sassuolo,Inter,1,0
+23.12.2017,2017,Spal,Torino,2,2
+23.12.2017,2017,Udinese,Verona,4,0
+22.12.2017,2017,Cagliari,Fiorentina,0,1
+22.12.2017,2017,Chievo,Bologna,2,3
+17.12.2017,2017,Atalanta,Lazio,3,3
+17.12.2017,2017,Benevento,Spal,1,2
+17.12.2017,2017,Bologna,Juventus,0,3
+17.12.2017,2017,Crotone,Chievo,1,0
+17.12.2017,2017,Fiorentina,Genoa,0,0
+17.12.2017,2017,Sampdoria,Sassuolo,0,1
+17.12.2017,2017,Verona,AC Milan,3,0
+16.12.2017,2017,AS Roma,Cagliari,1,0
+16.12.2017,2017,Inter,Udinese,1,3
+16.12.2017,2017,Torino,Napoli,1,3
+12.12.2017,2017,Genoa,Atalanta,1,2
+11.12.2017,2017,Lazio,Torino,1,3
+10.12.2017,2017,AC Milan,Bologna,2,1
+10.12.2017,2017,Chievo,AS Roma,0,0
+10.12.2017,2017,Napoli,Fiorentina,0,0
+10.12.2017,2017,Sassuolo,Crotone,2,1
+10.12.2017,2017,Spal,Verona,2,2
+10.12.2017,2017,Udinese,Benevento,2,0
+09.12.2017,2017,Cagliari,Sampdoria,2,2
+09.12.2017,2017,Juventus,Inter,0,0
+04.12.2017,2017,Crotone,Udinese,0,3
+04.12.2017,2017,Verona,Genoa,0,1
+03.12.2017,2017,Benevento,AC Milan,2,2
+03.12.2017,2017,Bologna,Cagliari,1,1
+03.12.2017,2017,Fiorentina,Sassuolo,3,0
+03.12.2017,2017,Inter,Chievo,5,0
+03.12.2017,2017,Sampdoria,Lazio,1,2
+02.12.2017,2017,Torino,Atalanta,1,1
+01.12.2017,2017,AS Roma,Spal,3,1
+01.12.2017,2017,Napoli,Juventus,0,1
+27.11.2017,2017,Atalanta,Benevento,1,0
+26.11.2017,2017,AC Milan,Torino,0,0
+26.11.2017,2017,Genoa,AS Roma,1,1
+26.11.2017,2017,Juventus,Crotone,3,0
+26.11.2017,2017,Lazio,Fiorentina,1,1
+26.11.2017,2017,Udinese,Napoli,0,1
+25.11.2017,2017,Bologna,Sampdoria,3,0
+25.11.2017,2017,Cagliari,Inter,1,3
+25.11.2017,2017,Chievo,Spal,2,1
+25.11.2017,2017,Sassuolo,Verona,0,2
+20.11.2017,2017,Verona,Bologna,2,3
+19.11.2017,2017,Benevento,Sassuolo,1,2
+19.11.2017,2017,Crotone,Genoa,0,1
+19.11.2017,2017,Inter,Atalanta,2,0
+19.11.2017,2017,Sampdoria,Juventus,3,2
+19.11.2017,2017,Spal,Fiorentina,1,1
+19.11.2017,2017,Torino,Chievo,1,1
+19.11.2017,2017,Udinese,Cagliari,0,1
+18.11.2017,2017,AS Roma,Lazio,2,1
+18.11.2017,2017,Napoli,AC Milan,2,1
+05.11.2017,2017,Atalanta,Spal,1,1
+05.11.2017,2017,Cagliari,Verona,2,1
+05.11.2017,2017,Chievo,Napoli,0,0
+05.11.2017,2017,Fiorentina,AS Roma,2,4
+05.11.2017,2017,Inter,Torino,1,1
+05.11.2017,2017,Juventus,Benevento,2,1
+05.11.2017,2017,Sassuolo,AC Milan,0,2
+04.11.2017,2017,Bologna,Crotone,2,3
+04.11.2017,2017,Genoa,Sampdoria,0,2
+30.10.2017,2017,Verona,Inter,1,2
+29.10.2017,2017,Benevento,Lazio,1,5
+29.10.2017,2017,Crotone,Fiorentina,2,1
+29.10.2017,2017,Napoli,Sassuolo,3,1
+29.10.2017,2017,Sampdoria,Chievo,4,1
+29.10.2017,2017,Spal,Genoa,1,0
+29.10.2017,2017,Torino,Cagliari,2,1
+29.10.2017,2017,Udinese,Atalanta,2,1
+28.10.2017,2017,AC Milan,Juventus,0,2
+28.10.2017,2017,AS Roma,Bologna,1,0
+25.10.2017,2017,AS Roma,Crotone,1,0
+25.10.2017,2017,Atalanta,Verona,3,0
+25.10.2017,2017,Bologna,Lazio,1,2
+25.10.2017,2017,Cagliari,Benevento,2,1
+25.10.2017,2017,Chievo,AC Milan,1,4
+25.10.2017,2017,Fiorentina,Torino,3,0
+25.10.2017,2017,Genoa,Napoli,2,3
+25.10.2017,2017,Juventus,Spal,4,1
+25.10.2017,2017,Sassuolo,Udinese,0,1
+24.10.2017,2017,Inter,Sampdoria,3,2
+22.10.2017,2017,AC Milan,Genoa,0,0
+22.10.2017,2017,Atalanta,Bologna,1,0
+22.10.2017,2017,Benevento,Fiorentina,0,3
+22.10.2017,2017,Chievo,Verona,3,2
+22.10.2017,2017,Lazio,Cagliari,3,0
+22.10.2017,2017,Spal,Sassuolo,0,1
+22.10.2017,2017,Torino,AS Roma,0,1
+22.10.2017,2017,Udinese,Juventus,2,6
+21.10.2017,2017,Napoli,Inter,0,0
+21.10.2017,2017,Sampdoria,Crotone,5,0
+16.10.2017,2017,Verona,Benevento,1,0
+15.10.2017,2017,Bologna,Spal,2,1
+15.10.2017,2017,Cagliari,Genoa,2,3
+15.10.2017,2017,Crotone,Torino,2,2
+15.10.2017,2017,Fiorentina,Udinese,2,1
+15.10.2017,2017,Inter,AC Milan,3,2
+15.10.2017,2017,Sampdoria,Atalanta,3,1
+15.10.2017,2017,Sassuolo,Chievo,0,0
+14.10.2017,2017,AS Roma,Napoli,0,1
+14.10.2017,2017,Juventus,Lazio,1,2
+01.10.2017,2017,AC Milan,AS Roma,0,2
+01.10.2017,2017,Atalanta,Juventus,2,2
+01.10.2017,2017,Benevento,Inter,1,2
+01.10.2017,2017,Chievo,Fiorentina,2,1
+01.10.2017,2017,Lazio,Sassuolo,6,1
+01.10.2017,2017,Napoli,Cagliari,3,0
+01.10.2017,2017,Spal,Crotone,1,1
+01.10.2017,2017,Torino,Verona,2,2
+30.09.2017,2017,Genoa,Bologna,0,1
+30.09.2017,2017,Udinese,Sampdoria,4,0
+24.09.2017,2017,Cagliari,Chievo,0,2
+24.09.2017,2017,Crotone,Benevento,2,0
+24.09.2017,2017,Fiorentina,Atalanta,1,1
+24.09.2017,2017,Inter,Genoa,1,0
+24.09.2017,2017,Sampdoria,AC Milan,2,0
+24.09.2017,2017,Sassuolo,Bologna,0,1
+24.09.2017,2017,Verona,Lazio,0,3
+23.09.2017,2017,AS Roma,Udinese,3,1
+23.09.2017,2017,Juventus,Torino,4,0
+23.09.2017,2017,Spal,Napoli,2,3
+20.09.2017,2017,AC Milan,Spal,2,0
+20.09.2017,2017,Atalanta,Crotone,5,1
+20.09.2017,2017,Benevento,AS Roma,0,4
+20.09.2017,2017,Cagliari,Sassuolo,0,1
+20.09.2017,2017,Genoa,Chievo,1,1
+20.09.2017,2017,Juventus,Fiorentina,1,0
+20.09.2017,2017,Lazio,Napoli,1,4
+20.09.2017,2017,Udinese,Torino,2,3
+20.09.2017,2017,Verona,Sampdoria,0,0
+19.09.2017,2017,Bologna,Inter,1,1
+17.09.2017,2017,AC Milan,Udinese,2,1
+17.09.2017,2017,Chievo,Atalanta,1,1
+17.09.2017,2017,Genoa,Lazio,2,3
+17.09.2017,2017,Napoli,Benevento,6,0
+17.09.2017,2017,Sassuolo,Juventus,1,3
+17.09.2017,2017,Spal,Cagliari,0,2
+17.09.2017,2017,Torino,Sampdoria,2,2
+16.09.2017,2017,AS Roma,Verona,3,0
+16.09.2017,2017,Crotone,Inter,0,2
+16.09.2017,2017,Fiorentina,Bologna,2,1
+10.09.2017,2017,Atalanta,Sassuolo,2,1
+10.09.2017,2017,Benevento,Torino,0,1
+10.09.2017,2017,Bologna,Napoli,0,3
+10.09.2017,2017,Cagliari,Crotone,1,0
+10.09.2017,2017,Inter,Spal,2,0
+10.09.2017,2017,Lazio,AC Milan,4,1
+10.09.2017,2017,Udinese,Genoa,1,0
+10.09.2017,2017,Verona,Fiorentina,0,5
+09.09.2017,2017,Juventus,Chievo,3,0
+27.08.2017,2017,AC Milan,Cagliari,2,1
+27.08.2017,2017,Chievo,Lazio,1,2
+27.08.2017,2017,Crotone,Verona,0,0
+27.08.2017,2017,Fiorentina,Sampdoria,1,2
+27.08.2017,2017,Napoli,Atalanta,3,1
+27.08.2017,2017,Spal,Udinese,3,2
+27.08.2017,2017,Torino,Sassuolo,3,0
+26.08.2017,2017,AS Roma,Inter,1,3
+26.08.2017,2017,Benevento,Bologna,0,1
+26.08.2017,2017,Genoa,Juventus,2,4
+20.08.2017,2017,Atalanta,AS Roma,0,1
+20.08.2017,2017,Bologna,Torino,1,1
+20.08.2017,2017,Crotone,AC Milan,0,3
+20.08.2017,2017,Inter,Fiorentina,3,0
+20.08.2017,2017,Lazio,Spal,0,0
+20.08.2017,2017,Sampdoria,Benevento,2,1
+20.08.2017,2017,Sassuolo,Genoa,0,0
+20.08.2017,2017,Udinese,Chievo,1,2
+19.08.2017,2017,Juventus,Cagliari,3,0
+19.08.2017,2017,Verona,Napoli,1,3

@@ -1,0 +1,1395 @@
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-09-22 14:22:44"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.l09GJq"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:44275"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "0c7f7e2d8566b68d1d4fea77353d5b90"
+
+$id
+[1] "0c7f7e2d8566b68d1d4fea77353d5b90"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 0 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-09-22 14:23:14"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.AGEqoU"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:34089"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "9d020b89ead57bc5aa7e420bb9b398db"
+
+$id
+[1] "9d020b89ead57bc5aa7e420bb9b398db"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], New team names found. Add them in the function, Over_Under_Score_Odds_Manipulation."
+[1] "[New team names to be edited]--------------------"
+[1] "Coventry City"
+[1] "-------------------------------------------------"
+[1] ""
+[1] "[Reference]--------------------------------------"
+ [1] "Aston Villa"     "Barnsley"        "Birmingham"     
+ [4] "Blackburn"       "Blackpool"       "Bolton"         
+ [7] "Bournemouth"     "Bradford City"   "Brentford"      
+[10] "Brighton"        "Bristol City"    "Burnley"        
+[13] "Burton"          "Bury"            "Cardiff"        
+[16] "Charlton"        "Colchester"      "Coventry"       
+[19] "Crewe"           "Crystal Palace"  "Derby"          
+[22] "Doncaster"       "Fulham"          "Gillingham"     
+[25] "Grimsby"         "Huddersfield"    "Hull"           
+[28] "Ipswich"         "Leeds"           "Leicester"      
+[31] "Luton"           "Manchester City" "Middlesbrough"  
+[34] "Millwall"        "MK Dons"         "Newcastle"      
+[37] "Norwich"         "Nottingham"      "Oxford Utd"     
+[40] "Peterborough"    "Plymouth"        "Port Vale"      
+[43] "Portsmouth"      "Preston"         "QPR"            
+[46] "Reading"         "Rotherham"       "Scunthorpe"     
+[49] "Sheffield Utd"   "Sheffield Wed"   "Southampton"    
+[52] "Southend"        "Stockport"       "Stoke"          
+[55] "Sunderland"      "Swansea"         "Swindon"        
+[58] "Tranmere"        "Walsall"         "Watford"        
+[61] "West Brom"       "West Ham"        "Wigan"          
+[64] "Wimbledon FC"    "Wolves"          "Wycombe"        
+[67] "Yeovil"         
+[1] "-------------------------------------------------"
+[1] "Country : [england], League : [championship], 0 new game(s) found to add."
+[1] "Country : [england], League : [championship], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2020-09-22 14:23:35"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.lN5o4c"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:46325"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "e018ff8cc4c1f0cc9d680c5ad23db032"
+
+$id
+[1] "e018ff8cc4c1f0cc9d680c5ad23db032"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-one], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2020-09-22 14:23:54"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.vujMJy"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:42333"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "bf0eb05c4827f1280d9f6141a9ebbca5"
+
+$id
+[1] "bf0eb05c4827f1280d9f6141a9ebbca5"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-two], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-09-22 17:24:29"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.aeLQM7"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:41623"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "ad60840acf9335ba0fa60eecdafec891"
+
+$id
+[1] "ad60840acf9335ba0fa60eecdafec891"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 0 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-09-22 17:24:48"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.CrDT2n"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:36581"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "e9a3b954349d6268e69c0e2c9e010dc5"
+
+$id
+[1] "e9a3b954349d6268e69c0e2c9e010dc5"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], New team names found. Add them in the function, Over_Under_Score_Odds_Manipulation."
+[1] "[New team names to be edited]--------------------"
+[1] "Coventry City"
+[1] "-------------------------------------------------"
+[1] ""
+[1] "[Reference]--------------------------------------"
+ [1] "Aston Villa"     "Barnsley"       
+ [3] "Birmingham"      "Blackburn"      
+ [5] "Blackpool"       "Bolton"         
+ [7] "Bournemouth"     "Bradford City"  
+ [9] "Brentford"       "Brighton"       
+[11] "Bristol City"    "Burnley"        
+[13] "Burton"          "Bury"           
+[15] "Cardiff"         "Charlton"       
+[17] "Colchester"      "Coventry"       
+[19] "Crewe"           "Crystal Palace" 
+[21] "Derby"           "Doncaster"      
+[23] "Fulham"          "Gillingham"     
+[25] "Grimsby"         "Huddersfield"   
+[27] "Hull"            "Ipswich"        
+[29] "Leeds"           "Leicester"      
+[31] "Luton"           "Manchester City"
+[33] "Middlesbrough"   "Millwall"       
+[35] "MK Dons"         "Newcastle"      
+[37] "Norwich"         "Nottingham"     
+[39] "Oxford Utd"      "Peterborough"   
+[41] "Plymouth"        "Port Vale"      
+[43] "Portsmouth"      "Preston"        
+[45] "QPR"             "Reading"        
+[47] "Rotherham"       "Scunthorpe"     
+[49] "Sheffield Utd"   "Sheffield Wed"  
+[51] "Southampton"     "Southend"       
+[53] "Stockport"       "Stoke"          
+[55] "Sunderland"      "Swansea"        
+[57] "Swindon"         "Tranmere"       
+[59] "Walsall"         "Watford"        
+[61] "West Brom"       "West Ham"       
+[63] "Wigan"           "Wimbledon FC"   
+[65] "Wolves"          "Wycombe"        
+[67] "Yeovil"         
+[1] "-------------------------------------------------"
+[1] "Country : [england], League : [championship], 1 new game(s) found to add."
+[1] "Country : [england], League : [championship], calculate kelly scores"
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], Progress : 1 out of 1"
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2020-09-22 17:25:27"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.HF3UWK"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:36625"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "e63cedb694838cec2b3d1cc11e4a55aa"
+
+$id
+[1] "e63cedb694838cec2b3d1cc11e4a55aa"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-one], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2020-09-22 17:25:46"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.eQDxgy"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:44679"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "093b5630d4dc1d87030c8634d72fc97b"
+
+$id
+[1] "093b5630d4dc1d87030c8634d72fc97b"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-two], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-09-22 20:26:16"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.5ibXpu"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:42059"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "d81e87b701b26ee92bf8f4613934e0e3"
+
+$id
+[1] "d81e87b701b26ee92bf8f4613934e0e3"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 0 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-09-22 20:26:43"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.ompcew"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:38219"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "1659d77c180386a4129df8e0e3cf7ea0"
+
+$id
+[1] "1659d77c180386a4129df8e0e3cf7ea0"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], New team names found. Add them in the function, Over_Under_Score_Odds_Manipulation."
+[1] "[New team names to be edited]--------------------"
+[1] "Coventry City"       "Queens Park Rangers"
+[1] "-------------------------------------------------"
+[1] ""
+[1] "[Reference]--------------------------------------"
+ [1] "Aston Villa"     "Barnsley"       
+ [3] "Birmingham"      "Blackburn"      
+ [5] "Blackpool"       "Bolton"         
+ [7] "Bournemouth"     "Bradford City"  
+ [9] "Brentford"       "Brighton"       
+[11] "Bristol City"    "Burnley"        
+[13] "Burton"          "Bury"           
+[15] "Cardiff"         "Charlton"       
+[17] "Colchester"      "Coventry"       
+[19] "Crewe"           "Crystal Palace" 
+[21] "Derby"           "Doncaster"      
+[23] "Fulham"          "Gillingham"     
+[25] "Grimsby"         "Huddersfield"   
+[27] "Hull"            "Ipswich"        
+[29] "Leeds"           "Leicester"      
+[31] "Luton"           "Manchester City"
+[33] "Middlesbrough"   "Millwall"       
+[35] "MK Dons"         "Newcastle"      
+[37] "Norwich"         "Nottingham"     
+[39] "Oxford Utd"      "Peterborough"   
+[41] "Plymouth"        "Port Vale"      
+[43] "Portsmouth"      "Preston"        
+[45] "QPR"             "Reading"        
+[47] "Rotherham"       "Scunthorpe"     
+[49] "Sheffield Utd"   "Sheffield Wed"  
+[51] "Southampton"     "Southend"       
+[53] "Stockport"       "Stoke"          
+[55] "Sunderland"      "Swansea"        
+[57] "Swindon"         "Tranmere"       
+[59] "Walsall"         "Watford"        
+[61] "West Brom"       "West Ham"       
+[63] "Wigan"           "Wimbledon FC"   
+[65] "Wolves"          "Wycombe"        
+[67] "Yeovil"         
+[1] "-------------------------------------------------"
+[1] "Country : [england], League : [championship], 0 new game(s) found to add."
+[1] "Country : [england], League : [championship], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2020-09-22 20:27:11"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.wYHIvh"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:41749"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "3f0d2d35c13383fb189b99b48b4f966e"
+
+$id
+[1] "3f0d2d35c13383fb189b99b48b4f966e"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-one], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2020-09-22 20:27:33"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.2KA9jl"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:41759"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "7c5f63c9c377c2c8ac40c74ff99de268"
+
+$id
+[1] "7c5f63c9c377c2c8ac40c74ff99de268"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-two], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-09-22 23:28:08"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.fnIAp3"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:35979"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "637973af5d4178ea5b93b8fb2ac7370c"
+
+$id
+[1] "637973af5d4178ea5b93b8fb2ac7370c"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 0 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-09-22 23:28:35"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.WPwOGU"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:33815"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "b4d81cb4abc356ba2de88b7084b894cd"
+
+$id
+[1] "b4d81cb4abc356ba2de88b7084b894cd"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], New team names found. Add them in the function, Over_Under_Score_Odds_Manipulation."
+[1] "[New team names to be edited]--------------------"
+[1] "Coventry City"       "Queens Park Rangers"
+[1] "-------------------------------------------------"
+[1] ""
+[1] "[Reference]--------------------------------------"
+ [1] "Aston Villa"     "Barnsley"       
+ [3] "Birmingham"      "Blackburn"      
+ [5] "Blackpool"       "Bolton"         
+ [7] "Bournemouth"     "Bradford City"  
+ [9] "Brentford"       "Brighton"       
+[11] "Bristol City"    "Burnley"        
+[13] "Burton"          "Bury"           
+[15] "Cardiff"         "Charlton"       
+[17] "Colchester"      "Coventry"       
+[19] "Crewe"           "Crystal Palace" 
+[21] "Derby"           "Doncaster"      
+[23] "Fulham"          "Gillingham"     
+[25] "Grimsby"         "Huddersfield"   
+[27] "Hull"            "Ipswich"        
+[29] "Leeds"           "Leicester"      
+[31] "Luton"           "Manchester City"
+[33] "Middlesbrough"   "Millwall"       
+[35] "MK Dons"         "Newcastle"      
+[37] "Norwich"         "Nottingham"     
+[39] "Oxford Utd"      "Peterborough"   
+[41] "Plymouth"        "Port Vale"      
+[43] "Portsmouth"      "Preston"        
+[45] "QPR"             "Reading"        
+[47] "Rotherham"       "Scunthorpe"     
+[49] "Sheffield Utd"   "Sheffield Wed"  
+[51] "Southampton"     "Southend"       
+[53] "Stockport"       "Stoke"          
+[55] "Sunderland"      "Swansea"        
+[57] "Swindon"         "Tranmere"       
+[59] "Walsall"         "Watford"        
+[61] "West Brom"       "West Ham"       
+[63] "Wigan"           "Wimbledon FC"   
+[65] "Wolves"          "Wycombe"        
+[67] "Yeovil"         
+[1] "-------------------------------------------------"
+[1] "Country : [england], League : [championship], 0 new game(s) found to add."
+[1] "Country : [england], League : [championship], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2020-09-22 23:29:03"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.74BfvP"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:36499"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "910aa44112ce05920fd26869b9827c3a"
+
+$id
+[1] "910aa44112ce05920fd26869b9827c3a"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-one], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2020-09-22 23:29:24"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.YFBzly"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:36085"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "259012144c219e077c6b693a64d408f6"
+
+$id
+[1] "259012144c219e077c6b693a64d408f6"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-two], There is no new game to be added. The update of this league will be skipped."
+
+
+
+
+
+

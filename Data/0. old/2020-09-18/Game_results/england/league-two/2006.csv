@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+06.05.2006,2006,Bristol Rovers,Macclesfield,2,3
+06.05.2006,2006,Chester,Shrewsbury,0,1
+06.05.2006,2006,Darlington,Wrexham,1,1
+06.05.2006,2006,Grimsby,Northampton,1,1
+06.05.2006,2006,Lincoln,Rochdale,1,1
+06.05.2006,2006,Mansfield,Cheltenham,0,5
+06.05.2006,2006,Notts Co,Bury,2,2
+06.05.2006,2006,Oxford Utd,Leyton Orient,2,3
+06.05.2006,2006,Peterborough,Wycombe,0,2
+06.05.2006,2006,Rushden,Barnet,1,2
+06.05.2006,2006,Stockport,Carlisle,0,0
+06.05.2006,2006,Torquay,Boston Utd,0,0
+02.05.2006,2006,Rochdale,Carlisle,0,2
+29.04.2006,2006,Barnet,Stockport,0,0
+29.04.2006,2006,Boston Utd,Rushden,2,0
+29.04.2006,2006,Bury,Mansfield,0,0
+29.04.2006,2006,Carlisle,Torquay,1,2
+29.04.2006,2006,Cheltenham,Notts Co,2,0
+29.04.2006,2006,Leyton Orient,Peterborough,2,1
+29.04.2006,2006,Macclesfield,Grimsby,1,1
+29.04.2006,2006,Northampton,Chester,1,0
+29.04.2006,2006,Rochdale,Bristol Rovers,2,0
+29.04.2006,2006,Shrewsbury,Lincoln,0,1
+29.04.2006,2006,Wrexham,Oxford Utd,1,1
+29.04.2006,2006,Wycombe,Darlington,0,1
+25.04.2006,2006,Torquay,Stockport,4,0
+25.04.2006,2006,Rochdale,Barnet,1,1
+22.04.2006,2006,Bristol Rovers,Boston Utd,3,1
+22.04.2006,2006,Chester,Barnet,0,0
+22.04.2006,2006,Darlington,Bury,2,3
+22.04.2006,2006,Lincoln,Leyton Orient,1,1
+22.04.2006,2006,Mansfield,Carlisle,1,1
+22.04.2006,2006,Notts Co,Rochdale,1,1
+22.04.2006,2006,Oxford Utd,Northampton,1,3
+22.04.2006,2006,Peterborough,Macclesfield,3,2
+22.04.2006,2006,Rushden,Wycombe,1,3
+22.04.2006,2006,Stockport,Shrewsbury,3,1
+22.04.2006,2006,Torquay,Wrexham,1,0
+21.04.2006,2006,Grimsby,Cheltenham,1,0
+18.04.2006,2006,Shrewsbury,Rushden,4,1
+17.04.2006,2006,Barnet,Mansfield,1,0
+17.04.2006,2006,Boston Utd,Oxford Utd,1,0
+17.04.2006,2006,Bury,Chester,0,0
+17.04.2006,2006,Carlisle,Notts Co,2,1
+17.04.2006,2006,Cheltenham,Darlington,1,1
+17.04.2006,2006,Leyton Orient,Grimsby,0,0
+17.04.2006,2006,Macclesfield,Torquay,0,2
+17.04.2006,2006,Northampton,Stockport,2,0
+17.04.2006,2006,Rochdale,Peterborough,1,0
+17.04.2006,2006,Wrexham,Bristol Rovers,1,0
+17.04.2006,2006,Wycombe,Lincoln,0,3
+15.04.2006,2006,Bristol Rovers,Carlisle,1,1
+15.04.2006,2006,Chester,Wycombe,1,0
+15.04.2006,2006,Darlington,Northampton,0,1
+15.04.2006,2006,Grimsby,Shrewsbury,1,1
+15.04.2006,2006,Lincoln,Bury,1,1
+15.04.2006,2006,Mansfield,Leyton Orient,0,1
+15.04.2006,2006,Notts Co,Macclesfield,1,1
+15.04.2006,2006,Oxford Utd,Barnet,2,0
+15.04.2006,2006,Peterborough,Boston Utd,0,1
+15.04.2006,2006,Rushden,Rochdale,1,1
+15.04.2006,2006,Stockport,Wrexham,2,1
+15.04.2006,2006,Torquay,Cheltenham,1,2
+12.04.2006,2006,Chester,Wrexham,2,1
+09.04.2006,2006,Wrexham,Shrewsbury,1,2
+08.04.2006,2006,Barnet,Notts Co,2,1
+08.04.2006,2006,Bristol Rovers,Rushden,0,1
+08.04.2006,2006,Bury,Peterborough,1,3
+08.04.2006,2006,Carlisle,Grimsby,1,0
+08.04.2006,2006,Cheltenham,Stockport,3,3
+08.04.2006,2006,Leyton Orient,Boston Utd,2,0
+08.04.2006,2006,Lincoln,Mansfield,1,1
+08.04.2006,2006,Macclesfield,Wycombe,2,1
+08.04.2006,2006,Northampton,Rochdale,2,2
+08.04.2006,2006,Oxford Utd,Chester,0,1
+08.04.2006,2006,Torquay,Darlington,1,2
+04.04.2006,2006,Bury,Macclesfield,0,0
+04.04.2006,2006,Rochdale,Darlington,0,2
+01.04.2006,2006,Boston Utd,Barnet,2,1
+01.04.2006,2006,Chester,Macclesfield,2,1
+01.04.2006,2006,Darlington,Lincoln,4,2
+01.04.2006,2006,Grimsby,Wrexham,2,0
+01.04.2006,2006,Mansfield,Oxford Utd,1,0
+01.04.2006,2006,Notts Co,Leyton Orient,1,1
+01.04.2006,2006,Peterborough,Northampton,0,1
+01.04.2006,2006,Rushden,Torquay,1,0
+01.04.2006,2006,Shrewsbury,Cheltenham,2,0
+01.04.2006,2006,Stockport,Bury,0,1
+01.04.2006,2006,Wycombe,Bristol Rovers,1,3
+29.03.2006,2006,Boston Utd,Chester,1,3
+28.03.2006,2006,Carlisle,Lincoln,1,0
+26.03.2006,2006,Wrexham,Chester,2,1
+25.03.2006,2006,Barnet,Darlington,1,0
+25.03.2006,2006,Bristol Rovers,Mansfield,2,0
+25.03.2006,2006,Bury,Rochdale,2,1
+25.03.2006,2006,Carlisle,Boston Utd,4,2
+25.03.2006,2006,Cheltenham,Rushden,3,1
+25.03.2006,2006,Leyton Orient,Wycombe,1,0
+25.03.2006,2006,Lincoln,Grimsby,5,0
+25.03.2006,2006,Macclesfield,Shrewsbury,2,0
+25.03.2006,2006,Northampton,Notts Co,2,0
+25.03.2006,2006,Oxford Utd,Peterborough,1,0
+22.03.2006,2006,Boston Utd,Northampton,0,1
+21.03.2006,2006,Rochdale,Grimsby,2,2
+21.03.2006,2006,Bury,Oxford Utd,1,1
+21.03.2006,2006,Cheltenham,Wrexham,2,2
+18.03.2006,2006,Boston Utd,Lincoln,2,1
+18.03.2006,2006,Chester,Cheltenham,0,1
+18.03.2006,2006,Darlington,Carlisle,0,5
+18.03.2006,2006,Grimsby,Bury,2,1
+18.03.2006,2006,Mansfield,Northampton,1,0
+18.03.2006,2006,Notts Co,Oxford Utd,0,0
+18.03.2006,2006,Peterborough,Barnet,2,2
+18.03.2006,2006,Rochdale,Wrexham,0,1
+18.03.2006,2006,Rushden,Leyton Orient,1,0
+18.03.2006,2006,Shrewsbury,Bristol Rovers,1,0
+18.03.2006,2006,Stockport,Macclesfield,2,0
+18.03.2006,2006,Wycombe,Torquay,0,1
+15.03.2006,2006,Oxford Utd,Bristol Rovers,1,0
+14.03.2006,2006,Macclesfield,Wrexham,3,2
+11.03.2006,2006,Bristol Rovers,Notts Co,1,2
+11.03.2006,2006,Darlington,Chester,1,0
+11.03.2006,2006,Grimsby,Barnet,3,0
+11.03.2006,2006,Leyton Orient,Cheltenham,1,0
+11.03.2006,2006,Lincoln,Rushden,2,2
+11.03.2006,2006,Macclesfield,Rochdale,1,3
+11.03.2006,2006,Mansfield,Boston Utd,5,0
+11.03.2006,2006,Stockport,Oxford Utd,2,1
+11.03.2006,2006,Torquay,Peterborough,1,0
+11.03.2006,2006,Wrexham,Bury,0,0
+11.03.2006,2006,Wycombe,Shrewsbury,2,0
+10.03.2006,2006,Northampton,Carlisle,0,3
+07.03.2006,2006,Chester,Torquay,1,1
+07.03.2006,2006,Bury,Stockport,0,1
+04.03.2006,2006,Barnet,Wrexham,2,2
+04.03.2006,2006,Cheltenham,Wycombe,2,1
+04.03.2006,2006,Notts Co,Mansfield,2,2
+04.03.2006,2006,Peterborough,Stockport,2,0
+04.03.2006,2006,Rushden,Grimsby,1,1
+04.03.2006,2006,Shrewsbury,Leyton Orient,3,3
+28.02.2006,2006,Leyton Orient,Barnet,0,0
+28.02.2006,2006,Rochdale,Bury,1,1
+25.02.2006,2006,Barnet,Carlisle,1,2
+25.02.2006,2006,Cheltenham,Rochdale,1,1
+25.02.2006,2006,Grimsby,Chester,1,0
+25.02.2006,2006,Leyton Orient,Darlington,1,0
+25.02.2006,2006,Lincoln,Notts Co,2,1
+25.02.2006,2006,Peterborough,Bristol Rovers,1,2
+25.02.2006,2006,Rushden,Macclesfield,1,0
+25.02.2006,2006,Shrewsbury,Bury,0,1
+25.02.2006,2006,Stockport,Boston Utd,0,1
+25.02.2006,2006,Torquay,Mansfield,0,2
+25.02.2006,2006,Wrexham,Northampton,0,1
+25.02.2006,2006,Wycombe,Oxford Utd,2,1
+18.02.2006,2006,Boston Utd,Wycombe,1,1
+18.02.2006,2006,Bristol Rovers,Stockport,2,2
+18.02.2006,2006,Bury,Barnet,0,0
+18.02.2006,2006,Carlisle,Rushden,5,0
+18.02.2006,2006,Chester,Leyton Orient,0,2
+18.02.2006,2006,Darlington,Shrewsbury,0,1
+18.02.2006,2006,Macclesfield,Lincoln,1,1
+18.02.2006,2006,Mansfield,Wrexham,2,2
+18.02.2006,2006,Notts Co,Peterborough,1,2
+18.02.2006,2006,Oxford Utd,Cheltenham,1,1
+17.02.2006,2006,Northampton,Torquay,1,0
+15.02.2006,2006,Oxford Utd,Macclesfield,1,1
+14.02.2006,2006,Barnet,Lincoln,2,3
+14.02.2006,2006,Bristol Rovers,Cheltenham,0,1
+14.02.2006,2006,Carlisle,Shrewsbury,2,2
+14.02.2006,2006,Mansfield,Grimsby,2,1
+14.02.2006,2006,Northampton,Leyton Orient,1,1
+14.02.2006,2006,Notts Co,Wycombe,1,2
+14.02.2006,2006,Peterborough,Darlington,2,1
+14.02.2006,2006,Stockport,Rochdale,3,0
+14.02.2006,2006,Torquay,Bury,0,0
+14.02.2006,2006,Wrexham,Rushden,2,0
+11.02.2006,2006,Cheltenham,Northampton,3,1
+11.02.2006,2006,Chester,Stockport,1,2
+11.02.2006,2006,Darlington,Bristol Rovers,1,1
+11.02.2006,2006,Grimsby,Boston Utd,1,0
+11.02.2006,2006,Leyton Orient,Carlisle,0,0
+11.02.2006,2006,Lincoln,Torquay,2,0
+11.02.2006,2006,Rushden,Notts Co,1,0
+11.02.2006,2006,Shrewsbury,Peterborough,2,1
+11.02.2006,2006,Wycombe,Mansfield,2,2
+07.02.2006,2006,Bury,Rushden,1,1
+04.02.2006,2006,Barnet,Shrewsbury,1,0
+04.02.2006,2006,Boston Utd,Darlington,0,0
+04.02.2006,2006,Bristol Rovers,Bury,1,0
+04.02.2006,2006,Carlisle,Chester,5,0
+04.02.2006,2006,Mansfield,Macclesfield,1,1
+04.02.2006,2006,Northampton,Rushden,2,0
+04.02.2006,2006,Notts Co,Grimsby,0,1
+04.02.2006,2006,Oxford Utd,Rochdale,1,1
+04.02.2006,2006,Peterborough,Cheltenham,1,0
+04.02.2006,2006,Stockport,Lincoln,2,3
+04.02.2006,2006,Torquay,Leyton Orient,2,0
+04.02.2006,2006,Wrexham,Wycombe,2,0
+31.01.2006,2006,Bristol Rovers,Leyton Orient,3,3
+31.01.2006,2006,Northampton,Wycombe,0,0
+31.01.2006,2006,Shrewsbury,Macclesfield,1,1
+31.01.2006,2006,Stockport,Torquay,1,1
+29.01.2006,2006,Macclesfield,Carlisle,3,0
+28.01.2006,2006,Bury,Northampton,0,2
+28.01.2006,2006,Chester,Notts Co,0,2
+28.01.2006,2006,Darlington,Mansfield,4,0
+28.01.2006,2006,Grimsby,Peterborough,1,2
+28.01.2006,2006,Lincoln,Bristol Rovers,1,0
+28.01.2006,2006,Rochdale,Boston Utd,1,1
+28.01.2006,2006,Rushden,Oxford Utd,3,0
+28.01.2006,2006,Shrewsbury,Torquay,0,1
+28.01.2006,2006,Wycombe,Stockport,1,1
+24.01.2006,2006,Mansfield,Chester,1,2
+24.01.2006,2006,Stockport,Grimsby,2,1
+24.01.2006,2006,Torquay,Rochdale,1,3
+24.01.2006,2006,Notts Co,Northampton,2,2
+21.01.2006,2006,Barnet,Wycombe,0,0
+21.01.2006,2006,Boston Utd,Bury,3,1
+21.01.2006,2006,Bristol Rovers,Chester,2,1
+21.01.2006,2006,Carlisle,Cheltenham,1,1
+21.01.2006,2006,Mansfield,Rochdale,1,0
+21.01.2006,2006,Northampton,Macclesfield,5,0
+21.01.2006,2006,Notts Co,Shrewsbury,2,1
+21.01.2006,2006,Oxford Utd,Darlington,0,2
+21.01.2006,2006,Peterborough,Lincoln,1,1
+21.01.2006,2006,Stockport,Rushden,2,2
+21.01.2006,2006,Torquay,Grimsby,2,2
+21.01.2006,2006,Wrexham,Leyton Orient,1,2
+18.01.2006,2006,Boston Utd,Carlisle,0,5
+17.01.2006,2006,Darlington,Grimsby,0,0
+17.01.2006,2006,Shrewsbury,Mansfield,0,0
+14.01.2006,2006,Bury,Torquay,3,2
+14.01.2006,2006,Cheltenham,Bristol Rovers,2,3
+14.01.2006,2006,Chester,Boston Utd,0,1
+14.01.2006,2006,Darlington,Peterborough,2,1
+14.01.2006,2006,Grimsby,Mansfield,2,1
+14.01.2006,2006,Leyton Orient,Northampton,1,2
+14.01.2006,2006,Lincoln,Barnet,4,1
+14.01.2006,2006,Macclesfield,Oxford Utd,1,1
+14.01.2006,2006,Rochdale,Stockport,0,1
+14.01.2006,2006,Rushden,Wrexham,0,2
+14.01.2006,2006,Shrewsbury,Carlisle,2,1
+14.01.2006,2006,Wycombe,Notts Co,2,0
+10.01.2006,2006,Barnet,Cheltenham,1,1
+10.01.2006,2006,Peterborough,Oxford Utd,0,0
+07.01.2006,2006,Boston Utd,Macclesfield,3,1
+07.01.2006,2006,Carlisle,Bury,4,0
+07.01.2006,2006,Notts Co,Darlington,3,2
+07.01.2006,2006,Oxford Utd,Shrewsbury,0,3
+07.01.2006,2006,Peterborough,Rushden,2,0
+07.01.2006,2006,Wrexham,Lincoln,1,1
+03.01.2006,2006,Shrewsbury,Wrexham,1,0
+02.01.2006,2006,Boston Utd,Leyton Orient,1,2
+02.01.2006,2006,Chester,Oxford Utd,0,1
+02.01.2006,2006,Darlington,Torquay,3,2
+02.01.2006,2006,Grimsby,Carlisle,1,2
+02.01.2006,2006,Mansfield,Lincoln,0,0
+02.01.2006,2006,Notts Co,Barnet,1,0
+02.01.2006,2006,Peterborough,Bury,4,1
+02.01.2006,2006,Rochdale,Northampton,1,1
+02.01.2006,2006,Rushden,Bristol Rovers,2,3
+02.01.2006,2006,Stockport,Cheltenham,2,2
+02.01.2006,2006,Wycombe,Macclesfield,4,5
+31.12.2005,2006,Barnet,Boston Utd,1,0
+31.12.2005,2006,Bristol Rovers,Wycombe,1,2
+31.12.2005,2006,Carlisle,Rochdale,2,1
+31.12.2005,2006,Cheltenham,Shrewsbury,1,0
+31.12.2005,2006,Leyton Orient,Notts Co,1,0
+31.12.2005,2006,Lincoln,Darlington,2,2
+31.12.2005,2006,Macclesfield,Chester,1,0
+31.12.2005,2006,Northampton,Peterborough,0,1
+31.12.2005,2006,Oxford Utd,Mansfield,1,2
+31.12.2005,2006,Torquay,Rushden,2,1
+31.12.2005,2006,Wrexham,Grimsby,1,2
+29.12.2005,2006,Wycombe,Leyton Orient,4,2
+28.12.2005,2006,Darlington,Barnet,2,1
+28.12.2005,2006,Grimsby,Lincoln,3,0
+28.12.2005,2006,Mansfield,Bristol Rovers,3,3
+28.12.2005,2006,Rushden,Cheltenham,0,1
+26.12.2005,2006,Barnet,Peterborough,2,1
+26.12.2005,2006,Bristol Rovers,Shrewsbury,2,1
+26.12.2005,2006,Bury,Grimsby,1,2
+26.12.2005,2006,Carlisle,Darlington,1,1
+26.12.2005,2006,Cheltenham,Chester,1,0
+26.12.2005,2006,Leyton Orient,Rushden,5,1
+26.12.2005,2006,Lincoln,Boston Utd,0,0
+26.12.2005,2006,Macclesfield,Stockport,6,0
+26.12.2005,2006,Northampton,Mansfield,1,0
+26.12.2005,2006,Oxford Utd,Notts Co,3,0
+26.12.2005,2006,Torquay,Wycombe,2,2
+26.12.2005,2006,Wrexham,Rochdale,2,1
+17.12.2005,2006,Boston Utd,Cheltenham,0,0
+17.12.2005,2006,Bristol Rovers,Torquay,0,1
+17.12.2005,2006,Bury,Wycombe,2,1
+17.12.2005,2006,Carlisle,Wrexham,2,1
+17.12.2005,2006,Chester,Rushden,1,2
+17.12.2005,2006,Macclesfield,Barnet,1,1
+17.12.2005,2006,Mansfield,Peterborough,0,0
+17.12.2005,2006,Northampton,Shrewsbury,1,0
+17.12.2005,2006,Notts Co,Stockport,2,0
+17.12.2005,2006,Rochdale,Leyton Orient,2,4
+16.12.2005,2006,Oxford Utd,Lincoln,0,1
+10.12.2005,2006,Barnet,Northampton,0,1
+10.12.2005,2006,Cheltenham,Macclesfield,2,2
+10.12.2005,2006,Grimsby,Bristol Rovers,0,1
+10.12.2005,2006,Leyton Orient,Bury,0,1
+10.12.2005,2006,Lincoln,Chester,3,1
+10.12.2005,2006,Peterborough,Carlisle,1,1
+10.12.2005,2006,Rushden,Mansfield,1,2
+10.12.2005,2006,Shrewsbury,Boston Utd,1,1
+10.12.2005,2006,Stockport,Darlington,0,3
+10.12.2005,2006,Torquay,Oxford Utd,3,3
+10.12.2005,2006,Wrexham,Notts Co,1,1
+10.12.2005,2006,Wycombe,Rochdale,3,0
+06.12.2005,2006,Cheltenham,Oxford Utd,1,2
+06.12.2005,2006,Grimsby,Rochdale,4,1
+06.12.2005,2006,Leyton Orient,Chester,0,1
+06.12.2005,2006,Peterborough,Notts Co,2,0
+06.12.2005,2006,Rushden,Carlisle,0,4
+06.12.2005,2006,Shrewsbury,Darlington,3,1
+06.12.2005,2006,Stockport,Bristol Rovers,0,1
+06.12.2005,2006,Torquay,Northampton,3,3
+06.12.2005,2006,Wrexham,Mansfield,4,1
+06.12.2005,2006,Wycombe,Boston Utd,1,1
+03.12.2005,2006,Barnet,Bury,1,1
+03.12.2005,2006,Lincoln,Macclesfield,2,2
+26.11.2005,2006,Boston Utd,Wrexham,2,1
+26.11.2005,2006,Bristol Rovers,Barnet,2,1
+26.11.2005,2006,Bury,Cheltenham,0,1
+26.11.2005,2006,Carlisle,Wycombe,0,1
+26.11.2005,2006,Chester,Peterborough,3,1
+26.11.2005,2006,Darlington,Rushden,1,1
+26.11.2005,2006,Macclesfield,Leyton Orient,0,0
+26.11.2005,2006,Mansfield,Stockport,2,1
+26.11.2005,2006,Northampton,Lincoln,1,1
+26.11.2005,2006,Notts Co,Torquay,2,2
+26.11.2005,2006,Oxford Utd,Grimsby,2,3
+26.11.2005,2006,Rochdale,Shrewsbury,4,3
+19.11.2005,2006,Barnet,Torquay,1,0
+19.11.2005,2006,Boston Utd,Notts Co,1,2
+19.11.2005,2006,Carlisle,Oxford Utd,2,1
+19.11.2005,2006,Leyton Orient,Stockport,2,2
+19.11.2005,2006,Macclesfield,Darlington,1,0
+19.11.2005,2006,Northampton,Bristol Rovers,4,0
+19.11.2005,2006,Rochdale,Chester,2,2
+19.11.2005,2006,Wrexham,Peterborough,1,1
+19.11.2005,2006,Wycombe,Grimsby,3,1
+18.11.2005,2006,Cheltenham,Lincoln,4,1
+13.11.2005,2006,Stockport,Barnet,1,1
+12.11.2005,2006,Bristol Rovers,Rochdale,1,2
+12.11.2005,2006,Chester,Northampton,0,0
+12.11.2005,2006,Darlington,Wycombe,1,1
+12.11.2005,2006,Lincoln,Shrewsbury,1,1
+12.11.2005,2006,Notts Co,Cheltenham,2,3
+12.11.2005,2006,Oxford Utd,Wrexham,0,3
+12.11.2005,2006,Peterborough,Leyton Orient,1,1
+12.11.2005,2006,Torquay,Carlisle,3,4
+11.11.2005,2006,Grimsby,Macclesfield,3,1
+11.11.2005,2006,Mansfield,Bury,0,3
+11.11.2005,2006,Rushden,Boston Utd,1,0
+29.10.2005,2006,Barnet,Rushden,2,1
+29.10.2005,2006,Boston Utd,Torquay,2,0
+29.10.2005,2006,Bury,Notts Co,2,3
+29.10.2005,2006,Carlisle,Stockport,6,0
+29.10.2005,2006,Cheltenham,Mansfield,0,2
+29.10.2005,2006,Leyton Orient,Oxford Utd,1,0
+29.10.2005,2006,Macclesfield,Bristol Rovers,2,1
+29.10.2005,2006,Northampton,Grimsby,0,0
+29.10.2005,2006,Rochdale,Lincoln,1,2
+29.10.2005,2006,Shrewsbury,Chester,3,1
+29.10.2005,2006,Wrexham,Darlington,1,0
+29.10.2005,2006,Wycombe,Peterborough,2,2
+25.10.2005,2006,Peterborough,Wrexham,1,1
+22.10.2005,2006,Bristol Rovers,Wrexham,2,1
+22.10.2005,2006,Chester,Bury,1,1
+22.10.2005,2006,Darlington,Cheltenham,3,1
+22.10.2005,2006,Grimsby,Leyton Orient,0,1
+22.10.2005,2006,Lincoln,Wycombe,1,2
+22.10.2005,2006,Mansfield,Barnet,4,0
+22.10.2005,2006,Notts Co,Carlisle,0,0
+22.10.2005,2006,Oxford Utd,Boston Utd,0,0
+22.10.2005,2006,Peterborough,Rochdale,3,1
+22.10.2005,2006,Rushden,Shrewsbury,3,0
+22.10.2005,2006,Stockport,Northampton,4,2
+22.10.2005,2006,Torquay,Macclesfield,1,1
+15.10.2005,2006,Barnet,Chester,1,3
+15.10.2005,2006,Boston Utd,Bristol Rovers,3,1
+15.10.2005,2006,Bury,Darlington,1,0
+15.10.2005,2006,Carlisle,Mansfield,1,0
+15.10.2005,2006,Leyton Orient,Lincoln,1,1
+15.10.2005,2006,Macclesfield,Peterborough,0,4
+15.10.2005,2006,Rochdale,Notts Co,3,0
+15.10.2005,2006,Shrewsbury,Stockport,2,2
+15.10.2005,2006,Wrexham,Torquay,4,2
+15.10.2005,2006,Wycombe,Rushden,0,0
+14.10.2005,2006,Cheltenham,Grimsby,0,3
+14.10.2005,2006,Northampton,Oxford Utd,1,0
+08.10.2005,2006,Stockport,Leyton Orient,1,1
+07.10.2005,2006,Bristol Rovers,Northampton,0,0
+07.10.2005,2006,Chester,Rochdale,2,3
+07.10.2005,2006,Darlington,Macclesfield,1,0
+07.10.2005,2006,Grimsby,Wycombe,0,1
+07.10.2005,2006,Lincoln,Cheltenham,0,1
+07.10.2005,2006,Mansfield,Shrewsbury,4,0
+07.10.2005,2006,Notts Co,Boston Utd,1,2
+07.10.2005,2006,Oxford Utd,Carlisle,1,0
+07.10.2005,2006,Rushden,Bury,0,2
+07.10.2005,2006,Torquay,Barnet,0,0
+01.10.2005,2006,Barnet,Oxford Utd,0,0
+01.10.2005,2006,Boston Utd,Peterborough,1,0
+01.10.2005,2006,Bury,Lincoln,1,1
+01.10.2005,2006,Carlisle,Bristol Rovers,1,3
+01.10.2005,2006,Cheltenham,Torquay,0,1
+01.10.2005,2006,Leyton Orient,Mansfield,3,1
+01.10.2005,2006,Macclesfield,Notts Co,0,0
+01.10.2005,2006,Northampton,Darlington,0,0
+01.10.2005,2006,Rochdale,Rushden,2,1
+01.10.2005,2006,Shrewsbury,Grimsby,0,0
+01.10.2005,2006,Wrexham,Stockport,3,0
+01.10.2005,2006,Wycombe,Chester,3,3
+27.09.2005,2006,Bury,Bristol Rovers,1,0
+27.09.2005,2006,Cheltenham,Peterborough,2,1
+27.09.2005,2006,Chester,Carlisle,2,0
+27.09.2005,2006,Darlington,Boston Utd,0,0
+27.09.2005,2006,Grimsby,Notts Co,4,0
+27.09.2005,2006,Leyton Orient,Torquay,2,1
+27.09.2005,2006,Lincoln,Stockport,2,0
+27.09.2005,2006,Macclesfield,Mansfield,1,1
+27.09.2005,2006,Rochdale,Oxford Utd,0,1
+27.09.2005,2006,Rushden,Northampton,1,3
+27.09.2005,2006,Shrewsbury,Barnet,2,2
+27.09.2005,2006,Wycombe,Wrexham,4,1
+24.09.2005,2006,Barnet,Rochdale,1,1
+24.09.2005,2006,Boston Utd,Grimsby,1,1
+24.09.2005,2006,Bristol Rovers,Darlington,1,0
+24.09.2005,2006,Carlisle,Leyton Orient,2,3
+24.09.2005,2006,Mansfield,Wycombe,2,3
+24.09.2005,2006,Northampton,Cheltenham,1,2
+24.09.2005,2006,Notts Co,Rushden,0,0
+24.09.2005,2006,Oxford Utd,Bury,2,1
+24.09.2005,2006,Peterborough,Shrewsbury,0,2
+24.09.2005,2006,Stockport,Chester,0,0
+24.09.2005,2006,Torquay,Lincoln,2,1
+24.09.2005,2006,Wrexham,Macclesfield,1,1
+17.09.2005,2006,Bury,Boston Utd,1,1
+17.09.2005,2006,Cheltenham,Carlisle,2,3
+17.09.2005,2006,Chester,Bristol Rovers,4,0
+17.09.2005,2006,Darlington,Oxford Utd,1,2
+17.09.2005,2006,Grimsby,Torquay,3,0
+17.09.2005,2006,Leyton Orient,Wrexham,1,1
+17.09.2005,2006,Lincoln,Peterborough,1,2
+17.09.2005,2006,Macclesfield,Northampton,1,4
+17.09.2005,2006,Rochdale,Mansfield,2,0
+17.09.2005,2006,Rushden,Stockport,3,2
+17.09.2005,2006,Shrewsbury,Notts Co,2,0
+17.09.2005,2006,Wycombe,Barnet,1,0
+13.09.2005,2006,Lincoln,Wrexham,2,0
+13.09.2005,2006,Bristol Rovers,Oxford Utd,1,1
+13.09.2005,2006,Macclesfield,Rushden,3,1
+10.09.2005,2006,Barnet,Leyton Orient,2,3
+10.09.2005,2006,Boston Utd,Rochdale,3,2
+10.09.2005,2006,Bristol Rovers,Lincoln,0,0
+10.09.2005,2006,Carlisle,Macclesfield,2,0
+10.09.2005,2006,Mansfield,Darlington,2,2
+10.09.2005,2006,Northampton,Bury,1,1
+10.09.2005,2006,Notts Co,Chester,1,1
+10.09.2005,2006,Oxford Utd,Rushden,2,2
+10.09.2005,2006,Peterborough,Grimsby,0,1
+10.09.2005,2006,Stockport,Wycombe,3,3
+10.09.2005,2006,Torquay,Shrewsbury,2,1
+10.09.2005,2006,Wrexham,Cheltenham,2,0
+06.09.2005,2006,Chester,Grimsby,1,2
+04.09.2005,2006,Macclesfield,Boston Utd,2,2
+03.09.2005,2006,Leyton Orient,Bristol Rovers,2,3
+03.09.2005,2006,Rochdale,Torquay,4,1
+02.09.2005,2006,Bury,Carlisle,0,1
+02.09.2005,2006,Cheltenham,Barnet,1,1
+02.09.2005,2006,Chester,Mansfield,3,1
+02.09.2005,2006,Darlington,Notts Co,1,1
+02.09.2005,2006,Grimsby,Stockport,1,3
+02.09.2005,2006,Rushden,Peterborough,0,2
+02.09.2005,2006,Shrewsbury,Oxford Utd,2,0
+02.09.2005,2006,Wycombe,Northampton,1,1
+29.08.2005,2006,Darlington,Rochdale,2,1
+29.08.2005,2006,Grimsby,Rushden,2,0
+29.08.2005,2006,Leyton Orient,Shrewsbury,0,1
+29.08.2005,2006,Lincoln,Carlisle,0,0
+29.08.2005,2006,Macclesfield,Bury,1,0
+29.08.2005,2006,Mansfield,Notts Co,2,3
+29.08.2005,2006,Northampton,Boston Utd,3,2
+29.08.2005,2006,Stockport,Peterborough,1,1
+29.08.2005,2006,Torquay,Chester,0,1
+29.08.2005,2006,Wrexham,Barnet,3,1
+29.08.2005,2006,Wycombe,Cheltenham,0,0
+27.08.2005,2006,Barnet,Grimsby,0,1
+27.08.2005,2006,Boston Utd,Mansfield,2,2
+27.08.2005,2006,Bury,Wrexham,2,2
+27.08.2005,2006,Carlisle,Northampton,0,1
+27.08.2005,2006,Cheltenham,Leyton Orient,1,1
+27.08.2005,2006,Chester,Darlington,4,4
+27.08.2005,2006,Notts Co,Bristol Rovers,2,0
+27.08.2005,2006,Oxford Utd,Stockport,1,1
+27.08.2005,2006,Peterborough,Torquay,0,0
+27.08.2005,2006,Rochdale,Macclesfield,3,1
+27.08.2005,2006,Rushden,Lincoln,1,1
+27.08.2005,2006,Shrewsbury,Wycombe,1,1
+20.08.2005,2006,Barnet,Macclesfield,1,0
+20.08.2005,2006,Cheltenham,Boston Utd,3,0
+20.08.2005,2006,Grimsby,Darlington,0,1
+20.08.2005,2006,Leyton Orient,Rochdale,1,4
+20.08.2005,2006,Lincoln,Oxford Utd,2,1
+20.08.2005,2006,Peterborough,Mansfield,2,0
+20.08.2005,2006,Rushden,Chester,1,1
+20.08.2005,2006,Shrewsbury,Northampton,1,1
+20.08.2005,2006,Stockport,Notts Co,1,1
+20.08.2005,2006,Torquay,Bristol Rovers,2,3
+20.08.2005,2006,Wrexham,Carlisle,0,1
+20.08.2005,2006,Wycombe,Bury,4,0
+13.08.2005,2006,Boston Utd,Stockport,2,2
+13.08.2005,2006,Bristol Rovers,Peterborough,2,3
+13.08.2005,2006,Bury,Shrewsbury,2,0
+13.08.2005,2006,Carlisle,Barnet,1,3
+13.08.2005,2006,Darlington,Leyton Orient,0,1
+13.08.2005,2006,Mansfield,Torquay,3,0
+13.08.2005,2006,Northampton,Wrexham,0,0
+13.08.2005,2006,Notts Co,Lincoln,2,1
+13.08.2005,2006,Oxford Utd,Wycombe,2,2
+13.08.2005,2006,Rochdale,Cheltenham,1,1
+10.08.2005,2006,Boston Utd,Shrewsbury,1,1
+10.08.2005,2006,Oxford Utd,Torquay,1,0
+09.08.2005,2006,Bristol Rovers,Grimsby,1,2
+09.08.2005,2006,Bury,Leyton Orient,1,2
+09.08.2005,2006,Carlisle,Peterborough,1,0
+09.08.2005,2006,Chester,Lincoln,2,2
+09.08.2005,2006,Darlington,Stockport,2,0
+09.08.2005,2006,Macclesfield,Cheltenham,2,2
+09.08.2005,2006,Mansfield,Rushden,0,1
+09.08.2005,2006,Northampton,Barnet,1,2
+09.08.2005,2006,Notts Co,Wrexham,1,0
+09.08.2005,2006,Rochdale,Wycombe,1,2
+06.08.2005,2006,Barnet,Bristol Rovers,1,1
+06.08.2005,2006,Cheltenham,Bury,2,1
+06.08.2005,2006,Grimsby,Oxford Utd,1,1
+06.08.2005,2006,Leyton Orient,Macclesfield,2,1
+06.08.2005,2006,Lincoln,Northampton,1,1
+06.08.2005,2006,Peterborough,Chester,0,1
+06.08.2005,2006,Rushden,Darlington,1,1
+06.08.2005,2006,Shrewsbury,Rochdale,0,1
+06.08.2005,2006,Stockport,Mansfield,2,2
+06.08.2005,2006,Torquay,Notts Co,0,0
+06.08.2005,2006,Wrexham,Boston Utd,2,0
+06.08.2005,2006,Wycombe,Carlisle,1,1

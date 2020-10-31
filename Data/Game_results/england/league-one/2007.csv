@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+03.05.2008,2007,Brighton,Swansea,0,1
+03.05.2008,2007,Carlisle,Bournemouth,1,1
+03.05.2008,2007,Cheltenham,Doncaster,2,1
+03.05.2008,2007,Crewe,Oldham,1,4
+03.05.2008,2007,Leeds,Gillingham,2,1
+03.05.2008,2007,Leyton Orient,Bristol Rovers,3,1
+03.05.2008,2007,Luton,Huddersfield,0,1
+03.05.2008,2007,Northampton,Tranmere,2,1
+03.05.2008,2007,Nottingham,Yeovil,3,2
+03.05.2008,2007,Southend,Port Vale,1,1
+03.05.2008,2007,Swindon,Millwall,2,1
+03.05.2008,2007,Walsall,Hartlepool,2,2
+26.04.2008,2007,Bournemouth,Crewe,1,0
+26.04.2008,2007,Bristol Rovers,Brighton,0,2
+26.04.2008,2007,Doncaster,Luton,2,0
+26.04.2008,2007,Gillingham,Swindon,1,1
+26.04.2008,2007,Hartlepool,Nottingham,0,1
+26.04.2008,2007,Huddersfield,Walsall,2,0
+26.04.2008,2007,Millwall,Carlisle,3,0
+26.04.2008,2007,Oldham,Cheltenham,2,1
+26.04.2008,2007,Port Vale,Northampton,2,2
+26.04.2008,2007,Swansea,Leyton Orient,4,1
+26.04.2008,2007,Tranmere,Southend,1,0
+25.04.2008,2007,Yeovil,Leeds,0,1
+22.04.2008,2007,Bristol Rovers,Swindon,0,1
+19.04.2008,2007,Brighton,Hartlepool,2,1
+19.04.2008,2007,Bristol Rovers,Gillingham,1,1
+19.04.2008,2007,Carlisle,Southend,1,2
+19.04.2008,2007,Crewe,Cheltenham,3,1
+19.04.2008,2007,Huddersfield,Tranmere,1,0
+19.04.2008,2007,Leyton Orient,Doncaster,1,1
+19.04.2008,2007,Millwall,Leeds,0,2
+19.04.2008,2007,Northampton,Oldham,2,0
+19.04.2008,2007,Nottingham,Luton,1,0
+19.04.2008,2007,Swansea,Yeovil,1,2
+19.04.2008,2007,Swindon,Port Vale,6,0
+19.04.2008,2007,Walsall,Bournemouth,1,3
+15.04.2008,2007,Huddersfield,Leeds,1,0
+15.04.2008,2007,Walsall,Bristol Rovers,0,1
+12.04.2008,2007,Bournemouth,Bristol Rovers,2,1
+12.04.2008,2007,Cheltenham,Walsall,1,2
+12.04.2008,2007,Gillingham,Swansea,1,2
+12.04.2008,2007,Hartlepool,Millwall,0,1
+12.04.2008,2007,Leeds,Carlisle,3,2
+12.04.2008,2007,Luton,Brighton,1,2
+12.04.2008,2007,Oldham,Leyton Orient,2,0
+12.04.2008,2007,Port Vale,Huddersfield,0,0
+12.04.2008,2007,Southend,Northampton,1,1
+12.04.2008,2007,Tranmere,Nottingham,0,2
+12.04.2008,2007,Yeovil,Crewe,0,3
+11.04.2008,2007,Doncaster,Swindon,2,0
+08.04.2008,2007,Nottingham,Bristol Rovers,1,1
+08.04.2008,2007,Southend,Brighton,2,0
+08.04.2008,2007,Carlisle,Swansea,0,0
+05.04.2008,2007,Brighton,Port Vale,2,3
+05.04.2008,2007,Bristol Rovers,Hartlepool,0,0
+05.04.2008,2007,Carlisle,Yeovil,2,1
+05.04.2008,2007,Crewe,Southend,1,3
+05.04.2008,2007,Huddersfield,Doncaster,2,2
+05.04.2008,2007,Leyton Orient,Leeds,0,2
+05.04.2008,2007,Millwall,Gillingham,1,1
+05.04.2008,2007,Northampton,Luton,2,1
+05.04.2008,2007,Nottingham,Cheltenham,3,1
+05.04.2008,2007,Swansea,Bournemouth,1,2
+05.04.2008,2007,Swindon,Oldham,3,0
+05.04.2008,2007,Walsall,Tranmere,2,1
+01.04.2008,2007,Doncaster,Leeds,0,1
+01.04.2008,2007,Gillingham,Luton,2,1
+01.04.2008,2007,Carlisle,Nottingham,0,2
+29.03.2008,2007,Bournemouth,Millwall,2,0
+29.03.2008,2007,Cheltenham,Northampton,1,1
+29.03.2008,2007,Gillingham,Carlisle,0,0
+29.03.2008,2007,Hartlepool,Swansea,1,3
+29.03.2008,2007,Leeds,Brighton,0,0
+29.03.2008,2007,Luton,Crewe,2,1
+29.03.2008,2007,Oldham,Huddersfield,4,1
+29.03.2008,2007,Port Vale,Leyton Orient,2,1
+29.03.2008,2007,Southend,Walsall,1,0
+29.03.2008,2007,Yeovil,Bristol Rovers,0,0
+28.03.2008,2007,Doncaster,Nottingham,1,0
+28.03.2008,2007,Tranmere,Swindon,2,1
+24.03.2008,2007,Bournemouth,Tranmere,2,1
+24.03.2008,2007,Carlisle,Northampton,2,0
+24.03.2008,2007,Cheltenham,Leyton Orient,1,0
+24.03.2008,2007,Doncaster,Oldham,1,1
+24.03.2008,2007,Hartlepool,Yeovil,2,0
+24.03.2008,2007,Millwall,Luton,0,0
+24.03.2008,2007,Nottingham,Brighton,0,0
+24.03.2008,2007,Port Vale,Gillingham,2,1
+24.03.2008,2007,Swansea,Bristol Rovers,2,2
+24.03.2008,2007,Swindon,Southend,0,1
+24.03.2008,2007,Walsall,Crewe,1,1
+22.03.2008,2007,Brighton,Swindon,2,1
+22.03.2008,2007,Bristol Rovers,Huddersfield,2,3
+22.03.2008,2007,Crewe,Hartlepool,3,1
+22.03.2008,2007,Gillingham,Bournemouth,2,1
+22.03.2008,2007,Leeds,Walsall,2,0
+22.03.2008,2007,Leyton Orient,Carlisle,0,3
+22.03.2008,2007,Luton,Cheltenham,1,1
+22.03.2008,2007,Oldham,Millwall,1,1
+21.03.2008,2007,Northampton,Nottingham,1,2
+21.03.2008,2007,Southend,Swansea,1,1
+21.03.2008,2007,Yeovil,Doncaster,2,1
+20.03.2008,2007,Tranmere,Port Vale,2,0
+18.03.2008,2007,Huddersfield,Brighton,2,1
+18.03.2008,2007,Bristol Rovers,Swansea,0,2
+15.03.2008,2007,Bournemouth,Yeovil,2,0
+15.03.2008,2007,Brighton,Doncaster,1,0
+15.03.2008,2007,Cheltenham,Bristol Rovers,1,0
+15.03.2008,2007,Gillingham,Crewe,0,3
+15.03.2008,2007,Huddersfield,Southend,1,2
+15.03.2008,2007,Luton,Oldham,3,0
+15.03.2008,2007,Millwall,Leyton Orient,0,1
+15.03.2008,2007,Northampton,Swansea,4,2
+15.03.2008,2007,Nottingham,Walsall,1,1
+15.03.2008,2007,Port Vale,Leeds,3,3
+15.03.2008,2007,Swindon,Carlisle,2,2
+15.03.2008,2007,Tranmere,Hartlepool,3,1
+12.03.2008,2007,Bristol Rovers,Northampton,1,1
+11.03.2008,2007,Carlisle,Luton,2,1
+11.03.2008,2007,Crewe,Port Vale,0,2
+11.03.2008,2007,Doncaster,Gillingham,2,1
+11.03.2008,2007,Hartlepool,Huddersfield,2,1
+11.03.2008,2007,Leeds,Cheltenham,1,2
+11.03.2008,2007,Leyton Orient,Swindon,2,1
+11.03.2008,2007,Oldham,Bournemouth,2,0
+11.03.2008,2007,Southend,Nottingham,1,1
+11.03.2008,2007,Swansea,Tranmere,1,1
+11.03.2008,2007,Walsall,Brighton,1,2
+11.03.2008,2007,Yeovil,Millwall,0,1
+08.03.2008,2007,Carlisle,Brighton,2,0
+08.03.2008,2007,Crewe,Nottingham,0,0
+08.03.2008,2007,Doncaster,Port Vale,2,1
+08.03.2008,2007,Hartlepool,Gillingham,4,0
+08.03.2008,2007,Leeds,Bournemouth,2,0
+08.03.2008,2007,Leyton Orient,Huddersfield,0,1
+08.03.2008,2007,Oldham,Tranmere,3,1
+08.03.2008,2007,Southend,Luton,2,0
+08.03.2008,2007,Walsall,Northampton,0,2
+08.03.2008,2007,Yeovil,Cheltenham,2,1
+07.03.2008,2007,Swansea,Millwall,1,2
+04.03.2008,2007,Oldham,Hartlepool,0,1
+04.03.2008,2007,Bristol Rovers,Doncaster,0,1
+04.03.2008,2007,Swindon,Huddersfield,3,2
+04.03.2008,2007,Brighton,Gillingham,4,2
+03.03.2008,2007,Nottingham,Carlisle,0,1
+01.03.2008,2007,Bournemouth,Hartlepool,2,0
+01.03.2008,2007,Brighton,Leyton Orient,1,1
+01.03.2008,2007,Gillingham,Yeovil,0,0
+01.03.2008,2007,Huddersfield,Swansea,0,1
+01.03.2008,2007,Luton,Walsall,0,1
+01.03.2008,2007,Millwall,Bristol Rovers,0,1
+01.03.2008,2007,Northampton,Crewe,0,0
+01.03.2008,2007,Port Vale,Oldham,0,3
+01.03.2008,2007,Swindon,Leeds,0,1
+01.03.2008,2007,Tranmere,Doncaster,0,1
+29.02.2008,2007,Cheltenham,Southend,1,1
+26.02.2008,2007,Crewe,Carlisle,0,1
+26.02.2008,2007,Luton,Millwall,1,1
+26.02.2008,2007,Oldham,Swindon,2,2
+23.02.2008,2007,Bournemouth,Cheltenham,2,2
+23.02.2008,2007,Brighton,Oldham,1,0
+23.02.2008,2007,Bristol Rovers,Tranmere,1,1
+23.02.2008,2007,Carlisle,Doncaster,1,0
+23.02.2008,2007,Gillingham,Huddersfield,1,0
+23.02.2008,2007,Leeds,Crewe,1,1
+23.02.2008,2007,Leyton Orient,Nottingham,0,1
+23.02.2008,2007,Millwall,Port Vale,3,0
+23.02.2008,2007,Swindon,Walsall,0,3
+23.02.2008,2007,Yeovil,Southend,0,3
+22.02.2008,2007,Hartlepool,Northampton,0,1
+22.02.2008,2007,Swansea,Luton,1,0
+19.02.2008,2007,Huddersfield,Millwall,1,0
+19.02.2008,2007,Brighton,Cheltenham,2,1
+16.02.2008,2007,Cheltenham,Hartlepool,1,1
+16.02.2008,2007,Luton,Leyton Orient,0,1
+16.02.2008,2007,Northampton,Gillingham,4,0
+16.02.2008,2007,Nottingham,Swindon,1,0
+16.02.2008,2007,Oldham,Yeovil,3,0
+16.02.2008,2007,Port Vale,Swansea,0,2
+16.02.2008,2007,Southend,Bournemouth,2,1
+16.02.2008,2007,Tranmere,Millwall,2,0
+12.02.2008,2007,Bournemouth,Doncaster,0,2
+12.02.2008,2007,Brighton,Tranmere,0,0
+12.02.2008,2007,Bristol Rovers,Oldham,1,0
+12.02.2008,2007,Carlisle,Huddersfield,2,1
+12.02.2008,2007,Hartlepool,Port Vale,3,2
+12.02.2008,2007,Leeds,Nottingham,1,1
+12.02.2008,2007,Leyton Orient,Crewe,0,1
+12.02.2008,2007,Millwall,Southend,2,1
+12.02.2008,2007,Swansea,Walsall,1,0
+12.02.2008,2007,Swindon,Cheltenham,3,0
+12.02.2008,2007,Yeovil,Northampton,1,0
+09.02.2008,2007,Cheltenham,Brighton,2,1
+09.02.2008,2007,Crewe,Swansea,2,2
+09.02.2008,2007,Doncaster,Bristol Rovers,2,0
+09.02.2008,2007,Huddersfield,Swindon,1,0
+09.02.2008,2007,Luton,Bournemouth,1,4
+09.02.2008,2007,Northampton,Leeds,1,1
+09.02.2008,2007,Nottingham,Millwall,2,0
+09.02.2008,2007,Oldham,Gillingham,2,1
+09.02.2008,2007,Port Vale,Carlisle,1,1
+09.02.2008,2007,Southend,Hartlepool,2,1
+09.02.2008,2007,Tranmere,Leyton Orient,1,1
+09.02.2008,2007,Walsall,Yeovil,2,0
+05.02.2008,2007,Bristol Rovers,Cheltenham,2,0
+02.02.2008,2007,Bournemouth,Nottingham,2,0
+02.02.2008,2007,Brighton,Crewe,3,0
+02.02.2008,2007,Bristol Rovers,Port Vale,3,2
+02.02.2008,2007,Carlisle,Walsall,2,1
+02.02.2008,2007,Gillingham,Cheltenham,0,0
+02.02.2008,2007,Hartlepool,Luton,4,0
+02.02.2008,2007,Leeds,Tranmere,0,2
+02.02.2008,2007,Leyton Orient,Southend,2,2
+02.02.2008,2007,Millwall,Doncaster,0,3
+02.02.2008,2007,Swansea,Oldham,2,1
+02.02.2008,2007,Swindon,Northampton,1,1
+02.02.2008,2007,Yeovil,Huddersfield,0,2
+29.01.2008,2007,Cheltenham,Millwall,0,1
+29.01.2008,2007,Crewe,Bristol Rovers,1,1
+29.01.2008,2007,Doncaster,Hartlepool,2,0
+29.01.2008,2007,Huddersfield,Bournemouth,1,0
+29.01.2008,2007,Luton,Swindon,0,1
+29.01.2008,2007,Northampton,Brighton,1,0
+29.01.2008,2007,Nottingham,Swansea,0,0
+29.01.2008,2007,Oldham,Carlisle,2,0
+29.01.2008,2007,Port Vale,Yeovil,2,2
+29.01.2008,2007,Southend,Leeds,1,0
+29.01.2008,2007,Tranmere,Gillingham,2,0
+29.01.2008,2007,Walsall,Leyton Orient,0,0
+26.01.2008,2007,Crewe,Swindon,0,0
+26.01.2008,2007,Luton,Leeds,1,1
+26.01.2008,2007,Port Vale,Bournemouth,1,3
+26.01.2008,2007,Tranmere,Yeovil,2,1
+26.01.2008,2007,Walsall,Gillingham,2,1
+25.01.2008,2007,Cheltenham,Carlisle,1,0
+25.01.2008,2007,Doncaster,Swansea,0,4
+25.01.2008,2007,Northampton,Leyton Orient,2,0
+23.01.2008,2007,Millwall,Nottingham,2,2
+22.01.2008,2007,Bournemouth,Luton,4,3
+22.01.2008,2007,Gillingham,Oldham,0,0
+22.01.2008,2007,Hartlepool,Southend,4,3
+22.01.2008,2007,Swansea,Crewe,2,1
+19.01.2008,2007,Bournemouth,Southend,1,4
+19.01.2008,2007,Brighton,Huddersfield,1,1
+19.01.2008,2007,Bristol Rovers,Walsall,1,1
+19.01.2008,2007,Carlisle,Crewe,1,0
+19.01.2008,2007,Gillingham,Northampton,0,1
+19.01.2008,2007,Leeds,Doncaster,0,1
+19.01.2008,2007,Leyton Orient,Luton,2,1
+19.01.2008,2007,Millwall,Tranmere,0,1
+19.01.2008,2007,Swansea,Port Vale,2,0
+19.01.2008,2007,Swindon,Nottingham,2,1
+19.01.2008,2007,Yeovil,Oldham,0,0
+18.01.2008,2007,Hartlepool,Cheltenham,0,2
+14.01.2008,2007,Crewe,Leeds,0,1
+12.01.2008,2007,Cheltenham,Bournemouth,1,0
+12.01.2008,2007,Doncaster,Carlisle,1,0
+12.01.2008,2007,Huddersfield,Gillingham,1,3
+12.01.2008,2007,Luton,Swansea,1,3
+12.01.2008,2007,Northampton,Hartlepool,1,1
+12.01.2008,2007,Nottingham,Leyton Orient,4,0
+12.01.2008,2007,Oldham,Brighton,1,1
+12.01.2008,2007,Port Vale,Millwall,3,1
+12.01.2008,2007,Southend,Yeovil,1,1
+12.01.2008,2007,Walsall,Swindon,2,2
+11.01.2008,2007,Tranmere,Bristol Rovers,0,2
+08.01.2008,2007,Leyton Orient,Tranmere,3,0
+08.01.2008,2007,Yeovil,Walsall,0,2
+05.01.2008,2007,Carlisle,Port Vale,3,2
+05.01.2008,2007,Leeds,Northampton,3,0
+02.01.2008,2007,Cheltenham,Port Vale,1,0
+01.01.2008,2007,Brighton,Bournemouth,3,2
+01.01.2008,2007,Carlisle,Hartlepool,4,2
+01.01.2008,2007,Crewe,Tranmere,4,3
+01.01.2008,2007,Leeds,Oldham,1,3
+01.01.2008,2007,Leyton Orient,Gillingham,0,0
+01.01.2008,2007,Luton,Yeovil,1,0
+01.01.2008,2007,Northampton,Millwall,1,1
+01.01.2008,2007,Nottingham,Huddersfield,2,1
+01.01.2008,2007,Southend,Bristol Rovers,0,1
+01.01.2008,2007,Swindon,Swansea,1,1
+01.01.2008,2007,Walsall,Doncaster,1,1
+29.12.2007,2007,Bournemouth,Swindon,2,2
+29.12.2007,2007,Bristol Rovers,Carlisle,3,0
+29.12.2007,2007,Doncaster,Southend,3,1
+29.12.2007,2007,Gillingham,Nottingham,3,0
+29.12.2007,2007,Hartlepool,Leyton Orient,1,1
+29.12.2007,2007,Huddersfield,Northampton,1,2
+29.12.2007,2007,Millwall,Crewe,2,0
+29.12.2007,2007,Oldham,Walsall,0,2
+29.12.2007,2007,Port Vale,Luton,1,2
+29.12.2007,2007,Swansea,Leeds,3,2
+29.12.2007,2007,Tranmere,Cheltenham,1,0
+29.12.2007,2007,Yeovil,Brighton,2,1
+26.12.2007,2007,Bournemouth,Leyton Orient,3,1
+26.12.2007,2007,Bristol Rovers,Luton,1,1
+26.12.2007,2007,Doncaster,Northampton,2,0
+26.12.2007,2007,Gillingham,Southend,1,1
+26.12.2007,2007,Hartlepool,Leeds,1,1
+26.12.2007,2007,Huddersfield,Crewe,1,1
+26.12.2007,2007,Millwall,Brighton,3,0
+26.12.2007,2007,Oldham,Nottingham,0,0
+26.12.2007,2007,Port Vale,Walsall,1,1
+26.12.2007,2007,Swansea,Cheltenham,4,1
+26.12.2007,2007,Tranmere,Carlisle,2,0
+26.12.2007,2007,Yeovil,Swindon,0,1
+22.12.2007,2007,Cheltenham,Huddersfield,0,2
+22.12.2007,2007,Crewe,Doncaster,0,4
+22.12.2007,2007,Leeds,Bristol Rovers,1,0
+22.12.2007,2007,Leyton Orient,Yeovil,0,0
+22.12.2007,2007,Luton,Tranmere,1,0
+22.12.2007,2007,Nottingham,Port Vale,2,0
+22.12.2007,2007,Southend,Oldham,0,1
+22.12.2007,2007,Swindon,Hartlepool,2,1
+22.12.2007,2007,Walsall,Millwall,3,0
+21.12.2007,2007,Northampton,Bournemouth,4,1
+16.12.2007,2007,Doncaster,Yeovil,1,2
+15.12.2007,2007,Bournemouth,Gillingham,1,0
+15.12.2007,2007,Carlisle,Leyton Orient,1,0
+15.12.2007,2007,Hartlepool,Crewe,3,0
+15.12.2007,2007,Huddersfield,Bristol Rovers,2,1
+15.12.2007,2007,Millwall,Oldham,2,3
+15.12.2007,2007,Nottingham,Northampton,2,2
+15.12.2007,2007,Port Vale,Tranmere,0,0
+15.12.2007,2007,Swansea,Southend,3,0
+15.12.2007,2007,Swindon,Brighton,0,3
+15.12.2007,2007,Walsall,Leeds,1,1
+14.12.2007,2007,Cheltenham,Luton,1,0
+08.12.2007,2007,Crewe,Walsall,0,0
+08.12.2007,2007,Gillingham,Port Vale,1,2
+08.12.2007,2007,Leeds,Huddersfield,4,0
+08.12.2007,2007,Leyton Orient,Cheltenham,2,0
+08.12.2007,2007,Northampton,Carlisle,2,2
+08.12.2007,2007,Oldham,Doncaster,1,1
+08.12.2007,2007,Southend,Swindon,2,1
+08.12.2007,2007,Tranmere,Bournemouth,3,1
+08.12.2007,2007,Yeovil,Hartlepool,3,1
+07.12.2007,2007,Brighton,Nottingham,0,2
+05.12.2007,2007,Southend,Huddersfield,4,1
+04.12.2007,2007,Carlisle,Swindon,3,0
+04.12.2007,2007,Crewe,Gillingham,2,3
+04.12.2007,2007,Doncaster,Brighton,0,0
+04.12.2007,2007,Hartlepool,Tranmere,3,1
+04.12.2007,2007,Leeds,Port Vale,3,0
+04.12.2007,2007,Leyton Orient,Millwall,0,1
+04.12.2007,2007,Oldham,Luton,1,1
+04.12.2007,2007,Swansea,Northampton,3,0
+04.12.2007,2007,Walsall,Nottingham,1,0
+04.12.2007,2007,Yeovil,Bournemouth,2,1
+27.11.2007,2007,Swansea,Hartlepool,1,0
+25.11.2007,2007,Cheltenham,Leeds,1,0
+24.11.2007,2007,Bournemouth,Oldham,0,3
+24.11.2007,2007,Brighton,Carlisle,2,2
+24.11.2007,2007,Gillingham,Hartlepool,2,1
+24.11.2007,2007,Huddersfield,Leyton Orient,0,1
+24.11.2007,2007,Luton,Southend,1,0
+24.11.2007,2007,Millwall,Yeovil,2,1
+24.11.2007,2007,Northampton,Walsall,0,2
+24.11.2007,2007,Nottingham,Crewe,2,0
+24.11.2007,2007,Port Vale,Doncaster,1,3
+24.11.2007,2007,Swindon,Bristol Rovers,1,0
+24.11.2007,2007,Tranmere,Swansea,0,1
+18.11.2007,2007,Hartlepool,Bournemouth,1,1
+18.11.2007,2007,Yeovil,Gillingham,2,1
+17.11.2007,2007,Bristol Rovers,Millwall,2,1
+17.11.2007,2007,Crewe,Northampton,1,0
+17.11.2007,2007,Doncaster,Tranmere,0,0
+17.11.2007,2007,Leeds,Swindon,2,1
+17.11.2007,2007,Leyton Orient,Brighton,2,2
+17.11.2007,2007,Oldham,Port Vale,1,1
+17.11.2007,2007,Southend,Cheltenham,2,2
+17.11.2007,2007,Walsall,Luton,0,0
+16.11.2007,2007,Swansea,Huddersfield,0,1
+06.11.2007,2007,Bournemouth,Leeds,1,3
+06.11.2007,2007,Brighton,Walsall,1,1
+06.11.2007,2007,Cheltenham,Yeovil,1,1
+06.11.2007,2007,Gillingham,Doncaster,1,1
+06.11.2007,2007,Huddersfield,Hartlepool,2,0
+06.11.2007,2007,Luton,Carlisle,0,0
+06.11.2007,2007,Millwall,Swansea,2,2
+06.11.2007,2007,Northampton,Bristol Rovers,0,1
+06.11.2007,2007,Nottingham,Southend,4,1
+06.11.2007,2007,Port Vale,Crewe,0,1
+06.11.2007,2007,Swindon,Leyton Orient,1,1
+06.11.2007,2007,Tranmere,Oldham,0,1
+03.11.2007,2007,Brighton,Luton,3,1
+03.11.2007,2007,Bristol Rovers,Bournemouth,0,2
+03.11.2007,2007,Carlisle,Leeds,3,1
+03.11.2007,2007,Crewe,Yeovil,2,0
+03.11.2007,2007,Huddersfield,Port Vale,3,1
+03.11.2007,2007,Leyton Orient,Oldham,1,0
+03.11.2007,2007,Millwall,Hartlepool,0,1
+03.11.2007,2007,Northampton,Southend,0,1
+03.11.2007,2007,Nottingham,Tranmere,2,0
+03.11.2007,2007,Swindon,Doncaster,1,2
+03.11.2007,2007,Walsall,Cheltenham,2,0
+02.11.2007,2007,Swansea,Gillingham,1,1
+30.10.2007,2007,Nottingham,Oldham,0,0
+28.10.2007,2007,Doncaster,Leyton Orient,4,2
+27.10.2007,2007,Bournemouth,Walsall,1,1
+27.10.2007,2007,Cheltenham,Crewe,2,2
+27.10.2007,2007,Gillingham,Bristol Rovers,3,2
+27.10.2007,2007,Hartlepool,Brighton,1,2
+27.10.2007,2007,Leeds,Millwall,4,2
+27.10.2007,2007,Luton,Nottingham,2,1
+27.10.2007,2007,Oldham,Northampton,0,1
+27.10.2007,2007,Port Vale,Swindon,2,1
+27.10.2007,2007,Southend,Carlisle,0,1
+27.10.2007,2007,Yeovil,Swansea,1,2
+26.10.2007,2007,Tranmere,Huddersfield,3,0
+20.10.2007,2007,Brighton,Leeds,0,1
+20.10.2007,2007,Bristol Rovers,Yeovil,1,1
+20.10.2007,2007,Carlisle,Gillingham,2,0
+20.10.2007,2007,Crewe,Luton,2,0
+20.10.2007,2007,Huddersfield,Oldham,1,1
+20.10.2007,2007,Leyton Orient,Port Vale,3,1
+20.10.2007,2007,Millwall,Bournemouth,2,1
+20.10.2007,2007,Northampton,Cheltenham,2,1
+20.10.2007,2007,Nottingham,Doncaster,0,0
+20.10.2007,2007,Swindon,Tranmere,1,0
+20.10.2007,2007,Walsall,Southend,0,2
+15.10.2007,2007,Luton,Northampton,4,1
+14.10.2007,2007,Bournemouth,Swansea,1,4
+14.10.2007,2007,Doncaster,Huddersfield,2,0
+13.10.2007,2007,Cheltenham,Nottingham,0,3
+13.10.2007,2007,Gillingham,Millwall,1,1
+13.10.2007,2007,Leeds,Leyton Orient,1,1
+13.10.2007,2007,Port Vale,Brighton,0,1
+13.10.2007,2007,Southend,Crewe,3,0
+13.10.2007,2007,Yeovil,Carlisle,2,1
+12.10.2007,2007,Hartlepool,Bristol Rovers,1,0
+12.10.2007,2007,Tranmere,Walsall,0,0
+06.10.2007,2007,Brighton,Bristol Rovers,0,0
+06.10.2007,2007,Carlisle,Millwall,4,0
+06.10.2007,2007,Cheltenham,Oldham,1,1
+06.10.2007,2007,Crewe,Bournemouth,1,4
+06.10.2007,2007,Leeds,Yeovil,1,0
+06.10.2007,2007,Leyton Orient,Swansea,0,5
+06.10.2007,2007,Luton,Doncaster,1,1
+06.10.2007,2007,Northampton,Port Vale,2,1
+06.10.2007,2007,Nottingham,Hartlepool,2,1
+06.10.2007,2007,Southend,Tranmere,1,2
+06.10.2007,2007,Swindon,Gillingham,5,0
+06.10.2007,2007,Walsall,Huddersfield,4,0
+02.10.2007,2007,Bournemouth,Brighton,0,2
+02.10.2007,2007,Bristol Rovers,Southend,1,1
+02.10.2007,2007,Doncaster,Walsall,2,3
+02.10.2007,2007,Gillingham,Leyton Orient,3,1
+02.10.2007,2007,Hartlepool,Carlisle,2,2
+02.10.2007,2007,Huddersfield,Nottingham,1,1
+02.10.2007,2007,Millwall,Northampton,2,0
+02.10.2007,2007,Oldham,Leeds,0,1
+02.10.2007,2007,Port Vale,Cheltenham,3,0
+02.10.2007,2007,Swansea,Swindon,2,1
+02.10.2007,2007,Tranmere,Crewe,1,1
+02.10.2007,2007,Yeovil,Luton,0,0
+29.09.2007,2007,Bournemouth,Carlisle,1,3
+29.09.2007,2007,Bristol Rovers,Leyton Orient,2,3
+29.09.2007,2007,Doncaster,Cheltenham,2,0
+29.09.2007,2007,Gillingham,Leeds,1,1
+29.09.2007,2007,Hartlepool,Walsall,0,1
+29.09.2007,2007,Huddersfield,Luton,2,0
+29.09.2007,2007,Millwall,Swindon,1,2
+29.09.2007,2007,Oldham,Crewe,3,2
+29.09.2007,2007,Port Vale,Southend,1,2
+29.09.2007,2007,Swansea,Brighton,0,0
+29.09.2007,2007,Tranmere,Northampton,2,2
+29.09.2007,2007,Yeovil,Nottingham,0,3
+22.09.2007,2007,Brighton,Yeovil,1,2
+22.09.2007,2007,Carlisle,Bristol Rovers,1,1
+22.09.2007,2007,Cheltenham,Tranmere,1,1
+22.09.2007,2007,Crewe,Millwall,0,0
+22.09.2007,2007,Leeds,Swansea,2,0
+22.09.2007,2007,Leyton Orient,Hartlepool,2,4
+22.09.2007,2007,Luton,Port Vale,2,1
+22.09.2007,2007,Northampton,Huddersfield,3,0
+22.09.2007,2007,Nottingham,Gillingham,4,0
+22.09.2007,2007,Southend,Doncaster,3,2
+22.09.2007,2007,Swindon,Bournemouth,4,1
+22.09.2007,2007,Walsall,Oldham,0,3
+18.09.2007,2007,Cheltenham,Swansea,1,2
+16.09.2007,2007,Doncaster,Crewe,2,0
+15.09.2007,2007,Bournemouth,Northampton,1,1
+15.09.2007,2007,Gillingham,Brighton,1,0
+15.09.2007,2007,Hartlepool,Swindon,1,1
+15.09.2007,2007,Huddersfield,Cheltenham,2,3
+15.09.2007,2007,Millwall,Walsall,1,2
+15.09.2007,2007,Oldham,Southend,0,1
+15.09.2007,2007,Port Vale,Nottingham,0,2
+15.09.2007,2007,Yeovil,Leyton Orient,0,1
+14.09.2007,2007,Bristol Rovers,Leeds,0,3
+14.09.2007,2007,Swansea,Carlisle,2,1
+14.09.2007,2007,Tranmere,Luton,2,1
+09.09.2007,2007,Swindon,Yeovil,0,1
+08.09.2007,2007,Carlisle,Tranmere,0,1
+08.09.2007,2007,Crewe,Huddersfield,2,0
+08.09.2007,2007,Leeds,Hartlepool,2,0
+08.09.2007,2007,Leyton Orient,Bournemouth,1,0
+08.09.2007,2007,Luton,Bristol Rovers,1,2
+08.09.2007,2007,Southend,Gillingham,3,0
+08.09.2007,2007,Walsall,Port Vale,0,0
+07.09.2007,2007,Brighton,Millwall,3,0
+07.09.2007,2007,Northampton,Doncaster,2,0
+01.09.2007,2007,Bournemouth,Port Vale,0,1
+01.09.2007,2007,Brighton,Southend,3,2
+01.09.2007,2007,Bristol Rovers,Nottingham,2,2
+01.09.2007,2007,Carlisle,Cheltenham,1,0
+01.09.2007,2007,Gillingham,Walsall,2,1
+01.09.2007,2007,Hartlepool,Oldham,4,1
+01.09.2007,2007,Leeds,Luton,1,0
+01.09.2007,2007,Leyton Orient,Northampton,2,2
+01.09.2007,2007,Millwall,Huddersfield,1,2
+01.09.2007,2007,Swansea,Doncaster,1,2
+01.09.2007,2007,Swindon,Crewe,1,1
+01.09.2007,2007,Yeovil,Tranmere,1,1
+25.08.2007,2007,Cheltenham,Swindon,1,1
+25.08.2007,2007,Crewe,Leyton Orient,0,2
+25.08.2007,2007,Doncaster,Bournemouth,1,2
+25.08.2007,2007,Huddersfield,Carlisle,0,2
+25.08.2007,2007,Luton,Gillingham,3,1
+25.08.2007,2007,Northampton,Yeovil,1,2
+25.08.2007,2007,Nottingham,Leeds,1,2
+25.08.2007,2007,Oldham,Bristol Rovers,0,1
+25.08.2007,2007,Port Vale,Hartlepool,0,2
+25.08.2007,2007,Southend,Millwall,1,0
+25.08.2007,2007,Tranmere,Brighton,2,0
+25.08.2007,2007,Walsall,Swansea,1,3
+18.08.2007,2007,Bournemouth,Huddersfield,0,1
+18.08.2007,2007,Brighton,Northampton,2,1
+18.08.2007,2007,Bristol Rovers,Crewe,1,1
+18.08.2007,2007,Carlisle,Oldham,1,0
+18.08.2007,2007,Gillingham,Tranmere,0,2
+18.08.2007,2007,Hartlepool,Doncaster,2,1
+18.08.2007,2007,Leeds,Southend,4,1
+18.08.2007,2007,Leyton Orient,Walsall,1,0
+18.08.2007,2007,Millwall,Cheltenham,1,0
+18.08.2007,2007,Swansea,Nottingham,0,0
+18.08.2007,2007,Swindon,Luton,2,1
+18.08.2007,2007,Yeovil,Port Vale,1,0
+11.08.2007,2007,Cheltenham,Gillingham,1,0
+11.08.2007,2007,Crewe,Brighton,2,1
+11.08.2007,2007,Doncaster,Millwall,0,0
+11.08.2007,2007,Huddersfield,Yeovil,1,0
+11.08.2007,2007,Luton,Hartlepool,2,1
+11.08.2007,2007,Northampton,Swindon,1,1
+11.08.2007,2007,Nottingham,Bournemouth,0,0
+11.08.2007,2007,Oldham,Swansea,2,1
+11.08.2007,2007,Port Vale,Bristol Rovers,1,1
+11.08.2007,2007,Southend,Leyton Orient,1,2
+11.08.2007,2007,Tranmere,Leeds,1,2
+11.08.2007,2007,Walsall,Carlisle,1,1

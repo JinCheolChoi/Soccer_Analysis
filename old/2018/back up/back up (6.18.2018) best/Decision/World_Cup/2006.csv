@@ -1,0 +1,169 @@
+"Time","H.team.1","A.team.1","H.team.2","A.team.2","Choose.1","Choose.2","Odd.1","Odd.2","joint.odds","result.mat"
+2006-06-09,"Germany","Costa Rica","Poland","Ecuador","D","H","5.04","1.93",9.7272,0
+2006-06-10,"Argentina","Ivory Coast","England","Paraguay","A","H","6.75","1.61",10.8675,0
+2006-06-10,"Argentina","Ivory Coast","England","Paraguay","D","D","3.6","3.38",12.168,0
+2006-06-10,"Argentina","Ivory Coast","England","Paraguay","H","A","1.6","6.2",9.92,0
+2006-06-10,"Argentina","Ivory Coast","Trinidad & Tobago","Sweden","H","D","1.6","5.65",9.04,1
+2006-06-10,"Argentina","Ivory Coast","Trinidad & Tobago","Sweden","A","A","6.75","1.23",8.3025,0
+2006-06-10,"England","Paraguay","Trinidad & Tobago","Sweden","H","D","1.61","5.65",9.0965,1
+2006-06-10,"England","Paraguay","Trinidad & Tobago","Sweden","A","A","6.2","1.23",7.626,0
+2006-06-11,"Angola","Portugal","Serbia and Montenegro","Netherlands","D","D","3.75","3.12",11.7,0
+2006-06-11,"Angola","Portugal","Serbia and Montenegro","Netherlands","D","A","3.75","1.88",7.05,0
+2006-06-12,"Australia","Japan","Italy","Ghana","H","D","2.48","3.4",8.432,0
+2006-06-12,"Australia","Japan","Italy","Ghana","D","D","3.13","3.4",10.642,0
+2006-06-12,"Australia","Japan","Italy","Ghana","A","D","2.88","3.4",9.792,0
+2006-06-12,"Australia","Japan","USA","Czech Republic","H","H","2.48","4.1",10.168,0
+2006-06-12,"Australia","Japan","USA","Czech Republic","D","H","3.13","4.1",12.833,0
+2006-06-12,"Australia","Japan","USA","Czech Republic","A","H","2.88","4.1",11.808,0
+2006-06-12,"Australia","Japan","USA","Czech Republic","H","D","2.48","3.25",8.06,0
+2006-06-12,"Australia","Japan","USA","Czech Republic","D","D","3.13","3.25",10.1725,0
+2006-06-12,"Australia","Japan","USA","Czech Republic","A","D","2.88","3.25",9.36,0
+2006-06-12,"Italy","Ghana","USA","Czech Republic","H","H","1.52","4.1",6.232,0
+2006-06-12,"Italy","Ghana","USA","Czech Republic","D","D","3.4","3.25",11.05,0
+2006-06-12,"Italy","Ghana","USA","Czech Republic","D","A","3.4","1.88",6.392,0
+2006-06-12,"Italy","Ghana","USA","Czech Republic","A","A","6.75","1.88",12.69,0
+2006-06-13,"France","Switzerland","South Korea","Togo","D","H","3.25","1.97",6.4025,1
+2006-06-13,"France","Switzerland","South Korea","Togo","A","H","5.4","1.97",10.638,0
+2006-06-13,"France","Switzerland","South Korea","Togo","D","D","3.25","3.09",10.0425,0
+2006-06-13,"France","Switzerland","South Korea","Togo","D","A","3.25","3.63",11.7975,0
+2006-06-13,"France","Switzerland","Brazil","Croatia","A","H","5.4","1.4",7.56,0
+2006-06-13,"France","Switzerland","Brazil","Croatia","D","D","3.25","3.5",11.375,0
+2006-06-13,"France","Switzerland","Brazil","Croatia","H","A","1.66","8",13.28,0
+2006-06-13,"South Korea","Togo","Brazil","Croatia","H","D","1.97","3.5",6.895,0
+2006-06-13,"South Korea","Togo","Brazil","Croatia","D","D","3.09","3.5",10.815,0
+2006-06-13,"South Korea","Togo","Brazil","Croatia","A","D","3.63","3.5",12.705,0
+2006-06-15,"England","Trinidad & Tobago","Sweden","Paraguay","D","H","6.38","1.93",12.3134,0
+2006-06-15,"England","Trinidad & Tobago","Ecuador","Costa Rica","D","H","6.38","1.93",12.3134,0
+2006-06-15,"Sweden","Paraguay","Ecuador","Costa Rica","A","H","3.97","1.93",7.6621,0
+2006-06-15,"Sweden","Paraguay","Ecuador","Costa Rica","D","D","3.18","3.18",10.1124,0
+2006-06-15,"Sweden","Paraguay","Ecuador","Costa Rica","A","D","3.97","3.18",12.6246,0
+2006-06-15,"Sweden","Paraguay","Ecuador","Costa Rica","H","A","1.93","3.97",7.6621,0
+2006-06-15,"Sweden","Paraguay","Ecuador","Costa Rica","D","A","3.18","3.97",12.6246,0
+2006-06-16,"Mexico","Angola","Netherlands","Ivory Coast","D","H","3.5","1.93",6.755,1
+2006-06-16,"Mexico","Angola","Netherlands","Ivory Coast","D","D","3.5","3.2",11.2,0
+2006-06-16,"Mexico","Angola","Netherlands","Ivory Coast","D","A","3.5","3.93",13.755,0
+2006-06-17,"Czech Republic","Ghana","Portugal","Iran","A","H","5","1.3",6.5,1
+2006-06-17,"Czech Republic","Ghana","Portugal","Iran","H","D","1.61","4",6.44,0
+2006-06-17,"Czech Republic","Ghana","Portugal","Iran","D","D","3.3","4",13.2,0
+2006-06-18,"France","South Korea","Brazil","Australia","A","H","7","1.2",8.4,0
+2006-06-18,"France","South Korea","Brazil","Australia","H","D","1.44","5",7.2,0
+2006-06-18,"France","South Korea","Japan","Croatia","H","H","1.44","5",7.2,0
+2006-06-18,"France","South Korea","Japan","Croatia","D","D","3.5","3.3",11.55,1
+2006-06-18,"France","South Korea","Japan","Croatia","A","A","7","1.61",11.27,0
+2006-06-18,"Brazil","Australia","Japan","Croatia","D","A","5","1.61",8.05,0
+2006-06-19,"Saudi Arabia","Ukraine","Spain","Tunisia","H","H","7","1.3",9.1,0
+2006-06-19,"Saudi Arabia","Ukraine","Spain","Tunisia","A","A","1.4","9.5",13.3,0
+2006-06-19,"Saudi Arabia","Ukraine","Togo","Switzerland","A","H","1.4","6.5",9.1,0
+2006-06-19,"Saudi Arabia","Ukraine","Togo","Switzerland","D","D","3.75","3.6",13.5,0
+2006-06-19,"Saudi Arabia","Ukraine","Togo","Switzerland","H","A","7","1.44",10.08,0
+2006-06-19,"Spain","Tunisia","Togo","Switzerland","H","H","1.3","6.5",8.45,0
+2006-06-19,"Spain","Tunisia","Togo","Switzerland","A","A","9.5","1.44",13.68,0
+2006-06-20,"Paraguay","Trinidad & Tobago","Sweden","England","D","H","3.75","3.1",11.625,0
+2006-06-20,"Paraguay","Trinidad & Tobago","Sweden","England","A","H","3.3","3.1",10.23,0
+2006-06-20,"Paraguay","Trinidad & Tobago","Sweden","England","D","D","3.75","2.62",9.825,0
+2006-06-20,"Paraguay","Trinidad & Tobago","Sweden","England","A","D","3.3","2.62",8.646,0
+2006-06-20,"Paraguay","Trinidad & Tobago","Sweden","England","D","A","3.75","2.37",8.8875,0
+2006-06-20,"Paraguay","Trinidad & Tobago","Sweden","England","A","A","3.3","2.37",7.821,0
+2006-06-20,"Paraguay","Trinidad & Tobago","Costa Rica","Poland","H","H","1.8","4.75",8.55,0
+2006-06-20,"Paraguay","Trinidad & Tobago","Costa Rica","Poland","H","D","1.8","3.45",6.21,0
+2006-06-20,"Paraguay","Trinidad & Tobago","Costa Rica","Poland","D","D","3.75","3.45",12.9375,0
+2006-06-20,"Paraguay","Trinidad & Tobago","Costa Rica","Poland","A","D","3.3","3.45",11.385,0
+2006-06-20,"Paraguay","Trinidad & Tobago","Costa Rica","Poland","D","A","3.75","1.71",6.4125,0
+2006-06-20,"Sweden","England","Costa Rica","Poland","D","H","2.62","4.75",12.445,0
+2006-06-20,"Sweden","England","Costa Rica","Poland","A","H","2.37","4.75",11.2575,0
+2006-06-20,"Sweden","England","Costa Rica","Poland","H","D","3.1","3.45",10.695,0
+2006-06-20,"Sweden","England","Costa Rica","Poland","D","D","2.62","3.45",9.039,0
+2006-06-20,"Sweden","England","Costa Rica","Poland","A","D","2.37","3.45",8.1765,0
+2006-06-21,"Iran","Angola","Portugal","Mexico","D","H","3.1","2.2",6.82,1
+2006-06-21,"Iran","Angola","Portugal","Mexico","H","D","2.4","2.62",6.288,0
+2006-06-21,"Iran","Angola","Portugal","Mexico","D","D","3.1","2.62",8.122,0
+2006-06-21,"Iran","Angola","Portugal","Mexico","A","D","2.6","2.62",6.812,0
+2006-06-21,"Iran","Angola","Portugal","Mexico","H","A","2.4","3.5",8.4,0
+2006-06-21,"Iran","Angola","Portugal","Mexico","D","A","3.1","3.5",10.85,0
+2006-06-21,"Iran","Angola","Portugal","Mexico","A","A","2.6","3.5",9.1,0
+2006-06-21,"Iran","Angola","Ivory Coast","Serbia and Montenegro","D","H","3.1","2.1",6.51,1
+2006-06-21,"Iran","Angola","Ivory Coast","Serbia and Montenegro","H","D","2.4","3.2",7.68,0
+2006-06-21,"Iran","Angola","Ivory Coast","Serbia and Montenegro","D","D","3.1","3.2",9.92,0
+2006-06-21,"Iran","Angola","Ivory Coast","Serbia and Montenegro","A","D","2.6","3.2",8.32,0
+2006-06-21,"Iran","Angola","Ivory Coast","Serbia and Montenegro","H","A","2.4","3",7.2,0
+2006-06-21,"Iran","Angola","Ivory Coast","Serbia and Montenegro","D","A","3.1","3",9.3,0
+2006-06-21,"Iran","Angola","Ivory Coast","Serbia and Montenegro","A","A","2.6","3",7.8,0
+2006-06-21,"Iran","Angola","Netherlands","Argentina","H","H","2.4","3.4",8.16,0
+2006-06-21,"Iran","Angola","Netherlands","Argentina","D","H","3.1","3.4",10.54,0
+2006-06-21,"Iran","Angola","Netherlands","Argentina","A","H","2.6","3.4",8.84,0
+2006-06-21,"Iran","Angola","Netherlands","Argentina","H","D","2.4","3",7.2,0
+2006-06-21,"Iran","Angola","Netherlands","Argentina","D","D","3.1","3",9.3,1
+2006-06-21,"Iran","Angola","Netherlands","Argentina","A","D","2.6","3",7.8,0
+2006-06-21,"Portugal","Mexico","Ivory Coast","Serbia and Montenegro","A","H","3.5","2.1",7.35,0
+2006-06-21,"Portugal","Mexico","Ivory Coast","Serbia and Montenegro","H","D","2.2","3.2",7.04,0
+2006-06-21,"Portugal","Mexico","Ivory Coast","Serbia and Montenegro","D","D","2.62","3.2",8.384,0
+2006-06-21,"Portugal","Mexico","Ivory Coast","Serbia and Montenegro","A","D","3.5","3.2",11.2,0
+2006-06-21,"Portugal","Mexico","Ivory Coast","Serbia and Montenegro","H","A","2.2","3",6.6,0
+2006-06-21,"Portugal","Mexico","Ivory Coast","Serbia and Montenegro","D","A","2.62","3",7.86,0
+2006-06-21,"Portugal","Mexico","Ivory Coast","Serbia and Montenegro","A","A","3.5","3",10.5,0
+2006-06-21,"Portugal","Mexico","Netherlands","Argentina","H","H","2.2","3.4",7.48,0
+2006-06-21,"Portugal","Mexico","Netherlands","Argentina","D","H","2.62","3.4",8.908,0
+2006-06-21,"Portugal","Mexico","Netherlands","Argentina","A","H","3.5","3.4",11.9,0
+2006-06-21,"Portugal","Mexico","Netherlands","Argentina","H","D","2.2","3",6.6,1
+2006-06-21,"Portugal","Mexico","Netherlands","Argentina","D","D","2.62","3",7.86,0
+2006-06-21,"Portugal","Mexico","Netherlands","Argentina","A","D","3.5","3",10.5,0
+2006-06-21,"Portugal","Mexico","Netherlands","Argentina","A","A","3.5","2",7,0
+2006-06-21,"Ivory Coast","Serbia and Montenegro","Netherlands","Argentina","H","H","2.1","3.4",7.14,0
+2006-06-21,"Ivory Coast","Serbia and Montenegro","Netherlands","Argentina","D","H","3.2","3.4",10.88,0
+2006-06-21,"Ivory Coast","Serbia and Montenegro","Netherlands","Argentina","A","H","3","3.4",10.2,0
+2006-06-21,"Ivory Coast","Serbia and Montenegro","Netherlands","Argentina","H","D","2.1","3",6.3,1
+2006-06-21,"Ivory Coast","Serbia and Montenegro","Netherlands","Argentina","D","D","3.2","3",9.6,0
+2006-06-21,"Ivory Coast","Serbia and Montenegro","Netherlands","Argentina","A","D","3","3",9,0
+2006-06-21,"Ivory Coast","Serbia and Montenegro","Netherlands","Argentina","D","A","3.2","2",6.4,0
+2006-06-22,"Croatia","Australia","Japan","Brazil","H","D","2.22","5.25",11.655,0
+2006-06-22,"Croatia","Australia","Czech Republic","Italy","H","H","2.22","3.95",8.769,0
+2006-06-22,"Croatia","Australia","Czech Republic","Italy","D","H","3.22","3.95",12.719,0
+2006-06-22,"Croatia","Australia","Czech Republic","Italy","A","H","3","3.95",11.85,0
+2006-06-22,"Croatia","Australia","Czech Republic","Italy","H","D","2.22","3.15",6.993,0
+2006-06-22,"Croatia","Australia","Czech Republic","Italy","D","D","3.22","3.15",10.143,0
+2006-06-22,"Croatia","Australia","Czech Republic","Italy","A","D","3","3.15",9.45,0
+2006-06-22,"Croatia","Australia","Czech Republic","Italy","D","A","3.22","1.95",6.279,1
+2006-06-22,"Croatia","Australia","Ghana","USA","D","H","3.22","2.2",7.084,1
+2006-06-22,"Croatia","Australia","Ghana","USA","A","H","3","2.2",6.6,0
+2006-06-22,"Croatia","Australia","Ghana","USA","H","D","2.22","3.25",7.215,0
+2006-06-22,"Croatia","Australia","Ghana","USA","D","D","3.22","3.25",10.465,0
+2006-06-22,"Croatia","Australia","Ghana","USA","A","D","3","3.25",9.75,0
+2006-06-22,"Croatia","Australia","Ghana","USA","D","A","3.22","2.75",8.855,0
+2006-06-22,"Croatia","Australia","Ghana","USA","A","A","3","2.75",8.25,0
+2006-06-22,"Japan","Brazil","Czech Republic","Italy","D","A","5.25","1.95",10.2375,0
+2006-06-22,"Japan","Brazil","Ghana","USA","D","H","5.25","2.2",11.55,0
+2006-06-22,"Czech Republic","Italy","Ghana","USA","H","H","3.95","2.2",8.69,0
+2006-06-22,"Czech Republic","Italy","Ghana","USA","D","H","3.15","2.2",6.93,0
+2006-06-22,"Czech Republic","Italy","Ghana","USA","H","D","3.95","3.25",12.8375,0
+2006-06-22,"Czech Republic","Italy","Ghana","USA","D","D","3.15","3.25",10.2375,0
+2006-06-22,"Czech Republic","Italy","Ghana","USA","A","D","1.95","3.25",6.3375,0
+2006-06-22,"Czech Republic","Italy","Ghana","USA","H","A","3.95","2.75",10.8625,0
+2006-06-22,"Czech Republic","Italy","Ghana","USA","D","A","3.15","2.75",8.6625,0
+2006-06-23,"Saudi Arabia","Spain","Ukraine","Tunisia","D","H","6.69","1.61",10.7709,0
+2006-06-23,"Saudi Arabia","Spain","Ukraine","Tunisia","A","A","1.15","6.1",7.015,0
+2006-06-23,"Saudi Arabia","Spain","Switzerland","South Korea","D","H","6.69","2.02",13.5138,0
+2006-06-23,"Saudi Arabia","Spain","Togo","France","A","D","1.15","7.2",8.28,0
+2006-06-23,"Saudi Arabia","Spain","Togo","France","D","A","6.69","1.14",7.6266,0
+2006-06-23,"Ukraine","Tunisia","Switzerland","South Korea","D","H","3.55","2.02",7.171,0
+2006-06-23,"Ukraine","Tunisia","Switzerland","South Korea","A","H","6.1","2.02",12.322,0
+2006-06-23,"Ukraine","Tunisia","Switzerland","South Korea","D","D","3.55","2.89",10.2595,0
+2006-06-23,"Ukraine","Tunisia","Switzerland","South Korea","H","A","1.61","4.3",6.923,0
+2006-06-23,"Ukraine","Tunisia","Togo","France","H","D","1.61","7.2",11.592,0
+2006-06-23,"Ukraine","Tunisia","Togo","France","A","A","6.1","1.14",6.954,0
+2006-06-24,"Argentina","Mexico","Germany","Sweden","D","H","4.22","1.63",6.8786,1
+2006-06-24,"Argentina","Mexico","Germany","Sweden","H","A","1.36","5.73",7.7928,0
+2006-06-25,"England","Ecuador","Portugal","Netherlands","D","H","3.78","3.11",11.7558,0
+2006-06-25,"England","Ecuador","Portugal","Netherlands","D","D","3.78","3.05",11.529,0
+2006-06-25,"England","Ecuador","Portugal","Netherlands","D","A","3.78","2.38",8.9964,0
+2006-06-26,"Italy","Australia","Switzerland","Ukraine","D","H","3.72","2.4",8.928,0
+2006-06-26,"Italy","Australia","Switzerland","Ukraine","D","D","3.72","3.01",11.1972,0
+2006-06-26,"Italy","Australia","Switzerland","Ukraine","D","A","3.72","3.14",11.6808,0
+2006-06-27,"Brazil","Ghana","Spain","France","D","H","5.27","2.33",12.2791,0
+2006-06-30,"Germany","Argentina","Italy","Ukraine","H","D","2.55","3.4",8.67,0
+2006-06-30,"Germany","Argentina","Italy","Ukraine","D","D","3","3.4",10.2,0
+2006-06-30,"Germany","Argentina","Italy","Ukraine","A","D","2.89","3.4",9.826,0
+2006-07-01,"Brazil","France","England","Portugal","D","H","3.38","2.11",7.1318,0
+2006-07-01,"Brazil","France","England","Portugal","A","H","5.06","2.11",10.6766,0
+2006-07-01,"Brazil","France","England","Portugal","D","D","3.38","3.02",10.2076,0
+2006-07-01,"Brazil","France","England","Portugal","H","A","1.74","3.7",6.438,0
+2006-07-01,"Brazil","France","England","Portugal","D","A","3.38","3.7",12.506,0

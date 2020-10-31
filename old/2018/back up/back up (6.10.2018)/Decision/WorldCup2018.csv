@@ -1,0 +1,66 @@
+Time,H.team.1,A.team.1,H.team.2,A.team.2,Choose.1,Choose.2,Odd.1,Odd.2,joint.odds
+6/16/2018,France,Australia,Peru,Denmark,A,H,13.83,3.13,43.2879
+6/16/2018,France,Australia,Peru,Denmark,A,D,13.83,3.19,44.1177
+6/16/2018,France,Australia,Peru,Denmark,A,A,13.83,2.4,33.192
+6/16/2018,France,Australia,Argentina,Iceland,A,D,13.83,4.9,67.767
+6/16/2018,France,Australia,Argentina,Iceland,D,A,6.34,12.25,77.665
+6/16/2018,France,Australia,Croatia,Nigeria,A,D,13.83,3.61,49.9263
+6/16/2018,France,Australia,Croatia,Nigeria,D,A,6.34,5.42,34.3628
+6/16/2018,France,Australia,Croatia,Nigeria,A,A,13.83,5.42,74.9586
+6/16/2018,Peru,Denmark,Argentina,Iceland,H,A,3.13,12.25,38.3425
+6/16/2018,Peru,Denmark,Argentina,Iceland,D,A,3.19,12.25,39.0775
+6/16/2018,Argentina,Iceland,Croatia,Nigeria,A,D,12.25,3.61,44.2225
+6/16/2018,Argentina,Iceland,Croatia,Nigeria,A,A,12.25,5.42,66.395
+6/17/2018,Costa Rica,Serbia,Brazil,Switzerland,H,A,4.43,8.38,37.1234
+6/17/2018,Costa Rica,Serbia,Germany,Mexico,H,A,4.43,7.25,32.1175
+6/17/2018,Brazil,Switzerland,Germany,Mexico,A,D,8.38,4.24,35.5312
+6/17/2018,Brazil,Switzerland,Germany,Mexico,D,A,4.58,7.25,33.205
+6/17/2018,Brazil,Switzerland,Germany,Mexico,A,A,8.38,7.25,60.755
+6/18/2018,Sweden,South Korea,Belgium,Panama,H,A,2.03,19.02,38.6106
+6/18/2018,Sweden,South Korea,Belgium,Panama,D,A,3.23,19.02,61.4346
+6/18/2018,Sweden,South Korea,Belgium,Panama,A,A,4.08,19.02,77.6016
+6/18/2018,Sweden,South Korea,Tunisia,England,A,H,4.08,9.55,38.964
+6/18/2018,Belgium,Panama,Tunisia,England,D,H,7.1,9.55,67.805
+6/18/2018,Belgium,Panama,Tunisia,England,D,D,7.1,4.53,32.163
+6/18/2018,Belgium,Panama,Tunisia,England,A,D,19.02,4.53,86.1606
+6/20/2018,Uruguay,Saudi Arabia,Portugal,Morocco,A,D,15.26,3.7,56.462
+6/20/2018,Uruguay,Saudi Arabia,Portugal,Morocco,D,A,6.09,5.77,35.1393
+6/20/2018,Uruguay,Saudi Arabia,Portugal,Morocco,A,A,15.26,5.77,88.0502
+6/20/2018,Uruguay,Saudi Arabia,Iran,Spain,D,D,6.09,6.43,39.1587
+6/20/2018,Portugal,Morocco,Iran,Spain,D,H,3.7,16.98,62.826
+6/20/2018,Portugal,Morocco,Iran,Spain,A,D,5.77,6.43,37.1011
+6/21/2018,Denmark,Australia,France,Peru,A,A,5.1,7.85,40.035
+6/22/2018,Nigeria,Iceland,Brazil,Costa Rica,H,A,2.6,14.42,37.492
+6/22/2018,Nigeria,Iceland,Brazil,Costa Rica,D,A,3.09,14.42,44.5578
+6/22/2018,Nigeria,Iceland,Brazil,Costa Rica,A,A,2.88,14.42,41.5296
+6/22/2018,Brazil,Costa Rica,Serbia,Switzerland,A,H,14.42,2.95,42.539
+6/22/2018,Brazil,Costa Rica,Serbia,Switzerland,A,D,14.42,3.12,44.9904
+6/22/2018,Brazil,Costa Rica,Serbia,Switzerland,A,A,14.42,2.55,36.771
+6/23/2018,South Korea,Mexico,Germany,Sweden,H,A,4.45,7.64,33.998
+6/23/2018,South Korea,Mexico,Belgium,Tunisia,H,A,4.45,10.36,46.102
+6/23/2018,South Korea,Mexico,Belgium,Tunisia,D,A,3.43,10.36,35.5348
+6/23/2018,Germany,Sweden,Belgium,Tunisia,A,D,7.64,5.21,39.8044
+6/23/2018,Germany,Sweden,Belgium,Tunisia,D,A,4.5,10.36,46.62
+6/23/2018,Germany,Sweden,Belgium,Tunisia,A,A,7.64,10.36,79.1504
+6/24/2018,England,Panama,Japan,Senegal,A,H,16.77,3.53,59.1981
+6/24/2018,England,Panama,Japan,Senegal,A,D,16.77,3.24,54.3348
+6/24/2018,England,Panama,Japan,Senegal,A,A,16.77,2.15,36.0555
+6/24/2018,England,Panama,Poland,Colombia,A,H,16.77,3.26,54.6702
+6/24/2018,England,Panama,Poland,Colombia,A,D,16.77,3.2,53.664
+6/24/2018,England,Panama,Poland,Colombia,A,A,16.77,2.29,38.4033
+6/25/2018,Saudi Arabia,Egypt,Iran,Portugal,H,H,5.04,9.09,45.8136
+6/25/2018,Saudi Arabia,Egypt,Iran,Portugal,D,H,3.55,9.09,32.2695
+6/25/2018,Saudi Arabia,Egypt,Spain,Morocco,H,A,5.04,9.35,47.124
+6/25/2018,Saudi Arabia,Egypt,Spain,Morocco,D,A,3.55,9.35,33.1925
+6/25/2018,Iran,Portugal,Spain,Morocco,H,D,9.09,4.69,42.6321
+6/25/2018,Iran,Portugal,Spain,Morocco,H,A,9.09,9.35,84.9915
+6/25/2018,Iran,Portugal,Spain,Morocco,D,A,4.7,9.35,43.945
+6/26/2018,Denmark,France,Nigeria,Argentina,H,H,5.51,7.22,39.7822
+6/26/2018,Iceland,Croatia,Nigeria,Argentina,H,H,4.79,7.22,34.5838
+6/27/2018,Serbia,Brazil,Switzerland,Costa Rica,H,A,8.72,4.35,37.932
+6/27/2018,Serbia,Brazil,South Korea,Germany,D,H,4.74,11.15,52.851
+6/27/2018,Serbia,Brazil,South Korea,Germany,H,D,8.72,5.44,47.4368
+6/27/2018,Switzerland,Costa Rica,South Korea,Germany,D,H,3.34,11.15,37.241
+6/27/2018,Switzerland,Costa Rica,South Korea,Germany,A,H,4.35,11.15,48.5025
+6/27/2018,Mexico,Sweden,South Korea,Germany,D,H,3.17,11.15,35.3455
+6/27/2018,Mexico,Sweden,South Korea,Germany,A,H,2.96,11.15,33.004

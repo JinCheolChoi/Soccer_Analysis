@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+08.05.2001,2001,Southend,Mansfield,3,1
+05.05.2001,2001,Barnet,Torquay,2,3
+05.05.2001,2001,Carlisle,Hull,0,0
+05.05.2001,2001,Cheltenham,Southend,2,1
+05.05.2001,2001,Chesterfield,FC Halifax,3,0
+05.05.2001,2001,Darlington,Blackpool,1,3
+05.05.2001,2001,Exeter,Lincoln,0,0
+05.05.2001,2001,Hartlepool,Cardiff,3,1
+05.05.2001,2001,Macclesfield,Leyton Orient,0,2
+05.05.2001,2001,Mansfield,Scunthorpe,1,0
+05.05.2001,2001,Plymouth,Rochdale,0,0
+05.05.2001,2001,Shrewsbury,Brighton,3,0
+05.05.2001,2001,York,Kidderminster,1,0
+03.05.2001,2001,FC Halifax,Brighton,0,0
+02.05.2001,2001,Lincoln,Carlisle,1,1
+01.05.2001,2001,Mansfield,Darlington,3,2
+01.05.2001,2001,Shrewsbury,York,2,0
+01.05.2001,2001,Brighton,Chesterfield,1,0
+01.05.2001,2001,Southend,Hull,1,1
+01.05.2001,2001,Rochdale,Plymouth,2,1
+30.04.2001,2001,Lincoln,FC Halifax,1,1
+28.04.2001,2001,Blackpool,Barnet,3,2
+28.04.2001,2001,Brighton,Macclesfield,4,1
+28.04.2001,2001,Cardiff,Shrewsbury,3,1
+28.04.2001,2001,FC Halifax,Darlington,1,0
+28.04.2001,2001,Hull,Chesterfield,3,1
+28.04.2001,2001,Kidderminster,Hartlepool,0,1
+28.04.2001,2001,Leyton Orient,Cheltenham,0,0
+28.04.2001,2001,Lincoln,Plymouth,2,1
+28.04.2001,2001,Rochdale,Mansfield,1,0
+28.04.2001,2001,Scunthorpe,Exeter,0,2
+28.04.2001,2001,Southend,Carlisle,1,1
+28.04.2001,2001,Torquay,York,2,2
+26.04.2001,2001,Blackpool,Rochdale,3,1
+24.04.2001,2001,Mansfield,Cardiff,2,1
+24.04.2001,2001,Torquay,Darlington,2,1
+24.04.2001,2001,Plymouth,Southend,3,3
+23.04.2001,2001,Rochdale,Lincoln,3,1
+21.04.2001,2001,Barnet,Rochdale,3,0
+21.04.2001,2001,Carlisle,Brighton,0,0
+21.04.2001,2001,Cheltenham,Kidderminster,1,3
+21.04.2001,2001,Chesterfield,Lincoln,1,2
+21.04.2001,2001,Darlington,Hull,0,2
+21.04.2001,2001,Exeter,FC Halifax,0,0
+21.04.2001,2001,Hartlepool,Scunthorpe,1,0
+21.04.2001,2001,Macclesfield,Southend,1,0
+21.04.2001,2001,Mansfield,Leyton Orient,2,0
+21.04.2001,2001,Plymouth,Torquay,3,1
+21.04.2001,2001,Shrewsbury,Blackpool,1,0
+21.04.2001,2001,York,Cardiff,3,3
+16.04.2001,2001,Blackpool,Cheltenham,2,2
+16.04.2001,2001,Brighton,Darlington,2,0
+16.04.2001,2001,Cardiff,Chesterfield,3,3
+16.04.2001,2001,FC Halifax,Macclesfield,3,0
+16.04.2001,2001,Hull,York,0,0
+16.04.2001,2001,Kidderminster,Plymouth,3,0
+16.04.2001,2001,Leyton Orient,Hartlepool,3,1
+16.04.2001,2001,Lincoln,Barnet,2,1
+16.04.2001,2001,Rochdale,Exeter,3,0
+16.04.2001,2001,Scunthorpe,Carlisle,3,0
+16.04.2001,2001,Torquay,Shrewsbury,0,0
+14.04.2001,2001,Barnet,Leyton Orient,1,2
+14.04.2001,2001,Carlisle,Blackpool,1,0
+14.04.2001,2001,Cheltenham,Lincoln,2,1
+14.04.2001,2001,Chesterfield,Kidderminster,1,0
+14.04.2001,2001,Darlington,Cardiff,2,0
+14.04.2001,2001,Exeter,Southend,2,2
+14.04.2001,2001,Hartlepool,Hull,0,1
+14.04.2001,2001,Macclesfield,Rochdale,0,0
+14.04.2001,2001,Mansfield,Torquay,0,0
+14.04.2001,2001,Plymouth,Brighton,0,2
+14.04.2001,2001,Shrewsbury,Scunthorpe,0,2
+14.04.2001,2001,York,FC Halifax,2,1
+10.04.2001,2001,Torquay,Macclesfield,2,0
+10.04.2001,2001,Darlington,Shrewsbury,3,0
+10.04.2001,2001,Rochdale,Carlisle,6,0
+10.04.2001,2001,FC Halifax,Blackpool,1,2
+10.04.2001,2001,Brighton,Lincoln,2,0
+10.04.2001,2001,Leyton Orient,Plymouth,1,1
+07.04.2001,2001,Barnet,Cheltenham,2,2
+07.04.2001,2001,Cardiff,Torquay,2,1
+07.04.2001,2001,Hull,Scunthorpe,2,1
+07.04.2001,2001,Leyton Orient,Chesterfield,2,0
+07.04.2001,2001,Macclesfield,Kidderminster,1,0
+07.04.2001,2001,Plymouth,Exeter,1,0
+07.04.2001,2001,Southend,Hartlepool,2,1
+04.04.2001,2001,Cardiff,Barnet,1,0
+03.04.2001,2001,Scunthorpe,Lincoln,2,1
+03.04.2001,2001,Darlington,Southend,1,1
+03.04.2001,2001,Rochdale,Brighton,1,1
+01.04.2001,2001,Cheltenham,Cardiff,3,1
+31.03.2001,2001,Brighton,Mansfield,2,0
+31.03.2001,2001,Carlisle,Macclesfield,1,0
+31.03.2001,2001,Chesterfield,Southend,1,1
+31.03.2001,2001,Darlington,Leyton Orient,1,1
+31.03.2001,2001,Exeter,Blackpool,2,0
+31.03.2001,2001,Hartlepool,FC Halifax,1,1
+31.03.2001,2001,Kidderminster,Shrewsbury,3,1
+31.03.2001,2001,Scunthorpe,Barnet,2,1
+31.03.2001,2001,Torquay,Hull,1,1
+31.03.2001,2001,York,Plymouth,1,2
+27.03.2001,2001,Hull,Rochdale,3,2
+27.03.2001,2001,FC Halifax,Carlisle,0,0
+27.03.2001,2001,Hartlepool,Lincoln,1,0
+27.03.2001,2001,Exeter,Darlington,1,1
+24.03.2001,2001,Darlington,Scunthorpe,2,1
+24.03.2001,2001,Exeter,Kidderminster,2,1
+24.03.2001,2001,FC Halifax,Barnet,3,0
+24.03.2001,2001,Leyton Orient,York,1,1
+24.03.2001,2001,Macclesfield,Blackpool,2,1
+24.03.2001,2001,Plymouth,Hartlepool,0,2
+23.03.2001,2001,Carlisle,Torquay,1,0
+23.03.2001,2001,Lincoln,Shrewsbury,2,2
+23.03.2001,2001,Rochdale,Cheltenham,1,1
+20.03.2001,2001,Leyton Orient,Blackpool,1,0
+20.03.2001,2001,Cheltenham,York,1,1
+20.03.2001,2001,Shrewsbury,Kidderminster,1,0
+17.03.2001,2001,Barnet,Southend,2,1
+17.03.2001,2001,Blackpool,Mansfield,2,2
+17.03.2001,2001,Cardiff,Carlisle,4,1
+17.03.2001,2001,Cheltenham,FC Halifax,4,2
+17.03.2001,2001,Chesterfield,Rochdale,1,1
+17.03.2001,2001,Hartlepool,Brighton,2,2
+17.03.2001,2001,Hull,Exeter,2,1
+17.03.2001,2001,Kidderminster,Darlington,0,0
+17.03.2001,2001,Scunthorpe,Plymouth,4,1
+17.03.2001,2001,Shrewsbury,Leyton Orient,1,1
+17.03.2001,2001,York,Lincoln,0,0
+14.03.2001,2001,Brighton,Barnet,4,1
+13.03.2001,2001,York,Darlington,2,0
+13.03.2001,2001,Carlisle,Leyton Orient,1,0
+13.03.2001,2001,Kidderminster,Scunthorpe,0,0
+13.03.2001,2001,Plymouth,Hull,1,1
+13.03.2001,2001,Shrewsbury,Cardiff,0,4
+11.03.2001,2001,Macclesfield,Barnet,3,0
+10.03.2001,2001,Brighton,Hull,3,0
+10.03.2001,2001,Carlisle,Cheltenham,1,1
+10.03.2001,2001,Darlington,Hartlepool,1,1
+10.03.2001,2001,Exeter,Shrewsbury,1,0
+10.03.2001,2001,FC Halifax,Scunthorpe,3,4
+10.03.2001,2001,Leyton Orient,Torquay,0,2
+10.03.2001,2001,Lincoln,Cardiff,2,0
+10.03.2001,2001,Mansfield,York,1,3
+10.03.2001,2001,Plymouth,Chesterfield,3,0
+10.03.2001,2001,Rochdale,Kidderminster,0,0
+10.03.2001,2001,Southend,Blackpool,0,3
+06.03.2001,2001,Barnet,Carlisle,0,1
+06.03.2001,2001,Blackpool,Plymouth,1,0
+06.03.2001,2001,Cardiff,Leyton Orient,1,1
+06.03.2001,2001,Cheltenham,Macclesfield,1,1
+06.03.2001,2001,Hartlepool,Rochdale,1,1
+06.03.2001,2001,Hull,FC Halifax,1,0
+06.03.2001,2001,Kidderminster,Lincoln,1,3
+06.03.2001,2001,Scunthorpe,Brighton,2,1
+06.03.2001,2001,Shrewsbury,Mansfield,2,1
+06.03.2001,2001,York,Southend,1,0
+03.03.2001,2001,Barnet,Plymouth,1,1
+03.03.2001,2001,Blackpool,Kidderminster,5,1
+03.03.2001,2001,Carlisle,Darlington,0,2
+03.03.2001,2001,Cheltenham,Exeter,1,0
+03.03.2001,2001,Leyton Orient,Brighton,0,2
+03.03.2001,2001,Macclesfield,Chesterfield,1,2
+03.03.2001,2001,Mansfield,Lincoln,2,3
+03.03.2001,2001,Shrewsbury,FC Halifax,2,1
+03.03.2001,2001,Southend,Rochdale,3,0
+03.03.2001,2001,Torquay,Scunthorpe,0,2
+03.03.2001,2001,York,Hartlepool,1,1
+02.03.2001,2001,Cardiff,Hull,2,0
+27.02.2001,2001,Cheltenham,Scunthorpe,1,0
+27.02.2001,2001,Mansfield,Barnet,4,1
+25.02.2001,2001,Kidderminster,Cardiff,2,4
+24.02.2001,2001,Brighton,York,1,1
+24.02.2001,2001,Chesterfield,Blackpool,2,1
+24.02.2001,2001,Darlington,Macclesfield,1,1
+24.02.2001,2001,Exeter,Carlisle,1,0
+24.02.2001,2001,FC Halifax,Torquay,2,1
+24.02.2001,2001,Hartlepool,Mansfield,1,1
+24.02.2001,2001,Hull,Barnet,2,1
+24.02.2001,2001,Lincoln,Leyton Orient,2,3
+24.02.2001,2001,Plymouth,Cheltenham,0,0
+24.02.2001,2001,Rochdale,Shrewsbury,1,7
+24.02.2001,2001,Scunthorpe,Southend,1,1
+20.02.2001,2001,Brighton,Blackpool,1,0
+20.02.2001,2001,Chesterfield,Carlisle,1,1
+20.02.2001,2001,Darlington,Cheltenham,1,0
+20.02.2001,2001,Exeter,Barnet,1,0
+20.02.2001,2001,FC Halifax,Cardiff,1,2
+20.02.2001,2001,Hartlepool,Torquay,3,1
+20.02.2001,2001,Hull,Mansfield,2,1
+20.02.2001,2001,Kidderminster,Southend,2,1
+20.02.2001,2001,Lincoln,Macclesfield,1,2
+20.02.2001,2001,Plymouth,Shrewsbury,3,1
+20.02.2001,2001,Rochdale,York,0,1
+20.02.2001,2001,Scunthorpe,Leyton Orient,1,1
+17.02.2001,2001,Barnet,Darlington,3,0
+17.02.2001,2001,Blackpool,Lincoln,2,0
+17.02.2001,2001,Cardiff,Scunthorpe,3,0
+17.02.2001,2001,Carlisle,Plymouth,1,1
+17.02.2001,2001,Cheltenham,Brighton,3,1
+17.02.2001,2001,Leyton Orient,Kidderminster,0,0
+17.02.2001,2001,Macclesfield,Hartlepool,0,1
+17.02.2001,2001,Mansfield,Chesterfield,0,1
+17.02.2001,2001,Shrewsbury,Hull,0,2
+17.02.2001,2001,Southend,FC Halifax,0,3
+17.02.2001,2001,Torquay,Rochdale,1,0
+17.02.2001,2001,York,Exeter,0,3
+13.02.2001,2001,Scunthorpe,Rochdale,0,0
+13.02.2001,2001,Mansfield,Cheltenham,2,1
+13.02.2001,2001,Blackpool,Cardiff,1,0
+13.02.2001,2001,Macclesfield,Shrewsbury,2,1
+13.02.2001,2001,Carlisle,Hartlepool,2,3
+10.02.2001,2001,Brighton,Cardiff,1,0
+10.02.2001,2001,Exeter,Macclesfield,0,0
+10.02.2001,2001,FC Halifax,Mansfield,3,4
+10.02.2001,2001,Hartlepool,Blackpool,3,1
+10.02.2001,2001,Hull,Leyton Orient,1,0
+10.02.2001,2001,Kidderminster,Barnet,2,1
+10.02.2001,2001,Lincoln,Torquay,1,2
+10.02.2001,2001,Scunthorpe,York,4,0
+09.02.2001,2001,Chesterfield,Cheltenham,2,0
+03.02.2001,2001,Barnet,Chesterfield,1,1
+03.02.2001,2001,Blackpool,Scunthorpe,6,0
+03.02.2001,2001,Carlisle,Kidderminster,2,0
+03.02.2001,2001,Cheltenham,Hull,0,1
+03.02.2001,2001,Leyton Orient,FC Halifax,3,0
+03.02.2001,2001,Macclesfield,Plymouth,3,1
+03.02.2001,2001,Shrewsbury,Hartlepool,1,1
+03.02.2001,2001,Southend,Lincoln,1,0
+03.02.2001,2001,Torquay,Brighton,0,1
+02.02.2001,2001,Cardiff,Rochdale,0,0
+02.02.2001,2001,Mansfield,Exeter,1,1
+30.01.2001,2001,York,Carlisle,0,0
+30.01.2001,2001,Plymouth,Kidderminster,4,0
+28.01.2001,2001,Rochdale,Leyton Orient,3,1
+28.01.2001,2001,Southend,Shrewsbury,0,0
+27.01.2001,2001,Barnet,Hartlepool,1,3
+27.01.2001,2001,Blackpool,York,1,0
+27.01.2001,2001,Carlisle,Mansfield,2,1
+27.01.2001,2001,Chesterfield,Torquay,3,0
+27.01.2001,2001,Exeter,Brighton,1,0
+27.01.2001,2001,Kidderminster,Hull,2,2
+27.01.2001,2001,Lincoln,Darlington,2,2
+27.01.2001,2001,Macclesfield,Cardiff,2,5
+27.01.2001,2001,Plymouth,FC Halifax,1,0
+23.01.2001,2001,Mansfield,Kidderminster,2,1
+23.01.2001,2001,York,Chesterfield,0,1
+20.01.2001,2001,Cardiff,Plymouth,4,1
+20.01.2001,2001,Darlington,Chesterfield,0,3
+20.01.2001,2001,Hartlepool,Carlisle,2,2
+20.01.2001,2001,Leyton Orient,Southend,0,2
+20.01.2001,2001,Shrewsbury,Cheltenham,1,0
+20.01.2001,2001,Torquay,Exeter,2,1
+20.01.2001,2001,York,Macclesfield,1,3
+16.01.2001,2001,Hull,Blackpool,0,1
+16.01.2001,2001,Chesterfield,Hartlepool,0,0
+16.01.2001,2001,Plymouth,Lincoln,1,0
+14.01.2001,2001,Macclesfield,Mansfield,0,1
+13.01.2001,2001,Barnet,York,2,0
+13.01.2001,2001,Blackpool,Torquay,5,0
+13.01.2001,2001,Carlisle,Shrewsbury,1,0
+13.01.2001,2001,Cheltenham,Hartlepool,1,2
+13.01.2001,2001,Chesterfield,Scunthorpe,1,0
+13.01.2001,2001,Exeter,Leyton Orient,2,3
+13.01.2001,2001,Kidderminster,Brighton,0,2
+13.01.2001,2001,Lincoln,Hull,2,0
+13.01.2001,2001,Plymouth,Darlington,1,1
+13.01.2001,2001,Rochdale,FC Halifax,0,1
+13.01.2001,2001,Southend,Cardiff,1,1
+06.01.2001,2001,FC Halifax,Kidderminster,3,2
+06.01.2001,2001,Hartlepool,Exeter,2,0
+06.01.2001,2001,Hull,Macclesfield,0,0
+06.01.2001,2001,Mansfield,Plymouth,0,0
+06.01.2001,2001,Shrewsbury,Chesterfield,0,0
+06.01.2001,2001,Torquay,Cheltenham,1,2
+06.01.2001,2001,Darlington,Rochdale,1,2
+01.01.2001,2001,Brighton,Southend,0,2
+01.01.2001,2001,Cardiff,Exeter,6,1
+01.01.2001,2001,Scunthorpe,Macclesfield,2,2
+01.01.2001,2001,Shrewsbury,Barnet,3,2
+01.01.2001,2001,Torquay,Kidderminster,1,1
+30.12.2000,2001,Southend,Torquay,1,1
+26.12.2000,2001,Barnet,Brighton,0,1
+26.12.2000,2001,Blackpool,FC Halifax,0,1
+26.12.2000,2001,Cheltenham,Shrewsbury,1,1
+26.12.2000,2001,Chesterfield,Darlington,2,0
+26.12.2000,2001,Exeter,Torquay,1,1
+26.12.2000,2001,Kidderminster,Mansfield,1,0
+26.12.2000,2001,Lincoln,Scunthorpe,1,1
+26.12.2000,2001,Macclesfield,York,0,1
+26.12.2000,2001,Plymouth,Cardiff,2,1
+26.12.2000,2001,Rochdale,Hull,1,0
+26.12.2000,2001,Southend,Leyton Orient,0,1
+23.12.2000,2001,Cardiff,Macclesfield,2,0
+23.12.2000,2001,Darlington,Lincoln,3,0
+23.12.2000,2001,FC Halifax,Plymouth,2,0
+23.12.2000,2001,Hartlepool,Barnet,6,1
+23.12.2000,2001,Hull,Kidderminster,0,0
+23.12.2000,2001,Leyton Orient,Rochdale,1,1
+23.12.2000,2001,Scunthorpe,Cheltenham,1,1
+23.12.2000,2001,Torquay,Chesterfield,0,0
+22.12.2000,2001,Brighton,Exeter,2,0
+22.12.2000,2001,Mansfield,Carlisle,1,1
+22.12.2000,2001,Shrewsbury,Southend,0,1
+22.12.2000,2001,York,Blackpool,0,2
+16.12.2000,2001,Barnet,Scunthorpe,4,2
+16.12.2000,2001,Blackpool,Exeter,3,0
+16.12.2000,2001,Cardiff,Cheltenham,3,1
+16.12.2000,2001,FC Halifax,Hartlepool,0,1
+16.12.2000,2001,Hull,Torquay,1,2
+16.12.2000,2001,Leyton Orient,Darlington,1,0
+16.12.2000,2001,Lincoln,Rochdale,1,1
+16.12.2000,2001,Macclesfield,Carlisle,1,0
+16.12.2000,2001,Mansfield,Brighton,2,0
+16.12.2000,2001,Plymouth,York,1,0
+16.12.2000,2001,Southend,Chesterfield,3,2
+09.12.2000,2001,Chesterfield,Exeter,2,0
+02.12.2000,2001,Brighton,FC Halifax,2,1
+02.12.2000,2001,Carlisle,Lincoln,1,1
+02.12.2000,2001,Cheltenham,Barnet,4,3
+02.12.2000,2001,Chesterfield,Leyton Orient,4,1
+02.12.2000,2001,Darlington,Mansfield,2,1
+02.12.2000,2001,Exeter,Plymouth,0,2
+02.12.2000,2001,Hartlepool,Southend,1,0
+02.12.2000,2001,Kidderminster,Macclesfield,2,1
+02.12.2000,2001,Rochdale,Blackpool,1,0
+02.12.2000,2001,Scunthorpe,Hull,0,1
+02.12.2000,2001,Torquay,Cardiff,1,4
+02.12.2000,2001,York,Shrewsbury,2,1
+25.11.2000,2001,Blackpool,Darlington,2,1
+25.11.2000,2001,Brighton,Shrewsbury,4,0
+25.11.2000,2001,Cardiff,Hartlepool,3,2
+25.11.2000,2001,FC Halifax,Chesterfield,2,2
+25.11.2000,2001,Hull,Carlisle,2,1
+25.11.2000,2001,Kidderminster,York,3,1
+25.11.2000,2001,Leyton Orient,Macclesfield,2,1
+25.11.2000,2001,Lincoln,Exeter,3,1
+25.11.2000,2001,Scunthorpe,Mansfield,6,0
+25.11.2000,2001,Southend,Cheltenham,0,1
+25.11.2000,2001,Torquay,Barnet,2,1
+22.11.2000,2001,Cardiff,Lincoln,3,2
+11.11.2000,2001,Barnet,Blackpool,7,0
+11.11.2000,2001,Carlisle,Southend,3,1
+11.11.2000,2001,Cheltenham,Leyton Orient,1,1
+11.11.2000,2001,Chesterfield,Hull,1,0
+11.11.2000,2001,Darlington,FC Halifax,0,1
+11.11.2000,2001,Exeter,Scunthorpe,2,1
+11.11.2000,2001,Hartlepool,Kidderminster,3,1
+11.11.2000,2001,Macclesfield,Brighton,0,0
+11.11.2000,2001,Mansfield,Rochdale,1,0
+11.11.2000,2001,York,Torquay,3,2
+04.11.2000,2001,Blackpool,Shrewsbury,0,1
+04.11.2000,2001,Brighton,Carlisle,4,1
+04.11.2000,2001,Cardiff,York,4,0
+04.11.2000,2001,FC Halifax,Exeter,3,1
+04.11.2000,2001,Hull,Darlington,2,0
+04.11.2000,2001,Kidderminster,Cheltenham,1,1
+04.11.2000,2001,Leyton Orient,Mansfield,2,1
+04.11.2000,2001,Lincoln,Chesterfield,1,1
+04.11.2000,2001,Rochdale,Barnet,0,0
+04.11.2000,2001,Scunthorpe,Hartlepool,3,0
+04.11.2000,2001,Southend,Macclesfield,3,1
+04.11.2000,2001,Torquay,Plymouth,1,1
+28.10.2000,2001,Barnet,Lincoln,4,3
+28.10.2000,2001,Carlisle,Scunthorpe,1,2
+28.10.2000,2001,Cheltenham,Blackpool,0,1
+28.10.2000,2001,Chesterfield,Cardiff,2,2
+28.10.2000,2001,Darlington,Brighton,1,2
+28.10.2000,2001,Exeter,Rochdale,0,1
+28.10.2000,2001,Hartlepool,Leyton Orient,2,1
+28.10.2000,2001,Macclesfield,FC Halifax,0,0
+28.10.2000,2001,Mansfield,Southend,1,1
+28.10.2000,2001,Shrewsbury,Torquay,1,1
+28.10.2000,2001,York,Hull,0,0
+24.10.2000,2001,Blackpool,Carlisle,3,2
+24.10.2000,2001,Brighton,Plymouth,2,0
+24.10.2000,2001,Cardiff,Darlington,2,0
+24.10.2000,2001,FC Halifax,York,1,3
+24.10.2000,2001,Hull,Hartlepool,0,0
+24.10.2000,2001,Kidderminster,Chesterfield,0,2
+24.10.2000,2001,Leyton Orient,Barnet,3,1
+24.10.2000,2001,Lincoln,Cheltenham,1,0
+24.10.2000,2001,Rochdale,Macclesfield,2,2
+24.10.2000,2001,Scunthorpe,Shrewsbury,2,0
+24.10.2000,2001,Southend,Exeter,1,1
+24.10.2000,2001,Torquay,Mansfield,2,2
+21.10.2000,2001,Barnet,FC Halifax,1,0
+21.10.2000,2001,Blackpool,Macclesfield,2,1
+21.10.2000,2001,Cardiff,Mansfield,2,0
+21.10.2000,2001,Cheltenham,Rochdale,0,2
+21.10.2000,2001,Chesterfield,Brighton,1,0
+21.10.2000,2001,Hartlepool,Plymouth,1,1
+21.10.2000,2001,Hull,Southend,1,1
+21.10.2000,2001,Kidderminster,Exeter,0,0
+21.10.2000,2001,Scunthorpe,Darlington,1,1
+21.10.2000,2001,Shrewsbury,Lincoln,3,2
+21.10.2000,2001,Torquay,Carlisle,4,2
+21.10.2000,2001,York,Leyton Orient,1,1
+18.10.2000,2001,Brighton,Hartlepool,4,2
+17.10.2000,2001,Carlisle,Cardiff,2,2
+17.10.2000,2001,Darlington,Kidderminster,1,2
+17.10.2000,2001,Exeter,Hull,0,1
+17.10.2000,2001,FC Halifax,Cheltenham,1,2
+17.10.2000,2001,Leyton Orient,Shrewsbury,2,0
+17.10.2000,2001,Lincoln,York,2,1
+17.10.2000,2001,Macclesfield,Torquay,2,1
+17.10.2000,2001,Mansfield,Blackpool,0,1
+17.10.2000,2001,Plymouth,Scunthorpe,1,0
+17.10.2000,2001,Rochdale,Chesterfield,2,2
+17.10.2000,2001,Southend,Barnet,2,0
+14.10.2000,2001,Brighton,Scunthorpe,0,0
+14.10.2000,2001,Carlisle,Barnet,0,2
+14.10.2000,2001,Darlington,Torquay,2,0
+14.10.2000,2001,Exeter,Chesterfield,1,1
+14.10.2000,2001,FC Halifax,Hull,0,2
+14.10.2000,2001,Leyton Orient,Cardiff,2,1
+14.10.2000,2001,Lincoln,Kidderminster,3,3
+14.10.2000,2001,Macclesfield,Cheltenham,2,1
+14.10.2000,2001,Mansfield,Shrewsbury,1,0
+14.10.2000,2001,Plymouth,Blackpool,2,0
+14.10.2000,2001,Rochdale,Hartlepool,2,1
+14.10.2000,2001,Southend,York,1,0
+08.10.2000,2001,Barnet,Macclesfield,0,2
+08.10.2000,2001,Blackpool,Southend,2,2
+08.10.2000,2001,Torquay,Leyton Orient,1,2
+07.10.2000,2001,Chesterfield,Plymouth,2,1
+07.10.2000,2001,Hartlepool,Darlington,2,1
+07.10.2000,2001,Scunthorpe,FC Halifax,1,0
+06.10.2000,2001,Cheltenham,Carlisle,1,0
+06.10.2000,2001,Hull,Brighton,0,2
+06.10.2000,2001,Kidderminster,Rochdale,0,0
+06.10.2000,2001,Shrewsbury,Exeter,2,0
+06.10.2000,2001,York,Mansfield,2,1
+30.09.2000,2001,Brighton,Leyton Orient,2,0
+30.09.2000,2001,Chesterfield,Macclesfield,4,1
+30.09.2000,2001,Darlington,Carlisle,1,0
+30.09.2000,2001,Exeter,Cheltenham,0,2
+30.09.2000,2001,FC Halifax,Shrewsbury,0,0
+30.09.2000,2001,Hartlepool,York,1,0
+30.09.2000,2001,Hull,Cardiff,2,0
+30.09.2000,2001,Lincoln,Mansfield,0,2
+30.09.2000,2001,Plymouth,Barnet,2,3
+30.09.2000,2001,Rochdale,Southend,0,1
+30.09.2000,2001,Scunthorpe,Torquay,3,0
+29.09.2000,2001,Kidderminster,Blackpool,1,4
+23.09.2000,2001,Barnet,Hull,1,1
+23.09.2000,2001,Blackpool,Chesterfield,1,3
+23.09.2000,2001,Cardiff,Kidderminster,0,0
+23.09.2000,2001,Carlisle,Exeter,0,1
+23.09.2000,2001,Cheltenham,Plymouth,5,2
+23.09.2000,2001,Leyton Orient,Lincoln,1,0
+23.09.2000,2001,Mansfield,Hartlepool,4,3
+23.09.2000,2001,Shrewsbury,Rochdale,0,4
+23.09.2000,2001,Southend,Scunthorpe,1,0
+23.09.2000,2001,Torquay,FC Halifax,1,2
+23.09.2000,2001,York,Brighton,0,1
+22.09.2000,2001,Macclesfield,Darlington,1,1
+16.09.2000,2001,Brighton,Cheltenham,3,0
+16.09.2000,2001,Chesterfield,Mansfield,4,0
+16.09.2000,2001,Darlington,Barnet,1,0
+16.09.2000,2001,Exeter,York,3,1
+16.09.2000,2001,FC Halifax,Southend,0,1
+16.09.2000,2001,Hartlepool,Macclesfield,2,2
+16.09.2000,2001,Hull,Shrewsbury,1,0
+16.09.2000,2001,Kidderminster,Leyton Orient,2,1
+16.09.2000,2001,Lincoln,Blackpool,1,1
+16.09.2000,2001,Plymouth,Carlisle,2,0
+16.09.2000,2001,Rochdale,Torquay,2,1
+16.09.2000,2001,Scunthorpe,Cardiff,0,2
+12.09.2000,2001,Barnet,Exeter,1,1
+12.09.2000,2001,Blackpool,Brighton,0,2
+12.09.2000,2001,Cardiff,FC Halifax,4,2
+12.09.2000,2001,Carlisle,Chesterfield,2,4
+12.09.2000,2001,Cheltenham,Darlington,1,0
+12.09.2000,2001,Leyton Orient,Scunthorpe,1,1
+12.09.2000,2001,Macclesfield,Lincoln,2,0
+12.09.2000,2001,Mansfield,Hull,1,1
+12.09.2000,2001,Shrewsbury,Plymouth,4,1
+12.09.2000,2001,Southend,Kidderminster,1,1
+12.09.2000,2001,Torquay,Hartlepool,1,0
+12.09.2000,2001,York,Rochdale,0,2
+09.09.2000,2001,Barnet,Kidderminster,0,0
+09.09.2000,2001,Blackpool,Hartlepool,1,2
+09.09.2000,2001,Cardiff,Brighton,1,1
+09.09.2000,2001,Carlisle,Rochdale,1,2
+09.09.2000,2001,Cheltenham,Chesterfield,0,1
+09.09.2000,2001,Leyton Orient,Hull,2,2
+09.09.2000,2001,Macclesfield,Exeter,0,2
+09.09.2000,2001,Mansfield,FC Halifax,5,1
+09.09.2000,2001,Shrewsbury,Darlington,1,0
+09.09.2000,2001,Southend,Plymouth,2,2
+09.09.2000,2001,Torquay,Lincoln,1,1
+09.09.2000,2001,York,Scunthorpe,2,0
+02.09.2000,2001,Brighton,Torquay,6,2
+02.09.2000,2001,Chesterfield,Barnet,1,2
+02.09.2000,2001,Darlington,York,1,1
+02.09.2000,2001,Exeter,Mansfield,0,0
+02.09.2000,2001,FC Halifax,Leyton Orient,2,2
+02.09.2000,2001,Hartlepool,Shrewsbury,1,3
+02.09.2000,2001,Hull,Cheltenham,0,2
+02.09.2000,2001,Kidderminster,Carlisle,0,1
+02.09.2000,2001,Lincoln,Southend,3,0
+02.09.2000,2001,Plymouth,Macclesfield,0,1
+02.09.2000,2001,Rochdale,Cardiff,1,1
+02.09.2000,2001,Scunthorpe,Blackpool,1,0
+29.08.2000,2001,Darlington,Plymouth,1,0
+29.08.2000,2001,Shrewsbury,Carlisle,0,1
+28.08.2000,2001,Brighton,Kidderminster,0,2
+28.08.2000,2001,Cardiff,Southend,2,2
+28.08.2000,2001,FC Halifax,Rochdale,1,2
+28.08.2000,2001,Hartlepool,Cheltenham,0,0
+28.08.2000,2001,Hull,Lincoln,1,1
+28.08.2000,2001,Leyton Orient,Exeter,2,1
+28.08.2000,2001,Mansfield,Macclesfield,4,4
+28.08.2000,2001,Scunthorpe,Chesterfield,1,1
+28.08.2000,2001,Torquay,Blackpool,3,2
+28.08.2000,2001,York,Barnet,1,0
+26.08.2000,2001,Barnet,Cardiff,2,2
+26.08.2000,2001,Blackpool,Leyton Orient,2,2
+26.08.2000,2001,Cheltenham,Torquay,2,0
+26.08.2000,2001,Chesterfield,Shrewsbury,3,0
+26.08.2000,2001,Exeter,Hartlepool,1,1
+26.08.2000,2001,Kidderminster,FC Halifax,2,1
+26.08.2000,2001,Lincoln,Brighton,2,0
+26.08.2000,2001,Macclesfield,Hull,0,0
+26.08.2000,2001,Plymouth,Mansfield,2,0
+26.08.2000,2001,Rochdale,Scunthorpe,3,2
+26.08.2000,2001,Southend,Darlington,0,2
+25.08.2000,2001,Carlisle,York,1,1
+19.08.2000,2001,Barnet,Mansfield,3,3
+19.08.2000,2001,Brighton,Rochdale,2,1
+19.08.2000,2001,Cardiff,Blackpool,1,1
+19.08.2000,2001,Darlington,Exeter,1,1
+19.08.2000,2001,FC Halifax,Lincoln,1,1
+19.08.2000,2001,Hartlepool,Chesterfield,1,2
+19.08.2000,2001,Hull,Plymouth,1,1
+19.08.2000,2001,Leyton Orient,Carlisle,1,0
+19.08.2000,2001,Scunthorpe,Kidderminster,2,0
+19.08.2000,2001,Shrewsbury,Macclesfield,2,2
+19.08.2000,2001,Torquay,Southend,1,1
+19.08.2000,2001,York,Cheltenham,0,2
+12.08.2000,2001,Barnet,Shrewsbury,3,0
+12.08.2000,2001,Blackpool,Hull,3,1
+12.08.2000,2001,Carlisle,FC Halifax,2,2
+12.08.2000,2001,Cheltenham,Mansfield,2,2
+12.08.2000,2001,Chesterfield,York,4,1
+12.08.2000,2001,Exeter,Cardiff,1,2
+12.08.2000,2001,Kidderminster,Torquay,2,0
+12.08.2000,2001,Lincoln,Hartlepool,0,2
+12.08.2000,2001,Macclesfield,Scunthorpe,0,1
+12.08.2000,2001,Plymouth,Leyton Orient,0,1
+12.08.2000,2001,Rochdale,Darlington,1,1
+12.08.2000,2001,Southend,Brighton,2,0

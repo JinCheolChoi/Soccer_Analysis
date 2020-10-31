@@ -1,0 +1,114 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+Today,2020,Burton,Blackpool,1,2
+Today,2020,Doncaster,Lincoln,1,0
+Today,2020,Fleetwood,Oxford Utd,2,0
+Today,2020,Gillingham,Sunderland,0,2
+Today,2020,Ipswich,Crewe,1,0
+Today,2020,MK Dons,AFC Wimbledon,1,1
+Today,2020,Peterborough,Shrewsbury,5,1
+Today,2020,Portsmouth,Charlton,0,2
+Today,2020,Rochdale,Bristol Rovers,1,1
+Today,2020,Swindon,Hull,2,1
+Today,2020,Wigan,Northampton,2,3
+27.10.,2020,AFC Wimbledon,Blackpool,1,0
+27.10.,2020,Bristol Rovers,Hull,1,3
+27.10.,2020,Charlton,Oxford Utd,2,0
+27.10.,2020,Crewe,Lincoln,0,1
+27.10.,2020,Fleetwood,Shrewsbury,1,0
+27.10.,2020,Ipswich,Gillingham,1,0
+27.10.,2020,MK Dons,Wigan,2,0
+27.10.,2020,Peterborough,Burton,2,2
+27.10.,2020,Plymouth,Doncaster,2,1
+27.10.,2020,Portsmouth,Northampton,4,0
+27.10.,2020,Rochdale,Sunderland,2,2
+24.10.,2020,Blackpool,MK Dons,1,0
+24.10.,2020,Burton,AFC Wimbledon,1,1
+24.10.,2020,Doncaster,Crewe,1,2
+24.10.,2020,Gillingham,Fleetwood,0,2
+24.10.,2020,Hull,Peterborough,1,2
+24.10.,2020,Lincoln,Ipswich,1,0
+24.10.,2020,Northampton,Charlton,0,2
+24.10.,2020,Shrewsbury,Rochdale,1,2
+24.10.,2020,Sunderland,Portsmouth,1,3
+24.10.,2020,Wigan,Plymouth,1,1
+20.10.,2020,Accrington,Fleetwood,1,0
+20.10.,2020,Blackpool,Charlton,0,1
+20.10.,2020,Burton,Rochdale,0,1
+20.10.,2020,Doncaster,Ipswich,4,1
+20.10.,2020,Gillingham,Portsmouth,0,2
+20.10.,2020,Hull,AFC Wimbledon,1,0
+20.10.,2020,Lincoln,Plymouth,2,0
+20.10.,2020,Northampton,Swindon,2,1
+20.10.,2020,Oxford Utd,MK Dons,3,2
+20.10.,2020,Shrewsbury,Bristol Rovers,0,1
+20.10.,2020,Sunderland,Crewe,1,0
+20.10.,2020,Wigan,Peterborough,0,1
+17.10.,2020,AFC Wimbledon,Shrewsbury,0,1
+17.10.,2020,Bristol Rovers,Burton,1,1
+17.10.,2020,Charlton,Wigan,1,0
+17.10.,2020,Crewe,Blackpool,1,1
+17.10.,2020,Fleetwood,Lincoln,0,0
+17.10.,2020,Ipswich,Accrington,2,0
+17.10.,2020,MK Dons,Gillingham,2,0
+17.10.,2020,Peterborough,Oxford Utd,2,0
+17.10.,2020,Plymouth,Northampton,2,1
+17.10.,2020,Portsmouth,Doncaster,0,1
+17.10.,2020,Rochdale,Hull,0,3
+17.10.,2020,Swindon,Sunderland,0,2
+10.10.,2020,Blackpool,Ipswich,1,4
+10.10.,2020,Accrington,Rochdale,2,1
+10.10.,2020,Crewe,Wigan,3,0
+10.10.,2020,Gillingham,Oxford Utd,3,1
+10.10.,2020,Lincoln,Bristol Rovers,1,2
+10.10.,2020,Northampton,Peterborough,0,2
+10.10.,2020,Plymouth,Burton,2,0
+10.10.,2020,Portsmouth,MK Dons,2,1
+10.10.,2020,Swindon,AFC Wimbledon,0,1
+09.10.,2020,Fleetwood,Hull,4,1
+03.10.,2020,AFC Wimbledon,Accrington,1,2
+03.10.,2020,Blackpool,Lincoln,2,3
+03.10.,2020,Bristol Rovers,Northampton,2,0
+03.10.,2020,Burton,Portsmouth,2,4
+03.10.,2020,Charlton,Sunderland,0,0
+03.10.,2020,Hull,Plymouth,1,0
+03.10.,2020,MK Dons,Ipswich,1,1
+03.10.,2020,Peterborough,Swindon,3,1
+03.10.,2020,Rochdale,Fleetwood,2,1
+03.10.,2020,Shrewsbury,Gillingham,1,1
+03.10.,2020,Wigan,Doncaster,1,0
+27.09.,2020,Lincoln,Charlton,2,0
+26.09.,2020,Accrington,Oxford Utd,1,4
+26.09.,2020,Crewe,MK Dons,2,0
+26.09.,2020,Doncaster,Bristol Rovers,4,1
+26.09.,2020,Fleetwood,AFC Wimbledon,0,1
+26.09.,2020,Gillingham,Blackpool,2,0
+26.09.,2020,Ipswich,Rochdale,2,0
+26.09.,2020,Northampton,Hull,0,2
+26.09.,2020,Plymouth,Shrewsbury,1,1
+26.09.,2020,Portsmouth,Wigan,1,2
+26.09.,2020,Sunderland,Peterborough,1,0
+26.09.,2020,Swindon,Burton,4,2
+20.09.,2020,Rochdale,Portsmouth,0,0
+19.09.,2020,AFC Wimbledon,Plymouth,4,4
+19.09.,2020,Blackpool,Swindon,2,0
+19.09.,2020,Bristol Rovers,Ipswich,0,2
+19.09.,2020,Burton,Accrington,2,1
+19.09.,2020,Charlton,Doncaster,1,3
+19.09.,2020,Hull,Crewe,1,0
+19.09.,2020,MK Dons,Lincoln,1,2
+19.09.,2020,Oxford Utd,Sunderland,0,2
+19.09.,2020,Peterborough,Fleetwood,2,1
+19.09.,2020,Shrewsbury,Northampton,1,2
+19.09.,2020,Wigan,Gillingham,2,3
+13.09.,2020,Ipswich,Wigan,2,0
+12.09.,2020,Accrington,Peterborough,2,0
+12.09.,2020,Crewe,Charlton,0,2
+12.09.,2020,Doncaster,MK Dons,1,1
+12.09.,2020,Fleetwood,Burton,2,1
+12.09.,2020,Gillingham,Hull,0,2
+12.09.,2020,Lincoln,Oxford Utd,2,0
+12.09.,2020,Northampton,AFC Wimbledon,2,2
+12.09.,2020,Plymouth,Blackpool,1,0
+12.09.,2020,Portsmouth,Shrewsbury,0,0
+12.09.,2020,Sunderland,Bristol Rovers,1,1
+12.09.,2020,Swindon,Rochdale,3,1

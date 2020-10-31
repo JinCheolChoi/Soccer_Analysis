@@ -1,0 +1,381 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+14.05.2006,2006,AC Milan,AS Roma,2,1
+14.05.2006,2006,ACN Siena,Livorno,0,0
+14.05.2006,2006,Cagliari,Inter,2,2
+14.05.2006,2006,Chievo,Fiorentina,0,2
+14.05.2006,2006,Empoli,Ascoli,1,2
+14.05.2006,2006,Lazio,Parma,1,0
+14.05.2006,2006,Palermo,ACR Messina,1,0
+14.05.2006,2006,Reggina,Juventus,0,2
+14.05.2006,2006,Sampdoria,Lecce,1,3
+14.05.2006,2006,Treviso,Udinese,2,1
+07.05.2006,2006,ACR Messina,Empoli,0,3 AWA.
+07.05.2006,2006,Ascoli,Lazio,1,4
+07.05.2006,2006,AS Roma,Treviso,1,0
+07.05.2006,2006,Fiorentina,Reggina,5,2
+07.05.2006,2006,Inter,ACN Siena,1,1
+07.05.2006,2006,Juventus,Palermo,2,1
+07.05.2006,2006,Lecce,Chievo,0,0
+07.05.2006,2006,Livorno,Sampdoria,0,0
+07.05.2006,2006,Parma,AC Milan,2,3
+07.05.2006,2006,Udinese,Cagliari,2,0
+30.04.2006,2006,AC Milan,Livorno,2,0
+30.04.2006,2006,ACN Siena,Juventus,0,3
+30.04.2006,2006,Cagliari,Parma,3,1
+30.04.2006,2006,Chievo,AS Roma,4,4
+30.04.2006,2006,Empoli,Inter,1,0
+30.04.2006,2006,Lazio,Lecce,1,0
+30.04.2006,2006,Palermo,Fiorentina,1,0
+30.04.2006,2006,Reggina,ACR Messina,3,0
+30.04.2006,2006,Sampdoria,Udinese,1,1
+30.04.2006,2006,Treviso,Ascoli,2,2
+22.04.2006,2006,ACR Messina,AC Milan,1,3
+22.04.2006,2006,Ascoli,Cagliari,2,2
+22.04.2006,2006,AS Roma,Sampdoria,0,0
+22.04.2006,2006,Fiorentina,Empoli,2,1
+22.04.2006,2006,Inter,Reggina,4,0
+22.04.2006,2006,Juventus,Lazio,1,1
+22.04.2006,2006,Lecce,Treviso,1,1
+22.04.2006,2006,Livorno,Palermo,3,1
+22.04.2006,2006,Parma,ACN Siena,1,1
+22.04.2006,2006,Udinese,Chievo,1,1
+15.04.2006,2006,Cagliari,Juventus,1,1
+15.04.2006,2006,Chievo,ACR Messina,2,0
+15.04.2006,2006,Empoli,ACN Siena,2,1
+15.04.2006,2006,Lazio,Livorno,3,1
+15.04.2006,2006,Lecce,Udinese,1,2
+15.04.2006,2006,Palermo,AS Roma,3,3
+15.04.2006,2006,Reggina,Ascoli,2,0
+15.04.2006,2006,Sampdoria,Parma,1,2
+15.04.2006,2006,Treviso,Fiorentina,1,3
+14.04.2006,2006,AC Milan,Inter,1,0
+09.04.2006,2006,AC Milan,Chievo,4,1
+09.04.2006,2006,ACN Siena,Lazio,2,3
+09.04.2006,2006,ACR Messina,Treviso,3,1
+09.04.2006,2006,AS Roma,Lecce,3,1
+09.04.2006,2006,Cagliari,Palermo,1,1
+09.04.2006,2006,Empoli,Sampdoria,2,1
+09.04.2006,2006,Juventus,Fiorentina,1,1
+09.04.2006,2006,Parma,Reggina,4,0
+08.04.2006,2006,Ascoli,Inter,1,2
+08.04.2006,2006,Livorno,Udinese,0,2
+02.04.2006,2006,Chievo,Livorno,2,1
+02.04.2006,2006,Fiorentina,AS Roma,1,1
+02.04.2006,2006,Lazio,Empoli,3,3
+02.04.2006,2006,Palermo,Ascoli,1,1
+02.04.2006,2006,Reggina,ACN Siena,1,1
+02.04.2006,2006,Sampdoria,Cagliari,1,1
+02.04.2006,2006,Udinese,Parma,2,0
+01.04.2006,2006,Inter,ACR Messina,3,0
+01.04.2006,2006,Lecce,AC Milan,1,0
+01.04.2006,2006,Treviso,Juventus,0,0
+26.03.2006,2006,ACN Siena,Lecce,1,2
+26.03.2006,2006,ACR Messina,Udinese,1,1
+26.03.2006,2006,Ascoli,Chievo,2,2
+26.03.2006,2006,Cagliari,Reggina,0,2
+26.03.2006,2006,Empoli,Livorno,2,1
+26.03.2006,2006,Lazio,Sampdoria,2,0
+26.03.2006,2006,Palermo,Treviso,1,0
+25.03.2006,2006,AC Milan,Fiorentina,3,1
+25.03.2006,2006,Juventus,AS Roma,1,1
+25.03.2006,2006,Parma,Inter,1,0
+22.03.2006,2006,Cagliari,Fiorentina,0,0
+19.03.2006,2006,AS Roma,ACR Messina,2,1
+19.03.2006,2006,Chievo,ACN Siena,4,1
+19.03.2006,2006,Fiorentina,Ascoli,3,1
+19.03.2006,2006,Inter,Lazio,3,1
+19.03.2006,2006,Lecce,Parma,1,2
+19.03.2006,2006,Reggina,Empoli,0,2
+19.03.2006,2006,Sampdoria,Palermo,0,2
+19.03.2006,2006,Udinese,AC Milan,0,4
+18.03.2006,2006,Livorno,Juventus,1,3
+18.03.2006,2006,Treviso,Cagliari,1,2
+12.03.2006,2006,ACR Messina,Lecce,2,1
+12.03.2006,2006,Ascoli,AS Roma,3,2
+12.03.2006,2006,Empoli,Chievo,2,1
+12.03.2006,2006,Juventus,AC Milan,0,0
+12.03.2006,2006,Lazio,Reggina,3,1
+12.03.2006,2006,Palermo,Udinese,2,0
+12.03.2006,2006,Parma,Livorno,2,1
+11.03.2006,2006,ACN Siena,Treviso,1,0
+11.03.2006,2006,Inter,Sampdoria,1,0
+05.03.2006,2006,ACR Messina,Parma,0,1
+05.03.2006,2006,AS Roma,Inter,1,1
+05.03.2006,2006,Chievo,Lazio,2,2
+05.03.2006,2006,Fiorentina,ACN Siena,2,1
+05.03.2006,2006,Lecce,Palermo,2,0
+05.03.2006,2006,Livorno,Cagliari,0,1
+05.03.2006,2006,Treviso,Reggina,0,1
+05.03.2006,2006,Udinese,Ascoli,1,1
+04.03.2006,2006,AC Milan,Empoli,3,0
+04.03.2006,2006,Sampdoria,Juventus,0,1
+26.02.2006,2006,ACN Siena,Sampdoria,1,0
+26.02.2006,2006,Ascoli,ACR Messina,1,0
+26.02.2006,2006,Cagliari,Chievo,2,2
+26.02.2006,2006,Empoli,Treviso,1,1
+26.02.2006,2006,Inter,Udinese,3,1
+26.02.2006,2006,Juventus,Lecce,3,1
+26.02.2006,2006,Lazio,AS Roma,0,2
+26.02.2006,2006,Palermo,AC Milan,0,2
+25.02.2006,2006,Parma,Fiorentina,2,4
+25.02.2006,2006,Reggina,Livorno,1,1
+19.02.2006,2006,AS Roma,Empoli,1,0
+19.02.2006,2006,Chievo,Palermo,0,0
+19.02.2006,2006,Fiorentina,Lazio,1,2
+19.02.2006,2006,Lecce,Reggina,0,0
+19.02.2006,2006,Sampdoria,Ascoli,1,2
+19.02.2006,2006,Treviso,Parma,0,1
+19.02.2006,2006,Udinese,ACN Siena,1,2
+18.02.2006,2006,AC Milan,Cagliari,1,0
+18.02.2006,2006,ACR Messina,Juventus,2,2
+18.02.2006,2006,Livorno,Inter,0,0
+12.02.2006,2006,ACN Siena,AS Roma,0,2
+12.02.2006,2006,Cagliari,Lecce,0,0
+12.02.2006,2006,Empoli,Palermo,0,1
+12.02.2006,2006,Inter,Juventus,1,2
+12.02.2006,2006,Livorno,Fiorentina,2,0
+12.02.2006,2006,Parma,Ascoli,0,0
+12.02.2006,2006,Reggina,AC Milan,1,4
+12.02.2006,2006,Sampdoria,ACR Messina,4,2
+11.02.2006,2006,Lazio,Udinese,1,1
+11.02.2006,2006,Treviso,Chievo,1,2
+08.02.2006,2006,AC Milan,Treviso,5,0
+08.02.2006,2006,ACR Messina,ACN Siena,0,0
+08.02.2006,2006,Ascoli,Livorno,0,0
+08.02.2006,2006,AS Roma,Cagliari,4,3
+08.02.2006,2006,Chievo,Sampdoria,1,1
+08.02.2006,2006,Fiorentina,Inter,2,1
+08.02.2006,2006,Juventus,Parma,1,1
+08.02.2006,2006,Lecce,Empoli,1,2
+08.02.2006,2006,Palermo,Lazio,3,1
+08.02.2006,2006,Udinese,Reggina,1,2
+05.02.2006,2006,Cagliari,Empoli,4,1
+05.02.2006,2006,Fiorentina,Lecce,1,0
+05.02.2006,2006,Inter,Chievo,1,0
+05.02.2006,2006,Juventus,Udinese,1,0
+05.02.2006,2006,Lazio,AC Milan,0,0
+05.02.2006,2006,Livorno,ACR Messina,2,2
+05.02.2006,2006,Reggina,Palermo,2,2
+05.02.2006,2006,Sampdoria,Treviso,1,1
+04.02.2006,2006,ACN Siena,Ascoli,1,1
+04.02.2006,2006,Parma,AS Roma,0,3
+29.01.2006,2006,ACR Messina,Cagliari,1,0
+29.01.2006,2006,Ascoli,Juventus,1,3
+29.01.2006,2006,AS Roma,Livorno,3,0
+29.01.2006,2006,Chievo,Reggina,4,0
+29.01.2006,2006,Empoli,Parma,1,2
+29.01.2006,2006,Lecce,Inter,0,2
+29.01.2006,2006,Treviso,Lazio,0,1
+29.01.2006,2006,Udinese,Fiorentina,0,0
+28.01.2006,2006,AC Milan,Sampdoria,1,1
+28.01.2006,2006,Palermo,ACN Siena,1,3
+22.01.2006,2006,ACN Siena,AC Milan,0,3
+22.01.2006,2006,Ascoli,Lecce,2,0
+22.01.2006,2006,Fiorentina,ACR Messina,2,0
+22.01.2006,2006,Juventus,Empoli,2,1
+22.01.2006,2006,Livorno,Treviso,1,1
+22.01.2006,2006,Parma,Chievo,2,1
+22.01.2006,2006,Reggina,Sampdoria,2,1
+22.01.2006,2006,Udinese,AS Roma,1,4
+21.01.2006,2006,Inter,Palermo,3,0
+21.01.2006,2006,Lazio,Cagliari,1,1
+18.01.2006,2006,AC Milan,Ascoli,1,0
+18.01.2006,2006,ACR Messina,Lazio,1,1
+18.01.2006,2006,AS Roma,Reggina,3,1
+18.01.2006,2006,Cagliari,ACN Siena,1,0
+18.01.2006,2006,Chievo,Juventus,1,1
+18.01.2006,2006,Empoli,Udinese,1,1
+18.01.2006,2006,Lecce,Livorno,0,0
+18.01.2006,2006,Palermo,Parma,4,2
+18.01.2006,2006,Sampdoria,Fiorentina,3,1
+18.01.2006,2006,Treviso,Inter,0,1
+15.01.2006,2006,Ascoli,Empoli,3,1
+15.01.2006,2006,AS Roma,AC Milan,1,0
+15.01.2006,2006,Fiorentina,Chievo,2,1
+15.01.2006,2006,Inter,Cagliari,3,2
+15.01.2006,2006,Juventus,Reggina,1,0
+15.01.2006,2006,Livorno,ACN Siena,2,2
+15.01.2006,2006,Parma,Lazio,1,1
+15.01.2006,2006,Udinese,Treviso,2,2
+14.01.2006,2006,ACR Messina,Palermo,0,0
+14.01.2006,2006,Lecce,Sampdoria,0,3
+08.01.2006,2006,AC Milan,Parma,4,3
+08.01.2006,2006,ACN Siena,Inter,0,0
+08.01.2006,2006,Cagliari,Udinese,2,1
+08.01.2006,2006,Chievo,Lecce,3,1
+08.01.2006,2006,Empoli,ACR Messina,1,3
+08.01.2006,2006,Lazio,Ascoli,4,1
+08.01.2006,2006,Sampdoria,Livorno,0,2
+08.01.2006,2006,Treviso,AS Roma,0,1
+07.01.2006,2006,Palermo,Juventus,1,2
+07.01.2006,2006,Reggina,Fiorentina,1,1
+21.12.2005,2006,ACR Messina,Reggina,1,1
+21.12.2005,2006,Ascoli,Treviso,1,0
+21.12.2005,2006,AS Roma,Chievo,4,0
+21.12.2005,2006,Fiorentina,Palermo,1,0
+21.12.2005,2006,Inter,Empoli,4,1
+21.12.2005,2006,Juventus,ACN Siena,2,0
+21.12.2005,2006,Lecce,Lazio,0,0
+21.12.2005,2006,Livorno,AC Milan,0,3
+21.12.2005,2006,Parma,Cagliari,1,0
+21.12.2005,2006,Udinese,Sampdoria,2,0
+18.12.2005,2006,AC Milan,ACR Messina,4,0
+18.12.2005,2006,ACN Siena,Parma,2,2
+18.12.2005,2006,Cagliari,Ascoli,2,1
+18.12.2005,2006,Chievo,Udinese,2,0
+18.12.2005,2006,Empoli,Fiorentina,1,1
+18.12.2005,2006,Palermo,Livorno,0,2
+18.12.2005,2006,Reggina,Inter,0,4
+18.12.2005,2006,Sampdoria,AS Roma,1,1
+17.12.2005,2006,Lazio,Juventus,1,1
+17.12.2005,2006,Treviso,Lecce,2,1
+11.12.2005,2006,ACR Messina,Chievo,2,0
+11.12.2005,2006,Ascoli,Reggina,1,1
+11.12.2005,2006,AS Roma,Palermo,1,2
+11.12.2005,2006,Inter,AC Milan,3,2
+11.12.2005,2006,Juventus,Cagliari,4,0
+11.12.2005,2006,Livorno,Lazio,2,1
+11.12.2005,2006,Parma,Sampdoria,1,1
+11.12.2005,2006,Udinese,Lecce,1,2
+10.12.2005,2006,ACN Siena,Empoli,1,0
+10.12.2005,2006,Fiorentina,Treviso,1,0
+04.12.2005,2006,Fiorentina,Juventus,1,2
+04.12.2005,2006,Lazio,ACN Siena,3,2
+04.12.2005,2006,Lecce,AS Roma,2,2
+04.12.2005,2006,Palermo,Cagliari,2,2
+04.12.2005,2006,Reggina,Parma,2,1
+04.12.2005,2006,Sampdoria,Empoli,2,0
+04.12.2005,2006,Treviso,ACR Messina,0,0
+04.12.2005,2006,Udinese,Livorno,0,2
+03.12.2005,2006,Chievo,AC Milan,2,1
+03.12.2005,2006,Inter,Ascoli,1,0
+27.11.2005,2006,ACN Siena,Reggina,0,0
+27.11.2005,2006,ACR Messina,Inter,1,2
+27.11.2005,2006,Ascoli,Palermo,1,1
+27.11.2005,2006,AS Roma,Fiorentina,1,1
+27.11.2005,2006,Cagliari,Sampdoria,2,0
+27.11.2005,2006,Empoli,Lazio,2,3
+27.11.2005,2006,Juventus,Treviso,3,1
+27.11.2005,2006,Parma,Udinese,1,2
+26.11.2005,2006,AC Milan,Lecce,2,1
+26.11.2005,2006,Livorno,Chievo,0,0
+20.11.2005,2006,Chievo,Ascoli,1,1
+20.11.2005,2006,Fiorentina,AC Milan,3,1
+20.11.2005,2006,Inter,Parma,2,0
+20.11.2005,2006,Lecce,ACN Siena,3,0
+20.11.2005,2006,Livorno,Empoli,2,0
+20.11.2005,2006,Reggina,Cagliari,3,1
+20.11.2005,2006,Sampdoria,Lazio,2,0
+20.11.2005,2006,Treviso,Palermo,2,2
+19.11.2005,2006,AS Roma,Juventus,1,4
+19.11.2005,2006,Udinese,ACR Messina,1,0
+06.11.2005,2006,AC Milan,Udinese,5,1
+06.11.2005,2006,ACN Siena,Chievo,0,1
+06.11.2005,2006,ACR Messina,AS Roma,0,2
+06.11.2005,2006,Ascoli,Fiorentina,0,2
+06.11.2005,2006,Cagliari,Treviso,0,0
+06.11.2005,2006,Juventus,Livorno,3,0
+06.11.2005,2006,Palermo,Sampdoria,0,2
+06.11.2005,2006,Parma,Lecce,2,0
+05.11.2005,2006,Empoli,Reggina,3,0
+05.11.2005,2006,Lazio,Inter,0,0
+30.10.2005,2006,AS Roma,Ascoli,2,1
+30.10.2005,2006,Chievo,Empoli,2,2
+30.10.2005,2006,Fiorentina,Cagliari,2,1
+30.10.2005,2006,Lecce,ACR Messina,0,2
+30.10.2005,2006,Livorno,Parma,2,0
+30.10.2005,2006,Reggina,Lazio,1,0
+30.10.2005,2006,Treviso,ACN Siena,0,1
+30.10.2005,2006,Udinese,Palermo,0,0
+29.10.2005,2006,AC Milan,Juventus,3,1
+29.10.2005,2006,Sampdoria,Inter,2,2
+26.10.2005,2006,ACN Siena,Fiorentina,0,2
+26.10.2005,2006,Ascoli,Udinese,1,1
+26.10.2005,2006,Cagliari,Livorno,1,1
+26.10.2005,2006,Empoli,AC Milan,1,3
+26.10.2005,2006,Inter,AS Roma,2,3
+26.10.2005,2006,Juventus,Sampdoria,2,0
+26.10.2005,2006,Lazio,Chievo,2,2
+26.10.2005,2006,Palermo,Lecce,3,0
+26.10.2005,2006,Parma,ACR Messina,1,1
+26.10.2005,2006,Reggina,Treviso,1,2
+23.10.2005,2006,AC Milan,Palermo,2,1
+23.10.2005,2006,AS Roma,Lazio,1,1
+23.10.2005,2006,Chievo,Cagliari,2,1
+23.10.2005,2006,Lecce,Juventus,0,3
+23.10.2005,2006,Livorno,Reggina,1,0
+23.10.2005,2006,Sampdoria,ACN Siena,3,3
+23.10.2005,2006,Treviso,Empoli,1,2
+23.10.2005,2006,Udinese,Inter,0,1
+22.10.2005,2006,ACR Messina,Ascoli,1,1
+22.10.2005,2006,Fiorentina,Parma,4,1
+16.10.2005,2006,Ascoli,Sampdoria,2,1
+16.10.2005,2006,Cagliari,AC Milan,0,2
+16.10.2005,2006,Empoli,AS Roma,1,0
+16.10.2005,2006,Inter,Livorno,5,0
+16.10.2005,2006,Lazio,Fiorentina,1,0
+16.10.2005,2006,Palermo,Chievo,2,2
+16.10.2005,2006,Parma,Treviso,1,1
+16.10.2005,2006,Reggina,Lecce,2,0
+15.10.2005,2006,ACN Siena,Udinese,2,3
+15.10.2005,2006,Juventus,ACR Messina,1,0
+02.10.2005,2006,AC Milan,Reggina,2,1
+02.10.2005,2006,ACR Messina,Sampdoria,1,4
+02.10.2005,2006,Ascoli,Parma,3,1
+02.10.2005,2006,AS Roma,ACN Siena,2,3
+02.10.2005,2006,Fiorentina,Livorno,3,2
+02.10.2005,2006,Juventus,Inter,2,0
+02.10.2005,2006,Lecce,Cagliari,3,0
+02.10.2005,2006,Palermo,Empoli,2,2
+01.10.2005,2006,Chievo,Treviso,0,0
+01.10.2005,2006,Udinese,Lazio,3,0
+25.09.2005,2006,ACN Siena,ACR Messina,4,2
+25.09.2005,2006,Cagliari,AS Roma,0,0
+25.09.2005,2006,Empoli,Lecce,1,0
+25.09.2005,2006,Inter,Fiorentina,1,0
+25.09.2005,2006,Lazio,Palermo,4,2
+25.09.2005,2006,Livorno,Ascoli,2,0
+25.09.2005,2006,Sampdoria,Chievo,1,2
+25.09.2005,2006,Treviso,AC Milan,0,2
+24.09.2005,2006,Parma,Juventus,1,2
+24.09.2005,2006,Reggina,Udinese,2,0
+21.09.2005,2006,AC Milan,Lazio,2,0
+21.09.2005,2006,ACR Messina,Livorno,0,0
+21.09.2005,2006,Ascoli,ACN Siena,1,1
+21.09.2005,2006,AS Roma,Parma,4,1
+21.09.2005,2006,Chievo,Inter,0,1
+21.09.2005,2006,Empoli,Cagliari,3,1
+21.09.2005,2006,Lecce,Fiorentina,1,3
+21.09.2005,2006,Palermo,Reggina,1,0
+21.09.2005,2006,Treviso,Sampdoria,0,2
+21.09.2005,2006,Udinese,Juventus,0,1
+18.09.2005,2006,ACN Siena,Palermo,1,2
+18.09.2005,2006,Cagliari,ACR Messina,1,1
+18.09.2005,2006,Fiorentina,Udinese,4,2
+18.09.2005,2006,Juventus,Ascoli,2,1
+18.09.2005,2006,Lazio,Treviso,3,1
+18.09.2005,2006,Livorno,AS Roma,0,0
+18.09.2005,2006,Reggina,Chievo,1,3
+18.09.2005,2006,Sampdoria,AC Milan,2,1
+17.09.2005,2006,Inter,Lecce,3,0
+17.09.2005,2006,Parma,Empoli,1,0
+11.09.2005,2006,ACR Messina,Fiorentina,2,2
+11.09.2005,2006,AS Roma,Udinese,0,1
+11.09.2005,2006,Cagliari,Lazio,1,1
+11.09.2005,2006,Chievo,Parma,1,0
+11.09.2005,2006,Empoli,Juventus,0,4
+11.09.2005,2006,Lecce,Ascoli,0,0
+11.09.2005,2006,Sampdoria,Reggina,3,2
+11.09.2005,2006,Treviso,Livorno,0,1
+10.09.2005,2006,AC Milan,ACN Siena,3,1
+10.09.2005,2006,Palermo,Inter,3,2
+28.08.2005,2006,ACN Siena,Cagliari,2,1
+28.08.2005,2006,Ascoli,AC Milan,1,1
+28.08.2005,2006,Inter,Treviso,3,0
+28.08.2005,2006,Juventus,Chievo,1,0
+28.08.2005,2006,Lazio,ACR Messina,1,0
+28.08.2005,2006,Parma,Palermo,1,1
+28.08.2005,2006,Reggina,AS Roma,0,3
+28.08.2005,2006,Udinese,Empoli,1,0
+27.08.2005,2006,Fiorentina,Sampdoria,2,1
+27.08.2005,2006,Livorno,Lecce,2,1

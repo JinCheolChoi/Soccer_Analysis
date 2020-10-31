@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+08.05.2005,2004,Brighton,Ipswich,1,1
+08.05.2005,2004,Cardiff,QPR,1,0
+08.05.2005,2004,Crewe,Coventry,2,1
+08.05.2005,2004,Derby,Preston,3,1
+08.05.2005,2004,Leeds,Rotherham,0,0
+08.05.2005,2004,Millwall,Burnley,0,0
+08.05.2005,2004,Nottingham,Gillingham,2,2
+08.05.2005,2004,Plymouth,Leicester,0,0
+08.05.2005,2004,Sunderland,Stoke,1,0
+08.05.2005,2004,Watford,West Ham,1,2
+08.05.2005,2004,Wigan,Reading,3,1
+08.05.2005,2004,Wolves,Sheffield Utd,4,2
+01.05.2005,2004,Leicester,Leeds,2,0
+30.04.2005,2004,Burnley,Plymouth,2,0
+30.04.2005,2004,Coventry,Derby,6,2
+30.04.2005,2004,Gillingham,Cardiff,1,1
+30.04.2005,2004,Ipswich,Crewe,5,1
+30.04.2005,2004,Preston,Wigan,1,1
+30.04.2005,2004,QPR,Nottingham,2,1
+30.04.2005,2004,Reading,Wolves,1,2
+30.04.2005,2004,Rotherham,Brighton,0,1
+30.04.2005,2004,Sheffield Utd,Millwall,0,1
+30.04.2005,2004,Stoke,Watford,0,1
+29.04.2005,2004,West Ham,Sunderland,1,2
+26.04.2005,2004,Leicester,Derby,1,0
+24.04.2005,2004,Millwall,Preston,2,1
+23.04.2005,2004,Brighton,West Ham,2,2
+23.04.2005,2004,Cardiff,Reading,2,0
+23.04.2005,2004,Crewe,Stoke,0,2
+23.04.2005,2004,Derby,Gillingham,2,0
+23.04.2005,2004,Leeds,Ipswich,1,1
+23.04.2005,2004,Nottingham,Burnley,1,0
+23.04.2005,2004,Plymouth,Coventry,1,1
+23.04.2005,2004,Sunderland,Leicester,2,1
+23.04.2005,2004,Watford,Sheffield Utd,0,0
+23.04.2005,2004,Wigan,QPR,0,0
+23.04.2005,2004,Wolves,Rotherham,2,0
+19.04.2005,2004,Burnley,QPR,2,0
+19.04.2005,2004,Leicester,Cardiff,1,1
+19.04.2005,2004,Stoke,West Ham,0,1
+17.04.2005,2004,Ipswich,Sunderland,2,2
+16.04.2005,2004,Burnley,Brighton,1,1
+16.04.2005,2004,Coventry,Wolves,2,2
+16.04.2005,2004,Gillingham,Crewe,1,1
+16.04.2005,2004,Leicester,Wigan,0,2
+16.04.2005,2004,Preston,Cardiff,3,0
+16.04.2005,2004,QPR,Leeds,1,1
+16.04.2005,2004,Reading,Nottingham,1,0
+16.04.2005,2004,Rotherham,Watford,0,1
+16.04.2005,2004,Stoke,Plymouth,2,0
+16.04.2005,2004,West Ham,Millwall,1,1
+15.04.2005,2004,Sheffield Utd,Derby,0,1
+12.04.2005,2004,Nottingham,Sheffield Utd,1,1
+11.04.2005,2004,Wolves,Ipswich,2,0
+09.04.2005,2004,Brighton,Leicester,1,1
+09.04.2005,2004,Cardiff,Wigan,0,2
+09.04.2005,2004,Derby,Stoke,3,1
+09.04.2005,2004,Gillingham,Burnley,1,0
+09.04.2005,2004,Millwall,Crewe,4,3
+09.04.2005,2004,Nottingham,Plymouth,0,3
+09.04.2005,2004,Rotherham,Preston,1,2
+09.04.2005,2004,Sheffield Utd,QPR,3,2
+09.04.2005,2004,Sunderland,Reading,1,2
+09.04.2005,2004,Watford,Leeds,1,2
+09.04.2005,2004,West Ham,Coventry,3,0
+06.04.2005,2004,Coventry,Nottingham,2,0
+05.04.2005,2004,Burnley,West Ham,0,1
+05.04.2005,2004,Crewe,Derby,1,2
+05.04.2005,2004,Ipswich,Rotherham,4,3
+05.04.2005,2004,Leeds,Sheffield Utd,0,4
+05.04.2005,2004,Leicester,Wolves,1,1
+05.04.2005,2004,Plymouth,Watford,1,0
+05.04.2005,2004,Preston,Brighton,3,0
+05.04.2005,2004,QPR,Gillingham,1,1
+05.04.2005,2004,Reading,Millwall,2,1
+05.04.2005,2004,Stoke,Cardiff,1,3
+05.04.2005,2004,Wigan,Sunderland,0,1
+02.04.2005,2004,Burnley,Watford,3,1
+02.04.2005,2004,Coventry,Brighton,2,1
+02.04.2005,2004,Crewe,Nottingham,1,1
+02.04.2005,2004,Ipswich,Derby,3,2
+02.04.2005,2004,Leeds,Wolves,1,1
+02.04.2005,2004,Leicester,Millwall,3,1
+02.04.2005,2004,Plymouth,Cardiff,1,1
+02.04.2005,2004,Preston,Gillingham,1,1
+02.04.2005,2004,QPR,Sunderland,1,3
+02.04.2005,2004,Reading,Sheffield Utd,0,0
+02.04.2005,2004,Stoke,Rotherham,1,2
+02.04.2005,2004,Wigan,West Ham,1,2
+21.03.2005,2004,Brighton,Reading,0,1
+20.03.2005,2004,Millwall,Plymouth,3,0
+19.03.2005,2004,Cardiff,Crewe,1,1
+19.03.2005,2004,Gillingham,Ipswich,0,0
+19.03.2005,2004,Nottingham,Wigan,1,1
+19.03.2005,2004,Rotherham,QPR,0,1
+19.03.2005,2004,Sheffield Utd,Burnley,2,1
+19.03.2005,2004,Sunderland,Coventry,1,0
+19.03.2005,2004,Watford,Preston,0,2
+19.03.2005,2004,Wolves,Stoke,1,1
+18.03.2005,2004,West Ham,Leicester,2,2
+16.03.2005,2004,Derby,QPR,0,0
+16.03.2005,2004,Nottingham,Leeds,0,0
+15.03.2005,2004,Brighton,Wigan,2,4
+15.03.2005,2004,Cardiff,Ipswich,0,1
+15.03.2005,2004,Gillingham,Stoke,2,1
+15.03.2005,2004,Millwall,Coventry,1,1
+15.03.2005,2004,Rotherham,Reading,1,0
+15.03.2005,2004,Sheffield Utd,Preston,1,1
+15.03.2005,2004,Sunderland,Plymouth,5,1
+15.03.2005,2004,Watford,Leicester,2,2
+15.03.2005,2004,West Ham,Crewe,1,1
+15.03.2005,2004,Wolves,Burnley,2,0
+12.03.2005,2004,Burnley,Rotherham,2,1
+12.03.2005,2004,Coventry,Cardiff,1,1
+12.03.2005,2004,Crewe,Sunderland,0,1
+12.03.2005,2004,Ipswich,Nottingham,6,0
+12.03.2005,2004,Leeds,Gillingham,1,1
+12.03.2005,2004,Plymouth,Brighton,5,1
+12.03.2005,2004,Preston,Wolves,2,2
+12.03.2005,2004,QPR,Watford,3,1
+12.03.2005,2004,Reading,West Ham,3,1
+12.03.2005,2004,Stoke,Sheffield Utd,2,0
+12.03.2005,2004,Wigan,Millwall,2,0
+08.03.2005,2004,Sheffield Utd,Crewe,4,0
+08.03.2005,2004,Watford,Nottingham,0,2
+08.03.2005,2004,Burnley,Leicester,0,0
+06.03.2005,2004,Millwall,Leeds,1,1
+05.03.2005,2004,Cardiff,Sheffield Utd,1,0
+05.03.2005,2004,Crewe,Wolves,1,4
+05.03.2005,2004,Derby,Plymouth,1,0
+05.03.2005,2004,Leicester,Nottingham,0,1
+05.03.2005,2004,QPR,Reading,0,0
+05.03.2005,2004,Rotherham,Gillingham,1,3
+05.03.2005,2004,Stoke,Brighton,2,0
+05.03.2005,2004,Watford,Coventry,2,3
+05.03.2005,2004,West Ham,Preston,1,2
+05.03.2005,2004,Wigan,Ipswich,1,0
+04.03.2005,2004,Burnley,Sunderland,0,2
+02.03.2005,2004,Derby,Wolves,3,3
+26.02.2005,2004,Brighton,Millwall,1,0
+26.02.2005,2004,Coventry,Stoke,0,0
+26.02.2005,2004,Gillingham,Wigan,2,1
+26.02.2005,2004,Ipswich,QPR,0,2
+26.02.2005,2004,Leeds,West Ham,2,1
+26.02.2005,2004,Nottingham,Derby,2,2
+26.02.2005,2004,Plymouth,Crewe,3,0
+26.02.2005,2004,Preston,Burnley,1,0
+26.02.2005,2004,Reading,Leicester,0,0
+26.02.2005,2004,Sheffield Utd,Rotherham,1,0
+26.02.2005,2004,Sunderland,Cardiff,2,1
+26.02.2005,2004,Wolves,Watford,0,0
+23.02.2005,2004,Coventry,Wigan,1,2
+23.02.2005,2004,Derby,Burnley,1,1
+23.02.2005,2004,Nottingham,Preston,2,0
+22.02.2005,2004,Cardiff,Millwall,0,1
+22.02.2005,2004,Crewe,Reading,1,1
+22.02.2005,2004,Gillingham,West Ham,0,1
+22.02.2005,2004,Ipswich,Watford,1,2
+22.02.2005,2004,Plymouth,Sheffield Utd,3,0
+22.02.2005,2004,QPR,Wolves,1,1
+22.02.2005,2004,Stoke,Leicester,3,2
+22.02.2005,2004,Sunderland,Rotherham,4,1
+19.02.2005,2004,Brighton,Sunderland,2,1
+19.02.2005,2004,Millwall,Stoke,0,1
+19.02.2005,2004,Reading,Coventry,1,2
+19.02.2005,2004,Rotherham,Derby,1,3
+19.02.2005,2004,West Ham,Plymouth,5,0
+19.02.2005,2004,Wigan,Leeds,3,0
+19.02.2005,2004,Wolves,Gillingham,2,2
+18.02.2005,2004,Preston,Ipswich,1,1
+15.02.2005,2004,Crewe,Burnley,1,1
+12.02.2005,2004,Cardiff,Brighton,2,0
+12.02.2005,2004,Coventry,Burnley,0,2
+12.02.2005,2004,Crewe,Wigan,1,3
+12.02.2005,2004,Gillingham,Millwall,0,0
+12.02.2005,2004,Ipswich,Leicester,2,1
+12.02.2005,2004,Leeds,Reading,3,1
+12.02.2005,2004,Plymouth,Rotherham,1,1
+12.02.2005,2004,QPR,Preston,1,2
+12.02.2005,2004,Sunderland,Watford,4,2
+06.02.2005,2004,West Ham,Cardiff,1,0
+05.02.2005,2004,Brighton,Derby,2,3
+05.02.2005,2004,Burnley,Leeds,0,1
+05.02.2005,2004,Leicester,Crewe,1,1
+05.02.2005,2004,Millwall,QPR,0,0
+05.02.2005,2004,Preston,Coventry,3,2
+05.02.2005,2004,Reading,Plymouth,0,0
+05.02.2005,2004,Rotherham,Nottingham,0,0
+05.02.2005,2004,Sheffield Utd,Ipswich,0,2
+05.02.2005,2004,Watford,Gillingham,2,0
+05.02.2005,2004,Wigan,Stoke,0,1
+04.02.2005,2004,Wolves,Sunderland,1,1
+29.01.2005,2004,Leeds,Brighton,1,1
+26.01.2005,2004,Derby,Leeds,2,0
+23.01.2005,2004,West Ham,Derby,1,2
+22.01.2005,2004,Brighton,Nottingham,0,0
+22.01.2005,2004,Cardiff,Burnley,2,0
+22.01.2005,2004,Coventry,QPR,1,2
+22.01.2005,2004,Crewe,Rotherham,1,1
+22.01.2005,2004,Leicester,Gillingham,2,0
+22.01.2005,2004,Millwall,Wolves,1,2
+22.01.2005,2004,Plymouth,Preston,0,2
+22.01.2005,2004,Reading,Ipswich,1,1
+22.01.2005,2004,Stoke,Leeds,0,1
+22.01.2005,2004,Sunderland,Sheffield Utd,1,0
+22.01.2005,2004,Wigan,Watford,2,2
+16.01.2005,2004,Derby,Sunderland,0,2
+15.01.2005,2004,Burnley,Reading,0,0
+15.01.2005,2004,Gillingham,Plymouth,1,0
+15.01.2005,2004,Ipswich,Coventry,3,2
+15.01.2005,2004,Leeds,Cardiff,1,1
+15.01.2005,2004,Nottingham,Millwall,1,2
+15.01.2005,2004,Preston,Leicester,1,1
+15.01.2005,2004,Rotherham,Wigan,0,2
+15.01.2005,2004,Sheffield Utd,Brighton,1,2
+15.01.2005,2004,Watford,Crewe,3,1
+15.01.2005,2004,Wolves,West Ham,4,2
+14.01.2005,2004,QPR,Stoke,1,0
+04.01.2005,2004,Wigan,Wolves,2,0
+03.01.2005,2004,Brighton,Watford,2,1
+03.01.2005,2004,Cardiff,Nottingham,3,0
+03.01.2005,2004,Coventry,Leeds,1,2
+03.01.2005,2004,Crewe,Preston,1,2
+03.01.2005,2004,Leicester,QPR,1,0
+03.01.2005,2004,Millwall,Rotherham,1,2
+03.01.2005,2004,Plymouth,Ipswich,1,2
+03.01.2005,2004,Reading,Derby,0,1
+03.01.2005,2004,Stoke,Burnley,0,1
+03.01.2005,2004,Sunderland,Gillingham,1,1
+03.01.2005,2004,West Ham,Sheffield Utd,0,2
+01.01.2005,2004,Derby,Cardiff,0,1
+01.01.2005,2004,Gillingham,Reading,0,0
+01.01.2005,2004,Ipswich,West Ham,0,2
+01.01.2005,2004,Leeds,Crewe,0,2
+01.01.2005,2004,Nottingham,Stoke,1,0
+01.01.2005,2004,Preston,Sunderland,3,2
+01.01.2005,2004,QPR,Brighton,0,0
+01.01.2005,2004,Rotherham,Coventry,1,2
+01.01.2005,2004,Sheffield Utd,Wigan,0,2
+01.01.2005,2004,Watford,Millwall,1,0
+01.01.2005,2004,Wolves,Plymouth,1,1
+28.12.2004,2004,Burnley,Wigan,1,0
+28.12.2004,2004,Derby,Millwall,0,3
+28.12.2004,2004,Gillingham,Coventry,3,1
+28.12.2004,2004,Ipswich,Stoke,1,0
+28.12.2004,2004,Leeds,Plymouth,2,1
+28.12.2004,2004,Nottingham,Sunderland,1,2
+28.12.2004,2004,Preston,Reading,3,0
+28.12.2004,2004,QPR,Crewe,1,2
+28.12.2004,2004,Rotherham,West Ham,2,2
+28.12.2004,2004,Sheffield Utd,Leicester,2,0
+28.12.2004,2004,Watford,Cardiff,0,0
+28.12.2004,2004,Wolves,Brighton,1,1
+26.12.2004,2004,Brighton,Gillingham,2,1
+26.12.2004,2004,Cardiff,Wolves,1,1
+26.12.2004,2004,Coventry,Sheffield Utd,1,2
+26.12.2004,2004,Leicester,Rotherham,0,1
+26.12.2004,2004,Millwall,Ipswich,3,1
+26.12.2004,2004,Plymouth,QPR,2,1
+26.12.2004,2004,Reading,Watford,3,0
+26.12.2004,2004,Stoke,Preston,0,0
+26.12.2004,2004,Sunderland,Leeds,2,3
+26.12.2004,2004,West Ham,Nottingham,3,2
+26.12.2004,2004,Wigan,Derby,1,2
+21.12.2004,2004,Ipswich,Wigan,2,1
+19.12.2004,2004,Leeds,Millwall,1,1
+18.12.2004,2004,Coventry,Watford,1,0
+18.12.2004,2004,Gillingham,Rotherham,3,1
+18.12.2004,2004,Plymouth,Derby,0,2
+18.12.2004,2004,Preston,West Ham,2,1
+18.12.2004,2004,Reading,QPR,1,0
+18.12.2004,2004,Sheffield Utd,Cardiff,2,1
+18.12.2004,2004,Sunderland,Burnley,2,1
+18.12.2004,2004,Wolves,Crewe,1,1
+17.12.2004,2004,Brighton,Stoke,0,1
+17.12.2004,2004,Nottingham,Leicester,1,1
+11.12.2004,2004,Burnley,Preston,2,0
+11.12.2004,2004,Cardiff,Sunderland,0,2
+11.12.2004,2004,Crewe,Plymouth,3,0
+11.12.2004,2004,Derby,Nottingham,3,0
+11.12.2004,2004,Leicester,Reading,0,2
+11.12.2004,2004,Millwall,Brighton,2,0
+11.12.2004,2004,QPR,Ipswich,2,4
+11.12.2004,2004,Rotherham,Sheffield Utd,2,2
+11.12.2004,2004,Stoke,Coventry,1,0
+11.12.2004,2004,Watford,Wolves,1,1
+11.12.2004,2004,Wigan,Gillingham,2,0
+10.12.2004,2004,West Ham,Leeds,1,1
+07.12.2004,2004,Wolves,Millwall,1,2
+05.12.2004,2004,Wigan,Preston,5,0
+04.12.2004,2004,Brighton,Rotherham,1,0
+04.12.2004,2004,Cardiff,Gillingham,3,1
+04.12.2004,2004,Crewe,Ipswich,2,2
+04.12.2004,2004,Derby,Coventry,2,2
+04.12.2004,2004,Leeds,Leicester,0,2
+04.12.2004,2004,Millwall,Sheffield Utd,1,2
+04.12.2004,2004,Nottingham,QPR,2,1
+04.12.2004,2004,Plymouth,Burnley,1,0
+04.12.2004,2004,Sunderland,West Ham,0,2
+04.12.2004,2004,Watford,Stoke,0,1
+04.12.2004,2004,Wolves,Reading,4,1
+30.11.2004,2004,Crewe,Millwall,2,1
+29.11.2004,2004,Rotherham,Leeds,1,0
+27.11.2004,2004,Burnley,Millwall,1,0
+27.11.2004,2004,Coventry,Crewe,0,1
+27.11.2004,2004,Gillingham,Nottingham,2,1
+27.11.2004,2004,Ipswich,Brighton,1,0
+27.11.2004,2004,Leicester,Plymouth,2,1
+27.11.2004,2004,Preston,Derby,3,0
+27.11.2004,2004,QPR,Cardiff,1,0
+27.11.2004,2004,Reading,Wigan,1,1
+27.11.2004,2004,Sheffield Utd,Wolves,3,3
+27.11.2004,2004,Stoke,Sunderland,0,1
+27.11.2004,2004,West Ham,Watford,3,2
+24.11.2004,2004,Leeds,Watford,2,2
+21.11.2004,2004,Millwall,West Ham,1,0
+21.11.2004,2004,Sunderland,Ipswich,2,0
+20.11.2004,2004,Brighton,Burnley,0,1
+20.11.2004,2004,Crewe,Gillingham,4,1
+20.11.2004,2004,Derby,Sheffield Utd,0,1
+20.11.2004,2004,Leeds,QPR,6,1
+20.11.2004,2004,Nottingham,Reading,1,0
+20.11.2004,2004,Plymouth,Stoke,0,0
+20.11.2004,2004,Watford,Rotherham,0,0
+20.11.2004,2004,Wigan,Leicester,0,0
+20.11.2004,2004,Wolves,Coventry,0,1
+19.11.2004,2004,Cardiff,Preston,0,1
+13.11.2004,2004,Burnley,Nottingham,1,0
+13.11.2004,2004,Coventry,Plymouth,2,1
+13.11.2004,2004,Gillingham,Derby,0,2
+13.11.2004,2004,Ipswich,Leeds,1,0
+13.11.2004,2004,Leicester,Sunderland,0,1
+13.11.2004,2004,Preston,Millwall,1,1
+13.11.2004,2004,QPR,Wigan,1,0
+13.11.2004,2004,Reading,Cardiff,2,1
+13.11.2004,2004,Rotherham,Wolves,1,2
+13.11.2004,2004,Sheffield Utd,Watford,1,1
+13.11.2004,2004,Stoke,Crewe,1,0
+13.11.2004,2004,West Ham,Brighton,0,1
+08.11.2004,2004,Leicester,Coventry,3,0
+06.11.2004,2004,Brighton,Crewe,1,3
+06.11.2004,2004,Burnley,Ipswich,0,2
+06.11.2004,2004,Preston,Leeds,2,4
+06.11.2004,2004,Reading,Stoke,1,0
+06.11.2004,2004,Rotherham,Cardiff,2,2
+06.11.2004,2004,Sheffield Utd,Gillingham,0,0
+06.11.2004,2004,Watford,Derby,2,2
+06.11.2004,2004,West Ham,QPR,2,1
+06.11.2004,2004,Wigan,Plymouth,0,2
+06.11.2004,2004,Wolves,Nottingham,2,1
+05.11.2004,2004,Millwall,Sunderland,2,0
+03.11.2004,2004,Coventry,Preston,1,1
+03.11.2004,2004,Derby,Brighton,3,0
+03.11.2004,2004,Leeds,Burnley,1,2
+03.11.2004,2004,Nottingham,Rotherham,2,2
+02.11.2004,2004,Cardiff,West Ham,4,1
+02.11.2004,2004,Crewe,Leicester,2,2
+02.11.2004,2004,Gillingham,Watford,0,0
+02.11.2004,2004,Ipswich,Sheffield Utd,5,1
+02.11.2004,2004,Plymouth,Reading,2,2
+02.11.2004,2004,QPR,Millwall,1,1
+02.11.2004,2004,Stoke,Wigan,0,1
+02.11.2004,2004,Sunderland,Wolves,3,1
+31.10.2004,2004,Leeds,Wigan,0,2
+30.10.2004,2004,Cardiff,Leicester,0,0
+30.10.2004,2004,Coventry,Reading,3,2
+30.10.2004,2004,Derby,Rotherham,3,2
+30.10.2004,2004,Gillingham,Wolves,1,0
+30.10.2004,2004,Ipswich,Preston,3,0
+30.10.2004,2004,Nottingham,Watford,1,2
+30.10.2004,2004,Plymouth,West Ham,1,1
+30.10.2004,2004,QPR,Burnley,3,0
+30.10.2004,2004,Stoke,Millwall,1,0
+30.10.2004,2004,Sunderland,Brighton,2,0
+29.10.2004,2004,Crewe,Sheffield Utd,2,3
+25.10.2004,2004,Rotherham,Sunderland,0,1
+23.10.2004,2004,Brighton,Leeds,1,0
+23.10.2004,2004,Leicester,Stoke,1,1
+23.10.2004,2004,Millwall,Cardiff,2,2
+23.10.2004,2004,Preston,Nottingham,3,2
+23.10.2004,2004,Reading,Crewe,4,0
+23.10.2004,2004,Sheffield Utd,Plymouth,2,1
+23.10.2004,2004,Watford,Ipswich,2,2
+23.10.2004,2004,West Ham,Gillingham,3,1
+23.10.2004,2004,Wigan,Coventry,4,1
+23.10.2004,2004,Wolves,QPR,2,1
+22.10.2004,2004,Burnley,Derby,0,2
+19.10.2004,2004,Brighton,Cardiff,1,1
+19.10.2004,2004,Burnley,Coventry,2,2
+19.10.2004,2004,Leicester,Ipswich,2,2
+19.10.2004,2004,Millwall,Gillingham,2,1
+19.10.2004,2004,Preston,QPR,2,1
+19.10.2004,2004,Reading,Leeds,1,1
+19.10.2004,2004,Rotherham,Plymouth,0,1
+19.10.2004,2004,Sheffield Utd,Nottingham,1,1
+19.10.2004,2004,Watford,Sunderland,1,1
+19.10.2004,2004,West Ham,Stoke,2,0
+19.10.2004,2004,Wigan,Crewe,4,1
+19.10.2004,2004,Wolves,Derby,2,0
+17.10.2004,2004,Gillingham,Sheffield Utd,1,3
+16.10.2004,2004,Cardiff,Rotherham,2,0
+16.10.2004,2004,Coventry,Leicester,1,1
+16.10.2004,2004,Crewe,Brighton,3,1
+16.10.2004,2004,Derby,Watford,2,2
+16.10.2004,2004,Ipswich,Burnley,1,1
+16.10.2004,2004,Leeds,Preston,1,0
+16.10.2004,2004,Plymouth,Wigan,1,2
+16.10.2004,2004,QPR,West Ham,1,0
+16.10.2004,2004,Stoke,Reading,0,1
+16.10.2004,2004,Sunderland,Millwall,1,0
+15.10.2004,2004,Nottingham,Wolves,1,0
+03.10.2004,2004,Coventry,Ipswich,1,2
+03.10.2004,2004,Millwall,Nottingham,1,0
+02.10.2004,2004,Brighton,Sheffield Utd,1,1
+02.10.2004,2004,Cardiff,Leeds,0,0
+02.10.2004,2004,Crewe,Watford,3,0
+02.10.2004,2004,Leicester,Preston,1,1
+02.10.2004,2004,Plymouth,Gillingham,2,1
+02.10.2004,2004,Reading,Burnley,0,0
+02.10.2004,2004,Stoke,QPR,0,1
+02.10.2004,2004,Sunderland,Derby,0,0
+02.10.2004,2004,West Ham,Wolves,1,0
+02.10.2004,2004,Wigan,Rotherham,2,0
+29.09.2004,2004,Derby,West Ham,1,1
+29.09.2004,2004,Nottingham,Brighton,0,1
+28.09.2004,2004,Burnley,Cardiff,1,0
+28.09.2004,2004,Gillingham,Leicester,0,2
+28.09.2004,2004,Ipswich,Reading,1,1
+28.09.2004,2004,Leeds,Stoke,0,0
+28.09.2004,2004,Preston,Plymouth,1,1
+28.09.2004,2004,QPR,Coventry,4,1
+28.09.2004,2004,Rotherham,Crewe,2,3
+28.09.2004,2004,Sheffield Utd,Sunderland,1,0
+28.09.2004,2004,Watford,Wigan,0,0
+26.09.2004,2004,Nottingham,West Ham,2,1
+25.09.2004,2004,Burnley,Stoke,2,2
+25.09.2004,2004,Derby,Wigan,1,1
+25.09.2004,2004,Gillingham,Brighton,0,1
+25.09.2004,2004,Ipswich,Plymouth,3,2
+25.09.2004,2004,Preston,Crewe,1,0
+25.09.2004,2004,QPR,Leicester,3,2
+25.09.2004,2004,Rotherham,Millwall,1,1
+25.09.2004,2004,Sheffield Utd,Coventry,1,1
+25.09.2004,2004,Watford,Reading,0,1
+25.09.2004,2004,Wolves,Cardiff,2,3
+24.09.2004,2004,Leeds,Sunderland,0,1
+22.09.2004,2004,Millwall,Derby,3,1
+19.09.2004,2004,Millwall,Watford,0,2
+18.09.2004,2004,Brighton,QPR,2,3
+18.09.2004,2004,Cardiff,Derby,0,2
+18.09.2004,2004,Coventry,Rotherham,0,0
+18.09.2004,2004,Crewe,Leeds,2,2
+18.09.2004,2004,Leicester,Burnley,0,0
+18.09.2004,2004,Plymouth,Wolves,1,2
+18.09.2004,2004,Reading,Gillingham,3,1
+18.09.2004,2004,Stoke,Nottingham,0,0
+18.09.2004,2004,Sunderland,Preston,3,1
+18.09.2004,2004,West Ham,Ipswich,1,1
+18.09.2004,2004,Wigan,Sheffield Utd,4,0
+15.09.2004,2004,Coventry,Gillingham,2,2
+14.09.2004,2004,Brighton,Wolves,0,1
+14.09.2004,2004,Cardiff,Watford,0,3
+14.09.2004,2004,Crewe,QPR,0,2
+14.09.2004,2004,Leicester,Sheffield Utd,3,2
+14.09.2004,2004,Plymouth,Leeds,0,1
+14.09.2004,2004,Reading,Preston,3,1
+14.09.2004,2004,Stoke,Ipswich,3,2
+14.09.2004,2004,Sunderland,Nottingham,2,0
+14.09.2004,2004,West Ham,Rotherham,1,0
+14.09.2004,2004,Wigan,Burnley,0,0
+12.09.2004,2004,Ipswich,Millwall,2,0
+11.09.2004,2004,Burnley,Crewe,3,0
+11.09.2004,2004,Derby,Reading,2,1
+11.09.2004,2004,Gillingham,Sunderland,0,4
+11.09.2004,2004,Leeds,Coventry,3,0
+11.09.2004,2004,Nottingham,Cardiff,0,0
+11.09.2004,2004,Preston,Stoke,3,0
+11.09.2004,2004,QPR,Plymouth,3,2
+11.09.2004,2004,Rotherham,Leicester,0,2
+11.09.2004,2004,Sheffield Utd,West Ham,1,2
+11.09.2004,2004,Watford,Brighton,1,1
+11.09.2004,2004,Wolves,Wigan,3,3
+31.08.2004,2004,QPR,Sheffield Utd,0,1
+31.08.2004,2004,Reading,Sunderland,1,0
+30.08.2004,2004,Burnley,Gillingham,1,2
+30.08.2004,2004,Coventry,West Ham,2,1
+30.08.2004,2004,Ipswich,Wolves,2,1
+30.08.2004,2004,Leicester,Brighton,0,1
+30.08.2004,2004,Plymouth,Nottingham,3,2
+30.08.2004,2004,Preston,Rotherham,2,0
+30.08.2004,2004,Stoke,Derby,1,0
+30.08.2004,2004,Wigan,Cardiff,2,1
+29.08.2004,2004,Sheffield Utd,Leeds,2,0
+28.08.2004,2004,Brighton,Preston,1,0
+28.08.2004,2004,Cardiff,Stoke,0,1
+28.08.2004,2004,Derby,Crewe,2,4
+28.08.2004,2004,Millwall,Reading,1,0
+28.08.2004,2004,Nottingham,Coventry,1,4
+28.08.2004,2004,Rotherham,Ipswich,0,2
+28.08.2004,2004,Sunderland,Wigan,1,1
+28.08.2004,2004,Watford,Plymouth,3,1
+28.08.2004,2004,West Ham,Burnley,1,0
+28.08.2004,2004,Wolves,Leicester,1,1
+27.08.2004,2004,Gillingham,QPR,0,1
+21.08.2004,2004,Burnley,Wolves,1,1
+21.08.2004,2004,Coventry,Millwall,0,1
+21.08.2004,2004,Crewe,West Ham,2,3
+21.08.2004,2004,Ipswich,Cardiff,3,1
+21.08.2004,2004,Leeds,Nottingham,1,1
+21.08.2004,2004,Leicester,Watford,0,1
+21.08.2004,2004,Plymouth,Sunderland,2,1
+21.08.2004,2004,QPR,Derby,0,2
+21.08.2004,2004,Reading,Rotherham,1,0
+21.08.2004,2004,Stoke,Gillingham,2,0
+21.08.2004,2004,Wigan,Brighton,3,0
+20.08.2004,2004,Preston,Sheffield Utd,0,1
+15.08.2004,2004,West Ham,Wigan,1,3
+14.08.2004,2004,Brighton,Coventry,1,1
+14.08.2004,2004,Derby,Ipswich,3,2
+14.08.2004,2004,Gillingham,Preston,2,1
+14.08.2004,2004,Millwall,Leicester,2,0
+14.08.2004,2004,Nottingham,Crewe,2,2
+14.08.2004,2004,Rotherham,Stoke,1,1
+14.08.2004,2004,Sheffield Utd,Reading,0,1
+14.08.2004,2004,Sunderland,QPR,2,2
+14.08.2004,2004,Watford,Burnley,0,1
+14.08.2004,2004,Wolves,Leeds,0,0
+13.08.2004,2004,Cardiff,Plymouth,0,1
+11.08.2004,2004,Derby,Leicester,1,2
+11.08.2004,2004,Nottingham,Ipswich,1,1
+11.08.2004,2004,Wolves,Preston,2,2
+10.08.2004,2004,Brighton,Plymouth,0,2
+10.08.2004,2004,Cardiff,Coventry,2,1
+10.08.2004,2004,Gillingham,Leeds,2,1
+10.08.2004,2004,Millwall,Wigan,0,2
+10.08.2004,2004,Rotherham,Burnley,0,0
+10.08.2004,2004,Sheffield Utd,Stoke,0,0
+10.08.2004,2004,Sunderland,Crewe,3,1
+10.08.2004,2004,West Ham,Reading,1,0
+09.08.2004,2004,Watford,QPR,3,0
+08.08.2004,2004,Stoke,Wolves,2,1
+07.08.2004,2004,Burnley,Sheffield Utd,1,1
+07.08.2004,2004,Coventry,Sunderland,2,0
+07.08.2004,2004,Crewe,Cardiff,2,2
+07.08.2004,2004,Ipswich,Gillingham,2,1
+07.08.2004,2004,Leeds,Derby,1,0
+07.08.2004,2004,Leicester,West Ham,0,0
+07.08.2004,2004,Plymouth,Millwall,0,0
+07.08.2004,2004,Preston,Watford,2,1
+07.08.2004,2004,QPR,Rotherham,1,1
+07.08.2004,2004,Reading,Brighton,3,2
+07.08.2004,2004,Wigan,Nottingham,1,1

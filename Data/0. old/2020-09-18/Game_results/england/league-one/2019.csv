@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+04.05.2019,2019,Blackpool,Gillingham,0,3
+04.05.2019,2019,Bradford City,AFC Wimbledon,0,0
+04.05.2019,2019,Bristol Rovers,Barnsley,2,1
+04.05.2019,2019,Charlton,Rochdale,4,0
+04.05.2019,2019,Doncaster,Coventry,2,0
+04.05.2019,2019,Luton,Oxford Utd,3,1
+04.05.2019,2019,Peterborough,Burton,3,1
+04.05.2019,2019,Plymouth,Scunthorpe,3,2
+04.05.2019,2019,Portsmouth,Accrington,1,1
+04.05.2019,2019,Shrewsbury,Walsall,0,0
+04.05.2019,2019,Southend,Sunderland,2,1
+04.05.2019,2019,Wycombe,Fleetwood,1,0
+30.04.2019,2019,Portsmouth,Peterborough,2,3
+30.04.2019,2019,Fleetwood,Sunderland,2,1
+28.04.2019,2019,Coventry,Shrewsbury,1,1
+27.04.2019,2019,Accrington,Plymouth,5,1
+27.04.2019,2019,AFC Wimbledon,Wycombe,2,1
+27.04.2019,2019,Barnsley,Blackpool,2,1
+27.04.2019,2019,Burton,Luton,2,1
+27.04.2019,2019,Fleetwood,Bristol Rovers,0,0
+27.04.2019,2019,Gillingham,Charlton,0,2
+27.04.2019,2019,Oxford Utd,Doncaster,2,2
+27.04.2019,2019,Rochdale,Southend,1,0
+27.04.2019,2019,Scunthorpe,Bradford City,2,3
+27.04.2019,2019,Sunderland,Portsmouth,1,1
+27.04.2019,2019,Walsall,Peterborough,3,0
+23.04.2019,2019,Doncaster,Accrington,1,2
+23.04.2019,2019,Luton,AFC Wimbledon,2,2
+22.04.2019,2019,Blackpool,Fleetwood,2,1
+22.04.2019,2019,Bradford City,Gillingham,1,1
+22.04.2019,2019,Bristol Rovers,Rochdale,0,1
+22.04.2019,2019,Charlton,Scunthorpe,4,0
+22.04.2019,2019,Peterborough,Sunderland,1,1
+22.04.2019,2019,Plymouth,Barnsley,0,3
+22.04.2019,2019,Portsmouth,Coventry,2,1
+22.04.2019,2019,Shrewsbury,Oxford Utd,2,3
+22.04.2019,2019,Southend,Burton,3,2
+22.04.2019,2019,Wycombe,Walsall,1,0
+20.04.2019,2019,Accrington,Luton,0,3
+19.04.2019,2019,AFC Wimbledon,Bristol Rovers,1,1
+19.04.2019,2019,Barnsley,Shrewsbury,2,1
+19.04.2019,2019,Burton,Portsmouth,1,2
+19.04.2019,2019,Coventry,Bradford City,2,0
+19.04.2019,2019,Fleetwood,Peterborough,1,1
+19.04.2019,2019,Gillingham,Plymouth,3,1
+19.04.2019,2019,Oxford Utd,Charlton,2,1
+19.04.2019,2019,Rochdale,Wycombe,1,0
+19.04.2019,2019,Scunthorpe,Blackpool,0,0
+19.04.2019,2019,Sunderland,Doncaster,2,0
+19.04.2019,2019,Walsall,Southend,1,1
+13.04.2019,2019,Accrington,Walsall,2,1
+13.04.2019,2019,Barnsley,Fleetwood,4,2
+13.04.2019,2019,Blackpool,Peterborough,0,1
+13.04.2019,2019,Bristol Rovers,Bradford City,3,2
+13.04.2019,2019,Charlton,Luton,3,1
+13.04.2019,2019,Doncaster,Plymouth,2,0
+13.04.2019,2019,Gillingham,Shrewsbury,0,2
+13.04.2019,2019,Oxford Utd,AFC Wimbledon,0,0
+13.04.2019,2019,Portsmouth,Rochdale,4,1
+13.04.2019,2019,Scunthorpe,Burton,0,3
+13.04.2019,2019,Southend,Wycombe,0,2
+13.04.2019,2019,Sunderland,Coventry,4,5
+09.04.2019,2019,Sunderland,Burton,1,1
+09.04.2019,2019,Wycombe,Charlton,0,1
+09.04.2019,2019,Accrington,Rochdale,0,1
+07.04.2019,2019,Coventry,Bristol Rovers,0,0
+06.04.2019,2019,AFC Wimbledon,Accrington,1,1
+06.04.2019,2019,Bradford City,Doncaster,0,1
+06.04.2019,2019,Burton,Barnsley,3,1
+06.04.2019,2019,Fleetwood,Southend,2,2
+06.04.2019,2019,Luton,Blackpool,2,2
+06.04.2019,2019,Peterborough,Gillingham,2,0
+06.04.2019,2019,Plymouth,Charlton,0,2
+06.04.2019,2019,Rochdale,Sunderland,1,2
+06.04.2019,2019,Shrewsbury,Scunthorpe,1,1
+06.04.2019,2019,Walsall,Oxford Utd,1,3
+06.04.2019,2019,Wycombe,Portsmouth,2,3
+03.04.2019,2019,Accrington,Sunderland,0,3
+30.03.2019,2019,Accrington,Fleetwood,0,1
+30.03.2019,2019,Barnsley,Coventry,2,2
+30.03.2019,2019,Blackpool,Plymouth,2,2
+30.03.2019,2019,Bristol Rovers,Luton,1,2
+30.03.2019,2019,Charlton,Bradford City,1,0
+30.03.2019,2019,Doncaster,Walsall,3,1
+30.03.2019,2019,Gillingham,Rochdale,1,1
+30.03.2019,2019,Oxford Utd,Wycombe,2,1
+30.03.2019,2019,Scunthorpe,AFC Wimbledon,1,2
+30.03.2019,2019,Southend,Shrewsbury,0,2
+26.03.2019,2019,Doncaster,Bristol Rovers,4,1
+23.03.2019,2019,AFC Wimbledon,Gillingham,2,4
+23.03.2019,2019,Bradford City,Blackpool,1,4
+23.03.2019,2019,Burton,Accrington,5,2
+23.03.2019,2019,Coventry,Oxford Utd,0,1
+23.03.2019,2019,Luton,Doncaster,4,0
+23.03.2019,2019,Peterborough,Southend,2,0
+23.03.2019,2019,Plymouth,Bristol Rovers,2,2
+23.03.2019,2019,Rochdale,Scunthorpe,3,1
+23.03.2019,2019,Shrewsbury,Portsmouth,0,2
+23.03.2019,2019,Walsall,Barnsley,0,1
+16.03.2019,2019,Bristol Rovers,Charlton,0,0
+16.03.2019,2019,Burton,Blackpool,3,0
+16.03.2019,2019,Fleetwood,Plymouth,2,0
+16.03.2019,2019,Luton,Gillingham,2,2
+16.03.2019,2019,Oxford Utd,Bradford City,1,0
+16.03.2019,2019,Peterborough,Coventry,1,2
+16.03.2019,2019,Portsmouth,Scunthorpe,2,0
+16.03.2019,2019,Shrewsbury,Wycombe,2,1
+16.03.2019,2019,Southend,AFC Wimbledon,0,1
+16.03.2019,2019,Sunderland,Walsall,2,1
+15.03.2019,2019,Doncaster,Barnsley,0,0
+12.03.2019,2019,AFC Wimbledon,Peterborough,1,0
+12.03.2019,2019,Barnsley,Sunderland,0,0
+12.03.2019,2019,Blackpool,Doncaster,1,1
+12.03.2019,2019,Bradford City,Luton,0,1
+12.03.2019,2019,Charlton,Burton,2,1
+12.03.2019,2019,Coventry,Fleetwood,2,1
+12.03.2019,2019,Gillingham,Bristol Rovers,0,1
+12.03.2019,2019,Plymouth,Shrewsbury,2,1
+12.03.2019,2019,Rochdale,Oxford Utd,0,0
+12.03.2019,2019,Scunthorpe,Southend,4,1
+12.03.2019,2019,Walsall,Portsmouth,2,3
+12.03.2019,2019,Wycombe,Accrington,1,3
+09.03.2019,2019,AFC Wimbledon,Doncaster,2,0
+09.03.2019,2019,Barnsley,Accrington,2,0
+09.03.2019,2019,Blackpool,Southend,2,2
+09.03.2019,2019,Bradford City,Peterborough,3,1
+09.03.2019,2019,Charlton,Portsmouth,2,1
+09.03.2019,2019,Gillingham,Oxford Utd,1,0
+09.03.2019,2019,Plymouth,Luton,0,0
+09.03.2019,2019,Rochdale,Shrewsbury,2,1
+09.03.2019,2019,Scunthorpe,Bristol Rovers,0,1
+09.03.2019,2019,Walsall,Fleetwood,2,0
+09.03.2019,2019,Wycombe,Sunderland,1,1
+08.03.2019,2019,Coventry,Burton,1,2
+05.03.2019,2019,Accrington,Blackpool,1,2
+02.03.2019,2019,Accrington,Coventry,0,1
+02.03.2019,2019,Bristol Rovers,Blackpool,4,0
+02.03.2019,2019,Burton,Walsall,0,0
+02.03.2019,2019,Doncaster,Charlton,1,1
+02.03.2019,2019,Fleetwood,Gillingham,1,1
+02.03.2019,2019,Luton,Rochdale,2,0
+02.03.2019,2019,Oxford Utd,Scunthorpe,2,1
+02.03.2019,2019,Peterborough,Wycombe,4,2
+02.03.2019,2019,Portsmouth,Bradford City,5,1
+02.03.2019,2019,Shrewsbury,AFC Wimbledon,0,0
+02.03.2019,2019,Southend,Barnsley,0,3
+02.03.2019,2019,Sunderland,Plymouth,2,0
+26.02.2019,2019,Shrewsbury,Doncaster,2,0
+24.02.2019,2019,Luton,Coventry,1,1
+23.02.2019,2019,Accrington,Southend,1,1
+23.02.2019,2019,AFC Wimbledon,Charlton,1,2
+23.02.2019,2019,Blackpool,Oxford Utd,0,1
+23.02.2019,2019,Bristol Rovers,Sunderland,0,2
+23.02.2019,2019,Burton,Fleetwood,0,1
+23.02.2019,2019,Peterborough,Shrewsbury,1,2
+23.02.2019,2019,Plymouth,Rochdale,5,1
+23.02.2019,2019,Portsmouth,Barnsley,0,0
+23.02.2019,2019,Scunthorpe,Doncaster,1,1
+23.02.2019,2019,Walsall,Bradford City,3,2
+23.02.2019,2019,Wycombe,Gillingham,0,1
+19.02.2019,2019,Rochdale,AFC Wimbledon,3,4
+19.02.2019,2019,Accrington,Oxford Utd,4,2
+19.02.2019,2019,Portsmouth,Bristol Rovers,1,1
+19.02.2019,2019,Sunderland,Gillingham,4,2
+19.02.2019,2019,Barnsley,Burton,0,0
+16.02.2019,2019,Barnsley,Wycombe,2,1
+16.02.2019,2019,Bradford City,Plymouth,0,0
+16.02.2019,2019,Charlton,Blackpool,0,0
+16.02.2019,2019,Coventry,Walsall,3,0
+16.02.2019,2019,Fleetwood,Luton,1,2
+16.02.2019,2019,Gillingham,Scunthorpe,1,0
+16.02.2019,2019,Oxford Utd,Peterborough,0,1
+16.02.2019,2019,Shrewsbury,Burton,1,1
+16.02.2019,2019,Southend,Portsmouth,3,3
+15.02.2019,2019,Sunderland,Accrington,2,2
+12.02.2019,2019,Walsall,AFC Wimbledon,0,1
+12.02.2019,2019,Doncaster,Southend,3,0
+12.02.2019,2019,Sunderland,Blackpool,1,1
+09.02.2019,2019,AFC Wimbledon,Burton,0,2
+09.02.2019,2019,Blackpool,Walsall,2,0
+09.02.2019,2019,Bradford City,Fleetwood,0,1
+09.02.2019,2019,Bristol Rovers,Shrewsbury,1,1
+09.02.2019,2019,Charlton,Southend,1,1
+09.02.2019,2019,Doncaster,Peterborough,3,1
+09.02.2019,2019,Gillingham,Barnsley,1,4
+09.02.2019,2019,Luton,Wycombe,3,0
+09.02.2019,2019,Oxford Utd,Sunderland,1,1
+09.02.2019,2019,Plymouth,Portsmouth,1,1
+09.02.2019,2019,Rochdale,Coventry,0,1
+09.02.2019,2019,Scunthorpe,Accrington,2,0
+02.02.2019,2019,Barnsley,Scunthorpe,2,0
+02.02.2019,2019,Burton,Oxford Utd,0,0
+02.02.2019,2019,Coventry,Gillingham,1,1
+02.02.2019,2019,Fleetwood,Charlton,1,0
+02.02.2019,2019,Peterborough,Plymouth,0,1
+02.02.2019,2019,Portsmouth,Doncaster,1,1
+02.02.2019,2019,Shrewsbury,Luton,0,3
+02.02.2019,2019,Southend,Bristol Rovers,1,2
+02.02.2019,2019,Sunderland,AFC Wimbledon,1,0
+02.02.2019,2019,Walsall,Rochdale,1,2
+02.02.2019,2019,Wycombe,Bradford City,0,0
+29.01.2019,2019,Blackpool,Wycombe,2,2
+29.01.2019,2019,Bradford City,Shrewsbury,4,3
+29.01.2019,2019,Bristol Rovers,Peterborough,2,2
+29.01.2019,2019,Gillingham,Accrington,0,0
+29.01.2019,2019,Luton,Portsmouth,3,2
+29.01.2019,2019,Oxford Utd,Barnsley,2,2
+26.01.2019,2019,Barnsley,Rochdale,2,1
+26.01.2019,2019,Burton,Bradford City,1,1
+26.01.2019,2019,Coventry,Blackpool,0,2
+26.01.2019,2019,Fleetwood,Scunthorpe,0,1
+26.01.2019,2019,Peterborough,Charlton,0,0
+26.01.2019,2019,Southend,Luton,0,1
+26.01.2019,2019,Wycombe,Plymouth,1,0
+22.01.2019,2019,AFC Wimbledon,Fleetwood,0,3
+22.01.2019,2019,Plymouth,Walsall,2,1
+19.01.2019,2019,AFC Wimbledon,Barnsley,1,4
+19.01.2019,2019,Blackpool,Shrewsbury,0,0
+19.01.2019,2019,Bradford City,Southend,0,4
+19.01.2019,2019,Bristol Rovers,Wycombe,0,1
+19.01.2019,2019,Charlton,Accrington,1,0
+19.01.2019,2019,Doncaster,Burton,2,2
+19.01.2019,2019,Gillingham,Walsall,0,3
+19.01.2019,2019,Luton,Peterborough,4,0
+19.01.2019,2019,Oxford Utd,Portsmouth,2,1
+19.01.2019,2019,Plymouth,Coventry,2,1
+19.01.2019,2019,Rochdale,Fleetwood,1,1
+19.01.2019,2019,Scunthorpe,Sunderland,1,1
+12.01.2019,2019,Accrington,Bristol Rovers,0,0
+12.01.2019,2019,Barnsley,Bradford City,3,0
+12.01.2019,2019,Burton,Gillingham,2,3
+12.01.2019,2019,Coventry,AFC Wimbledon,1,1
+12.01.2019,2019,Fleetwood,Oxford Utd,2,2
+12.01.2019,2019,Peterborough,Rochdale,2,1
+12.01.2019,2019,Portsmouth,Blackpool,0,1
+12.01.2019,2019,Shrewsbury,Charlton,0,3
+12.01.2019,2019,Southend,Plymouth,2,3
+12.01.2019,2019,Sunderland,Luton,1,1
+12.01.2019,2019,Walsall,Scunthorpe,1,2
+12.01.2019,2019,Wycombe,Doncaster,3,2
+05.01.2019,2019,Charlton,Sunderland,1,1
+05.01.2019,2019,Rochdale,Burton,0,4
+05.01.2019,2019,Scunthorpe,Coventry,2,1
+01.01.2019,2019,Blackpool,Sunderland,0,1
+01.01.2019,2019,Bradford City,Accrington,3,0
+01.01.2019,2019,Bristol Rovers,Burton,0,0
+01.01.2019,2019,Charlton,Walsall,2,1
+01.01.2019,2019,Doncaster,Rochdale,5,0
+01.01.2019,2019,Luton,Barnsley,0,0
+01.01.2019,2019,Peterborough,Scunthorpe,0,2
+01.01.2019,2019,Plymouth,Oxford Utd,3,0
+01.01.2019,2019,Portsmouth,AFC Wimbledon,2,1
+01.01.2019,2019,Shrewsbury,Fleetwood,0,0
+01.01.2019,2019,Southend,Gillingham,2,0
+01.01.2019,2019,Wycombe,Coventry,0,2
+29.12.2018,2019,Accrington,Peterborough,0,4
+29.12.2018,2019,AFC Wimbledon,Blackpool,0,0
+29.12.2018,2019,Barnsley,Charlton,2,1
+29.12.2018,2019,Burton,Plymouth,1,1
+29.12.2018,2019,Coventry,Southend,1,0
+29.12.2018,2019,Fleetwood,Portsmouth,2,5
+29.12.2018,2019,Gillingham,Doncaster,1,3
+29.12.2018,2019,Oxford Utd,Bristol Rovers,0,2
+29.12.2018,2019,Rochdale,Bradford City,0,4
+29.12.2018,2019,Scunthorpe,Wycombe,1,0
+29.12.2018,2019,Sunderland,Shrewsbury,1,1
+29.12.2018,2019,Walsall,Luton,2,2
+26.12.2018,2019,Accrington,Shrewsbury,2,1
+26.12.2018,2019,AFC Wimbledon,Plymouth,2,1
+26.12.2018,2019,Barnsley,Peterborough,2,0
+26.12.2018,2019,Burton,Wycombe,3,1
+26.12.2018,2019,Coventry,Charlton,2,1
+26.12.2018,2019,Fleetwood,Doncaster,3,0
+26.12.2018,2019,Gillingham,Portsmouth,2,0
+26.12.2018,2019,Oxford Utd,Southend,0,1
+26.12.2018,2019,Rochdale,Blackpool,2,1
+26.12.2018,2019,Scunthorpe,Luton,0,2
+26.12.2018,2019,Sunderland,Bradford City,1,0
+26.12.2018,2019,Walsall,Bristol Rovers,1,3
+22.12.2018,2019,Blackpool,Barnsley,0,1
+22.12.2018,2019,Bradford City,Scunthorpe,2,0
+22.12.2018,2019,Bristol Rovers,Fleetwood,2,1
+22.12.2018,2019,Charlton,Gillingham,2,0
+22.12.2018,2019,Doncaster,Oxford Utd,2,2
+22.12.2018,2019,Luton,Burton,2,0
+22.12.2018,2019,Peterborough,Walsall,1,1
+22.12.2018,2019,Plymouth,Accrington,0,3
+22.12.2018,2019,Portsmouth,Sunderland,3,1
+22.12.2018,2019,Shrewsbury,Coventry,1,0
+22.12.2018,2019,Southend,Rochdale,1,2
+22.12.2018,2019,Wycombe,AFC Wimbledon,1,2
+15.12.2018,2019,Barnsley,Portsmouth,1,1
+15.12.2018,2019,Bradford City,Walsall,4,0
+15.12.2018,2019,Charlton,AFC Wimbledon,2,0
+15.12.2018,2019,Coventry,Luton,1,2
+15.12.2018,2019,Doncaster,Scunthorpe,3,0
+15.12.2018,2019,Fleetwood,Burton,1,0
+15.12.2018,2019,Gillingham,Wycombe,2,2
+15.12.2018,2019,Oxford Utd,Blackpool,2,0
+15.12.2018,2019,Rochdale,Plymouth,1,2
+15.12.2018,2019,Shrewsbury,Peterborough,2,2
+15.12.2018,2019,Southend,Accrington,3,0
+15.12.2018,2019,Sunderland,Bristol Rovers,2,1
+11.12.2018,2019,Portsmouth,Charlton,1,2
+08.12.2018,2019,AFC Wimbledon,Rochdale,1,1
+08.12.2018,2019,Blackpool,Charlton,2,1
+08.12.2018,2019,Bristol Rovers,Doncaster,0,4
+08.12.2018,2019,Burton,Shrewsbury,2,1
+08.12.2018,2019,Luton,Fleetwood,2,0
+08.12.2018,2019,Peterborough,Oxford Utd,2,2
+08.12.2018,2019,Plymouth,Bradford City,3,3
+08.12.2018,2019,Portsmouth,Southend,2,0
+08.12.2018,2019,Scunthorpe,Gillingham,0,2
+08.12.2018,2019,Walsall,Coventry,2,1
+08.12.2018,2019,Wycombe,Barnsley,1,0
+27.11.2018,2019,Accrington,Wycombe,1,2
+27.11.2018,2019,Bristol Rovers,Gillingham,1,2
+27.11.2018,2019,Burton,Charlton,1,2
+27.11.2018,2019,Doncaster,Blackpool,2,0
+27.11.2018,2019,Fleetwood,Coventry,3,0
+27.11.2018,2019,Luton,Bradford City,4,0
+27.11.2018,2019,Oxford Utd,Rochdale,4,2
+27.11.2018,2019,Peterborough,AFC Wimbledon,1,0
+27.11.2018,2019,Portsmouth,Walsall,2,0
+27.11.2018,2019,Shrewsbury,Plymouth,2,0
+27.11.2018,2019,Southend,Scunthorpe,2,0
+27.11.2018,2019,Sunderland,Barnsley,4,2
+24.11.2018,2019,AFC Wimbledon,Southend,2,1
+24.11.2018,2019,Barnsley,Doncaster,1,1
+24.11.2018,2019,Blackpool,Burton,3,0
+24.11.2018,2019,Bradford City,Oxford Utd,2,0
+24.11.2018,2019,Charlton,Bristol Rovers,3,1
+24.11.2018,2019,Gillingham,Luton,1,3
+24.11.2018,2019,Plymouth,Fleetwood,2,1
+24.11.2018,2019,Rochdale,Accrington,1,0
+24.11.2018,2019,Scunthorpe,Portsmouth,1,2
+24.11.2018,2019,Walsall,Sunderland,2,2
+24.11.2018,2019,Wycombe,Shrewsbury,3,2
+23.11.2018,2019,Coventry,Peterborough,1,1
+17.11.2018,2019,Accrington,Barnsley,0,2
+17.11.2018,2019,Bristol Rovers,Scunthorpe,1,2
+17.11.2018,2019,Burton,Coventry,1,0
+17.11.2018,2019,Doncaster,AFC Wimbledon,2,1
+17.11.2018,2019,Fleetwood,Walsall,0,0
+17.11.2018,2019,Luton,Plymouth,5,1
+17.11.2018,2019,Oxford Utd,Gillingham,1,0
+17.11.2018,2019,Peterborough,Bradford City,1,1
+17.11.2018,2019,Shrewsbury,Rochdale,3,2
+17.11.2018,2019,Southend,Blackpool,1,2
+17.11.2018,2019,Sunderland,Wycombe,1,1
+06.11.2018,2019,Walsall,Charlton,0,2
+06.11.2018,2019,Gillingham,Blackpool,0,1
+03.11.2018,2019,AFC Wimbledon,Shrewsbury,1,2
+03.11.2018,2019,Barnsley,Southend,1,0
+03.11.2018,2019,Blackpool,Bristol Rovers,0,3
+03.11.2018,2019,Bradford City,Portsmouth,0,1
+03.11.2018,2019,Charlton,Doncaster,2,0
+03.11.2018,2019,Coventry,Accrington,1,1
+03.11.2018,2019,Gillingham,Fleetwood,3,0
+03.11.2018,2019,Plymouth,Sunderland,0,2
+03.11.2018,2019,Rochdale,Luton,0,0
+03.11.2018,2019,Scunthorpe,Oxford Utd,3,3
+03.11.2018,2019,Walsall,Burton,1,3
+03.11.2018,2019,Wycombe,Peterborough,1,0
+27.10.2018,2019,Accrington,Portsmouth,1,1
+27.10.2018,2019,AFC Wimbledon,Luton,0,2
+27.10.2018,2019,Barnsley,Bristol Rovers,1,0
+27.10.2018,2019,Burton,Peterborough,1,2
+27.10.2018,2019,Coventry,Doncaster,2,1
+27.10.2018,2019,Fleetwood,Blackpool,3,2
+27.10.2018,2019,Gillingham,Bradford City,4,0
+27.10.2018,2019,Oxford Utd,Shrewsbury,3,0
+27.10.2018,2019,Rochdale,Charlton,1,0
+27.10.2018,2019,Scunthorpe,Plymouth,1,4
+27.10.2018,2019,Sunderland,Southend,3,0
+27.10.2018,2019,Walsall,Wycombe,3,2
+23.10.2018,2019,Blackpool,Scunthorpe,1,0
+23.10.2018,2019,Bradford City,Coventry,2,4
+23.10.2018,2019,Bristol Rovers,AFC Wimbledon,2,0
+23.10.2018,2019,Charlton,Oxford Utd,1,1
+23.10.2018,2019,Doncaster,Sunderland,0,1
+23.10.2018,2019,Luton,Accrington,4,1
+23.10.2018,2019,Peterborough,Fleetwood,1,0
+23.10.2018,2019,Plymouth,Gillingham,3,1
+23.10.2018,2019,Portsmouth,Burton,2,2
+23.10.2018,2019,Shrewsbury,Barnsley,3,1
+23.10.2018,2019,Southend,Walsall,3,0
+23.10.2018,2019,Wycombe,Rochdale,3,0
+20.10.2018,2019,Blackpool,AFC Wimbledon,2,0
+20.10.2018,2019,Bradford City,Rochdale,0,2
+20.10.2018,2019,Bristol Rovers,Oxford Utd,0,0
+20.10.2018,2019,Charlton,Barnsley,2,0
+20.10.2018,2019,Doncaster,Gillingham,3,3
+20.10.2018,2019,Luton,Walsall,2,0
+20.10.2018,2019,Peterborough,Accrington,0,1
+20.10.2018,2019,Plymouth,Burton,2,3
+20.10.2018,2019,Portsmouth,Fleetwood,1,0
+20.10.2018,2019,Shrewsbury,Sunderland,0,2
+20.10.2018,2019,Southend,Coventry,1,2
+20.10.2018,2019,Wycombe,Scunthorpe,3,2
+13.10.2018,2019,Accrington,Bradford City,3,1
+13.10.2018,2019,AFC Wimbledon,Portsmouth,1,2
+13.10.2018,2019,Barnsley,Luton,3,2
+13.10.2018,2019,Burton,Bristol Rovers,1,0
+13.10.2018,2019,Coventry,Wycombe,1,0
+13.10.2018,2019,Fleetwood,Shrewsbury,2,1
+13.10.2018,2019,Gillingham,Southend,0,2
+13.10.2018,2019,Oxford Utd,Plymouth,2,0
+13.10.2018,2019,Rochdale,Doncaster,2,3
+13.10.2018,2019,Scunthorpe,Peterborough,0,2
+06.10.2018,2019,Blackpool,Rochdale,2,2
+06.10.2018,2019,Bradford City,Sunderland,1,2
+06.10.2018,2019,Bristol Rovers,Walsall,0,1
+06.10.2018,2019,Charlton,Coventry,1,2
+06.10.2018,2019,Doncaster,Fleetwood,0,4
+06.10.2018,2019,Luton,Scunthorpe,3,2
+06.10.2018,2019,Peterborough,Barnsley,0,4
+06.10.2018,2019,Plymouth,AFC Wimbledon,1,0
+06.10.2018,2019,Portsmouth,Gillingham,0,2
+06.10.2018,2019,Shrewsbury,Accrington,1,0
+06.10.2018,2019,Southend,Oxford Utd,0,0
+06.10.2018,2019,Wycombe,Burton,2,1
+02.10.2018,2019,Accrington,Doncaster,1,0
+02.10.2018,2019,AFC Wimbledon,Bradford City,0,1
+02.10.2018,2019,Barnsley,Plymouth,1,1
+02.10.2018,2019,Burton,Southend,1,2
+02.10.2018,2019,Coventry,Portsmouth,0,1
+02.10.2018,2019,Fleetwood,Wycombe,1,1
+02.10.2018,2019,Oxford Utd,Luton,1,2
+02.10.2018,2019,Rochdale,Bristol Rovers,0,0
+02.10.2018,2019,Scunthorpe,Charlton,5,3
+02.10.2018,2019,Sunderland,Peterborough,2,2
+02.10.2018,2019,Walsall,Shrewsbury,0,0
+29.09.2018,2019,AFC Wimbledon,Oxford Utd,2,1
+29.09.2018,2019,Bradford City,Bristol Rovers,0,0
+29.09.2018,2019,Burton,Scunthorpe,0,0
+29.09.2018,2019,Coventry,Sunderland,1,1
+29.09.2018,2019,Fleetwood,Barnsley,1,3
+29.09.2018,2019,Luton,Charlton,2,2
+29.09.2018,2019,Peterborough,Blackpool,2,2
+29.09.2018,2019,Plymouth,Doncaster,2,3
+29.09.2018,2019,Rochdale,Portsmouth,1,3
+29.09.2018,2019,Shrewsbury,Gillingham,2,2
+29.09.2018,2019,Walsall,Accrington,0,1
+29.09.2018,2019,Wycombe,Southend,2,3
+22.09.2018,2019,Accrington,AFC Wimbledon,2,1
+22.09.2018,2019,Blackpool,Luton,0,0
+22.09.2018,2019,Bristol Rovers,Coventry,3,1
+22.09.2018,2019,Charlton,Plymouth,2,1
+22.09.2018,2019,Doncaster,Bradford City,2,1
+22.09.2018,2019,Gillingham,Peterborough,2,4
+22.09.2018,2019,Oxford Utd,Walsall,1,2
+22.09.2018,2019,Portsmouth,Wycombe,2,2
+22.09.2018,2019,Scunthorpe,Shrewsbury,1,0
+22.09.2018,2019,Southend,Fleetwood,1,0
+22.09.2018,2019,Sunderland,Rochdale,4,1
+15.09.2018,2019,AFC Wimbledon,Scunthorpe,2,3
+15.09.2018,2019,Bradford City,Charlton,0,2
+15.09.2018,2019,Burton,Sunderland,2,1
+15.09.2018,2019,Coventry,Barnsley,1,0
+15.09.2018,2019,Fleetwood,Accrington,1,1
+15.09.2018,2019,Luton,Bristol Rovers,1,0
+15.09.2018,2019,Peterborough,Portsmouth,1,2
+15.09.2018,2019,Plymouth,Blackpool,0,1
+15.09.2018,2019,Rochdale,Gillingham,3,0
+15.09.2018,2019,Shrewsbury,Southend,2,0
+15.09.2018,2019,Walsall,Doncaster,1,4
+15.09.2018,2019,Wycombe,Oxford Utd,0,0
+09.09.2018,2019,Oxford Utd,Coventry,1,2
+08.09.2018,2019,Accrington,Burton,1,1
+08.09.2018,2019,Barnsley,Walsall,1,1
+08.09.2018,2019,Blackpool,Bradford City,3,2
+08.09.2018,2019,Bristol Rovers,Plymouth,0,0
+08.09.2018,2019,Charlton,Wycombe,3,2
+08.09.2018,2019,Doncaster,Luton,2,1
+08.09.2018,2019,Gillingham,AFC Wimbledon,0,1
+08.09.2018,2019,Portsmouth,Shrewsbury,1,1
+08.09.2018,2019,Scunthorpe,Rochdale,3,3
+08.09.2018,2019,Southend,Peterborough,2,3
+08.09.2018,2019,Sunderland,Fleetwood,1,1
+01.09.2018,2019,Accrington,Scunthorpe,1,1
+01.09.2018,2019,Barnsley,Gillingham,2,1
+01.09.2018,2019,Burton,AFC Wimbledon,3,0
+01.09.2018,2019,Coventry,Rochdale,0,1
+01.09.2018,2019,Fleetwood,Bradford City,2,1
+01.09.2018,2019,Peterborough,Doncaster,1,1
+01.09.2018,2019,Portsmouth,Plymouth,3,0
+01.09.2018,2019,Shrewsbury,Bristol Rovers,1,1
+01.09.2018,2019,Southend,Charlton,1,2
+01.09.2018,2019,Sunderland,Oxford Utd,1,1
+01.09.2018,2019,Walsall,Blackpool,0,0
+01.09.2018,2019,Wycombe,Luton,1,1
+25.08.2018,2019,AFC Wimbledon,Sunderland,1,2
+25.08.2018,2019,Blackpool,Accrington,1,1
+25.08.2018,2019,Bradford City,Wycombe,1,2
+25.08.2018,2019,Bristol Rovers,Southend,0,1
+25.08.2018,2019,Charlton,Fleetwood,0,0
+25.08.2018,2019,Doncaster,Portsmouth,0,0
+25.08.2018,2019,Gillingham,Coventry,1,1
+25.08.2018,2019,Luton,Shrewsbury,3,2
+25.08.2018,2019,Oxford Utd,Burton,3,1
+25.08.2018,2019,Plymouth,Peterborough,1,5
+25.08.2018,2019,Rochdale,Walsall,1,2
+25.08.2018,2019,Scunthorpe,Barnsley,2,2
+22.08.2018,2019,Gillingham,Sunderland,1,4
+22.08.2018,2019,Scunthorpe,Fleetwood,0,5
+21.08.2018,2019,AFC Wimbledon,Walsall,1,3
+21.08.2018,2019,Blackpool,Coventry,2,0
+21.08.2018,2019,Bradford City,Burton,1,0
+21.08.2018,2019,Bristol Rovers,Portsmouth,1,2
+21.08.2018,2019,Charlton,Peterborough,0,1
+21.08.2018,2019,Doncaster,Shrewsbury,0,0
+21.08.2018,2019,Luton,Southend,2,0
+21.08.2018,2019,Oxford Utd,Accrington,2,3
+21.08.2018,2019,Plymouth,Wycombe,1,1
+21.08.2018,2019,Rochdale,Barnsley,0,4
+19.08.2018,2019,Sunderland,Scunthorpe,3,0
+18.08.2018,2019,Accrington,Charlton,1,1
+18.08.2018,2019,Barnsley,AFC Wimbledon,0,0
+18.08.2018,2019,Burton,Doncaster,1,0
+18.08.2018,2019,Coventry,Plymouth,1,0
+18.08.2018,2019,Fleetwood,Rochdale,2,2
+18.08.2018,2019,Peterborough,Luton,3,1
+18.08.2018,2019,Portsmouth,Oxford Utd,4,1
+18.08.2018,2019,Shrewsbury,Blackpool,0,0
+18.08.2018,2019,Southend,Bradford City,2,0
+18.08.2018,2019,Walsall,Gillingham,2,1
+18.08.2018,2019,Wycombe,Bristol Rovers,1,2
+11.08.2018,2019,AFC Wimbledon,Coventry,0,0
+11.08.2018,2019,Blackpool,Portsmouth,1,2
+11.08.2018,2019,Bradford City,Barnsley,0,2
+11.08.2018,2019,Bristol Rovers,Accrington,1,2
+11.08.2018,2019,Charlton,Shrewsbury,2,1
+11.08.2018,2019,Doncaster,Wycombe,3,0
+11.08.2018,2019,Gillingham,Burton,3,1
+11.08.2018,2019,Luton,Sunderland,1,1
+11.08.2018,2019,Oxford Utd,Fleetwood,0,2
+11.08.2018,2019,Plymouth,Southend,1,1
+11.08.2018,2019,Rochdale,Peterborough,1,4
+11.08.2018,2019,Scunthorpe,Walsall,1,1
+04.08.2018,2019,Accrington,Gillingham,0,2
+04.08.2018,2019,Barnsley,Oxford Utd,4,0
+04.08.2018,2019,Burton,Rochdale,1,2
+04.08.2018,2019,Coventry,Scunthorpe,1,2
+04.08.2018,2019,Fleetwood,AFC Wimbledon,0,1
+04.08.2018,2019,Peterborough,Bristol Rovers,2,1
+04.08.2018,2019,Portsmouth,Luton,1,0
+04.08.2018,2019,Shrewsbury,Bradford City,0,1
+04.08.2018,2019,Southend,Doncaster,2,3
+04.08.2018,2019,Sunderland,Charlton,2,1
+04.08.2018,2019,Walsall,Plymouth,2,1
+04.08.2018,2019,Wycombe,Blackpool,0,0

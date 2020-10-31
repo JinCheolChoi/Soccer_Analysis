@@ -1,0 +1,381 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+17.06.2001,2001,Barcelona,Valencia,3,2
+17.06.2001,2001,Dep. La Coruna,Malaga,4,0
+17.06.2001,2001,Mallorca,R. Oviedo,4,2
+17.06.2001,2001,Real Madrid,Valladolid,2,1
+17.06.2001,2001,Real Sociedad,Osasuna,0,1
+17.06.2001,2001,Zaragoza,Celta Vigo,1,1
+16.06.2001,2001,Las Palmas,Rayo Vallecano,1,0
+16.06.2001,2001,Numancia,Alaves,2,1
+16.06.2001,2001,Racing Santander,Ath Bilbao,3,0
+16.06.2001,2001,Villarreal,Espanyol,4,0
+10.06.2001,2001,Alaves,Mallorca,2,4
+10.06.2001,2001,Ath Bilbao,Real Sociedad,1,3
+10.06.2001,2001,Celta Vigo,Villarreal,1,0
+10.06.2001,2001,Espanyol,Las Palmas,3,2
+10.06.2001,2001,Malaga,Racing Santander,2,1
+10.06.2001,2001,Osasuna,Zaragoza,1,0
+10.06.2001,2001,Rayo Vallecano,Numancia,2,1
+10.06.2001,2001,R. Oviedo,Real Madrid,1,1
+10.06.2001,2001,Valencia,Dep. La Coruna,0,1
+10.06.2001,2001,Valladolid,Barcelona,2,2
+27.05.2001,2001,Ath Bilbao,Malaga,1,3
+27.05.2001,2001,Barcelona,R. Oviedo,0,1
+27.05.2001,2001,Dep. La Coruna,Valladolid,1,2
+27.05.2001,2001,Mallorca,Rayo Vallecano,4,0
+27.05.2001,2001,Numancia,Espanyol,2,1
+27.05.2001,2001,Racing Santander,Valencia,1,1
+27.05.2001,2001,Villarreal,Osasuna,2,0
+27.05.2001,2001,Zaragoza,Real Sociedad,1,1
+26.05.2001,2001,Las Palmas,Celta Vigo,0,1
+26.05.2001,2001,Real Madrid,Alaves,5,0
+20.05.2001,2001,Celta Vigo,Numancia,1,1
+20.05.2001,2001,Espanyol,Mallorca,0,1
+20.05.2001,2001,Osasuna,Las Palmas,3,3
+20.05.2001,2001,Rayo Vallecano,Real Madrid,0,1
+20.05.2001,2001,Real Sociedad,Malaga,4,0
+20.05.2001,2001,R. Oviedo,Dep. La Coruna,2,3
+20.05.2001,2001,Valladolid,Racing Santander,1,1
+20.05.2001,2001,Zaragoza,Villarreal,0,0
+19.05.2001,2001,Alaves,Barcelona,0,1
+18.05.2001,2001,Valencia,Ath Bilbao,1,0
+13.05.2001,2001,Ath Bilbao,Valladolid,1,1
+13.05.2001,2001,Barcelona,Rayo Vallecano,5,1
+13.05.2001,2001,Las Palmas,Zaragoza,2,1
+13.05.2001,2001,Malaga,Valencia,3,0
+13.05.2001,2001,Mallorca,Celta Vigo,2,0
+13.05.2001,2001,Numancia,Osasuna,1,0
+13.05.2001,2001,Racing Santander,R. Oviedo,2,0
+13.05.2001,2001,Real Madrid,Espanyol,2,2
+12.05.2001,2001,Villarreal,Real Sociedad,1,3
+11.05.2001,2001,Dep. La Coruna,Alaves,2,1
+06.05.2001,2001,Alaves,Racing Santander,5,1
+06.05.2001,2001,Osasuna,Mallorca,1,0
+06.05.2001,2001,Rayo Vallecano,Dep. La Coruna,1,1
+06.05.2001,2001,R. Oviedo,Ath Bilbao,5,0
+06.05.2001,2001,Valladolid,Malaga,0,0
+06.05.2001,2001,Villarreal,Las Palmas,2,1
+06.05.2001,2001,Zaragoza,Numancia,3,1
+05.05.2001,2001,Celta Vigo,Real Madrid,3,0
+05.05.2001,2001,Espanyol,Barcelona,0,0
+05.05.2001,2001,Real Sociedad,Valencia,1,2
+29.04.2001,2001,Ath Bilbao,Alaves,2,0
+29.04.2001,2001,Barcelona,Celta Vigo,1,1
+29.04.2001,2001,Dep. La Coruna,Espanyol,1,0
+29.04.2001,2001,Las Palmas,Real Sociedad,2,1
+29.04.2001,2001,Malaga,R. Oviedo,2,2
+29.04.2001,2001,Mallorca,Zaragoza,2,1
+29.04.2001,2001,Numancia,Villarreal,1,3
+29.04.2001,2001,Racing Santander,Rayo Vallecano,1,1
+28.04.2001,2001,Real Madrid,Osasuna,1,1
+28.04.2001,2001,Valencia,Valladolid,1,0
+22.04.2001,2001,Alaves,Malaga,1,2
+22.04.2001,2001,Espanyol,Racing Santander,3,0
+22.04.2001,2001,Las Palmas,Numancia,1,1
+22.04.2001,2001,Osasuna,Barcelona,3,1
+22.04.2001,2001,Rayo Vallecano,Ath Bilbao,1,2
+22.04.2001,2001,Real Sociedad,Valladolid,3,1
+22.04.2001,2001,R. Oviedo,Valencia,0,0
+22.04.2001,2001,Villarreal,Mallorca,2,2
+22.04.2001,2001,Zaragoza,Real Madrid,2,3
+21.04.2001,2001,Celta Vigo,Dep. La Coruna,2,1
+15.04.2001,2001,Ath Bilbao,Espanyol,0,1
+15.04.2001,2001,Malaga,Rayo Vallecano,1,1
+15.04.2001,2001,Mallorca,Las Palmas,2,1
+15.04.2001,2001,Numancia,Real Sociedad,3,3
+15.04.2001,2001,Racing Santander,Celta Vigo,3,0
+15.04.2001,2001,Valladolid,R. Oviedo,1,0
+14.04.2001,2001,Barcelona,Zaragoza,4,4
+14.04.2001,2001,Dep. La Coruna,Osasuna,2,1
+14.04.2001,2001,Real Madrid,Villarreal,4,0
+14.04.2001,2001,Valencia,Alaves,1,2
+08.04.2001,2001,Alaves,Valladolid,4,2
+08.04.2001,2001,Celta Vigo,Ath Bilbao,2,1
+08.04.2001,2001,Espanyol,Malaga,1,2
+08.04.2001,2001,Las Palmas,Real Madrid,0,1
+08.04.2001,2001,Numancia,Mallorca,0,2
+08.04.2001,2001,Osasuna,Racing Santander,1,1
+08.04.2001,2001,Real Sociedad,R. Oviedo,3,0
+08.04.2001,2001,Villarreal,Barcelona,4,4
+08.04.2001,2001,Zaragoza,Dep. La Coruna,2,1
+07.04.2001,2001,Rayo Vallecano,Valencia,1,4
+01.04.2001,2001,Ath Bilbao,Osasuna,0,1
+01.04.2001,2001,Barcelona,Las Palmas,4,1
+01.04.2001,2001,Mallorca,Real Sociedad,1,1
+01.04.2001,2001,Racing Santander,Zaragoza,2,1
+01.04.2001,2001,R. Oviedo,Alaves,3,3
+01.04.2001,2001,Valladolid,Rayo Vallecano,1,3
+31.03.2001,2001,Dep. La Coruna,Villarreal,4,2
+31.03.2001,2001,Malaga,Celta Vigo,1,4
+31.03.2001,2001,Real Madrid,Numancia,1,0
+31.03.2001,2001,Valencia,Espanyol,0,1
+18.03.2001,2001,Celta Vigo,Valencia,3,2
+18.03.2001,2001,Espanyol,Valladolid,1,0
+18.03.2001,2001,Mallorca,Real Madrid,1,0
+18.03.2001,2001,Numancia,Barcelona,1,1
+18.03.2001,2001,Osasuna,Malaga,3,3
+18.03.2001,2001,Rayo Vallecano,R. Oviedo,0,2
+18.03.2001,2001,Real Sociedad,Alaves,1,1
+18.03.2001,2001,Villarreal,Racing Santander,4,2
+18.03.2001,2001,Zaragoza,Ath Bilbao,2,2
+17.03.2001,2001,Las Palmas,Dep. La Coruna,2,0
+11.03.2001,2001,Alaves,Rayo Vallecano,4,2
+11.03.2001,2001,Barcelona,Mallorca,1,1
+11.03.2001,2001,Malaga,Zaragoza,2,0
+11.03.2001,2001,Racing Santander,Las Palmas,2,1
+11.03.2001,2001,Real Madrid,Real Sociedad,4,0
+11.03.2001,2001,R. Oviedo,Espanyol,2,2
+11.03.2001,2001,Valladolid,Celta Vigo,1,2
+10.03.2001,2001,Ath Bilbao,Villarreal,1,1
+10.03.2001,2001,Dep. La Coruna,Numancia,4,1
+10.03.2001,2001,Valencia,Osasuna,1,0
+04.03.2001,2001,Celta Vigo,R. Oviedo,1,0
+04.03.2001,2001,Espanyol,Alaves,0,0
+04.03.2001,2001,Las Palmas,Ath Bilbao,0,0
+04.03.2001,2001,Mallorca,Dep. La Coruna,2,1
+04.03.2001,2001,Numancia,Racing Santander,1,0
+04.03.2001,2001,Osasuna,Valladolid,2,1
+04.03.2001,2001,Villarreal,Malaga,1,2
+03.03.2001,2001,Real Madrid,Barcelona,2,2
+03.03.2001,2001,Real Sociedad,Rayo Vallecano,2,0
+03.03.2001,2001,Zaragoza,Valencia,1,1
+25.02.2001,2001,Alaves,Celta Vigo,2,2
+25.02.2001,2001,Ath Bilbao,Numancia,3,1
+25.02.2001,2001,Barcelona,Real Sociedad,3,0
+25.02.2001,2001,Malaga,Las Palmas,2,1
+25.02.2001,2001,Racing Santander,Mallorca,2,1
+25.02.2001,2001,Rayo Vallecano,Espanyol,1,1
+25.02.2001,2001,R. Oviedo,Osasuna,2,3
+25.02.2001,2001,Valencia,Villarreal,3,1
+25.02.2001,2001,Valladolid,Zaragoza,2,0
+24.02.2001,2001,Dep. La Coruna,Real Madrid,2,2
+18.02.2001,2001,Celta Vigo,Rayo Vallecano,1,1
+18.02.2001,2001,Mallorca,Ath Bilbao,1,0
+18.02.2001,2001,Numancia,Malaga,3,2
+18.02.2001,2001,Osasuna,Alaves,0,1
+18.02.2001,2001,Real Sociedad,Espanyol,2,1
+18.02.2001,2001,Villarreal,Valladolid,2,1
+18.02.2001,2001,Zaragoza,R. Oviedo,5,2
+17.02.2001,2001,Barcelona,Dep. La Coruna,2,3
+17.02.2001,2001,Las Palmas,Valencia,0,2
+17.02.2001,2001,Real Madrid,Racing Santander,1,0
+11.02.2001,2001,Alaves,Zaragoza,1,0
+11.02.2001,2001,Malaga,Mallorca,0,1
+11.02.2001,2001,Racing Santander,Barcelona,4,0
+11.02.2001,2001,R. Oviedo,Villarreal,1,3
+11.02.2001,2001,Valladolid,Las Palmas,1,0
+10.02.2001,2001,Ath Bilbao,Real Madrid,1,0
+10.02.2001,2001,Dep. La Coruna,Real Sociedad,4,1
+10.02.2001,2001,Espanyol,Celta Vigo,0,1
+10.02.2001,2001,Rayo Vallecano,Osasuna,2,1
+10.02.2001,2001,Valencia,Numancia,3,0
+04.02.2001,2001,Dep. La Coruna,Racing Santander,2,1
+04.02.2001,2001,Las Palmas,R. Oviedo,1,0
+04.02.2001,2001,Mallorca,Valencia,2,2
+04.02.2001,2001,Numancia,Valladolid,0,0
+04.02.2001,2001,Osasuna,Espanyol,1,3
+04.02.2001,2001,Real Madrid,Malaga,4,3
+04.02.2001,2001,Real Sociedad,Celta Vigo,2,2
+04.02.2001,2001,Villarreal,Alaves,2,0
+04.02.2001,2001,Zaragoza,Rayo Vallecano,6,1
+03.02.2001,2001,Barcelona,Ath Bilbao,7,0
+28.01.2001,2001,Alaves,Las Palmas,1,0
+28.01.2001,2001,Celta Vigo,Osasuna,1,0
+28.01.2001,2001,Racing Santander,Real Sociedad,1,4
+28.01.2001,2001,Rayo Vallecano,Villarreal,0,1
+28.01.2001,2001,R. Oviedo,Numancia,3,0
+28.01.2001,2001,Valencia,Real Madrid,0,1
+28.01.2001,2001,Valladolid,Mallorca,2,0
+27.01.2001,2001,Ath Bilbao,Dep. La Coruna,2,2
+27.01.2001,2001,Espanyol,Zaragoza,5,0
+27.01.2001,2001,Malaga,Barcelona,0,0
+24.01.2001,2001,Real Madrid,Zaragoza,3,0
+21.01.2001,2001,Alaves,Numancia,0,2
+21.01.2001,2001,Ath Bilbao,Racing Santander,3,1
+21.01.2001,2001,Celta Vigo,Zaragoza,1,1
+21.01.2001,2001,Espanyol,Villarreal,2,1
+21.01.2001,2001,Malaga,Dep. La Coruna,1,3
+21.01.2001,2001,Osasuna,Real Sociedad,1,1
+21.01.2001,2001,Rayo Vallecano,Las Palmas,1,1
+21.01.2001,2001,R. Oviedo,Mallorca,1,1
+21.01.2001,2001,Valladolid,Real Madrid,2,2
+20.01.2001,2001,Valencia,Barcelona,0,1
+14.01.2001,2001,Las Palmas,Espanyol,1,0
+14.01.2001,2001,Mallorca,Alaves,4,3
+14.01.2001,2001,Numancia,Rayo Vallecano,0,2
+14.01.2001,2001,Racing Santander,Malaga,0,1
+14.01.2001,2001,Real Madrid,R. Oviedo,4,0
+14.01.2001,2001,Real Sociedad,Ath Bilbao,0,2
+14.01.2001,2001,Villarreal,Celta Vigo,2,0
+14.01.2001,2001,Zaragoza,Osasuna,4,2
+13.01.2001,2001,Barcelona,Valladolid,3,1
+13.01.2001,2001,Dep. La Coruna,Valencia,2,0
+07.01.2001,2001,Alaves,Real Madrid,1,3
+07.01.2001,2001,Celta Vigo,Las Palmas,0,1
+07.01.2001,2001,Espanyol,Numancia,2,0
+07.01.2001,2001,Osasuna,Villarreal,1,0
+07.01.2001,2001,Rayo Vallecano,Mallorca,2,2
+07.01.2001,2001,Real Sociedad,Zaragoza,1,1
+07.01.2001,2001,R. Oviedo,Barcelona,2,3
+07.01.2001,2001,Valencia,Racing Santander,1,0
+07.01.2001,2001,Valladolid,Dep. La Coruna,3,1
+06.01.2001,2001,Malaga,Ath Bilbao,2,1
+20.12.2000,2001,Ath Bilbao,Valencia,1,1
+20.12.2000,2001,Barcelona,Alaves,3,2
+20.12.2000,2001,Dep. La Coruna,R. Oviedo,3,0
+20.12.2000,2001,Las Palmas,Osasuna,3,2
+20.12.2000,2001,Malaga,Real Sociedad,3,0
+20.12.2000,2001,Mallorca,Espanyol,3,2
+20.12.2000,2001,Numancia,Celta Vigo,4,2
+20.12.2000,2001,Racing Santander,Valladolid,2,2
+20.12.2000,2001,Villarreal,Zaragoza,1,1
+19.12.2000,2001,Real Madrid,Rayo Vallecano,3,1
+17.12.2000,2001,Celta Vigo,Mallorca,2,2
+17.12.2000,2001,Osasuna,Numancia,2,0
+17.12.2000,2001,R. Oviedo,Racing Santander,1,0
+17.12.2000,2001,Valencia,Malaga,2,0
+17.12.2000,2001,Valladolid,Ath Bilbao,0,0
+16.12.2000,2001,Alaves,Dep. La Coruna,3,1
+16.12.2000,2001,Espanyol,Real Madrid,1,2
+16.12.2000,2001,Rayo Vallecano,Barcelona,2,2
+16.12.2000,2001,Real Sociedad,Villarreal,0,2
+16.12.2000,2001,Zaragoza,Las Palmas,3,1
+10.12.2000,2001,Ath Bilbao,R. Oviedo,4,0
+10.12.2000,2001,Barcelona,Espanyol,4,2
+10.12.2000,2001,Dep. La Coruna,Rayo Vallecano,1,1
+10.12.2000,2001,Malaga,Valladolid,3,1
+10.12.2000,2001,Mallorca,Osasuna,1,1
+10.12.2000,2001,Racing Santander,Alaves,2,1
+10.12.2000,2001,Real Madrid,Celta Vigo,3,0
+09.12.2000,2001,Las Palmas,Villarreal,1,5
+09.12.2000,2001,Numancia,Zaragoza,1,1
+09.12.2000,2001,Valencia,Real Sociedad,2,0
+03.12.2000,2001,Alaves,Ath Bilbao,2,1
+03.12.2000,2001,Real Sociedad,Las Palmas,1,1
+03.12.2000,2001,R. Oviedo,Malaga,3,2
+03.12.2000,2001,Villarreal,Numancia,0,0
+03.12.2000,2001,Zaragoza,Mallorca,1,1
+02.12.2000,2001,Celta Vigo,Barcelona,3,3
+02.12.2000,2001,Espanyol,Dep. La Coruna,0,2
+02.12.2000,2001,Osasuna,Real Madrid,2,3
+02.12.2000,2001,Rayo Vallecano,Racing Santander,4,1
+02.12.2000,2001,Valladolid,Valencia,0,0
+26.11.2000,2001,Ath Bilbao,Rayo Vallecano,4,2
+26.11.2000,2001,Barcelona,Osasuna,2,0
+26.11.2000,2001,Dep. La Coruna,Celta Vigo,1,0
+26.11.2000,2001,Malaga,Alaves,3,1
+26.11.2000,2001,Numancia,Las Palmas,0,1
+26.11.2000,2001,Racing Santander,Espanyol,1,2
+26.11.2000,2001,Valencia,R. Oviedo,2,0
+26.11.2000,2001,Valladolid,Real Sociedad,2,1
+25.11.2000,2001,Mallorca,Villarreal,2,1
+19.11.2000,2001,Celta Vigo,Racing Santander,1,1
+19.11.2000,2001,Espanyol,Ath Bilbao,2,1
+19.11.2000,2001,Rayo Vallecano,Malaga,4,2
+19.11.2000,2001,Real Sociedad,Numancia,4,1
+19.11.2000,2001,R. Oviedo,Valladolid,4,1
+19.11.2000,2001,Zaragoza,Barcelona,3,1
+18.11.2000,2001,Alaves,Valencia,1,1
+18.11.2000,2001,Las Palmas,Mallorca,1,0
+18.11.2000,2001,Osasuna,Dep. La Coruna,1,1
+18.11.2000,2001,Villarreal,Real Madrid,0,1
+12.11.2000,2001,Ath Bilbao,Celta Vigo,2,1
+12.11.2000,2001,Barcelona,Villarreal,1,2
+12.11.2000,2001,Malaga,Espanyol,0,0
+12.11.2000,2001,Mallorca,Numancia,2,1
+12.11.2000,2001,Racing Santander,Osasuna,0,0
+12.11.2000,2001,Real Madrid,Las Palmas,5,1
+12.11.2000,2001,R. Oviedo,Real Sociedad,1,0
+12.11.2000,2001,Valencia,Rayo Vallecano,2,2
+12.11.2000,2001,Valladolid,Alaves,2,1
+11.11.2000,2001,Dep. La Coruna,Zaragoza,2,0
+05.11.2000,2001,Alaves,R. Oviedo,4,0
+05.11.2000,2001,Osasuna,Ath Bilbao,1,1
+05.11.2000,2001,Rayo Vallecano,Valladolid,2,1
+05.11.2000,2001,Real Sociedad,Mallorca,0,1
+05.11.2000,2001,Zaragoza,Racing Santander,2,0
+04.11.2000,2001,Celta Vigo,Malaga,1,0
+04.11.2000,2001,Espanyol,Valencia,1,0
+04.11.2000,2001,Las Palmas,Barcelona,0,1
+04.11.2000,2001,Numancia,Real Madrid,3,1
+04.11.2000,2001,Villarreal,Dep. La Coruna,3,2
+01.11.2000,2001,Alaves,Real Sociedad,0,1
+01.11.2000,2001,Ath Bilbao,Zaragoza,1,2
+01.11.2000,2001,Barcelona,Numancia,1,1
+01.11.2000,2001,Malaga,Osasuna,3,1
+01.11.2000,2001,Racing Santander,Villarreal,3,1
+01.11.2000,2001,Real Madrid,Mallorca,0,2
+01.11.2000,2001,R. Oviedo,Rayo Vallecano,4,1
+01.11.2000,2001,Valencia,Celta Vigo,1,0
+01.11.2000,2001,Valladolid,Espanyol,1,1
+31.10.2000,2001,Dep. La Coruna,Las Palmas,4,0
+29.10.2000,2001,Celta Vigo,Valladolid,2,1
+29.10.2000,2001,Espanyol,R. Oviedo,2,0
+29.10.2000,2001,Osasuna,Valencia,1,2
+29.10.2000,2001,Rayo Vallecano,Alaves,0,1
+29.10.2000,2001,Real Sociedad,Real Madrid,1,4
+28.10.2000,2001,Las Palmas,Racing Santander,2,1
+28.10.2000,2001,Mallorca,Barcelona,2,0
+28.10.2000,2001,Numancia,Dep. La Coruna,1,2
+28.10.2000,2001,Villarreal,Ath Bilbao,0,0
+28.10.2000,2001,Zaragoza,Malaga,1,1
+22.10.2000,2001,Alaves,Espanyol,1,0
+22.10.2000,2001,Ath Bilbao,Las Palmas,0,3
+22.10.2000,2001,Malaga,Villarreal,2,1
+22.10.2000,2001,Racing Santander,Numancia,4,2
+22.10.2000,2001,Rayo Vallecano,Real Sociedad,4,1
+22.10.2000,2001,R. Oviedo,Celta Vigo,3,1
+22.10.2000,2001,Valladolid,Osasuna,1,1
+21.10.2000,2001,Barcelona,Real Madrid,2,0
+21.10.2000,2001,Dep. La Coruna,Mallorca,1,1
+21.10.2000,2001,Valencia,Zaragoza,1,0
+18.10.2000,2001,Espanyol,Real Sociedad,1,2
+15.10.2000,2001,Celta Vigo,Alaves,1,1
+15.10.2000,2001,Mallorca,Racing Santander,2,1
+15.10.2000,2001,Numancia,Ath Bilbao,0,0
+15.10.2000,2001,Osasuna,R. Oviedo,0,0
+15.10.2000,2001,Zaragoza,Valladolid,0,0
+14.10.2000,2001,Espanyol,Rayo Vallecano,0,0
+14.10.2000,2001,Las Palmas,Malaga,2,1
+14.10.2000,2001,Real Madrid,Dep. La Coruna,3,0
+14.10.2000,2001,Real Sociedad,Barcelona,0,6
+14.10.2000,2001,Villarreal,Valencia,1,1
+01.10.2000,2001,Alaves,Osasuna,2,0
+01.10.2000,2001,Ath Bilbao,Mallorca,2,1
+01.10.2000,2001,Dep. La Coruna,Barcelona,2,0
+01.10.2000,2001,Malaga,Numancia,1,3
+01.10.2000,2001,Rayo Vallecano,Celta Vigo,3,0
+01.10.2000,2001,R. Oviedo,Zaragoza,2,1
+01.10.2000,2001,Valencia,Las Palmas,5,1
+01.10.2000,2001,Valladolid,Villarreal,0,0
+30.09.2000,2001,Racing Santander,Real Madrid,0,0
+24.09.2000,2001,Celta Vigo,Espanyol,1,0
+24.09.2000,2001,Mallorca,Malaga,0,1
+24.09.2000,2001,Numancia,Valencia,0,3
+24.09.2000,2001,Osasuna,Rayo Vallecano,2,2
+24.09.2000,2001,Villarreal,R. Oviedo,1,0
+23.09.2000,2001,Barcelona,Racing Santander,3,1
+23.09.2000,2001,Las Palmas,Valladolid,1,1
+23.09.2000,2001,Real Madrid,Ath Bilbao,4,1
+23.09.2000,2001,Real Sociedad,Dep. La Coruna,1,1
+23.09.2000,2001,Zaragoza,Alaves,2,2
+17.09.2000,2001,Alaves,Villarreal,0,1
+17.09.2000,2001,Celta Vigo,Real Sociedad,4,1
+17.09.2000,2001,Espanyol,Osasuna,1,2
+17.09.2000,2001,Rayo Vallecano,Zaragoza,0,0
+17.09.2000,2001,R. Oviedo,Las Palmas,2,2
+16.09.2000,2001,Ath Bilbao,Barcelona,3,1
+16.09.2000,2001,Malaga,Real Madrid,3,3
+16.09.2000,2001,Racing Santander,Dep. La Coruna,0,3
+16.09.2000,2001,Valencia,Mallorca,4,0
+16.09.2000,2001,Valladolid,Numancia,2,0
+10.09.2000,2001,Las Palmas,Alaves,0,3
+10.09.2000,2001,Mallorca,Valladolid,1,1
+10.09.2000,2001,Numancia,R. Oviedo,1,0
+10.09.2000,2001,Osasuna,Celta Vigo,0,2
+10.09.2000,2001,Villarreal,Rayo Vallecano,1,5
+09.09.2000,2001,Barcelona,Malaga,2,1
+09.09.2000,2001,Dep. La Coruna,Ath Bilbao,2,0
+09.09.2000,2001,Real Madrid,Valencia,2,1
+09.09.2000,2001,Real Sociedad,Racing Santander,2,2
+09.09.2000,2001,Zaragoza,Espanyol,1,2

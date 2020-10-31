@@ -1,0 +1,34 @@
+"Time","H.team.1","A.team.1","H.team.2","A.team.2","Choose.1","Choose.2","Odd.1","Odd.2","joint.odds","result.mat"
+2018-06-15,"Egypt","Uruguay","Morocco","Iran","D","H","3.65","2.28",8.322,0
+2018-06-15,"Egypt","Uruguay","Morocco","Iran","D","D","3.65","2.94",10.731,0
+2018-06-15,"Egypt","Uruguay","Morocco","Iran","A","A","1.6","3.69",5.904,1
+2018-06-15,"Egypt","Uruguay","Portugal","Spain","A","H","1.6","4.4",7.04,0
+2018-06-15,"Egypt","Uruguay","Portugal","Spain","A","D","1.6","3.33",5.328,1
+2018-06-15,"Egypt","Uruguay","Portugal","Spain","D","A","3.65","1.91",6.9715,0
+2018-06-15,"Morocco","Iran","Portugal","Spain","H","H","2.28","4.4",10.032,0
+2018-06-15,"Morocco","Iran","Portugal","Spain","H","D","2.28","3.33",7.5924,0
+2018-06-15,"Morocco","Iran","Portugal","Spain","D","D","2.94","3.33",9.7902,0
+2018-06-15,"Morocco","Iran","Portugal","Spain","D","A","2.94","1.91",5.6154,0
+2018-06-15,"Morocco","Iran","Portugal","Spain","A","A","3.69","1.91",7.0479,0
+2018-06-16,"France","Australia","Argentina","Iceland","D","H","6.34","1.31",8.3054,0
+2018-06-16,"France","Australia","Argentina","Iceland","H","D","1.22","4.9",5.978,1
+2018-06-16,"France","Australia","Croatia","Nigeria","D","H","6.34","1.7",10.778,0
+2018-06-16,"France","Australia","Croatia","Nigeria","H","A","1.22","5.42",6.6124,0
+2018-06-16,"Peru","Denmark","Croatia","Nigeria","H","H","3.13","1.7",5.321,0
+2018-06-16,"Peru","Denmark","Croatia","Nigeria","D","H","3.19","1.7",5.423,0
+2018-06-16,"Peru","Denmark","Croatia","Nigeria","H","D","3.13","3.61",11.2993,0
+2018-06-16,"Peru","Denmark","Croatia","Nigeria","A","D","2.4","3.61",8.664,0
+2018-06-16,"Argentina","Iceland","Croatia","Nigeria","D","H","4.9","1.7",8.33,1
+2018-06-16,"Argentina","Iceland","Croatia","Nigeria","H","A","1.31","5.42",7.1002,0
+2018-06-17,"Costa Rica","Serbia","Brazil","Switzerland","H","H","4.43","1.41",6.2463,0
+2018-06-17,"Costa Rica","Serbia","Brazil","Switzerland","A","D","1.94","4.58",8.8852,1
+2018-06-17,"Costa Rica","Serbia","Germany","Mexico","H","H","4.43","1.48",6.5564,0
+2018-06-17,"Costa Rica","Serbia","Germany","Mexico","A","D","1.94","4.24",8.2256,0
+2018-06-17,"Brazil","Switzerland","Germany","Mexico","D","H","4.58","1.48",6.7784,0
+2018-06-17,"Brazil","Switzerland","Germany","Mexico","H","D","1.41","4.24",5.9784,0
+2018-06-17,"Brazil","Switzerland","Germany","Mexico","H","A","1.41","7.25",10.2225,0
+2018-06-18,"Sweden","South Korea","Tunisia","England","H","D","2.03","4.53",9.1959,0
+2018-06-18,"Sweden","South Korea","Tunisia","England","A","A","4.08","1.38",5.6304,0
+2018-06-18,"Belgium","Panama","Tunisia","England","H","H","1.17","9.55",11.1735,0
+2018-06-18,"Belgium","Panama","Tunisia","England","H","D","1.17","4.53",5.3001,0
+2018-06-18,"Belgium","Panama","Tunisia","England","D","A","7.1","1.38",9.798,0

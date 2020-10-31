@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+03.05.2014,2014,Brentford,Stevenage,2,0
+03.05.2014,2014,Crawley,Bristol City,1,1
+03.05.2014,2014,Crewe,Preston,2,1
+03.05.2014,2014,Gillingham,Shrewsbury,1,1
+03.05.2014,2014,MK Dons,Leyton Orient,1,3
+03.05.2014,2014,Oldham,Notts Co,1,1
+03.05.2014,2014,Peterborough,Port Vale,0,0
+03.05.2014,2014,Sheffield Utd,Coventry,2,1
+03.05.2014,2014,Swindon,Rotherham,1,2
+03.05.2014,2014,Tranmere,Bradford City,1,2
+03.05.2014,2014,Walsall,Colchester,0,1
+03.05.2014,2014,Wolves,Carlisle,3,0
+29.04.2014,2014,Oldham,Sheffield Utd,1,1
+29.04.2014,2014,Crawley,Carlisle,0,0
+26.04.2014,2014,Bradford City,Crawley,2,1
+26.04.2014,2014,Bristol City,Crewe,0,0
+26.04.2014,2014,Carlisle,Oldham,0,1
+26.04.2014,2014,Colchester,Brentford,4,1
+26.04.2014,2014,Coventry,Wolves,1,1
+26.04.2014,2014,Leyton Orient,Tranmere,2,0
+26.04.2014,2014,Notts Co,Swindon,2,0
+26.04.2014,2014,Preston,Gillingham,3,1
+26.04.2014,2014,Rotherham,MK Dons,2,2
+26.04.2014,2014,Shrewsbury,Peterborough,2,4
+26.04.2014,2014,Stevenage,Walsall,3,2
+25.04.2014,2014,Port Vale,Sheffield Utd,1,2
+21.04.2014,2014,Crewe,Colchester,0,0
+21.04.2014,2014,Leyton Orient,Wolves,1,3
+21.04.2014,2014,MK Dons,Brentford,2,2
+21.04.2014,2014,Notts Co,Crawley,1,0
+21.04.2014,2014,Oldham,Coventry,0,0
+21.04.2014,2014,Peterborough,Carlisle,4,1
+21.04.2014,2014,Preston,Shrewsbury,5,2
+21.04.2014,2014,Rotherham,Port Vale,1,0
+21.04.2014,2014,Stevenage,Bristol City,1,3
+21.04.2014,2014,Swindon,Bradford City,1,0
+21.04.2014,2014,Tranmere,Sheffield Utd,0,0
+21.04.2014,2014,Walsall,Gillingham,1,1
+18.04.2014,2014,Bradford City,Peterborough,1,0
+18.04.2014,2014,Brentford,Preston,1,0
+18.04.2014,2014,Bristol City,Notts Co,2,1
+18.04.2014,2014,Carlisle,Walsall,1,1
+18.04.2014,2014,Colchester,Oldham,0,1
+18.04.2014,2014,Coventry,Swindon,1,2
+18.04.2014,2014,Crawley,Leyton Orient,2,1
+18.04.2014,2014,Gillingham,Tranmere,2,0
+18.04.2014,2014,Port Vale,MK Dons,1,0
+18.04.2014,2014,Sheffield Utd,Stevenage,1,0
+18.04.2014,2014,Shrewsbury,Crewe,1,3
+18.04.2014,2014,Wolves,Rotherham,6,4
+15.04.2014,2014,Crawley,Tranmere,2,0
+12.04.2014,2014,Crewe,Wolves,0,2
+12.04.2014,2014,Leyton Orient,Gillingham,5,1
+12.04.2014,2014,MK Dons,Crawley,0,2
+12.04.2014,2014,Notts Co,Port Vale,4,2
+12.04.2014,2014,Peterborough,Coventry,1,0
+12.04.2014,2014,Preston,Carlisle,6,1
+12.04.2014,2014,Stevenage,Colchester,2,3
+12.04.2014,2014,Swindon,Brentford,1,0
+12.04.2014,2014,Tranmere,Shrewsbury,2,1
+12.04.2014,2014,Walsall,Bristol City,0,1
+11.04.2014,2014,Rotherham,Bradford City,0,0
+08.04.2014,2014,Peterborough,Gillingham,2,0
+08.04.2014,2014,Sheffield Utd,Rotherham,1,0
+08.04.2014,2014,Brentford,Crawley,1,0
+05.04.2014,2014,Bradford City,Oldham,2,3
+05.04.2014,2014,Brentford,Notts Co,3,1
+05.04.2014,2014,Bristol City,Preston,1,1
+05.04.2014,2014,Carlisle,Swindon,1,0
+05.04.2014,2014,Colchester,Tranmere,1,2
+05.04.2014,2014,Coventry,MK Dons,1,2
+05.04.2014,2014,Crawley,Crewe,1,2
+05.04.2014,2014,Gillingham,Rotherham,3,4
+05.04.2014,2014,Port Vale,Walsall,1,0
+05.04.2014,2014,Sheffield Utd,Leyton Orient,1,1
+05.04.2014,2014,Shrewsbury,Stevenage,1,0
+05.04.2014,2014,Wolves,Peterborough,2,0
+02.04.2014,2014,Peterborough,Colchester,2,0
+01.04.2014,2014,Coventry,Bradford City,0,0
+01.04.2014,2014,Stevenage,Wolves,0,0
+01.04.2014,2014,Port Vale,Crawley,2,1
+01.04.2014,2014,Sheffield Utd,Brentford,0,0
+29.03.2014,2014,Crewe,Coventry,1,2
+29.03.2014,2014,Leyton Orient,Bradford City,0,1
+29.03.2014,2014,MK Dons,Wolves,0,1
+29.03.2014,2014,Notts Co,Colchester,2,0
+29.03.2014,2014,Oldham,Brentford,0,0
+29.03.2014,2014,Preston,Crawley,1,0
+29.03.2014,2014,Rotherham,Bristol City,2,1
+29.03.2014,2014,Stevenage,Port Vale,1,1
+29.03.2014,2014,Swindon,Sheffield Utd,2,1
+29.03.2014,2014,Tranmere,Carlisle,0,0
+29.03.2014,2014,Walsall,Shrewsbury,1,0
+26.03.2014,2014,Coventry,Stevenage,1,0
+25.03.2014,2014,Bradford City,Walsall,0,2
+25.03.2014,2014,Bristol City,Port Vale,5,0
+25.03.2014,2014,Carlisle,Shrewsbury,0,0
+25.03.2014,2014,Crawley,Sheffield Utd,0,2
+25.03.2014,2014,Crewe,Notts Co,1,3
+25.03.2014,2014,Leyton Orient,Oldham,1,1
+25.03.2014,2014,MK Dons,Gillingham,0,1
+25.03.2014,2014,Preston,Peterborough,3,1
+25.03.2014,2014,Rotherham,Brentford,3,0
+25.03.2014,2014,Tranmere,Swindon,1,2
+25.03.2014,2014,Wolves,Colchester,4,2
+22.03.2014,2014,Brentford,Coventry,3,1
+22.03.2014,2014,Colchester,Bristol City,2,2
+22.03.2014,2014,Gillingham,Crewe,1,3
+22.03.2014,2014,Notts Co,Carlisle,4,1
+22.03.2014,2014,Oldham,Crawley,1,0
+22.03.2014,2014,Peterborough,Rotherham,0,1
+22.03.2014,2014,Port Vale,Tranmere,3,2
+22.03.2014,2014,Sheffield Utd,Wolves,0,2
+22.03.2014,2014,Shrewsbury,Bradford City,2,1
+22.03.2014,2014,Stevenage,MK Dons,2,3
+22.03.2014,2014,Swindon,Preston,1,0
+22.03.2014,2014,Walsall,Leyton Orient,1,1
+18.03.2014,2014,Colchester,Shrewsbury,1,0
+18.03.2014,2014,Crawley,Wolves,2,1
+17.03.2014,2014,Preston,Sheffield Utd,0,0
+16.03.2014,2014,Coventry,Port Vale,2,2
+15.03.2014,2014,Bradford City,Gillingham,1,1
+15.03.2014,2014,Bristol City,Swindon,0,0
+15.03.2014,2014,Carlisle,Stevenage,0,0
+15.03.2014,2014,Crawley,Colchester,1,0
+15.03.2014,2014,Crewe,Oldham,1,1
+15.03.2014,2014,Leyton Orient,Brentford,0,1
+15.03.2014,2014,MK Dons,Peterborough,0,2
+15.03.2014,2014,Rotherham,Walsall,1,1
+15.03.2014,2014,Tranmere,Notts Co,3,2
+15.03.2014,2014,Wolves,Shrewsbury,0,0
+12.03.2014,2014,Sheffield Utd,Carlisle,1,0
+11.03.2014,2014,Brentford,Tranmere,2,0
+11.03.2014,2014,Colchester,Bradford City,0,2
+11.03.2014,2014,Gillingham,Coventry,4,2
+11.03.2014,2014,Notts Co,MK Dons,1,3
+11.03.2014,2014,Oldham,Rotherham,0,2
+11.03.2014,2014,Peterborough,Bristol City,1,2
+11.03.2014,2014,Port Vale,Leyton Orient,0,2
+11.03.2014,2014,Shrewsbury,Crawley,1,1
+11.03.2014,2014,Stevenage,Preston,1,1
+11.03.2014,2014,Swindon,Wolves,1,4
+11.03.2014,2014,Walsall,Crewe,1,1
+08.03.2014,2014,Brentford,Bradford City,2,0
+08.03.2014,2014,Colchester,Coventry,2,1
+08.03.2014,2014,Gillingham,Crawley,1,0
+08.03.2014,2014,Notts Co,Leyton Orient,0,0
+08.03.2014,2014,Oldham,Preston,1,3
+08.03.2014,2014,Peterborough,Crewe,4,2
+08.03.2014,2014,Port Vale,Carlisle,2,1
+08.03.2014,2014,Shrewsbury,Bristol City,2,3
+08.03.2014,2014,Stevenage,Tranmere,3,1
+08.03.2014,2014,Swindon,MK Dons,1,2
+08.03.2014,2014,Walsall,Wolves,0,3
+05.03.2014,2014,Coventry,Walsall,2,1
+04.03.2014,2014,Colchester,Rotherham,0,0
+04.03.2014,2014,Crawley,Stevenage,1,1
+04.03.2014,2014,Sheffield Utd,Peterborough,2,0
+02.03.2014,2014,Coventry,Shrewsbury,0,0
+01.03.2014,2014,Bradford City,Stevenage,2,3
+01.03.2014,2014,Bristol City,Gillingham,2,1
+01.03.2014,2014,Carlisle,Brentford,0,0
+01.03.2014,2014,Crawley,Peterborough,1,0
+01.03.2014,2014,Crewe,Swindon,1,1
+01.03.2014,2014,Leyton Orient,Colchester,2,1
+01.03.2014,2014,MK Dons,Sheffield Utd,0,1
+01.03.2014,2014,Preston,Walsall,2,1
+01.03.2014,2014,Rotherham,Notts Co,6,0
+01.03.2014,2014,Tranmere,Oldham,2,2
+01.03.2014,2014,Wolves,Port Vale,3,0
+25.02.2014,2014,Stevenage,Crewe,1,0
+25.02.2014,2014,Colchester,Sheffield Utd,0,1
+25.02.2014,2014,Preston,Rotherham,3,3
+25.02.2014,2014,Swindon,Crawley,1,1
+25.02.2014,2014,Oldham,MK Dons,1,2
+22.02.2014,2014,Bradford City,MK Dons,1,0
+22.02.2014,2014,Brentford,Wolves,0,3
+22.02.2014,2014,Carlisle,Rotherham,1,2
+22.02.2014,2014,Colchester,Preston,1,2
+22.02.2014,2014,Leyton Orient,Swindon,2,0
+22.02.2014,2014,Notts Co,Shrewsbury,2,3
+22.02.2014,2014,Oldham,Gillingham,1,0
+22.02.2014,2014,Port Vale,Crewe,1,3
+22.02.2014,2014,Sheffield Utd,Bristol City,3,0
+22.02.2014,2014,Stevenage,Peterborough,0,1
+22.02.2014,2014,Tranmere,Coventry,3,1
+22.02.2014,2014,Walsall,Crawley,1,2
+19.02.2014,2014,Gillingham,Sheffield Utd,0,1
+18.02.2014,2014,Bradford City,Port Vale,1,0
+18.02.2014,2014,Coventry,Carlisle,1,2
+18.02.2014,2014,Leyton Orient,Stevenage,2,0
+18.02.2014,2014,MK Dons,Preston,0,0
+15.02.2014,2014,Bristol City,Tranmere,2,2
+15.02.2014,2014,Crewe,Brentford,1,3
+15.02.2014,2014,MK Dons,Oldham,2,1
+15.02.2014,2014,Preston,Leyton Orient,1,1
+15.02.2014,2014,Rotherham,Stevenage,2,1
+15.02.2014,2014,Shrewsbury,Port Vale,0,0
+15.02.2014,2014,Wolves,Notts Co,2,0
+14.02.2014,2014,Peterborough,Walsall,0,0
+14.02.2014,2014,Swindon,Colchester,0,0
+11.02.2014,2014,Carlisle,Bradford City,1,0
+11.02.2014,2014,Port Vale,Colchester,2,0
+11.02.2014,2014,Leyton Orient,Bristol City,1,3
+08.02.2014,2014,Bradford City,Crewe,3,3
+08.02.2014,2014,Carlisle,Gillingham,1,2
+08.02.2014,2014,Leyton Orient,Peterborough,1,2
+08.02.2014,2014,Notts Co,Coventry,3,0
+08.02.2014,2014,Oldham,Bristol City,1,1
+08.02.2014,2014,Port Vale,Swindon,2,3
+08.02.2014,2014,Sheffield Utd,Shrewsbury,2,0
+08.02.2014,2014,Tranmere,Preston,1,2
+08.02.2014,2014,Walsall,MK Dons,0,3
+04.02.2014,2014,Bristol City,Coventry,1,2
+04.02.2014,2014,Stevenage,Gillingham,3,1
+01.02.2014,2014,Bristol City,Carlisle,2,1
+01.02.2014,2014,Crewe,Sheffield Utd,3,0
+01.02.2014,2014,Gillingham,Port Vale,3,2
+01.02.2014,2014,MK Dons,Tranmere,0,1
+01.02.2014,2014,Preston,Notts Co,2,0
+01.02.2014,2014,Rotherham,Leyton Orient,2,1
+01.02.2014,2014,Shrewsbury,Brentford,1,1
+01.02.2014,2014,Swindon,Oldham,0,1
+01.02.2014,2014,Wolves,Bradford City,2,0
+28.01.2014,2014,Bradford City,Preston,0,0
+28.01.2014,2014,Brentford,Bristol City,3,1
+28.01.2014,2014,Carlisle,MK Dons,3,0
+28.01.2014,2014,Leyton Orient,Coventry,2,0
+28.01.2014,2014,Oldham,Wolves,0,3
+28.01.2014,2014,Tranmere,Rotherham,1,2
+28.01.2014,2014,Walsall,Swindon,1,1
+25.01.2014,2014,Notts Co,Walsall,1,5
+25.01.2014,2014,Oldham,Peterborough,5,4
+25.01.2014,2014,Rotherham,Crawley,2,2
+25.01.2014,2014,Swindon,Shrewsbury,3,1
+25.01.2014,2014,Tranmere,Crewe,1,0
+25.01.2014,2014,Wolves,Bristol City,3,1
+24.01.2014,2014,Brentford,Gillingham,2,1
+21.01.2014,2014,Crewe,MK Dons,2,0
+21.01.2014,2014,Peterborough,Notts Co,4,3
+18.01.2014,2014,Bristol City,MK Dons,2,2
+18.01.2014,2014,Carlisle,Colchester,2,4
+18.01.2014,2014,Crewe,Leyton Orient,1,2
+18.01.2014,2014,Gillingham,Swindon,2,0
+18.01.2014,2014,Peterborough,Tranmere,3,0
+18.01.2014,2014,Port Vale,Oldham,1,0
+18.01.2014,2014,Preston,Coventry,1,1
+18.01.2014,2014,Sheffield Utd,Bradford City,2,2
+18.01.2014,2014,Shrewsbury,Rotherham,0,3
+18.01.2014,2014,Stevenage,Notts Co,0,1
+18.01.2014,2014,Walsall,Brentford,1,1
+14.01.2014,2014,Stevenage,Swindon,2,0
+14.01.2014,2014,Walsall,Oldham,1,0
+12.01.2014,2014,Coventry,Crawley,2,2
+11.01.2014,2014,Bradford City,Bristol City,1,1
+11.01.2014,2014,Brentford,Port Vale,2,0
+11.01.2014,2014,Colchester,Gillingham,3,0
+11.01.2014,2014,Leyton Orient,Carlisle,4,0
+11.01.2014,2014,MK Dons,Shrewsbury,3,2
+11.01.2014,2014,Notts Co,Sheffield Utd,2,1
+11.01.2014,2014,Oldham,Stevenage,1,0
+11.01.2014,2014,Rotherham,Crewe,4,2
+11.01.2014,2014,Swindon,Peterborough,2,1
+11.01.2014,2014,Tranmere,Walsall,1,1
+11.01.2014,2014,Wolves,Preston,2,0
+07.01.2014,2014,Shrewsbury,Leyton Orient,0,2
+03.01.2014,2014,Gillingham,Wolves,1,0
+01.01.2014,2014,Crewe,Carlisle,2,1
+01.01.2014,2014,MK Dons,Colchester,0,0
+01.01.2014,2014,Notts Co,Bradford City,3,0
+01.01.2014,2014,Oldham,Shrewsbury,1,2
+01.01.2014,2014,Peterborough,Brentford,1,3
+01.01.2014,2014,Preston,Port Vale,3,2
+01.01.2014,2014,Rotherham,Coventry,1,3
+01.01.2014,2014,Tranmere,Wolves,1,1
+01.01.2014,2014,Walsall,Sheffield Utd,2,1
+29.12.2013,2014,Bradford City,Swindon,1,1
+29.12.2013,2014,Brentford,MK Dons,3,1
+29.12.2013,2014,Bristol City,Stevenage,4,1
+29.12.2013,2014,Carlisle,Peterborough,2,1
+29.12.2013,2014,Colchester,Crewe,1,2
+29.12.2013,2014,Coventry,Oldham,1,1
+29.12.2013,2014,Crawley,Notts Co,1,0
+29.12.2013,2014,Gillingham,Walsall,2,2
+29.12.2013,2014,Port Vale,Rotherham,2,0
+29.12.2013,2014,Sheffield Utd,Tranmere,3,1
+29.12.2013,2014,Shrewsbury,Preston,0,1
+29.12.2013,2014,Wolves,Leyton Orient,1,1
+26.12.2013,2014,Bradford City,Rotherham,0,1
+26.12.2013,2014,Brentford,Swindon,3,2
+26.12.2013,2014,Bristol City,Walsall,1,0
+26.12.2013,2014,Carlisle,Preston,0,1
+26.12.2013,2014,Colchester,Stevenage,4,0
+26.12.2013,2014,Coventry,Peterborough,4,2
+26.12.2013,2014,Crawley,MK Dons,0,2
+26.12.2013,2014,Gillingham,Leyton Orient,1,2
+26.12.2013,2014,Port Vale,Notts Co,2,1
+26.12.2013,2014,Sheffield Utd,Oldham,1,1
+26.12.2013,2014,Shrewsbury,Tranmere,0,1
+26.12.2013,2014,Wolves,Crewe,2,0
+21.12.2013,2014,Crewe,Shrewsbury,1,1
+21.12.2013,2014,Leyton Orient,Crawley,2,3
+21.12.2013,2014,MK Dons,Port Vale,3,0
+21.12.2013,2014,Notts Co,Bristol City,1,1
+21.12.2013,2014,Oldham,Colchester,0,2
+21.12.2013,2014,Peterborough,Bradford City,2,1
+21.12.2013,2014,Preston,Brentford,0,3
+21.12.2013,2014,Rotherham,Wolves,3,3
+21.12.2013,2014,Stevenage,Sheffield Utd,0,0
+21.12.2013,2014,Swindon,Coventry,2,1
+21.12.2013,2014,Walsall,Carlisle,2,0
+20.12.2013,2014,Tranmere,Gillingham,1,2
+14.12.2013,2014,Bradford City,Leyton Orient,1,1
+14.12.2013,2014,Brentford,Oldham,1,0
+14.12.2013,2014,Bristol City,Rotherham,1,2
+14.12.2013,2014,Carlisle,Tranmere,4,1
+14.12.2013,2014,Colchester,Notts Co,0,4
+14.12.2013,2014,Coventry,Crewe,2,2
+14.12.2013,2014,Crawley,Preston,2,2
+14.12.2013,2014,Gillingham,Peterborough,2,2
+14.12.2013,2014,Port Vale,Stevenage,2,2
+14.12.2013,2014,Sheffield Utd,Swindon,1,0
+14.12.2013,2014,Shrewsbury,Walsall,0,1
+14.12.2013,2014,Wolves,MK Dons,0,2
+07.12.2013,2014,Notts Co,Gillingham,3,1
+01.12.2013,2014,Oldham,Bradford City,1,1
+30.11.2013,2014,Crewe,Crawley,1,0
+30.11.2013,2014,Leyton Orient,Sheffield Utd,1,1
+30.11.2013,2014,MK Dons,Coventry,1,3
+30.11.2013,2014,Notts Co,Brentford,0,1
+30.11.2013,2014,Peterborough,Wolves,1,0
+30.11.2013,2014,Preston,Bristol City,1,0
+30.11.2013,2014,Rotherham,Gillingham,4,1
+30.11.2013,2014,Stevenage,Shrewsbury,1,3
+30.11.2013,2014,Swindon,Carlisle,3,1
+30.11.2013,2014,Tranmere,Colchester,2,1
+30.11.2013,2014,Walsall,Port Vale,0,2
+26.11.2013,2014,Bradford City,Notts Co,1,1
+26.11.2013,2014,Brentford,Peterborough,3,2
+26.11.2013,2014,Bristol City,Leyton Orient,2,2
+26.11.2013,2014,Carlisle,Crewe,2,1
+26.11.2013,2014,Colchester,MK Dons,3,1
+26.11.2013,2014,Coventry,Rotherham,0,3
+26.11.2013,2014,Crawley,Swindon,0,0
+26.11.2013,2014,Gillingham,Stevenage,3,2
+26.11.2013,2014,Port Vale,Preston,0,2
+26.11.2013,2014,Sheffield Utd,Walsall,1,1
+26.11.2013,2014,Shrewsbury,Oldham,1,2
+26.11.2013,2014,Wolves,Tranmere,2,0
+23.11.2013,2014,Bristol City,Sheffield Utd,0,1
+23.11.2013,2014,Coventry,Tranmere,1,5
+23.11.2013,2014,Crawley,Walsall,0,0
+23.11.2013,2014,Crewe,Port Vale,1,2
+23.11.2013,2014,Gillingham,Oldham,0,1
+23.11.2013,2014,MK Dons,Bradford City,2,3
+23.11.2013,2014,Peterborough,Stevenage,0,1
+23.11.2013,2014,Preston,Colchester,1,1
+23.11.2013,2014,Rotherham,Carlisle,0,0
+23.11.2013,2014,Shrewsbury,Notts Co,1,0
+23.11.2013,2014,Swindon,Leyton Orient,1,3
+23.11.2013,2014,Wolves,Brentford,0,0
+18.11.2013,2014,Walsall,Peterborough,2,0
+17.11.2013,2014,Bradford City,Coventry,3,3
+16.11.2013,2014,Brentford,Crewe,5,0
+16.11.2013,2014,Carlisle,Crawley,1,1
+16.11.2013,2014,Colchester,Swindon,1,2
+16.11.2013,2014,Leyton Orient,Preston,0,1
+16.11.2013,2014,Notts Co,Wolves,0,1
+16.11.2013,2014,Port Vale,Shrewsbury,3,1
+16.11.2013,2014,Sheffield Utd,Gillingham,1,2
+16.11.2013,2014,Stevenage,Rotherham,0,3
+16.11.2013,2014,Tranmere,Bristol City,1,1
+05.11.2013,2014,Bristol City,Crawley,2,0
+05.11.2013,2014,Carlisle,Wolves,2,2
+02.11.2013,2014,Bristol City,Oldham,1,1
+02.11.2013,2014,Coventry,Notts Co,3,0
+02.11.2013,2014,Crawley,Brentford,0,1
+02.11.2013,2014,Crewe,Bradford City,0,0
+02.11.2013,2014,Gillingham,Carlisle,1,0
+02.11.2013,2014,MK Dons,Walsall,1,0
+02.11.2013,2014,Peterborough,Leyton Orient,1,3
+02.11.2013,2014,Preston,Tranmere,1,1
+02.11.2013,2014,Rotherham,Colchester,2,2
+02.11.2013,2014,Shrewsbury,Sheffield Utd,2,0
+02.11.2013,2014,Swindon,Port Vale,5,2
+02.11.2013,2014,Wolves,Stevenage,2,0
+29.10.2013,2014,Notts Co,Oldham,3,2
+26.10.2013,2014,Bradford City,Wolves,1,2
+26.10.2013,2014,Brentford,Shrewsbury,1,0
+26.10.2013,2014,Carlisle,Bristol City,2,4
+26.10.2013,2014,Colchester,Peterborough,1,0
+26.10.2013,2014,Leyton Orient,Rotherham,1,0
+26.10.2013,2014,Notts Co,Preston,0,1
+26.10.2013,2014,Oldham,Swindon,2,1
+26.10.2013,2014,Port Vale,Gillingham,2,1
+26.10.2013,2014,Sheffield Utd,Crewe,3,1
+26.10.2013,2014,Stevenage,Crawley,2,0
+26.10.2013,2014,Tranmere,MK Dons,3,2
+26.10.2013,2014,Walsall,Coventry,0,1
+22.10.2013,2014,Bristol City,Brentford,1,2
+22.10.2013,2014,Coventry,Leyton Orient,3,1
+22.10.2013,2014,Crawley,Port Vale,0,3
+22.10.2013,2014,Crewe,Stevenage,0,3
+22.10.2013,2014,Gillingham,Notts Co,2,1
+22.10.2013,2014,MK Dons,Carlisle,0,1
+22.10.2013,2014,Peterborough,Sheffield Utd,0,0
+22.10.2013,2014,Preston,Bradford City,2,2
+22.10.2013,2014,Rotherham,Tranmere,1,1
+22.10.2013,2014,Shrewsbury,Colchester,1,1
+22.10.2013,2014,Swindon,Walsall,1,3
+22.10.2013,2014,Wolves,Oldham,2,0
+19.10.2013,2014,Brentford,Colchester,3,1
+19.10.2013,2014,Crawley,Bradford City,1,0
+19.10.2013,2014,Crewe,Bristol City,1,0
+19.10.2013,2014,Gillingham,Preston,1,2
+19.10.2013,2014,MK Dons,Rotherham,3,2
+19.10.2013,2014,Oldham,Carlisle,1,0
+19.10.2013,2014,Peterborough,Shrewsbury,1,0
+19.10.2013,2014,Sheffield Utd,Port Vale,2,1
+19.10.2013,2014,Tranmere,Leyton Orient,0,4
+19.10.2013,2014,Walsall,Stevenage,2,1
+19.10.2013,2014,Wolves,Coventry,1,1
+18.10.2013,2014,Swindon,Notts Co,2,0
+13.10.2013,2014,Bradford City,Tranmere,0,1
+13.10.2013,2014,Coventry,Sheffield Utd,3,2
+12.10.2013,2014,Colchester,Walsall,1,1
+12.10.2013,2014,Leyton Orient,MK Dons,2,1
+12.10.2013,2014,Port Vale,Peterborough,0,1
+12.10.2013,2014,Preston,Crewe,0,2
+12.10.2013,2014,Rotherham,Swindon,0,4
+12.10.2013,2014,Shrewsbury,Gillingham,2,0
+12.10.2013,2014,Stevenage,Brentford,2,1
+05.10.2013,2014,Brentford,Rotherham,0,1
+05.10.2013,2014,Colchester,Wolves,0,3
+05.10.2013,2014,Gillingham,MK Dons,3,2
+05.10.2013,2014,Notts Co,Crewe,4,0
+05.10.2013,2014,Oldham,Leyton Orient,1,1
+05.10.2013,2014,Peterborough,Preston,2,0
+05.10.2013,2014,Port Vale,Bristol City,1,1
+05.10.2013,2014,Shrewsbury,Carlisle,2,2
+05.10.2013,2014,Stevenage,Coventry,0,1
+05.10.2013,2014,Swindon,Tranmere,1,0
+05.10.2013,2014,Walsall,Bradford City,0,2
+04.10.2013,2014,Sheffield Utd,Crawley,1,1
+29.09.2013,2014,Coventry,Brentford,0,2
+28.09.2013,2014,Bradford City,Shrewsbury,2,1
+28.09.2013,2014,Bristol City,Colchester,1,1
+28.09.2013,2014,Carlisle,Notts Co,2,1
+28.09.2013,2014,Crawley,Oldham,1,0
+28.09.2013,2014,Crewe,Gillingham,0,3
+28.09.2013,2014,Leyton Orient,Walsall,1,1
+28.09.2013,2014,MK Dons,Stevenage,4,1
+28.09.2013,2014,Preston,Swindon,2,1
+28.09.2013,2014,Rotherham,Peterborough,0,1
+28.09.2013,2014,Tranmere,Port Vale,0,1
+28.09.2013,2014,Wolves,Sheffield Utd,2,0
+23.09.2013,2014,Brentford,Leyton Orient,0,2
+21.09.2013,2014,Colchester,Crawley,1,1
+21.09.2013,2014,Gillingham,Bradford City,0,1
+21.09.2013,2014,Notts Co,Tranmere,2,0
+21.09.2013,2014,Oldham,Crewe,1,1
+21.09.2013,2014,Peterborough,MK Dons,2,1
+21.09.2013,2014,Port Vale,Coventry,3,2
+21.09.2013,2014,Sheffield Utd,Preston,0,1
+21.09.2013,2014,Shrewsbury,Wolves,0,1
+21.09.2013,2014,Stevenage,Carlisle,1,3
+21.09.2013,2014,Swindon,Bristol City,3,2
+21.09.2013,2014,Walsall,Rotherham,1,1
+17.09.2013,2014,Bristol City,Shrewsbury,1,1
+17.09.2013,2014,Leyton Orient,Notts Co,5,1
+17.09.2013,2014,Wolves,Walsall,0,1
+15.09.2013,2014,Coventry,Gillingham,2,1
+14.09.2013,2014,Bradford City,Colchester,2,2
+14.09.2013,2014,Bristol City,Peterborough,0,3
+14.09.2013,2014,Carlisle,Sheffield Utd,1,0
+14.09.2013,2014,Crawley,Shrewsbury,1,1
+14.09.2013,2014,Crewe,Walsall,0,3
+14.09.2013,2014,Leyton Orient,Port Vale,3,2
+14.09.2013,2014,MK Dons,Notts Co,3,1
+14.09.2013,2014,Preston,Stevenage,3,0
+14.09.2013,2014,Rotherham,Oldham,3,2
+14.09.2013,2014,Tranmere,Brentford,3,4
+14.09.2013,2014,Wolves,Swindon,3,2
+09.09.2013,2014,Preston,Oldham,2,1
+08.09.2013,2014,Coventry,Colchester,2,0
+07.09.2013,2014,Bradford City,Brentford,4,0
+07.09.2013,2014,Carlisle,Port Vale,0,1
+07.09.2013,2014,Crawley,Gillingham,3,2
+07.09.2013,2014,Crewe,Peterborough,2,2
+07.09.2013,2014,MK Dons,Swindon,1,1
+07.09.2013,2014,Rotherham,Sheffield Utd,3,1
+07.09.2013,2014,Tranmere,Stevenage,0,0
+31.08.2013,2014,Brentford,Carlisle,0,0
+31.08.2013,2014,Colchester,Leyton Orient,1,2
+31.08.2013,2014,Gillingham,Bristol City,1,1
+31.08.2013,2014,Notts Co,Rotherham,0,1
+31.08.2013,2014,Oldham,Tranmere,0,1
+31.08.2013,2014,Peterborough,Crawley,0,2
+31.08.2013,2014,Port Vale,Wolves,1,3
+31.08.2013,2014,Sheffield Utd,MK Dons,0,1
+31.08.2013,2014,Shrewsbury,Coventry,1,1
+31.08.2013,2014,Stevenage,Bradford City,1,1
+31.08.2013,2014,Swindon,Crewe,5,0
+31.08.2013,2014,Walsall,Preston,0,3
+25.08.2013,2014,Coventry,Preston,4,4
+24.08.2013,2014,Bradford City,Sheffield Utd,2,0
+24.08.2013,2014,Brentford,Walsall,1,0
+24.08.2013,2014,Leyton Orient,Crewe,2,0
+24.08.2013,2014,MK Dons,Bristol City,2,2
+24.08.2013,2014,Notts Co,Stevenage,0,1
+24.08.2013,2014,Oldham,Port Vale,3,1
+24.08.2013,2014,Rotherham,Shrewsbury,2,2
+24.08.2013,2014,Swindon,Gillingham,2,2
+24.08.2013,2014,Tranmere,Peterborough,0,5
+23.08.2013,2014,Colchester,Carlisle,1,1
+23.08.2013,2014,Wolves,Crawley,2,1
+17.08.2013,2014,Bristol City,Wolves,1,2
+17.08.2013,2014,Carlisle,Coventry,0,4
+17.08.2013,2014,Crawley,Rotherham,1,2
+17.08.2013,2014,Crewe,Tranmere,2,1
+17.08.2013,2014,Gillingham,Brentford,1,1
+17.08.2013,2014,Peterborough,Oldham,2,1
+17.08.2013,2014,Port Vale,Bradford City,2,1
+17.08.2013,2014,Preston,MK Dons,2,2
+17.08.2013,2014,Sheffield Utd,Colchester,1,1
+17.08.2013,2014,Shrewsbury,Swindon,2,0
+17.08.2013,2014,Stevenage,Leyton Orient,0,1
+17.08.2013,2014,Walsall,Notts Co,1,1
+11.08.2013,2014,Coventry,Bristol City,5,4
+10.08.2013,2014,Bradford City,Carlisle,4,0
+10.08.2013,2014,Brentford,Sheffield Utd,3,1
+10.08.2013,2014,Colchester,Port Vale,1,0
+10.08.2013,2014,Leyton Orient,Shrewsbury,3,0
+10.08.2013,2014,MK Dons,Crewe,1,0
+10.08.2013,2014,Notts Co,Peterborough,2,4
+10.08.2013,2014,Oldham,Walsall,0,1
+10.08.2013,2014,Rotherham,Preston,0,0
+10.08.2013,2014,Swindon,Stevenage,1,0
+10.08.2013,2014,Tranmere,Crawley,3,3
+10.08.2013,2014,Wolves,Gillingham,4,0
+03.08.2013,2014,Bristol City,Bradford City,2,2
+03.08.2013,2014,Carlisle,Leyton Orient,1,5
+03.08.2013,2014,Crawley,Coventry,3,2
+03.08.2013,2014,Crewe,Rotherham,3,3
+03.08.2013,2014,Gillingham,Colchester,0,1
+03.08.2013,2014,Peterborough,Swindon,1,0
+03.08.2013,2014,Port Vale,Brentford,1,1
+03.08.2013,2014,Preston,Wolves,0,0
+03.08.2013,2014,Shrewsbury,MK Dons,0,0
+03.08.2013,2014,Stevenage,Oldham,3,4
+03.08.2013,2014,Walsall,Tranmere,3,1
+02.08.2013,2014,Sheffield Utd,Notts Co,2,1

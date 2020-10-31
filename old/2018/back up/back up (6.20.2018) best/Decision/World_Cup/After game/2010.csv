@@ -1,0 +1,340 @@
+"Time","H.team.1","A.team.1","H.team.2","A.team.2","Choose.1","Choose.2","Odd.1","Odd.2","joint.odds","result.mat"
+2010-06-11,"South Africa","Mexico","Uruguay","France","H","H","2.93","3.52",10.3136,0
+2010-06-11,"South Africa","Mexico","Uruguay","France","D","H","3.1","3.52",10.912,0
+2010-06-11,"South Africa","Mexico","Uruguay","France","A","H","2.54","3.52",8.9408,0
+2010-06-11,"South Africa","Mexico","Uruguay","France","H","D","2.93","3.15",9.2295,0
+2010-06-11,"South Africa","Mexico","Uruguay","France","D","D","3.1","3.15",9.765,1
+2010-06-12,"England","USA","Argentina","Nigeria","A","H","6.86","1.4",9.604,0
+2010-06-12,"England","USA","Argentina","Nigeria","D","D","4.02","4.38",17.6076,0
+2010-06-12,"England","USA","Argentina","Nigeria","A","D","6.86","4.38",30.0468,0
+2010-06-12,"England","USA","Argentina","Nigeria","H","A","1.51","8.68",13.1068,0
+2010-06-12,"England","USA","Argentina","Nigeria","D","A","4.02","8.68",34.8936,0
+2010-06-12,"England","USA","Argentina","Nigeria","A","A","6.86","8.68",59.5448,0
+2010-06-12,"England","USA","South Korea","Greece","D","H","4.02","2.7",10.854,1
+2010-06-12,"England","USA","South Korea","Greece","A","H","6.86","2.7",18.522,0
+2010-06-12,"England","USA","South Korea","Greece","D","D","4.02","2.98",11.9796,0
+2010-06-12,"England","USA","South Korea","Greece","A","D","6.86","2.98",20.4428,0
+2010-06-12,"England","USA","South Korea","Greece","D","A","4.02","2.84",11.4168,0
+2010-06-12,"England","USA","South Korea","Greece","A","A","6.86","2.84",19.4824,0
+2010-06-12,"Argentina","Nigeria","South Korea","Greece","D","H","4.38","2.7",11.826,1
+2010-06-12,"Argentina","Nigeria","South Korea","Greece","A","H","8.68","2.7",23.436,0
+2010-06-12,"Argentina","Nigeria","South Korea","Greece","D","D","4.38","2.98",13.0524,0
+2010-06-12,"Argentina","Nigeria","South Korea","Greece","A","D","8.68","2.98",25.8664,0
+2010-06-12,"Argentina","Nigeria","South Korea","Greece","D","A","4.38","2.84",12.4392,0
+2010-06-12,"Argentina","Nigeria","South Korea","Greece","A","A","8.68","2.84",24.6512,0
+2010-06-13,"Germany","Australia","Serbia","Ghana","A","H","7.1","2.03",14.413,0
+2010-06-13,"Germany","Australia","Serbia","Ghana","D","D","3.84","3.21",12.3264,0
+2010-06-13,"Germany","Australia","Serbia","Ghana","A","D","7.1","3.21",22.791,0
+2010-06-13,"Germany","Australia","Serbia","Ghana","D","A","3.84","3.98",15.2832,0
+2010-06-13,"Germany","Australia","Serbia","Ghana","A","A","7.1","3.98",28.258,0
+2010-06-13,"Germany","Australia","Algeria","Slovenia","D","H","3.84","3.66",14.0544,0
+2010-06-13,"Germany","Australia","Algeria","Slovenia","A","H","7.1","3.66",25.986,0
+2010-06-13,"Germany","Australia","Algeria","Slovenia","D","D","3.84","3.15",12.096,0
+2010-06-13,"Germany","Australia","Algeria","Slovenia","A","D","7.1","3.15",22.365,0
+2010-06-13,"Germany","Australia","Algeria","Slovenia","D","A","3.84","2.14",8.2176,0
+2010-06-13,"Germany","Australia","Algeria","Slovenia","A","A","7.1","2.14",15.194,0
+2010-06-13,"Serbia","Ghana","Algeria","Slovenia","D","H","3.21","3.66",11.7486,0
+2010-06-13,"Serbia","Ghana","Algeria","Slovenia","A","H","3.98","3.66",14.5668,0
+2010-06-13,"Serbia","Ghana","Algeria","Slovenia","D","D","3.21","3.15",10.1115,0
+2010-06-13,"Serbia","Ghana","Algeria","Slovenia","A","D","3.98","3.15",12.537,0
+2010-06-13,"Serbia","Ghana","Algeria","Slovenia","A","A","3.98","2.14",8.5172,0
+2010-06-14,"Italy","Paraguay","Japan","Cameroon","D","H","3.01","3.64",10.9564,1
+2010-06-14,"Italy","Paraguay","Japan","Cameroon","A","H","3.82","3.64",13.9048,0
+2010-06-14,"Italy","Paraguay","Japan","Cameroon","D","D","3.01","3.12",9.3912,0
+2010-06-14,"Italy","Paraguay","Japan","Cameroon","A","D","3.82","3.12",11.9184,0
+2010-06-14,"Italy","Paraguay","Japan","Cameroon","A","A","3.82","2.16",8.2512,0
+2010-06-14,"Italy","Paraguay","Netherlands","Denmark","H","D","2.13","3.96",8.4348,0
+2010-06-14,"Italy","Paraguay","Netherlands","Denmark","D","D","3.01","3.96",11.9196,0
+2010-06-14,"Italy","Paraguay","Netherlands","Denmark","A","D","3.82","3.96",15.1272,0
+2010-06-14,"Italy","Paraguay","Netherlands","Denmark","H","A","2.13","6.94",14.7822,0
+2010-06-14,"Italy","Paraguay","Netherlands","Denmark","D","A","3.01","6.94",20.8894,0
+2010-06-14,"Italy","Paraguay","Netherlands","Denmark","A","A","3.82","6.94",26.5108,0
+2010-06-14,"Japan","Cameroon","Netherlands","Denmark","H","D","3.64","3.96",14.4144,0
+2010-06-14,"Japan","Cameroon","Netherlands","Denmark","D","D","3.12","3.96",12.3552,0
+2010-06-14,"Japan","Cameroon","Netherlands","Denmark","A","D","2.16","3.96",8.5536,0
+2010-06-14,"Japan","Cameroon","Netherlands","Denmark","H","A","3.64","6.94",25.2616,0
+2010-06-14,"Japan","Cameroon","Netherlands","Denmark","D","A","3.12","6.94",21.6528,0
+2010-06-14,"Japan","Cameroon","Netherlands","Denmark","A","A","2.16","6.94",14.9904,0
+2010-06-15,"Brazil","North Korea","Ivory Coast","Portugal","D","H","9.42","3.75",35.325,0
+2010-06-15,"Brazil","North Korea","Ivory Coast","Portugal","A","H","29.89","3.75",112.0875,0
+2010-06-15,"Brazil","North Korea","Ivory Coast","Portugal","D","D","9.42","3.17",29.8614,0
+2010-06-15,"Brazil","North Korea","Ivory Coast","Portugal","A","D","29.89","3.17",94.7513,0
+2010-06-15,"Brazil","North Korea","Ivory Coast","Portugal","D","A","9.42","2.1",19.782,0
+2010-06-15,"Brazil","North Korea","Ivory Coast","Portugal","A","A","29.89","2.1",62.769,0
+2010-06-15,"Brazil","North Korea","New Zealand","Slovakia","D","H","9.42","7.49",70.5558,0
+2010-06-15,"Brazil","North Korea","New Zealand","Slovakia","D","D","9.42","3.85",36.267,0
+2010-06-15,"Brazil","North Korea","New Zealand","Slovakia","A","D","29.89","3.85",115.0765,0
+2010-06-15,"Brazil","North Korea","New Zealand","Slovakia","D","A","9.42","1.5",14.13,0
+2010-06-15,"Brazil","North Korea","New Zealand","Slovakia","A","A","29.89","1.5",44.835,0
+2010-06-15,"Ivory Coast","Portugal","New Zealand","Slovakia","H","H","3.75","7.49",28.0875,0
+2010-06-15,"Ivory Coast","Portugal","New Zealand","Slovakia","D","H","3.17","7.49",23.7433,0
+2010-06-15,"Ivory Coast","Portugal","New Zealand","Slovakia","A","H","2.1","7.49",15.729,0
+2010-06-15,"Ivory Coast","Portugal","New Zealand","Slovakia","H","D","3.75","3.85",14.4375,1
+2010-06-15,"Ivory Coast","Portugal","New Zealand","Slovakia","D","D","3.17","3.85",12.2045,0
+2010-06-16,"Honduras","Chile","Spain","Switzerland","H","D","5.75","5.21",29.9575,0
+2010-06-16,"Honduras","Chile","Spain","Switzerland","D","D","3.42","5.21",17.8182,0
+2010-06-16,"Honduras","Chile","Spain","Switzerland","A","D","1.69","5.21",8.8049,0
+2010-06-16,"Honduras","Chile","Spain","Switzerland","H","A","5.75","13.72",78.89,0
+2010-06-16,"Honduras","Chile","Spain","Switzerland","D","A","3.42","13.72",46.9224,0
+2010-06-16,"Honduras","Chile","Spain","Switzerland","A","A","1.69","13.72",23.1868,1
+2010-06-16,"Honduras","Chile","South Africa","Uruguay","H","H","5.75","3.26",18.745,0
+2010-06-16,"Honduras","Chile","South Africa","Uruguay","D","H","3.42","3.26",11.1492,0
+2010-06-16,"Honduras","Chile","South Africa","Uruguay","H","D","5.75","3.03",17.4225,0
+2010-06-16,"Honduras","Chile","South Africa","Uruguay","D","D","3.42","3.03",10.3626,0
+2010-06-16,"Honduras","Chile","South Africa","Uruguay","H","A","5.75","2.38",13.685,0
+2010-06-16,"Spain","Switzerland","South Africa","Uruguay","D","H","5.21","3.26",16.9846,0
+2010-06-16,"Spain","Switzerland","South Africa","Uruguay","A","H","13.72","3.26",44.7272,0
+2010-06-16,"Spain","Switzerland","South Africa","Uruguay","D","D","5.21","3.03",15.7863,0
+2010-06-16,"Spain","Switzerland","South Africa","Uruguay","A","D","13.72","3.03",41.5716,0
+2010-06-16,"Spain","Switzerland","South Africa","Uruguay","D","A","5.21","2.38",12.3998,0
+2010-06-16,"Spain","Switzerland","South Africa","Uruguay","A","A","13.72","2.38",32.6536,1
+2010-06-17,"Argentina","South Korea","Greece","Nigeria","D","H","3.86","3.8",14.668,0
+2010-06-17,"Argentina","South Korea","Greece","Nigeria","A","H","7.66","3.8",29.108,0
+2010-06-17,"Argentina","South Korea","Greece","Nigeria","D","D","3.86","3.17",12.2362,0
+2010-06-17,"Argentina","South Korea","Greece","Nigeria","A","D","7.66","3.17",24.2822,0
+2010-06-17,"Argentina","South Korea","Greece","Nigeria","A","A","7.66","2.08",15.9328,0
+2010-06-17,"Argentina","South Korea","France","Mexico","A","H","7.66","2.1",16.086,0
+2010-06-17,"Argentina","South Korea","France","Mexico","D","D","3.86","3.12",12.0432,0
+2010-06-17,"Argentina","South Korea","France","Mexico","A","D","7.66","3.12",23.8992,0
+2010-06-17,"Argentina","South Korea","France","Mexico","D","A","3.86","3.82",14.7452,0
+2010-06-17,"Argentina","South Korea","France","Mexico","A","A","7.66","3.82",29.2612,0
+2010-06-17,"Greece","Nigeria","France","Mexico","H","D","3.8","3.12",11.856,0
+2010-06-17,"Greece","Nigeria","France","Mexico","D","D","3.17","3.12",9.8904,0
+2010-06-17,"Greece","Nigeria","France","Mexico","H","A","3.8","3.82",14.516,0
+2010-06-17,"Greece","Nigeria","France","Mexico","D","A","3.17","3.82",12.1094,0
+2010-06-18,"Germany","Serbia","England","Algeria","H","D","1.63","5.88",9.5844,0
+2010-06-18,"Germany","Serbia","England","Algeria","D","D","3.73","5.88",21.9324,0
+2010-06-18,"Germany","Serbia","England","Algeria","A","D","5.75","5.88",33.81,1
+2010-06-18,"Germany","Serbia","England","Algeria","H","A","1.63","14.32",23.3416,0
+2010-06-18,"Germany","Serbia","England","Algeria","D","A","3.73","14.32",53.4136,0
+2010-06-18,"Germany","Serbia","England","Algeria","A","A","5.75","14.32",82.34,0
+2010-06-18,"Germany","Serbia","Slovenia","USA","D","H","3.73","3.68",13.7264,0
+2010-06-18,"Germany","Serbia","Slovenia","USA","A","H","5.75","3.68",21.16,0
+2010-06-18,"Germany","Serbia","Slovenia","USA","D","D","3.73","3.18",11.8614,0
+2010-06-18,"Germany","Serbia","Slovenia","USA","A","D","5.75","3.18",18.285,1
+2010-06-18,"Germany","Serbia","Slovenia","USA","A","A","5.75","2.12",12.19,0
+2010-06-18,"England","Algeria","Slovenia","USA","D","H","5.88","3.68",21.6384,0
+2010-06-18,"England","Algeria","Slovenia","USA","A","H","14.32","3.68",52.6976,0
+2010-06-18,"England","Algeria","Slovenia","USA","D","D","5.88","3.18",18.6984,0
+2010-06-18,"England","Algeria","Slovenia","USA","A","D","14.32","3.18",45.5376,1
+2010-06-18,"England","Algeria","Slovenia","USA","D","A","5.88","2.12",12.4656,0
+2010-06-18,"England","Algeria","Slovenia","USA","A","A","14.32","2.12",30.3584,0
+2010-06-19,"Cameroon","Denmark","Netherlands","Japan","H","D","2.85","4.13",11.7705,0
+2010-06-19,"Cameroon","Denmark","Netherlands","Japan","D","D","3.2","4.13",13.216,0
+2010-06-19,"Cameroon","Denmark","Netherlands","Japan","A","D","2.53","4.13",10.4489,0
+2010-06-19,"Cameroon","Denmark","Netherlands","Japan","H","A","2.85","8.65",24.6525,0
+2010-06-19,"Cameroon","Denmark","Netherlands","Japan","D","A","3.2","8.65",27.68,0
+2010-06-19,"Cameroon","Denmark","Netherlands","Japan","A","A","2.53","8.65",21.8845,0
+2010-06-19,"Cameroon","Denmark","Ghana","Australia","H","D","2.85","3.16",9.006,0
+2010-06-19,"Cameroon","Denmark","Ghana","Australia","D","D","3.2","3.16",10.112,0
+2010-06-19,"Cameroon","Denmark","Ghana","Australia","H","A","2.85","3.29",9.3765,0
+2010-06-19,"Cameroon","Denmark","Ghana","Australia","D","A","3.2","3.29",10.528,0
+2010-06-19,"Cameroon","Denmark","Ghana","Australia","A","A","2.53","3.29",8.3237,0
+2010-06-19,"Netherlands","Japan","Ghana","Australia","D","H","4.13","2.29",9.4577,0
+2010-06-19,"Netherlands","Japan","Ghana","Australia","A","H","8.65","2.29",19.8085,1
+2010-06-19,"Netherlands","Japan","Ghana","Australia","D","D","4.13","3.16",13.0508,0
+2010-06-19,"Netherlands","Japan","Ghana","Australia","A","D","8.65","3.16",27.334,0
+2010-06-19,"Netherlands","Japan","Ghana","Australia","D","A","4.13","3.29",13.5877,0
+2010-06-19,"Netherlands","Japan","Ghana","Australia","A","A","8.65","3.29",28.4585,0
+2010-06-20,"Brazil","Ivory Coast","Italy","New Zealand","H","D","1.74","5.9",10.266,1
+2010-06-20,"Brazil","Ivory Coast","Italy","New Zealand","D","D","3.44","5.9",20.296,0
+2010-06-20,"Brazil","Ivory Coast","Italy","New Zealand","A","D","5.29","5.9",31.211,0
+2010-06-20,"Brazil","Ivory Coast","Italy","New Zealand","H","A","1.74","16.45",28.623,0
+2010-06-20,"Brazil","Ivory Coast","Italy","New Zealand","D","A","3.44","16.45",56.588,0
+2010-06-20,"Brazil","Ivory Coast","Italy","New Zealand","A","A","5.29","16.45",87.0205,0
+2010-06-20,"Brazil","Ivory Coast","Slovakia","Paraguay","D","H","3.44","3.79",13.0376,0
+2010-06-20,"Brazil","Ivory Coast","Slovakia","Paraguay","A","H","5.29","3.79",20.0491,0
+2010-06-20,"Brazil","Ivory Coast","Slovakia","Paraguay","D","D","3.44","3.19",10.9736,0
+2010-06-20,"Brazil","Ivory Coast","Slovakia","Paraguay","A","D","5.29","3.19",16.8751,0
+2010-06-20,"Brazil","Ivory Coast","Slovakia","Paraguay","A","A","5.29","2.07",10.9503,0
+2010-06-20,"Italy","New Zealand","Slovakia","Paraguay","D","H","5.9","3.79",22.361,0
+2010-06-20,"Italy","New Zealand","Slovakia","Paraguay","A","H","16.45","3.79",62.3455,0
+2010-06-20,"Italy","New Zealand","Slovakia","Paraguay","D","D","5.9","3.19",18.821,0
+2010-06-20,"Italy","New Zealand","Slovakia","Paraguay","A","D","16.45","3.19",52.4755,0
+2010-06-20,"Italy","New Zealand","Slovakia","Paraguay","D","A","5.9","2.07",12.213,0
+2010-06-20,"Italy","New Zealand","Slovakia","Paraguay","A","A","16.45","2.07",34.0515,0
+2010-06-21,"Chile","Switzerland","Spain","Honduras","H","D","2.15","8.5",18.275,0
+2010-06-21,"Chile","Switzerland","Spain","Honduras","D","D","3.15","8.5",26.775,0
+2010-06-21,"Chile","Switzerland","Spain","Honduras","A","D","3.64","8.5",30.94,0
+2010-06-21,"Chile","Switzerland","Spain","Honduras","H","A","2.15","23.01",49.4715,0
+2010-06-21,"Chile","Switzerland","Spain","Honduras","D","A","3.15","23.01",72.4815,0
+2010-06-21,"Chile","Switzerland","Spain","Honduras","A","A","3.64","23.01",83.7564,0
+2010-06-21,"Chile","Switzerland","Portugal","North Korea","H","D","2.15","4.46",9.589,0
+2010-06-21,"Chile","Switzerland","Portugal","North Korea","D","D","3.15","4.46",14.049,0
+2010-06-21,"Chile","Switzerland","Portugal","North Korea","A","D","3.64","4.46",16.2344,0
+2010-06-21,"Chile","Switzerland","Portugal","North Korea","H","A","2.15","10.04",21.586,0
+2010-06-21,"Chile","Switzerland","Portugal","North Korea","D","A","3.15","10.04",31.626,0
+2010-06-21,"Chile","Switzerland","Portugal","North Korea","A","A","3.64","10.04",36.5456,0
+2010-06-21,"Spain","Honduras","Portugal","North Korea","D","H","8.5","1.36",11.56,0
+2010-06-21,"Spain","Honduras","Portugal","North Korea","A","H","23.01","1.36",31.2936,0
+2010-06-21,"Spain","Honduras","Portugal","North Korea","D","D","8.5","4.46",37.91,0
+2010-06-21,"Spain","Honduras","Portugal","North Korea","A","D","23.01","4.46",102.6246,0
+2010-06-21,"Spain","Honduras","Portugal","North Korea","H","A","1.11","10.04",11.1444,0
+2010-06-21,"Spain","Honduras","Portugal","North Korea","D","A","8.5","10.04",85.34,0
+2010-06-22,"Greece","Argentina","Nigeria","South Korea","H","H","7.38","2.91",21.4758,0
+2010-06-22,"Greece","Argentina","Nigeria","South Korea","D","H","4.1","2.91",11.931,0
+2010-06-22,"Greece","Argentina","Nigeria","South Korea","H","D","7.38","3.31",24.4278,0
+2010-06-22,"Greece","Argentina","Nigeria","South Korea","D","D","4.1","3.31",13.571,0
+2010-06-22,"Greece","Argentina","Nigeria","South Korea","H","A","7.38","2.42",17.8596,0
+2010-06-22,"Greece","Argentina","Nigeria","South Korea","D","A","4.1","2.42",9.922,0
+2010-06-22,"Greece","Argentina","France","South Africa","H","H","7.38","2.09",15.4242,0
+2010-06-22,"Greece","Argentina","France","South Africa","D","H","4.1","2.09",8.569,0
+2010-06-22,"Greece","Argentina","France","South Africa","H","D","7.38","3.42",25.2396,0
+2010-06-22,"Greece","Argentina","France","South Africa","D","D","4.1","3.42",14.022,0
+2010-06-22,"Greece","Argentina","France","South Africa","H","A","7.38","3.47",25.6086,0
+2010-06-22,"Greece","Argentina","France","South Africa","D","A","4.1","3.47",14.227,0
+2010-06-22,"Greece","Argentina","Mexico","Uruguay","H","H","7.38","3.69",27.2322,0
+2010-06-22,"Greece","Argentina","Mexico","Uruguay","D","H","4.1","3.69",15.129,0
+2010-06-22,"Greece","Argentina","Mexico","Uruguay","H","D","7.38","1.95",14.391,0
+2010-06-22,"Greece","Argentina","Mexico","Uruguay","H","A","7.38","3.63",26.7894,0
+2010-06-22,"Greece","Argentina","Mexico","Uruguay","D","A","4.1","3.63",14.883,0
+2010-06-22,"Nigeria","South Korea","France","South Africa","H","D","2.91","3.42",9.9522,0
+2010-06-22,"Nigeria","South Korea","France","South Africa","D","D","3.31","3.42",11.3202,0
+2010-06-22,"Nigeria","South Korea","France","South Africa","A","D","2.42","3.42",8.2764,1
+2010-06-22,"Nigeria","South Korea","France","South Africa","H","A","2.91","3.47",10.0977,0
+2010-06-22,"Nigeria","South Korea","France","South Africa","D","A","3.31","3.47",11.4857,0
+2010-06-22,"Nigeria","South Korea","France","South Africa","A","A","2.42","3.47",8.3974,0
+2010-06-22,"Nigeria","South Korea","Mexico","Uruguay","H","H","2.91","3.69",10.7379,0
+2010-06-22,"Nigeria","South Korea","Mexico","Uruguay","D","H","3.31","3.69",12.2139,0
+2010-06-22,"Nigeria","South Korea","Mexico","Uruguay","A","H","2.42","3.69",8.9298,0
+2010-06-22,"Nigeria","South Korea","Mexico","Uruguay","H","A","2.91","3.63",10.5633,0
+2010-06-22,"Nigeria","South Korea","Mexico","Uruguay","D","A","3.31","3.63",12.0153,0
+2010-06-22,"Nigeria","South Korea","Mexico","Uruguay","A","A","2.42","3.63",8.7846,0
+2010-06-22,"France","South Africa","Mexico","Uruguay","D","H","3.42","3.69",12.6198,0
+2010-06-22,"France","South Africa","Mexico","Uruguay","A","H","3.47","3.69",12.8043,0
+2010-06-22,"France","South Africa","Mexico","Uruguay","D","A","3.42","3.63",12.4146,0
+2010-06-22,"France","South Africa","Mexico","Uruguay","A","A","3.47","3.63",12.5961,0
+2010-06-23,"Australia","Serbia","Ghana","Germany","H","H","4.29","7.69",32.9901,0
+2010-06-23,"Australia","Serbia","Ghana","Germany","D","H","3.53","7.69",27.1457,0
+2010-06-23,"Australia","Serbia","Ghana","Germany","A","H","1.85","7.69",14.2265,0
+2010-06-23,"Australia","Serbia","Ghana","Germany","H","D","4.29","4.25",18.2325,0
+2010-06-23,"Australia","Serbia","Ghana","Germany","D","D","3.53","4.25",15.0025,0
+2010-06-23,"Australia","Serbia","Slovenia","England","H","H","4.29","7.89",33.8481,0
+2010-06-23,"Australia","Serbia","Slovenia","England","D","H","3.53","7.89",27.8517,0
+2010-06-23,"Australia","Serbia","Slovenia","England","A","H","1.85","7.89",14.5965,0
+2010-06-23,"Australia","Serbia","Slovenia","England","H","D","4.29","4.24",18.1896,0
+2010-06-23,"Australia","Serbia","Slovenia","England","D","D","3.53","4.24",14.9672,0
+2010-06-23,"Australia","Serbia","USA","Algeria","H","D","4.29","3.56",15.2724,0
+2010-06-23,"Australia","Serbia","USA","Algeria","D","D","3.53","3.56",12.5668,0
+2010-06-23,"Australia","Serbia","USA","Algeria","H","A","4.29","4.21",18.0609,1
+2010-06-23,"Australia","Serbia","USA","Algeria","D","A","3.53","4.21",14.8613,0
+2010-06-23,"Ghana","Germany","Slovenia","England","H","H","7.69","7.89",60.6741,0
+2010-06-23,"Ghana","Germany","Slovenia","England","D","H","4.25","7.89",33.5325,0
+2010-06-23,"Ghana","Germany","Slovenia","England","A","H","1.44","7.89",11.3616,0
+2010-06-23,"Ghana","Germany","Slovenia","England","H","D","7.69","4.24",32.6056,0
+2010-06-23,"Ghana","Germany","Slovenia","England","D","D","4.25","4.24",18.02,0
+2010-06-23,"Ghana","Germany","Slovenia","England","H","A","7.69","1.44",11.0736,1
+2010-06-23,"Ghana","Germany","USA","Algeria","H","H","7.69","1.85",14.2265,0
+2010-06-23,"Ghana","Germany","USA","Algeria","H","D","7.69","3.56",27.3764,0
+2010-06-23,"Ghana","Germany","USA","Algeria","D","D","4.25","3.56",15.13,0
+2010-06-23,"Ghana","Germany","USA","Algeria","H","A","7.69","4.21",32.3749,1
+2010-06-23,"Ghana","Germany","USA","Algeria","D","A","4.25","4.21",17.8925,0
+2010-06-23,"Slovenia","England","USA","Algeria","H","H","7.89","1.85",14.5965,0
+2010-06-23,"Slovenia","England","USA","Algeria","H","D","7.89","3.56",28.0884,0
+2010-06-23,"Slovenia","England","USA","Algeria","D","D","4.24","3.56",15.0944,0
+2010-06-23,"Slovenia","England","USA","Algeria","H","A","7.89","4.21",33.2169,1
+2010-06-23,"Slovenia","England","USA","Algeria","D","A","4.24","4.21",17.8504,0
+2010-06-24,"Paraguay","New Zealand","Slovakia","Italy","H","H","1.39","6.83",9.4937,0
+2010-06-24,"Paraguay","New Zealand","Slovakia","Italy","D","H","4.35","6.83",29.7105,1
+2010-06-24,"Paraguay","New Zealand","Slovakia","Italy","A","H","9.3","6.83",63.519,0
+2010-06-24,"Paraguay","New Zealand","Slovakia","Italy","D","D","4.35","3.79",16.4865,0
+2010-06-24,"Paraguay","New Zealand","Slovakia","Italy","A","D","9.3","3.79",35.247,0
+2010-06-24,"Paraguay","New Zealand","Slovakia","Italy","A","A","9.3","1.55",14.415,0
+2010-06-24,"Paraguay","New Zealand","Cameroon","Netherlands","D","H","4.35","5.31",23.0985,1
+2010-06-24,"Paraguay","New Zealand","Cameroon","Netherlands","A","H","9.3","5.31",49.383,0
+2010-06-24,"Paraguay","New Zealand","Cameroon","Netherlands","D","D","4.35","3.69",16.0515,0
+2010-06-24,"Paraguay","New Zealand","Cameroon","Netherlands","A","D","9.3","3.69",34.317,0
+2010-06-24,"Paraguay","New Zealand","Cameroon","Netherlands","A","A","9.3","1.67",15.531,0
+2010-06-24,"Paraguay","New Zealand","Denmark","Japan","D","H","4.35","2.25",9.7875,1
+2010-06-24,"Paraguay","New Zealand","Denmark","Japan","A","H","9.3","2.25",20.925,0
+2010-06-24,"Paraguay","New Zealand","Denmark","Japan","D","D","4.35","3.19",13.8765,0
+2010-06-24,"Paraguay","New Zealand","Denmark","Japan","A","D","9.3","3.19",29.667,0
+2010-06-24,"Paraguay","New Zealand","Denmark","Japan","D","A","4.35","3.33",14.4855,0
+2010-06-24,"Paraguay","New Zealand","Denmark","Japan","A","A","9.3","3.33",30.969,0
+2010-06-24,"Slovakia","Italy","Cameroon","Netherlands","H","H","6.83","5.31",36.2673,0
+2010-06-24,"Slovakia","Italy","Cameroon","Netherlands","D","H","3.79","5.31",20.1249,1
+2010-06-24,"Slovakia","Italy","Cameroon","Netherlands","A","H","1.55","5.31",8.2305,0
+2010-06-24,"Slovakia","Italy","Cameroon","Netherlands","H","D","6.83","3.69",25.2027,0
+2010-06-24,"Slovakia","Italy","Cameroon","Netherlands","D","D","3.79","3.69",13.9851,0
+2010-06-24,"Slovakia","Italy","Cameroon","Netherlands","H","A","6.83","1.67",11.4061,0
+2010-06-24,"Slovakia","Italy","Denmark","Japan","H","H","6.83","2.25",15.3675,0
+2010-06-24,"Slovakia","Italy","Denmark","Japan","D","H","3.79","2.25",8.5275,1
+2010-06-24,"Slovakia","Italy","Denmark","Japan","H","D","6.83","3.19",21.7877,0
+2010-06-24,"Slovakia","Italy","Denmark","Japan","D","D","3.79","3.19",12.0901,0
+2010-06-24,"Slovakia","Italy","Denmark","Japan","H","A","6.83","3.33",22.7439,0
+2010-06-24,"Slovakia","Italy","Denmark","Japan","D","A","3.79","3.33",12.6207,0
+2010-06-24,"Cameroon","Netherlands","Denmark","Japan","H","H","5.31","2.25",11.9475,0
+2010-06-24,"Cameroon","Netherlands","Denmark","Japan","D","H","3.69","2.25",8.3025,1
+2010-06-24,"Cameroon","Netherlands","Denmark","Japan","H","D","5.31","3.19",16.9389,0
+2010-06-24,"Cameroon","Netherlands","Denmark","Japan","D","D","3.69","3.19",11.7711,0
+2010-06-24,"Cameroon","Netherlands","Denmark","Japan","H","A","5.31","3.33",17.6823,0
+2010-06-24,"Cameroon","Netherlands","Denmark","Japan","D","A","3.69","3.33",12.2877,0
+2010-06-25,"Chile","Spain","Switzerland","Honduras","H","H","6.79","1.55",10.5245,0
+2010-06-25,"Chile","Spain","Switzerland","Honduras","H","D","6.79","3.91",26.5489,0
+2010-06-25,"Chile","Spain","Switzerland","Honduras","D","D","4.08","3.91",15.9528,0
+2010-06-25,"Chile","Spain","Switzerland","Honduras","H","A","6.79","6.44",43.7276,0
+2010-06-25,"Chile","Spain","Switzerland","Honduras","D","A","4.08","6.44",26.2752,0
+2010-06-25,"Chile","Spain","Switzerland","Honduras","A","A","1.5","6.44",9.66,0
+2010-06-25,"Chile","Spain","North Korea","Ivory Coast","H","H","6.79","9.12",61.9248,0
+2010-06-25,"Chile","Spain","North Korea","Ivory Coast","D","H","4.08","9.12",37.2096,0
+2010-06-25,"Chile","Spain","North Korea","Ivory Coast","A","H","1.5","9.12",13.68,0
+2010-06-25,"Chile","Spain","North Korea","Ivory Coast","H","D","6.79","4.9",33.271,0
+2010-06-25,"Chile","Spain","North Korea","Ivory Coast","D","D","4.08","4.9",19.992,0
+2010-06-25,"Chile","Spain","North Korea","Ivory Coast","H","A","6.79","1.35",9.1665,0
+2010-06-25,"Chile","Spain","Portugal","Brazil","H","H","6.79","3.5",23.765,0
+2010-06-25,"Chile","Spain","Portugal","Brazil","D","H","4.08","3.5",14.28,0
+2010-06-25,"Chile","Spain","Portugal","Brazil","H","D","6.79","2.9",19.691,0
+2010-06-25,"Chile","Spain","Portugal","Brazil","D","D","4.08","2.9",11.832,0
+2010-06-25,"Chile","Spain","Portugal","Brazil","H","A","6.79","2.36",16.0244,0
+2010-06-25,"Chile","Spain","Portugal","Brazil","D","A","4.08","2.36",9.6288,0
+2010-06-25,"Switzerland","Honduras","North Korea","Ivory Coast","H","H","1.55","9.12",14.136,0
+2010-06-25,"Switzerland","Honduras","North Korea","Ivory Coast","D","H","3.91","9.12",35.6592,0
+2010-06-25,"Switzerland","Honduras","North Korea","Ivory Coast","A","H","6.44","9.12",58.7328,0
+2010-06-25,"Switzerland","Honduras","North Korea","Ivory Coast","D","D","3.91","4.9",19.159,0
+2010-06-25,"Switzerland","Honduras","North Korea","Ivory Coast","A","D","6.44","4.9",31.556,1
+2010-06-25,"Switzerland","Honduras","North Korea","Ivory Coast","A","A","6.44","1.35",8.694,0
+2010-06-25,"Switzerland","Honduras","Portugal","Brazil","D","H","3.91","3.5",13.685,0
+2010-06-25,"Switzerland","Honduras","Portugal","Brazil","A","H","6.44","3.5",22.54,0
+2010-06-25,"Switzerland","Honduras","Portugal","Brazil","D","D","3.91","2.9",11.339,0
+2010-06-25,"Switzerland","Honduras","Portugal","Brazil","A","D","6.44","2.9",18.676,1
+2010-06-25,"Switzerland","Honduras","Portugal","Brazil","D","A","3.91","2.36",9.2276,0
+2010-06-25,"Switzerland","Honduras","Portugal","Brazil","A","A","6.44","2.36",15.1984,0
+2010-06-25,"North Korea","Ivory Coast","Portugal","Brazil","H","H","9.12","3.5",31.92,0
+2010-06-25,"North Korea","Ivory Coast","Portugal","Brazil","D","H","4.9","3.5",17.15,0
+2010-06-25,"North Korea","Ivory Coast","Portugal","Brazil","H","D","9.12","2.9",26.448,0
+2010-06-25,"North Korea","Ivory Coast","Portugal","Brazil","D","D","4.9","2.9",14.21,0
+2010-06-25,"North Korea","Ivory Coast","Portugal","Brazil","H","A","9.12","2.36",21.5232,0
+2010-06-25,"North Korea","Ivory Coast","Portugal","Brazil","D","A","4.9","2.36",11.564,0
+2010-06-26,"Uruguay","South Korea","USA","Ghana","A","H","4.82","2.41",11.6162,0
+2010-06-26,"Uruguay","South Korea","USA","Ghana","D","D","3.3","3.07",10.131,0
+2010-06-26,"Uruguay","South Korea","USA","Ghana","A","D","4.82","3.07",14.7974,0
+2010-06-26,"Uruguay","South Korea","USA","Ghana","D","A","3.3","3.17",10.461,0
+2010-06-26,"Uruguay","South Korea","USA","Ghana","A","A","4.82","3.17",15.2794,0
+2010-06-27,"Argentina","Mexico","Germany","England","D","H","3.67","2.98",10.9366,0
+2010-06-27,"Argentina","Mexico","Germany","England","A","H","6.08","2.98",18.1184,0
+2010-06-27,"Argentina","Mexico","Germany","England","D","D","3.67","3",11.01,0
+2010-06-27,"Argentina","Mexico","Germany","England","A","D","6.08","3",18.24,0
+2010-06-27,"Argentina","Mexico","Germany","England","D","A","3.67","2.6",9.542,0
+2010-06-27,"Argentina","Mexico","Germany","England","A","A","6.08","2.6",15.808,0
+2010-06-28,"Brazil","Chile","Netherlands","Slovakia","A","H","6.83","1.39",9.4937,0
+2010-06-28,"Brazil","Chile","Netherlands","Slovakia","D","D","3.93","4.41",17.3313,0
+2010-06-28,"Brazil","Chile","Netherlands","Slovakia","A","D","6.83","4.41",30.1203,0
+2010-06-28,"Brazil","Chile","Netherlands","Slovakia","H","A","1.52","9.13",13.8776,0
+2010-06-28,"Brazil","Chile","Netherlands","Slovakia","D","A","3.93","9.13",35.8809,0
+2010-06-28,"Brazil","Chile","Netherlands","Slovakia","A","A","6.83","9.13",62.3579,0
+2010-06-29,"Paraguay","Japan","Spain","Portugal","D","D","3.1","3.19",9.889,0
+2010-06-29,"Paraguay","Japan","Spain","Portugal","A","D","3.61","3.19",11.5159,0
+2010-06-29,"Paraguay","Japan","Spain","Portugal","H","A","2.19","4.14",9.0666,0
+2010-06-29,"Paraguay","Japan","Spain","Portugal","D","A","3.1","4.14",12.834,0
+2010-06-29,"Paraguay","Japan","Spain","Portugal","A","A","3.61","4.14",14.9454,0
+2010-07-02,"Netherlands","Brazil","Uruguay","Ghana","H","D","4.06","3.27",13.2762,1
+2010-07-02,"Netherlands","Brazil","Uruguay","Ghana","D","D","3.26","3.27",10.6602,0
+2010-07-02,"Netherlands","Brazil","Uruguay","Ghana","H","A","4.06","4.5",18.27,0
+2010-07-02,"Netherlands","Brazil","Uruguay","Ghana","D","A","3.26","4.5",14.67,0
+2010-07-02,"Netherlands","Brazil","Uruguay","Ghana","A","A","2","4.5",9,0
+2010-07-03,"Argentina","Germany","Paraguay","Spain","H","H","2.31","8.9",20.559,0
+2010-07-03,"Argentina","Germany","Paraguay","Spain","D","H","3.24","8.9",28.836,0
+2010-07-03,"Argentina","Germany","Paraguay","Spain","A","H","3.17","8.9",28.213,0
+2010-07-03,"Argentina","Germany","Paraguay","Spain","H","D","2.31","4.27",9.8637,0
+2010-07-03,"Argentina","Germany","Paraguay","Spain","D","D","3.24","4.27",13.8348,0
+2010-07-03,"Argentina","Germany","Paraguay","Spain","A","D","3.17","4.27",13.5359,0

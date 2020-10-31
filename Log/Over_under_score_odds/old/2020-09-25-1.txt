@@ -1,0 +1,360 @@
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-09-25 12:56:09"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.QMAc6m"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:41545"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "d78b3b66a1923795529a1ae4e19d8341"
+
+$id
+[1] "d78b3b66a1923795529a1ae4e19d8341"
+
+[1] "-------------------------------------------------------------"
+
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-09-25 12:58:05"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.1beW4C"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:41531"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "abc3942f1ed61c2163e27be35196fcaf"
+
+$id
+[1] "abc3942f1ed61c2163e27be35196fcaf"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 3 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], calculate kelly scores"
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], Progress : 1 out of 3"
+[1] "Added game"
+         Date      Home_Team Away_Team
+1: 2020-09-26 Crystal Palace   Everton
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], Progress : 2 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-09-26 West Brom   Chelsea
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], Progress : 3 out of 3"
+[1] "Added game"
+         Date Home_Team   Away_Team
+1: 2020-09-26   Burnley Southampton
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-09-25 13:00:43"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.rvNzKM"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:37473"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "43ccd000e652358ee991871ee221a5a3"
+
+$id
+[1] "43ccd000e652358ee991871ee221a5a3"
+
+[1] "-------------------------------------------------------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], 10 new game(s) found to add."
+[1] "Country : [england], League : [championship], calculate kelly scores"
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+Error in strsplit(unlist(GameTime_Text), "[^a-zA-Z]+") : 
+  non-character argument
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "chrome"
+
+$browserVersion
+[1] "85.0.4183.83"
+
+$chrome
+$chrome$chromedriverVersion
+[1] "85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658})"
+
+$chrome$userDataDir
+[1] "/tmp/.com.google.Chrome.6D2FPV"
+
+
+$`goog:chromeOptions`
+$`goog:chromeOptions`$debuggerAddress
+[1] "localhost:44717"
+
+
+$networkConnectionEnabled
+[1] FALSE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "linux"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$`webauthn:virtualAuthenticators`
+[1] TRUE
+
+$webdriver.remote.sessionid
+[1] "4ee95ffaddc0bb409a4a0f41842f4bb9"
+
+$id
+[1] "4ee95ffaddc0bb409a4a0f41842f4bb9"
+
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+ [1] "https://www.playnow.com/sports/in-play/event/10199989/huddersfield-town-v-nottingham-forest"   
+ [2] "https://www.playnow.com/sports/sports/event/10199997/watford-fc-v-luton-town"                  
+ [3] "https://www.playnow.com/sports/sports/event/10199998/wycombe-wanderers-v-swansea-city"         
+ [4] "https://www.playnow.com/sports/sports/event/10199995/barnsley-v-coventry-city"                 
+ [5] "https://www.playnow.com/sports/sports/event/10199991/birmingham-city-v-rotherham-united"       
+ [6] "https://www.playnow.com/sports/sports/event/10199992/cardiff-city-v-reading-fc"                
+ [7] "https://www.playnow.com/sports/sports/event/10199999/derby-county-v-blackburn-rovers"          
+ [8] "https://www.playnow.com/sports/sports/event/10199996/millwall-fc-v-brentford-fc"               
+ [9] "https://www.playnow.com/sports/sports/event/10199990/preston-north-end-v-stoke-city"           
+[10] "https://www.playnow.com/sports/sports/event/10200000/queens-park-rangers-v-middlesbrough-fc"   
+[11] "https://www.playnow.com/sports/sports/event/10199994/bristol-city-v-sheffield-wednesday"       
+[12] "https://www.playnow.com/sports/sports/event/10199993/afc-bournemouth-v-norwich-city-fc"        
+[13] "https://www.playnow.com/sports/sports/event/10199997/watford-fc-v-luton-town"                  
+[14] "https://www.playnow.com/sports/sports/event/10199998/wycombe-wanderers-v-swansea-city"         
+[15] "https://www.playnow.com/sports/sports/event/10199995/barnsley-v-coventry-city"                 
+[16] "https://www.playnow.com/sports/sports/event/10199991/birmingham-city-v-rotherham-united"       
+[17] "https://www.playnow.com/sports/sports/event/10199992/cardiff-city-v-reading-fc"                
+[18] "https://www.playnow.com/sports/sports/event/10199999/derby-county-v-blackburn-rovers"          
+[19] "https://www.playnow.com/sports/sports/event/10199996/millwall-fc-v-brentford-fc"               
+[20] "https://www.playnow.com/sports/sports/event/10199990/preston-north-end-v-stoke-city"           
+[21] "https://www.playnow.com/sports/sports/event/10200000/queens-park-rangers-v-middlesbrough-fc"   
+[22] "https://www.playnow.com/sports/sports/event/10199994/bristol-city-v-sheffield-wednesday"       
+[23] "https://www.playnow.com/sports/sports/event/10199993/afc-bournemouth-v-norwich-city-fc"        
+[24] "https://www.playnow.com/sports/sports/event/10203531/coventry-city-v-afc-bournemouth"          
+[25] "https://www.playnow.com/sports/sports/event/10203535/norwich-city-fc-v-derby-county"           
+[26] "https://www.playnow.com/sports/sports/event/10203533/blackburn-rovers-v-cardiff-city"          
+[27] "https://www.playnow.com/sports/sports/event/10203532/brentford-fc-v-preston-north-end"         
+[28] "https://www.playnow.com/sports/sports/event/10203536/luton-town-v-wycombe-wanderers"           
+[29] "https://www.playnow.com/sports/sports/event/10203526/middlesbrough-fc-v-barnsley"              
+[30] "https://www.playnow.com/sports/sports/event/10203534/nottingham-forest-v-bristol-city"         
+[31] "https://www.playnow.com/sports/sports/event/10203527/reading-fc-v-watford-fc"                  
+[32] "https://www.playnow.com/sports/sports/event/10203529/rotherham-united-v-huddersfield-town"     
+[33] "https://www.playnow.com/sports/sports/event/10203528/sheffield-wednesday-v-queens-park-rangers"
+[34] "https://www.playnow.com/sports/sports/event/10203537/stoke-city-v-birmingham-city"             
+[35] "https://www.playnow.com/sports/sports/event/10203530/swansea-city-v-millwall-fc"               
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] 1

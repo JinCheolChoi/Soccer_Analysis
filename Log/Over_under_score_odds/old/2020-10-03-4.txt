@@ -1,0 +1,54 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2020-10-03 11:20:34"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], New team names found. Add them in the function, Over_Under_Score_Odds_Manipulation."
+[1] "[New team names to be edited]--------------------"
+[1] "Roda JC Kerkrade"
+[1] "-------------------------------------------------"
+[1] ""
+[1] "[Reference]--------------------------------------"
+ [1] "Achilles 29"      "Almere City"      "Apeldoorn"       
+ [4] "Breda"            "Cambuur"          "Den Bosch"       
+ [7] "Den Haag"         "Dordrecht"        "Eindhoven FC"    
+[10] "Excelsior"        "FC Emmen"         "FC Volendam"     
+[13] "G.A. Eagles"      "Graafschap"       "Groningen"       
+[16] "Haarlem"          "Helmond"          "Heracles"        
+[19] "Jong Ajax"        "Jong AZ"          "Jong FC Twente"  
+[22] "Jong PSV"         "Jong Utrecht"     "Maastricht"      
+[25] "Nijmegen"         "Oss"              "Roda"            
+[28] "Roosendaal"       "Sittard"          "Sparta Rotterdam"
+[31] "Telstar"          "Twente"           "Veendam"         
+[34] "Venlo"            "Waalwijk"         "Willem II"       
+[37] "Zwolle"          
+[1] "-------------------------------------------------"
+[1] "Country : [netherlands], League : [eerste-divisie], calculate kelly scores"
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League        Home_Team   Away_Team
+1: 2020-10-04 eerste-divisie Roda JC Kerkrade FC Volendam
+                                                                                   URL
+1: https://www.playnow.com/sports/sports/event/10210556/roda-jc-kerkrade-v-fc-volendam
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:        0         0     1.15       4.5      1.5       2.4
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     2.25      1.57     3.75      1.22      6.5      1.08
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 5.5        1.08                    0.9013193 0
+   Chosen_Option_Std     Kelly         Record_Time
+1:               Inf 0.2499687 2020-10-03 11:21:21
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 1 out of 1"
+[1] "Added game"
+         Date        Home_Team   Away_Team
+1: 2020-10-04 Roda JC Kerkrade FC Volendam
+[1] ""
+[1] ""
+Warning message:
+In lapply(X = x, FUN = .Generic, ...) : NaNs produced

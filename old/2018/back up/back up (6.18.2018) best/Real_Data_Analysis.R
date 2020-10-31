@@ -1,0 +1,153 @@
+#####################
+# Empty the workspace
+#####################
+rm(list=ls())
+
+###################
+# Parameter setting
+###################
+Directory = setwd("C:/Users/JinCheol Choi/Desktop/Soccer_Analysis/")
+League = "England_Premium"
+#--- available league
+# 1. England_Premium
+# 2. World_Cup
+
+######################################
+# import empirical winning probability
+######################################
+load(paste0(Directory,"/Empirical_Winning_Probability/", League, "/Empirical_winning_probability.Rdata"))
+
+###################
+# Parameter setting
+###################
+Years = c(2018)
+# England_Premium : Years = 2009:2018
+# World_Cup       : Years = c(2002, 2006, 2010, 2014)
+initial.bankrole = 10000      # the initial bankrole
+#ind.bet.money = 100          # the initial amount of money per each bet
+min.odd = 0
+max.odd = 1000
+threshold.par = 1.1             # compare 
+# England_Premium : min.odd = 30, max.odd = 1000
+# England_Premium : threshold.par = 2.0
+# World_Cup : min.odd = 0, max.odd = 1000
+# World_Cup : threshold.par = 1.0
+
+#################
+# Rcode directory
+#################
+# import fundamental functions
+source("Functions.R")
+source("Apply_Decision_to_Data.R")
+
+##################################################
+# Data save and load empirical winning probability
+##################################################
+# the empirical winning probabilities are saved in Logistic_Model.1999~2018
+#save.image(paste0(Directory,"/Empirical_Winning_Probability/", League, "/Empirical_winning_probability.Rdata"))
+#load(paste0(Directory,"/Empirical_Winning_Probability/", League, "/Empirical_winning_probability.Rdata"))
+
+###########################
+# Decision_Making_Algorithm
+###########################
+for(Year in Years){
+  # Year=2009
+  
+  # import data
+  source("Real_Data.R")
+  
+  # Decision_Making_Algorithm
+  source("Decision_Making_Algorithm.R")
+}
+
+########################
+# Apply_Decision_to_Data
+########################
+# Create values
+final.bankrole = c()
+time.merge = c()
+bankrole.merge = c()
+final.decision = c()
+for(Year in Years){
+  #Year=2008
+  #---------------------
+  # import decision data
+  #---------------------
+  final.all.chosen.bet = read.csv(paste0(Directory,"/Decision/", League, "/", Year, ".csv"))
+  
+  if(Year == Years[1]){
+    initial.bankrole = initial.bankrole
+  }
+  
+  if(Year > Years[1]){
+    if(length(bankrole.merge) == 0){
+      initial.bankrole = initial.bankrole
+    }else{
+      initial.bankrole = bankrole.merge[length(bankrole.merge)] 
+      }
+  }
+  
+  # bet according to the decision
+  if(is.na(final.all.chosen.bet$Time)[1] == FALSE){
+    
+    #ind.bet.money = ind.bet.money + 50 * (which(Years == Year)-1)
+    #ind.bet.money = initial.bankrole * 0.01
+    ind.bet.money = 100
+    #ind.bet.money = 100
+    if(ind.bet.money > 5000){ind.bet.money = 5000}
+    
+    temp.bankrole = apply.decision(final.all.chosen.bet, initial.bankrole, ind.bet.money)
+    time.merge = c(time.merge, temp.bankrole$Time)
+    bankrole.merge = c(bankrole.merge, temp.bankrole$capital)
+    
+    # save all decisions that are made
+    final.decision = rbind(final.decision, final.all.chosen.bet)
+  }
+}
+
+# merge time and capital into a single value
+final.bankrole$Time = as.Date(time.merge, origin = "1970-01-01")
+final.bankrole$capital = bankrole.merge
+final.bankrole$Time[1]
+
+######
+# plot
+######
+plot(final.bankrole$Time, final.bankrole$capital, type = "o")
+final.bankrole$capital[length(final.bankrole$capital)]
+
+
+################
+# logistic model
+################
+Logistic_Model = glm(result.mat ~ joint.odds, data=all.chosen.bet, family = binomial(link='logit'))
+plot(all.chosen.bet$joint.odds, all.chosen.bet$result.mat)
+curve(predict(Logistic_Model, data.frame(joint.odds=x),type="response"), add=TRUE, col="red")
+x.axis=seq(0, 1000, by=0.1)
+lines(x.axis, 1/x.axis, col='blue')
+
+######
+# plot
+######
+#plot(x.axis, predict.prob, type="l", col="red", ylim=c(0, 1), xlim=c(min.odd, max(final.decision$joint.odds)))
+#lines(x.axis, threshold.par/x.axis, col='blue')
+
+number.bet=c()
+for(ind in 1:length(unique(final.decision$Time))){
+  number.bet[ind]=nrow(final.decision[final.decision$Time==unique(final.decision$Time)[ind],])
+} 
+unique(final.decision$Time)[which(number.bet>100)]
+number.bet[which(number.bet>100)]
+
+# the number of bets on each day
+number.bet
+
+# average winning rate
+mean(final.decision$result.mat)
+
+# average joint odds
+mean(final.decision$joint.odds)
+
+hist(final.decision$joint.odds, breaks=50)
+
+

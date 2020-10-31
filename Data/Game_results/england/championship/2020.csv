@@ -1,0 +1,109 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+Today,2020,Barnsley,Watford,1,0
+Today,2020,Bournemouth,Derby,1,1
+Today,2020,Bristol City,Norwich,1,3
+Today,2020,Luton,Brentford,0,3
+Today,2020,Middlesbrough,Nottingham,1,0
+Today,2020,Millwall,Huddersfield,0,3
+Today,2020,Preston,Birmingham,1,2
+Today,2020,QPR,Cardiff,3,2
+Today,2020,Stoke,Rotherham,1,0
+Today,2020,Swansea,Blackburn,2,0
+Today,2020,Wycombe,Sheffield Wed,1,0
+Yesterday,2020,Coventry,Reading,3,2
+28.10.,2020,Birmingham,Huddersfield,2,1
+28.10.,2020,Bournemouth,Bristol City,1,0
+28.10.,2020,Derby,Cardiff,1,1
+28.10.,2020,Luton,Nottingham,1,1
+28.10.,2020,Preston,Millwall,0,2
+28.10.,2020,Rotherham,Sheffield Wed,3,0
+27.10.,2020,Barnsley,QPR,3,0
+27.10.,2020,Blackburn,Reading,2,4
+27.10.,2020,Brentford,Norwich,1,1
+27.10.,2020,Middlesbrough,Coventry,2,0
+27.10.,2020,Swansea,Stoke,2,0
+27.10.,2020,Wycombe,Watford,1,1
+24.10.,2020,Bristol City,Swansea,1,1
+24.10.,2020,Cardiff,Middlesbrough,1,1
+24.10.,2020,Coventry,Blackburn,0,4
+24.10.,2020,Huddersfield,Preston,1,2
+24.10.,2020,Millwall,Barnsley,1,1
+24.10.,2020,Norwich,Wycombe,2,1
+24.10.,2020,QPR,Birmingham,0,0
+24.10.,2020,Reading,Rotherham,3,0
+24.10.,2020,Sheffield Wed,Luton,0,1
+24.10.,2020,Stoke,Brentford,3,2
+24.10.,2020,Watford,Bournemouth,1,1
+23.10.,2020,Nottingham,Derby,1,1
+21.10.,2020,Cardiff,Bournemouth,1,1
+21.10.,2020,QPR,Preston,0,2
+21.10.,2020,Sheffield Wed,Brentford,1,2
+21.10.,2020,Stoke,Barnsley,2,2
+21.10.,2020,Watford,Blackburn,3,1
+20.10.,2020,Bristol City,Middlesbrough,0,1
+20.10.,2020,Coventry,Swansea,1,1
+20.10.,2020,Huddersfield,Derby,1,0
+20.10.,2020,Millwall,Luton,2,0
+20.10.,2020,Norwich,Birmingham,1,0
+20.10.,2020,Nottingham,Rotherham,1,1
+20.10.,2020,Reading,Wycombe,1,0
+18.10.,2020,Preston,Cardiff,0,1
+17.10.,2020,Barnsley,Bristol City,2,2
+17.10.,2020,Birmingham,Sheffield Wed,0,1
+17.10.,2020,Blackburn,Nottingham,0,1
+17.10.,2020,Bournemouth,QPR,0,0
+17.10.,2020,Brentford,Coventry,2,0
+17.10.,2020,Luton,Stoke,0,2
+17.10.,2020,Middlesbrough,Reading,0,0
+17.10.,2020,Rotherham,Norwich,1,2
+17.10.,2020,Swansea,Huddersfield,1,2
+17.10.,2020,Wycombe,Millwall,1,2
+16.10.,2020,Derby,Watford,0,1
+04.10.,2020,Brentford,Preston,2,4
+04.10.,2020,Stoke,Birmingham,1,1
+03.10.,2020,Blackburn,Cardiff,0,0
+03.10.,2020,Luton,Wycombe,2,0
+03.10.,2020,Middlesbrough,Barnsley,2,1
+03.10.,2020,Norwich,Derby,0,1
+03.10.,2020,Nottingham,Bristol City,1,2
+03.10.,2020,Reading,Watford,1,0
+03.10.,2020,Rotherham,Huddersfield,1,1
+03.10.,2020,Sheffield Wed,QPR,1,1
+03.10.,2020,Swansea,Millwall,2,1
+02.10.,2020,Coventry,Bournemouth,1,3
+27.09.,2020,Bournemouth,Norwich,1,0
+27.09.,2020,Bristol City,Sheffield Wed,2,0
+26.09.,2020,Barnsley,Coventry,0,0
+26.09.,2020,Birmingham,Rotherham,1,1
+26.09.,2020,Cardiff,Reading,1,2
+26.09.,2020,Derby,Blackburn,0,4
+26.09.,2020,Millwall,Brentford,1,1
+26.09.,2020,Preston,Stoke,0,1
+26.09.,2020,QPR,Middlesbrough,1,1
+26.09.,2020,Watford,Luton,1,0
+26.09.,2020,Wycombe,Swansea,0,2
+25.09.,2020,Huddersfield,Nottingham,1,0
+20.09.,2020,Stoke,Bristol City,0,2
+19.09.,2020,Blackburn,Wycombe,5,0
+19.09.,2020,Brentford,Huddersfield,3,0
+19.09.,2020,Luton,Derby,2,1
+19.09.,2020,Middlesbrough,Bournemouth,1,1
+19.09.,2020,Norwich,Preston,2,2
+19.09.,2020,Nottingham,Cardiff,0,2
+19.09.,2020,Reading,Barnsley,2,0
+19.09.,2020,Rotherham,Millwall,0,1
+19.09.,2020,Sheffield Wed,Watford,0,0
+19.09.,2020,Swansea,Birmingham,0,0
+18.09.,2020,Coventry,QPR,3,2
+12.09.,2020,Barnsley,Luton,0,1
+12.09.,2020,Birmingham,Brentford,1,0
+12.09.,2020,Bournemouth,Blackburn,3,2
+12.09.,2020,Bristol City,Coventry,2,1
+12.09.,2020,Cardiff,Sheffield Wed,0,2
+12.09.,2020,Derby,Reading,0,2
+12.09.,2020,Huddersfield,Norwich,0,1
+12.09.,2020,Millwall,Stoke,0,0
+12.09.,2020,Preston,Swansea,0,1
+12.09.,2020,QPR,Nottingham,2,0
+12.09.,2020,Wycombe,Rotherham,0,1
+11.09.,2020,Watford,Middlesbrough,1,0

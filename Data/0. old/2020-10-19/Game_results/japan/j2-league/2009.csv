@@ -1,0 +1,460 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+05.12.2009,2009,Gifu,Tokushima,2,1
+05.12.2009,2009,Kofu,Kumamoto,2,1
+05.12.2009,2009,Kusatsu,Tochigi,3,2
+05.12.2009,2009,Mito,Shonan,2,3
+05.12.2009,2009,Sagan Tosu,C-Osaka,2,1
+05.12.2009,2009,Toyama,Okayama,2,0
+05.12.2009,2009,Vegalta Sendai,Ehime,1,1
+05.12.2009,2009,Verdy,Sapporo,2,2
+05.12.2009,2009,Yokohama,Avispa Fukuoka,2,2
+29.11.2009,2009,Avispa Fukuoka,Mito,3,1
+29.11.2009,2009,Ehime,Sagan Tosu,0,0
+29.11.2009,2009,Kumamoto,Toyama,2,0
+29.11.2009,2009,Sapporo,Yokohama,3,1
+29.11.2009,2009,Shonan,Kusatsu,0,0
+29.11.2009,2009,Tochigi,Verdy,2,3
+29.11.2009,2009,Tokushima,Vegalta Sendai,0,4
+28.11.2009,2009,C-Osaka,Gifu,2,1
+28.11.2009,2009,Okayama,Kofu,0,1
+22.11.2009,2009,Gifu,Sapporo,2,4
+22.11.2009,2009,Kusatsu,Avispa Fukuoka,1,2
+22.11.2009,2009,Mito,Ehime,1,0
+22.11.2009,2009,Sagan Tosu,Okayama,0,0
+22.11.2009,2009,Toyama,Tokushima,0,0
+22.11.2009,2009,Vegalta Sendai,C-Osaka,1,0
+22.11.2009,2009,Yokohama,Tochigi,1,0
+21.11.2009,2009,Kofu,Shonan,2,3
+21.11.2009,2009,Verdy,Kumamoto,0,2
+08.11.2009,2009,Avispa Fukuoka,Kofu,2,1
+08.11.2009,2009,C-Osaka,Kusatsu,5,0
+08.11.2009,2009,Ehime,Yokohama,0,2
+08.11.2009,2009,Mito,Vegalta Sendai,0,4
+08.11.2009,2009,Okayama,Gifu,0,2
+08.11.2009,2009,Sapporo,Toyama,1,1
+08.11.2009,2009,Shonan,Verdy,2,2
+08.11.2009,2009,Tochigi,Kumamoto,0,2
+08.11.2009,2009,Tokushima,Sagan Tosu,0,1
+31.10.2009,2009,Ehime,Kumamoto,1,1
+25.10.2009,2009,Gifu,Ehime,3,3
+25.10.2009,2009,Kusatsu,Okayama,2,1
+25.10.2009,2009,Sagan Tosu,Kofu,1,2
+25.10.2009,2009,Toyama,Mito,2,3
+25.10.2009,2009,Vegalta Sendai,Sapporo,1,0
+25.10.2009,2009,Verdy,Avispa Fukuoka,1,0
+25.10.2009,2009,Yokohama,C-Osaka,0,3
+24.10.2009,2009,Kumamoto,Shonan,1,0
+24.10.2009,2009,Tochigi,Tokushima,0,0
+21.10.2009,2009,Avispa Fukuoka,Gifu,1,0
+21.10.2009,2009,Ehime,Toyama,1,0
+21.10.2009,2009,Kofu,Yokohama,0,1
+21.10.2009,2009,Mito,Kumamoto,0,1
+21.10.2009,2009,Okayama,Verdy,0,2
+21.10.2009,2009,Sapporo,Tochigi,1,0
+21.10.2009,2009,Shonan,Sagan Tosu,1,0
+21.10.2009,2009,Tokushima,C-Osaka,0,0
+21.10.2009,2009,Vegalta Sendai,Kusatsu,2,0
+18.10.2009,2009,C-Osaka,Ehime,3,1
+18.10.2009,2009,Kumamoto,Avispa Fukuoka,0,1
+18.10.2009,2009,Sagan Tosu,Vegalta Sendai,1,1
+18.10.2009,2009,Tochigi,Kofu,1,2
+18.10.2009,2009,Toyama,Shonan,0,3
+18.10.2009,2009,Verdy,Mito,2,0
+18.10.2009,2009,Yokohama,Okayama,2,1
+17.10.2009,2009,Kusatsu,Gifu,1,0
+17.10.2009,2009,Tokushima,Sapporo,3,0
+07.10.2009,2009,Avispa Fukuoka,Toyama,1,1
+07.10.2009,2009,Gifu,Verdy,1,1
+07.10.2009,2009,Kofu,Mito,2,0
+07.10.2009,2009,Kusatsu,Sagan Tosu,0,1
+07.10.2009,2009,Okayama,Tochigi,0,1
+07.10.2009,2009,Sapporo,C-Osaka,0,1
+07.10.2009,2009,Shonan,Tokushima,1,0
+07.10.2009,2009,Vegalta Sendai,Yokohama,1,0
+04.10.2009,2009,Kumamoto,Sapporo,0,0
+04.10.2009,2009,Sagan Tosu,Gifu,1,0
+04.10.2009,2009,Toyama,Vegalta Sendai,2,3
+04.10.2009,2009,Verdy,Kofu,0,1
+04.10.2009,2009,Yokohama,Kusatsu,1,2
+03.10.2009,2009,C-Osaka,Avispa Fukuoka,0,0
+03.10.2009,2009,Mito,Tokushima,0,3
+03.10.2009,2009,Shonan,Okayama,3,1
+03.10.2009,2009,Tochigi,Ehime,1,1
+27.09.2009,2009,C-Osaka,Tochigi,1,0
+27.09.2009,2009,Ehime,Avispa Fukuoka,0,1
+27.09.2009,2009,Gifu,Kofu,1,2
+27.09.2009,2009,Kusatsu,Mito,2,0
+27.09.2009,2009,Sapporo,Shonan,2,0
+27.09.2009,2009,Vegalta Sendai,Kumamoto,1,0
+27.09.2009,2009,Yokohama,Toyama,1,3
+26.09.2009,2009,Sagan Tosu,Verdy,2,1
+26.09.2009,2009,Tokushima,Okayama,4,1
+23.09.2009,2009,Avispa Fukuoka,Tokushima,0,0
+23.09.2009,2009,Kofu,Vegalta Sendai,1,1
+23.09.2009,2009,Kumamoto,Yokohama,1,1
+23.09.2009,2009,Mito,Sagan Tosu,1,3
+23.09.2009,2009,Okayama,Sapporo,0,1
+23.09.2009,2009,Shonan,Ehime,1,0
+23.09.2009,2009,Tochigi,Gifu,2,1
+23.09.2009,2009,Toyama,Kusatsu,0,2
+23.09.2009,2009,Verdy,C-Osaka,2,4
+20.09.2009,2009,C-Osaka,Shonan,2,1
+20.09.2009,2009,Ehime,Okayama,0,1
+20.09.2009,2009,Kusatsu,Kofu,1,0
+20.09.2009,2009,Sapporo,Avispa Fukuoka,1,0
+20.09.2009,2009,Tokushima,Kumamoto,6,0
+20.09.2009,2009,Vegalta Sendai,Tochigi,2,0
+20.09.2009,2009,Yokohama,Verdy,2,0
+19.09.2009,2009,Gifu,Mito,3,1
+19.09.2009,2009,Sagan Tosu,Toyama,1,0
+13.09.2009,2009,Avispa Fukuoka,Vegalta Sendai,2,0
+13.09.2009,2009,Ehime,Tokushima,0,1
+13.09.2009,2009,Kofu,Sapporo,2,1
+13.09.2009,2009,Mito,Tochigi,0,2
+13.09.2009,2009,Okayama,C-Osaka,1,3
+13.09.2009,2009,Shonan,Yokohama,1,0
+13.09.2009,2009,Verdy,Kusatsu,2,1
+12.09.2009,2009,Kumamoto,Sagan Tosu,2,1
+12.09.2009,2009,Toyama,Gifu,0,2
+10.09.2009,2009,Tochigi,Yokohama,1,0
+06.09.2009,2009,C-Osaka,Kofu,1,1
+06.09.2009,2009,Gifu,Shonan,1,1
+06.09.2009,2009,Kusatsu,Kumamoto,0,6
+06.09.2009,2009,Sagan Tosu,Avispa Fukuoka,3,1
+06.09.2009,2009,Sapporo,Ehime,3,2
+06.09.2009,2009,Tochigi,Toyama,1,1
+06.09.2009,2009,Tokushima,Verdy,0,1
+06.09.2009,2009,Vegalta Sendai,Okayama,4,2
+06.09.2009,2009,Yokohama,Mito,1,1
+02.09.2009,2009,Kofu,Ehime,1,1
+02.09.2009,2009,Kumamoto,Gifu,2,5
+02.09.2009,2009,Okayama,Avispa Fukuoka,2,2
+02.09.2009,2009,Sagan Tosu,Yokohama,2,1
+02.09.2009,2009,Sapporo,Mito,1,1
+02.09.2009,2009,Shonan,Tochigi,1,1
+02.09.2009,2009,Tokushima,Kusatsu,1,1
+02.09.2009,2009,Toyama,C-Osaka,0,1
+02.09.2009,2009,Verdy,Vegalta Sendai,0,2
+30.08.2009,2009,Ehime,Verdy,3,1
+30.08.2009,2009,Kumamoto,C-Osaka,0,2
+30.08.2009,2009,Kusatsu,Sapporo,2,5
+30.08.2009,2009,Mito,Okayama,4,2
+30.08.2009,2009,Vegalta Sendai,Gifu,2,1
+30.08.2009,2009,Yokohama,Tokushima,1,0
+29.08.2009,2009,Avispa Fukuoka,Shonan,0,1
+29.08.2009,2009,Kofu,Toyama,1,0
+29.08.2009,2009,Tochigi,Sagan Tosu,0,2
+23.08.2009,2009,Avispa Fukuoka,Tochigi,3,1
+23.08.2009,2009,Ehime,Kusatsu,2,1
+23.08.2009,2009,Okayama,Kumamoto,2,1
+23.08.2009,2009,Shonan,Vegalta Sendai,1,1
+23.08.2009,2009,Tokushima,Kofu,0,1
+23.08.2009,2009,Verdy,Toyama,0,1
+22.08.2009,2009,C-Osaka,Mito,0,1
+22.08.2009,2009,Gifu,Yokohama,3,2
+22.08.2009,2009,Sapporo,Sagan Tosu,3,3
+16.08.2009,2009,Gifu,Sapporo,0,2
+16.08.2009,2009,Kofu,Okayama,0,2
+16.08.2009,2009,Kumamoto,Mito,1,3
+16.08.2009,2009,Tokushima,Vegalta Sendai,0,1
+16.08.2009,2009,Toyama,Avispa Fukuoka,1,1
+16.08.2009,2009,Yokohama,C-Osaka,2,2
+15.08.2009,2009,Kusatsu,Shonan,2,0
+15.08.2009,2009,Sagan Tosu,Verdy,0,0
+15.08.2009,2009,Tochigi,Ehime,1,2
+10.08.2009,2009,Kumamoto,Tokushima,0,3
+10.08.2009,2009,Kusatsu,Okayama,1,1
+10.08.2009,2009,Mito,Toyama,1,1
+09.08.2009,2009,Avispa Fukuoka,C-Osaka,2,2
+09.08.2009,2009,Kofu,Gifu,2,2
+09.08.2009,2009,Shonan,Sagan Tosu,1,0
+09.08.2009,2009,Vegalta Sendai,Ehime,3,1
+09.08.2009,2009,Verdy,Sapporo,1,2
+05.08.2009,2009,C-Osaka,Kusatsu,1,0
+05.08.2009,2009,Ehime,Kumamoto,0,2
+05.08.2009,2009,Gifu,Tochigi,1,1
+05.08.2009,2009,Okayama,Verdy,3,2
+05.08.2009,2009,Sagan Tosu,Kofu,1,1
+05.08.2009,2009,Sapporo,Avispa Fukuoka,3,0
+05.08.2009,2009,Shonan,Mito,1,0
+05.08.2009,2009,Tokushima,Toyama,1,2
+05.08.2009,2009,Yokohama,Vegalta Sendai,1,0
+02.08.2009,2009,Avispa Fukuoka,Okayama,0,0
+02.08.2009,2009,C-Osaka,Sapporo,3,0
+02.08.2009,2009,Kofu,Yokohama,2,0
+02.08.2009,2009,Kusatsu,Sagan Tosu,1,3
+02.08.2009,2009,Toyama,Shonan,1,0
+02.08.2009,2009,Verdy,Gifu,3,0
+01.08.2009,2009,Mito,Tochigi,3,1
+01.08.2009,2009,Tokushima,Ehime,6,0
+01.08.2009,2009,Vegalta Sendai,Kumamoto,3,2
+26.07.2009,2009,Ehime,Toyama,1,3
+26.07.2009,2009,Gifu,C-Osaka,2,1
+26.07.2009,2009,Kofu,Vegalta Sendai,2,1
+26.07.2009,2009,Kumamoto,Avispa Fukuoka,2,3
+26.07.2009,2009,Shonan,Tokushima,1,2
+26.07.2009,2009,Yokohama,Verdy,3,1
+25.07.2009,2009,Sagan Tosu,Mito,1,3
+25.07.2009,2009,Sapporo,Okayama,4,2
+25.07.2009,2009,Tochigi,Kusatsu,0,0
+22.07.2009,2009,Avispa Fukuoka,Tokushima,1,1
+22.07.2009,2009,C-Osaka,Kumamoto,4,1
+22.07.2009,2009,Kusatsu,Gifu,0,1
+22.07.2009,2009,Mito,Ehime,1,0
+22.07.2009,2009,Okayama,Tochigi,2,0
+22.07.2009,2009,Toyama,Sapporo,0,0
+22.07.2009,2009,Vegalta Sendai,Shonan,2,1
+22.07.2009,2009,Verdy,Kofu,1,2
+22.07.2009,2009,Yokohama,Sagan Tosu,0,3
+19.07.2009,2009,Gifu,Yokohama,2,0
+19.07.2009,2009,Kumamoto,Toyama,2,3
+19.07.2009,2009,Sagan Tosu,Vegalta Sendai,2,1
+19.07.2009,2009,Shonan,Avispa Fukuoka,2,3
+19.07.2009,2009,Tochigi,Verdy,0,3
+18.07.2009,2009,Ehime,Okayama,0,0
+18.07.2009,2009,Kofu,C-Osaka,1,1
+18.07.2009,2009,Sapporo,Kusatsu,1,2
+17.07.2009,2009,Tokushima,Mito,0,2
+12.07.2009,2009,C-Osaka,Shonan,3,4
+12.07.2009,2009,Gifu,Ehime,2,1
+12.07.2009,2009,Kusatsu,Kofu,1,2
+12.07.2009,2009,Okayama,Sagan Tosu,0,3
+12.07.2009,2009,Vegalta Sendai,Toyama,3,1
+12.07.2009,2009,Yokohama,Mito,0,0
+11.07.2009,2009,Avispa Fukuoka,Tochigi,1,0
+11.07.2009,2009,Sapporo,Kumamoto,0,1
+11.07.2009,2009,Verdy,Tokushima,4,0
+08.07.2009,2009,Ehime,Sapporo,1,2
+08.07.2009,2009,Kumamoto,Verdy,0,2
+08.07.2009,2009,Mito,Avispa Fukuoka,5,0
+08.07.2009,2009,Sagan Tosu,Gifu,1,1
+08.07.2009,2009,Shonan,Kofu,2,1
+08.07.2009,2009,Tochigi,C-Osaka,1,3
+08.07.2009,2009,Tokushima,Okayama,1,0
+08.07.2009,2009,Toyama,Yokohama,2,0
+08.07.2009,2009,Vegalta Sendai,Kusatsu,1,1
+05.07.2009,2009,C-Osaka,Vegalta Sendai,0,0
+05.07.2009,2009,Gifu,Toyama,0,0
+05.07.2009,2009,Kofu,Tochigi,1,1
+05.07.2009,2009,Verdy,Ehime,2,0
+05.07.2009,2009,Yokohama,Shonan,0,2
+04.07.2009,2009,Kusatsu,Tokushima,1,1
+04.07.2009,2009,Sagan Tosu,Avispa Fukuoka,3,1
+04.07.2009,2009,Sapporo,Mito,0,1
+02.07.2009,2009,Okayama,Kumamoto,2,3
+28.06.2009,2009,Avispa Fukuoka,Verdy,1,2
+28.06.2009,2009,Kumamoto,Gifu,5,2
+28.06.2009,2009,Mito,C-Osaka,2,3
+28.06.2009,2009,Shonan,Tochigi,1,1
+28.06.2009,2009,Toyama,Okayama,1,2
+27.06.2009,2009,Ehime,Sagan Tosu,2,3
+27.06.2009,2009,Tokushima,Kofu,2,1
+27.06.2009,2009,Vegalta Sendai,Sapporo,1,1
+27.06.2009,2009,Yokohama,Kusatsu,0,2
+24.06.2009,2009,C-Osaka,Ehime,4,2
+24.06.2009,2009,Gifu,Tokushima,3,0
+24.06.2009,2009,Kofu,Avispa Fukuoka,6,0
+24.06.2009,2009,Kusatsu,Kumamoto,1,1
+24.06.2009,2009,Okayama,Mito,0,1
+24.06.2009,2009,Sagan Tosu,Toyama,0,0
+24.06.2009,2009,Sapporo,Yokohama,1,1
+24.06.2009,2009,Tochigi,Vegalta Sendai,1,2
+24.06.2009,2009,Verdy,Shonan,2,1
+21.06.2009,2009,Kumamoto,Tochigi,2,0
+21.06.2009,2009,Mito,Kusatsu,2,1
+21.06.2009,2009,Okayama,Gifu,0,0
+21.06.2009,2009,Sagan Tosu,C-Osaka,2,0
+21.06.2009,2009,Shonan,Sapporo,3,2
+21.06.2009,2009,Toyama,Kofu,1,1
+21.06.2009,2009,Vegalta Sendai,Verdy,2,2
+20.06.2009,2009,Ehime,Avispa Fukuoka,3,0
+20.06.2009,2009,Tokushima,Yokohama,2,0
+14.06.2009,2009,C-Osaka,Toyama,2,3
+14.06.2009,2009,Gifu,Shonan,2,2
+14.06.2009,2009,Kofu,Kumamoto,4,1
+14.06.2009,2009,Sapporo,Tokushima,1,1
+14.06.2009,2009,Tochigi,Sagan Tosu,0,5
+14.06.2009,2009,Verdy,Mito,0,0
+14.06.2009,2009,Yokohama,Okayama,1,0
+13.06.2009,2009,Avispa Fukuoka,Vegalta Sendai,1,0
+13.06.2009,2009,Kusatsu,Ehime,2,2
+09.06.2009,2009,Ehime,Shonan,2,4
+07.06.2009,2009,Avispa Fukuoka,Kusatsu,1,2
+07.06.2009,2009,Kumamoto,Yokohama,1,1
+07.06.2009,2009,Mito,Kofu,0,1
+07.06.2009,2009,Okayama,C-Osaka,0,2
+07.06.2009,2009,Sapporo,Sagan Tosu,1,2
+07.06.2009,2009,Tokushima,Tochigi,2,1
+07.06.2009,2009,Toyama,Verdy,0,3
+07.06.2009,2009,Vegalta Sendai,Gifu,2,0
+03.06.2009,2009,C-Osaka,Verdy,2,2
+03.06.2009,2009,Gifu,Mito,1,1
+03.06.2009,2009,Kofu,Ehime,3,0
+03.06.2009,2009,Kusatsu,Toyama,0,0
+03.06.2009,2009,Sagan Tosu,Tokushima,0,2
+03.06.2009,2009,Shonan,Kumamoto,3,3
+03.06.2009,2009,Tochigi,Sapporo,0,1
+03.06.2009,2009,Vegalta Sendai,Okayama,1,0
+03.06.2009,2009,Yokohama,Avispa Fukuoka,0,1
+30.05.2009,2009,Avispa Fukuoka,Gifu,0,1
+30.05.2009,2009,Ehime,Yokohama,0,3
+30.05.2009,2009,Kumamoto,Sagan Tosu,1,2
+30.05.2009,2009,Mito,Vegalta Sendai,0,5
+30.05.2009,2009,Okayama,Shonan,0,1
+30.05.2009,2009,Sapporo,Kofu,0,0
+28.05.2009,2009,Tokushima,C-Osaka,2,2
+28.05.2009,2009,Toyama,Tochigi,0,1
+28.05.2009,2009,Verdy,Kusatsu,0,3
+24.05.2009,2009,Gifu,Kumamoto,1,0
+24.05.2009,2009,Okayama,Kusatsu,0,3
+24.05.2009,2009,Sagan Tosu,Ehime,0,2
+24.05.2009,2009,Sapporo,Verdy,1,1
+24.05.2009,2009,Tochigi,Mito,2,3
+23.05.2009,2009,C-Osaka,Avispa Fukuoka,4,1
+23.05.2009,2009,Kofu,Tokushima,3,1
+23.05.2009,2009,Shonan,Toyama,5,0
+23.05.2009,2009,Vegalta Sendai,Yokohama,2,1
+20.05.2009,2009,Avispa Fukuoka,Kofu,2,4
+20.05.2009,2009,Ehime,Vegalta Sendai,2,1
+20.05.2009,2009,Kumamoto,C-Osaka,0,3
+20.05.2009,2009,Kusatsu,Tochigi,0,1
+20.05.2009,2009,Mito,Sapporo,0,0
+20.05.2009,2009,Tokushima,Shonan,0,0
+20.05.2009,2009,Toyama,Sagan Tosu,0,0
+20.05.2009,2009,Verdy,Okayama,3,0
+20.05.2009,2009,Yokohama,Gifu,1,1
+17.05.2009,2009,C-Osaka,Mito,5,3
+17.05.2009,2009,Kofu,Toyama,1,2
+17.05.2009,2009,Okayama,Ehime,1,3
+17.05.2009,2009,Sagan Tosu,Yokohama,1,0
+17.05.2009,2009,Shonan,Kusatsu,1,1
+17.05.2009,2009,Tochigi,Kumamoto,1,1
+17.05.2009,2009,Verdy,Avispa Fukuoka,0,0
+16.05.2009,2009,Sapporo,Gifu,3,0
+16.05.2009,2009,Vegalta Sendai,Tokushima,2,2
+10.05.2009,2009,Avispa Fukuoka,Sagan Tosu,0,0
+10.05.2009,2009,Kumamoto,Kofu,0,1
+10.05.2009,2009,Tokushima,Sapporo,3,3
+10.05.2009,2009,Toyama,Vegalta Sendai,0,3
+10.05.2009,2009,Yokohama,Tochigi,1,2
+09.05.2009,2009,Ehime,Verdy,0,1
+09.05.2009,2009,Gifu,Okayama,4,0
+09.05.2009,2009,Kusatsu,C-Osaka,2,4
+09.05.2009,2009,Mito,Shonan,1,5
+05.05.2009,2009,C-Osaka,Gifu,1,0
+05.05.2009,2009,Kofu,Mito,1,1
+05.05.2009,2009,Okayama,Tokushima,1,0
+05.05.2009,2009,Sagan Tosu,Kusatsu,4,2
+05.05.2009,2009,Sapporo,Tochigi,3,2
+05.05.2009,2009,Shonan,Ehime,1,0
+05.05.2009,2009,Toyama,Kumamoto,1,0
+05.05.2009,2009,Vegalta Sendai,Avispa Fukuoka,3,1
+05.05.2009,2009,Verdy,Yokohama,2,1
+02.05.2009,2009,Avispa Fukuoka,Sapporo,0,0
+02.05.2009,2009,Ehime,Kofu,2,0
+02.05.2009,2009,Gifu,Verdy,0,0
+02.05.2009,2009,Kumamoto,Okayama,1,1
+02.05.2009,2009,Kusatsu,Vegalta Sendai,0,3
+02.05.2009,2009,Mito,Sagan Tosu,2,0
+02.05.2009,2009,Shonan,C-Osaka,1,0
+02.05.2009,2009,Tochigi,Toyama,0,4
+02.05.2009,2009,Yokohama,Tokushima,1,2
+29.04.2009,2009,C-Osaka,Yokohama,2,0
+29.04.2009,2009,Kofu,Shonan,1,0
+29.04.2009,2009,Okayama,Avispa Fukuoka,1,0
+29.04.2009,2009,Sagan Tosu,Tochigi,2,2
+29.04.2009,2009,Sapporo,Ehime,3,2
+29.04.2009,2009,Tokushima,Kusatsu,1,3
+29.04.2009,2009,Toyama,Gifu,3,0
+29.04.2009,2009,Vegalta Sendai,Mito,2,1
+29.04.2009,2009,Verdy,Kumamoto,2,4
+26.04.2009,2009,Avispa Fukuoka,Shonan,0,3
+26.04.2009,2009,Kumamoto,Vegalta Sendai,0,3
+26.04.2009,2009,Mito,Okayama,4,3
+26.04.2009,2009,Tochigi,Kofu,3,3
+26.04.2009,2009,Toyama,C-Osaka,0,0
+26.04.2009,2009,Yokohama,Sapporo,0,1
+25.04.2009,2009,Ehime,Tokushima,0,2
+25.04.2009,2009,Gifu,Sagan Tosu,0,1
+25.04.2009,2009,Kusatsu,Verdy,0,2
+19.04.2009,2009,Kofu,Verdy,2,1
+19.04.2009,2009,Mito,Yokohama,0,1
+19.04.2009,2009,Okayama,Toyama,1,2
+19.04.2009,2009,Sagan Tosu,Kumamoto,0,1
+19.04.2009,2009,Sapporo,C-Osaka,4,1
+19.04.2009,2009,Shonan,Gifu,2,2
+19.04.2009,2009,Tokushima,Avispa Fukuoka,2,1
+18.04.2009,2009,Ehime,Kusatsu,1,3
+18.04.2009,2009,Vegalta Sendai,Tochigi,1,0
+15.04.2009,2009,Avispa Fukuoka,Ehime,1,0
+15.04.2009,2009,C-Osaka,Okayama,4,1
+15.04.2009,2009,Gifu,Vegalta Sendai,0,2
+15.04.2009,2009,Kumamoto,Shonan,0,2
+15.04.2009,2009,Kusatsu,Sapporo,1,2
+15.04.2009,2009,Tochigi,Tokushima,0,0
+15.04.2009,2009,Toyama,Mito,1,2
+15.04.2009,2009,Verdy,Sagan Tosu,2,0
+15.04.2009,2009,Yokohama,Kofu,1,3
+12.04.2009,2009,Avispa Fukuoka,Kumamoto,1,1
+12.04.2009,2009,Okayama,Yokohama,1,1
+12.04.2009,2009,Sapporo,Toyama,1,1
+12.04.2009,2009,Vegalta Sendai,C-Osaka,1,2
+11.04.2009,2009,Ehime,Tochigi,0,0
+11.04.2009,2009,Kofu,Kusatsu,1,0
+11.04.2009,2009,Mito,Gifu,3,3
+11.04.2009,2009,Shonan,Verdy,2,0
+10.04.2009,2009,Tokushima,Sagan Tosu,1,1
+05.04.2009,2009,C-Osaka,Kofu,0,0
+05.04.2009,2009,Gifu,Avispa Fukuoka,0,2
+05.04.2009,2009,Kumamoto,Sapporo,4,0
+05.04.2009,2009,Tochigi,Okayama,1,0
+05.04.2009,2009,Toyama,Tokushima,0,1
+05.04.2009,2009,Verdy,Vegalta Sendai,1,3
+05.04.2009,2009,Yokohama,Ehime,0,0
+04.04.2009,2009,Kusatsu,Mito,2,2
+04.04.2009,2009,Sagan Tosu,Shonan,4,3
+29.03.2009,2009,Avispa Fukuoka,Yokohama,1,0
+29.03.2009,2009,Ehime,C-Osaka,0,1
+29.03.2009,2009,Kofu,Sagan Tosu,0,1
+29.03.2009,2009,Mito,Kumamoto,1,0
+29.03.2009,2009,Okayama,Sapporo,1,1
+29.03.2009,2009,Shonan,Vegalta Sendai,1,0
+29.03.2009,2009,Tokushima,Gifu,3,1
+29.03.2009,2009,Toyama,Kusatsu,1,0
+29.03.2009,2009,Verdy,Tochigi,1,0
+25.03.2009,2009,C-Osaka,Tokushima,2,1
+25.03.2009,2009,Gifu,Kusatsu,1,0
+25.03.2009,2009,Kumamoto,Ehime,1,1
+25.03.2009,2009,Mito,Verdy,2,0
+25.03.2009,2009,Sagan Tosu,Okayama,0,0
+25.03.2009,2009,Sapporo,Shonan,0,1
+25.03.2009,2009,Tochigi,Avispa Fukuoka,0,2
+25.03.2009,2009,Vegalta Sendai,Kofu,0,1
+25.03.2009,2009,Yokohama,Toyama,0,0
+22.03.2009,2009,Avispa Fukuoka,Mito,1,2
+22.03.2009,2009,C-Osaka,Tochigi,1,0
+22.03.2009,2009,Kofu,Sapporo,2,1
+22.03.2009,2009,Kusatsu,Yokohama,3,2
+22.03.2009,2009,Verdy,Toyama,1,0
+21.03.2009,2009,Ehime,Gifu,3,0
+21.03.2009,2009,Shonan,Okayama,2,1
+21.03.2009,2009,Tokushima,Kumamoto,3,0
+21.03.2009,2009,Vegalta Sendai,Sagan Tosu,1,0
+15.03.2009,2009,Gifu,Kofu,0,1
+15.03.2009,2009,Kusatsu,Avispa Fukuoka,3,2
+15.03.2009,2009,Okayama,Vegalta Sendai,0,0
+15.03.2009,2009,Sagan Tosu,Sapporo,1,2
+15.03.2009,2009,Tochigi,Shonan,0,1
+15.03.2009,2009,Toyama,Ehime,1,2
+15.03.2009,2009,Verdy,C-Osaka,1,2
+14.03.2009,2009,Mito,Tokushima,1,0
+14.03.2009,2009,Yokohama,Kumamoto,1,2
+08.03.2009,2009,C-Osaka,Sagan Tosu,4,1
+08.03.2009,2009,Ehime,Mito,3,1
+08.03.2009,2009,Kumamoto,Kusatsu,1,2
+08.03.2009,2009,Okayama,Kofu,0,0
+08.03.2009,2009,Sapporo,Vegalta Sendai,0,1
+08.03.2009,2009,Shonan,Yokohama,2,1
+08.03.2009,2009,Tochigi,Gifu,0,1
+07.03.2009,2009,Avispa Fukuoka,Toyama,0,0
+07.03.2009,2009,Tokushima,Verdy,0,0

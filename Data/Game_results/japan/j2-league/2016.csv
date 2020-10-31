@@ -1,0 +1,463 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+20.11.2016,2016,C-Osaka,Kumamoto,1,0
+20.11.2016,2016,Ehime,Machida,0,1
+20.11.2016,2016,Gifu,Verdy,4,2
+20.11.2016,2016,Kamatamare,Chiba,1,1
+20.11.2016,2016,Mito,Renofa Yamaguchi,0,2
+20.11.2016,2016,Montedio Yamagata,Giravanz Kitakyushu,3,0
+20.11.2016,2016,Okayama,Kusatsu,3,3
+20.11.2016,2016,Sapporo,Kanazawa,0,0
+20.11.2016,2016,Tokushima,Shimizu,1,2
+20.11.2016,2016,V-Varen Nagasaki,Kyoto,0,2
+20.11.2016,2016,Yamaga,Yokohama,3,2
+12.11.2016,2016,Chiba,Sapporo,1,2
+12.11.2016,2016,Giravanz Kitakyushu,Mito,2,2
+12.11.2016,2016,Kumamoto,Gifu,1,0
+12.11.2016,2016,Kusatsu,Tokushima,0,3
+12.11.2016,2016,Kyoto,Ehime,0,1
+12.11.2016,2016,Machida,Yamaga,2,1
+12.11.2016,2016,Renofa Yamaguchi,Montedio Yamagata,2,2
+12.11.2016,2016,Shimizu,Okayama,2,1
+12.11.2016,2016,Verdy,C-Osaka,1,2
+12.11.2016,2016,V-Varen Nagasaki,Kamatamare,1,2
+12.11.2016,2016,Yokohama,Kanazawa,0,0
+06.11.2016,2016,C-Osaka,Ehime,1,0
+06.11.2016,2016,Gifu,Yokohama,2,0
+06.11.2016,2016,Giravanz Kitakyushu,Machida,1,3
+06.11.2016,2016,Kamatamare,Shimizu,1,2
+06.11.2016,2016,Kanazawa,Chiba,1,2
+06.11.2016,2016,Kumamoto,Kyoto,1,2
+06.11.2016,2016,Kusatsu,Renofa Yamaguchi,2,0
+06.11.2016,2016,Montedio Yamagata,V-Varen Nagasaki,1,0
+06.11.2016,2016,Okayama,Mito,1,2
+06.11.2016,2016,Tokushima,Sapporo,2,1
+06.11.2016,2016,Yamaga,Verdy,2,0
+03.11.2016,2016,Chiba,C-Osaka,3,0
+03.11.2016,2016,Ehime,Kanazawa,3,1
+03.11.2016,2016,Gifu,Kusatsu,2,1
+03.11.2016,2016,Machida,Okayama,1,1
+03.11.2016,2016,Mito,Tokushima,0,3
+03.11.2016,2016,Sapporo,Kamatamare,4,1
+03.11.2016,2016,Shimizu,Kyoto,4,1
+03.11.2016,2016,Verdy,Renofa Yamaguchi,2,2
+03.11.2016,2016,V-Varen Nagasaki,Giravanz Kitakyushu,0,0
+03.11.2016,2016,Yamaga,Kumamoto,1,0
+03.11.2016,2016,Yokohama,Montedio Yamagata,2,1
+30.10.2016,2016,Chiba,V-Varen Nagasaki,0,0
+30.10.2016,2016,C-Osaka,Mito,2,2
+30.10.2016,2016,Giravanz Kitakyushu,Gifu,2,1
+30.10.2016,2016,Kanazawa,Tokushima,0,0
+30.10.2016,2016,Kumamoto,Sapporo,2,0
+30.10.2016,2016,Kyoto,Okayama,2,0
+30.10.2016,2016,Machida,Kamatamare,0,1
+30.10.2016,2016,Montedio Yamagata,Yamaga,0,1
+30.10.2016,2016,Renofa Yamaguchi,Yokohama,0,2
+30.10.2016,2016,Verdy,Ehime,1,1
+29.10.2016,2016,Kusatsu,Shimizu,0,4
+23.10.2016,2016,C-Osaka,Montedio Yamagata,2,2
+23.10.2016,2016,Kamatamare,Kumamoto,0,0
+23.10.2016,2016,Mito,Kyoto,1,1
+23.10.2016,2016,Okayama,Kanazawa,1,2
+23.10.2016,2016,Shimizu,Giravanz Kitakyushu,2,0
+23.10.2016,2016,Tokushima,Chiba,1,0
+23.10.2016,2016,V-Varen Nagasaki,Renofa Yamaguchi,2,1
+23.10.2016,2016,Yamaga,Ehime,1,1
+23.10.2016,2016,Yokohama,Kusatsu,3,2
+22.10.2016,2016,Gifu,Machida,1,2
+22.10.2016,2016,Sapporo,Verdy,1,2
+16.10.2016,2016,Chiba,Yamaga,0,3
+16.10.2016,2016,Ehime,Sapporo,2,2
+16.10.2016,2016,Giravanz Kitakyushu,Kamatamare,3,0
+16.10.2016,2016,Kanazawa,Shimizu,0,3
+16.10.2016,2016,Kusatsu,V-Varen Nagasaki,3,0
+16.10.2016,2016,Kyoto,Gifu,1,0
+16.10.2016,2016,Machida,Kumamoto,1,0
+16.10.2016,2016,Mito,Yokohama,1,1
+16.10.2016,2016,Montedio Yamagata,Verdy,1,0
+16.10.2016,2016,Okayama,C-Osaka,1,1
+16.10.2016,2016,Renofa Yamaguchi,Tokushima,2,1
+08.10.2016,2016,Chiba,Kyoto,0,3
+08.10.2016,2016,C-Osaka,Gifu,3,2
+08.10.2016,2016,Kanazawa,Renofa Yamaguchi,1,0
+08.10.2016,2016,Kumamoto,Kusatsu,1,1
+08.10.2016,2016,Montedio Yamagata,Ehime,2,2
+08.10.2016,2016,Sapporo,Mito,1,0
+08.10.2016,2016,Shimizu,Machida,2,0
+08.10.2016,2016,Tokushima,Kamatamare,0,0
+08.10.2016,2016,Verdy,Giravanz Kitakyushu,1,1
+08.10.2016,2016,Yamaga,Okayama,1,1
+08.10.2016,2016,Yokohama,V-Varen Nagasaki,2,2
+02.10.2016,2016,C-Osaka,Shimizu,1,2
+02.10.2016,2016,Ehime,Yokohama,3,0
+02.10.2016,2016,Gifu,Okayama,0,5
+02.10.2016,2016,Giravanz Kitakyushu,Sapporo,0,0
+02.10.2016,2016,Kamatamare,Yamaga,2,4
+02.10.2016,2016,Kusatsu,Chiba,2,1
+02.10.2016,2016,Kyoto,Kanazawa,0,0
+02.10.2016,2016,Machida,Verdy,2,1
+02.10.2016,2016,Mito,Montedio Yamagata,1,0
+02.10.2016,2016,Renofa Yamaguchi,Kumamoto,0,2
+02.10.2016,2016,V-Varen Nagasaki,Tokushima,1,2
+26.09.2016,2016,Sapporo,Machida,3,2
+25.09.2016,2016,Ehime,Mito,1,1
+25.09.2016,2016,Kamatamare,Yokohama,1,0
+25.09.2016,2016,Kanazawa,Kusatsu,3,1
+25.09.2016,2016,Kumamoto,Montedio Yamagata,0,0
+25.09.2016,2016,Kyoto,Giravanz Kitakyushu,0,0
+25.09.2016,2016,Okayama,V-Varen Nagasaki,0,0
+25.09.2016,2016,Renofa Yamaguchi,Gifu,2,3
+25.09.2016,2016,Tokushima,C-Osaka,0,1
+25.09.2016,2016,Verdy,Chiba,1,1
+25.09.2016,2016,Yamaga,Shimizu,1,0
+18.09.2016,2016,Chiba,Renofa Yamaguchi,1,1
+18.09.2016,2016,Gifu,Ehime,2,1
+18.09.2016,2016,Giravanz Kitakyushu,C-Osaka,0,1
+18.09.2016,2016,Kanazawa,Machida,1,2
+18.09.2016,2016,Kumamoto,Okayama,0,0
+18.09.2016,2016,Kusatsu,Yamaga,1,1
+18.09.2016,2016,Montedio Yamagata,Tokushima,2,1
+18.09.2016,2016,Shimizu,Mito,2,1
+18.09.2016,2016,Verdy,Kamatamare,3,2
+18.09.2016,2016,V-Varen Nagasaki,Sapporo,0,0
+18.09.2016,2016,Yokohama,Kyoto,2,0
+11.09.2016,2016,C-Osaka,V-Varen Nagasaki,2,0
+11.09.2016,2016,Ehime,Kumamoto,1,0
+11.09.2016,2016,Gifu,Chiba,0,2
+11.09.2016,2016,Giravanz Kitakyushu,Tokushima,0,1
+11.09.2016,2016,Kamatamare,Kanazawa,1,1
+11.09.2016,2016,Machida,Yokohama,1,1
+11.09.2016,2016,Mito,Verdy,1,1
+11.09.2016,2016,Okayama,Renofa Yamaguchi,1,0
+11.09.2016,2016,Sapporo,Kusatsu,3,1
+11.09.2016,2016,Shimizu,Montedio Yamagata,3,1
+11.09.2016,2016,Yamaga,Kyoto,2,0
+07.09.2016,2016,Kumamoto,Yokohama,0,1
+07.09.2016,2016,V-Varen Nagasaki,Mito,1,1
+31.08.2016,2016,Kumamoto,Ehime,1,2
+25.08.2016,2016,Sapporo,Kumamoto,1,0
+21.08.2016,2016,Chiba,Okayama,2,0
+21.08.2016,2016,Kanazawa,C-Osaka,1,3
+21.08.2016,2016,Kumamoto,Giravanz Kitakyushu,1,6
+21.08.2016,2016,Kyoto,Sapporo,0,0
+21.08.2016,2016,Machida,Kusatsu,0,0
+21.08.2016,2016,Mito,Kamatamare,3,2
+21.08.2016,2016,Montedio Yamagata,Gifu,1,1
+21.08.2016,2016,Renofa Yamaguchi,Yamaga,0,0
+21.08.2016,2016,Tokushima,Verdy,3,1
+21.08.2016,2016,V-Varen Nagasaki,Ehime,1,1
+21.08.2016,2016,Yokohama,Shimizu,0,2
+15.08.2016,2016,Kusatsu,Mito,2,1
+14.08.2016,2016,C-Osaka,Yamaga,0,1
+14.08.2016,2016,Gifu,Tokushima,1,1
+14.08.2016,2016,Giravanz Kitakyushu,Ehime,1,1
+14.08.2016,2016,Kumamoto,Chiba,3,0
+14.08.2016,2016,Kyoto,Machida,1,0
+14.08.2016,2016,Okayama,Kamatamare,3,1
+14.08.2016,2016,Sapporo,Montedio Yamagata,3,1
+14.08.2016,2016,Shimizu,Renofa Yamaguchi,2,2
+14.08.2016,2016,Verdy,Yokohama,0,2
+14.08.2016,2016,V-Varen Nagasaki,Kanazawa,0,0
+11.08.2016,2016,Ehime,Okayama,1,1
+11.08.2016,2016,Giravanz Kitakyushu,Chiba,0,2
+11.08.2016,2016,Kamatamare,Kusatsu,1,3
+11.08.2016,2016,Mito,Kumamoto,1,1
+11.08.2016,2016,Montedio Yamagata,Kyoto,0,0
+11.08.2016,2016,Renofa Yamaguchi,C-Osaka,0,2
+11.08.2016,2016,Shimizu,V-Varen Nagasaki,2,0
+11.08.2016,2016,Tokushima,Machida,1,1
+11.08.2016,2016,Verdy,Kanazawa,4,1
+11.08.2016,2016,Yamaga,Gifu,1,1
+11.08.2016,2016,Yokohama,Sapporo,1,0
+07.08.2016,2016,Chiba,Ehime,0,0
+07.08.2016,2016,C-Osaka,Yokohama,2,3
+07.08.2016,2016,Gifu,Kamatamare,1,1
+07.08.2016,2016,Kanazawa,Giravanz Kitakyushu,1,1
+07.08.2016,2016,Kumamoto,V-Varen Nagasaki,1,2
+07.08.2016,2016,Kusatsu,Montedio Yamagata,2,0
+07.08.2016,2016,Kyoto,Verdy,2,0
+07.08.2016,2016,Machida,Renofa Yamaguchi,2,3
+07.08.2016,2016,Okayama,Tokushima,1,0
+07.08.2016,2016,Sapporo,Shimizu,3,2
+07.08.2016,2016,Yamaga,Mito,0,0
+31.07.2016,2016,Ehime,Kusatsu,1,0
+31.07.2016,2016,Giravanz Kitakyushu,Okayama,1,3
+31.07.2016,2016,Kamatamare,Montedio Yamagata,2,1
+31.07.2016,2016,Kyoto,C-Osaka,3,3
+31.07.2016,2016,Mito,Kanazawa,3,0
+31.07.2016,2016,Renofa Yamaguchi,Sapporo,1,2
+31.07.2016,2016,Shimizu,Gifu,2,0
+31.07.2016,2016,Tokushima,Yamaga,2,2
+31.07.2016,2016,Verdy,Kumamoto,1,0
+31.07.2016,2016,V-Varen Nagasaki,Machida,1,0
+31.07.2016,2016,Yokohama,Chiba,2,1
+25.07.2016,2016,Sapporo,Gifu,5,0
+24.07.2016,2016,Chiba,Shimizu,3,4
+24.07.2016,2016,Kamatamare,C-Osaka,2,1
+24.07.2016,2016,Kanazawa,Kumamoto,0,0
+24.07.2016,2016,Machida,Mito,3,3
+24.07.2016,2016,Montedio Yamagata,Okayama,0,1
+24.07.2016,2016,Renofa Yamaguchi,Kyoto,1,1
+24.07.2016,2016,Tokushima,Ehime,2,0
+24.07.2016,2016,Verdy,Kusatsu,1,2
+24.07.2016,2016,Yamaga,V-Varen Nagasaki,1,0
+24.07.2016,2016,Yokohama,Giravanz Kitakyushu,2,2
+20.07.2016,2016,C-Osaka,Machida,1,3
+20.07.2016,2016,Ehime,Renofa Yamaguchi,1,1
+20.07.2016,2016,Gifu,Kanazawa,0,1
+20.07.2016,2016,Kumamoto,Tokushima,1,0
+20.07.2016,2016,Kusatsu,Giravanz Kitakyushu,2,2
+20.07.2016,2016,Kyoto,Kamatamare,1,0
+20.07.2016,2016,Mito,V-Varen Nagasaki,0,2
+20.07.2016,2016,Montedio Yamagata,Chiba,1,1
+20.07.2016,2016,Okayama,Yokohama,0,1
+20.07.2016,2016,Sapporo,Yamaga,1,0
+20.07.2016,2016,Shimizu,Verdy,0,1
+16.07.2016,2016,Ehime,Shimizu,2,2
+16.07.2016,2016,Giravanz Kitakyushu,Yamaga,1,2
+16.07.2016,2016,Kamatamare,Renofa Yamaguchi,0,2
+16.07.2016,2016,Kanazawa,Montedio Yamagata,1,0
+16.07.2016,2016,Kusatsu,C-Osaka,0,2
+16.07.2016,2016,Machida,Chiba,2,3
+16.07.2016,2016,Mito,Gifu,1,0
+16.07.2016,2016,Okayama,Sapporo,0,0
+16.07.2016,2016,Tokushima,Kyoto,2,1
+16.07.2016,2016,V-Varen Nagasaki,Verdy,2,1
+16.07.2016,2016,Yokohama,Kumamoto,1,1
+10.07.2016,2016,Chiba,Mito,0,1
+10.07.2016,2016,Kamatamare,Ehime,1,1
+10.07.2016,2016,Kyoto,Kusatsu,0,0
+10.07.2016,2016,Machida,Montedio Yamagata,2,1
+10.07.2016,2016,Renofa Yamaguchi,Giravanz Kitakyushu,5,1
+10.07.2016,2016,Shimizu,Kumamoto,4,0
+10.07.2016,2016,Verdy,Okayama,2,1
+10.07.2016,2016,V-Varen Nagasaki,Gifu,2,1
+10.07.2016,2016,Yamaga,Kanazawa,4,2
+10.07.2016,2016,Yokohama,Tokushima,0,2
+09.07.2016,2016,C-Osaka,Sapporo,0,0
+06.07.2016,2016,Montedio Yamagata,Kumamoto,4,1
+03.07.2016,2016,Ehime,Chiba,2,1
+03.07.2016,2016,Gifu,Kyoto,0,1
+03.07.2016,2016,Giravanz Kitakyushu,Verdy,2,1
+03.07.2016,2016,Kanazawa,Kamatamare,0,0
+03.07.2016,2016,Kumamoto,C-Osaka,1,5
+03.07.2016,2016,Kusatsu,Machida,2,2
+03.07.2016,2016,Mito,Yamaga,2,3
+03.07.2016,2016,Montedio Yamagata,Renofa Yamaguchi,2,1
+03.07.2016,2016,Okayama,Shimizu,2,2
+03.07.2016,2016,Sapporo,Yokohama,5,2
+03.07.2016,2016,Tokushima,V-Varen Nagasaki,0,0
+29.06.2016,2016,Kyoto,Kumamoto,1,1
+26.06.2016,2016,Chiba,Giravanz Kitakyushu,1,2
+26.06.2016,2016,C-Osaka,Verdy,1,0
+26.06.2016,2016,Ehime,V-Varen Nagasaki,0,1
+26.06.2016,2016,Gifu,Kumamoto,2,3
+26.06.2016,2016,Kamatamare,Okayama,0,1
+26.06.2016,2016,Kusatsu,Sapporo,0,1
+26.06.2016,2016,Kyoto,Yamaga,1,2
+26.06.2016,2016,Montedio Yamagata,Mito,2,2
+26.06.2016,2016,Renofa Yamaguchi,Shimizu,0,4
+26.06.2016,2016,Tokushima,Kanazawa,0,1
+26.06.2016,2016,Yokohama,Machida,1,0
+20.06.2016,2016,Kanazawa,Okayama,1,1
+19.06.2016,2016,C-Osaka,Tokushima,3,2
+19.06.2016,2016,Kumamoto,Kamatamare,2,0
+19.06.2016,2016,Machida,Ehime,0,1
+19.06.2016,2016,Renofa Yamaguchi,Mito,1,0
+19.06.2016,2016,Sapporo,Giravanz Kitakyushu,1,0
+19.06.2016,2016,Shimizu,Chiba,1,1
+19.06.2016,2016,Verdy,Kyoto,2,1
+19.06.2016,2016,V-Varen Nagasaki,Kusatsu,2,2
+19.06.2016,2016,Yamaga,Montedio Yamagata,1,0
+19.06.2016,2016,Yokohama,Gifu,1,2
+13.06.2016,2016,Sapporo,V-Varen Nagasaki,2,1
+12.06.2016,2016,Chiba,Verdy,2,2
+12.06.2016,2016,Ehime,Tokushima,0,2
+12.06.2016,2016,Gifu,C-Osaka,0,1
+12.06.2016,2016,Giravanz Kitakyushu,Kanazawa,3,2
+12.06.2016,2016,Kusatsu,Kumamoto,1,1
+12.06.2016,2016,Kyoto,Renofa Yamaguchi,3,0
+12.06.2016,2016,Mito,Machida,2,2
+12.06.2016,2016,Montedio Yamagata,Kamatamare,2,1
+12.06.2016,2016,Okayama,Yamaga,2,1
+12.06.2016,2016,Shimizu,Yokohama,3,0
+08.06.2016,2016,Chiba,Montedio Yamagata,3,0
+08.06.2016,2016,Giravanz Kitakyushu,Kusatsu,0,3
+08.06.2016,2016,Kamatamare,Kyoto,1,3
+08.06.2016,2016,Kumamoto,Kanazawa,5,2
+08.06.2016,2016,Machida,Shimizu,1,2
+08.06.2016,2016,Renofa Yamaguchi,Ehime,1,1
+08.06.2016,2016,Tokushima,Okayama,2,3
+08.06.2016,2016,Verdy,Gifu,1,1
+08.06.2016,2016,V-Varen Nagasaki,C-Osaka,1,2
+08.06.2016,2016,Yamaga,Sapporo,3,2
+08.06.2016,2016,Yokohama,Mito,1,1
+04.06.2016,2016,C-Osaka,Kamatamare,2,3
+04.06.2016,2016,Gifu,V-Varen Nagasaki,2,4
+04.06.2016,2016,Kanazawa,Kyoto,1,1
+04.06.2016,2016,Kusatsu,Ehime,1,2
+04.06.2016,2016,Machida,Tokushima,1,0
+04.06.2016,2016,Mito,Shimizu,0,0
+04.06.2016,2016,Montedio Yamagata,Yokohama,0,0
+04.06.2016,2016,Okayama,Kumamoto,2,1
+04.06.2016,2016,Renofa Yamaguchi,Verdy,3,1
+04.06.2016,2016,Sapporo,Chiba,2,2
+04.06.2016,2016,Yamaga,Giravanz Kitakyushu,2,1
+29.05.2016,2016,Ehime,Verdy,0,0
+29.05.2016,2016,Kanazawa,Yamaga,0,2
+28.05.2016,2016,C-Osaka,Okayama,2,1
+28.05.2016,2016,Gifu,Montedio Yamagata,0,1
+28.05.2016,2016,Kamatamare,Mito,1,1
+28.05.2016,2016,Kumamoto,Machida,0,2
+28.05.2016,2016,Kyoto,Yokohama,1,0
+28.05.2016,2016,Sapporo,Renofa Yamaguchi,3,1
+28.05.2016,2016,Shimizu,Kusatsu,8,0
+28.05.2016,2016,Tokushima,Giravanz Kitakyushu,1,0
+28.05.2016,2016,V-Varen Nagasaki,Chiba,1,1
+22.05.2016,2016,Chiba,Gifu,3,2
+22.05.2016,2016,Giravanz Kitakyushu,Kyoto,1,2
+22.05.2016,2016,Kamatamare,Sapporo,0,1
+22.05.2016,2016,Kumamoto,Mito,0,1
+22.05.2016,2016,Montedio Yamagata,Kanazawa,0,0
+22.05.2016,2016,Okayama,Ehime,2,1
+22.05.2016,2016,Renofa Yamaguchi,V-Varen Nagasaki,0,3
+22.05.2016,2016,Tokushima,Kusatsu,1,1
+22.05.2016,2016,Verdy,Shimizu,2,1
+22.05.2016,2016,Yamaga,Machida,1,0
+22.05.2016,2016,Yokohama,C-Osaka,1,1
+18.05.2016,2016,Kanazawa,Ehime,2,1
+15.05.2016,2016,Chiba,Kumamoto,2,0
+15.05.2016,2016,C-Osaka,Renofa Yamaguchi,2,4
+15.05.2016,2016,Ehime,Kyoto,0,1
+15.05.2016,2016,Kanazawa,Verdy,1,1
+15.05.2016,2016,Kusatsu,Yokohama,3,1
+15.05.2016,2016,Machida,Giravanz Kitakyushu,0,1
+15.05.2016,2016,Mito,Sapporo,0,1
+15.05.2016,2016,Okayama,Gifu,0,1
+15.05.2016,2016,Shimizu,Tokushima,0,1
+15.05.2016,2016,V-Varen Nagasaki,Montedio Yamagata,1,1
+15.05.2016,2016,Yamaga,Kamatamare,0,0
+08.05.2016,2016,Gifu,Shimizu,1,1
+07.05.2016,2016,Ehime,C-Osaka,0,0
+07.05.2016,2016,Kamatamare,Machida,0,1
+07.05.2016,2016,Kyoto,Chiba,1,1
+07.05.2016,2016,Mito,Giravanz Kitakyushu,1,1
+07.05.2016,2016,Montedio Yamagata,Kusatsu,3,1
+07.05.2016,2016,Renofa Yamaguchi,Kanazawa,0,1
+07.05.2016,2016,Tokushima,Yokohama,0,3
+07.05.2016,2016,Verdy,Yamaga,0,4
+07.05.2016,2016,V-Varen Nagasaki,Okayama,0,3
+03.05.2016,2016,Chiba,Kamatamare,1,1
+03.05.2016,2016,Giravanz Kitakyushu,V-Varen Nagasaki,2,2
+03.05.2016,2016,Kanazawa,Sapporo,0,1
+03.05.2016,2016,Kyoto,Shimizu,2,1
+03.05.2016,2016,Machida,Gifu,1,1
+03.05.2016,2016,Renofa Yamaguchi,Kusatsu,2,0
+03.05.2016,2016,Tokushima,Mito,1,0
+03.05.2016,2016,Verdy,Montedio Yamagata,0,1
+03.05.2016,2016,Yamaga,C-Osaka,0,1
+03.05.2016,2016,Yokohama,Okayama,0,2
+29.04.2016,2016,C-Osaka,Kyoto,0,2
+29.04.2016,2016,Ehime,Yamaga,0,0
+29.04.2016,2016,Gifu,Renofa Yamaguchi,1,2
+29.04.2016,2016,Kamatamare,Giravanz Kitakyushu,1,1
+29.04.2016,2016,Kusatsu,Verdy,2,2
+29.04.2016,2016,Mito,Chiba,1,0
+29.04.2016,2016,Okayama,Machida,2,2
+29.04.2016,2016,Sapporo,Tokushima,1,0
+29.04.2016,2016,Shimizu,Kanazawa,4,1
+29.04.2016,2016,V-Varen Nagasaki,Yokohama,1,3
+23.04.2016,2016,Ehime,Kamatamare,1,0
+23.04.2016,2016,Giravanz Kitakyushu,Shimizu,1,2
+23.04.2016,2016,Kanazawa,Gifu,1,2
+23.04.2016,2016,Kyoto,Tokushima,0,1
+23.04.2016,2016,Machida,V-Varen Nagasaki,1,0
+23.04.2016,2016,Okayama,Montedio Yamagata,0,1
+23.04.2016,2016,Renofa Yamaguchi,Chiba,4,2
+23.04.2016,2016,Sapporo,C-Osaka,1,0
+23.04.2016,2016,Verdy,Mito,0,3
+23.04.2016,2016,Yamaga,Kusatsu,2,1
+17.04.2016,2016,Chiba,Machida,1,1
+17.04.2016,2016,C-Osaka,Giravanz Kitakyushu,1,1
+17.04.2016,2016,Gifu,Yamaga,0,2
+17.04.2016,2016,Montedio Yamagata,Sapporo,1,1
+17.04.2016,2016,Shimizu,Kamatamare,2,2
+17.04.2016,2016,Tokushima,Renofa Yamaguchi,1,1
+17.04.2016,2016,Yokohama,Verdy,1,1
+16.04.2016,2016,Kusatsu,Okayama,0,1
+10.04.2016,2016,Verdy,V-Varen Nagasaki,0,0
+09.04.2016,2016,Chiba,Kanazawa,1,0
+09.04.2016,2016,Giravanz Kitakyushu,Yokohama,0,4
+09.04.2016,2016,Kamatamare,Gifu,3,2
+09.04.2016,2016,Kumamoto,Renofa Yamaguchi,1,2
+09.04.2016,2016,Kusatsu,Kyoto,0,1
+09.04.2016,2016,Mito,Ehime,1,2
+09.04.2016,2016,Montedio Yamagata,Machida,0,1
+09.04.2016,2016,Sapporo,Okayama,1,0
+09.04.2016,2016,Shimizu,C-Osaka,0,2
+09.04.2016,2016,Yamaga,Tokushima,1,0
+03.04.2016,2016,C-Osaka,Chiba,2,1
+03.04.2016,2016,Ehime,Giravanz Kitakyushu,2,1
+03.04.2016,2016,Kanazawa,Yokohama,1,2
+03.04.2016,2016,Kumamoto,Shimizu,0,2
+03.04.2016,2016,Kyoto,Montedio Yamagata,3,2
+03.04.2016,2016,Machida,Sapporo,2,0
+03.04.2016,2016,Mito,Kusatsu,1,0
+03.04.2016,2016,Okayama,Verdy,1,1
+03.04.2016,2016,Renofa Yamaguchi,Kamatamare,1,0
+03.04.2016,2016,Tokushima,Gifu,1,3
+03.04.2016,2016,V-Varen Nagasaki,Yamaga,1,1
+26.03.2016,2016,Chiba,Kusatsu,0,0
+26.03.2016,2016,C-Osaka,Kanazawa,2,2
+26.03.2016,2016,Gifu,Mito,1,0
+26.03.2016,2016,Kamatamare,Tokushima,1,2
+26.03.2016,2016,Montedio Yamagata,Shimizu,0,1
+26.03.2016,2016,Okayama,Giravanz Kitakyushu,2,0
+26.03.2016,2016,Sapporo,Kyoto,3,1
+26.03.2016,2016,Verdy,Machida,0,1
+26.03.2016,2016,V-Varen Nagasaki,Kumamoto,0,2
+26.03.2016,2016,Yamaga,Renofa Yamaguchi,3,3
+26.03.2016,2016,Yokohama,Ehime,0,0
+20.03.2016,2016,Ehime,Gifu,0,3
+20.03.2016,2016,Giravanz Kitakyushu,Kumamoto,1,1
+20.03.2016,2016,Kusatsu,Kamatamare,1,2
+20.03.2016,2016,Kyoto,V-Varen Nagasaki,0,0
+20.03.2016,2016,Machida,Kanazawa,2,1
+20.03.2016,2016,Mito,Okayama,2,3
+20.03.2016,2016,Montedio Yamagata,C-Osaka,0,1
+20.03.2016,2016,Shimizu,Sapporo,0,2
+20.03.2016,2016,Verdy,Tokushima,1,0
+20.03.2016,2016,Yamaga,Chiba,0,1
+20.03.2016,2016,Yokohama,Renofa Yamaguchi,2,0
+13.03.2016,2016,Chiba,Yokohama,1,0
+13.03.2016,2016,Gifu,Giravanz Kitakyushu,1,0
+13.03.2016,2016,Kamatamare,V-Varen Nagasaki,2,2
+13.03.2016,2016,Kanazawa,Mito,0,0
+13.03.2016,2016,Kumamoto,Verdy,1,0
+13.03.2016,2016,Okayama,Kyoto,2,2
+13.03.2016,2016,Renofa Yamaguchi,Machida,0,2
+13.03.2016,2016,Sapporo,Ehime,1,1
+13.03.2016,2016,Shimizu,Yamaga,0,0
+13.03.2016,2016,Tokushima,Montedio Yamagata,2,2
+12.03.2016,2016,C-Osaka,Kusatsu,1,0
+06.03.2016,2016,Ehime,Montedio Yamagata,1,1
+06.03.2016,2016,Gifu,Sapporo,0,4
+06.03.2016,2016,Giravanz Kitakyushu,Renofa Yamaguchi,0,1
+06.03.2016,2016,Kamatamare,Verdy,2,1
+06.03.2016,2016,Kusatsu,Kanazawa,2,1
+06.03.2016,2016,Machida,Kyoto,1,1
+06.03.2016,2016,Mito,C-Osaka,0,1
+06.03.2016,2016,Okayama,Chiba,2,1
+06.03.2016,2016,Tokushima,Kumamoto,0,1
+06.03.2016,2016,V-Varen Nagasaki,Shimizu,0,3
+06.03.2016,2016,Yokohama,Yamaga,0,2
+28.02.2016,2016,Chiba,Tokushima,2,1
+28.02.2016,2016,Giravanz Kitakyushu,Montedio Yamagata,1,0
+28.02.2016,2016,Kanazawa,V-Varen Nagasaki,1,2
+28.02.2016,2016,Kumamoto,Yamaga,1,0
+28.02.2016,2016,Kusatsu,Gifu,4,0
+28.02.2016,2016,Kyoto,Mito,1,1
+28.02.2016,2016,Machida,C-Osaka,0,1
+28.02.2016,2016,Renofa Yamaguchi,Okayama,1,1
+28.02.2016,2016,Shimizu,Ehime,0,0
+28.02.2016,2016,Verdy,Sapporo,1,0
+28.02.2016,2016,Yokohama,Kamatamare,0,1

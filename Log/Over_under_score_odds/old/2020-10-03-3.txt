@@ -1,0 +1,138 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2020-10-03 10:30:51"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], New team names found. Add them in the function, Over_Under_Score_Odds_Manipulation."
+[1] "[New team names to be edited]--------------------"
+ [1] "Atalanta BC"      "Benevento Calcio" "Bologna FC"      
+ [4] "Cagliari Calcio"  "Hellas Verona"    "Inter Milano"    
+ [7] "Juventus Turin"   "Lazio Roma"       "Parma Calcio"    
+[10] "Spezia Calcio"    "SSC Napoli"       "Udinese Calcio"  
+[1] "-------------------------------------------------"
+[1] ""
+[1] "[Reference]--------------------------------------"
+ [1] "AC Milan"     "ACN Siena"    "ACR Messina" 
+ [4] "Ancona"       "AS Roma"      "Ascoli"      
+ [7] "Atalanta"     "Bari"         "Benevento"   
+[10] "Bologna"      "Brescia"      "Cagliari"    
+[13] "Carpi"        "Catania"      "Cesena"      
+[16] "Chievo"       "Como"         "Cremonese"   
+[19] "Crotone"      "Empoli"       "Fiorentina"  
+[22] "Foggia"       "Frosinone"    "Genoa"       
+[25] "Inter"        "Juventus"     "L.R. Vicenza"
+[28] "Lazio"        "Lecce"        "Livorno"     
+[31] "Modena"       "Napoli"       "Novara"      
+[34] "Padova"       "Palermo"      "Parma"       
+[37] "Perugia"      "Pescara"      "Piacenza"    
+[40] "Pisa"         "Reggiana"     "Reggina"     
+[43] "Salernitana"  "Sampdoria"    "Sassuolo"    
+[46] "Spal"         "Spezia"       "Torino"      
+[49] "Treviso"      "Udinese"      "Venezia"     
+[52] "Verona"      
+[1] "-------------------------------------------------"
+[1] "Country : [italy], League : [serie-a], calculate kelly scores"
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+         Date  League      Home_Team Away_Team
+1: 2020-10-03 serie-a Udinese Calcio   AS Roma
+                                                                             URL
+1: https://www.playnow.com/sports/sports/event/10205938/udinese-calcio-v-as-roma
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.03        13     1.22         4      1.7      2.05
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.7      1.44     4.75      1.16        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 0.5        1.03                    0.9113356 0
+   Chosen_Option_Std     Kelly         Record_Time
+1:               Inf 0.1415598 2020-10-03 10:31:45
+[1] "Country : [italy], League : [serie-a], Progress : 1 out of 7"
+[1] "Added game"
+         Date      Home_Team Away_Team
+1: 2020-10-03 Udinese Calcio   AS Roma
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+         Date  League   Home_Team       Away_Team
+1: 2020-10-04 serie-a Atalanta BC Cagliari Calcio
+                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10205935/atalanta-bc-v-cagliari-calcio
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:        0         0     1.09         7     1.33       3.2
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     1.83       1.9      2.9      1.38     4.75      1.16
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 1.5        1.09                     0.736532 0
+   Chosen_Option_Std     Kelly         Record_Time
+1:               Inf 0.3099266 2020-10-03 10:32:16
+[1] "Country : [italy], League : [serie-a], Progress : 2 out of 7"
+[1] "Added game"
+         Date   Home_Team       Away_Team
+1: 2020-10-04 Atalanta BC Cagliari Calcio
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+         Date  League        Home_Team  Away_Team
+1: 2020-10-04 serie-a Benevento Calcio Bologna FC
+                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10205991/benevento-calcio-v-bologna-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:     1.03        15     1.18       4.5     1.62       2.2
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.5       1.5     4.25       1.2        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      Over 0.5        1.03                    0.9113356 0
+   Chosen_Option_Std     Kelly         Record_Time
+1:               Inf 0.1415598 2020-10-03 10:32:53
+[1] "Country : [italy], League : [serie-a], Progress : 3 out of 7"
+[1] "Added game"
+         Date        Home_Team  Away_Team
+1: 2020-10-04 Benevento Calcio Bologna FC
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+         Date  League  Home_Team    Away_Team
+1: 2020-10-04 serie-a Lazio Roma Inter Milano
+                                                                              URL
+1: https://www.playnow.com/sports/sports/event/10205933/lazio-roma-v-inter-milano
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1:        0         0     1.15      5.25      1.5       2.5
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      2.2      1.62     3.75      1.25      6.5      1.09
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:     Under 5.5        1.09                    0.9446315 0
+   Chosen_Option_Std     Kelly         Record_Time
+1:               Inf 0.3099266 2020-10-03 10:33:24
+[1] "Country : [italy], League : [serie-a], Progress : 4 out of 7"
+[1] "Added game"
+         Date  Home_Team    Away_Team
+1: 2020-10-04 Lazio Roma Inter Milano
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], re-open the server"
+
+Selenium message:No active session with ID 2085f0e24e4a0924458359a127c00b6e
+
+Error: 	 Summary: NoSuchDriver
+ 	 Detail: A session is either terminated or not started
+	 Further Details: run errorDetails method
+In addition: Warning messages:
+1: In lapply(X = x, FUN = .Generic, ...) : NaNs produced
+2: In lapply(X = x, FUN = .Generic, ...) : NaNs produced
+3: In lapply(X = x, FUN = .Generic, ...) : NaNs produced
+4: In lapply(X = x, FUN = .Generic, ...) : NaNs produced
+5: In lapply(X = x, FUN = .Generic, ...) : NaNs produced
+[1] 2

@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+06.05.2007,2007,Burnley,Coventry,1,2
+06.05.2007,2007,Colchester,Crystal Palace,0,2
+06.05.2007,2007,Derby,Leeds,2,0
+06.05.2007,2007,Hull,Plymouth,1,2
+06.05.2007,2007,Ipswich,Cardiff,3,1
+06.05.2007,2007,Leicester,Wolves,1,4
+06.05.2007,2007,Luton,Sunderland,0,5
+06.05.2007,2007,Preston,Birmingham,1,0
+06.05.2007,2007,QPR,Stoke,1,1
+06.05.2007,2007,Sheffield Wed,Norwich,3,2
+06.05.2007,2007,Southampton,Southend,4,1
+06.05.2007,2007,West Brom,Barnsley,7,0
+29.04.2007,2007,Crystal Palace,Derby,2,0
+28.04.2007,2007,Barnsley,Leicester,0,1
+28.04.2007,2007,Birmingham,Sheffield Wed,2,0
+28.04.2007,2007,Cardiff,Hull,0,1
+28.04.2007,2007,Coventry,West Brom,0,1
+28.04.2007,2007,Leeds,Ipswich,1,1
+28.04.2007,2007,Norwich,Southampton,0,1
+28.04.2007,2007,Plymouth,Preston,2,0
+28.04.2007,2007,Southend,Luton,1,3
+28.04.2007,2007,Stoke,Colchester,3,1
+28.04.2007,2007,Wolves,QPR,2,0
+27.04.2007,2007,Sunderland,Burnley,3,2
+23.04.2007,2007,Burnley,West Brom,1,3
+22.04.2007,2007,Norwich,Ipswich,1,1
+22.04.2007,2007,Wolves,Birmingham,2,3
+21.04.2007,2007,Barnsley,Crystal Palace,2,0
+21.04.2007,2007,Colchester,Sunderland,3,1
+21.04.2007,2007,Plymouth,Southend,2,1
+21.04.2007,2007,Preston,Leicester,0,1
+21.04.2007,2007,QPR,Cardiff,1,0
+21.04.2007,2007,Sheffield Wed,Coventry,2,1
+21.04.2007,2007,Southampton,Leeds,1,0
+21.04.2007,2007,Stoke,Hull,1,1
+20.04.2007,2007,Derby,Luton,1,0
+17.04.2007,2007,Burnley,Norwich,3,0
+17.04.2007,2007,Leicester,Birmingham,1,2
+14.04.2007,2007,Birmingham,Southampton,2,1
+14.04.2007,2007,Cardiff,Stoke,1,1
+14.04.2007,2007,Coventry,Preston,0,4
+14.04.2007,2007,Crystal Palace,Wolves,2,2
+14.04.2007,2007,Hull,Colchester,1,1
+14.04.2007,2007,Ipswich,Derby,2,1
+14.04.2007,2007,Leeds,Burnley,1,0
+14.04.2007,2007,Leicester,Norwich,1,2
+14.04.2007,2007,Luton,Plymouth,1,2
+14.04.2007,2007,Southend,Barnsley,1,3
+14.04.2007,2007,Sunderland,QPR,2,1
+13.04.2007,2007,West Brom,Sheffield Wed,0,1
+09.04.2007,2007,Barnsley,Birmingham,1,0
+09.04.2007,2007,Burnley,Cardiff,2,0
+09.04.2007,2007,Colchester,Leeds,2,1
+09.04.2007,2007,Derby,Coventry,1,1
+09.04.2007,2007,Norwich,West Brom,1,2
+09.04.2007,2007,Plymouth,Leicester,3,0
+09.04.2007,2007,Preston,Southend,2,3
+09.04.2007,2007,QPR,Luton,3,2
+09.04.2007,2007,Sheffield Wed,Ipswich,2,0
+09.04.2007,2007,Southampton,Sunderland,1,2
+09.04.2007,2007,Stoke,Crystal Palace,2,1
+09.04.2007,2007,Wolves,Hull,3,1
+07.04.2007,2007,Birmingham,Burnley,0,1
+07.04.2007,2007,Cardiff,Sheffield Wed,1,2
+07.04.2007,2007,Coventry,QPR,0,1
+07.04.2007,2007,Crystal Palace,Preston,3,0
+07.04.2007,2007,Ipswich,Barnsley,5,1
+07.04.2007,2007,Leeds,Plymouth,2,1
+07.04.2007,2007,Luton,Southampton,0,2
+07.04.2007,2007,Sunderland,Wolves,2,1
+07.04.2007,2007,West Brom,Stoke,1,3
+06.04.2007,2007,Hull,Norwich,1,2
+06.04.2007,2007,Leicester,Derby,1,1
+06.04.2007,2007,Southend,Colchester,0,3
+03.04.2007,2007,Burnley,Plymouth,4,0
+03.04.2007,2007,QPR,Preston,1,0
+01.04.2007,2007,Birmingham,Coventry,3,0
+31.03.2007,2007,Barnsley,Derby,1,2
+31.03.2007,2007,Burnley,Luton,0,0
+31.03.2007,2007,Cardiff,Sunderland,0,1
+31.03.2007,2007,Colchester,Norwich,3,0
+31.03.2007,2007,Crystal Palace,Sheffield Wed,1,2
+31.03.2007,2007,Hull,Southend,4,0
+31.03.2007,2007,Ipswich,Plymouth,3,0
+31.03.2007,2007,QPR,West Brom,1,2
+31.03.2007,2007,Stoke,Leicester,4,2
+31.03.2007,2007,Wolves,Southampton,0,6
+30.03.2007,2007,Leeds,Preston,2,1
+18.03.2007,2007,West Brom,Birmingham,1,1
+17.03.2007,2007,Coventry,Barnsley,4,1
+17.03.2007,2007,Derby,Cardiff,3,1
+17.03.2007,2007,Leicester,QPR,1,3
+17.03.2007,2007,Luton,Ipswich,0,2
+17.03.2007,2007,Norwich,Stoke,1,0
+17.03.2007,2007,Plymouth,Crystal Palace,1,0
+17.03.2007,2007,Preston,Burnley,2,0
+17.03.2007,2007,Sheffield Wed,Wolves,2,2
+17.03.2007,2007,Southend,Leeds,1,1
+17.03.2007,2007,Sunderland,Hull,2,0
+16.03.2007,2007,Southampton,Colchester,1,2
+14.03.2007,2007,Plymouth,Barnsley,2,4
+14.03.2007,2007,West Brom,Crystal Palace,2,3
+13.03.2007,2007,Coventry,Wolves,2,1
+13.03.2007,2007,Derby,QPR,1,1
+13.03.2007,2007,Leicester,Leeds,1,1
+13.03.2007,2007,Luton,Hull,1,2
+13.03.2007,2007,Norwich,Birmingham,1,0
+13.03.2007,2007,Preston,Ipswich,1,0
+13.03.2007,2007,Sheffield Wed,Colchester,2,0
+13.03.2007,2007,Southampton,Cardiff,2,2
+13.03.2007,2007,Southend,Burnley,1,0
+13.03.2007,2007,Sunderland,Stoke,2,2
+11.03.2007,2007,Wolves,West Brom,1,0
+10.03.2007,2007,Barnsley,Sunderland,0,2
+10.03.2007,2007,Cardiff,Norwich,1,0
+10.03.2007,2007,Colchester,Coventry,0,0
+10.03.2007,2007,Crystal Palace,Leicester,2,0
+10.03.2007,2007,Hull,Preston,2,0
+10.03.2007,2007,Ipswich,Southend,0,2
+10.03.2007,2007,Leeds,Luton,1,0
+10.03.2007,2007,QPR,Sheffield Wed,1,1
+10.03.2007,2007,Stoke,Southampton,2,1
+09.03.2007,2007,Birmingham,Derby,1,0
+06.03.2007,2007,Hull,Ipswich,2,5
+06.03.2007,2007,Norwich,Derby,1,2
+06.03.2007,2007,Sheffield Wed,Plymouth,1,1
+05.03.2007,2007,Preston,Southampton,3,1
+04.03.2007,2007,Birmingham,Cardiff,1,0
+03.03.2007,2007,Barnsley,Norwich,1,3
+03.03.2007,2007,Burnley,Crystal Palace,1,1
+03.03.2007,2007,Coventry,Hull,2,0
+03.03.2007,2007,Ipswich,QPR,2,1
+03.03.2007,2007,Leeds,Sheffield Wed,2,3
+03.03.2007,2007,Luton,Wolves,2,3
+03.03.2007,2007,Plymouth,Stoke,1,1
+03.03.2007,2007,Southend,Leicester,2,2
+03.03.2007,2007,West Brom,Sunderland,1,2
+02.03.2007,2007,Derby,Colchester,5,1
+27.02.2007,2007,Luton,Norwich,2,3
+27.02.2007,2007,Birmingham,Leeds,1,0
+26.02.2007,2007,Stoke,Barnsley,0,1
+24.02.2007,2007,Colchester,Burnley,0,0
+24.02.2007,2007,Crystal Palace,Luton,2,1
+24.02.2007,2007,Hull,Birmingham,2,0
+24.02.2007,2007,Leicester,West Brom,1,1
+24.02.2007,2007,Norwich,Coventry,1,1
+24.02.2007,2007,QPR,Plymouth,1,1
+24.02.2007,2007,Sheffield Wed,Southend,3,2
+24.02.2007,2007,Southampton,Ipswich,1,0
+24.02.2007,2007,Sunderland,Derby,2,1
+24.02.2007,2007,Wolves,Leeds,1,0
+23.02.2007,2007,Cardiff,Preston,4,1
+21.02.2007,2007,Derby,Stoke,0,2
+20.02.2007,2007,Barnsley,Hull,3,0
+20.02.2007,2007,Birmingham,Sunderland,1,1
+20.02.2007,2007,Burnley,Leicester,0,1
+20.02.2007,2007,Coventry,Southampton,2,1
+20.02.2007,2007,Ipswich,Wolves,0,1
+20.02.2007,2007,Leeds,QPR,0,0
+20.02.2007,2007,Luton,Sheffield Wed,3,2
+20.02.2007,2007,Plymouth,Colchester,3,0
+20.02.2007,2007,Preston,Norwich,2,1
+20.02.2007,2007,Southend,Crystal Palace,0,1
+20.02.2007,2007,West Brom,Cardiff,1,0
+17.02.2007,2007,Cardiff,Leeds,2,0
+17.02.2007,2007,Crystal Palace,Birmingham,0,1
+17.02.2007,2007,Leicester,Coventry,3,0
+17.02.2007,2007,Southampton,Barnsley,5,2
+17.02.2007,2007,Stoke,Luton,0,0
+17.02.2007,2007,Sunderland,Southend,4,0
+17.02.2007,2007,Wolves,Burnley,2,1
+13.02.2007,2007,Colchester,West Brom,1,2
+11.02.2007,2007,Birmingham,Stoke,1,0
+10.02.2007,2007,Barnsley,Colchester,0,3
+10.02.2007,2007,Burnley,Sheffield Wed,1,1
+10.02.2007,2007,Coventry,Cardiff,2,2
+10.02.2007,2007,Derby,Hull,2,2
+10.02.2007,2007,Ipswich,Leicester,0,2
+10.02.2007,2007,Leeds,Crystal Palace,2,1
+10.02.2007,2007,Plymouth,Sunderland,0,2
+10.02.2007,2007,Preston,Wolves,0,1
+10.02.2007,2007,West Brom,Southampton,1,1
+09.02.2007,2007,Southend,QPR,5,0
+03.02.2007,2007,Colchester,Birmingham,1,1
+03.02.2007,2007,Crystal Palace,Ipswich,2,0
+03.02.2007,2007,Hull,West Brom,0,1
+03.02.2007,2007,Leicester,Luton,1,1
+03.02.2007,2007,Norwich,Leeds,2,1
+03.02.2007,2007,QPR,Burnley,3,1
+03.02.2007,2007,Sheffield Wed,Preston,1,3
+03.02.2007,2007,Southampton,Derby,0,1
+03.02.2007,2007,Stoke,Southend,1,1
+03.02.2007,2007,Sunderland,Coventry,2,0
+03.02.2007,2007,Wolves,Plymouth,2,2
+02.02.2007,2007,Cardiff,Barnsley,2,0
+31.01.2007,2007,Southampton,Sheffield Wed,2,1
+31.01.2007,2007,West Brom,Plymouth,2,1
+30.01.2007,2007,Barnsley,QPR,2,0
+30.01.2007,2007,Birmingham,Southend,1,3
+30.01.2007,2007,Colchester,Preston,1,0
+30.01.2007,2007,Coventry,Luton,1,0
+30.01.2007,2007,Derby,Burnley,1,0
+30.01.2007,2007,Hull,Leeds,1,2
+30.01.2007,2007,Norwich,Wolves,0,1
+30.01.2007,2007,Stoke,Ipswich,0,0
+30.01.2007,2007,Sunderland,Crystal Palace,0,0
+27.01.2007,2007,Cardiff,Leicester,3,2
+23.01.2007,2007,Burnley,Stoke,0,1
+22.01.2007,2007,Plymouth,Coventry,3,2
+20.01.2007,2007,Crystal Palace,Hull,1,1
+20.01.2007,2007,Ipswich,Colchester,3,2
+20.01.2007,2007,Leeds,West Brom,2,3
+20.01.2007,2007,Luton,Barnsley,0,2
+20.01.2007,2007,Preston,Stoke,3,2
+20.01.2007,2007,QPR,Southampton,0,2
+20.01.2007,2007,Sheffield Wed,Sunderland,2,4
+20.01.2007,2007,Southend,Derby,0,1
+20.01.2007,2007,Wolves,Cardiff,1,2
+13.01.2007,2007,Barnsley,Preston,0,1
+13.01.2007,2007,Cardiff,Southend,0,1
+13.01.2007,2007,Colchester,Leicester,1,1
+13.01.2007,2007,Coventry,Crystal Palace,2,4
+13.01.2007,2007,Derby,Sheffield Wed,1,0
+13.01.2007,2007,Hull,QPR,2,1
+13.01.2007,2007,Norwich,Plymouth,1,3
+13.01.2007,2007,Southampton,Burnley,0,0
+13.01.2007,2007,Stoke,Wolves,1,1
+13.01.2007,2007,Sunderland,Ipswich,1,0
+12.01.2007,2007,West Brom,Luton,3,2
+01.01.2007,2007,Crystal Palace,Norwich,3,1
+01.01.2007,2007,Ipswich,Birmingham,1,0
+01.01.2007,2007,Leeds,Coventry,2,1
+01.01.2007,2007,Leicester,Sunderland,0,2
+01.01.2007,2007,Luton,Cardiff,0,0
+01.01.2007,2007,Plymouth,Southampton,1,1
+01.01.2007,2007,Preston,Derby,1,2
+01.01.2007,2007,QPR,Colchester,1,0
+01.01.2007,2007,Sheffield Wed,Hull,1,2
+01.01.2007,2007,Southend,West Brom,3,1
+01.01.2007,2007,Wolves,Barnsley,2,0
+30.12.2006,2007,Barnsley,Sheffield Wed,0,3
+30.12.2006,2007,Cardiff,Crystal Palace,0,0
+30.12.2006,2007,Colchester,Wolves,2,1
+30.12.2006,2007,Coventry,Southend,1,1
+30.12.2006,2007,Derby,Plymouth,1,0
+30.12.2006,2007,Hull,Burnley,2,0
+30.12.2006,2007,Norwich,QPR,1,0
+30.12.2006,2007,Southampton,Leicester,2,0
+30.12.2006,2007,Stoke,Leeds,3,1
+30.12.2006,2007,Sunderland,Preston,0,1
+30.12.2006,2007,West Brom,Ipswich,2,0
+29.12.2006,2007,Birmingham,Luton,2,2
+26.12.2006,2007,Barnsley,Burnley,1,0
+26.12.2006,2007,Birmingham,QPR,2,1
+26.12.2006,2007,Cardiff,Plymouth,2,2
+26.12.2006,2007,Colchester,Luton,4,1
+26.12.2006,2007,Coventry,Ipswich,1,2
+26.12.2006,2007,Derby,Wolves,0,2
+26.12.2006,2007,Hull,Leicester,1,2
+26.12.2006,2007,Norwich,Southend,0,0
+26.12.2006,2007,Southampton,Crystal Palace,1,1
+26.12.2006,2007,Stoke,Sheffield Wed,1,2
+26.12.2006,2007,Sunderland,Leeds,2,0
+26.12.2006,2007,West Brom,Preston,4,2
+23.12.2006,2007,Burnley,Derby,0,0
+23.12.2006,2007,Ipswich,Stoke,0,1
+23.12.2006,2007,Leeds,Hull,0,0
+23.12.2006,2007,Leicester,Cardiff,0,0
+23.12.2006,2007,Luton,Coventry,3,1
+23.12.2006,2007,Plymouth,West Brom,2,2
+23.12.2006,2007,Preston,Colchester,1,0
+23.12.2006,2007,QPR,Barnsley,1,0
+23.12.2006,2007,Sheffield Wed,Southampton,3,3
+23.12.2006,2007,Southend,Birmingham,0,4
+23.12.2006,2007,Wolves,Norwich,2,2
+22.12.2006,2007,Crystal Palace,Sunderland,1,0
+16.12.2006,2007,Burnley,Sunderland,2,2
+16.12.2006,2007,Colchester,Stoke,3,0
+16.12.2006,2007,Derby,Crystal Palace,1,0
+16.12.2006,2007,Hull,Cardiff,4,1
+16.12.2006,2007,Ipswich,Leeds,1,0
+16.12.2006,2007,Leicester,Barnsley,2,0
+16.12.2006,2007,Preston,Plymouth,3,0
+16.12.2006,2007,QPR,Wolves,0,1
+16.12.2006,2007,Sheffield Wed,Birmingham,0,3
+16.12.2006,2007,Southampton,Norwich,2,1
+16.12.2006,2007,West Brom,Coventry,5,0
+15.12.2006,2007,Luton,Southend,0,0
+10.12.2006,2007,Barnsley,West Brom,1,1
+09.12.2006,2007,Birmingham,Preston,3,1
+09.12.2006,2007,Cardiff,Ipswich,2,2
+09.12.2006,2007,Coventry,Burnley,1,0
+09.12.2006,2007,Crystal Palace,Colchester,1,3
+09.12.2006,2007,Leeds,Derby,0,1
+09.12.2006,2007,Norwich,Sheffield Wed,1,2
+09.12.2006,2007,Plymouth,Hull,1,0
+09.12.2006,2007,Southend,Southampton,2,1
+09.12.2006,2007,Stoke,QPR,1,0
+09.12.2006,2007,Sunderland,Luton,2,1
+09.12.2006,2007,Wolves,Leicester,1,2
+02.12.2006,2007,Birmingham,Plymouth,3,0
+02.12.2006,2007,Cardiff,Colchester,0,0
+02.12.2006,2007,Coventry,Stoke,0,0
+02.12.2006,2007,Crystal Palace,QPR,3,0
+02.12.2006,2007,Hull,Southampton,2,4
+02.12.2006,2007,Ipswich,Burnley,1,1
+02.12.2006,2007,Leeds,Barnsley,2,2
+02.12.2006,2007,Leicester,Sheffield Wed,1,4
+02.12.2006,2007,Luton,Preston,2,0
+02.12.2006,2007,Southend,Wolves,0,1
+02.12.2006,2007,Sunderland,Norwich,1,0
+02.12.2006,2007,West Brom,Derby,1,0
+29.11.2006,2007,Derby,Ipswich,2,1
+29.11.2006,2007,Southampton,Birmingham,4,3
+28.11.2006,2007,Barnsley,Southend,2,0
+28.11.2006,2007,Burnley,Leeds,2,1
+28.11.2006,2007,Colchester,Hull,5,1
+28.11.2006,2007,Norwich,Leicester,3,1
+28.11.2006,2007,Plymouth,Luton,1,0
+28.11.2006,2007,Preston,Coventry,1,1
+28.11.2006,2007,QPR,Sunderland,1,2
+28.11.2006,2007,Sheffield Wed,West Brom,3,1
+28.11.2006,2007,Stoke,Cardiff,3,0
+28.11.2006,2007,Wolves,Crystal Palace,1,1
+25.11.2006,2007,Barnsley,Ipswich,1,0
+25.11.2006,2007,Burnley,Birmingham,1,2
+25.11.2006,2007,Colchester,Southend,3,0
+25.11.2006,2007,Derby,Leicester,1,0
+25.11.2006,2007,Norwich,Hull,1,1
+25.11.2006,2007,Plymouth,Leeds,1,2
+25.11.2006,2007,Preston,Crystal Palace,0,0
+25.11.2006,2007,QPR,Coventry,0,1
+25.11.2006,2007,Sheffield Wed,Cardiff,0,0
+25.11.2006,2007,Southampton,Luton,2,1
+25.11.2006,2007,Stoke,West Brom,1,0
+24.11.2006,2007,Wolves,Sunderland,1,1
+19.11.2006,2007,Ipswich,Norwich,3,1
+18.11.2006,2007,Birmingham,Wolves,1,1
+18.11.2006,2007,Coventry,Sheffield Wed,3,1
+18.11.2006,2007,Crystal Palace,Barnsley,2,0
+18.11.2006,2007,Hull,Stoke,0,2
+18.11.2006,2007,Leeds,Southampton,0,3
+18.11.2006,2007,Leicester,Preston,0,1
+18.11.2006,2007,Luton,Derby,0,2
+18.11.2006,2007,Southend,Plymouth,1,1
+18.11.2006,2007,Sunderland,Colchester,3,1
+18.11.2006,2007,West Brom,Burnley,3,0
+17.11.2006,2007,Cardiff,QPR,0,1
+11.11.2006,2007,Birmingham,Barnsley,2,0
+11.11.2006,2007,Cardiff,Burnley,1,0
+11.11.2006,2007,Coventry,Derby,1,2
+11.11.2006,2007,Crystal Palace,Stoke,0,1
+11.11.2006,2007,Hull,Wolves,2,0
+11.11.2006,2007,Ipswich,Sheffield Wed,0,2
+11.11.2006,2007,Leeds,Colchester,3,0
+11.11.2006,2007,Leicester,Plymouth,2,2
+11.11.2006,2007,Luton,QPR,2,3
+11.11.2006,2007,Southend,Preston,0,0
+11.11.2006,2007,Sunderland,Southampton,1,1
+11.11.2006,2007,West Brom,Norwich,0,1
+06.11.2006,2007,Stoke,Coventry,1,0
+04.11.2006,2007,Barnsley,Leeds,3,2
+04.11.2006,2007,Burnley,Ipswich,1,0
+04.11.2006,2007,Colchester,Cardiff,3,1
+04.11.2006,2007,Derby,West Brom,2,1
+04.11.2006,2007,Norwich,Sunderland,1,0
+04.11.2006,2007,Plymouth,Birmingham,0,1
+04.11.2006,2007,Preston,Luton,3,0
+04.11.2006,2007,QPR,Crystal Palace,4,2
+04.11.2006,2007,Sheffield Wed,Leicester,2,1
+04.11.2006,2007,Southampton,Hull,0,0
+04.11.2006,2007,Wolves,Southend,3,1
+01.11.2006,2007,Derby,Barnsley,2,1
+01.11.2006,2007,Southampton,Wolves,2,0
+31.10.2006,2007,Coventry,Birmingham,0,1
+31.10.2006,2007,Leicester,Stoke,2,1
+31.10.2006,2007,Luton,Burnley,0,2
+31.10.2006,2007,Norwich,Colchester,1,1
+31.10.2006,2007,Plymouth,Ipswich,1,1
+31.10.2006,2007,Preston,Leeds,4,1
+31.10.2006,2007,Sheffield Wed,Crystal Palace,3,2
+31.10.2006,2007,Southend,Hull,2,3
+31.10.2006,2007,Sunderland,Cardiff,1,2
+31.10.2006,2007,West Brom,QPR,3,3
+29.10.2006,2007,Ipswich,Luton,5,0
+28.10.2006,2007,Barnsley,Coventry,0,1
+28.10.2006,2007,Birmingham,West Brom,2,0
+28.10.2006,2007,Cardiff,Derby,2,2
+28.10.2006,2007,Colchester,Southampton,2,0
+28.10.2006,2007,Crystal Palace,Plymouth,0,1
+28.10.2006,2007,Hull,Sunderland,0,1
+28.10.2006,2007,Leeds,Southend,2,0
+28.10.2006,2007,QPR,Leicester,1,1
+28.10.2006,2007,Stoke,Norwich,5,0
+28.10.2006,2007,Wolves,Sheffield Wed,2,2
+27.10.2006,2007,Burnley,Preston,3,2
+23.10.2006,2007,Coventry,Colchester,2,1
+22.10.2006,2007,West Brom,Wolves,3,0
+21.10.2006,2007,Derby,Birmingham,0,1
+21.10.2006,2007,Leicester,Crystal Palace,1,1
+21.10.2006,2007,Luton,Leeds,5,1
+21.10.2006,2007,Norwich,Cardiff,1,0
+21.10.2006,2007,Plymouth,Burnley,0,0
+21.10.2006,2007,Preston,Hull,2,1
+21.10.2006,2007,Sheffield Wed,QPR,3,2
+21.10.2006,2007,Southampton,Stoke,1,0
+21.10.2006,2007,Southend,Ipswich,1,3
+21.10.2006,2007,Sunderland,Barnsley,2,0
+18.10.2006,2007,Colchester,Sheffield Wed,4,0
+17.10.2006,2007,Barnsley,Plymouth,2,2
+17.10.2006,2007,Birmingham,Norwich,0,1
+17.10.2006,2007,Burnley,Southend,0,0
+17.10.2006,2007,Cardiff,Southampton,1,0
+17.10.2006,2007,Crystal Palace,West Brom,0,2
+17.10.2006,2007,Hull,Luton,0,0
+17.10.2006,2007,Ipswich,Preston,2,3
+17.10.2006,2007,Leeds,Leicester,1,2
+17.10.2006,2007,QPR,Derby,1,2
+17.10.2006,2007,Stoke,Sunderland,2,1
+17.10.2006,2007,Wolves,Coventry,1,0
+15.10.2006,2007,Plymouth,Derby,3,1
+14.10.2006,2007,Burnley,Hull,2,0
+14.10.2006,2007,Crystal Palace,Cardiff,1,2
+14.10.2006,2007,Ipswich,West Brom,1,5
+14.10.2006,2007,Leeds,Stoke,0,4
+14.10.2006,2007,Leicester,Southampton,3,2
+14.10.2006,2007,Luton,Birmingham,3,2
+14.10.2006,2007,Preston,Sunderland,4,1
+14.10.2006,2007,QPR,Norwich,3,3
+14.10.2006,2007,Sheffield Wed,Barnsley,2,1
+14.10.2006,2007,Wolves,Colchester,1,0
+13.10.2006,2007,Southend,Coventry,2,3
+01.10.2006,2007,Norwich,Burnley,1,4
+30.09.2006,2007,Barnsley,Luton,1,2
+30.09.2006,2007,Birmingham,Leicester,1,1
+30.09.2006,2007,Cardiff,Wolves,4,0
+30.09.2006,2007,Coventry,Plymouth,0,1
+30.09.2006,2007,Derby,Southend,3,0
+30.09.2006,2007,Hull,Crystal Palace,1,1
+30.09.2006,2007,Southampton,QPR,1,2
+30.09.2006,2007,Stoke,Preston,1,1
+30.09.2006,2007,Sunderland,Sheffield Wed,1,0
+30.09.2006,2007,West Brom,Leeds,4,2
+29.09.2006,2007,Colchester,Ipswich,1,0
+24.09.2006,2007,Southend,Cardiff,0,3
+23.09.2006,2007,Burnley,Southampton,2,3
+23.09.2006,2007,Crystal Palace,Coventry,1,0
+23.09.2006,2007,Ipswich,Sunderland,3,1
+23.09.2006,2007,Leeds,Birmingham,3,2
+23.09.2006,2007,Leicester,Colchester,0,0
+23.09.2006,2007,Luton,West Brom,2,2
+23.09.2006,2007,Plymouth,Norwich,3,1
+23.09.2006,2007,QPR,Hull,2,0
+23.09.2006,2007,Sheffield Wed,Derby,1,2
+23.09.2006,2007,Wolves,Stoke,2,0
+22.09.2006,2007,Preston,Barnsley,1,0
+16.09.2006,2007,Barnsley,Wolves,1,0
+16.09.2006,2007,Birmingham,Ipswich,2,2
+16.09.2006,2007,Cardiff,Luton,4,1
+16.09.2006,2007,Colchester,QPR,2,1
+16.09.2006,2007,Coventry,Leeds,1,0
+16.09.2006,2007,Derby,Preston,1,1
+16.09.2006,2007,Norwich,Crystal Palace,0,1
+16.09.2006,2007,Southampton,Plymouth,1,0
+16.09.2006,2007,Stoke,Burnley,0,1
+16.09.2006,2007,Sunderland,Leicester,1,1
+16.09.2006,2007,West Brom,Southend,1,1
+15.09.2006,2007,Hull,Sheffield Wed,2,1
+13.09.2006,2007,Leeds,Sunderland,0,3
+12.09.2006,2007,Burnley,Barnsley,4,2
+12.09.2006,2007,Crystal Palace,Southampton,0,2
+12.09.2006,2007,Ipswich,Coventry,2,1
+12.09.2006,2007,Leicester,Hull,0,1
+12.09.2006,2007,Luton,Colchester,2,1
+12.09.2006,2007,Plymouth,Cardiff,3,3
+12.09.2006,2007,Preston,West Brom,1,0
+12.09.2006,2007,QPR,Birmingham,0,2
+12.09.2006,2007,Sheffield Wed,Stoke,1,1
+12.09.2006,2007,Southend,Norwich,3,3
+12.09.2006,2007,Wolves,Derby,0,1
+10.09.2006,2007,Leeds,Wolves,0,1
+09.09.2006,2007,Barnsley,Stoke,2,2
+09.09.2006,2007,Birmingham,Hull,2,1
+09.09.2006,2007,Burnley,Colchester,1,2
+09.09.2006,2007,Coventry,Norwich,3,0
+09.09.2006,2007,Derby,Sunderland,1,2
+09.09.2006,2007,Ipswich,Southampton,2,1
+09.09.2006,2007,Luton,Crystal Palace,2,1
+09.09.2006,2007,Plymouth,QPR,1,1
+09.09.2006,2007,Preston,Cardiff,2,1
+09.09.2006,2007,Southend,Sheffield Wed,0,0
+09.09.2006,2007,West Brom,Leicester,2,0
+28.08.2006,2007,Sunderland,West Brom,2,0
+27.08.2006,2007,Sheffield Wed,Leeds,0,1
+26.08.2006,2007,Cardiff,Birmingham,2,0
+26.08.2006,2007,Colchester,Derby,4,3
+26.08.2006,2007,Crystal Palace,Burnley,2,2
+26.08.2006,2007,Hull,Coventry,0,1
+26.08.2006,2007,Leicester,Southend,1,0
+26.08.2006,2007,Norwich,Barnsley,5,1
+26.08.2006,2007,Southampton,Preston,1,1
+26.08.2006,2007,Stoke,Plymouth,1,1
+26.08.2006,2007,Wolves,Luton,1,0
+25.08.2006,2007,QPR,Ipswich,1,3
+19.08.2006,2007,Barnsley,Southampton,2,2
+19.08.2006,2007,Birmingham,Crystal Palace,2,1
+19.08.2006,2007,Burnley,Wolves,0,1
+19.08.2006,2007,Derby,Norwich,0,0
+19.08.2006,2007,Ipswich,Hull,0,0
+19.08.2006,2007,Leeds,Cardiff,0,1
+19.08.2006,2007,Luton,Stoke,2,2
+19.08.2006,2007,Plymouth,Sheffield Wed,1,2
+19.08.2006,2007,Preston,QPR,1,1
+19.08.2006,2007,Southend,Sunderland,3,1
+19.08.2006,2007,West Brom,Colchester,2,1
+18.08.2006,2007,Coventry,Leicester,0,0
+13.08.2006,2007,Crystal Palace,Leeds,1,0
+12.08.2006,2007,Cardiff,Coventry,1,0
+12.08.2006,2007,Colchester,Barnsley,1,2
+12.08.2006,2007,Hull,Derby,1,2
+12.08.2006,2007,Leicester,Ipswich,3,1
+12.08.2006,2007,Norwich,Luton,3,2
+12.08.2006,2007,QPR,Southend,2,0
+12.08.2006,2007,Sheffield Wed,Burnley,1,1
+12.08.2006,2007,Southampton,West Brom,0,0
+12.08.2006,2007,Stoke,Birmingham,0,0
+12.08.2006,2007,Sunderland,Plymouth,2,3
+11.08.2006,2007,Wolves,Preston,1,3
+09.08.2006,2007,Southampton,Coventry,2,0
+09.08.2006,2007,Sunderland,Birmingham,0,1
+08.08.2006,2007,Cardiff,West Brom,1,1
+08.08.2006,2007,Colchester,Plymouth,0,1
+08.08.2006,2007,Crystal Palace,Southend,3,1
+08.08.2006,2007,Hull,Barnsley,2,3
+08.08.2006,2007,Leicester,Burnley,0,1
+08.08.2006,2007,Norwich,Preston,2,0
+08.08.2006,2007,QPR,Leeds,2,2
+08.08.2006,2007,Sheffield Wed,Luton,0,1
+08.08.2006,2007,Stoke,Derby,2,0
+08.08.2006,2007,Wolves,Ipswich,1,0
+06.08.2006,2007,Coventry,Sunderland,2,1
+06.08.2006,2007,Derby,Southampton,2,2
+05.08.2006,2007,Barnsley,Cardiff,1,3
+05.08.2006,2007,Birmingham,Colchester,2,1
+05.08.2006,2007,Burnley,QPR,2,0
+05.08.2006,2007,Ipswich,Crystal Palace,1,2
+05.08.2006,2007,Leeds,Norwich,1,0
+05.08.2006,2007,Luton,Leicester,2,0
+05.08.2006,2007,Plymouth,Wolves,1,1
+05.08.2006,2007,Preston,Sheffield Wed,0,0
+05.08.2006,2007,Southend,Stoke,1,0
+05.08.2006,2007,West Brom,Hull,2,0

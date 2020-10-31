@@ -1,0 +1,381 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+20.05.2017,2016,Chemnitzer,Hansa Rostock,2,0
+20.05.2017,2016,Duisburg,Zwickau,5,1
+20.05.2017,2016,Erfurt,Grossaspach,4,1
+20.05.2017,2016,Holstein Kiel,Hallescher,3,0
+20.05.2017,2016,Magdeburg,Lotte,2,0
+20.05.2017,2016,Mainz II,Fortuna Koln,4,0
+20.05.2017,2016,Preussen Munster,Regensburg,0,1
+20.05.2017,2016,VfL Osnabruck,Paderborn,0,0
+20.05.2017,2016,Wehen,FSV Frankfurt,4,1
+20.05.2017,2016,Werder Bremen II,Aalen,1,0
+13.05.2017,2016,Aalen,Magdeburg,2,2
+13.05.2017,2016,Fortuna Koln,Duisburg,0,3
+13.05.2017,2016,FSV Frankfurt,Werder Bremen II,0,4
+13.05.2017,2016,Grossaspach,Holstein Kiel,0,1
+13.05.2017,2016,Hallescher,Wehen,0,3
+13.05.2017,2016,Hansa Rostock,Erfurt,1,2
+13.05.2017,2016,Lotte,Mainz II,3,3
+13.05.2017,2016,Paderborn,Preussen Munster,1,0
+13.05.2017,2016,Regensburg,Chemnitzer,3,2
+13.05.2017,2016,Zwickau,VfL Osnabruck,1,0
+07.05.2017,2016,Chemnitzer,Preussen Munster,0,3
+06.05.2017,2016,Duisburg,Lotte,1,1
+06.05.2017,2016,Holstein Kiel,Hansa Rostock,2,1
+06.05.2017,2016,Magdeburg,FSV Frankfurt,1,1
+06.05.2017,2016,Mainz II,Aalen,2,0
+06.05.2017,2016,Paderborn,Zwickau,1,1
+06.05.2017,2016,VfL Osnabruck,Fortuna Koln,1,2
+06.05.2017,2016,Wehen,Grossaspach,0,0
+05.05.2017,2016,Erfurt,Regensburg,1,4
+05.05.2017,2016,Werder Bremen II,Hallescher,1,1
+30.04.2017,2016,Preussen Munster,Zwickau,5,1
+29.04.2017,2016,Aalen,Duisburg,2,1
+29.04.2017,2016,Chemnitzer,Erfurt,1,1
+29.04.2017,2016,FSV Frankfurt,Mainz II,1,2
+29.04.2017,2016,Grossaspach,Werder Bremen II,0,0
+29.04.2017,2016,Hallescher,Magdeburg,1,1
+29.04.2017,2016,Hansa Rostock,Wehen,1,3
+29.04.2017,2016,Lotte,VfL Osnabruck,0,0
+29.04.2017,2016,Regensburg,Holstein Kiel,0,3
+28.04.2017,2016,Fortuna Koln,Paderborn,0,1
+23.04.2017,2016,Erfurt,Preussen Munster,0,0
+23.04.2017,2016,Zwickau,Fortuna Koln,2,1
+22.04.2017,2016,Duisburg,FSV Frankfurt,3,2
+22.04.2017,2016,Holstein Kiel,Chemnitzer,2,0
+22.04.2017,2016,Magdeburg,Grossaspach,2,1
+22.04.2017,2016,Mainz II,Hallescher,3,2
+22.04.2017,2016,Paderborn,Lotte,3,1
+22.04.2017,2016,VfL Osnabruck,Aalen,1,0
+22.04.2017,2016,Wehen,Regensburg,1,1
+22.04.2017,2016,Werder Bremen II,Hansa Rostock,0,2
+19.04.2017,2016,Wehen,Werder Bremen II,2,0
+16.04.2017,2016,FSV Frankfurt,VfL Osnabruck,1,1
+15.04.2017,2016,Aalen,Paderborn,4,0
+15.04.2017,2016,Chemnitzer,Wehen,4,2
+15.04.2017,2016,Erfurt,Holstein Kiel,1,1
+15.04.2017,2016,Grossaspach,Mainz II,2,1
+15.04.2017,2016,Hallescher,Duisburg,1,1
+15.04.2017,2016,Hansa Rostock,Magdeburg,1,1
+15.04.2017,2016,Lotte,Zwickau,2,1
+15.04.2017,2016,Preussen Munster,Fortuna Koln,4,2
+15.04.2017,2016,Regensburg,Werder Bremen II,3,1
+09.04.2017,2016,Holstein Kiel,Preussen Munster,0,0
+09.04.2017,2016,Magdeburg,Regensburg,1,2
+09.04.2017,2016,Mainz II,Hansa Rostock,2,4
+08.04.2017,2016,Duisburg,Grossaspach,2,1
+08.04.2017,2016,Fortuna Koln,Lotte,3,0
+08.04.2017,2016,Paderborn,FSV Frankfurt,3,0
+08.04.2017,2016,VfL Osnabruck,Hallescher,1,2
+08.04.2017,2016,Wehen,Erfurt,0,0
+08.04.2017,2016,Werder Bremen II,Chemnitzer,0,0
+08.04.2017,2016,Zwickau,Aalen,2,1
+05.04.2017,2016,FSV Frankfurt,Zwickau,0,1
+05.04.2017,2016,Grossaspach,VfL Osnabruck,1,0
+05.04.2017,2016,Hallescher,Paderborn,1,1
+05.04.2017,2016,Hansa Rostock,Duisburg,1,0
+05.04.2017,2016,Holstein Kiel,Wehen,3,0
+05.04.2017,2016,Preussen Munster,Lotte,1,0
+04.04.2017,2016,Aalen,Fortuna Koln,3,0
+04.04.2017,2016,Chemnitzer,Magdeburg,1,1
+04.04.2017,2016,Erfurt,Werder Bremen II,1,1
+04.04.2017,2016,Regensburg,Mainz II,2,1
+02.04.2017,2016,VfL Osnabruck,Hansa Rostock,2,1
+02.04.2017,2016,Wehen,Preussen Munster,1,0
+02.04.2017,2016,Zwickau,Hallescher,2,0
+01.04.2017,2016,Duisburg,Regensburg,1,1
+01.04.2017,2016,Fortuna Koln,FSV Frankfurt,0,0
+01.04.2017,2016,Lotte,Aalen,0,2
+01.04.2017,2016,Magdeburg,Erfurt,2,0
+01.04.2017,2016,Paderborn,Grossaspach,1,2
+01.04.2017,2016,Werder Bremen II,Holstein Kiel,0,2
+31.03.2017,2016,Mainz II,Chemnitzer,0,1
+28.03.2017,2016,Lotte,Holstein Kiel,0,0
+25.03.2017,2016,Chemnitzer,Duisburg,2,3
+25.03.2017,2016,Erfurt,Mainz II,0,0
+25.03.2017,2016,FSV Frankfurt,Lotte,2,0
+25.03.2017,2016,Grossaspach,Zwickau,1,2
+25.03.2017,2016,Hallescher,Fortuna Koln,0,0
+25.03.2017,2016,Hansa Rostock,Paderborn,1,1
+25.03.2017,2016,Holstein Kiel,Magdeburg,1,1
+25.03.2017,2016,Preussen Munster,Aalen,2,1
+25.03.2017,2016,Regensburg,VfL Osnabruck,1,2
+22.03.2017,2016,Grossaspach,Lotte,2,0
+20.03.2017,2016,Zwickau,Hansa Rostock,2,2
+19.03.2017,2016,Lotte,Hallescher,0,0
+19.03.2017,2016,Magdeburg,Wehen,0,0
+18.03.2017,2016,Aalen,FSV Frankfurt,2,0
+18.03.2017,2016,Duisburg,Erfurt,3,2
+18.03.2017,2016,Fortuna Koln,Grossaspach,2,0
+18.03.2017,2016,Mainz II,Holstein Kiel,0,3
+18.03.2017,2016,Paderborn,Regensburg,0,2
+18.03.2017,2016,VfL Osnabruck,Chemnitzer,3,0
+17.03.2017,2016,Werder Bremen II,Preussen Munster,0,1
+15.03.2017,2016,Chemnitzer,Paderborn,2,1
+15.03.2017,2016,Hansa Rostock,Fortuna Koln,1,1
+15.03.2017,2016,Regensburg,Zwickau,1,2
+15.03.2017,2016,Wehen,Mainz II,0,2
+14.03.2017,2016,Erfurt,VfL Osnabruck,1,0
+14.03.2017,2016,Hallescher,Aalen,1,4
+14.03.2017,2016,Holstein Kiel,Duisburg,2,0
+14.03.2017,2016,Preussen Munster,FSV Frankfurt,2,1
+14.03.2017,2016,Werder Bremen II,Magdeburg,0,1
+12.03.2017,2016,Zwickau,Chemnitzer,1,0
+11.03.2017,2016,Aalen,Grossaspach,2,0
+11.03.2017,2016,Duisburg,Wehen,0,1
+11.03.2017,2016,Fortuna Koln,Regensburg,2,2
+11.03.2017,2016,FSV Frankfurt,Hallescher,0,1
+11.03.2017,2016,Lotte,Hansa Rostock,2,0
+11.03.2017,2016,Mainz II,Werder Bremen II,0,1
+11.03.2017,2016,Paderborn,Erfurt,0,1
+10.03.2017,2016,Magdeburg,Preussen Munster,1,0
+10.03.2017,2016,VfL Osnabruck,Holstein Kiel,2,1
+08.03.2017,2016,Lotte,Chemnitzer,3,0
+05.03.2017,2016,Werder Bremen II,Duisburg,0,0
+04.03.2017,2016,Erfurt,Zwickau,1,3
+04.03.2017,2016,Grossaspach,FSV Frankfurt,3,1
+04.03.2017,2016,Hansa Rostock,Aalen,1,1
+04.03.2017,2016,Holstein Kiel,Paderborn,2,1
+04.03.2017,2016,Magdeburg,Mainz II,1,2
+04.03.2017,2016,Preussen Munster,Hallescher,1,1
+04.03.2017,2016,Regensburg,Lotte,2,0
+04.03.2017,2016,Wehen,VfL Osnabruck,2,1
+03.03.2017,2016,Chemnitzer,Fortuna Koln,3,1
+26.02.2017,2016,Zwickau,Holstein Kiel,1,0
+25.02.2017,2016,Aalen,Regensburg,1,2
+25.02.2017,2016,Fortuna Koln,Erfurt,0,1
+25.02.2017,2016,FSV Frankfurt,Hansa Rostock,0,0
+25.02.2017,2016,Hallescher,Grossaspach,0,1
+25.02.2017,2016,Mainz II,Preussen Munster,3,1
+24.02.2017,2016,Duisburg,Magdeburg,0,0
+24.02.2017,2016,Paderborn,Wehen,0,1
+24.02.2017,2016,VfL Osnabruck,Werder Bremen II,0,1
+19.02.2017,2016,Hansa Rostock,Hallescher,1,0
+18.02.2017,2016,Chemnitzer,Aalen,0,1
+18.02.2017,2016,Erfurt,Lotte,0,3
+18.02.2017,2016,Holstein Kiel,Fortuna Koln,5,1
+18.02.2017,2016,Magdeburg,VfL Osnabruck,3,0
+18.02.2017,2016,Preussen Munster,Grossaspach,3,0
+18.02.2017,2016,Regensburg,FSV Frankfurt,2,1
+18.02.2017,2016,Wehen,Zwickau,3,0
+18.02.2017,2016,Werder Bremen II,Paderborn,1,0
+17.02.2017,2016,Mainz II,Duisburg,0,2
+12.02.2017,2016,Duisburg,Preussen Munster,3,2
+11.02.2017,2016,Fortuna Koln,Wehen,0,0
+11.02.2017,2016,FSV Frankfurt,Chemnitzer,0,3
+11.02.2017,2016,Grossaspach,Hansa Rostock,1,1
+11.02.2017,2016,Hallescher,Regensburg,1,1
+11.02.2017,2016,Paderborn,Magdeburg,1,1
+11.02.2017,2016,Zwickau,Werder Bremen II,2,1
+10.02.2017,2016,Aalen,Erfurt,1,1
+10.02.2017,2016,VfL Osnabruck,Mainz II,1,2
+05.02.2017,2016,Magdeburg,Zwickau,1,1
+05.02.2017,2016,Preussen Munster,Hansa Rostock,3,1
+05.02.2017,2016,Werder Bremen II,Fortuna Koln,1,1
+04.02.2017,2016,Chemnitzer,Hallescher,1,1
+04.02.2017,2016,Duisburg,VfL Osnabruck,2,2
+04.02.2017,2016,Erfurt,FSV Frankfurt,1,0
+04.02.2017,2016,Holstein Kiel,Aalen,2,2
+04.02.2017,2016,Mainz II,Paderborn,0,1
+04.02.2017,2016,Regensburg,Grossaspach,1,1
+04.02.2017,2016,Wehen,Lotte,0,3
+28.01.2017,2016,Aalen,Wehen,1,1
+28.01.2017,2016,Fortuna Koln,Magdeburg,2,1
+28.01.2017,2016,FSV Frankfurt,Holstein Kiel,0,0
+28.01.2017,2016,Grossaspach,Chemnitzer,2,2
+28.01.2017,2016,Hallescher,Erfurt,1,0
+28.01.2017,2016,Hansa Rostock,Regensburg,0,0
+28.01.2017,2016,Lotte,Werder Bremen II,1,2
+28.01.2017,2016,Paderborn,Duisburg,0,1
+28.01.2017,2016,VfL Osnabruck,Preussen Munster,3,0
+28.01.2017,2016,Zwickau,Mainz II,1,0
+18.12.2016,2016,Zwickau,Duisburg,1,1
+17.12.2016,2016,Aalen,Werder Bremen II,3,0
+17.12.2016,2016,Fortuna Koln,Mainz II,1,0
+17.12.2016,2016,FSV Frankfurt,Wehen,3,1
+17.12.2016,2016,Hallescher,Holstein Kiel,0,0
+17.12.2016,2016,Hansa Rostock,Chemnitzer,1,3
+17.12.2016,2016,Lotte,Magdeburg,1,3
+17.12.2016,2016,Paderborn,VfL Osnabruck,3,1
+17.12.2016,2016,Regensburg,Preussen Munster,3,1
+16.12.2016,2016,Grossaspach,Erfurt,2,1
+11.12.2016,2016,Mainz II,Lotte,0,2
+10.12.2016,2016,Chemnitzer,Regensburg,0,3
+10.12.2016,2016,Duisburg,Fortuna Koln,2,0
+10.12.2016,2016,Erfurt,Hansa Rostock,1,2
+10.12.2016,2016,Holstein Kiel,Grossaspach,1,2
+10.12.2016,2016,Magdeburg,Aalen,3,0
+10.12.2016,2016,Preussen Munster,Paderborn,0,1
+10.12.2016,2016,VfL Osnabruck,Zwickau,1,0
+10.12.2016,2016,Wehen,Hallescher,1,1
+10.12.2016,2016,Werder Bremen II,FSV Frankfurt,0,0
+04.12.2016,2016,FSV Frankfurt,Magdeburg,0,1
+04.12.2016,2016,Lotte,Duisburg,0,2
+03.12.2016,2016,Aalen,Mainz II,0,0
+03.12.2016,2016,Fortuna Koln,VfL Osnabruck,1,1
+03.12.2016,2016,Hallescher,Werder Bremen II,2,0
+03.12.2016,2016,Hansa Rostock,Holstein Kiel,1,4
+03.12.2016,2016,Zwickau,Paderborn,3,0
+02.12.2016,2016,Grossaspach,Wehen,2,1
+02.12.2016,2016,Preussen Munster,Chemnitzer,1,0
+02.12.2016,2016,Regensburg,Erfurt,0,1
+27.11.2016,2016,Mainz II,FSV Frankfurt,1,0
+27.11.2016,2016,Zwickau,Preussen Munster,0,1
+26.11.2016,2016,Duisburg,Aalen,2,2
+26.11.2016,2016,Erfurt,Chemnitzer,1,2
+26.11.2016,2016,Holstein Kiel,Regensburg,2,1
+26.11.2016,2016,Magdeburg,Hallescher,1,0
+26.11.2016,2016,Paderborn,Fortuna Koln,1,1
+26.11.2016,2016,VfL Osnabruck,Lotte,3,0
+26.11.2016,2016,Werder Bremen II,Grossaspach,1,0
+25.11.2016,2016,Wehen,Hansa Rostock,1,1
+19.11.2016,2016,Chemnitzer,Holstein Kiel,2,2
+19.11.2016,2016,FSV Frankfurt,Duisburg,0,0
+19.11.2016,2016,Grossaspach,Magdeburg,1,3
+19.11.2016,2016,Hallescher,Mainz II,2,0
+19.11.2016,2016,Hansa Rostock,Werder Bremen II,1,1
+19.11.2016,2016,Lotte,Paderborn,6,0
+19.11.2016,2016,Regensburg,Wehen,3,1
+18.11.2016,2016,Aalen,VfL Osnabruck,1,1
+18.11.2016,2016,Fortuna Koln,Zwickau,2,1
+18.11.2016,2016,Preussen Munster,Erfurt,4,0
+05.11.2016,2016,Duisburg,Hallescher,0,0
+05.11.2016,2016,Fortuna Koln,Preussen Munster,0,1
+05.11.2016,2016,Holstein Kiel,Erfurt,0,0
+05.11.2016,2016,Magdeburg,Hansa Rostock,1,1
+05.11.2016,2016,Mainz II,Grossaspach,0,2
+05.11.2016,2016,Paderborn,Aalen,0,0
+05.11.2016,2016,VfL Osnabruck,FSV Frankfurt,1,1
+05.11.2016,2016,Wehen,Chemnitzer,0,3
+05.11.2016,2016,Werder Bremen II,Regensburg,3,1
+05.11.2016,2016,Zwickau,Lotte,1,1
+29.10.2016,2016,Chemnitzer,Werder Bremen II,1,1
+29.10.2016,2016,Erfurt,Wehen,1,0
+29.10.2016,2016,FSV Frankfurt,Paderborn,3,0
+29.10.2016,2016,Grossaspach,Duisburg,0,0
+29.10.2016,2016,Hallescher,VfL Osnabruck,1,0
+29.10.2016,2016,Hansa Rostock,Mainz II,1,1
+29.10.2016,2016,Lotte,Fortuna Koln,0,1
+29.10.2016,2016,Preussen Munster,Holstein Kiel,1,1
+29.10.2016,2016,Regensburg,Magdeburg,1,1
+28.10.2016,2016,Aalen,Zwickau,0,1
+23.10.2016,2016,Mainz II,Regensburg,2,0
+23.10.2016,2016,Werder Bremen II,Erfurt,1,0
+22.10.2016,2016,Duisburg,Hansa Rostock,0,1
+22.10.2016,2016,Fortuna Koln,Aalen,0,2
+22.10.2016,2016,Lotte,Preussen Munster,1,0
+22.10.2016,2016,Magdeburg,Chemnitzer,2,4
+22.10.2016,2016,Paderborn,Hallescher,0,0
+22.10.2016,2016,VfL Osnabruck,Grossaspach,1,0
+22.10.2016,2016,Wehen,Holstein Kiel,0,0
+22.10.2016,2016,Zwickau,FSV Frankfurt,1,1
+16.10.2016,2016,Chemnitzer,Mainz II,4,1
+16.10.2016,2016,FSV Frankfurt,Fortuna Koln,6,0
+15.10.2016,2016,Aalen,Lotte,1,1
+15.10.2016,2016,Erfurt,Magdeburg,1,0
+15.10.2016,2016,Hallescher,Zwickau,3,2
+15.10.2016,2016,Hansa Rostock,VfL Osnabruck,1,2
+15.10.2016,2016,Holstein Kiel,Werder Bremen II,3,1
+15.10.2016,2016,Preussen Munster,Wehen,2,2
+15.10.2016,2016,Regensburg,Duisburg,1,2
+14.10.2016,2016,Grossaspach,Paderborn,2,3
+02.10.2016,2016,Mainz II,Erfurt,1,1
+01.10.2016,2016,Aalen,Preussen Munster,1,0
+01.10.2016,2016,Duisburg,Chemnitzer,1,0
+01.10.2016,2016,Fortuna Koln,Hallescher,1,1
+01.10.2016,2016,Lotte,FSV Frankfurt,0,1
+01.10.2016,2016,Magdeburg,Holstein Kiel,1,0
+01.10.2016,2016,VfL Osnabruck,Regensburg,1,2
+01.10.2016,2016,Werder Bremen II,Wehen,0,1
+30.09.2016,2016,Paderborn,Hansa Rostock,0,3
+30.09.2016,2016,Zwickau,Grossaspach,0,2
+25.09.2016,2016,Erfurt,Duisburg,0,1
+25.09.2016,2016,Hansa Rostock,Zwickau,5,0
+25.09.2016,2016,Wehen,Magdeburg,0,3
+24.09.2016,2016,Chemnitzer,VfL Osnabruck,3,0
+24.09.2016,2016,FSV Frankfurt,Aalen,2,1
+24.09.2016,2016,Grossaspach,Fortuna Koln,2,3
+24.09.2016,2016,Hallescher,Lotte,2,0
+24.09.2016,2016,Holstein Kiel,Mainz II,3,0
+24.09.2016,2016,Preussen Munster,Werder Bremen II,4,0
+24.09.2016,2016,Regensburg,Paderborn,3,0
+21.09.2016,2016,Fortuna Koln,Hansa Rostock,0,2
+21.09.2016,2016,FSV Frankfurt,Preussen Munster,4,1
+21.09.2016,2016,Lotte,Grossaspach,2,1
+21.09.2016,2016,Magdeburg,Werder Bremen II,2,0
+21.09.2016,2016,Mainz II,Wehen,1,2
+21.09.2016,2016,Paderborn,Chemnitzer,4,2
+20.09.2016,2016,Aalen,Hallescher,1,1
+20.09.2016,2016,Duisburg,Holstein Kiel,0,0
+20.09.2016,2016,VfL Osnabruck,Erfurt,3,0
+20.09.2016,2016,Zwickau,Regensburg,4,0
+17.09.2016,2016,Erfurt,Paderborn,1,3
+17.09.2016,2016,Grossaspach,Aalen,2,2
+17.09.2016,2016,Hallescher,FSV Frankfurt,1,1
+17.09.2016,2016,Hansa Rostock,Lotte,1,3
+17.09.2016,2016,Preussen Munster,Magdeburg,2,3
+17.09.2016,2016,Regensburg,Fortuna Koln,2,2
+17.09.2016,2016,Werder Bremen II,Mainz II,2,1
+16.09.2016,2016,Chemnitzer,Zwickau,1,0
+16.09.2016,2016,Holstein Kiel,VfL Osnabruck,0,1
+16.09.2016,2016,Wehen,Duisburg,3,0
+11.09.2016,2016,Paderborn,Holstein Kiel,1,3
+11.09.2016,2016,Zwickau,Erfurt,1,2
+10.09.2016,2016,Duisburg,Werder Bremen II,1,0
+10.09.2016,2016,Fortuna Koln,Chemnitzer,1,0
+10.09.2016,2016,FSV Frankfurt,Grossaspach,1,3
+10.09.2016,2016,Lotte,Regensburg,3,2
+10.09.2016,2016,Mainz II,Magdeburg,1,0
+09.09.2016,2016,Aalen,Hansa Rostock,1,1
+09.09.2016,2016,Hallescher,Preussen Munster,2,1
+09.09.2016,2016,VfL Osnabruck,Wehen,1,0
+01.09.2016,2016,Zwickau,Magdeburg,0,0
+27.08.2016,2016,Chemnitzer,Lotte,0,1
+27.08.2016,2016,Erfurt,Fortuna Koln,3,0
+27.08.2016,2016,Grossaspach,Hallescher,3,0
+27.08.2016,2016,Hansa Rostock,FSV Frankfurt,1,1
+27.08.2016,2016,Holstein Kiel,Zwickau,3,0
+27.08.2016,2016,Preussen Munster,Mainz II,1,0
+27.08.2016,2016,Regensburg,Aalen,0,2
+27.08.2016,2016,Wehen,Paderborn,1,2
+26.08.2016,2016,Magdeburg,Duisburg,1,2
+26.08.2016,2016,Werder Bremen II,VfL Osnabruck,4,2
+14.08.2016,2016,Aalen,Chemnitzer,2,2
+13.08.2016,2016,Duisburg,Mainz II,4,0
+13.08.2016,2016,Fortuna Koln,Holstein Kiel,1,0
+13.08.2016,2016,FSV Frankfurt,Regensburg,1,1
+13.08.2016,2016,Grossaspach,Preussen Munster,2,0
+13.08.2016,2016,Hallescher,Hansa Rostock,0,0
+13.08.2016,2016,Paderborn,Werder Bremen II,1,2
+13.08.2016,2016,VfL Osnabruck,Magdeburg,3,2
+13.08.2016,2016,Zwickau,Wehen,0,3
+12.08.2016,2016,Lotte,Erfurt,2,2
+10.08.2016,2016,Chemnitzer,FSV Frankfurt,2,1
+10.08.2016,2016,Hansa Rostock,Grossaspach,0,0
+10.08.2016,2016,Mainz II,VfL Osnabruck,2,2
+10.08.2016,2016,Preussen Munster,Duisburg,1,1
+10.08.2016,2016,Regensburg,Hallescher,2,0
+10.08.2016,2016,Werder Bremen II,Zwickau,1,3
+09.08.2016,2016,Erfurt,Aalen,0,0
+09.08.2016,2016,Holstein Kiel,Lotte,3,1
+09.08.2016,2016,Magdeburg,Paderborn,3,0
+09.08.2016,2016,Wehen,Fortuna Koln,3,0
+07.08.2016,2016,Grossaspach,Regensburg,3,4
+07.08.2016,2016,VfL Osnabruck,Duisburg,1,1
+06.08.2016,2016,Aalen,Holstein Kiel,1,0
+06.08.2016,2016,FSV Frankfurt,Erfurt,0,1
+06.08.2016,2016,Hallescher,Chemnitzer,1,1
+06.08.2016,2016,Lotte,Wehen,0,0
+06.08.2016,2016,Paderborn,Mainz II,3,1
+05.08.2016,2016,Fortuna Koln,Werder Bremen II,2,0
+05.08.2016,2016,Hansa Rostock,Preussen Munster,1,0
+31.07.2016,2016,Magdeburg,Fortuna Koln,0,3
+31.07.2016,2016,Preussen Munster,VfL Osnabruck,0,1
+31.07.2016,2016,Werder Bremen II,Lotte,0,3
+30.07.2016,2016,Chemnitzer,Grossaspach,0,0
+30.07.2016,2016,Erfurt,Hallescher,0,3
+30.07.2016,2016,Holstein Kiel,FSV Frankfurt,1,1
+30.07.2016,2016,Mainz II,Zwickau,2,2
+30.07.2016,2016,Regensburg,Hansa Rostock,2,0
+30.07.2016,2016,Wehen,Aalen,1,2
+29.07.2016,2016,Duisburg,Paderborn,1,0

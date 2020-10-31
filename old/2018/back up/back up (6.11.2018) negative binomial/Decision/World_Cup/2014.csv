@@ -1,0 +1,374 @@
+"Time","H.team.1","A.team.1","H.team.2","A.team.2","Choose.1","Choose.2","Odd.1","Odd.2","joint.odds","result.mat","opt.proportion"
+"2014-06-13","Spain","Netherlands","Mexico","Cameroon","A","H",4.95,2.18,10.791,1,0
+"2014-06-13","Spain","Netherlands","Mexico","Cameroon","D","D",3.34,3.13,10.4542,0,0
+"2014-06-13","Spain","Netherlands","Mexico","Cameroon","A","D",4.95,3.13,15.4935,0,0.002
+"2014-06-13","Spain","Netherlands","Mexico","Cameroon","D","A",3.34,3.72,12.4248,0,0
+"2014-06-13","Spain","Netherlands","Mexico","Cameroon","A","A",4.95,3.72,18.414,0,0.005
+"2014-06-14","Uruguay","Costa Rica","Colombia","Greece","A","H",8.91,1.86,16.5726,1,0.003
+"2014-06-14","Uruguay","Costa Rica","Colombia","Greece","D","D",4.16,3.23,13.4368,0,0
+"2014-06-14","Uruguay","Costa Rica","Colombia","Greece","A","D",8.91,3.23,28.7793,0,0.013
+"2014-06-14","Uruguay","Costa Rica","Colombia","Greece","D","A",4.16,5.01,20.8416,0,0.006
+"2014-06-14","Uruguay","Costa Rica","Colombia","Greece","A","A",8.91,5.01,44.6391,0,0.016
+"2014-06-14","Uruguay","Costa Rica","Chile","Australia","A","H",8.91,1.42,12.6522,1,0
+"2014-06-14","Uruguay","Costa Rica","Chile","Australia","D","D",4.16,4.39,18.2624,0,0.005
+"2014-06-14","Uruguay","Costa Rica","Chile","Australia","A","D",8.91,4.39,39.1149,0,0.016
+"2014-06-14","Uruguay","Costa Rica","Chile","Australia","H","A",1.44,8.55,12.312,0,0
+"2014-06-14","Uruguay","Costa Rica","Chile","Australia","D","A",4.16,8.55,35.568,0,0.016
+"2014-06-14","Uruguay","Costa Rica","Chile","Australia","A","A",8.91,8.55,76.1805,0,0.022
+"2014-06-14","Colombia","Greece","Chile","Australia","H","D",1.86,4.39,8.1654,0,0
+"2014-06-14","Colombia","Greece","Chile","Australia","D","D",3.23,4.39,14.1797,0,0.001
+"2014-06-14","Colombia","Greece","Chile","Australia","A","D",5.01,4.39,21.9939,0,0.008
+"2014-06-14","Colombia","Greece","Chile","Australia","H","A",1.86,8.55,15.903,0,0.002
+"2014-06-14","Colombia","Greece","Chile","Australia","D","A",3.23,8.55,27.6165,0,0.013
+"2014-06-14","Colombia","Greece","Chile","Australia","A","A",5.01,8.55,42.8355,0,0.016
+"2014-06-15","France","Honduras","Switzerland","Ecuador","D","H",5.9,2.4,14.16,0,0.001
+"2014-06-15","France","Honduras","Switzerland","Ecuador","A","H",12.14,2.4,29.136,0,0.013
+"2014-06-15","France","Honduras","Switzerland","Ecuador","D","D",5.9,3.2,18.88,0,0.005
+"2014-06-15","France","Honduras","Switzerland","Ecuador","A","D",12.14,3.2,38.848,0,0.016
+"2014-06-15","France","Honduras","Switzerland","Ecuador","D","A",5.9,3.14,18.526,0,0.005
+"2014-06-15","France","Honduras","Switzerland","Ecuador","A","A",12.14,3.14,38.1196,0,0.016
+"2014-06-15","France","Honduras","England","Italy","D","H",5.9,2.5,14.75,0,0.001
+"2014-06-15","France","Honduras","England","Italy","A","H",12.14,2.5,30.35,0,0.013
+"2014-06-15","France","Honduras","England","Italy","D","D",5.9,3,17.7,0,0.005
+"2014-06-15","France","Honduras","England","Italy","A","D",12.14,3,36.42,0,0.016
+"2014-06-15","France","Honduras","England","Italy","D","A",5.9,3.21,18.939,0,0.005
+"2014-06-15","France","Honduras","England","Italy","A","A",12.14,3.21,38.9694,0,0.016
+"2014-06-15","France","Honduras","Ivory Coast","Japan","D","H",5.9,2.7,15.93,0,0.002
+"2014-06-15","France","Honduras","Ivory Coast","Japan","A","H",12.14,2.7,32.778,0,0.016
+"2014-06-15","France","Honduras","Ivory Coast","Japan","D","D",5.9,3.28,19.352,0,0.005
+"2014-06-15","France","Honduras","Ivory Coast","Japan","A","D",12.14,3.28,39.8192,0,0.016
+"2014-06-15","France","Honduras","Ivory Coast","Japan","D","A",5.9,2.68,15.812,0,0.002
+"2014-06-15","France","Honduras","Ivory Coast","Japan","A","A",12.14,2.68,32.5352,0,0.016
+"2014-06-15","Switzerland","Ecuador","England","Italy","D","H",3.2,2.5,8,0,0
+"2014-06-15","Switzerland","Ecuador","England","Italy","D","D",3.2,3,9.6,0,0
+"2014-06-15","Switzerland","Ecuador","England","Italy","A","D",3.14,3,9.42,0,0
+"2014-06-15","Switzerland","Ecuador","England","Italy","D","A",3.2,3.21,10.272,0,0
+"2014-06-15","Switzerland","Ecuador","England","Italy","A","A",3.14,3.21,10.0794,0,0
+"2014-06-15","Switzerland","Ecuador","Ivory Coast","Japan","D","H",3.2,2.7,8.64,0,0
+"2014-06-15","Switzerland","Ecuador","Ivory Coast","Japan","A","H",3.14,2.7,8.478,0,0
+"2014-06-15","Switzerland","Ecuador","Ivory Coast","Japan","D","D",3.2,3.28,10.496,0,0
+"2014-06-15","Switzerland","Ecuador","Ivory Coast","Japan","A","D",3.14,3.28,10.2992,0,0
+"2014-06-15","Switzerland","Ecuador","Ivory Coast","Japan","D","A",3.2,2.68,8.576,0,0
+"2014-06-15","Switzerland","Ecuador","Ivory Coast","Japan","A","A",3.14,2.68,8.4152,0,0
+"2014-06-15","England","Italy","Ivory Coast","Japan","D","H",3,2.7,8.1,0,0
+"2014-06-15","England","Italy","Ivory Coast","Japan","A","H",3.21,2.7,8.667,0,0
+"2014-06-15","England","Italy","Ivory Coast","Japan","H","D",2.5,3.28,8.2,0,0
+"2014-06-15","England","Italy","Ivory Coast","Japan","D","D",3,3.28,9.84,0,0
+"2014-06-15","England","Italy","Ivory Coast","Japan","A","D",3.21,3.28,10.5288,0,0
+"2014-06-15","England","Italy","Ivory Coast","Japan","D","A",3,2.68,8.04,0,0
+"2014-06-15","England","Italy","Ivory Coast","Japan","A","A",3.21,2.68,8.6028,0,0
+"2014-06-16","Germany","Portugal","Argentina","Bosnia & Herzegovina","H","D",2.06,5.53,11.3918,0,0
+"2014-06-16","Germany","Portugal","Argentina","Bosnia & Herzegovina","D","D",3.5,5.53,19.355,0,0.005
+"2014-06-16","Germany","Portugal","Argentina","Bosnia & Herzegovina","A","D",3.64,5.53,20.1292,0,0.006
+"2014-06-16","Germany","Portugal","Argentina","Bosnia & Herzegovina","H","A",2.06,10.1,20.806,0,0.006
+"2014-06-16","Germany","Portugal","Argentina","Bosnia & Herzegovina","D","A",3.5,10.1,35.35,0,0.016
+"2014-06-16","Germany","Portugal","Argentina","Bosnia & Herzegovina","A","A",3.64,10.1,36.764,0,0.016
+"2014-06-16","Germany","Portugal","Iran","Nigeria","H","H",2.06,4.73,9.7438,1,0
+"2014-06-16","Germany","Portugal","Iran","Nigeria","D","H",3.5,4.73,16.555,0,0.003
+"2014-06-16","Germany","Portugal","Iran","Nigeria","A","H",3.64,4.73,17.2172,0,0.003
+"2014-06-16","Germany","Portugal","Iran","Nigeria","D","D",3.5,3.44,12.04,0,0
+"2014-06-16","Germany","Portugal","Iran","Nigeria","A","D",3.64,3.44,12.5216,0,0
+"2014-06-16","Argentina","Bosnia & Herzegovina","Iran","Nigeria","D","H",5.53,4.73,26.1569,0,0.011
+"2014-06-16","Argentina","Bosnia & Herzegovina","Iran","Nigeria","A","H",10.1,4.73,47.773,0,0.022
+"2014-06-16","Argentina","Bosnia & Herzegovina","Iran","Nigeria","D","D",5.53,3.44,19.0232,0,0.005
+"2014-06-16","Argentina","Bosnia & Herzegovina","Iran","Nigeria","A","D",10.1,3.44,34.744,0,0.016
+"2014-06-16","Argentina","Bosnia & Herzegovina","Iran","Nigeria","D","A",5.53,1.83,10.1199,0,0
+"2014-06-16","Argentina","Bosnia & Herzegovina","Iran","Nigeria","A","A",10.1,1.83,18.483,0,0.005
+"2014-06-17","Belgium","Algeria","Ghana","USA","D","H",5.14,2.41,12.3874,0,0
+"2014-06-17","Belgium","Algeria","Ghana","USA","A","H",9.69,2.41,23.3529,0,0.008
+"2014-06-17","Belgium","Algeria","Ghana","USA","D","D",5.14,3.38,17.3732,0,0.003
+"2014-06-17","Belgium","Algeria","Ghana","USA","A","D",9.69,3.38,32.7522,0,0.016
+"2014-06-17","Belgium","Algeria","Ghana","USA","D","A",5.14,2.98,15.3172,0,0.002
+"2014-06-17","Belgium","Algeria","Ghana","USA","A","A",9.69,2.98,28.8762,0,0.013
+"2014-06-17","Belgium","Algeria","Brazil","Mexico","A","H",9.69,1.34,12.9846,0,0
+"2014-06-17","Belgium","Algeria","Brazil","Mexico","D","D",5.14,5.23,26.8822,0,0.013
+"2014-06-17","Belgium","Algeria","Brazil","Mexico","A","D",9.69,5.23,50.6787,0,0.022
+"2014-06-17","Belgium","Algeria","Brazil","Mexico","H","A",1.33,9.01,11.9833,1,0
+"2014-06-17","Belgium","Algeria","Brazil","Mexico","D","A",5.14,9.01,46.3114,0,0.016
+"2014-06-17","Belgium","Algeria","Brazil","Mexico","A","A",9.69,9.01,87.3069,0,0.022
+"2014-06-17","Ghana","USA","Brazil","Mexico","H","D",2.41,5.23,12.6043,0,0
+"2014-06-17","Ghana","USA","Brazil","Mexico","D","D",3.38,5.23,17.6774,0,0.005
+"2014-06-17","Ghana","USA","Brazil","Mexico","A","D",2.98,5.23,15.5854,0,0.002
+"2014-06-17","Ghana","USA","Brazil","Mexico","H","A",2.41,9.01,21.7141,1,0.007
+"2014-06-17","Ghana","USA","Brazil","Mexico","D","A",3.38,9.01,30.4538,0,0.013
+"2014-06-17","Ghana","USA","Brazil","Mexico","A","A",2.98,9.01,26.8498,0,0.013
+"2014-06-18","Russia","South Korea","Australia","Netherlands","H","H",1.82,12.91,23.4962,0,0.009
+"2014-06-18","Russia","South Korea","Australia","Netherlands","D","H",3.56,12.91,45.9596,0,0.016
+"2014-06-18","Russia","South Korea","Australia","Netherlands","A","H",4.59,12.91,59.2569,0,0.022
+"2014-06-18","Russia","South Korea","Australia","Netherlands","H","D",1.82,6.5,11.83,0,0
+"2014-06-18","Russia","South Korea","Australia","Netherlands","D","D",3.56,6.5,23.14,0,0.008
+"2014-06-18","Russia","South Korea","Australia","Netherlands","A","D",4.59,6.5,29.835,0,0.013
+"2014-06-18","Russia","South Korea","Spain","Chile","H","D",1.82,4.41,8.0262,0,0
+"2014-06-18","Russia","South Korea","Spain","Chile","D","D",3.56,4.41,15.6996,0,0.002
+"2014-06-18","Russia","South Korea","Spain","Chile","A","D",4.59,4.41,20.2419,0,0.006
+"2014-06-18","Russia","South Korea","Spain","Chile","H","A",1.82,5.51,10.0282,0,0
+"2014-06-18","Russia","South Korea","Spain","Chile","D","A",3.56,5.51,19.6156,1,0.006
+"2014-06-18","Russia","South Korea","Spain","Chile","A","A",4.59,5.51,25.2909,0,0.011
+"2014-06-18","Australia","Netherlands","Spain","Chile","H","H",12.91,1.57,20.2687,0,0.006
+"2014-06-18","Australia","Netherlands","Spain","Chile","D","H",6.5,1.57,10.205,0,0
+"2014-06-18","Australia","Netherlands","Spain","Chile","H","D",12.91,4.41,56.9331,0,0.022
+"2014-06-18","Australia","Netherlands","Spain","Chile","D","D",6.5,4.41,28.665,0,0.013
+"2014-06-18","Australia","Netherlands","Spain","Chile","H","A",12.91,5.51,71.1341,0,0.022
+"2014-06-18","Australia","Netherlands","Spain","Chile","D","A",6.5,5.51,35.815,1,0.016
+"2014-06-19","Uruguay","England","Colombia","Ivory Coast","H","D",3.76,3.48,13.0848,0,0
+"2014-06-19","Uruguay","England","Colombia","Ivory Coast","D","D",3.73,3.48,12.9804,0,0
+"2014-06-19","Uruguay","England","Colombia","Ivory Coast","H","A",3.76,3.76,14.1376,0,0.001
+"2014-06-19","Uruguay","England","Colombia","Ivory Coast","D","A",3.73,3.76,14.0248,0,0.001
+"2014-06-19","Uruguay","England","Cameroon","Croatia","H","H",3.76,5.46,20.5296,1,0.006
+"2014-06-19","Uruguay","England","Cameroon","Croatia","D","H",3.73,5.46,20.3658,0,0.006
+"2014-06-19","Uruguay","England","Cameroon","Croatia","A","H",1.95,5.46,10.647,0,0
+"2014-06-19","Uruguay","England","Cameroon","Croatia","H","D",3.76,3.9,14.664,0,0.001
+"2014-06-19","Uruguay","England","Cameroon","Croatia","D","D",3.73,3.9,14.547,0,0.001
+"2014-06-19","Colombia","Ivory Coast","Cameroon","Croatia","H","H",2.02,5.46,11.0292,1,0
+"2014-06-19","Colombia","Ivory Coast","Cameroon","Croatia","D","H",3.48,5.46,19.0008,0,0.005
+"2014-06-19","Colombia","Ivory Coast","Cameroon","Croatia","A","H",3.76,5.46,20.5296,0,0.006
+"2014-06-19","Colombia","Ivory Coast","Cameroon","Croatia","D","D",3.48,3.9,13.572,0,0
+"2014-06-19","Colombia","Ivory Coast","Cameroon","Croatia","A","D",3.76,3.9,14.664,0,0.001
+"2014-06-20","Switzerland","France","Italy","Costa Rica","H","D",4.54,3.98,18.0692,0,0.005
+"2014-06-20","Switzerland","France","Italy","Costa Rica","D","D",3.47,3.98,13.8106,0,0
+"2014-06-20","Switzerland","France","Italy","Costa Rica","H","A",4.54,6.51,29.5554,0,0.013
+"2014-06-20","Switzerland","France","Italy","Costa Rica","D","A",3.47,6.51,22.5897,0,0.008
+"2014-06-20","Switzerland","France","Italy","Costa Rica","A","A",1.86,6.51,12.1086,1,0
+"2014-06-20","Switzerland","France","Japan","Greece","H","H",4.54,2.38,10.8052,0,0
+"2014-06-20","Switzerland","France","Japan","Greece","D","H",3.47,2.38,8.2586,0,0
+"2014-06-20","Switzerland","France","Japan","Greece","H","D",4.54,3.33,15.1182,0,0.001
+"2014-06-20","Switzerland","France","Japan","Greece","D","D",3.47,3.33,11.5551,0,0
+"2014-06-20","Switzerland","France","Japan","Greece","H","A",4.54,3.06,13.8924,0,0
+"2014-06-20","Switzerland","France","Japan","Greece","D","A",3.47,3.06,10.6182,0,0
+"2014-06-20","Italy","Costa Rica","Japan","Greece","D","H",3.98,2.38,9.4724,0,0
+"2014-06-20","Italy","Costa Rica","Japan","Greece","A","H",6.51,2.38,15.4938,0,0.002
+"2014-06-20","Italy","Costa Rica","Japan","Greece","D","D",3.98,3.33,13.2534,0,0
+"2014-06-20","Italy","Costa Rica","Japan","Greece","A","D",6.51,3.33,21.6783,0,0.007
+"2014-06-20","Italy","Costa Rica","Japan","Greece","D","A",3.98,3.06,12.1788,0,0
+"2014-06-20","Italy","Costa Rica","Japan","Greece","A","A",6.51,3.06,19.9206,1,0.006
+"2014-06-21","Germany","Ghana","Argentina","Iran","A","H",8.97,1.14,10.2258,0,0
+"2014-06-21","Germany","Ghana","Argentina","Iran","H","D",1.33,8.35,11.1055,0,0
+"2014-06-21","Germany","Ghana","Argentina","Iran","D","D",5.44,8.35,45.424,0,0.016
+"2014-06-21","Germany","Ghana","Argentina","Iran","A","D",8.97,8.35,74.8995,0,0.022
+"2014-06-21","Germany","Ghana","Argentina","Iran","H","A",1.33,20.74,27.5842,0,0.013
+"2014-06-21","Germany","Ghana","Argentina","Iran","D","A",5.44,20.74,112.8256,0,0.022
+"2014-06-21","Germany","Ghana","Honduras","Ecuador","D","H",5.44,5.71,31.0624,1,0.013
+"2014-06-21","Germany","Ghana","Honduras","Ecuador","A","H",8.97,5.71,51.2187,0,0.022
+"2014-06-21","Germany","Ghana","Honduras","Ecuador","D","D",5.44,4.12,22.4128,0,0.008
+"2014-06-21","Germany","Ghana","Honduras","Ecuador","A","D",8.97,4.12,36.9564,0,0.016
+"2014-06-21","Germany","Ghana","Honduras","Ecuador","D","A",5.44,1.59,8.6496,0,0
+"2014-06-21","Germany","Ghana","Honduras","Ecuador","A","A",8.97,1.59,14.2623,0,0.001
+"2014-06-21","Argentina","Iran","Honduras","Ecuador","D","H",8.35,5.71,47.6785,1,0.022
+"2014-06-21","Argentina","Iran","Honduras","Ecuador","A","H",20.74,5.71,118.4254,0,0.022
+"2014-06-21","Argentina","Iran","Honduras","Ecuador","D","D",8.35,4.12,34.402,0,0.016
+"2014-06-21","Argentina","Iran","Honduras","Ecuador","A","D",20.74,4.12,85.4488,0,0.022
+"2014-06-21","Argentina","Iran","Honduras","Ecuador","D","A",8.35,1.59,13.2765,0,0
+"2014-06-21","Argentina","Iran","Honduras","Ecuador","A","A",20.74,1.59,32.9766,0,0.016
+"2014-06-22","Belgium","Russia","South Korea","Algeria","D","H",3.3,2.5,8.25,0,0
+"2014-06-22","Belgium","Russia","South Korea","Algeria","A","H",3.43,2.5,8.575,0,0
+"2014-06-22","Belgium","Russia","South Korea","Algeria","D","D",3.3,3.25,10.725,0,0
+"2014-06-22","Belgium","Russia","South Korea","Algeria","A","D",3.43,3.25,11.1475,0,0
+"2014-06-22","Belgium","Russia","South Korea","Algeria","D","A",3.3,2.92,9.636,0,0
+"2014-06-22","Belgium","Russia","South Korea","Algeria","A","A",3.43,2.92,10.0156,0,0
+"2014-06-22","Belgium","Russia","Nigeria","Bosnia & Herzegovina","H","H",2.2,4.25,9.35,0,0
+"2014-06-22","Belgium","Russia","Nigeria","Bosnia & Herzegovina","D","H",3.3,4.25,14.025,0,0.001
+"2014-06-22","Belgium","Russia","Nigeria","Bosnia & Herzegovina","A","H",3.43,4.25,14.5775,0,0.001
+"2014-06-22","Belgium","Russia","Nigeria","Bosnia & Herzegovina","D","D",3.3,3.59,11.847,0,0
+"2014-06-22","Belgium","Russia","Nigeria","Bosnia & Herzegovina","A","D",3.43,3.59,12.3137,0,0
+"2014-06-22","South Korea","Algeria","Nigeria","Bosnia & Herzegovina","H","H",2.5,4.25,10.625,0,0
+"2014-06-22","South Korea","Algeria","Nigeria","Bosnia & Herzegovina","D","H",3.25,4.25,13.8125,0,0
+"2014-06-22","South Korea","Algeria","Nigeria","Bosnia & Herzegovina","A","H",2.92,4.25,12.41,0,0
+"2014-06-22","South Korea","Algeria","Nigeria","Bosnia & Herzegovina","H","D",2.5,3.59,8.975,0,0
+"2014-06-22","South Korea","Algeria","Nigeria","Bosnia & Herzegovina","D","D",3.25,3.59,11.6675,0,0
+"2014-06-22","South Korea","Algeria","Nigeria","Bosnia & Herzegovina","A","D",2.92,3.59,10.4828,0,0
+"2014-06-23","USA","Portugal","Australia","Spain","H","H",4.53,7.8,35.334,0,0.016
+"2014-06-23","USA","Portugal","Australia","Spain","D","H",4.02,7.8,31.356,0,0.013
+"2014-06-23","USA","Portugal","Australia","Spain","A","H",1.73,7.8,13.494,0,0
+"2014-06-23","USA","Portugal","Australia","Spain","H","D",4.53,5.19,23.5107,0,0.009
+"2014-06-23","USA","Portugal","Australia","Spain","D","D",4.02,5.19,20.8638,0,0.006
+"2014-06-23","USA","Portugal","Australia","Spain","A","D",1.73,5.19,8.9787,0,0
+"2014-06-23","USA","Portugal","Netherlands","Chile","H","H",4.53,2.66,12.0498,0,0
+"2014-06-23","USA","Portugal","Netherlands","Chile","D","H",4.02,2.66,10.6932,0,0
+"2014-06-23","USA","Portugal","Netherlands","Chile","H","D",4.53,3.47,15.7191,0,0.002
+"2014-06-23","USA","Portugal","Netherlands","Chile","D","D",4.02,3.47,13.9494,0,0
+"2014-06-23","USA","Portugal","Netherlands","Chile","H","A",4.53,2.6,11.778,0,0
+"2014-06-23","USA","Portugal","Netherlands","Chile","D","A",4.02,2.6,10.452,1,0
+"2014-06-23","USA","Portugal","Cameroon","Brazil","H","H",4.53,21.37,96.8061,0,0.022
+"2014-06-23","USA","Portugal","Cameroon","Brazil","D","H",4.02,21.37,85.9074,0,0.022
+"2014-06-23","USA","Portugal","Cameroon","Brazil","A","H",1.73,21.37,36.9701,0,0.016
+"2014-06-23","USA","Portugal","Cameroon","Brazil","H","D",4.53,9.28,42.0384,0,0.016
+"2014-06-23","USA","Portugal","Cameroon","Brazil","D","D",4.02,9.28,37.3056,0,0.016
+"2014-06-23","USA","Portugal","Cameroon","Brazil","A","D",1.73,9.28,16.0544,0,0.002
+"2014-06-23","USA","Portugal","Croatia","Mexico","H","H",4.53,2.68,12.1404,0,0
+"2014-06-23","USA","Portugal","Croatia","Mexico","D","H",4.02,2.68,10.7736,0,0
+"2014-06-23","USA","Portugal","Croatia","Mexico","H","D",4.53,3.42,15.4926,0,0.002
+"2014-06-23","USA","Portugal","Croatia","Mexico","D","D",4.02,3.42,13.7484,0,0
+"2014-06-23","USA","Portugal","Croatia","Mexico","H","A",4.53,2.61,11.8233,0,0
+"2014-06-23","USA","Portugal","Croatia","Mexico","D","A",4.02,2.61,10.4922,1,0
+"2014-06-23","Australia","Spain","Netherlands","Chile","H","H",7.8,2.66,20.748,0,0.006
+"2014-06-23","Australia","Spain","Netherlands","Chile","D","H",5.19,2.66,13.8054,0,0
+"2014-06-23","Australia","Spain","Netherlands","Chile","H","D",7.8,3.47,27.066,0,0.013
+"2014-06-23","Australia","Spain","Netherlands","Chile","D","D",5.19,3.47,18.0093,0,0.005
+"2014-06-23","Australia","Spain","Netherlands","Chile","H","A",7.8,2.6,20.28,0,0.006
+"2014-06-23","Australia","Spain","Netherlands","Chile","D","A",5.19,2.6,13.494,1,0
+"2014-06-23","Australia","Spain","Cameroon","Brazil","D","H",5.19,21.37,110.9103,0,0.022
+"2014-06-23","Australia","Spain","Cameroon","Brazil","A","H",1.38,21.37,29.4906,0,0.013
+"2014-06-23","Australia","Spain","Cameroon","Brazil","H","D",7.8,9.28,72.384,0,0.022
+"2014-06-23","Australia","Spain","Cameroon","Brazil","D","D",5.19,9.28,48.1632,0,0.022
+"2014-06-23","Australia","Spain","Cameroon","Brazil","A","D",1.38,9.28,12.8064,0,0
+"2014-06-23","Australia","Spain","Cameroon","Brazil","H","A",7.8,1.12,8.736,0,0
+"2014-06-23","Australia","Spain","Croatia","Mexico","H","H",7.8,2.68,20.904,0,0.006
+"2014-06-23","Australia","Spain","Croatia","Mexico","D","H",5.19,2.68,13.9092,0,0
+"2014-06-23","Australia","Spain","Croatia","Mexico","H","D",7.8,3.42,26.676,0,0.013
+"2014-06-23","Australia","Spain","Croatia","Mexico","D","D",5.19,3.42,17.7498,0,0.005
+"2014-06-23","Australia","Spain","Croatia","Mexico","H","A",7.8,2.61,20.358,0,0.006
+"2014-06-23","Australia","Spain","Croatia","Mexico","D","A",5.19,2.61,13.5459,1,0
+"2014-06-23","Netherlands","Chile","Cameroon","Brazil","H","H",2.66,21.37,56.8442,0,0.022
+"2014-06-23","Netherlands","Chile","Cameroon","Brazil","D","H",3.47,21.37,74.1539,0,0.022
+"2014-06-23","Netherlands","Chile","Cameroon","Brazil","A","H",2.6,21.37,55.562,0,0.022
+"2014-06-23","Netherlands","Chile","Cameroon","Brazil","H","D",2.66,9.28,24.6848,0,0.011
+"2014-06-23","Netherlands","Chile","Cameroon","Brazil","D","D",3.47,9.28,32.2016,0,0.013
+"2014-06-23","Netherlands","Chile","Cameroon","Brazil","A","D",2.6,9.28,24.128,0,0.011
+"2014-06-23","Netherlands","Chile","Croatia","Mexico","D","H",3.47,2.68,9.2996,0,0
+"2014-06-23","Netherlands","Chile","Croatia","Mexico","H","D",2.66,3.42,9.0972,0,0
+"2014-06-23","Netherlands","Chile","Croatia","Mexico","D","D",3.47,3.42,11.8674,0,0
+"2014-06-23","Netherlands","Chile","Croatia","Mexico","A","D",2.6,3.42,8.892,0,0
+"2014-06-23","Netherlands","Chile","Croatia","Mexico","D","A",3.47,2.61,9.0567,1,0
+"2014-06-23","Cameroon","Brazil","Croatia","Mexico","H","H",21.37,2.68,57.2716,0,0.022
+"2014-06-23","Cameroon","Brazil","Croatia","Mexico","D","H",9.28,2.68,24.8704,0,0.011
+"2014-06-23","Cameroon","Brazil","Croatia","Mexico","H","D",21.37,3.42,73.0854,0,0.022
+"2014-06-23","Cameroon","Brazil","Croatia","Mexico","D","D",9.28,3.42,31.7376,0,0.013
+"2014-06-23","Cameroon","Brazil","Croatia","Mexico","H","A",21.37,2.61,55.7757,0,0.022
+"2014-06-23","Cameroon","Brazil","Croatia","Mexico","D","A",9.28,2.61,24.2208,1,0.011
+"2014-06-24","Costa Rica","England","Italy","Uruguay","H","H",4.36,2.54,11.0744,0,0
+"2014-06-24","Costa Rica","England","Italy","Uruguay","D","H",3.91,2.54,9.9314,0,0
+"2014-06-24","Costa Rica","England","Italy","Uruguay","H","D",4.36,3.43,14.9548,0,0.001
+"2014-06-24","Costa Rica","England","Italy","Uruguay","D","D",3.91,3.43,13.4113,0,0
+"2014-06-24","Costa Rica","England","Italy","Uruguay","H","A",4.36,2.76,12.0336,0,0
+"2014-06-24","Costa Rica","England","Italy","Uruguay","D","A",3.91,2.76,10.7916,1,0
+"2014-06-24","Costa Rica","England","Greece","Ivory Coast","H","H",4.36,3.91,17.0476,0,0.003
+"2014-06-24","Costa Rica","England","Greece","Ivory Coast","D","H",3.91,3.91,15.2881,0,0.002
+"2014-06-24","Costa Rica","England","Greece","Ivory Coast","H","D",4.36,3.57,15.5652,0,0.002
+"2014-06-24","Costa Rica","England","Greece","Ivory Coast","D","D",3.91,3.57,13.9587,0,0
+"2014-06-24","Costa Rica","England","Greece","Ivory Coast","H","A",4.36,1.95,8.502,0,0
+"2014-06-24","Costa Rica","England","Japan","Colombia","H","H",4.36,3.39,14.7804,0,0.001
+"2014-06-24","Costa Rica","England","Japan","Colombia","D","H",3.91,3.39,13.2549,0,0
+"2014-06-24","Costa Rica","England","Japan","Colombia","H","D",4.36,3.68,16.0448,0,0.002
+"2014-06-24","Costa Rica","England","Japan","Colombia","D","D",3.91,3.68,14.3888,0,0.001
+"2014-06-24","Costa Rica","England","Japan","Colombia","H","A",4.36,2.08,9.0688,0,0
+"2014-06-24","Costa Rica","England","Japan","Colombia","D","A",3.91,2.08,8.1328,1,0
+"2014-06-24","Italy","Uruguay","Greece","Ivory Coast","H","H",2.54,3.91,9.9314,0,0
+"2014-06-24","Italy","Uruguay","Greece","Ivory Coast","D","H",3.43,3.91,13.4113,0,0
+"2014-06-24","Italy","Uruguay","Greece","Ivory Coast","A","H",2.76,3.91,10.7916,0,0
+"2014-06-24","Italy","Uruguay","Greece","Ivory Coast","H","D",2.54,3.57,9.0678,0,0
+"2014-06-24","Italy","Uruguay","Greece","Ivory Coast","D","D",3.43,3.57,12.2451,0,0
+"2014-06-24","Italy","Uruguay","Greece","Ivory Coast","A","D",2.76,3.57,9.8532,0,0
+"2014-06-24","Italy","Uruguay","Japan","Colombia","H","H",2.54,3.39,8.6106,0,0
+"2014-06-24","Italy","Uruguay","Japan","Colombia","D","H",3.43,3.39,11.6277,0,0
+"2014-06-24","Italy","Uruguay","Japan","Colombia","A","H",2.76,3.39,9.3564,0,0
+"2014-06-24","Italy","Uruguay","Japan","Colombia","H","D",2.54,3.68,9.3472,0,0
+"2014-06-24","Italy","Uruguay","Japan","Colombia","D","D",3.43,3.68,12.6224,0,0
+"2014-06-24","Italy","Uruguay","Japan","Colombia","A","D",2.76,3.68,10.1568,0,0
+"2014-06-24","Greece","Ivory Coast","Japan","Colombia","H","H",3.91,3.39,13.2549,0,0
+"2014-06-24","Greece","Ivory Coast","Japan","Colombia","D","H",3.57,3.39,12.1023,0,0
+"2014-06-24","Greece","Ivory Coast","Japan","Colombia","H","D",3.91,3.68,14.3888,0,0.001
+"2014-06-24","Greece","Ivory Coast","Japan","Colombia","D","D",3.57,3.68,13.1376,0,0
+"2014-06-24","Greece","Ivory Coast","Japan","Colombia","H","A",3.91,2.08,8.1328,0,0
+"2014-06-25","Bosnia & Herzegovina","Iran","Nigeria","Argentina","H","H",2.2,9.25,20.35,0,0.006
+"2014-06-25","Bosnia & Herzegovina","Iran","Nigeria","Argentina","D","H",3.51,9.25,32.4675,0,0.013
+"2014-06-25","Bosnia & Herzegovina","Iran","Nigeria","Argentina","A","H",3.25,9.25,30.0625,0,0.013
+"2014-06-25","Bosnia & Herzegovina","Iran","Nigeria","Argentina","H","D",2.2,4.15,9.13,0,0
+"2014-06-25","Bosnia & Herzegovina","Iran","Nigeria","Argentina","D","D",3.51,4.15,14.5665,0,0.001
+"2014-06-25","Bosnia & Herzegovina","Iran","Nigeria","Argentina","A","D",3.25,4.15,13.4875,0,0
+"2014-06-25","Bosnia & Herzegovina","Iran","Ecuador","France","H","H",2.2,5.51,12.122,0,0
+"2014-06-25","Bosnia & Herzegovina","Iran","Ecuador","France","D","H",3.51,5.51,19.3401,0,0.005
+"2014-06-25","Bosnia & Herzegovina","Iran","Ecuador","France","A","H",3.25,5.51,17.9075,0,0.005
+"2014-06-25","Bosnia & Herzegovina","Iran","Ecuador","France","H","D",2.2,4.07,8.954,0,0
+"2014-06-25","Bosnia & Herzegovina","Iran","Ecuador","France","D","D",3.51,4.07,14.2857,0,0.001
+"2014-06-25","Bosnia & Herzegovina","Iran","Ecuador","France","A","D",3.25,4.07,13.2275,0,0
+"2014-06-25","Bosnia & Herzegovina","Iran","Honduras","Switzerland","H","H",2.2,6.97,15.334,0,0.002
+"2014-06-25","Bosnia & Herzegovina","Iran","Honduras","Switzerland","D","H",3.51,6.97,24.4647,0,0.011
+"2014-06-25","Bosnia & Herzegovina","Iran","Honduras","Switzerland","A","H",3.25,6.97,22.6525,0,0.008
+"2014-06-25","Bosnia & Herzegovina","Iran","Honduras","Switzerland","H","D",2.2,4.41,9.702,0,0
+"2014-06-25","Bosnia & Herzegovina","Iran","Honduras","Switzerland","D","D",3.51,4.41,15.4791,0,0.002
+"2014-06-25","Bosnia & Herzegovina","Iran","Honduras","Switzerland","A","D",3.25,4.41,14.3325,0,0.001
+"2014-06-25","Nigeria","Argentina","Ecuador","France","H","H",9.25,5.51,50.9675,0,0.022
+"2014-06-25","Nigeria","Argentina","Ecuador","France","D","H",4.15,5.51,22.8665,0,0.008
+"2014-06-25","Nigeria","Argentina","Ecuador","France","H","D",9.25,4.07,37.6475,0,0.016
+"2014-06-25","Nigeria","Argentina","Ecuador","France","D","D",4.15,4.07,16.8905,0,0.003
+"2014-06-25","Nigeria","Argentina","Ecuador","France","H","A",9.25,1.61,14.8925,1,0.001
+"2014-06-25","Nigeria","Argentina","Honduras","Switzerland","H","H",9.25,6.97,64.4725,0,0.022
+"2014-06-25","Nigeria","Argentina","Honduras","Switzerland","D","H",4.15,6.97,28.9255,0,0.013
+"2014-06-25","Nigeria","Argentina","Honduras","Switzerland","A","H",1.43,6.97,9.9671,0,0
+"2014-06-25","Nigeria","Argentina","Honduras","Switzerland","H","D",9.25,4.41,40.7925,0,0.016
+"2014-06-25","Nigeria","Argentina","Honduras","Switzerland","D","D",4.15,4.41,18.3015,0,0.005
+"2014-06-25","Nigeria","Argentina","Honduras","Switzerland","H","A",9.25,1.48,13.69,1,0
+"2014-06-25","Ecuador","France","Honduras","Switzerland","H","H",5.51,6.97,38.4047,0,0.016
+"2014-06-25","Ecuador","France","Honduras","Switzerland","D","H",4.07,6.97,28.3679,0,0.013
+"2014-06-25","Ecuador","France","Honduras","Switzerland","A","H",1.61,6.97,11.2217,0,0
+"2014-06-25","Ecuador","France","Honduras","Switzerland","H","D",5.51,4.41,24.2991,0,0.011
+"2014-06-25","Ecuador","France","Honduras","Switzerland","D","D",4.07,4.41,17.9487,0,0.005
+"2014-06-25","Ecuador","France","Honduras","Switzerland","H","A",5.51,1.48,8.1548,1,0
+"2014-06-26","Algeria","Russia","South Korea","Belgium","H","H",3.6,4.53,16.308,0,0.003
+"2014-06-26","Algeria","Russia","South Korea","Belgium","D","H",3.64,4.53,16.4892,0,0.003
+"2014-06-26","Algeria","Russia","South Korea","Belgium","A","H",2.02,4.53,9.1506,0,0
+"2014-06-26","Algeria","Russia","South Korea","Belgium","H","D",3.6,3.54,12.744,0,0
+"2014-06-26","Algeria","Russia","South Korea","Belgium","D","D",3.64,3.54,12.8856,0,0
+"2014-06-26","Algeria","Russia","Portugal","Ghana","H","D",3.6,4.75,17.1,0,0.003
+"2014-06-26","Algeria","Russia","Portugal","Ghana","D","D",3.64,4.75,17.29,0,0.003
+"2014-06-26","Algeria","Russia","Portugal","Ghana","A","D",2.02,4.75,9.595,0,0
+"2014-06-26","Algeria","Russia","Portugal","Ghana","H","A",3.6,3.7,13.32,0,0
+"2014-06-26","Algeria","Russia","Portugal","Ghana","D","A",3.64,3.7,13.468,1,0
+"2014-06-26","Algeria","Russia","USA","Germany","H","H",3.6,8.07,29.052,0,0.013
+"2014-06-26","Algeria","Russia","USA","Germany","D","H",3.64,8.07,29.3748,0,0.013
+"2014-06-26","Algeria","Russia","USA","Germany","A","H",2.02,8.07,16.3014,0,0.003
+"2014-06-26","Algeria","Russia","USA","Germany","H","D",3.6,3.05,10.98,0,0
+"2014-06-26","Algeria","Russia","USA","Germany","D","D",3.64,3.05,11.102,0,0
+"2014-06-26","South Korea","Belgium","Portugal","Ghana","H","H",4.53,1.77,8.0181,0,0
+"2014-06-26","South Korea","Belgium","Portugal","Ghana","H","D",4.53,4.75,21.5175,0,0.007
+"2014-06-26","South Korea","Belgium","Portugal","Ghana","D","D",3.54,4.75,16.815,0,0.003
+"2014-06-26","South Korea","Belgium","Portugal","Ghana","A","D",1.84,4.75,8.74,0,0
+"2014-06-26","South Korea","Belgium","Portugal","Ghana","H","A",4.53,3.7,16.761,0,0.003
+"2014-06-26","South Korea","Belgium","Portugal","Ghana","D","A",3.54,3.7,13.098,1,0
+"2014-06-26","South Korea","Belgium","USA","Germany","H","H",4.53,8.07,36.5571,0,0.016
+"2014-06-26","South Korea","Belgium","USA","Germany","D","H",3.54,8.07,28.5678,0,0.013
+"2014-06-26","South Korea","Belgium","USA","Germany","A","H",1.84,8.07,14.8488,0,0.001
+"2014-06-26","South Korea","Belgium","USA","Germany","H","D",4.53,3.05,13.8165,0,0
+"2014-06-26","South Korea","Belgium","USA","Germany","D","D",3.54,3.05,10.797,0,0
+"2014-06-26","Portugal","Ghana","USA","Germany","H","H",1.77,8.07,14.2839,0,0.001
+"2014-06-26","Portugal","Ghana","USA","Germany","D","H",4.75,8.07,38.3325,0,0.016
+"2014-06-26","Portugal","Ghana","USA","Germany","A","H",3.7,8.07,29.859,0,0.013
+"2014-06-26","Portugal","Ghana","USA","Germany","D","D",4.75,3.05,14.4875,0,0.001
+"2014-06-26","Portugal","Ghana","USA","Germany","A","D",3.7,3.05,11.285,0,0
+"2014-06-26","Portugal","Ghana","USA","Germany","D","A",4.75,1.67,7.9325,1,0
+"2014-06-28","Brazil","Chile","Colombia","Uruguay","D","H",4.4,2.13,9.372,1,0
+"2014-06-28","Brazil","Chile","Colombia","Uruguay","A","H",6.21,2.13,13.2273,0,0
+"2014-06-28","Brazil","Chile","Colombia","Uruguay","D","D",4.4,3.32,14.608,0,0.001
+"2014-06-28","Brazil","Chile","Colombia","Uruguay","A","D",6.21,3.32,20.6172,0,0.006
+"2014-06-28","Brazil","Chile","Colombia","Uruguay","D","A",4.4,3.62,15.928,0,0.002
+"2014-06-28","Brazil","Chile","Colombia","Uruguay","A","A",6.21,3.62,22.4802,0,0.008
+"2014-06-29","Costa Rica","Greece","Netherlands","Mexico","H","D",2.64,3.29,8.6856,0,0
+"2014-06-29","Costa Rica","Greece","Netherlands","Mexico","D","D",3.08,3.29,10.1332,0,0
+"2014-06-29","Costa Rica","Greece","Netherlands","Mexico","A","D",2.9,3.29,9.541,0,0
+"2014-06-29","Costa Rica","Greece","Netherlands","Mexico","H","A",2.64,3.68,9.7152,0,0
+"2014-06-29","Costa Rica","Greece","Netherlands","Mexico","D","A",3.08,3.68,11.3344,0,0
+"2014-06-29","Costa Rica","Greece","Netherlands","Mexico","A","A",2.9,3.68,10.672,0,0
+"2014-06-30","France","Nigeria","Germany","Algeria","A","H",8.44,1.31,11.0564,0,0
+"2014-06-30","France","Nigeria","Germany","Algeria","D","D",4.6,5.52,25.392,0,0.011
+"2014-06-30","France","Nigeria","Germany","Algeria","A","D",8.44,5.52,46.5888,0,0.016
+"2014-06-30","France","Nigeria","Germany","Algeria","H","A",1.41,9.94,14.0154,0,0.001
+"2014-06-30","France","Nigeria","Germany","Algeria","D","A",4.6,9.94,45.724,0,0.016
+"2014-06-30","France","Nigeria","Germany","Algeria","A","A",8.44,9.94,83.8936,0,0.022
+"2014-07-01","Argentina","Switzerland","Belgium","USA","D","H",4.07,2,8.14,0,0
+"2014-07-01","Argentina","Switzerland","Belgium","USA","A","H",6.25,2,12.5,0,0
+"2014-07-01","Argentina","Switzerland","Belgium","USA","D","D",4.07,3.36,13.6752,1,0
+"2014-07-01","Argentina","Switzerland","Belgium","USA","A","D",6.25,3.36,21,0,0.006
+"2014-07-01","Argentina","Switzerland","Belgium","USA","D","A",4.07,3.98,16.1986,0,0.003
+"2014-07-01","Argentina","Switzerland","Belgium","USA","A","A",6.25,3.98,24.875,0,0.011
+"2014-07-04","Brazil","Colombia","France","Germany","D","H",3.72,2.79,10.3788,0,0
+"2014-07-04","Brazil","Colombia","France","Germany","A","H",4.78,2.79,13.3362,0,0
+"2014-07-04","Brazil","Colombia","France","Germany","D","D",3.72,3.11,11.5692,0,0
+"2014-07-04","Brazil","Colombia","France","Germany","A","D",4.78,3.11,14.8658,0,0.001
+"2014-07-04","Brazil","Colombia","France","Germany","D","A",3.72,2.74,10.1928,0,0
+"2014-07-04","Brazil","Colombia","France","Germany","A","A",4.78,2.74,13.0972,0,0
+"2014-07-05","Argentina","Belgium","Netherlands","Costa Rica","H","D",1.99,4.08,8.1192,1,0
+"2014-07-05","Argentina","Belgium","Netherlands","Costa Rica","D","D",3.32,4.08,13.5456,0,0
+"2014-07-05","Argentina","Belgium","Netherlands","Costa Rica","A","D",4.12,4.08,16.8096,0,0.003
+"2014-07-05","Argentina","Belgium","Netherlands","Costa Rica","H","A",1.99,6.98,13.8902,0,0
+"2014-07-05","Argentina","Belgium","Netherlands","Costa Rica","D","A",3.32,6.98,23.1736,0,0.008
+"2014-07-05","Argentina","Belgium","Netherlands","Costa Rica","A","A",4.12,6.98,28.7576,0,0.013

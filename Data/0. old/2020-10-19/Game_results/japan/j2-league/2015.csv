@@ -1,0 +1,463 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+23.11.2015,2015,Chiba,Kamatamare,0,2
+23.11.2015,2015,C-Osaka,Verdy,2,0
+23.11.2015,2015,Ehime,Tokushima,3,0
+23.11.2015,2015,Gifu,Avispa Fukuoka,1,4
+23.11.2015,2015,Giravanz Kitakyushu,V-Varen Nagasaki,2,1
+23.11.2015,2015,Kanazawa,Omiya Ardija,1,2
+23.11.2015,2015,Kumamoto,Okayama,1,1
+23.11.2015,2015,Kyoto,Mito,2,1
+23.11.2015,2015,Oita,Iwata,1,2
+23.11.2015,2015,Sapporo,Tochigi,4,1
+23.11.2015,2015,Yokohama,Kusatsu,1,0
+14.11.2015,2015,Avispa Fukuoka,Ehime,1,0
+14.11.2015,2015,Iwata,Yokohama,0,0
+14.11.2015,2015,Kamatamare,Gifu,3,0
+14.11.2015,2015,Kusatsu,Giravanz Kitakyushu,1,2
+14.11.2015,2015,Mito,Sapporo,2,1
+14.11.2015,2015,Okayama,Chiba,1,0
+14.11.2015,2015,Omiya Ardija,Oita,3,2
+14.11.2015,2015,Tochigi,Kyoto,0,1
+14.11.2015,2015,Tokushima,Kumamoto,2,1
+14.11.2015,2015,Verdy,Kanazawa,1,1
+14.11.2015,2015,V-Varen Nagasaki,C-Osaka,2,0
+08.11.2015,2015,Chiba,Verdy,1,0
+08.11.2015,2015,Gifu,Okayama,0,0
+08.11.2015,2015,Giravanz Kitakyushu,Tochigi,2,2
+08.11.2015,2015,Iwata,V-Varen Nagasaki,4,2
+08.11.2015,2015,Kamatamare,Omiya Ardija,1,1
+08.11.2015,2015,Kanazawa,C-Osaka,3,0
+08.11.2015,2015,Kumamoto,Mito,1,1
+08.11.2015,2015,Kusatsu,Avispa Fukuoka,0,4
+08.11.2015,2015,Kyoto,Ehime,0,1
+08.11.2015,2015,Yokohama,Oita,1,0
+07.11.2015,2015,Sapporo,Tokushima,2,0
+01.11.2015,2015,Avispa Fukuoka,Yokohama,4,0
+01.11.2015,2015,C-Osaka,Kumamoto,1,1
+01.11.2015,2015,Ehime,Gifu,3,0
+01.11.2015,2015,Giravanz Kitakyushu,Kyoto,1,2
+01.11.2015,2015,Mito,Kusatsu,0,0
+01.11.2015,2015,Oita,Kanazawa,0,1
+01.11.2015,2015,Okayama,Kamatamare,1,2
+01.11.2015,2015,Omiya Ardija,V-Varen Nagasaki,2,1
+01.11.2015,2015,Sapporo,Chiba,3,2
+01.11.2015,2015,Tokushima,Tochigi,1,1
+01.11.2015,2015,Verdy,Iwata,0,3
+26.10.2015,2015,Kanazawa,Giravanz Kitakyushu,0,4
+25.10.2015,2015,C-Osaka,Kamatamare,0,0
+25.10.2015,2015,Ehime,Kusatsu,3,0
+25.10.2015,2015,Gifu,Chiba,1,0
+25.10.2015,2015,Kumamoto,Iwata,0,2
+25.10.2015,2015,Kyoto,Omiya Ardija,2,2
+25.10.2015,2015,Oita,Sapporo,2,0
+25.10.2015,2015,Tochigi,Verdy,0,1
+25.10.2015,2015,Tokushima,Avispa Fukuoka,0,3
+25.10.2015,2015,V-Varen Nagasaki,Mito,0,0
+25.10.2015,2015,Yokohama,Okayama,0,0
+18.10.2015,2015,Avispa Fukuoka,Tochigi,4,2
+18.10.2015,2015,Chiba,Oita,2,2
+18.10.2015,2015,Giravanz Kitakyushu,Ehime,3,2
+18.10.2015,2015,Iwata,Sapporo,3,0
+18.10.2015,2015,Kamatamare,Kumamoto,0,2
+18.10.2015,2015,Kusatsu,C-Osaka,2,0
+18.10.2015,2015,Mito,Verdy,2,0
+18.10.2015,2015,Okayama,Kanazawa,0,0
+18.10.2015,2015,Omiya Ardija,Tokushima,1,2
+18.10.2015,2015,V-Varen Nagasaki,Gifu,2,1
+18.10.2015,2015,Yokohama,Kyoto,0,0
+10.10.2015,2015,Avispa Fukuoka,Chiba,1,0
+10.10.2015,2015,C-Osaka,Giravanz Kitakyushu,1,0
+10.10.2015,2015,Ehime,V-Varen Nagasaki,0,0
+10.10.2015,2015,Kamatamare,Yokohama,1,1
+10.10.2015,2015,Kumamoto,Omiya Ardija,3,0
+10.10.2015,2015,Kyoto,Gifu,0,0
+10.10.2015,2015,Mito,Iwata,1,1
+10.10.2015,2015,Sapporo,Kanazawa,2,1
+10.10.2015,2015,Tochigi,Oita,1,1
+10.10.2015,2015,Tokushima,Kusatsu,0,1
+10.10.2015,2015,Verdy,Okayama,1,1
+04.10.2015,2015,Chiba,Ehime,1,0
+04.10.2015,2015,C-Osaka,Avispa Fukuoka,0,1
+04.10.2015,2015,Gifu,Tokushima,1,2
+04.10.2015,2015,Giravanz Kitakyushu,Yokohama,3,1
+04.10.2015,2015,Iwata,Omiya Ardija,2,2
+04.10.2015,2015,Kanazawa,Tochigi,2,2
+04.10.2015,2015,Kusatsu,Kyoto,1,1
+04.10.2015,2015,Oita,Kamatamare,0,0
+04.10.2015,2015,Okayama,Mito,3,0
+04.10.2015,2015,Verdy,Sapporo,0,2
+04.10.2015,2015,V-Varen Nagasaki,Kumamoto,1,2
+27.09.2015,2015,Avispa Fukuoka,Verdy,0,0
+27.09.2015,2015,Giravanz Kitakyushu,Iwata,2,3
+27.09.2015,2015,Kamatamare,Kyoto,1,1
+27.09.2015,2015,Kanazawa,Kumamoto,1,1
+27.09.2015,2015,Mito,Gifu,0,2
+27.09.2015,2015,Okayama,Oita,1,0
+27.09.2015,2015,Omiya Ardija,Chiba,2,1
+27.09.2015,2015,Sapporo,Kusatsu,0,0
+27.09.2015,2015,Tochigi,V-Varen Nagasaki,0,1
+27.09.2015,2015,Tokushima,C-Osaka,1,1
+27.09.2015,2015,Yokohama,Ehime,2,1
+23.09.2015,2015,Chiba,Tochigi,2,0
+23.09.2015,2015,C-Osaka,Mito,2,2
+23.09.2015,2015,Ehime,Kamatamare,1,0
+23.09.2015,2015,Kumamoto,Avispa Fukuoka,0,1
+23.09.2015,2015,Kusatsu,Iwata,2,3
+23.09.2015,2015,Kyoto,Okayama,0,0
+23.09.2015,2015,Oita,Giravanz Kitakyushu,2,1
+23.09.2015,2015,Sapporo,Gifu,1,2
+23.09.2015,2015,Tokushima,Yokohama,0,0
+23.09.2015,2015,Verdy,Omiya Ardija,0,1
+23.09.2015,2015,V-Varen Nagasaki,Kanazawa,1,1
+20.09.2015,2015,Avispa Fukuoka,Sapporo,2,1
+20.09.2015,2015,Gifu,Oita,0,3
+20.09.2015,2015,Giravanz Kitakyushu,Chiba,3,1
+20.09.2015,2015,Iwata,Ehime,0,0
+20.09.2015,2015,Kamatamare,Tokushima,0,1
+20.09.2015,2015,Kumamoto,Kyoto,0,0
+20.09.2015,2015,Okayama,Kusatsu,3,0
+20.09.2015,2015,Omiya Ardija,C-Osaka,1,2
+20.09.2015,2015,Tochigi,Mito,2,2
+20.09.2015,2015,Verdy,V-Varen Nagasaki,0,1
+20.09.2015,2015,Yokohama,Kanazawa,2,1
+13.09.2015,2015,Chiba,Kyoto,1,1
+13.09.2015,2015,C-Osaka,Tochigi,4,1
+13.09.2015,2015,Ehime,Okayama,1,1
+13.09.2015,2015,Gifu,Giravanz Kitakyushu,1,0
+13.09.2015,2015,Kamatamare,Avispa Fukuoka,0,1
+13.09.2015,2015,Kanazawa,Iwata,0,3
+13.09.2015,2015,Kusatsu,Verdy,1,3
+13.09.2015,2015,Mito,Omiya Ardija,1,0
+13.09.2015,2015,Oita,Kumamoto,0,1
+13.09.2015,2015,Tokushima,V-Varen Nagasaki,0,0
+12.09.2015,2015,Sapporo,Yokohama,2,0
+26.08.2015,2015,Kusatsu,Gifu,0,1
+23.08.2015,2015,Giravanz Kitakyushu,Mito,2,2
+23.08.2015,2015,Iwata,Tokushima,3,1
+23.08.2015,2015,Kumamoto,Sapporo,1,1
+23.08.2015,2015,Kyoto,Kanazawa,1,1
+23.08.2015,2015,Oita,C-Osaka,1,3
+23.08.2015,2015,Okayama,Avispa Fukuoka,1,0
+23.08.2015,2015,Omiya Ardija,Kusatsu,1,1
+23.08.2015,2015,Tochigi,Gifu,0,1
+23.08.2015,2015,Verdy,Ehime,0,1
+23.08.2015,2015,V-Varen Nagasaki,Kamatamare,0,0
+23.08.2015,2015,Yokohama,Chiba,0,1
+15.08.2015,2015,Avispa Fukuoka,Iwata,2,0
+15.08.2015,2015,Chiba,V-Varen Nagasaki,1,1
+15.08.2015,2015,C-Osaka,Gifu,1,0
+15.08.2015,2015,Ehime,Omiya Ardija,3,1
+15.08.2015,2015,Kumamoto,Giravanz Kitakyushu,0,1
+15.08.2015,2015,Kusatsu,Kanazawa,1,0
+15.08.2015,2015,Kyoto,Oita,2,1
+15.08.2015,2015,Mito,Kamatamare,0,1
+15.08.2015,2015,Sapporo,Okayama,0,0
+15.08.2015,2015,Tochigi,Yokohama,2,1
+15.08.2015,2015,Tokushima,Verdy,1,0
+08.08.2015,2015,C-Osaka,Chiba,1,1
+08.08.2015,2015,Gifu,Kumamoto,0,1
+08.08.2015,2015,Iwata,Kyoto,3,3
+08.08.2015,2015,Kamatamare,Kusatsu,0,1
+08.08.2015,2015,Kanazawa,Avispa Fukuoka,0,1
+08.08.2015,2015,Oita,Ehime,0,1
+08.08.2015,2015,Okayama,Giravanz Kitakyushu,0,1
+08.08.2015,2015,Omiya Ardija,Tochigi,1,0
+08.08.2015,2015,Tokushima,Mito,1,0
+08.08.2015,2015,V-Varen Nagasaki,Sapporo,0,0
+08.08.2015,2015,Yokohama,Verdy,1,6
+01.08.2015,2015,Avispa Fukuoka,Oita,1,1
+01.08.2015,2015,Chiba,Tokushima,1,0
+01.08.2015,2015,Ehime,C-Osaka,2,1
+01.08.2015,2015,Giravanz Kitakyushu,Omiya Ardija,1,2
+01.08.2015,2015,Kumamoto,Tochigi,2,0
+01.08.2015,2015,Kyoto,Sapporo,2,0
+01.08.2015,2015,Mito,Kanazawa,1,1
+01.08.2015,2015,Okayama,Iwata,1,2
+01.08.2015,2015,Verdy,Kamatamare,2,0
+01.08.2015,2015,V-Varen Nagasaki,Yokohama,2,0
+26.07.2015,2015,Avispa Fukuoka,V-Varen Nagasaki,0,0
+26.07.2015,2015,Chiba,Kumamoto,2,3
+26.07.2015,2015,Iwata,C-Osaka,0,1
+26.07.2015,2015,Kamatamare,Giravanz Kitakyushu,1,0
+26.07.2015,2015,Kanazawa,Tokushima,0,1
+26.07.2015,2015,Oita,Kusatsu,2,0
+26.07.2015,2015,Omiya Ardija,Gifu,5,0
+26.07.2015,2015,Sapporo,Ehime,0,1
+26.07.2015,2015,Tochigi,Okayama,2,2
+26.07.2015,2015,Verdy,Kyoto,1,0
+26.07.2015,2015,Yokohama,Mito,0,2
+22.07.2015,2015,C-Osaka,Okayama,2,1
+22.07.2015,2015,Ehime,Kanazawa,1,1
+22.07.2015,2015,Gifu,Iwata,2,0
+22.07.2015,2015,Giravanz Kitakyushu,Sapporo,1,1
+22.07.2015,2015,Kumamoto,Verdy,0,1
+22.07.2015,2015,Kyoto,Avispa Fukuoka,1,2
+22.07.2015,2015,Mito,Chiba,1,1
+22.07.2015,2015,Omiya Ardija,Yokohama,3,0
+22.07.2015,2015,Tochigi,Kamatamare,1,0
+22.07.2015,2015,Tokushima,Oita,1,0
+22.07.2015,2015,V-Varen Nagasaki,Kusatsu,1,0
+18.07.2015,2015,Avispa Fukuoka,Omiya Ardija,1,3
+18.07.2015,2015,Ehime,Mito,0,2
+18.07.2015,2015,Giravanz Kitakyushu,Verdy,0,1
+18.07.2015,2015,Iwata,Chiba,1,0
+18.07.2015,2015,Kanazawa,Gifu,1,1
+18.07.2015,2015,Kusatsu,Tochigi,1,0
+18.07.2015,2015,Kyoto,C-Osaka,1,0
+18.07.2015,2015,Oita,V-Varen Nagasaki,2,1
+18.07.2015,2015,Okayama,Tokushima,0,3
+18.07.2015,2015,Sapporo,Kamatamare,0,1
+18.07.2015,2015,Yokohama,Kumamoto,0,3
+12.07.2015,2015,Chiba,Kusatsu,1,2
+12.07.2015,2015,C-Osaka,Sapporo,3,1
+12.07.2015,2015,Gifu,Yokohama,0,1
+12.07.2015,2015,Kamatamare,Kanazawa,2,2
+12.07.2015,2015,Kumamoto,Ehime,2,0
+12.07.2015,2015,Mito,Avispa Fukuoka,2,2
+12.07.2015,2015,Omiya Ardija,Okayama,3,0
+12.07.2015,2015,Tochigi,Iwata,0,2
+12.07.2015,2015,Tokushima,Giravanz Kitakyushu,0,1
+12.07.2015,2015,Verdy,Oita,1,2
+12.07.2015,2015,V-Varen Nagasaki,Kyoto,1,0
+08.07.2015,2015,Avispa Fukuoka,Giravanz Kitakyushu,4,2
+08.07.2015,2015,Ehime,Tochigi,0,0
+08.07.2015,2015,Gifu,Verdy,0,2
+08.07.2015,2015,Iwata,Kamatamare,1,1
+08.07.2015,2015,Kanazawa,Chiba,0,0
+08.07.2015,2015,Kusatsu,Kumamoto,1,1
+08.07.2015,2015,Kyoto,Tokushima,0,1
+08.07.2015,2015,Oita,Mito,1,1
+08.07.2015,2015,Okayama,V-Varen Nagasaki,1,1
+08.07.2015,2015,Sapporo,Omiya Ardija,2,3
+08.07.2015,2015,Yokohama,C-Osaka,0,0
+04.07.2015,2015,Chiba,Gifu,3,1
+04.07.2015,2015,C-Osaka,Oita,0,0
+04.07.2015,2015,Giravanz Kitakyushu,Kanazawa,1,1
+04.07.2015,2015,Iwata,Kumamoto,1,1
+04.07.2015,2015,Kamatamare,Ehime,0,0
+04.07.2015,2015,Kusatsu,Tokushima,2,1
+04.07.2015,2015,Mito,Tochigi,2,1
+04.07.2015,2015,Okayama,Kyoto,2,0
+04.07.2015,2015,Verdy,Avispa Fukuoka,1,1
+04.07.2015,2015,V-Varen Nagasaki,Omiya Ardija,0,1
+04.07.2015,2015,Yokohama,Sapporo,0,0
+29.06.2015,2015,Sapporo,Oita,1,1
+28.06.2015,2015,Ehime,Iwata,0,2
+28.06.2015,2015,Gifu,Kusatsu,1,1
+28.06.2015,2015,Giravanz Kitakyushu,Okayama,2,3
+28.06.2015,2015,Kanazawa,Kyoto,1,3
+28.06.2015,2015,Kumamoto,Kamatamare,0,1
+28.06.2015,2015,Mito,Yokohama,0,1
+28.06.2015,2015,Omiya Ardija,Verdy,0,2
+28.06.2015,2015,Tochigi,C-Osaka,0,3
+28.06.2015,2015,Tokushima,Chiba,2,1
+28.06.2015,2015,V-Varen Nagasaki,Avispa Fukuoka,0,0
+21.06.2015,2015,Avispa Fukuoka,Kanazawa,0,2
+21.06.2015,2015,C-Osaka,Tokushima,1,0
+21.06.2015,2015,Iwata,Gifu,2,3
+21.06.2015,2015,Kamatamare,V-Varen Nagasaki,0,0
+21.06.2015,2015,Kusatsu,Mito,0,1
+21.06.2015,2015,Kyoto,Tochigi,1,2
+21.06.2015,2015,Oita,Chiba,0,1
+21.06.2015,2015,Okayama,Ehime,1,2
+21.06.2015,2015,Sapporo,Giravanz Kitakyushu,1,1
+21.06.2015,2015,Verdy,Kumamoto,0,2
+21.06.2015,2015,Yokohama,Omiya Ardija,0,3
+14.06.2015,2015,Chiba,Avispa Fukuoka,2,2
+14.06.2015,2015,Ehime,Verdy,2,1
+14.06.2015,2015,Gifu,Sapporo,0,1
+14.06.2015,2015,Giravanz Kitakyushu,Kumamoto,2,0
+14.06.2015,2015,Kanazawa,Oita,1,1
+14.06.2015,2015,Kusatsu,Okayama,1,1
+14.06.2015,2015,Kyoto,Yokohama,1,2
+14.06.2015,2015,Mito,C-Osaka,1,1
+14.06.2015,2015,Tochigi,Omiya Ardija,0,2
+14.06.2015,2015,Tokushima,Kamatamare,2,2
+14.06.2015,2015,V-Varen Nagasaki,Iwata,0,1
+06.06.2015,2015,Avispa Fukuoka,Tokushima,1,0
+06.06.2015,2015,Chiba,Sapporo,1,1
+06.06.2015,2015,C-Osaka,Ehime,1,0
+06.06.2015,2015,Iwata,Kanazawa,2,1
+06.06.2015,2015,Kumamoto,V-Varen Nagasaki,1,0
+06.06.2015,2015,Mito,Giravanz Kitakyushu,1,2
+06.06.2015,2015,Oita,Kyoto,2,2
+06.06.2015,2015,Okayama,Verdy,0,1
+06.06.2015,2015,Omiya Ardija,Kamatamare,2,0
+06.06.2015,2015,Tochigi,Kusatsu,5,1
+06.06.2015,2015,Yokohama,Gifu,3,2
+01.06.2015,2015,Sapporo,C-Osaka,1,1
+31.05.2015,2015,Ehime,Yokohama,3,0
+31.05.2015,2015,Gifu,Mito,1,1
+31.05.2015,2015,Giravanz Kitakyushu,Oita,2,1
+31.05.2015,2015,Kamatamare,Okayama,0,1
+31.05.2015,2015,Kanazawa,V-Varen Nagasaki,1,0
+31.05.2015,2015,Kusatsu,Chiba,2,0
+31.05.2015,2015,Kyoto,Kumamoto,2,1
+31.05.2015,2015,Omiya Ardija,Avispa Fukuoka,2,0
+31.05.2015,2015,Tokushima,Iwata,2,2
+31.05.2015,2015,Verdy,Tochigi,3,2
+24.05.2015,2015,Avispa Fukuoka,Kamatamare,1,3
+24.05.2015,2015,Chiba,Giravanz Kitakyushu,1,3
+24.05.2015,2015,Gifu,Omiya Ardija,0,5
+24.05.2015,2015,Iwata,Kusatsu,1,2
+24.05.2015,2015,Kumamoto,C-Osaka,0,0
+24.05.2015,2015,Mito,Kyoto,0,2
+24.05.2015,2015,Oita,Verdy,0,1
+24.05.2015,2015,Okayama,Yokohama,0,0
+24.05.2015,2015,Tochigi,Kanazawa,1,1
+24.05.2015,2015,Tokushima,Sapporo,1,2
+24.05.2015,2015,V-Varen Nagasaki,Ehime,3,1
+17.05.2015,2015,Avispa Fukuoka,Okayama,1,0
+17.05.2015,2015,Chiba,Kanazawa,1,1
+17.05.2015,2015,C-Osaka,V-Varen Nagasaki,1,2
+17.05.2015,2015,Ehime,Kyoto,3,2
+17.05.2015,2015,Kamatamare,Tochigi,0,0
+17.05.2015,2015,Kumamoto,Gifu,1,2
+17.05.2015,2015,Kusatsu,Sapporo,0,2
+17.05.2015,2015,Mito,Oita,1,1
+17.05.2015,2015,Omiya Ardija,Iwata,1,1
+17.05.2015,2015,Verdy,Tokushima,0,0
+17.05.2015,2015,Yokohama,Giravanz Kitakyushu,1,0
+10.05.2015,2015,Gifu,Ehime,2,1
+09.05.2015,2015,Giravanz Kitakyushu,C-Osaka,0,3
+09.05.2015,2015,Iwata,Mito,2,1
+09.05.2015,2015,Kamatamare,Chiba,0,1
+09.05.2015,2015,Kanazawa,Okayama,1,1
+09.05.2015,2015,Kusatsu,Omiya Ardija,0,2
+09.05.2015,2015,Kyoto,Verdy,1,1
+09.05.2015,2015,Oita,Yokohama,1,1
+09.05.2015,2015,Sapporo,Kumamoto,2,3
+09.05.2015,2015,Tochigi,Avispa Fukuoka,0,0
+09.05.2015,2015,V-Varen Nagasaki,Tokushima,1,1
+06.05.2015,2015,Avispa Fukuoka,Kusatsu,4,1
+06.05.2015,2015,C-Osaka,Iwata,1,2
+06.05.2015,2015,Ehime,Sapporo,0,0
+06.05.2015,2015,Gifu,Kyoto,1,1
+06.05.2015,2015,Kumamoto,Oita,0,0
+06.05.2015,2015,Mito,V-Varen Nagasaki,1,3
+06.05.2015,2015,Okayama,Tochigi,0,0
+06.05.2015,2015,Omiya Ardija,Giravanz Kitakyushu,2,0
+06.05.2015,2015,Tokushima,Kanazawa,0,0
+06.05.2015,2015,Verdy,Chiba,0,0
+06.05.2015,2015,Yokohama,Kamatamare,1,2
+03.05.2015,2015,Avispa Fukuoka,C-Osaka,1,0
+03.05.2015,2015,Chiba,Yokohama,3,0
+03.05.2015,2015,Giravanz Kitakyushu,Gifu,2,1
+03.05.2015,2015,Kamatamare,Verdy,1,0
+03.05.2015,2015,Kanazawa,Mito,1,0
+03.05.2015,2015,Kyoto,Kusatsu,0,1
+03.05.2015,2015,Oita,Tokushima,1,1
+03.05.2015,2015,Omiya Ardija,Ehime,1,0
+03.05.2015,2015,Sapporo,Iwata,3,0
+03.05.2015,2015,Tochigi,Kumamoto,2,2
+03.05.2015,2015,V-Varen Nagasaki,Okayama,2,2
+29.04.2015,2015,C-Osaka,Kyoto,3,0
+29.04.2015,2015,Ehime,Giravanz Kitakyushu,2,3
+29.04.2015,2015,Gifu,V-Varen Nagasaki,1,0
+29.04.2015,2015,Iwata,Avispa Fukuoka,0,1
+29.04.2015,2015,Kanazawa,Sapporo,1,1
+29.04.2015,2015,Kumamoto,Chiba,0,4
+29.04.2015,2015,Kusatsu,Kamatamare,1,0
+29.04.2015,2015,Mito,Okayama,1,0
+29.04.2015,2015,Oita,Tochigi,0,1
+29.04.2015,2015,Tokushima,Omiya Ardija,0,0
+29.04.2015,2015,Verdy,Yokohama,0,1
+26.04.2015,2015,Avispa Fukuoka,Gifu,2,2
+26.04.2015,2015,Chiba,Iwata,0,2
+26.04.2015,2015,Kamatamare,C-Osaka,1,3
+26.04.2015,2015,Kumamoto,Kanazawa,0,2
+26.04.2015,2015,Kyoto,Giravanz Kitakyushu,2,0
+26.04.2015,2015,Okayama,Sapporo,0,1
+26.04.2015,2015,Omiya Ardija,Mito,2,1
+26.04.2015,2015,Tochigi,Ehime,0,1
+26.04.2015,2015,Verdy,Kusatsu,2,0
+26.04.2015,2015,V-Varen Nagasaki,Oita,0,1
+26.04.2015,2015,Yokohama,Tokushima,1,1
+19.04.2015,2015,C-Osaka,Kusatsu,1,2
+19.04.2015,2015,Ehime,Chiba,1,0
+19.04.2015,2015,Gifu,Tochigi,0,1
+19.04.2015,2015,Giravanz Kitakyushu,Avispa Fukuoka,0,1
+19.04.2015,2015,Iwata,Verdy,2,0
+19.04.2015,2015,Kanazawa,Kamatamare,1,0
+19.04.2015,2015,Oita,Omiya Ardija,0,3
+19.04.2015,2015,Okayama,Kumamoto,3,0
+19.04.2015,2015,Sapporo,Mito,1,0
+19.04.2015,2015,Tokushima,Kyoto,1,0
+19.04.2015,2015,Yokohama,V-Varen Nagasaki,2,2
+11.04.2015,2015,Chiba,Omiya Ardija,2,0
+11.04.2015,2015,C-Osaka,Kanazawa,0,2
+11.04.2015,2015,Iwata,Okayama,1,1
+11.04.2015,2015,Kamatamare,Sapporo,0,0
+11.04.2015,2015,Kumamoto,Yokohama,0,1
+11.04.2015,2015,Kusatsu,Ehime,0,1
+11.04.2015,2015,Kyoto,V-Varen Nagasaki,1,4
+11.04.2015,2015,Mito,Tokushima,3,0
+11.04.2015,2015,Oita,Avispa Fukuoka,1,2
+11.04.2015,2015,Tochigi,Giravanz Kitakyushu,2,4
+11.04.2015,2015,Verdy,Gifu,4,3
+05.04.2015,2015,Avispa Fukuoka,Mito,1,0
+05.04.2015,2015,Ehime,Oita,2,0
+05.04.2015,2015,Gifu,C-Osaka,0,2
+05.04.2015,2015,Giravanz Kitakyushu,Kamatamare,2,0
+05.04.2015,2015,Kanazawa,Kusatsu,2,1
+05.04.2015,2015,Kyoto,Chiba,0,2
+05.04.2015,2015,Omiya Ardija,Kumamoto,2,0
+05.04.2015,2015,Sapporo,Verdy,1,1
+05.04.2015,2015,Tokushima,Okayama,1,2
+05.04.2015,2015,V-Varen Nagasaki,Tochigi,1,0
+05.04.2015,2015,Yokohama,Iwata,2,3
+01.04.2015,2015,Chiba,C-Osaka,4,4
+01.04.2015,2015,Iwata,Tochigi,3,0
+01.04.2015,2015,Kamatamare,Mito,0,0
+01.04.2015,2015,Kanazawa,Ehime,3,1
+01.04.2015,2015,Kumamoto,Tokushima,2,2
+01.04.2015,2015,Kusatsu,V-Varen Nagasaki,0,1
+01.04.2015,2015,Oita,Gifu,6,2
+01.04.2015,2015,Okayama,Omiya Ardija,0,0
+01.04.2015,2015,Sapporo,Kyoto,1,2
+01.04.2015,2015,Verdy,Giravanz Kitakyushu,2,0
+01.04.2015,2015,Yokohama,Avispa Fukuoka,2,2
+29.03.2015,2015,Avispa Fukuoka,Kumamoto,1,0
+29.03.2015,2015,Chiba,Okayama,1,0
+29.03.2015,2015,C-Osaka,Yokohama,2,0
+29.03.2015,2015,Gifu,Kanazawa,0,2
+29.03.2015,2015,Giravanz Kitakyushu,Kusatsu,0,1
+29.03.2015,2015,Iwata,Oita,2,1
+29.03.2015,2015,Kyoto,Kamatamare,1,1
+29.03.2015,2015,Mito,Ehime,3,1
+29.03.2015,2015,Omiya Ardija,Sapporo,1,1
+29.03.2015,2015,Tochigi,Tokushima,2,1
+29.03.2015,2015,V-Varen Nagasaki,Verdy,1,1
+21.03.2015,2015,Ehime,Kumamoto,0,1
+21.03.2015,2015,Kamatamare,Iwata,1,0
+21.03.2015,2015,Kusatsu,Oita,1,1
+21.03.2015,2015,Okayama,C-Osaka,1,1
+21.03.2015,2015,Omiya Ardija,Kyoto,2,1
+21.03.2015,2015,Sapporo,Avispa Fukuoka,2,1
+21.03.2015,2015,Tochigi,Chiba,1,1
+21.03.2015,2015,Tokushima,Gifu,1,0
+21.03.2015,2015,Verdy,Mito,2,0
+21.03.2015,2015,V-Varen Nagasaki,Giravanz Kitakyushu,2,0
+20.03.2015,2015,Kanazawa,Yokohama,1,2
+15.03.2015,2015,Chiba,Mito,2,0
+15.03.2015,2015,C-Osaka,Omiya Ardija,3,1
+15.03.2015,2015,Ehime,Avispa Fukuoka,2,1
+15.03.2015,2015,Gifu,Kamatamare,1,0
+15.03.2015,2015,Giravanz Kitakyushu,Tokushima,2,0
+15.03.2015,2015,Kanazawa,Verdy,3,0
+15.03.2015,2015,Kumamoto,Kusatsu,2,2
+15.03.2015,2015,Kyoto,Iwata,0,2
+15.03.2015,2015,Oita,Okayama,0,1
+15.03.2015,2015,Sapporo,V-Varen Nagasaki,0,1
+15.03.2015,2015,Yokohama,Tochigi,1,1
+08.03.2015,2015,Avispa Fukuoka,Kyoto,1,3
+08.03.2015,2015,Iwata,Giravanz Kitakyushu,3,1
+08.03.2015,2015,Kamatamare,Oita,2,0
+08.03.2015,2015,Kusatsu,Yokohama,0,1
+08.03.2015,2015,Mito,Kumamoto,0,0
+08.03.2015,2015,Okayama,Gifu,3,0
+08.03.2015,2015,Omiya Ardija,Kanazawa,1,0
+08.03.2015,2015,Tochigi,Sapporo,1,2
+08.03.2015,2015,Tokushima,Ehime,0,0
+08.03.2015,2015,Verdy,C-Osaka,1,1
+08.03.2015,2015,V-Varen Nagasaki,Chiba,0,1

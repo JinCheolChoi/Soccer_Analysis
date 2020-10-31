@@ -1,0 +1,1499 @@
+"Time","H.team.1","A.team.1","H.team.2","A.team.2","Choose.1","Choose.2","Odd.1","Odd.2","joint.odds","result.mat"
+2012-08-18,"Arsenal","Sunderland","Fulham","Norwich","A","D","7.8","3.59",28.002,0
+2012-08-18,"Arsenal","Sunderland","Fulham","Norwich","D","A","4.4","4.53",19.932,0
+2012-08-18,"Arsenal","Sunderland","Fulham","Norwich","A","A","7.8","4.53",35.334,0
+2012-08-18,"Arsenal","Sunderland","Newcastle","Tottenham","A","H","7.8","2.69",20.982,0
+2012-08-18,"Arsenal","Sunderland","Newcastle","Tottenham","A","D","7.8","3.28",25.584,0
+2012-08-18,"Arsenal","Sunderland","Newcastle","Tottenham","A","A","7.8","2.62",20.436,0
+2012-08-18,"Arsenal","Sunderland","QPR","Swansea","A","D","7.8","3.4",26.52,0
+2012-08-18,"Arsenal","Sunderland","QPR","Swansea","A","A","7.8","3.98",31.044,0
+2012-08-18,"Arsenal","Sunderland","Reading","Stoke","A","D","7.8","3.24",25.272,0
+2012-08-18,"Arsenal","Sunderland","Reading","Stoke","A","A","7.8","3.05",23.79,0
+2012-08-18,"Arsenal","Sunderland","West Brom","Liverpool","A","H","7.8","4.44",34.632,0
+2012-08-18,"Arsenal","Sunderland","West Brom","Liverpool","A","D","7.8","3.49",27.222,0
+2012-08-18,"Arsenal","Sunderland","West Ham","Aston Villa","A","D","7.8","3.37",26.286,0
+2012-08-18,"Arsenal","Sunderland","West Ham","Aston Villa","A","A","7.8","3.46",26.988,0
+2012-08-18,"Fulham","Norwich","West Brom","Liverpool","A","H","4.53","4.44",20.1132,0
+2012-08-19,"Manchester City","Southampton","Wigan","Chelsea","D","H","7.7","4.85",37.345,0
+2012-08-19,"Manchester City","Southampton","Wigan","Chelsea","A","H","17.94","4.85",87.009,0
+2012-08-19,"Manchester City","Southampton","Wigan","Chelsea","D","D","7.7","3.52",27.104,0
+2012-08-19,"Manchester City","Southampton","Wigan","Chelsea","A","D","17.94","3.52",63.1488,0
+2012-08-19,"Manchester City","Southampton","Wigan","Chelsea","A","A","17.94","1.76",31.5744,0
+2012-08-25,"Aston Villa","Everton","Chelsea","Newcastle","H","A","3.25","6.91",22.4575,0
+2012-08-25,"Aston Villa","Everton","Chelsea","Newcastle","D","A","3.27","6.91",22.5957,0
+2012-08-25,"Aston Villa","Everton","Manchester United","Fulham","H","A","3.25","10.83",35.1975,0
+2012-08-25,"Aston Villa","Everton","Manchester United","Fulham","D","A","3.27","10.83",35.4141,0
+2012-08-25,"Aston Villa","Everton","Manchester United","Fulham","A","A","2.26","10.83",24.4758,0
+2012-08-25,"Chelsea","Newcastle","Manchester United","Fulham","D","D","4.31","5.29",22.7999,0
+2012-08-25,"Chelsea","Newcastle","Manchester United","Fulham","A","D","6.91","5.29",36.5539,0
+2012-08-25,"Chelsea","Newcastle","Manchester United","Fulham","D","A","4.31","10.83",46.6773,0
+2012-08-25,"Chelsea","Newcastle","Manchester United","Fulham","A","A","6.91","10.83",74.8353,0
+2012-08-25,"Chelsea","Newcastle","Norwich","QPR","A","D","6.91","3.34",23.0794,0
+2012-08-25,"Chelsea","Newcastle","Norwich","QPR","A","A","6.91","3.04",21.0064,0
+2012-08-25,"Chelsea","Newcastle","Southampton","Wigan","A","D","6.91","3.35",23.1485,0
+2012-08-25,"Chelsea","Newcastle","Southampton","Wigan","A","A","6.91","3.45",23.8395,0
+2012-08-25,"Chelsea","Newcastle","Swansea","West Ham","A","D","6.91","3.31",22.8721,0
+2012-08-25,"Chelsea","Newcastle","Swansea","West Ham","A","A","6.91","3.52",24.3232,0
+2012-08-25,"Chelsea","Newcastle","Tottenham","West Brom","A","D","6.91","3.96",27.3636,0
+2012-08-25,"Chelsea","Newcastle","Tottenham","West Brom","D","A","4.31","6.01",25.9031,0
+2012-08-25,"Chelsea","Newcastle","Tottenham","West Brom","A","A","6.91","6.01",41.5291,0
+2012-08-25,"Manchester United","Fulham","Norwich","QPR","A","H","10.83","2.32",25.1256,1
+2012-08-25,"Manchester United","Fulham","Norwich","QPR","A","D","10.83","3.34",36.1722,0
+2012-08-25,"Manchester United","Fulham","Norwich","QPR","A","A","10.83","3.04",32.9232,0
+2012-08-25,"Manchester United","Fulham","Southampton","Wigan","A","H","10.83","2.12",22.9596,1
+2012-08-25,"Manchester United","Fulham","Southampton","Wigan","A","D","10.83","3.35",36.2805,0
+2012-08-25,"Manchester United","Fulham","Southampton","Wigan","A","A","10.83","3.45",37.3635,0
+2012-08-25,"Manchester United","Fulham","Swansea","West Ham","A","H","10.83","2.12",22.9596,1
+2012-08-25,"Manchester United","Fulham","Swansea","West Ham","A","D","10.83","3.31",35.8473,0
+2012-08-25,"Manchester United","Fulham","Swansea","West Ham","A","A","10.83","3.52",38.1216,0
+2012-08-25,"Manchester United","Fulham","Tottenham","West Brom","D","D","5.29","3.96",20.9484,0
+2012-08-25,"Manchester United","Fulham","Tottenham","West Brom","A","D","10.83","3.96",42.8868,0
+2012-08-25,"Manchester United","Fulham","Tottenham","West Brom","D","A","5.29","6.01",31.7929,0
+2012-08-25,"Manchester United","Fulham","Tottenham","West Brom","A","A","10.83","6.01",65.0883,0
+2012-08-25,"Norwich","QPR","Tottenham","West Brom","D","A","3.34","6.01",20.0734,0
+2012-08-25,"Southampton","Wigan","Tottenham","West Brom","D","A","3.35","6.01",20.1335,0
+2012-08-25,"Southampton","Wigan","Tottenham","West Brom","A","A","3.45","6.01",20.7345,0
+2012-08-25,"Swansea","West Ham","Tottenham","West Brom","D","A","3.31","6.01",19.8931,0
+2012-08-25,"Swansea","West Ham","Tottenham","West Brom","A","A","3.52","6.01",21.1552,0
+2012-09-01,"Manchester City","QPR","Swansea","Sunderland","A","H","14.61","2.03",29.6583,0
+2012-09-01,"Manchester City","QPR","Swansea","Sunderland","D","D","7","3.37",23.59,0
+2012-09-01,"Manchester City","QPR","Swansea","Sunderland","A","D","14.61","3.37",49.2357,0
+2012-09-01,"Manchester City","QPR","Swansea","Sunderland","D","A","7","3.71",25.97,0
+2012-09-01,"Manchester City","QPR","Swansea","Sunderland","A","A","14.61","3.71",54.2031,0
+2012-09-01,"Manchester City","QPR","Tottenham","Norwich","A","H","14.61","1.36",19.8696,0
+2012-09-01,"Manchester City","QPR","Tottenham","Norwich","D","D","7","4.85",33.95,0
+2012-09-01,"Manchester City","QPR","Tottenham","Norwich","A","D","14.61","4.85",70.8585,0
+2012-09-01,"Manchester City","QPR","Tottenham","Norwich","D","A","7","8.46",59.22,0
+2012-09-01,"Manchester City","QPR","Tottenham","Norwich","A","A","14.61","8.46",123.6006,0
+2012-09-01,"Manchester City","QPR","West Brom","Everton","D","H","7","3.03",21.21,0
+2012-09-01,"Manchester City","QPR","West Brom","Everton","A","H","14.61","3.03",44.2683,0
+2012-09-01,"Manchester City","QPR","West Brom","Everton","D","D","7","3.28",22.96,0
+2012-09-01,"Manchester City","QPR","West Brom","Everton","A","D","14.61","3.28",47.9208,0
+2012-09-01,"Manchester City","QPR","West Brom","Everton","A","A","14.61","2.37",34.6257,0
+2012-09-01,"Manchester City","QPR","West Ham","Fulham","A","H","14.61","2.53",36.9633,0
+2012-09-01,"Manchester City","QPR","West Ham","Fulham","D","D","7","3.28",22.96,0
+2012-09-01,"Manchester City","QPR","West Ham","Fulham","A","D","14.61","3.28",47.9208,0
+2012-09-01,"Manchester City","QPR","West Ham","Fulham","A","A","14.61","2.79",40.7619,0
+2012-09-01,"Manchester City","QPR","Wigan","Stoke","A","H","14.61","2.11",30.8271,0
+2012-09-01,"Manchester City","QPR","Wigan","Stoke","D","D","7","3.25",22.75,0
+2012-09-01,"Manchester City","QPR","Wigan","Stoke","A","D","14.61","3.25",47.4825,0
+2012-09-01,"Manchester City","QPR","Wigan","Stoke","D","A","7","3.6",25.2,0
+2012-09-01,"Manchester City","QPR","Wigan","Stoke","A","A","14.61","3.6",52.596,0
+2012-09-01,"Swansea","Sunderland","Tottenham","Norwich","D","A","3.37","8.46",28.5102,0
+2012-09-01,"Swansea","Sunderland","Tottenham","Norwich","A","A","3.71","8.46",31.3866,0
+2012-09-01,"Tottenham","Norwich","West Brom","Everton","A","H","8.46","3.03",25.6338,0
+2012-09-01,"Tottenham","Norwich","West Brom","Everton","A","D","8.46","3.28",27.7488,0
+2012-09-01,"Tottenham","Norwich","West Brom","Everton","A","A","8.46","2.37",20.0502,0
+2012-09-01,"Tottenham","Norwich","West Ham","Fulham","A","H","8.46","2.53",21.4038,0
+2012-09-01,"Tottenham","Norwich","West Ham","Fulham","A","D","8.46","3.28",27.7488,0
+2012-09-01,"Tottenham","Norwich","West Ham","Fulham","A","A","8.46","2.79",23.6034,0
+2012-09-01,"Tottenham","Norwich","Wigan","Stoke","A","D","8.46","3.25",27.495,0
+2012-09-01,"Tottenham","Norwich","Wigan","Stoke","A","A","8.46","3.6",30.456,0
+2012-09-02,"Liverpool","Arsenal","Newcastle","Aston Villa","A","A","4.06","5.47",22.2082,0
+2012-09-02,"Liverpool","Arsenal","Southampton","Manchester United","D","H","3.46","6.64",22.9744,0
+2012-09-02,"Liverpool","Arsenal","Southampton","Manchester United","A","H","4.06","6.64",26.9584,0
+2012-09-02,"Newcastle","Aston Villa","Southampton","Manchester United","D","H","3.73","6.64",24.7672,0
+2012-09-02,"Newcastle","Aston Villa","Southampton","Manchester United","A","H","5.47","6.64",36.3208,0
+2012-09-02,"Newcastle","Aston Villa","Southampton","Manchester United","A","D","5.47","4.22",23.0834,1
+2012-09-15,"Arsenal","Southampton","Aston Villa","Swansea","A","H","9.19","2.31",21.2289,0
+2012-09-15,"Arsenal","Southampton","Aston Villa","Swansea","A","D","9.19","3.24",29.7756,0
+2012-09-15,"Arsenal","Southampton","Aston Villa","Swansea","A","A","9.19","3.14",28.8566,0
+2012-09-15,"Arsenal","Southampton","Fulham","West Brom","A","D","9.19","3.32",30.5108,0
+2012-09-15,"Arsenal","Southampton","Fulham","West Brom","A","A","9.19","3.52",32.3488,0
+2012-09-15,"Arsenal","Southampton","Manchester United","Wigan","D","D","4.96","5.53",27.4288,0
+2012-09-15,"Arsenal","Southampton","Manchester United","Wigan","A","D","9.19","5.53",50.8207,0
+2012-09-15,"Arsenal","Southampton","Manchester United","Wigan","D","A","4.96","11.41",56.5936,0
+2012-09-15,"Arsenal","Southampton","Manchester United","Wigan","A","A","9.19","11.41",104.8579,0
+2012-09-15,"Arsenal","Southampton","Norwich","West Ham","A","H","9.19","2.42",22.2398,0
+2012-09-15,"Arsenal","Southampton","Norwich","West Ham","A","D","9.19","3.28",30.1432,0
+2012-09-15,"Arsenal","Southampton","Norwich","West Ham","A","A","9.19","2.95",27.1105,0
+2012-09-15,"Arsenal","Southampton","QPR","Chelsea","D","H","4.96","4.37",21.6752,0
+2012-09-15,"Arsenal","Southampton","QPR","Chelsea","A","H","9.19","4.37",40.1603,0
+2012-09-15,"Arsenal","Southampton","QPR","Chelsea","A","D","9.19","3.5",32.165,0
+2012-09-15,"Arsenal","Southampton","Stoke","Manchester City","D","H","4.96","5.27",26.1392,0
+2012-09-15,"Arsenal","Southampton","Stoke","Manchester City","A","H","9.19","5.27",48.4313,0
+2012-09-15,"Arsenal","Southampton","Stoke","Manchester City","A","D","9.19","3.63",33.3597,0
+2012-09-15,"Arsenal","Southampton","Sunderland","Liverpool","A","H","9.19","3.5",32.165,0
+2012-09-15,"Arsenal","Southampton","Sunderland","Liverpool","A","D","9.19","3.36",30.8784,0
+2012-09-15,"Aston Villa","Swansea","Manchester United","Wigan","H","A","2.31","11.41",26.3571,0
+2012-09-15,"Aston Villa","Swansea","Manchester United","Wigan","D","A","3.24","11.41",36.9684,0
+2012-09-15,"Aston Villa","Swansea","Manchester United","Wigan","A","A","3.14","11.41",35.8274,0
+2012-09-15,"Fulham","West Brom","Manchester United","Wigan","H","A","2.11","11.41",24.0751,0
+2012-09-15,"Fulham","West Brom","Manchester United","Wigan","D","A","3.32","11.41",37.8812,0
+2012-09-15,"Fulham","West Brom","Manchester United","Wigan","A","A","3.52","11.41",40.1632,0
+2012-09-15,"Manchester United","Wigan","Norwich","West Ham","A","H","11.41","2.42",27.6122,0
+2012-09-15,"Manchester United","Wigan","Norwich","West Ham","A","D","11.41","3.28",37.4248,0
+2012-09-15,"Manchester United","Wigan","Norwich","West Ham","A","A","11.41","2.95",33.6595,0
+2012-09-15,"Manchester United","Wigan","QPR","Chelsea","D","H","5.53","4.37",24.1661,0
+2012-09-15,"Manchester United","Wigan","QPR","Chelsea","A","H","11.41","4.37",49.8617,0
+2012-09-15,"Manchester United","Wigan","QPR","Chelsea","A","D","11.41","3.5",39.935,0
+2012-09-15,"Manchester United","Wigan","QPR","Chelsea","A","A","11.41","1.84",20.9944,0
+2012-09-15,"Manchester United","Wigan","Stoke","Manchester City","D","H","5.53","5.27",29.1431,0
+2012-09-15,"Manchester United","Wigan","Stoke","Manchester City","A","H","11.41","5.27",60.1307,0
+2012-09-15,"Manchester United","Wigan","Stoke","Manchester City","D","D","5.53","3.63",20.0739,0
+2012-09-15,"Manchester United","Wigan","Stoke","Manchester City","A","D","11.41","3.63",41.4183,0
+2012-09-15,"Manchester United","Wigan","Sunderland","Liverpool","A","H","11.41","3.5",39.935,0
+2012-09-15,"Manchester United","Wigan","Sunderland","Liverpool","A","D","11.41","3.36",38.3376,0
+2012-09-15,"Manchester United","Wigan","Sunderland","Liverpool","A","A","11.41","2.1",23.961,0
+2012-09-15,"QPR","Chelsea","Stoke","Manchester City","H","H","4.37","5.27",23.0299,1
+2012-09-22,"Chelsea","Stoke","Southampton","Aston Villa","A","H","8.92","2.28",20.3376,0
+2012-09-22,"Chelsea","Stoke","Southampton","Aston Villa","A","D","8.92","3.31",29.5252,0
+2012-09-22,"Chelsea","Stoke","Southampton","Aston Villa","A","A","8.92","3.16",28.1872,0
+2012-09-22,"Chelsea","Stoke","Swansea","Everton","A","H","8.92","3.14",28.0088,0
+2012-09-22,"Chelsea","Stoke","Swansea","Everton","A","D","8.92","3.25",28.99,0
+2012-09-22,"Chelsea","Stoke","Swansea","Everton","A","A","8.92","2.33",20.7836,0
+2012-09-22,"Chelsea","Stoke","West Brom","Reading","A","D","8.92","3.82",34.0744,0
+2012-09-22,"Chelsea","Stoke","West Brom","Reading","D","A","4.61","5.4",24.894,0
+2012-09-22,"Chelsea","Stoke","West Brom","Reading","A","A","8.92","5.4",48.168,0
+2012-09-22,"Chelsea","Stoke","West Ham","Sunderland","A","D","8.92","3.32",29.6144,0
+2012-09-22,"Chelsea","Stoke","West Ham","Sunderland","A","A","8.92","3.89",34.6988,0
+2012-09-22,"Chelsea","Stoke","Wigan","Fulham","A","H","8.92","2.38",21.2296,0
+2012-09-22,"Chelsea","Stoke","Wigan","Fulham","A","D","8.92","3.27",29.1684,0
+2012-09-22,"Chelsea","Stoke","Wigan","Fulham","A","A","8.92","3",26.76,0
+2012-09-22,"West Brom","Reading","West Ham","Sunderland","A","A","5.4","3.89",21.006,0
+2012-09-23,"Liverpool","Manchester United","Tottenham","QPR","D","A","3.19","6.85",21.8515,0
+2012-09-23,"Manchester City","Arsenal","Newcastle","Norwich","A","A","4.61","4.82",22.2202,0
+2012-09-23,"Manchester City","Arsenal","Tottenham","QPR","D","A","3.73","6.85",25.5505,0
+2012-09-23,"Manchester City","Arsenal","Tottenham","QPR","A","A","4.61","6.85",31.5785,0
+2012-09-23,"Newcastle","Norwich","Tottenham","QPR","A","D","4.82","4.21",20.2922,1
+2012-09-23,"Newcastle","Norwich","Tottenham","QPR","D","A","3.77","6.85",25.8245,0
+2012-09-23,"Newcastle","Norwich","Tottenham","QPR","A","A","4.82","6.85",33.017,0
+2012-09-29,"Arsenal","Chelsea","Everton","Southampton","D","A","3.31","7.98",26.4138,0
+2012-09-29,"Arsenal","Chelsea","Everton","Southampton","A","A","3.38","7.98",26.9724,0
+2012-09-29,"Arsenal","Chelsea","Manchester United","Tottenham","D","A","3.31","6.12",20.2572,0
+2012-09-29,"Arsenal","Chelsea","Manchester United","Tottenham","A","A","3.38","6.12",20.6856,0
+2012-09-29,"Everton","Southampton","Fulham","Manchester City","D","H","4.58","4.53",20.7474,0
+2012-09-29,"Everton","Southampton","Fulham","Manchester City","A","H","7.98","4.53",36.1494,1
+2012-09-29,"Everton","Southampton","Fulham","Manchester City","A","D","7.98","3.6",28.728,0
+2012-09-29,"Everton","Southampton","Manchester United","Tottenham","A","D","7.98","4.1",32.718,0
+2012-09-29,"Everton","Southampton","Manchester United","Tottenham","D","A","4.58","6.12",28.0296,0
+2012-09-29,"Everton","Southampton","Manchester United","Tottenham","A","A","7.98","6.12",48.8376,0
+2012-09-29,"Everton","Southampton","Norwich","Liverpool","D","H","4.58","4.58",20.9764,0
+2012-09-29,"Everton","Southampton","Norwich","Liverpool","A","H","7.98","4.58",36.5484,1
+2012-09-29,"Everton","Southampton","Norwich","Liverpool","A","D","7.98","3.62",28.8876,0
+2012-09-29,"Everton","Southampton","Reading","Newcastle","A","H","7.98","2.7",21.546,1
+2012-09-29,"Everton","Southampton","Reading","Newcastle","A","D","7.98","3.27",26.0946,0
+2012-09-29,"Everton","Southampton","Reading","Newcastle","A","A","7.98","2.6",20.748,0
+2012-09-29,"Everton","Southampton","Stoke","Swansea","A","D","7.98","3.38",26.9724,0
+2012-09-29,"Everton","Southampton","Stoke","Swansea","A","A","7.98","4.03",32.1594,0
+2012-09-29,"Everton","Southampton","Sunderland","Wigan","A","D","7.98","3.28",26.1744,0
+2012-09-29,"Everton","Southampton","Sunderland","Wigan","A","A","7.98","3.56",28.4088,0
+2012-09-29,"Fulham","Manchester City","Manchester United","Tottenham","H","A","4.53","6.12",27.7236,0
+2012-09-29,"Fulham","Manchester City","Manchester United","Tottenham","D","A","3.6","6.12",22.032,0
+2012-09-29,"Fulham","Manchester City","Norwich","Liverpool","H","H","4.53","4.58",20.7474,0
+2012-09-29,"Manchester United","Tottenham","Norwich","Liverpool","A","H","6.12","4.58",28.0296,1
+2012-09-29,"Manchester United","Tottenham","Norwich","Liverpool","A","D","6.12","3.62",22.1544,0
+2012-09-29,"Manchester United","Tottenham","Reading","Newcastle","A","D","6.12","3.27",20.0124,0
+2012-09-29,"Manchester United","Tottenham","Stoke","Swansea","A","D","6.12","3.38",20.6856,0
+2012-09-29,"Manchester United","Tottenham","Stoke","Swansea","A","A","6.12","4.03",24.6636,0
+2012-09-29,"Manchester United","Tottenham","Sunderland","Wigan","A","D","6.12","3.28",20.0736,0
+2012-09-29,"Manchester United","Tottenham","Sunderland","Wigan","A","A","6.12","3.56",21.7872,0
+2012-10-06,"Chelsea","Norwich","Manchester City","Sunderland","D","D","6.33","5.28",33.4224,0
+2012-10-06,"Chelsea","Norwich","Manchester City","Sunderland","A","D","13.38","5.28",70.6464,0
+2012-10-06,"Chelsea","Norwich","Manchester City","Sunderland","D","A","6.33","11",69.63,0
+2012-10-06,"Chelsea","Norwich","Manchester City","Sunderland","A","A","13.38","11",147.18,0
+2012-10-06,"Chelsea","Norwich","Swansea","Reading","A","H","13.38","1.84",24.6192,0
+2012-10-06,"Chelsea","Norwich","Swansea","Reading","D","D","6.33","3.58",22.6614,0
+2012-10-06,"Chelsea","Norwich","Swansea","Reading","A","D","13.38","3.58",47.9004,0
+2012-10-06,"Chelsea","Norwich","Swansea","Reading","D","A","6.33","4.23",26.7759,0
+2012-10-06,"Chelsea","Norwich","Swansea","Reading","A","A","13.38","4.23",56.5974,0
+2012-10-06,"Chelsea","Norwich","West Brom","QPR","A","H","13.38","1.83",24.4854,0
+2012-10-06,"Chelsea","Norwich","West Brom","QPR","D","D","6.33","3.6",22.788,0
+2012-10-06,"Chelsea","Norwich","West Brom","QPR","A","D","13.38","3.6",48.168,0
+2012-10-06,"Chelsea","Norwich","West Brom","QPR","D","A","6.33","4.25",26.9025,0
+2012-10-06,"Chelsea","Norwich","West Brom","QPR","A","A","13.38","4.25",56.865,0
+2012-10-06,"Chelsea","Norwich","West Ham","Arsenal","D","H","6.33","4.06",25.6998,0
+2012-10-06,"Chelsea","Norwich","West Ham","Arsenal","A","H","13.38","4.06",54.3228,0
+2012-10-06,"Chelsea","Norwich","West Ham","Arsenal","D","D","6.33","3.54",22.4082,0
+2012-10-06,"Chelsea","Norwich","West Ham","Arsenal","A","D","13.38","3.54",47.3652,0
+2012-10-06,"Chelsea","Norwich","West Ham","Arsenal","A","A","13.38","1.89",25.2882,0
+2012-10-06,"Chelsea","Norwich","Wigan","Everton","D","H","6.33","3.75",23.7375,0
+2012-10-06,"Chelsea","Norwich","Wigan","Everton","A","H","13.38","3.75",50.175,0
+2012-10-06,"Chelsea","Norwich","Wigan","Everton","D","D","6.33","3.35",21.2055,0
+2012-10-06,"Chelsea","Norwich","Wigan","Everton","A","D","13.38","3.35",44.823,0
+2012-10-06,"Chelsea","Norwich","Wigan","Everton","A","A","13.38","2.02",27.0276,0
+2012-10-06,"Manchester City","Sunderland","Swansea","Reading","A","H","11","1.84",20.24,0
+2012-10-06,"Manchester City","Sunderland","Swansea","Reading","A","D","11","3.58",39.38,0
+2012-10-06,"Manchester City","Sunderland","Swansea","Reading","D","A","5.28","4.23",22.3344,0
+2012-10-06,"Manchester City","Sunderland","Swansea","Reading","A","A","11","4.23",46.53,0
+2012-10-06,"Manchester City","Sunderland","West Brom","QPR","A","H","11","1.83",20.13,0
+2012-10-06,"Manchester City","Sunderland","West Brom","QPR","A","D","11","3.6",39.6,0
+2012-10-06,"Manchester City","Sunderland","West Brom","QPR","D","A","5.28","4.25",22.44,0
+2012-10-06,"Manchester City","Sunderland","West Brom","QPR","A","A","11","4.25",46.75,0
+2012-10-06,"Manchester City","Sunderland","West Ham","Arsenal","D","H","5.28","4.06",21.4368,0
+2012-10-06,"Manchester City","Sunderland","West Ham","Arsenal","A","H","11","4.06",44.66,0
+2012-10-06,"Manchester City","Sunderland","West Ham","Arsenal","A","D","11","3.54",38.94,0
+2012-10-06,"Manchester City","Sunderland","West Ham","Arsenal","A","A","11","1.89",20.79,0
+2012-10-06,"Manchester City","Sunderland","Wigan","Everton","D","H","5.28","3.75",19.8,0
+2012-10-06,"Manchester City","Sunderland","Wigan","Everton","A","H","11","3.75",41.25,0
+2012-10-06,"Manchester City","Sunderland","Wigan","Everton","A","D","11","3.35",36.85,0
+2012-10-06,"Manchester City","Sunderland","Wigan","Everton","A","A","11","2.02",22.22,0
+2012-10-07,"Liverpool","Stoke","Newcastle","Manchester United","A","H","7.05","4.38",30.879,0
+2012-10-07,"Liverpool","Stoke","Newcastle","Manchester United","A","D","7.05","3.87",27.2835,0
+2012-10-07,"Liverpool","Stoke","Southampton","Fulham","A","D","7.05","3.33",23.4765,0
+2012-10-07,"Liverpool","Stoke","Tottenham","Aston Villa","A","D","7.05","4.3",30.315,0
+2012-10-07,"Liverpool","Stoke","Tottenham","Aston Villa","D","A","4.1","7.39",30.299,1
+2012-10-07,"Liverpool","Stoke","Tottenham","Aston Villa","A","A","7.05","7.39",52.0995,0
+2012-10-07,"Newcastle","Manchester United","Tottenham","Aston Villa","H","A","4.38","7.39",32.3682,0
+2012-10-07,"Newcastle","Manchester United","Tottenham","Aston Villa","D","A","3.87","7.39",28.5993,1
+2012-10-07,"Southampton","Fulham","Tottenham","Aston Villa","D","A","3.33","7.39",24.6087,1
+2012-10-07,"Southampton","Fulham","Tottenham","Aston Villa","A","A","2.76","7.39",20.3964,0
+2012-10-20,"Fulham","Aston Villa","Liverpool","Reading","A","D","4.99","5.15",25.6985,0
+2012-10-20,"Fulham","Aston Villa","Liverpool","Reading","D","A","3.66","9.74",35.6484,0
+2012-10-20,"Fulham","Aston Villa","Liverpool","Reading","A","A","4.99","9.74",48.6026,0
+2012-10-20,"Fulham","Aston Villa","Manchester United","Stoke","A","D","4.99","5.25",26.1975,0
+2012-10-20,"Fulham","Aston Villa","Manchester United","Stoke","D","A","3.66","10.73",39.2718,0
+2012-10-20,"Fulham","Aston Villa","Manchester United","Stoke","A","A","4.99","10.73",53.5427,0
+2012-10-20,"Fulham","Aston Villa","Norwich","Arsenal","D","H","3.66","6.44",23.5704,0
+2012-10-20,"Fulham","Aston Villa","Norwich","Arsenal","A","H","4.99","6.44",32.1356,0
+2012-10-20,"Fulham","Aston Villa","Norwich","Arsenal","A","D","4.99","4.33",21.6067,0
+2012-10-20,"Fulham","Aston Villa","West Brom","Manchester City","A","H","4.99","5.07",25.2993,0
+2012-10-20,"Fulham","Aston Villa","West Ham","Southampton","A","A","4.99","4.27",21.3073,0
+2012-10-20,"Liverpool","Reading","Manchester United","Stoke","D","D","5.15","5.25",27.0375,0
+2012-10-20,"Liverpool","Reading","Manchester United","Stoke","A","D","9.74","5.25",51.135,0
+2012-10-20,"Liverpool","Reading","Manchester United","Stoke","D","A","5.15","10.73",55.2595,0
+2012-10-20,"Liverpool","Reading","Manchester United","Stoke","A","A","9.74","10.73",104.5102,0
+2012-10-20,"Liverpool","Reading","Norwich","Arsenal","D","H","5.15","6.44",33.166,0
+2012-10-20,"Liverpool","Reading","Norwich","Arsenal","A","H","9.74","6.44",62.7256,0
+2012-10-20,"Liverpool","Reading","Norwich","Arsenal","D","D","5.15","4.33",22.2995,0
+2012-10-20,"Liverpool","Reading","Norwich","Arsenal","A","D","9.74","4.33",42.1742,0
+2012-10-20,"Liverpool","Reading","Swansea","Wigan","A","H","9.74","2.08",20.2592,0
+2012-10-20,"Liverpool","Reading","Swansea","Wigan","A","D","9.74","3.38",32.9212,0
+2012-10-20,"Liverpool","Reading","Swansea","Wigan","A","A","9.74","3.54",34.4796,0
+2012-10-20,"Liverpool","Reading","Tottenham","Chelsea","A","H","9.74","2.93",28.5382,0
+2012-10-20,"Liverpool","Reading","Tottenham","Chelsea","A","D","9.74","3.25",31.655,0
+2012-10-20,"Liverpool","Reading","Tottenham","Chelsea","A","A","9.74","2.46",23.9604,0
+2012-10-20,"Liverpool","Reading","West Brom","Manchester City","D","H","5.15","5.07",26.1105,0
+2012-10-20,"Liverpool","Reading","West Brom","Manchester City","A","H","9.74","5.07",49.3818,0
+2012-10-20,"Liverpool","Reading","West Brom","Manchester City","A","D","9.74","3.74",36.4276,0
+2012-10-20,"Liverpool","Reading","West Ham","Southampton","A","D","9.74","3.63",35.3562,0
+2012-10-20,"Liverpool","Reading","West Ham","Southampton","D","A","5.15","4.27",21.9905,0
+2012-10-20,"Liverpool","Reading","West Ham","Southampton","A","A","9.74","4.27",41.5898,0
+2012-10-20,"Manchester United","Stoke","Norwich","Arsenal","D","H","5.25","6.44",33.81,0
+2012-10-20,"Manchester United","Stoke","Norwich","Arsenal","A","H","10.73","6.44",69.1012,0
+2012-10-20,"Manchester United","Stoke","Norwich","Arsenal","D","D","5.25","4.33",22.7325,0
+2012-10-20,"Manchester United","Stoke","Norwich","Arsenal","A","D","10.73","4.33",46.4609,0
+2012-10-20,"Manchester United","Stoke","Swansea","Wigan","A","H","10.73","2.08",22.3184,0
+2012-10-20,"Manchester United","Stoke","Swansea","Wigan","A","D","10.73","3.38",36.2674,0
+2012-10-20,"Manchester United","Stoke","Swansea","Wigan","A","A","10.73","3.54",37.9842,0
+2012-10-20,"Manchester United","Stoke","Tottenham","Chelsea","A","H","10.73","2.93",31.4389,0
+2012-10-20,"Manchester United","Stoke","Tottenham","Chelsea","A","D","10.73","3.25",34.8725,0
+2012-10-20,"Manchester United","Stoke","Tottenham","Chelsea","A","A","10.73","2.46",26.3958,0
+2012-10-20,"Manchester United","Stoke","West Brom","Manchester City","D","H","5.25","5.07",26.6175,0
+2012-10-20,"Manchester United","Stoke","West Brom","Manchester City","A","H","10.73","5.07",54.4011,0
+2012-10-20,"Manchester United","Stoke","West Brom","Manchester City","A","D","10.73","3.74",40.1302,0
+2012-10-20,"Manchester United","Stoke","West Ham","Southampton","A","D","10.73","3.63",38.9499,0
+2012-10-20,"Manchester United","Stoke","West Ham","Southampton","D","A","5.25","4.27",22.4175,0
+2012-10-20,"Manchester United","Stoke","West Ham","Southampton","A","A","10.73","4.27",45.8171,0
+2012-10-20,"Norwich","Arsenal","Swansea","Wigan","H","D","6.44","3.38",21.7672,0
+2012-10-20,"Norwich","Arsenal","Swansea","Wigan","H","A","6.44","3.54",22.7976,0
+2012-10-20,"Norwich","Arsenal","Tottenham","Chelsea","H","D","6.44","3.25",20.93,0
+2012-10-20,"Norwich","Arsenal","West Brom","Manchester City","H","H","6.44","5.07",32.6508,1
+2012-10-20,"Norwich","Arsenal","West Brom","Manchester City","D","H","4.33","5.07",21.9531,0
+2012-10-20,"Norwich","Arsenal","West Brom","Manchester City","H","D","6.44","3.74",24.0856,0
+2012-10-20,"Norwich","Arsenal","West Ham","Southampton","H","D","6.44","3.63",23.3772,0
+2012-10-20,"Norwich","Arsenal","West Ham","Southampton","H","A","6.44","4.27",27.4988,0
+2012-10-20,"West Brom","Manchester City","West Ham","Southampton","H","A","5.07","4.27",21.6489,0
+2012-10-27,"Arsenal","QPR","Aston Villa","Norwich","A","D","8.69","3.44",29.8936,0
+2012-10-27,"Arsenal","QPR","Aston Villa","Norwich","A","A","8.69","3.9",33.891,0
+2012-10-27,"Arsenal","QPR","Manchester City","Swansea","D","D","4.81","6.23",29.9663,0
+2012-10-27,"Arsenal","QPR","Manchester City","Swansea","A","D","8.69","6.23",54.1387,0
+2012-10-27,"Arsenal","QPR","Manchester City","Swansea","D","A","4.81","12.97",62.3857,0
+2012-10-27,"Arsenal","QPR","Manchester City","Swansea","A","A","8.69","12.97",112.7093,0
+2012-10-27,"Arsenal","QPR","Reading","Fulham","A","H","8.69","2.96",25.7224,0
+2012-10-27,"Arsenal","QPR","Reading","Fulham","A","D","8.69","3.3",28.677,0
+2012-10-27,"Arsenal","QPR","Reading","Fulham","A","A","8.69","2.4",20.856,0
+2012-10-27,"Arsenal","QPR","Stoke","Sunderland","A","D","8.69","3.32",28.8508,0
+2012-10-27,"Arsenal","QPR","Stoke","Sunderland","D","A","4.81","4.18",20.1058,0
+2012-10-27,"Arsenal","QPR","Stoke","Sunderland","A","A","8.69","4.18",36.3242,0
+2012-10-27,"Arsenal","QPR","Wigan","West Ham","A","D","8.69","3.36",29.1984,0
+2012-10-27,"Arsenal","QPR","Wigan","West Ham","A","A","8.69","3.17",27.5473,0
+2012-10-27,"Aston Villa","Norwich","Manchester City","Swansea","D","D","3.44","6.23",21.4312,0
+2012-10-27,"Aston Villa","Norwich","Manchester City","Swansea","A","D","3.9","6.23",24.297,0
+2012-10-27,"Aston Villa","Norwich","Manchester City","Swansea","H","A","1.95","12.97",25.2915,0
+2012-10-27,"Aston Villa","Norwich","Manchester City","Swansea","D","A","3.44","12.97",44.6168,0
+2012-10-27,"Aston Villa","Norwich","Manchester City","Swansea","A","A","3.9","12.97",50.583,0
+2012-10-27,"Manchester City","Swansea","Reading","Fulham","A","H","12.97","2.96",38.3912,0
+2012-10-27,"Manchester City","Swansea","Reading","Fulham","D","D","6.23","3.3",20.559,0
+2012-10-27,"Manchester City","Swansea","Reading","Fulham","A","D","12.97","3.3",42.801,0
+2012-10-27,"Manchester City","Swansea","Reading","Fulham","A","A","12.97","2.4",31.128,0
+2012-10-27,"Manchester City","Swansea","Stoke","Sunderland","A","H","12.97","1.93",25.0321,0
+2012-10-27,"Manchester City","Swansea","Stoke","Sunderland","D","D","6.23","3.32",20.6836,0
+2012-10-27,"Manchester City","Swansea","Stoke","Sunderland","A","D","12.97","3.32",43.0604,0
+2012-10-27,"Manchester City","Swansea","Stoke","Sunderland","D","A","6.23","4.18",26.0414,0
+2012-10-27,"Manchester City","Swansea","Stoke","Sunderland","A","A","12.97","4.18",54.2146,0
+2012-10-27,"Manchester City","Swansea","Wigan","West Ham","A","H","12.97","2.24",29.0528,0
+2012-10-27,"Manchester City","Swansea","Wigan","West Ham","D","D","6.23","3.36",20.9328,0
+2012-10-27,"Manchester City","Swansea","Wigan","West Ham","A","D","12.97","3.36",43.5792,0
+2012-10-27,"Manchester City","Swansea","Wigan","West Ham","D","A","6.23","3.17",19.7491,0
+2012-10-27,"Manchester City","Swansea","Wigan","West Ham","A","A","12.97","3.17",41.1149,0
+2012-11-03,"Fulham","Everton","Tottenham","Wigan","D","A","3.31","6.87",22.7397,0
+2012-11-03,"Manchester United","Arsenal","Swansea","Chelsea","A","H","4.84","4.26",20.6184,0
+2012-11-03,"Manchester United","Arsenal","Tottenham","Wigan","A","D","4.84","4.24",20.5216,0
+2012-11-03,"Manchester United","Arsenal","Tottenham","Wigan","D","A","3.82","6.87",26.2434,0
+2012-11-03,"Manchester United","Arsenal","Tottenham","Wigan","A","A","4.84","6.87",33.2508,0
+2012-11-03,"Manchester United","Arsenal","West Ham","Manchester City","A","H","4.84","4.84",23.4256,0
+2012-11-03,"Norwich","Stoke","Tottenham","Wigan","D","A","3.22","6.87",22.1214,0
+2012-11-03,"Norwich","Stoke","Tottenham","Wigan","A","A","2.91","6.87",19.9917,0
+2012-11-03,"Sunderland","Aston Villa","Tottenham","Wigan","D","A","3.29","6.87",22.6023,0
+2012-11-03,"Sunderland","Aston Villa","Tottenham","Wigan","A","A","3.88","6.87",26.6556,0
+2012-11-03,"Swansea","Chelsea","Tottenham","Wigan","H","A","4.26","6.87",29.2662,0
+2012-11-03,"Swansea","Chelsea","Tottenham","Wigan","D","A","3.63","6.87",24.9381,0
+2012-11-03,"Swansea","Chelsea","West Ham","Manchester City","H","H","4.26","4.84",20.6184,0
+2012-11-03,"Tottenham","Wigan","West Ham","Manchester City","D","H","4.24","4.84",20.5216,1
+2012-11-03,"Tottenham","Wigan","West Ham","Manchester City","A","H","6.87","4.84",33.2508,0
+2012-11-03,"Tottenham","Wigan","West Ham","Manchester City","A","D","6.87","3.8",26.106,0
+2012-11-04,"Liverpool","Newcastle","QPR","Reading","A","A","5.33","4.15",22.1195,0
+2012-11-10,"Arsenal","Fulham","Aston Villa","Manchester United","D","H","4.05","7.17",29.0385,0
+2012-11-10,"Arsenal","Fulham","Aston Villa","Manchester United","A","H","6.17","7.17",44.2389,0
+2012-11-10,"Arsenal","Fulham","Aston Villa","Manchester United","A","D","6.17","4.54",28.0118,0
+2012-11-10,"Arsenal","Fulham","Everton","Sunderland","A","D","6.17","4.42",27.2714,0
+2012-11-10,"Arsenal","Fulham","Everton","Sunderland","D","A","4.05","8.29",33.5745,1
+2012-11-10,"Arsenal","Fulham","Everton","Sunderland","A","A","6.17","8.29",51.1493,0
+2012-11-10,"Arsenal","Fulham","Reading","Norwich","A","D","6.17","3.37",20.7929,0
+2012-11-10,"Arsenal","Fulham","Southampton","Swansea","A","D","6.17","3.42",21.1014,0
+2012-11-10,"Arsenal","Fulham","Stoke","QPR","A","D","6.17","3.36",20.7312,0
+2012-11-10,"Arsenal","Fulham","Stoke","QPR","A","A","6.17","3.98",24.5566,0
+2012-11-10,"Arsenal","Fulham","Wigan","West Brom","A","D","6.17","3.37",20.7929,0
+2012-11-10,"Arsenal","Fulham","Wigan","West Brom","A","A","6.17","3.3",20.361,0
+2012-11-10,"Aston Villa","Manchester United","Everton","Sunderland","H","D","7.17","4.42",31.6914,0
+2012-11-10,"Aston Villa","Manchester United","Everton","Sunderland","D","D","4.54","4.42",20.0668,0
+2012-11-10,"Aston Villa","Manchester United","Everton","Sunderland","H","A","7.17","8.29",59.4393,0
+2012-11-10,"Aston Villa","Manchester United","Everton","Sunderland","D","A","4.54","8.29",37.6366,1
+2012-11-10,"Aston Villa","Manchester United","Reading","Norwich","H","D","7.17","3.37",24.1629,0
+2012-11-10,"Aston Villa","Manchester United","Reading","Norwich","H","A","7.17","3.16",22.6572,0
+2012-11-10,"Aston Villa","Manchester United","Southampton","Swansea","H","D","7.17","3.42",24.5214,0
+2012-11-10,"Aston Villa","Manchester United","Southampton","Swansea","H","A","7.17","2.82",20.2194,0
+2012-11-10,"Aston Villa","Manchester United","Stoke","QPR","H","D","7.17","3.36",24.0912,0
+2012-11-10,"Aston Villa","Manchester United","Stoke","QPR","H","A","7.17","3.98",28.5366,0
+2012-11-10,"Aston Villa","Manchester United","Wigan","West Brom","H","D","7.17","3.37",24.1629,0
+2012-11-10,"Aston Villa","Manchester United","Wigan","West Brom","H","A","7.17","3.3",23.661,0
+2012-11-10,"Everton","Sunderland","Reading","Norwich","A","D","8.29","3.37",27.9373,0
+2012-11-10,"Everton","Sunderland","Reading","Norwich","A","A","8.29","3.16",26.1964,0
+2012-11-10,"Everton","Sunderland","Southampton","Swansea","A","H","8.29","2.44",20.2276,0
+2012-11-10,"Everton","Sunderland","Southampton","Swansea","A","D","8.29","3.42",28.3518,0
+2012-11-10,"Everton","Sunderland","Southampton","Swansea","A","A","8.29","2.82",23.3778,0
+2012-11-10,"Everton","Sunderland","Stoke","QPR","A","D","8.29","3.36",27.8544,0
+2012-11-10,"Everton","Sunderland","Stoke","QPR","A","A","8.29","3.98",32.9942,0
+2012-11-10,"Everton","Sunderland","Wigan","West Brom","A","D","8.29","3.37",27.9373,0
+2012-11-10,"Everton","Sunderland","Wigan","West Brom","A","A","8.29","3.3",27.357,0
+2012-11-11,"Chelsea","Liverpool","Manchester City","Tottenham","D","A","3.63","5.98",21.7074,0
+2012-11-11,"Chelsea","Liverpool","Manchester City","Tottenham","A","A","4.17","5.98",24.9366,0
+2012-11-11,"Manchester City","Tottenham","Newcastle","West Ham","A","D","5.98","3.49",20.8702,0
+2012-11-11,"Manchester City","Tottenham","Newcastle","West Ham","A","A","5.98","3.8",22.724,0
+2012-11-17,"Arsenal","Tottenham","Liverpool","Wigan","D","A","3.57","7.18",25.6326,0
+2012-11-17,"Arsenal","Tottenham","Liverpool","Wigan","A","A","3.87","7.18",27.7866,0
+2012-11-17,"Arsenal","Tottenham","Manchester City","Aston Villa","D","D","3.57","6.58",23.4906,0
+2012-11-17,"Arsenal","Tottenham","Manchester City","Aston Villa","A","D","3.87","6.58",25.4646,0
+2012-11-17,"Arsenal","Tottenham","Manchester City","Aston Villa","H","A","1.95","13.76",26.832,0
+2012-11-17,"Arsenal","Tottenham","Manchester City","Aston Villa","D","A","3.57","13.76",49.1232,0
+2012-11-17,"Arsenal","Tottenham","Manchester City","Aston Villa","A","A","3.87","13.76",53.2512,0
+2012-11-17,"Arsenal","Tottenham","Norwich","Manchester United","D","H","3.57","6.41",22.8837,0
+2012-11-17,"Arsenal","Tottenham","Norwich","Manchester United","A","H","3.87","6.41",24.8067,0
+2012-11-17,"Liverpool","Wigan","Manchester City","Aston Villa","D","D","4.35","6.58",28.623,0
+2012-11-17,"Liverpool","Wigan","Manchester City","Aston Villa","A","D","7.18","6.58",47.2444,0
+2012-11-17,"Liverpool","Wigan","Manchester City","Aston Villa","H","A","1.45","13.76",19.952,0
+2012-11-17,"Liverpool","Wigan","Manchester City","Aston Villa","D","A","4.35","13.76",59.856,0
+2012-11-17,"Liverpool","Wigan","Manchester City","Aston Villa","A","A","7.18","13.76",98.7968,0
+2012-11-17,"Liverpool","Wigan","Newcastle","Swansea","A","D","7.18","3.38",24.2684,0
+2012-11-17,"Liverpool","Wigan","Newcastle","Swansea","A","A","7.18","3.68",26.4224,0
+2012-11-17,"Liverpool","Wigan","Norwich","Manchester United","D","H","4.35","6.41",27.8835,0
+2012-11-17,"Liverpool","Wigan","Norwich","Manchester United","A","H","7.18","6.41",46.0238,0
+2012-11-17,"Liverpool","Wigan","Norwich","Manchester United","A","D","7.18","4.28",30.7304,0
+2012-11-17,"Liverpool","Wigan","QPR","Southampton","A","D","7.18","3.51",25.2018,0
+2012-11-17,"Liverpool","Wigan","QPR","Southampton","A","A","7.18","3.92",28.1456,0
+2012-11-17,"Liverpool","Wigan","Reading","Everton","A","H","7.18","4.37",31.3766,0
+2012-11-17,"Liverpool","Wigan","Reading","Everton","A","D","7.18","3.67",26.3506,0
+2012-11-17,"Liverpool","Wigan","West Brom","Chelsea","A","H","7.18","3.58",25.7044,0
+2012-11-17,"Liverpool","Wigan","West Brom","Chelsea","A","D","7.18","3.48",24.9864,0
+2012-11-17,"Manchester City","Aston Villa","Newcastle","Swansea","A","H","13.76","2.04",28.0704,0
+2012-11-17,"Manchester City","Aston Villa","Newcastle","Swansea","D","D","6.58","3.38",22.2404,0
+2012-11-17,"Manchester City","Aston Villa","Newcastle","Swansea","A","D","13.76","3.38",46.5088,0
+2012-11-17,"Manchester City","Aston Villa","Newcastle","Swansea","D","A","6.58","3.68",24.2144,0
+2012-11-17,"Manchester City","Aston Villa","Newcastle","Swansea","A","A","13.76","3.68",50.6368,0
+2012-11-17,"Manchester City","Aston Villa","Norwich","Manchester United","D","H","6.58","6.41",42.1778,0
+2012-11-17,"Manchester City","Aston Villa","Norwich","Manchester United","A","H","13.76","6.41",88.2016,0
+2012-11-17,"Manchester City","Aston Villa","Norwich","Manchester United","D","D","6.58","4.28",28.1624,0
+2012-11-17,"Manchester City","Aston Villa","Norwich","Manchester United","A","D","13.76","4.28",58.8928,0
+2012-11-17,"Manchester City","Aston Villa","Norwich","Manchester United","A","A","13.76","1.5",20.64,0
+2012-11-17,"Manchester City","Aston Villa","QPR","Southampton","A","H","13.76","1.92",26.4192,0
+2012-11-17,"Manchester City","Aston Villa","QPR","Southampton","D","D","6.58","3.51",23.0958,0
+2012-11-17,"Manchester City","Aston Villa","QPR","Southampton","A","D","13.76","3.51",48.2976,0
+2012-11-17,"Manchester City","Aston Villa","QPR","Southampton","D","A","6.58","3.92",25.7936,0
+2012-11-17,"Manchester City","Aston Villa","QPR","Southampton","A","A","13.76","3.92",53.9392,0
+2012-11-17,"Manchester City","Aston Villa","Reading","Everton","D","H","6.58","4.37",28.7546,0
+2012-11-17,"Manchester City","Aston Villa","Reading","Everton","A","H","13.76","4.37",60.1312,0
+2012-11-17,"Manchester City","Aston Villa","Reading","Everton","D","D","6.58","3.67",24.1486,0
+2012-11-17,"Manchester City","Aston Villa","Reading","Everton","A","D","13.76","3.67",50.4992,0
+2012-11-17,"Manchester City","Aston Villa","Reading","Everton","A","A","13.76","1.8",24.768,0
+2012-11-17,"Manchester City","Aston Villa","West Brom","Chelsea","D","H","6.58","3.58",23.5564,0
+2012-11-17,"Manchester City","Aston Villa","West Brom","Chelsea","A","H","13.76","3.58",49.2608,0
+2012-11-17,"Manchester City","Aston Villa","West Brom","Chelsea","D","D","6.58","3.48",22.8984,0
+2012-11-17,"Manchester City","Aston Villa","West Brom","Chelsea","A","D","13.76","3.48",47.8848,0
+2012-11-17,"Manchester City","Aston Villa","West Brom","Chelsea","A","A","13.76","2.04",28.0704,0
+2012-11-17,"Newcastle","Swansea","Norwich","Manchester United","D","H","3.38","6.41",21.6658,0
+2012-11-17,"Newcastle","Swansea","Norwich","Manchester United","A","H","3.68","6.41",23.5888,0
+2012-11-17,"Norwich","Manchester United","QPR","Southampton","H","D","6.41","3.51",22.4991,0
+2012-11-17,"Norwich","Manchester United","QPR","Southampton","H","A","6.41","3.92",25.1272,0
+2012-11-17,"Norwich","Manchester United","Reading","Everton","H","H","6.41","4.37",28.0117,1
+2012-11-17,"Norwich","Manchester United","Reading","Everton","H","D","6.41","3.67",23.5247,0
+2012-11-17,"Norwich","Manchester United","West Brom","Chelsea","H","H","6.41","3.58",22.9478,1
+2012-11-17,"Norwich","Manchester United","West Brom","Chelsea","H","D","6.41","3.48",22.3068,0
+2012-11-24,"Aston Villa","Arsenal","Everton","Norwich","H","A","4.54","6.81",30.9174,0
+2012-11-24,"Aston Villa","Arsenal","Everton","Norwich","D","A","3.68","6.81",25.0608,0
+2012-11-24,"Aston Villa","Arsenal","Manchester United","QPR","H","D","4.54","7.36",33.4144,0
+2012-11-24,"Aston Villa","Arsenal","Manchester United","QPR","D","D","3.68","7.36",27.0848,1
+2012-11-24,"Aston Villa","Arsenal","Manchester United","QPR","H","A","4.54","15.18",68.9172,0
+2012-11-24,"Aston Villa","Arsenal","Manchester United","QPR","D","A","3.68","15.18",55.8624,0
+2012-11-24,"Aston Villa","Arsenal","Manchester United","QPR","A","A","1.77","15.18",26.8686,0
+2012-11-24,"Everton","Norwich","Manchester United","QPR","D","D","4.26","7.36",31.3536,1
+2012-11-24,"Everton","Norwich","Manchester United","QPR","A","D","6.81","7.36",50.1216,0
+2012-11-24,"Everton","Norwich","Manchester United","QPR","H","A","1.48","15.18",22.4664,0
+2012-11-24,"Everton","Norwich","Manchester United","QPR","D","A","4.26","15.18",64.6668,0
+2012-11-24,"Everton","Norwich","Manchester United","QPR","A","A","6.81","15.18",103.3758,0
+2012-11-24,"Everton","Norwich","Stoke","Fulham","A","D","6.81","3.31",22.5411,0
+2012-11-24,"Everton","Norwich","Stoke","Fulham","A","A","6.81","3.44",23.4264,0
+2012-11-24,"Everton","Norwich","Sunderland","West Brom","A","D","6.81","3.29",22.4049,0
+2012-11-24,"Everton","Norwich","Sunderland","West Brom","A","A","6.81","2.93",19.9533,0
+2012-11-24,"Everton","Norwich","Wigan","Reading","A","D","6.81","3.51",23.9031,0
+2012-11-24,"Everton","Norwich","Wigan","Reading","A","A","6.81","4.02",27.3762,0
+2012-11-24,"Manchester United","QPR","Stoke","Fulham","A","H","15.18","2.15",32.637,0
+2012-11-24,"Manchester United","QPR","Stoke","Fulham","D","D","7.36","3.31",24.3616,1
+2012-11-24,"Manchester United","QPR","Stoke","Fulham","A","D","15.18","3.31",50.2458,0
+2012-11-24,"Manchester United","QPR","Stoke","Fulham","D","A","7.36","3.44",25.3184,0
+2012-11-24,"Manchester United","QPR","Stoke","Fulham","A","A","15.18","3.44",52.2192,0
+2012-11-24,"Manchester United","QPR","Sunderland","West Brom","A","H","15.18","2.43",36.8874,0
+2012-11-24,"Manchester United","QPR","Sunderland","West Brom","D","D","7.36","3.29",24.2144,1
+2012-11-24,"Manchester United","QPR","Sunderland","West Brom","A","D","15.18","3.29",49.9422,0
+2012-11-24,"Manchester United","QPR","Sunderland","West Brom","D","A","7.36","2.93",21.5648,0
+2012-11-24,"Manchester United","QPR","Sunderland","West Brom","A","A","15.18","2.93",44.4774,0
+2012-11-24,"Manchester United","QPR","Wigan","Reading","A","H","15.18","1.91",28.9938,0
+2012-11-24,"Manchester United","QPR","Wigan","Reading","D","D","7.36","3.51",25.8336,1
+2012-11-24,"Manchester United","QPR","Wigan","Reading","A","D","15.18","3.51",53.2818,0
+2012-11-24,"Manchester United","QPR","Wigan","Reading","D","A","7.36","4.02",29.5872,0
+2012-11-24,"Manchester United","QPR","Wigan","Reading","A","A","15.18","4.02",61.0236,0
+2012-11-28,"Chelsea","Fulham","Everton","Arsenal","A","D","7.53","3.38",25.4514,0
+2012-11-28,"Chelsea","Fulham","Everton","Arsenal","A","A","7.53","2.86",21.5358,0
+2012-11-28,"Chelsea","Fulham","Manchester United","West Ham","D","D","4.5","6.16",27.72,1
+2012-11-28,"Chelsea","Fulham","Manchester United","West Ham","A","D","7.53","6.16",46.3848,0
+2012-11-28,"Chelsea","Fulham","Manchester United","West Ham","D","A","4.5","11.99",53.955,0
+2012-11-28,"Chelsea","Fulham","Manchester United","West Ham","A","A","7.53","11.99",90.2847,0
+2012-11-28,"Chelsea","Fulham","Southampton","Norwich","A","D","7.53","3.52",26.5056,0
+2012-11-28,"Chelsea","Fulham","Southampton","Norwich","A","A","7.53","3.87",29.1411,0
+2012-11-28,"Chelsea","Fulham","Stoke","Newcastle","A","D","7.53","3.27",24.6231,0
+2012-11-28,"Chelsea","Fulham","Stoke","Newcastle","A","A","7.53","3.73",28.0869,0
+2012-11-28,"Chelsea","Fulham","Swansea","West Brom","A","D","7.53","3.38",25.4514,0
+2012-11-28,"Chelsea","Fulham","Swansea","West Brom","A","A","7.53","3.17",23.8701,0
+2012-11-28,"Chelsea","Fulham","Tottenham","Liverpool","A","D","7.53","3.32",24.9996,0
+2012-11-28,"Chelsea","Fulham","Tottenham","Liverpool","A","A","7.53","2.88",21.6864,0
+2012-11-28,"Chelsea","Fulham","Wigan","Manchester City","D","H","4.5","6.79",30.555,0
+2012-11-28,"Chelsea","Fulham","Wigan","Manchester City","A","H","7.53","6.79",51.1287,0
+2012-11-28,"Chelsea","Fulham","Wigan","Manchester City","D","D","4.5","4.43",19.935,1
+2012-11-28,"Chelsea","Fulham","Wigan","Manchester City","A","D","7.53","4.43",33.3579,0
+2012-11-28,"Everton","Arsenal","Manchester United","West Ham","D","D","3.38","6.16",20.8208,1
+2012-11-28,"Everton","Arsenal","Manchester United","West Ham","H","A","2.44","11.99",29.2556,0
+2012-11-28,"Everton","Arsenal","Manchester United","West Ham","D","A","3.38","11.99",40.5262,0
+2012-11-28,"Everton","Arsenal","Manchester United","West Ham","A","A","2.86","11.99",34.2914,0
+2012-11-28,"Everton","Arsenal","Wigan","Manchester City","D","H","3.38","6.79",22.9502,0
+2012-11-28,"Manchester United","West Ham","Southampton","Norwich","A","H","11.99","1.95",23.3805,0
+2012-11-28,"Manchester United","West Ham","Southampton","Norwich","D","D","6.16","3.52",21.6832,1
+2012-11-28,"Manchester United","West Ham","Southampton","Norwich","A","D","11.99","3.52",42.2048,0
+2012-11-28,"Manchester United","West Ham","Southampton","Norwich","D","A","6.16","3.87",23.8392,0
+2012-11-28,"Manchester United","West Ham","Southampton","Norwich","A","A","11.99","3.87",46.4013,0
+2012-11-28,"Manchester United","West Ham","Stoke","Newcastle","A","H","11.99","2.08",24.9392,0
+2012-11-28,"Manchester United","West Ham","Stoke","Newcastle","D","D","6.16","3.27",20.1432,1
+2012-11-28,"Manchester United","West Ham","Stoke","Newcastle","A","D","11.99","3.27",39.2073,0
+2012-11-28,"Manchester United","West Ham","Stoke","Newcastle","D","A","6.16","3.73",22.9768,0
+2012-11-28,"Manchester United","West Ham","Stoke","Newcastle","A","A","11.99","3.73",44.7227,0
+2012-11-28,"Manchester United","West Ham","Swansea","West Brom","A","H","11.99","2.25",26.9775,0
+2012-11-28,"Manchester United","West Ham","Swansea","West Brom","D","D","6.16","3.38",20.8208,1
+2012-11-28,"Manchester United","West Ham","Swansea","West Brom","A","D","11.99","3.38",40.5262,0
+2012-11-28,"Manchester United","West Ham","Swansea","West Brom","A","A","11.99","3.17",38.0083,0
+2012-11-28,"Manchester United","West Ham","Tottenham","Liverpool","A","H","11.99","2.47",29.6153,0
+2012-11-28,"Manchester United","West Ham","Tottenham","Liverpool","D","D","6.16","3.32",20.4512,1
+2012-11-28,"Manchester United","West Ham","Tottenham","Liverpool","A","D","11.99","3.32",39.8068,0
+2012-11-28,"Manchester United","West Ham","Tottenham","Liverpool","A","A","11.99","2.88",34.5312,0
+2012-11-28,"Manchester United","West Ham","Wigan","Manchester City","D","H","6.16","6.79",41.8264,0
+2012-11-28,"Manchester United","West Ham","Wigan","Manchester City","A","H","11.99","6.79",81.4121,0
+2012-11-28,"Manchester United","West Ham","Wigan","Manchester City","D","D","6.16","4.43",27.2888,1
+2012-11-28,"Manchester United","West Ham","Wigan","Manchester City","A","D","11.99","4.43",53.1157,0
+2012-11-28,"Southampton","Norwich","Wigan","Manchester City","D","H","3.52","6.79",23.9008,0
+2012-11-28,"Southampton","Norwich","Wigan","Manchester City","A","H","3.87","6.79",26.2773,0
+2012-11-28,"Stoke","Newcastle","Wigan","Manchester City","D","H","3.27","6.79",22.2033,0
+2012-11-28,"Stoke","Newcastle","Wigan","Manchester City","A","H","3.73","6.79",25.3267,0
+2012-11-28,"Swansea","West Brom","Wigan","Manchester City","D","H","3.38","6.79",22.9502,0
+2012-11-28,"Swansea","West Brom","Wigan","Manchester City","A","H","3.17","6.79",21.5243,0
+2012-11-28,"Tottenham","Liverpool","Wigan","Manchester City","D","H","3.32","6.79",22.5428,0
+2012-12-01,"Arsenal","Swansea","Fulham","Tottenham","A","H","7.19","2.91",20.9229,0
+2012-12-01,"Arsenal","Swansea","Fulham","Tottenham","A","D","7.19","3.31",23.7989,0
+2012-12-01,"Arsenal","Swansea","Liverpool","Southampton","D","D","4.38","4.76",20.8488,0
+2012-12-01,"Arsenal","Swansea","Liverpool","Southampton","A","D","7.19","4.76",34.2244,0
+2012-12-01,"Arsenal","Swansea","Liverpool","Southampton","D","A","4.38","8.57",37.5366,0
+2012-12-01,"Arsenal","Swansea","Liverpool","Southampton","A","A","7.19","8.57",61.6183,1
+2012-12-01,"Arsenal","Swansea","Manchester City","Everton","A","D","7.19","4.04",29.0476,0
+2012-12-01,"Arsenal","Swansea","Manchester City","Everton","D","A","4.38","6.37",27.9006,0
+2012-12-01,"Arsenal","Swansea","Manchester City","Everton","A","A","7.19","6.37",45.8003,1
+2012-12-01,"Arsenal","Swansea","QPR","Aston Villa","A","D","7.19","3.42",24.5898,0
+2012-12-01,"Arsenal","Swansea","QPR","Aston Villa","A","A","7.19","3.87",27.8253,1
+2012-12-01,"Arsenal","Swansea","Reading","Manchester United","D","H","4.38","7.36",32.2368,0
+2012-12-01,"Arsenal","Swansea","Reading","Manchester United","A","H","7.19","7.36",52.9184,0
+2012-12-01,"Arsenal","Swansea","Reading","Manchester United","A","D","7.19","4.49",32.2831,0
+2012-12-01,"Arsenal","Swansea","West Brom","Stoke","A","D","7.19","3.27",23.5113,0
+2012-12-01,"Arsenal","Swansea","West Brom","Stoke","A","A","7.19","3.52",25.3088,1
+2012-12-01,"Arsenal","Swansea","West Ham","Chelsea","A","H","7.19","4.46",32.0674,0
+2012-12-01,"Arsenal","Swansea","West Ham","Chelsea","A","D","7.19","3.46",24.8774,0
+2012-12-01,"Fulham","Tottenham","Liverpool","Southampton","H","A","2.91","8.57",24.9387,0
+2012-12-01,"Fulham","Tottenham","Liverpool","Southampton","D","A","3.31","8.57",28.3667,0
+2012-12-01,"Fulham","Tottenham","Liverpool","Southampton","A","A","2.42","8.57",20.7394,1
+2012-12-01,"Fulham","Tottenham","Manchester City","Everton","D","A","3.31","6.37",21.0847,0
+2012-12-01,"Fulham","Tottenham","Reading","Manchester United","H","H","2.91","7.36",21.4176,0
+2012-12-01,"Fulham","Tottenham","Reading","Manchester United","D","H","3.31","7.36",24.3616,0
+2012-12-01,"Liverpool","Southampton","Manchester City","Everton","A","D","8.57","4.04",34.6228,0
+2012-12-01,"Liverpool","Southampton","Manchester City","Everton","D","A","4.76","6.37",30.3212,0
+2012-12-01,"Liverpool","Southampton","Manchester City","Everton","A","A","8.57","6.37",54.5909,1
+2012-12-01,"Liverpool","Southampton","QPR","Aston Villa","A","D","8.57","3.42",29.3094,0
+2012-12-01,"Liverpool","Southampton","QPR","Aston Villa","A","A","8.57","3.87",33.1659,1
+2012-12-01,"Liverpool","Southampton","Reading","Manchester United","D","H","4.76","7.36",35.0336,0
+2012-12-01,"Liverpool","Southampton","Reading","Manchester United","A","H","8.57","7.36",63.0752,0
+2012-12-01,"Liverpool","Southampton","Reading","Manchester United","D","D","4.76","4.49",21.3724,0
+2012-12-01,"Liverpool","Southampton","Reading","Manchester United","A","D","8.57","4.49",38.4793,0
+2012-12-01,"Liverpool","Southampton","West Brom","Stoke","A","D","8.57","3.27",28.0239,0
+2012-12-01,"Liverpool","Southampton","West Brom","Stoke","A","A","8.57","3.52",30.1664,1
+2012-12-01,"Liverpool","Southampton","West Ham","Chelsea","D","H","4.76","4.46",21.2296,0
+2012-12-01,"Liverpool","Southampton","West Ham","Chelsea","A","H","8.57","4.46",38.2222,0
+2012-12-01,"Liverpool","Southampton","West Ham","Chelsea","A","D","8.57","3.46",29.6522,0
+2012-12-01,"Manchester City","Everton","QPR","Aston Villa","A","D","6.37","3.42",21.7854,0
+2012-12-01,"Manchester City","Everton","QPR","Aston Villa","A","A","6.37","3.87",24.6519,1
+2012-12-01,"Manchester City","Everton","Reading","Manchester United","D","H","4.04","7.36",29.7344,0
+2012-12-01,"Manchester City","Everton","Reading","Manchester United","A","H","6.37","7.36",46.8832,0
+2012-12-01,"Manchester City","Everton","Reading","Manchester United","A","D","6.37","4.49",28.6013,0
+2012-12-01,"Manchester City","Everton","West Brom","Stoke","A","D","6.37","3.27",20.8299,0
+2012-12-01,"Manchester City","Everton","West Brom","Stoke","A","A","6.37","3.52",22.4224,1
+2012-12-01,"Manchester City","Everton","West Ham","Chelsea","A","H","6.37","4.46",28.4102,0
+2012-12-01,"Manchester City","Everton","West Ham","Chelsea","A","D","6.37","3.46",22.0402,0
+2012-12-01,"QPR","Aston Villa","Reading","Manchester United","D","H","3.42","7.36",25.1712,0
+2012-12-01,"QPR","Aston Villa","Reading","Manchester United","A","H","3.87","7.36",28.4832,0
+2012-12-01,"Reading","Manchester United","West Brom","Stoke","H","D","7.36","3.27",24.0672,0
+2012-12-01,"Reading","Manchester United","West Brom","Stoke","H","A","7.36","3.52",25.9072,0
+2012-12-01,"Reading","Manchester United","West Ham","Chelsea","H","H","7.36","4.46",32.8256,0
+2012-12-01,"Reading","Manchester United","West Ham","Chelsea","D","H","4.49","4.46",20.0254,0
+2012-12-01,"Reading","Manchester United","West Ham","Chelsea","H","D","7.36","3.46",25.4656,0
+2012-12-08,"Arsenal","West Brom","Southampton","Reading","A","D","6.24","3.61",22.5264,0
+2012-12-08,"Arsenal","West Brom","Southampton","Reading","A","A","6.24","3.98",24.8352,0
+2012-12-08,"Arsenal","West Brom","Sunderland","Chelsea","D","H","3.98","5.93",23.6014,0
+2012-12-08,"Arsenal","West Brom","Sunderland","Chelsea","A","H","6.24","5.93",37.0032,0
+2012-12-08,"Arsenal","West Brom","Sunderland","Chelsea","A","D","6.24","3.74",23.3376,0
+2012-12-08,"Arsenal","West Brom","Swansea","Norwich","A","D","6.24","3.73",23.2752,0
+2012-12-08,"Arsenal","West Brom","Swansea","Norwich","A","A","6.24","4.85",30.264,0
+2012-12-08,"Arsenal","West Brom","Wigan","QPR","A","D","6.24","3.45",21.528,0
+2012-12-08,"Arsenal","West Brom","Wigan","QPR","A","A","6.24","3.22",20.0928,0
+2012-12-08,"Southampton","Reading","Sunderland","Chelsea","D","H","3.61","5.93",21.4073,0
+2012-12-08,"Southampton","Reading","Sunderland","Chelsea","A","H","3.98","5.93",23.6014,0
+2012-12-08,"Sunderland","Chelsea","Swansea","Norwich","H","D","5.93","3.73",22.1189,1
+2012-12-08,"Sunderland","Chelsea","Swansea","Norwich","H","A","5.93","4.85",28.7605,0
+2012-12-08,"Sunderland","Chelsea","Wigan","QPR","H","D","5.93","3.45",20.4585,1
+2012-12-15,"Liverpool","Aston Villa","Manchester United","Sunderland","D","D","4.8","6.51",31.248,0
+2012-12-15,"Liverpool","Aston Villa","Manchester United","Sunderland","A","D","9.03","6.51",58.7853,0
+2012-12-15,"Liverpool","Aston Villa","Manchester United","Sunderland","D","A","4.8","14.31",68.688,0
+2012-12-15,"Liverpool","Aston Villa","Manchester United","Sunderland","A","A","9.03","14.31",129.2193,0
+2012-12-15,"Liverpool","Aston Villa","Newcastle","Manchester City","D","H","4.8","5.33",25.584,0
+2012-12-15,"Liverpool","Aston Villa","Newcastle","Manchester City","A","H","9.03","5.33",48.1299,1
+2012-12-15,"Liverpool","Aston Villa","Newcastle","Manchester City","A","D","9.03","3.91",35.3073,0
+2012-12-15,"Liverpool","Aston Villa","Norwich","Wigan","A","H","9.03","2.24",20.2272,1
+2012-12-15,"Liverpool","Aston Villa","Norwich","Wigan","A","D","9.03","3.38",30.5214,0
+2012-12-15,"Liverpool","Aston Villa","Norwich","Wigan","A","A","9.03","3.17",28.6251,0
+2012-12-15,"Liverpool","Aston Villa","QPR","Fulham","A","H","9.03","2.55",23.0265,1
+2012-12-15,"Liverpool","Aston Villa","QPR","Fulham","A","D","9.03","3.31",29.8893,0
+2012-12-15,"Liverpool","Aston Villa","QPR","Fulham","A","A","9.03","2.75",24.8325,0
+2012-12-15,"Liverpool","Aston Villa","Stoke","Everton","A","H","9.03","3.1",27.993,1
+2012-12-15,"Liverpool","Aston Villa","Stoke","Everton","A","D","9.03","3.13",28.2639,0
+2012-12-15,"Liverpool","Aston Villa","Stoke","Everton","A","A","9.03","2.41",21.7623,0
+2012-12-15,"Manchester United","Sunderland","Newcastle","Manchester City","D","H","6.51","5.33",34.6983,0
+2012-12-15,"Manchester United","Sunderland","Newcastle","Manchester City","A","H","14.31","5.33",76.2723,1
+2012-12-15,"Manchester United","Sunderland","Newcastle","Manchester City","D","D","6.51","3.91",25.4541,0
+2012-12-15,"Manchester United","Sunderland","Newcastle","Manchester City","A","D","14.31","3.91",55.9521,0
+2012-12-15,"Manchester United","Sunderland","Newcastle","Manchester City","A","A","14.31","1.63",23.3253,0
+2012-12-15,"Manchester United","Sunderland","Norwich","Wigan","A","H","14.31","2.24",32.0544,1
+2012-12-15,"Manchester United","Sunderland","Norwich","Wigan","D","D","6.51","3.38",22.0038,0
+2012-12-15,"Manchester United","Sunderland","Norwich","Wigan","A","D","14.31","3.38",48.3678,0
+2012-12-15,"Manchester United","Sunderland","Norwich","Wigan","D","A","6.51","3.17",20.6367,0
+2012-12-15,"Manchester United","Sunderland","Norwich","Wigan","A","A","14.31","3.17",45.3627,0
+2012-12-15,"Manchester United","Sunderland","QPR","Fulham","A","H","14.31","2.55",36.4905,1
+2012-12-15,"Manchester United","Sunderland","QPR","Fulham","D","D","6.51","3.31",21.5481,0
+2012-12-15,"Manchester United","Sunderland","QPR","Fulham","A","D","14.31","3.31",47.3661,0
+2012-12-15,"Manchester United","Sunderland","QPR","Fulham","A","A","14.31","2.75",39.3525,0
+2012-12-15,"Manchester United","Sunderland","Stoke","Everton","D","H","6.51","3.1",20.181,0
+2012-12-15,"Manchester United","Sunderland","Stoke","Everton","A","H","14.31","3.1",44.361,1
+2012-12-15,"Manchester United","Sunderland","Stoke","Everton","D","D","6.51","3.13",20.3763,0
+2012-12-15,"Manchester United","Sunderland","Stoke","Everton","A","D","14.31","3.13",44.7903,0
+2012-12-15,"Manchester United","Sunderland","Stoke","Everton","A","A","14.31","2.41",34.4871,0
+2012-12-22,"Liverpool","Fulham","Manchester City","Reading","D","D","4.26","8.63",36.7638,0
+2012-12-22,"Liverpool","Fulham","Manchester City","Reading","A","D","7.13","8.63",61.5319,0
+2012-12-22,"Liverpool","Fulham","Manchester City","Reading","H","A","1.47","18.07",26.5629,0
+2012-12-22,"Liverpool","Fulham","Manchester City","Reading","D","A","4.26","18.07",76.9782,0
+2012-12-22,"Liverpool","Fulham","Manchester City","Reading","A","A","7.13","18.07",128.8391,0
+2012-12-22,"Liverpool","Fulham","Newcastle","QPR","A","D","7.13","3.37",24.0281,0
+2012-12-22,"Liverpool","Fulham","Newcastle","QPR","A","A","7.13","3.61",25.7393,0
+2012-12-22,"Liverpool","Fulham","Southampton","Sunderland","A","D","7.13","3.39",24.1707,0
+2012-12-22,"Liverpool","Fulham","Southampton","Sunderland","A","A","7.13","3.71",26.4523,0
+2012-12-22,"Liverpool","Fulham","Tottenham","Stoke","A","D","7.13","3.73",26.5949,0
+2012-12-22,"Liverpool","Fulham","Tottenham","Stoke","D","A","4.26","5.93",25.2618,0
+2012-12-22,"Liverpool","Fulham","Tottenham","Stoke","A","A","7.13","5.93",42.2809,0
+2012-12-22,"Liverpool","Fulham","West Brom","Norwich","A","D","7.13","3.42",24.3846,0
+2012-12-22,"Liverpool","Fulham","West Brom","Norwich","A","A","7.13","3.75",26.7375,0
+2012-12-22,"Liverpool","Fulham","West Ham","Everton","A","H","7.13","2.91",20.7483,0
+2012-12-22,"Liverpool","Fulham","West Ham","Everton","A","D","7.13","3.22",22.9586,0
+2012-12-22,"Liverpool","Fulham","Wigan","Arsenal","D","H","4.26","4.75",20.235,0
+2012-12-22,"Liverpool","Fulham","Wigan","Arsenal","A","H","7.13","4.75",33.8675,0
+2012-12-22,"Liverpool","Fulham","Wigan","Arsenal","A","D","7.13","3.72",26.5236,0
+2012-12-22,"Manchester City","Reading","Newcastle","QPR","A","H","18.07","2.07",37.4049,0
+2012-12-22,"Manchester City","Reading","Newcastle","QPR","D","D","8.63","3.37",29.0831,0
+2012-12-22,"Manchester City","Reading","Newcastle","QPR","A","D","18.07","3.37",60.8959,0
+2012-12-22,"Manchester City","Reading","Newcastle","QPR","D","A","8.63","3.61",31.1543,0
+2012-12-22,"Manchester City","Reading","Newcastle","QPR","A","A","18.07","3.61",65.2327,0
+2012-12-22,"Manchester City","Reading","Southampton","Sunderland","A","H","18.07","2.02",36.5014,0
+2012-12-22,"Manchester City","Reading","Southampton","Sunderland","D","D","8.63","3.39",29.2557,0
+2012-12-22,"Manchester City","Reading","Southampton","Sunderland","A","D","18.07","3.39",61.2573,0
+2012-12-22,"Manchester City","Reading","Southampton","Sunderland","D","A","8.63","3.71",32.0173,0
+2012-12-22,"Manchester City","Reading","Southampton","Sunderland","A","A","18.07","3.71",67.0397,0
+2012-12-22,"Manchester City","Reading","Tottenham","Stoke","A","H","18.07","1.61",29.0927,0
+2012-12-22,"Manchester City","Reading","Tottenham","Stoke","D","D","8.63","3.73",32.1899,0
+2012-12-22,"Manchester City","Reading","Tottenham","Stoke","A","D","18.07","3.73",67.4011,0
+2012-12-22,"Manchester City","Reading","Tottenham","Stoke","D","A","8.63","5.93",51.1759,0
+2012-12-22,"Manchester City","Reading","Tottenham","Stoke","A","A","18.07","5.93",107.1551,0
+2012-12-22,"Manchester City","Reading","West Brom","Norwich","A","H","18.07","2.01",36.3207,0
+2012-12-22,"Manchester City","Reading","West Brom","Norwich","D","D","8.63","3.42",29.5146,0
+2012-12-22,"Manchester City","Reading","West Brom","Norwich","A","D","18.07","3.42",61.7994,0
+2012-12-22,"Manchester City","Reading","West Brom","Norwich","D","A","8.63","3.75",32.3625,0
+2012-12-22,"Manchester City","Reading","West Brom","Norwich","A","A","18.07","3.75",67.7625,0
+2012-12-22,"Manchester City","Reading","West Ham","Everton","D","H","8.63","2.91",25.1133,0
+2012-12-22,"Manchester City","Reading","West Ham","Everton","A","H","18.07","2.91",52.5837,0
+2012-12-22,"Manchester City","Reading","West Ham","Everton","D","D","8.63","3.22",27.7886,0
+2012-12-22,"Manchester City","Reading","West Ham","Everton","A","D","18.07","3.22",58.1854,0
+2012-12-22,"Manchester City","Reading","West Ham","Everton","D","A","8.63","2.48",21.4024,0
+2012-12-22,"Manchester City","Reading","West Ham","Everton","A","A","18.07","2.48",44.8136,0
+2012-12-22,"Manchester City","Reading","Wigan","Arsenal","D","H","8.63","4.75",40.9925,0
+2012-12-22,"Manchester City","Reading","Wigan","Arsenal","A","H","18.07","4.75",85.8325,0
+2012-12-22,"Manchester City","Reading","Wigan","Arsenal","D","D","8.63","3.72",32.1036,0
+2012-12-22,"Manchester City","Reading","Wigan","Arsenal","A","D","18.07","3.72",67.2204,0
+2012-12-22,"Manchester City","Reading","Wigan","Arsenal","A","A","18.07","1.73",31.2611,0
+2012-12-22,"Newcastle","QPR","Tottenham","Stoke","D","A","3.37","5.93",19.9841,0
+2012-12-22,"Newcastle","QPR","Tottenham","Stoke","A","A","3.61","5.93",21.4073,0
+2012-12-22,"Southampton","Sunderland","Tottenham","Stoke","D","A","3.39","5.93",20.1027,0
+2012-12-22,"Southampton","Sunderland","Tottenham","Stoke","A","A","3.71","5.93",22.0003,0
+2012-12-22,"Tottenham","Stoke","West Brom","Norwich","A","D","5.93","3.42",20.2806,0
+2012-12-22,"Tottenham","Stoke","West Brom","Norwich","A","A","5.93","3.75",22.2375,0
+2012-12-22,"Tottenham","Stoke","Wigan","Arsenal","A","H","5.93","4.75",28.1675,0
+2012-12-22,"Tottenham","Stoke","Wigan","Arsenal","A","D","5.93","3.72",22.0596,0
+2012-12-23,"Chelsea","Aston Villa","Swansea","Manchester United","D","H","5.13","4.94",25.3422,0
+2012-12-23,"Chelsea","Aston Villa","Swansea","Manchester United","A","H","8.74","4.94",43.1756,0
+2012-12-23,"Chelsea","Aston Villa","Swansea","Manchester United","A","D","8.74","3.78",33.0372,0
+2012-12-26,"Aston Villa","Tottenham","Everton","Wigan","H","A","3.87","6.25",24.1875,0
+2012-12-26,"Aston Villa","Tottenham","Everton","Wigan","D","A","3.48","6.25",21.75,0
+2012-12-26,"Aston Villa","Tottenham","Manchester United","Newcastle","H","D","3.87","5.92",22.9104,0
+2012-12-26,"Aston Villa","Tottenham","Manchester United","Newcastle","D","D","3.48","5.92",20.6016,0
+2012-12-26,"Aston Villa","Tottenham","Manchester United","Newcastle","H","A","3.87","11.32",43.8084,0
+2012-12-26,"Aston Villa","Tottenham","Manchester United","Newcastle","D","A","3.48","11.32",39.3936,0
+2012-12-26,"Aston Villa","Tottenham","Manchester United","Newcastle","A","A","1.95","11.32",22.074,0
+2012-12-26,"Aston Villa","Tottenham","Norwich","Chelsea","H","H","3.87","5.45",21.0915,0
+2012-12-26,"Aston Villa","Tottenham","Sunderland","Manchester City","H","H","3.87","6.49",25.1163,0
+2012-12-26,"Aston Villa","Tottenham","Sunderland","Manchester City","D","H","3.48","6.49",22.5852,0
+2012-12-26,"Everton","Wigan","Fulham","Southampton","A","D","6.25","3.49",21.8125,0
+2012-12-26,"Everton","Wigan","Fulham","Southampton","A","A","6.25","4.06",25.375,0
+2012-12-26,"Everton","Wigan","Manchester United","Newcastle","D","D","3.99","5.92",23.6208,0
+2012-12-26,"Everton","Wigan","Manchester United","Newcastle","A","D","6.25","5.92",37,0
+2012-12-26,"Everton","Wigan","Manchester United","Newcastle","D","A","3.99","11.32",45.1668,0
+2012-12-26,"Everton","Wigan","Manchester United","Newcastle","A","A","6.25","11.32",70.75,0
+2012-12-26,"Everton","Wigan","Norwich","Chelsea","D","H","3.99","5.45",21.7455,0
+2012-12-26,"Everton","Wigan","Norwich","Chelsea","A","H","6.25","5.45",34.0625,1
+2012-12-26,"Everton","Wigan","Norwich","Chelsea","A","D","6.25","3.83",23.9375,0
+2012-12-26,"Everton","Wigan","QPR","West Brom","A","D","6.25","3.34",20.875,0
+2012-12-26,"Everton","Wigan","Reading","Swansea","A","D","6.25","3.3",20.625,0
+2012-12-26,"Everton","Wigan","Stoke","Liverpool","A","H","6.25","3.7",23.125,1
+2012-12-26,"Everton","Wigan","Stoke","Liverpool","A","D","6.25","3.21",20.0625,0
+2012-12-26,"Everton","Wigan","Sunderland","Manchester City","D","H","3.99","6.49",25.8951,0
+2012-12-26,"Everton","Wigan","Sunderland","Manchester City","A","H","6.25","6.49",40.5625,1
+2012-12-26,"Everton","Wigan","Sunderland","Manchester City","A","D","6.25","4",25,0
+2012-12-26,"Fulham","Southampton","Manchester United","Newcastle","D","D","3.49","5.92",20.6608,0
+2012-12-26,"Fulham","Southampton","Manchester United","Newcastle","A","D","4.06","5.92",24.0352,0
+2012-12-26,"Fulham","Southampton","Manchester United","Newcastle","H","A","1.9","11.32",21.508,0
+2012-12-26,"Fulham","Southampton","Manchester United","Newcastle","D","A","3.49","11.32",39.5068,0
+2012-12-26,"Fulham","Southampton","Manchester United","Newcastle","A","A","4.06","11.32",45.9592,0
+2012-12-26,"Fulham","Southampton","Norwich","Chelsea","A","H","4.06","5.45",22.127,1
+2012-12-26,"Fulham","Southampton","Sunderland","Manchester City","D","H","3.49","6.49",22.6501,0
+2012-12-26,"Fulham","Southampton","Sunderland","Manchester City","A","H","4.06","6.49",26.3494,1
+2012-12-26,"Manchester United","Newcastle","Norwich","Chelsea","D","H","5.92","5.45",32.264,0
+2012-12-26,"Manchester United","Newcastle","Norwich","Chelsea","A","H","11.32","5.45",61.694,1
+2012-12-26,"Manchester United","Newcastle","Norwich","Chelsea","D","D","5.92","3.83",22.6736,0
+2012-12-26,"Manchester United","Newcastle","Norwich","Chelsea","A","D","11.32","3.83",43.3556,0
+2012-12-26,"Manchester United","Newcastle","QPR","West Brom","A","H","11.32","2.32",26.2624,1
+2012-12-26,"Manchester United","Newcastle","QPR","West Brom","D","D","5.92","3.34",19.7728,0
+2012-12-26,"Manchester United","Newcastle","QPR","West Brom","A","D","11.32","3.34",37.8088,0
+2012-12-26,"Manchester United","Newcastle","QPR","West Brom","A","A","11.32","3.03",34.2996,0
+2012-12-26,"Manchester United","Newcastle","Reading","Swansea","A","H","11.32","2.9",32.828,1
+2012-12-26,"Manchester United","Newcastle","Reading","Swansea","A","D","11.32","3.3",37.356,0
+2012-12-26,"Manchester United","Newcastle","Reading","Swansea","A","A","11.32","2.42",27.3944,0
+2012-12-26,"Manchester United","Newcastle","Stoke","Liverpool","D","H","5.92","3.7",21.904,0
+2012-12-26,"Manchester United","Newcastle","Stoke","Liverpool","A","H","11.32","3.7",41.884,1
+2012-12-26,"Manchester United","Newcastle","Stoke","Liverpool","A","D","11.32","3.21",36.3372,0
+2012-12-26,"Manchester United","Newcastle","Stoke","Liverpool","A","A","11.32","2.1",23.772,0
+2012-12-26,"Manchester United","Newcastle","Sunderland","Manchester City","D","H","5.92","6.49",38.4208,0
+2012-12-26,"Manchester United","Newcastle","Sunderland","Manchester City","A","H","11.32","6.49",73.4668,1
+2012-12-26,"Manchester United","Newcastle","Sunderland","Manchester City","D","D","5.92","4",23.68,0
+2012-12-26,"Manchester United","Newcastle","Sunderland","Manchester City","A","D","11.32","4",45.28,0
+2012-12-26,"Norwich","Chelsea","Stoke","Liverpool","H","H","5.45","3.7",20.165,0
+2012-12-26,"Norwich","Chelsea","Sunderland","Manchester City","H","H","5.45","6.49",35.3705,0
+2012-12-26,"Norwich","Chelsea","Sunderland","Manchester City","D","H","3.83","6.49",24.8567,0
+2012-12-26,"Norwich","Chelsea","Sunderland","Manchester City","H","D","5.45","4",21.8,0
+2012-12-26,"QPR","West Brom","Sunderland","Manchester City","D","H","3.34","6.49",21.6766,0
+2012-12-26,"Reading","Swansea","Sunderland","Manchester City","D","H","3.3","6.49",21.417,0
+2012-12-26,"Stoke","Liverpool","Sunderland","Manchester City","H","H","3.7","6.49",24.013,0
+2012-12-26,"Stoke","Liverpool","Sunderland","Manchester City","D","H","3.21","6.49",20.8329,0
+2012-12-29,"Arsenal","Newcastle","Aston Villa","Wigan","A","H","7.52","2.65",19.928,0
+2012-12-29,"Arsenal","Newcastle","Aston Villa","Wigan","A","D","7.52","3.19",23.9888,0
+2012-12-29,"Arsenal","Newcastle","Aston Villa","Wigan","A","A","7.52","2.78",20.9056,0
+2012-12-29,"Arsenal","Newcastle","Fulham","Swansea","A","D","7.52","3.33",25.0416,0
+2012-12-29,"Arsenal","Newcastle","Fulham","Swansea","A","A","7.52","3.31",24.8912,0
+2012-12-29,"Arsenal","Newcastle","Manchester United","West Brom","D","D","4.56","5.45",24.852,0
+2012-12-29,"Arsenal","Newcastle","Manchester United","West Brom","A","D","7.52","5.45",40.984,0
+2012-12-29,"Arsenal","Newcastle","Manchester United","West Brom","D","A","4.56","9.69",44.1864,0
+2012-12-29,"Arsenal","Newcastle","Manchester United","West Brom","A","A","7.52","9.69",72.8688,0
+2012-12-29,"Arsenal","Newcastle","Norwich","Manchester City","D","H","4.56","6.14",27.9984,0
+2012-12-29,"Arsenal","Newcastle","Norwich","Manchester City","A","H","7.52","6.14",46.1728,0
+2012-12-29,"Arsenal","Newcastle","Norwich","Manchester City","A","D","7.52","4.06",30.5312,0
+2012-12-29,"Arsenal","Newcastle","Reading","West Ham","A","H","7.52","2.76",20.7552,0
+2012-12-29,"Arsenal","Newcastle","Reading","West Ham","A","D","7.52","3.27",24.5904,0
+2012-12-29,"Arsenal","Newcastle","Stoke","Southampton","A","D","7.52","3.33",25.0416,0
+2012-12-29,"Arsenal","Newcastle","Stoke","Southampton","A","A","7.52","4.24",31.8848,0
+2012-12-29,"Arsenal","Newcastle","Sunderland","Tottenham","A","H","7.52","3.48",26.1696,0
+2012-12-29,"Arsenal","Newcastle","Sunderland","Tottenham","A","D","7.52","3.27",24.5904,0
+2012-12-29,"Aston Villa","Wigan","Manchester United","West Brom","H","A","2.65","9.69",25.6785,1
+2012-12-29,"Aston Villa","Wigan","Manchester United","West Brom","D","A","3.19","9.69",30.9111,0
+2012-12-29,"Aston Villa","Wigan","Manchester United","West Brom","A","A","2.78","9.69",26.9382,0
+2012-12-29,"Fulham","Swansea","Manchester United","West Brom","H","A","2.19","9.69",21.2211,1
+2012-12-29,"Fulham","Swansea","Manchester United","West Brom","D","A","3.33","9.69",32.2677,0
+2012-12-29,"Fulham","Swansea","Manchester United","West Brom","A","A","3.31","9.69",32.0739,0
+2012-12-29,"Fulham","Swansea","Norwich","Manchester City","D","H","3.33","6.14",20.4462,0
+2012-12-29,"Fulham","Swansea","Norwich","Manchester City","A","H","3.31","6.14",20.3234,0
+2012-12-29,"Manchester United","West Brom","Norwich","Manchester City","D","H","5.45","6.14",33.463,0
+2012-12-29,"Manchester United","West Brom","Norwich","Manchester City","A","H","9.69","6.14",59.4966,0
+2012-12-29,"Manchester United","West Brom","Norwich","Manchester City","D","D","5.45","4.06",22.127,0
+2012-12-29,"Manchester United","West Brom","Norwich","Manchester City","A","D","9.69","4.06",39.3414,0
+2012-12-29,"Manchester United","West Brom","Reading","West Ham","A","H","9.69","2.76",26.7444,0
+2012-12-29,"Manchester United","West Brom","Reading","West Ham","A","D","9.69","3.27",31.6863,0
+2012-12-29,"Manchester United","West Brom","Reading","West Ham","A","A","9.69","2.57",24.9033,0
+2012-12-29,"Manchester United","West Brom","Stoke","Southampton","A","D","9.69","3.33",32.2677,0
+2012-12-29,"Manchester United","West Brom","Stoke","Southampton","D","A","5.45","4.24",23.108,0
+2012-12-29,"Manchester United","West Brom","Stoke","Southampton","A","A","9.69","4.24",41.0856,0
+2012-12-29,"Manchester United","West Brom","Sunderland","Tottenham","A","H","9.69","3.48",33.7212,0
+2012-12-29,"Manchester United","West Brom","Sunderland","Tottenham","A","D","9.69","3.27",31.6863,0
+2012-12-29,"Manchester United","West Brom","Sunderland","Tottenham","A","A","9.69","2.17",21.0273,0
+2012-12-29,"Norwich","Manchester City","Reading","West Ham","H","D","6.14","3.27",20.0778,0
+2012-12-29,"Norwich","Manchester City","Stoke","Southampton","H","D","6.14","3.33",20.4462,0
+2012-12-29,"Norwich","Manchester City","Stoke","Southampton","H","A","6.14","4.24",26.0336,1
+2012-12-29,"Norwich","Manchester City","Sunderland","Tottenham","H","H","6.14","3.48",21.3672,0
+2012-12-29,"Norwich","Manchester City","Sunderland","Tottenham","H","D","6.14","3.27",20.0778,0
+2013-01-01,"Manchester City","Stoke","Southampton","Arsenal","D","H","4.98","4.88",24.3024,0
+2013-01-01,"Manchester City","Stoke","Southampton","Arsenal","A","H","10.2","4.88",49.776,0
+2013-01-01,"Manchester City","Stoke","Southampton","Arsenal","A","D","10.2","3.8",38.76,0
+2013-01-01,"Manchester City","Stoke","Swansea","Aston Villa","A","D","10.2","3.93",40.086,0
+2013-01-01,"Manchester City","Stoke","Swansea","Aston Villa","D","A","4.98","5.7",28.386,0
+2013-01-01,"Manchester City","Stoke","Swansea","Aston Villa","A","A","10.2","5.7",58.14,0
+2013-01-01,"Manchester City","Stoke","Tottenham","Reading","D","D","4.98","4.99",24.8502,0
+2013-01-01,"Manchester City","Stoke","Tottenham","Reading","A","D","10.2","4.99",50.898,0
+2013-01-01,"Manchester City","Stoke","Tottenham","Reading","D","A","4.98","9.63",47.9574,0
+2013-01-01,"Manchester City","Stoke","Tottenham","Reading","A","A","10.2","9.63",98.226,0
+2013-01-01,"Manchester City","Stoke","West Brom","Fulham","A","H","10.2","1.96",19.992,0
+2013-01-01,"Manchester City","Stoke","West Brom","Fulham","A","D","10.2","3.5",35.7,0
+2013-01-01,"Manchester City","Stoke","West Brom","Fulham","A","A","10.2","3.84",39.168,0
+2013-01-01,"Manchester City","Stoke","West Ham","Norwich","A","H","10.2","1.98",20.196,0
+2013-01-01,"Manchester City","Stoke","West Ham","Norwich","A","D","10.2","3.43",34.986,0
+2013-01-01,"Manchester City","Stoke","West Ham","Norwich","A","A","10.2","3.84",39.168,0
+2013-01-01,"Manchester City","Stoke","Wigan","Manchester United","D","H","4.98","4.99",24.8502,0
+2013-01-01,"Manchester City","Stoke","Wigan","Manchester United","A","H","10.2","4.99",50.898,0
+2013-01-01,"Manchester City","Stoke","Wigan","Manchester United","A","D","10.2","3.76",38.352,0
+2013-01-01,"Southampton","Arsenal","Swansea","Aston Villa","H","A","4.88","5.7",27.816,0
+2013-01-01,"Southampton","Arsenal","Swansea","Aston Villa","D","A","3.8","5.7",21.66,0
+2013-01-01,"Southampton","Arsenal","Tottenham","Reading","H","D","4.88","4.99",24.3512,1
+2013-01-01,"Southampton","Arsenal","Tottenham","Reading","H","A","4.88","9.63",46.9944,0
+2013-01-01,"Southampton","Arsenal","Tottenham","Reading","D","A","3.8","9.63",36.594,0
+2013-01-01,"Southampton","Arsenal","Wigan","Manchester United","H","H","4.88","4.99",24.3512,0
+2013-01-01,"Swansea","Aston Villa","Tottenham","Reading","A","D","5.7","4.99",28.443,0
+2013-01-01,"Swansea","Aston Villa","Tottenham","Reading","D","A","3.93","9.63",37.8459,0
+2013-01-01,"Swansea","Aston Villa","Tottenham","Reading","A","A","5.7","9.63",54.891,0
+2013-01-01,"Swansea","Aston Villa","West Brom","Fulham","A","D","5.7","3.5",19.95,0
+2013-01-01,"Swansea","Aston Villa","West Brom","Fulham","A","A","5.7","3.84",21.888,0
+2013-01-01,"Swansea","Aston Villa","West Ham","Norwich","A","A","5.7","3.84",21.888,0
+2013-01-01,"Swansea","Aston Villa","Wigan","Manchester United","A","H","5.7","4.99",28.443,0
+2013-01-01,"Swansea","Aston Villa","Wigan","Manchester United","A","D","5.7","3.76",21.432,0
+2013-01-01,"Tottenham","Reading","West Brom","Fulham","A","D","9.63","3.5",33.705,0
+2013-01-01,"Tottenham","Reading","West Brom","Fulham","A","A","9.63","3.84",36.9792,0
+2013-01-01,"Tottenham","Reading","West Ham","Norwich","A","D","9.63","3.43",33.0309,0
+2013-01-01,"Tottenham","Reading","West Ham","Norwich","A","A","9.63","3.84",36.9792,0
+2013-01-01,"Tottenham","Reading","Wigan","Manchester United","D","H","4.99","4.99",24.9001,0
+2013-01-01,"Tottenham","Reading","Wigan","Manchester United","A","H","9.63","4.99",48.0537,0
+2013-01-01,"Tottenham","Reading","Wigan","Manchester United","A","D","9.63","3.76",36.2088,0
+2013-01-02,"Chelsea","QPR","Liverpool","Sunderland","D","D","5.98","4.77",28.5246,0
+2013-01-02,"Chelsea","QPR","Liverpool","Sunderland","A","D","11.75","4.77",56.0475,0
+2013-01-02,"Chelsea","QPR","Liverpool","Sunderland","D","A","5.98","8.37",50.0526,0
+2013-01-02,"Chelsea","QPR","Liverpool","Sunderland","A","A","11.75","8.37",98.3475,0
+2013-01-02,"Chelsea","QPR","Newcastle","Everton","D","H","5.98","3.56",21.2888,0
+2013-01-02,"Chelsea","QPR","Newcastle","Everton","A","H","11.75","3.56",41.83,1
+2013-01-02,"Chelsea","QPR","Newcastle","Everton","D","D","5.98","3.39",20.2722,0
+2013-01-02,"Chelsea","QPR","Newcastle","Everton","A","D","11.75","3.39",39.8325,0
+2013-01-02,"Chelsea","QPR","Newcastle","Everton","A","A","11.75","2.09",24.5575,0
+2013-01-02,"Liverpool","Sunderland","Newcastle","Everton","A","H","8.37","3.56",29.7972,1
+2013-01-02,"Liverpool","Sunderland","Newcastle","Everton","A","D","8.37","3.39",28.3743,0
+2013-01-12,"Everton","Swansea","Fulham","Wigan","A","D","5.85","3.37",19.7145,1
+2013-01-12,"Everton","Swansea","Fulham","Wigan","A","A","5.85","3.69",21.5865,0
+2013-01-12,"Everton","Swansea","Norwich","Newcastle","A","D","5.85","3.4",19.89,1
+2013-01-12,"Everton","Swansea","QPR","Tottenham","A","H","5.85","4.52",26.442,0
+2013-01-12,"Everton","Swansea","QPR","Tottenham","A","D","5.85","3.67",21.4695,1
+2013-01-12,"Everton","Swansea","Stoke","Chelsea","A","H","5.85","4.45",26.0325,0
+2013-01-12,"Everton","Swansea","Stoke","Chelsea","A","D","5.85","3.45",20.1825,1
+2013-01-12,"QPR","Tottenham","Stoke","Chelsea","H","H","4.52","4.45",20.114,0
+2013-01-19,"Liverpool","Norwich","Manchester City","Fulham","D","D","5.24","6.05",31.702,0
+2013-01-19,"Liverpool","Norwich","Manchester City","Fulham","A","D","9.56","6.05",57.838,0
+2013-01-19,"Liverpool","Norwich","Manchester City","Fulham","D","A","5.24","12.59",65.9716,0
+2013-01-19,"Liverpool","Norwich","Manchester City","Fulham","A","A","9.56","12.59",120.3604,0
+2013-01-19,"Liverpool","Norwich","Newcastle","Reading","D","D","5.24","3.81",19.9644,0
+2013-01-19,"Liverpool","Norwich","Newcastle","Reading","A","D","9.56","3.81",36.4236,0
+2013-01-19,"Liverpool","Norwich","Newcastle","Reading","D","A","5.24","5.33",27.9292,0
+2013-01-19,"Liverpool","Norwich","Newcastle","Reading","A","A","9.56","5.33",50.9548,0
+2013-01-19,"Liverpool","Norwich","Swansea","Stoke","A","H","9.56","2.14",20.4584,0
+2013-01-19,"Liverpool","Norwich","Swansea","Stoke","A","D","9.56","3.22",30.7832,0
+2013-01-19,"Liverpool","Norwich","Swansea","Stoke","A","A","9.56","3.6",34.416,0
+2013-01-19,"Liverpool","Norwich","West Brom","Aston Villa","A","D","9.56","3.55",33.938,0
+2013-01-19,"Liverpool","Norwich","West Brom","Aston Villa","D","A","5.24","4.4",23.056,0
+2013-01-19,"Liverpool","Norwich","West Brom","Aston Villa","A","A","9.56","4.4",42.064,0
+2013-01-19,"Liverpool","Norwich","West Ham","QPR","A","D","9.56","3.38",32.3128,0
+2013-01-19,"Liverpool","Norwich","West Ham","QPR","A","A","9.56","3.67",35.0852,0
+2013-01-19,"Liverpool","Norwich","Wigan","Sunderland","A","H","9.56","2.12",20.2672,0
+2013-01-19,"Liverpool","Norwich","Wigan","Sunderland","A","D","9.56","3.28",31.3568,0
+2013-01-19,"Liverpool","Norwich","Wigan","Sunderland","A","A","9.56","3.59",34.3204,0
+2013-01-19,"Manchester City","Fulham","Newcastle","Reading","A","H","12.59","1.66",20.8994,0
+2013-01-19,"Manchester City","Fulham","Newcastle","Reading","D","D","6.05","3.81",23.0505,0
+2013-01-19,"Manchester City","Fulham","Newcastle","Reading","A","D","12.59","3.81",47.9679,0
+2013-01-19,"Manchester City","Fulham","Newcastle","Reading","D","A","6.05","5.33",32.2465,0
+2013-01-19,"Manchester City","Fulham","Newcastle","Reading","A","A","12.59","5.33",67.1047,0
+2013-01-19,"Manchester City","Fulham","Swansea","Stoke","A","H","12.59","2.14",26.9426,0
+2013-01-19,"Manchester City","Fulham","Swansea","Stoke","A","D","12.59","3.22",40.5398,0
+2013-01-19,"Manchester City","Fulham","Swansea","Stoke","D","A","6.05","3.6",21.78,0
+2013-01-19,"Manchester City","Fulham","Swansea","Stoke","A","A","12.59","3.6",45.324,0
+2013-01-19,"Manchester City","Fulham","West Brom","Aston Villa","A","H","12.59","1.84",23.1656,0
+2013-01-19,"Manchester City","Fulham","West Brom","Aston Villa","D","D","6.05","3.55",21.4775,0
+2013-01-19,"Manchester City","Fulham","West Brom","Aston Villa","A","D","12.59","3.55",44.6945,0
+2013-01-19,"Manchester City","Fulham","West Brom","Aston Villa","D","A","6.05","4.4",26.62,0
+2013-01-19,"Manchester City","Fulham","West Brom","Aston Villa","A","A","12.59","4.4",55.396,0
+2013-01-19,"Manchester City","Fulham","West Ham","QPR","A","H","12.59","2.05",25.8095,0
+2013-01-19,"Manchester City","Fulham","West Ham","QPR","D","D","6.05","3.38",20.449,0
+2013-01-19,"Manchester City","Fulham","West Ham","QPR","A","D","12.59","3.38",42.5542,0
+2013-01-19,"Manchester City","Fulham","West Ham","QPR","D","A","6.05","3.67",22.2035,0
+2013-01-19,"Manchester City","Fulham","West Ham","QPR","A","A","12.59","3.67",46.2053,0
+2013-01-19,"Manchester City","Fulham","Wigan","Sunderland","A","H","12.59","2.12",26.6908,0
+2013-01-19,"Manchester City","Fulham","Wigan","Sunderland","D","D","6.05","3.28",19.844,0
+2013-01-19,"Manchester City","Fulham","Wigan","Sunderland","A","D","12.59","3.28",41.2952,0
+2013-01-19,"Manchester City","Fulham","Wigan","Sunderland","D","A","6.05","3.59",21.7195,0
+2013-01-19,"Manchester City","Fulham","Wigan","Sunderland","A","A","12.59","3.59",45.1981,0
+2013-01-19,"Newcastle","Reading","West Brom","Aston Villa","A","A","5.33","4.4",23.452,0
+2013-01-29,"Aston Villa","Newcastle","QPR","Manchester City","H","H","2.75","7.37",20.2675,0
+2013-01-29,"Aston Villa","Newcastle","QPR","Manchester City","D","H","3.25","7.37",23.9525,0
+2013-01-29,"QPR","Manchester City","Stoke","Wigan","H","D","7.37","3.2",23.584,0
+2013-01-29,"QPR","Manchester City","Stoke","Wigan","H","A","7.37","3.5",25.795,0
+2013-01-29,"QPR","Manchester City","Sunderland","Swansea","H","D","7.37","3.23",23.8051,0
+2013-01-29,"QPR","Manchester City","Sunderland","Swansea","H","A","7.37","2.91",21.4467,0
+2013-01-30,"Arsenal","Liverpool","Everton","West Brom","D","A","3.39","6.08",20.6112,0
+2013-01-30,"Arsenal","Liverpool","Everton","West Brom","A","A","3.44","6.08",20.9152,0
+2013-01-30,"Arsenal","Liverpool","Manchester United","Southampton","D","D","3.39","6.49",22.0011,0
+2013-01-30,"Arsenal","Liverpool","Manchester United","Southampton","A","D","3.44","6.49",22.3256,0
+2013-01-30,"Arsenal","Liverpool","Manchester United","Southampton","H","A","2.14","11.79",25.2306,0
+2013-01-30,"Arsenal","Liverpool","Manchester United","Southampton","D","A","3.39","11.79",39.9681,0
+2013-01-30,"Arsenal","Liverpool","Manchester United","Southampton","A","A","3.44","11.79",40.5576,0
+2013-01-30,"Arsenal","Liverpool","Reading","Chelsea","D","H","3.39","6",20.34,1
+2013-01-30,"Arsenal","Liverpool","Reading","Chelsea","A","H","3.44","6",20.64,0
+2013-01-30,"Everton","West Brom","Fulham","West Ham","A","D","6.08","3.28",19.9424,0
+2013-01-30,"Everton","West Brom","Manchester United","Southampton","D","D","4.02","6.49",26.0898,0
+2013-01-30,"Everton","West Brom","Manchester United","Southampton","A","D","6.08","6.49",39.4592,0
+2013-01-30,"Everton","West Brom","Manchester United","Southampton","D","A","4.02","11.79",47.3958,0
+2013-01-30,"Everton","West Brom","Manchester United","Southampton","A","A","6.08","11.79",71.6832,0
+2013-01-30,"Everton","West Brom","Norwich","Tottenham","A","H","6.08","4.33",26.3264,0
+2013-01-30,"Everton","West Brom","Norwich","Tottenham","A","D","6.08","3.58",21.7664,0
+2013-01-30,"Everton","West Brom","Reading","Chelsea","D","H","4.02","6",24.12,1
+2013-01-30,"Everton","West Brom","Reading","Chelsea","A","H","6.08","6",36.48,0
+2013-01-30,"Everton","West Brom","Reading","Chelsea","A","D","6.08","4.13",25.1104,0
+2013-01-30,"Fulham","West Ham","Manchester United","Southampton","D","D","3.28","6.49",21.2872,0
+2013-01-30,"Fulham","West Ham","Manchester United","Southampton","A","D","3.06","6.49",19.8594,0
+2013-01-30,"Fulham","West Ham","Manchester United","Southampton","H","A","2.37","11.79",27.9423,0
+2013-01-30,"Fulham","West Ham","Manchester United","Southampton","D","A","3.28","11.79",38.6712,0
+2013-01-30,"Fulham","West Ham","Manchester United","Southampton","A","A","3.06","11.79",36.0774,0
+2013-01-30,"Manchester United","Southampton","Norwich","Tottenham","D","H","6.49","4.33",28.1017,1
+2013-01-30,"Manchester United","Southampton","Norwich","Tottenham","A","H","11.79","4.33",51.0507,0
+2013-01-30,"Manchester United","Southampton","Norwich","Tottenham","D","D","6.49","3.58",23.2342,0
+2013-01-30,"Manchester United","Southampton","Norwich","Tottenham","A","D","11.79","3.58",42.2082,0
+2013-01-30,"Manchester United","Southampton","Norwich","Tottenham","A","A","11.79","1.85",21.8115,0
+2013-01-30,"Manchester United","Southampton","Reading","Chelsea","D","H","6.49","6",38.94,1
+2013-01-30,"Manchester United","Southampton","Reading","Chelsea","A","H","11.79","6",70.74,0
+2013-01-30,"Manchester United","Southampton","Reading","Chelsea","D","D","6.49","4.13",26.8037,0
+2013-01-30,"Manchester United","Southampton","Reading","Chelsea","A","D","11.79","4.13",48.6927,0
+2013-01-30,"Norwich","Tottenham","Reading","Chelsea","H","H","4.33","6",25.98,0
+2013-01-30,"Norwich","Tottenham","Reading","Chelsea","D","H","3.58","6",21.48,1
+2013-02-02,"Arsenal","Stoke","Everton","Aston Villa","D","D","4.54","4.62",20.9748,0
+2013-02-02,"Arsenal","Stoke","Everton","Aston Villa","A","D","8.78","4.62",40.5636,0
+2013-02-02,"Arsenal","Stoke","Everton","Aston Villa","D","A","4.54","8.78",39.8612,0
+2013-02-02,"Arsenal","Stoke","Everton","Aston Villa","A","A","8.78","8.78",77.0884,0
+2013-02-02,"Arsenal","Stoke","Fulham","Manchester United","D","H","4.54","6.09",27.6486,0
+2013-02-02,"Arsenal","Stoke","Fulham","Manchester United","A","H","8.78","6.09",53.4702,0
+2013-02-02,"Arsenal","Stoke","Fulham","Manchester United","A","D","8.78","4.21",36.9638,0
+2013-02-02,"Arsenal","Stoke","Newcastle","Chelsea","A","H","8.78","4.03",35.3834,0
+2013-02-02,"Arsenal","Stoke","Newcastle","Chelsea","A","D","8.78","3.44",30.2032,0
+2013-02-02,"Arsenal","Stoke","QPR","Norwich","A","D","8.78","3.22",28.2716,0
+2013-02-02,"Arsenal","Stoke","QPR","Norwich","A","A","8.78","3.42",30.0276,0
+2013-02-02,"Arsenal","Stoke","Reading","Sunderland","A","H","8.78","2.43",21.3354,0
+2013-02-02,"Arsenal","Stoke","Reading","Sunderland","A","D","8.78","3.25",28.535,0
+2013-02-02,"Arsenal","Stoke","Reading","Sunderland","A","A","8.78","2.99",26.2522,0
+2013-02-02,"Arsenal","Stoke","West Ham","Swansea","A","H","8.78","2.4",21.072,0
+2013-02-02,"Arsenal","Stoke","West Ham","Swansea","A","D","8.78","3.28",28.7984,0
+2013-02-02,"Arsenal","Stoke","West Ham","Swansea","A","A","8.78","3.01",26.4278,0
+2013-02-02,"Arsenal","Stoke","Wigan","Southampton","A","D","8.78","3.34",29.3252,0
+2013-02-02,"Arsenal","Stoke","Wigan","Southampton","A","A","8.78","3.32",29.1496,0
+2013-02-02,"Everton","Aston Villa","Fulham","Manchester United","D","H","4.62","6.09",28.1358,0
+2013-02-02,"Everton","Aston Villa","Fulham","Manchester United","A","H","8.78","6.09",53.4702,0
+2013-02-02,"Everton","Aston Villa","Fulham","Manchester United","A","D","8.78","4.21",36.9638,0
+2013-02-02,"Everton","Aston Villa","Newcastle","Chelsea","A","H","8.78","4.03",35.3834,0
+2013-02-02,"Everton","Aston Villa","Newcastle","Chelsea","A","D","8.78","3.44",30.2032,0
+2013-02-02,"Everton","Aston Villa","QPR","Norwich","A","D","8.78","3.22",28.2716,0
+2013-02-02,"Everton","Aston Villa","QPR","Norwich","A","A","8.78","3.42",30.0276,0
+2013-02-02,"Everton","Aston Villa","Reading","Sunderland","A","H","8.78","2.43",21.3354,0
+2013-02-02,"Everton","Aston Villa","Reading","Sunderland","A","D","8.78","3.25",28.535,0
+2013-02-02,"Everton","Aston Villa","Reading","Sunderland","A","A","8.78","2.99",26.2522,0
+2013-02-02,"Everton","Aston Villa","West Ham","Swansea","A","H","8.78","2.4",21.072,0
+2013-02-02,"Everton","Aston Villa","West Ham","Swansea","A","D","8.78","3.28",28.7984,0
+2013-02-02,"Everton","Aston Villa","West Ham","Swansea","A","A","8.78","3.01",26.4278,0
+2013-02-02,"Everton","Aston Villa","Wigan","Southampton","A","D","8.78","3.34",29.3252,0
+2013-02-02,"Everton","Aston Villa","Wigan","Southampton","A","A","8.78","3.32",29.1496,0
+2013-02-02,"Fulham","Manchester United","Newcastle","Chelsea","H","H","6.09","4.03",24.5427,0
+2013-02-02,"Fulham","Manchester United","Newcastle","Chelsea","H","D","6.09","3.44",20.9496,1
+2013-02-02,"Fulham","Manchester United","QPR","Norwich","H","A","6.09","3.42",20.8278,0
+2013-02-02,"Fulham","Manchester United","Reading","Sunderland","H","D","6.09","3.25",19.7925,1
+2013-02-02,"Fulham","Manchester United","West Ham","Swansea","H","D","6.09","3.28",19.9752,1
+2013-02-02,"Fulham","Manchester United","Wigan","Southampton","H","D","6.09","3.34",20.3406,1
+2013-02-02,"Fulham","Manchester United","Wigan","Southampton","H","A","6.09","3.32",20.2188,0
+2013-02-09,"Chelsea","Wigan","Norwich","Fulham","A","H","8.9","2.31",20.559,0
+2013-02-09,"Chelsea","Wigan","Norwich","Fulham","A","D","8.9","3.3",29.37,0
+2013-02-09,"Chelsea","Wigan","Norwich","Fulham","A","A","8.9","3.16",28.124,0
+2013-02-09,"Chelsea","Wigan","Southampton","Manchester City","D","H","5.17","5.36",27.7112,0
+2013-02-09,"Chelsea","Wigan","Southampton","Manchester City","A","H","8.9","5.36",47.704,0
+2013-02-09,"Chelsea","Wigan","Southampton","Manchester City","D","D","5.17","3.93",20.3181,0
+2013-02-09,"Chelsea","Wigan","Southampton","Manchester City","A","D","8.9","3.93",34.977,0
+2013-02-09,"Chelsea","Wigan","Stoke","Reading","A","D","8.9","3.43",30.527,0
+2013-02-09,"Chelsea","Wigan","Stoke","Reading","D","A","5.17","4.42",22.8514,0
+2013-02-09,"Chelsea","Wigan","Stoke","Reading","A","A","8.9","4.42",39.338,0
+2013-02-09,"Chelsea","Wigan","Sunderland","Arsenal","D","H","5.17","4.24",21.9208,0
+2013-02-09,"Chelsea","Wigan","Sunderland","Arsenal","A","H","8.9","4.24",37.736,0
+2013-02-09,"Chelsea","Wigan","Sunderland","Arsenal","A","D","8.9","3.55",31.595,0
+2013-02-09,"Chelsea","Wigan","Swansea","QPR","A","D","8.9","3.59",31.951,0
+2013-02-09,"Chelsea","Wigan","Swansea","QPR","D","A","5.17","4.96",25.6432,0
+2013-02-09,"Chelsea","Wigan","Swansea","QPR","A","A","8.9","4.96",44.144,0
+2013-02-09,"Chelsea","Wigan","Tottenham","Newcastle","D","D","5.17","3.84",19.8528,0
+2013-02-09,"Chelsea","Wigan","Tottenham","Newcastle","A","D","8.9","3.84",34.176,0
+2013-02-09,"Chelsea","Wigan","Tottenham","Newcastle","D","A","5.17","5.44",28.1248,0
+2013-02-09,"Chelsea","Wigan","Tottenham","Newcastle","A","A","8.9","5.44",48.416,0
+2013-02-09,"Southampton","Manchester City","Stoke","Reading","H","A","5.36","4.42",23.6912,0
+2013-02-09,"Southampton","Manchester City","Sunderland","Arsenal","H","H","5.36","4.24",22.7264,0
+2013-02-09,"Southampton","Manchester City","Swansea","QPR","H","A","5.36","4.96",26.5856,0
+2013-02-09,"Southampton","Manchester City","Tottenham","Newcastle","H","D","5.36","3.84",20.5824,1
+2013-02-09,"Southampton","Manchester City","Tottenham","Newcastle","H","A","5.36","5.44",29.1584,0
+2013-02-09,"Southampton","Manchester City","Tottenham","Newcastle","D","A","3.93","5.44",21.3792,0
+2013-02-09,"Stoke","Reading","Swansea","QPR","A","A","4.42","4.96",21.9232,0
+2013-02-09,"Stoke","Reading","Tottenham","Newcastle","A","A","4.42","5.44",24.0448,0
+2013-02-09,"Sunderland","Arsenal","Swansea","QPR","H","A","4.24","4.96",21.0304,0
+2013-02-09,"Sunderland","Arsenal","Tottenham","Newcastle","H","A","4.24","5.44",23.0656,0
+2013-02-09,"Swansea","QPR","Tottenham","Newcastle","A","A","4.96","5.44",26.9824,0
+2013-02-23,"Arsenal","Aston Villa","Fulham","Stoke","A","H","9.64","2.1",20.244,0
+2013-02-23,"Arsenal","Aston Villa","Fulham","Stoke","A","D","9.64","3.25",31.33,0
+2013-02-23,"Arsenal","Aston Villa","Fulham","Stoke","D","A","5.42","3.72",20.1624,0
+2013-02-23,"Arsenal","Aston Villa","Fulham","Stoke","A","A","9.64","3.72",35.8608,0
+2013-02-23,"Arsenal","Aston Villa","Norwich","Everton","A","H","9.64","3.43",33.0652,0
+2013-02-23,"Arsenal","Aston Villa","Norwich","Everton","A","D","9.64","3.27",31.5228,0
+2013-02-23,"Arsenal","Aston Villa","Norwich","Everton","A","A","9.64","2.18",21.0152,0
+2013-02-23,"Arsenal","Aston Villa","QPR","Manchester United","D","H","5.42","6.31",34.2002,0
+2013-02-23,"Arsenal","Aston Villa","QPR","Manchester United","A","H","9.64","6.31",60.8284,0
+2013-02-23,"Arsenal","Aston Villa","QPR","Manchester United","D","D","5.42","4.18",22.6556,0
+2013-02-23,"Arsenal","Aston Villa","QPR","Manchester United","A","D","9.64","4.18",40.2952,0
+2013-02-23,"Arsenal","Aston Villa","Reading","Wigan","A","H","9.64","2.53",24.3892,0
+2013-02-23,"Arsenal","Aston Villa","Reading","Wigan","A","D","9.64","3.29",31.7156,0
+2013-02-23,"Arsenal","Aston Villa","Reading","Wigan","A","A","9.64","2.8",26.992,0
+2013-02-23,"Arsenal","Aston Villa","West Brom","Sunderland","A","D","9.64","3.52",33.9328,0
+2013-02-23,"Arsenal","Aston Villa","West Brom","Sunderland","D","A","5.42","4.36",23.6312,0
+2013-02-23,"Arsenal","Aston Villa","West Brom","Sunderland","A","A","9.64","4.36",42.0304,0
+2013-02-23,"Fulham","Stoke","QPR","Manchester United","D","H","3.25","6.31",20.5075,0
+2013-02-23,"Fulham","Stoke","QPR","Manchester United","A","H","3.72","6.31",23.4732,0
+2013-02-23,"Norwich","Everton","QPR","Manchester United","H","H","3.43","6.31",21.6433,1
+2013-02-23,"Norwich","Everton","QPR","Manchester United","D","H","3.27","6.31",20.6337,0
+2013-02-23,"QPR","Manchester United","Reading","Wigan","H","D","6.31","3.29",20.7599,0
+2013-02-23,"QPR","Manchester United","West Brom","Sunderland","H","D","6.31","3.52",22.2112,0
+2013-02-23,"QPR","Manchester United","West Brom","Sunderland","H","A","6.31","4.36",27.5116,0
+2013-03-02,"Chelsea","West Brom","Everton","Reading","D","D","4.77","4.85",23.1345,0
+2013-03-02,"Chelsea","West Brom","Everton","Reading","A","D","8.3","4.85",40.255,0
+2013-03-02,"Chelsea","West Brom","Everton","Reading","D","A","4.77","8.85",42.2145,0
+2013-03-02,"Chelsea","West Brom","Everton","Reading","A","A","8.3","8.85",73.455,0
+2013-03-02,"Chelsea","West Brom","Manchester United","Norwich","D","D","4.77","5.63",26.8551,0
+2013-03-02,"Chelsea","West Brom","Manchester United","Norwich","A","D","8.3","5.63",46.729,0
+2013-03-02,"Chelsea","West Brom","Manchester United","Norwich","D","A","4.77","11.16",53.2332,0
+2013-03-02,"Chelsea","West Brom","Manchester United","Norwich","A","A","8.3","11.16",92.628,0
+2013-03-02,"Chelsea","West Brom","Southampton","QPR","A","D","8.3","3.8",31.54,0
+2013-03-02,"Chelsea","West Brom","Southampton","QPR","D","A","4.77","5.1",24.327,0
+2013-03-02,"Chelsea","West Brom","Southampton","QPR","A","A","8.3","5.1",42.33,0
+2013-03-02,"Chelsea","West Brom","Stoke","West Ham","A","D","8.3","3.18",26.394,0
+2013-03-02,"Chelsea","West Brom","Stoke","West Ham","A","A","8.3","3.14",26.062,0
+2013-03-02,"Chelsea","West Brom","Sunderland","Fulham","A","D","8.3","3.26",27.058,0
+2013-03-02,"Chelsea","West Brom","Sunderland","Fulham","A","A","8.3","3.27",27.141,0
+2013-03-02,"Chelsea","West Brom","Swansea","Newcastle","A","D","8.3","3.45",28.635,0
+2013-03-02,"Chelsea","West Brom","Swansea","Newcastle","A","A","8.3","3.62",30.046,0
+2013-03-02,"Chelsea","West Brom","Wigan","Liverpool","D","H","4.77","4.5",21.465,0
+2013-03-02,"Chelsea","West Brom","Wigan","Liverpool","A","H","8.3","4.5",37.35,0
+2013-03-02,"Chelsea","West Brom","Wigan","Liverpool","A","D","8.3","3.72",30.876,0
+2013-03-02,"Everton","Reading","Manchester United","Norwich","D","D","4.85","5.63",27.3055,0
+2013-03-02,"Everton","Reading","Manchester United","Norwich","A","D","8.85","5.63",49.8255,0
+2013-03-02,"Everton","Reading","Manchester United","Norwich","D","A","4.85","11.16",54.126,0
+2013-03-02,"Everton","Reading","Manchester United","Norwich","A","A","8.85","11.16",98.766,0
+2013-03-02,"Everton","Reading","Southampton","QPR","A","D","8.85","3.8",33.63,0
+2013-03-02,"Everton","Reading","Southampton","QPR","D","A","4.85","5.1",24.735,0
+2013-03-02,"Everton","Reading","Southampton","QPR","A","A","8.85","5.1",45.135,0
+2013-03-02,"Everton","Reading","Stoke","West Ham","A","H","8.85","2.37",20.9745,0
+2013-03-02,"Everton","Reading","Stoke","West Ham","A","D","8.85","3.18",28.143,0
+2013-03-02,"Everton","Reading","Stoke","West Ham","A","A","8.85","3.14",27.789,0
+2013-03-02,"Everton","Reading","Sunderland","Fulham","A","H","8.85","2.27",20.0895,0
+2013-03-02,"Everton","Reading","Sunderland","Fulham","A","D","8.85","3.26",28.851,0
+2013-03-02,"Everton","Reading","Sunderland","Fulham","A","A","8.85","3.27",28.9395,0
+2013-03-02,"Everton","Reading","Swansea","Newcastle","A","D","8.85","3.45",30.5325,0
+2013-03-02,"Everton","Reading","Swansea","Newcastle","A","A","8.85","3.62",32.037,0
+2013-03-02,"Everton","Reading","Wigan","Liverpool","D","H","4.85","4.5",21.825,0
+2013-03-02,"Everton","Reading","Wigan","Liverpool","A","H","8.85","4.5",39.825,0
+2013-03-02,"Everton","Reading","Wigan","Liverpool","A","D","8.85","3.72",32.922,0
+2013-03-02,"Manchester United","Norwich","Southampton","QPR","D","D","5.63","3.8",21.394,0
+2013-03-02,"Manchester United","Norwich","Southampton","QPR","A","D","11.16","3.8",42.408,0
+2013-03-02,"Manchester United","Norwich","Southampton","QPR","D","A","5.63","5.1",28.713,0
+2013-03-02,"Manchester United","Norwich","Southampton","QPR","A","A","11.16","5.1",56.916,0
+2013-03-02,"Manchester United","Norwich","Stoke","West Ham","A","H","11.16","2.37",26.4492,0
+2013-03-02,"Manchester United","Norwich","Stoke","West Ham","A","D","11.16","3.18",35.4888,0
+2013-03-02,"Manchester United","Norwich","Stoke","West Ham","A","A","11.16","3.14",35.0424,0
+2013-03-02,"Manchester United","Norwich","Sunderland","Fulham","A","H","11.16","2.27",25.3332,0
+2013-03-02,"Manchester United","Norwich","Sunderland","Fulham","A","D","11.16","3.26",36.3816,0
+2013-03-02,"Manchester United","Norwich","Sunderland","Fulham","A","A","11.16","3.27",36.4932,0
+2013-03-02,"Manchester United","Norwich","Swansea","Newcastle","A","H","11.16","2.04",22.7664,0
+2013-03-02,"Manchester United","Norwich","Swansea","Newcastle","A","D","11.16","3.45",38.502,0
+2013-03-02,"Manchester United","Norwich","Swansea","Newcastle","D","A","5.63","3.62",20.3806,0
+2013-03-02,"Manchester United","Norwich","Swansea","Newcastle","A","A","11.16","3.62",40.3992,0
+2013-03-02,"Manchester United","Norwich","Wigan","Liverpool","D","H","5.63","4.5",25.335,0
+2013-03-02,"Manchester United","Norwich","Wigan","Liverpool","A","H","11.16","4.5",50.22,0
+2013-03-02,"Manchester United","Norwich","Wigan","Liverpool","D","D","5.63","3.72",20.9436,0
+2013-03-02,"Manchester United","Norwich","Wigan","Liverpool","A","D","11.16","3.72",41.5152,0
+2013-03-02,"Manchester United","Norwich","Wigan","Liverpool","A","A","11.16","1.78",19.8648,0
+2013-03-02,"Southampton","QPR","Wigan","Liverpool","A","H","5.1","4.5",22.95,0
+2013-03-16,"Aston Villa","QPR","Manchester United","Reading","D","D","3.26","8.37",27.2862,0
+2013-03-16,"Aston Villa","QPR","Manchester United","Reading","A","D","3.13","8.37",26.1981,0
+2013-03-16,"Aston Villa","QPR","Manchester United","Reading","H","A","2.34","17.58",41.1372,0
+2013-03-16,"Aston Villa","QPR","Manchester United","Reading","D","A","3.26","17.58",57.3108,0
+2013-03-16,"Aston Villa","QPR","Manchester United","Reading","A","A","3.13","17.58",55.0254,0
+2013-03-16,"Everton","Manchester City","Manchester United","Reading","H","D","3.42","8.37",28.6254,0
+2013-03-16,"Everton","Manchester City","Manchester United","Reading","D","D","3.36","8.37",28.1232,0
+2013-03-16,"Everton","Manchester City","Manchester United","Reading","H","A","3.42","17.58",60.1236,0
+2013-03-16,"Everton","Manchester City","Manchester United","Reading","D","A","3.36","17.58",59.0688,0
+2013-03-16,"Everton","Manchester City","Manchester United","Reading","A","A","2.16","17.58",37.9728,0
+2013-03-16,"Manchester United","Reading","Southampton","Liverpool","D","H","8.37","3.83",32.0571,0
+2013-03-16,"Manchester United","Reading","Southampton","Liverpool","A","H","17.58","3.83",67.3314,0
+2013-03-16,"Manchester United","Reading","Southampton","Liverpool","D","D","8.37","3.61",30.2157,0
+2013-03-16,"Manchester United","Reading","Southampton","Liverpool","A","D","17.58","3.61",63.4638,0
+2013-03-16,"Manchester United","Reading","Southampton","Liverpool","A","A","17.58","1.94",34.1052,0
+2013-03-16,"Manchester United","Reading","Stoke","West Brom","D","H","8.37","2.66",22.2642,0
+2013-03-16,"Manchester United","Reading","Stoke","West Brom","A","H","17.58","2.66",46.7628,0
+2013-03-16,"Manchester United","Reading","Stoke","West Brom","D","D","8.37","3.12",26.1144,0
+2013-03-16,"Manchester United","Reading","Stoke","West Brom","A","D","17.58","3.12",54.8496,0
+2013-03-16,"Manchester United","Reading","Stoke","West Brom","D","A","8.37","2.81",23.5197,0
+2013-03-16,"Manchester United","Reading","Stoke","West Brom","A","A","17.58","2.81",49.3998,0
+2013-03-16,"Manchester United","Reading","Swansea","Arsenal","D","H","8.37","3.32",27.7884,0
+2013-03-16,"Manchester United","Reading","Swansea","Arsenal","A","H","17.58","3.32",58.3656,0
+2013-03-16,"Manchester United","Reading","Swansea","Arsenal","D","D","8.37","3.4",28.458,0
+2013-03-16,"Manchester United","Reading","Swansea","Arsenal","A","D","17.58","3.4",59.772,0
+2013-03-16,"Manchester United","Reading","Swansea","Arsenal","A","A","17.58","2.18",38.3244,0
+2013-03-17,"Chelsea","West Ham","Sunderland","Norwich","A","D","8.39","3.36",28.1904,0
+2013-03-17,"Chelsea","West Ham","Sunderland","Norwich","A","A","8.39","3.9",32.721,0
+2013-03-17,"Chelsea","West Ham","Tottenham","Fulham","D","D","4.98","4.15",20.667,0
+2013-03-17,"Chelsea","West Ham","Tottenham","Fulham","A","D","8.39","4.15",34.8185,0
+2013-03-17,"Chelsea","West Ham","Tottenham","Fulham","D","A","4.98","6.7",33.366,0
+2013-03-17,"Chelsea","West Ham","Tottenham","Fulham","A","A","8.39","6.7",56.213,0
+2013-03-17,"Chelsea","West Ham","Wigan","Newcastle","A","D","8.39","3.34",28.0226,0
+2013-03-17,"Chelsea","West Ham","Wigan","Newcastle","A","A","8.39","3.27",27.4353,0
+2013-03-17,"Sunderland","Norwich","Tottenham","Fulham","D","A","3.36","6.7",22.512,0
+2013-03-17,"Sunderland","Norwich","Tottenham","Fulham","A","A","3.9","6.7",26.13,0
+2013-03-17,"Tottenham","Fulham","Wigan","Newcastle","A","D","6.7","3.34",22.378,0
+2013-03-17,"Tottenham","Fulham","Wigan","Newcastle","A","A","6.7","3.27",21.909,0
+2013-03-30,"Arsenal","Reading","Everton","Stoke","A","H","12.19","1.7",20.723,0
+2013-03-30,"Arsenal","Reading","Everton","Stoke","D","D","6.12","3.51",21.4812,0
+2013-03-30,"Arsenal","Reading","Everton","Stoke","A","D","12.19","3.51",42.7869,0
+2013-03-30,"Arsenal","Reading","Everton","Stoke","D","A","6.12","5.57",34.0884,0
+2013-03-30,"Arsenal","Reading","Everton","Stoke","A","A","12.19","5.57",67.8983,0
+2013-03-30,"Arsenal","Reading","Manchester City","Newcastle","D","D","6.12","5.43",33.2316,0
+2013-03-30,"Arsenal","Reading","Manchester City","Newcastle","A","D","12.19","5.43",66.1917,0
+2013-03-30,"Arsenal","Reading","Manchester City","Newcastle","D","A","6.12","10.72",65.6064,0
+2013-03-30,"Arsenal","Reading","Manchester City","Newcastle","A","A","12.19","10.72",130.6768,0
+2013-03-30,"Arsenal","Reading","Southampton","Chelsea","A","H","12.19","3.06",37.3014,0
+2013-03-30,"Arsenal","Reading","Southampton","Chelsea","D","D","6.12","3.31",20.2572,0
+2013-03-30,"Arsenal","Reading","Southampton","Chelsea","A","D","12.19","3.31",40.3489,0
+2013-03-30,"Arsenal","Reading","Southampton","Chelsea","A","A","12.19","2.35",28.6465,0
+2013-03-30,"Arsenal","Reading","Sunderland","Manchester United","D","H","6.12","5.62",34.3944,0
+2013-03-30,"Arsenal","Reading","Sunderland","Manchester United","A","H","12.19","5.62",68.5078,0
+2013-03-30,"Arsenal","Reading","Sunderland","Manchester United","D","D","6.12","3.7",22.644,0
+2013-03-30,"Arsenal","Reading","Sunderland","Manchester United","A","D","12.19","3.7",45.103,0
+2013-03-30,"Arsenal","Reading","Sunderland","Manchester United","A","A","12.19","1.65",20.1135,0
+2013-03-30,"Arsenal","Reading","Swansea","Tottenham","A","H","12.19","3.08",37.5452,0
+2013-03-30,"Arsenal","Reading","Swansea","Tottenham","D","D","6.12","3.32",20.3184,0
+2013-03-30,"Arsenal","Reading","Swansea","Tottenham","A","D","12.19","3.32",40.4708,0
+2013-03-30,"Arsenal","Reading","Swansea","Tottenham","A","A","12.19","2.34",28.5246,0
+2013-03-30,"Arsenal","Reading","West Ham","West Brom","A","H","12.19","2.14",26.0866,0
+2013-03-30,"Arsenal","Reading","West Ham","West Brom","D","D","6.12","3.35",20.502,0
+2013-03-30,"Arsenal","Reading","West Ham","West Brom","A","D","12.19","3.35",40.8365,0
+2013-03-30,"Arsenal","Reading","West Ham","West Brom","D","A","6.12","3.51",21.4812,0
+2013-03-30,"Arsenal","Reading","West Ham","West Brom","A","A","12.19","3.51",42.7869,0
+2013-03-30,"Arsenal","Reading","Wigan","Norwich","A","H","12.19","1.8",21.942,0
+2013-03-30,"Arsenal","Reading","Wigan","Norwich","D","D","6.12","3.53",21.6036,0
+2013-03-30,"Arsenal","Reading","Wigan","Norwich","A","D","12.19","3.53",43.0307,0
+2013-03-30,"Arsenal","Reading","Wigan","Norwich","D","A","6.12","4.63",28.3356,0
+2013-03-30,"Arsenal","Reading","Wigan","Norwich","A","A","12.19","4.63",56.4397,0
+2013-03-30,"Everton","Stoke","Manchester City","Newcastle","A","D","5.57","5.43",30.2451,0
+2013-03-30,"Everton","Stoke","Manchester City","Newcastle","D","A","3.51","10.72",37.6272,0
+2013-03-30,"Everton","Stoke","Manchester City","Newcastle","A","A","5.57","10.72",59.7104,0
+2013-03-30,"Everton","Stoke","Sunderland","Manchester United","D","H","3.51","5.62",19.7262,0
+2013-03-30,"Everton","Stoke","Sunderland","Manchester United","A","H","5.57","5.62",31.3034,0
+2013-03-30,"Everton","Stoke","Sunderland","Manchester United","A","D","5.57","3.7",20.609,0
+2013-03-30,"Everton","Stoke","Wigan","Norwich","A","A","5.57","4.63",25.7891,0
+2013-03-30,"Manchester City","Newcastle","Southampton","Chelsea","A","H","10.72","3.06",32.8032,0
+2013-03-30,"Manchester City","Newcastle","Southampton","Chelsea","A","D","10.72","3.31",35.4832,0
+2013-03-30,"Manchester City","Newcastle","Southampton","Chelsea","A","A","10.72","2.35",25.192,0
+2013-03-30,"Manchester City","Newcastle","Sunderland","Manchester United","D","H","5.43","5.62",30.5166,0
+2013-03-30,"Manchester City","Newcastle","Sunderland","Manchester United","A","H","10.72","5.62",60.2464,0
+2013-03-30,"Manchester City","Newcastle","Sunderland","Manchester United","D","D","5.43","3.7",20.091,0
+2013-03-30,"Manchester City","Newcastle","Sunderland","Manchester United","A","D","10.72","3.7",39.664,0
+2013-03-30,"Manchester City","Newcastle","Swansea","Tottenham","A","H","10.72","3.08",33.0176,0
+2013-03-30,"Manchester City","Newcastle","Swansea","Tottenham","A","D","10.72","3.32",35.5904,0
+2013-03-30,"Manchester City","Newcastle","Swansea","Tottenham","A","A","10.72","2.34",25.0848,0
+2013-03-30,"Manchester City","Newcastle","West Ham","West Brom","A","H","10.72","2.14",22.9408,0
+2013-03-30,"Manchester City","Newcastle","West Ham","West Brom","A","D","10.72","3.35",35.912,0
+2013-03-30,"Manchester City","Newcastle","West Ham","West Brom","A","A","10.72","3.51",37.6272,0
+2013-03-30,"Manchester City","Newcastle","Wigan","Norwich","A","D","10.72","3.53",37.8416,0
+2013-03-30,"Manchester City","Newcastle","Wigan","Norwich","D","A","5.43","4.63",25.1409,0
+2013-03-30,"Manchester City","Newcastle","Wigan","Norwich","A","A","10.72","4.63",49.6336,0
+2013-03-30,"Sunderland","Manchester United","West Ham","West Brom","H","A","5.62","3.51",19.7262,0
+2013-03-30,"Sunderland","Manchester United","Wigan","Norwich","H","D","5.62","3.53",19.8386,0
+2013-03-30,"Sunderland","Manchester United","Wigan","Norwich","H","A","5.62","4.63",26.0206,0
+2013-04-07,"Chelsea","Sunderland","Liverpool","West Ham","D","D","5.58","5.47",30.5226,0
+2013-04-07,"Chelsea","Sunderland","Liverpool","West Ham","A","D","11.14","5.47",60.9358,0
+2013-04-07,"Chelsea","Sunderland","Liverpool","West Ham","D","A","5.58","9.95",55.521,0
+2013-04-07,"Chelsea","Sunderland","Liverpool","West Ham","A","A","11.14","9.95",110.843,0
+2013-04-07,"Chelsea","Sunderland","Newcastle","Fulham","A","H","11.14","1.89",21.0546,0
+2013-04-07,"Chelsea","Sunderland","Newcastle","Fulham","A","D","11.14","3.53",39.3242,0
+2013-04-07,"Chelsea","Sunderland","Newcastle","Fulham","D","A","5.58","4.13",23.0454,0
+2013-04-07,"Chelsea","Sunderland","Newcastle","Fulham","A","A","11.14","4.13",46.0082,0
+2013-04-07,"Chelsea","Sunderland","QPR","Wigan","A","H","11.14","2.36",26.2904,0
+2013-04-07,"Chelsea","Sunderland","QPR","Wigan","A","D","11.14","3.35",37.319,0
+2013-04-07,"Chelsea","Sunderland","QPR","Wigan","A","A","11.14","3.01",33.5314,0
+2013-04-07,"Chelsea","Sunderland","Tottenham","Everton","A","H","11.14","2.16",24.0624,0
+2013-04-07,"Chelsea","Sunderland","Tottenham","Everton","A","D","11.14","3.26",36.3164,0
+2013-04-07,"Chelsea","Sunderland","Tottenham","Everton","A","A","11.14","3.51",39.1014,0
+2013-04-07,"Liverpool","West Ham","Newcastle","Fulham","A","D","9.95","3.53",35.1235,0
+2013-04-07,"Liverpool","West Ham","Newcastle","Fulham","D","A","5.47","4.13",22.5911,0
+2013-04-07,"Liverpool","West Ham","Newcastle","Fulham","A","A","9.95","4.13",41.0935,0
+2013-04-07,"Liverpool","West Ham","QPR","Wigan","A","H","9.95","2.36",23.482,0
+2013-04-07,"Liverpool","West Ham","QPR","Wigan","A","D","9.95","3.35",33.3325,0
+2013-04-07,"Liverpool","West Ham","QPR","Wigan","A","A","9.95","3.01",29.9495,0
+2013-04-07,"Liverpool","West Ham","Tottenham","Everton","A","H","9.95","2.16",21.492,0
+2013-04-07,"Liverpool","West Ham","Tottenham","Everton","A","D","9.95","3.26",32.437,0
+2013-04-07,"Liverpool","West Ham","Tottenham","Everton","A","A","9.95","3.51",34.9245,0
+2013-04-13,"Arsenal","Norwich","Aston Villa","Fulham","A","H","12.22","2.23",27.2506,0
+2013-04-13,"Arsenal","Norwich","Aston Villa","Fulham","D","D","5.98","3.3",19.734,0
+2013-04-13,"Arsenal","Norwich","Aston Villa","Fulham","A","D","12.22","3.3",40.326,0
+2013-04-13,"Arsenal","Norwich","Aston Villa","Fulham","A","A","12.22","3.28",40.0816,0
+2013-04-13,"Arsenal","Norwich","Everton","QPR","D","D","5.98","4.35",26.013,0
+2013-04-13,"Arsenal","Norwich","Everton","QPR","A","D","12.22","4.35",53.157,0
+2013-04-13,"Arsenal","Norwich","Everton","QPR","D","A","5.98","7.27",43.4746,0
+2013-04-13,"Arsenal","Norwich","Everton","QPR","A","A","12.22","7.27",88.8394,0
+2013-04-13,"Arsenal","Norwich","Reading","Liverpool","D","H","5.98","7.21",43.1158,0
+2013-04-13,"Arsenal","Norwich","Reading","Liverpool","A","H","12.22","7.21",88.1062,0
+2013-04-13,"Arsenal","Norwich","Reading","Liverpool","D","D","5.98","4.54",27.1492,0
+2013-04-13,"Arsenal","Norwich","Reading","Liverpool","A","D","12.22","4.54",55.4788,0
+2013-04-13,"Arsenal","Norwich","Southampton","West Ham","A","H","12.22","1.77",21.6294,0
+2013-04-13,"Arsenal","Norwich","Southampton","West Ham","D","D","5.98","3.67",21.9466,0
+2013-04-13,"Arsenal","Norwich","Southampton","West Ham","A","D","12.22","3.67",44.8474,0
+2013-04-13,"Arsenal","Norwich","Southampton","West Ham","D","A","5.98","4.65",27.807,0
+2013-04-13,"Arsenal","Norwich","Southampton","West Ham","A","A","12.22","4.65",56.823,0
+2013-04-13,"Aston Villa","Fulham","Everton","QPR","D","A","3.3","7.27",23.991,0
+2013-04-13,"Aston Villa","Fulham","Everton","QPR","A","A","3.28","7.27",23.8456,0
+2013-04-13,"Aston Villa","Fulham","Reading","Liverpool","D","H","3.3","7.21",23.793,0
+2013-04-13,"Aston Villa","Fulham","Reading","Liverpool","A","H","3.28","7.21",23.6488,0
+2013-04-13,"Everton","QPR","Reading","Liverpool","D","H","4.35","7.21",31.3635,0
+2013-04-13,"Everton","QPR","Reading","Liverpool","A","H","7.27","7.21",52.4167,0
+2013-04-13,"Everton","QPR","Reading","Liverpool","D","D","4.35","4.54",19.749,0
+2013-04-13,"Everton","QPR","Reading","Liverpool","A","D","7.27","4.54",33.0058,0
+2013-04-13,"Everton","QPR","Southampton","West Ham","A","D","7.27","3.67",26.6809,0
+2013-04-13,"Everton","QPR","Southampton","West Ham","D","A","4.35","4.65",20.2275,0
+2013-04-13,"Everton","QPR","Southampton","West Ham","A","A","7.27","4.65",33.8055,0
+2013-04-13,"Reading","Liverpool","Southampton","West Ham","H","D","7.21","3.67",26.4607,1
+2013-04-13,"Reading","Liverpool","Southampton","West Ham","H","A","7.21","4.65",33.5265,0
+2013-04-13,"Reading","Liverpool","Southampton","West Ham","D","A","4.54","4.65",21.111,0
+2013-04-14,"Newcastle","Sunderland","Stoke","Manchester United","D","H","3.45","6.38",22.011,0
+2013-04-14,"Newcastle","Sunderland","Stoke","Manchester United","A","H","4.55","6.38",29.029,0
+2013-04-17,"Fulham","Chelsea","Manchester City","Wigan","H","D","5.04","5.67",28.5768,0
+2013-04-17,"Fulham","Chelsea","Manchester City","Wigan","D","D","3.76","5.67",21.3192,0
+2013-04-17,"Fulham","Chelsea","Manchester City","Wigan","H","A","5.04","11.12",56.0448,0
+2013-04-17,"Fulham","Chelsea","Manchester City","Wigan","D","A","3.76","11.12",41.8112,0
+2013-04-17,"Fulham","Chelsea","West Ham","Manchester United","H","H","5.04","5.06",25.5024,0
+2013-04-17,"Manchester City","Wigan","West Ham","Manchester United","D","H","5.67","5.06",28.6902,0
+2013-04-17,"Manchester City","Wigan","West Ham","Manchester United","A","H","11.12","5.06",56.2672,1
+2013-04-17,"Manchester City","Wigan","West Ham","Manchester United","D","D","5.67","3.66",20.7522,0
+2013-04-17,"Manchester City","Wigan","West Ham","Manchester United","A","D","11.12","3.66",40.6992,0
+2013-04-20,"Fulham","Arsenal","Norwich","Reading","H","D","5.93","3.62",21.4666,0
+2013-04-20,"Fulham","Arsenal","Norwich","Reading","H","A","5.93","4.87",28.8791,0
+2013-04-20,"Fulham","Arsenal","Norwich","Reading","D","A","4.11","4.87",20.0157,0
+2013-04-20,"Fulham","Arsenal","QPR","Stoke","H","A","5.93","3.67",21.7631,0
+2013-04-27,"Everton","Fulham","Manchester City","West Ham","D","D","4.22","6.11",25.7842,0
+2013-04-27,"Everton","Fulham","Manchester City","West Ham","A","D","7.05","6.11",43.0755,0
+2013-04-27,"Everton","Fulham","Manchester City","West Ham","D","A","4.22","12.65",53.383,0
+2013-04-27,"Everton","Fulham","Manchester City","West Ham","A","A","7.05","12.65",89.1825,0
+2013-04-27,"Everton","Fulham","Newcastle","Liverpool","A","H","7.05","3.03",21.3615,0
+2013-04-27,"Everton","Fulham","Newcastle","Liverpool","A","D","7.05","3.37",23.7585,0
+2013-04-27,"Everton","Fulham","Southampton","West Brom","A","D","7.05","3.73",26.2965,0
+2013-04-27,"Everton","Fulham","Southampton","West Brom","D","A","4.22","4.79",20.2138,0
+2013-04-27,"Everton","Fulham","Southampton","West Brom","A","A","7.05","4.79",33.7695,0
+2013-04-27,"Everton","Fulham","Stoke","Norwich","A","D","7.05","3.12",21.996,0
+2013-04-27,"Everton","Fulham","Stoke","Norwich","A","A","7.05","3.89",27.4245,0
+2013-04-27,"Everton","Fulham","Wigan","Tottenham","A","H","7.05","3.29",23.1945,0
+2013-04-27,"Everton","Fulham","Wigan","Tottenham","A","D","7.05","3.4",23.97,0
+2013-04-27,"Manchester City","West Ham","Newcastle","Liverpool","A","H","12.65","3.03",38.3295,0
+2013-04-27,"Manchester City","West Ham","Newcastle","Liverpool","D","D","6.11","3.37",20.5907,0
+2013-04-27,"Manchester City","West Ham","Newcastle","Liverpool","A","D","12.65","3.37",42.6305,0
+2013-04-27,"Manchester City","West Ham","Newcastle","Liverpool","A","A","12.65","2.35",29.7275,0
+2013-04-27,"Manchester City","West Ham","Southampton","West Brom","A","H","12.65","1.74",22.011,0
+2013-04-27,"Manchester City","West Ham","Southampton","West Brom","D","D","6.11","3.73",22.7903,0
+2013-04-27,"Manchester City","West Ham","Southampton","West Brom","A","D","12.65","3.73",47.1845,0
+2013-04-27,"Manchester City","West Ham","Southampton","West Brom","D","A","6.11","4.79",29.2669,0
+2013-04-27,"Manchester City","West Ham","Southampton","West Brom","A","A","12.65","4.79",60.5935,0
+2013-04-27,"Manchester City","West Ham","Stoke","Norwich","A","H","12.65","2.1",26.565,0
+2013-04-27,"Manchester City","West Ham","Stoke","Norwich","A","D","12.65","3.12",39.468,0
+2013-04-27,"Manchester City","West Ham","Stoke","Norwich","D","A","6.11","3.89",23.7679,0
+2013-04-27,"Manchester City","West Ham","Stoke","Norwich","A","A","12.65","3.89",49.2085,0
+2013-04-27,"Manchester City","West Ham","Wigan","Tottenham","D","H","6.11","3.29",20.1019,0
+2013-04-27,"Manchester City","West Ham","Wigan","Tottenham","A","H","12.65","3.29",41.6185,0
+2013-04-27,"Manchester City","West Ham","Wigan","Tottenham","D","D","6.11","3.4",20.774,0
+2013-04-27,"Manchester City","West Ham","Wigan","Tottenham","A","D","12.65","3.4",43.01,0
+2013-04-27,"Manchester City","West Ham","Wigan","Tottenham","A","A","12.65","2.2",27.83,0
+2013-04-28,"Arsenal","Manchester United","Chelsea","Swansea","D","A","3.52","8.53",30.0256,0
+2013-04-28,"Arsenal","Manchester United","Chelsea","Swansea","A","A","3.16","8.53",26.9548,0
+2013-04-28,"Chelsea","Swansea","Reading","QPR","A","H","8.53","2.44",20.8132,0
+2013-04-28,"Chelsea","Swansea","Reading","QPR","A","D","8.53","3.43",29.2579,0
+2013-04-28,"Chelsea","Swansea","Reading","QPR","A","A","8.53","2.82",24.0546,0
+2013-05-04,"Fulham","Reading","QPR","Arsenal","D","H","3.74","8.36",31.2664,0
+2013-05-04,"Fulham","Reading","QPR","Arsenal","A","H","5.18","8.36",43.3048,0
+2013-05-04,"Fulham","Reading","QPR","Arsenal","A","D","5.18","4.87",25.2266,0
+2013-05-04,"Fulham","Reading","Swansea","Manchester City","A","H","5.18","4.81",24.9158,0
+2013-05-04,"Fulham","Reading","Tottenham","Southampton","A","D","5.18","4.26",22.0668,0
+2013-05-04,"Fulham","Reading","Tottenham","Southampton","D","A","3.74","6.54",24.4596,0
+2013-05-04,"Fulham","Reading","Tottenham","Southampton","A","A","5.18","6.54",33.8772,1
+2013-05-04,"Norwich","Aston Villa","QPR","Arsenal","H","H","2.51","8.36",20.9836,0
+2013-05-04,"Norwich","Aston Villa","QPR","Arsenal","D","H","3.2","8.36",26.752,0
+2013-05-04,"Norwich","Aston Villa","QPR","Arsenal","A","H","2.91","8.36",24.3276,0
+2013-05-04,"Norwich","Aston Villa","Tottenham","Southampton","D","A","3.2","6.54",20.928,0
+2013-05-04,"QPR","Arsenal","Swansea","Manchester City","H","H","8.36","4.81",40.2116,0
+2013-05-04,"QPR","Arsenal","Swansea","Manchester City","D","H","4.87","4.81",23.4247,0
+2013-05-04,"QPR","Arsenal","Swansea","Manchester City","H","D","8.36","3.67",30.6812,0
+2013-05-04,"QPR","Arsenal","Tottenham","Southampton","H","D","8.36","4.26",35.6136,0
+2013-05-04,"QPR","Arsenal","Tottenham","Southampton","D","D","4.87","4.26",20.7462,0
+2013-05-04,"QPR","Arsenal","Tottenham","Southampton","H","A","8.36","6.54",54.6744,0
+2013-05-04,"QPR","Arsenal","Tottenham","Southampton","D","A","4.87","6.54",31.8498,0
+2013-05-04,"QPR","Arsenal","West Brom","Wigan","H","D","8.36","3.42",28.5912,0
+2013-05-04,"QPR","Arsenal","West Brom","Wigan","H","A","8.36","3.07",25.6652,0
+2013-05-04,"QPR","Arsenal","West Ham","Newcastle","H","D","8.36","3.41",28.5076,0
+2013-05-04,"QPR","Arsenal","West Ham","Newcastle","H","A","8.36","3.25",27.17,0
+2013-05-04,"Swansea","Manchester City","Tottenham","Southampton","H","D","4.81","4.26",20.4906,0
+2013-05-04,"Swansea","Manchester City","Tottenham","Southampton","H","A","4.81","6.54",31.4574,0
+2013-05-04,"Swansea","Manchester City","Tottenham","Southampton","D","A","3.67","6.54",24.0018,0
+2013-05-04,"Tottenham","Southampton","West Brom","Wigan","A","D","6.54","3.42",22.3668,0
+2013-05-04,"Tottenham","Southampton","West Brom","Wigan","A","A","6.54","3.07",20.0778,1
+2013-05-04,"Tottenham","Southampton","West Ham","Newcastle","A","D","6.54","3.41",22.3014,0
+2013-05-04,"Tottenham","Southampton","West Ham","Newcastle","A","A","6.54","3.25",21.255,1
+2013-05-07,"Manchester City","West Brom","Wigan","Swansea","A","D","8.31","3.68",30.5808,0
+2013-05-07,"Manchester City","West Brom","Wigan","Swansea","D","A","4.71","4.55",21.4305,0
+2013-05-07,"Manchester City","West Brom","Wigan","Swansea","A","A","8.31","4.55",37.8105,0
+2013-05-12,"Everton","West Ham","Fulham","Liverpool","A","H","6.75","3.77",25.4475,0
+2013-05-12,"Everton","West Ham","Fulham","Liverpool","A","D","6.75","3.46",23.355,0
+2013-05-12,"Everton","West Ham","Manchester United","Swansea","D","D","4.14","5.1",21.114,0
+2013-05-12,"Everton","West Ham","Manchester United","Swansea","A","D","6.75","5.1",34.425,0
+2013-05-12,"Everton","West Ham","Manchester United","Swansea","D","A","4.14","9.35",38.709,0
+2013-05-12,"Everton","West Ham","Manchester United","Swansea","A","A","6.75","9.35",63.1125,0
+2013-05-12,"Everton","West Ham","Norwich","West Brom","A","D","6.75","3.27",22.0725,0
+2013-05-12,"Everton","West Ham","Norwich","West Brom","A","A","6.75","3.1",20.925,0
+2013-05-12,"Everton","West Ham","QPR","Newcastle","A","H","6.75","3.01",20.3175,0
+2013-05-12,"Everton","West Ham","QPR","Newcastle","A","D","6.75","3.38",22.815,0
+2013-05-12,"Everton","West Ham","Stoke","Tottenham","A","H","6.75","4.65",31.3875,0
+2013-05-12,"Everton","West Ham","Stoke","Tottenham","A","D","6.75","3.54",23.895,0
+2013-05-12,"Everton","West Ham","Sunderland","Southampton","A","H","6.75","3.04",20.52,0
+2013-05-12,"Everton","West Ham","Sunderland","Southampton","A","D","6.75","3.08",20.79,0
+2013-05-12,"Fulham","Liverpool","Manchester United","Swansea","H","A","3.77","9.35",35.2495,1
+2013-05-12,"Fulham","Liverpool","Manchester United","Swansea","D","A","3.46","9.35",32.351,0
+2013-05-12,"Manchester United","Swansea","Norwich","West Brom","A","H","9.35","2.35",21.9725,0
+2013-05-12,"Manchester United","Swansea","Norwich","West Brom","A","D","9.35","3.27",30.5745,0
+2013-05-12,"Manchester United","Swansea","Norwich","West Brom","A","A","9.35","3.1",28.985,0
+2013-05-12,"Manchester United","Swansea","QPR","Newcastle","A","H","9.35","3.01",28.1435,0
+2013-05-12,"Manchester United","Swansea","QPR","Newcastle","A","D","9.35","3.38",31.603,0
+2013-05-12,"Manchester United","Swansea","QPR","Newcastle","A","A","9.35","2.34",21.879,0
+2013-05-12,"Manchester United","Swansea","Stoke","Tottenham","D","H","5.1","4.65",23.715,0
+2013-05-12,"Manchester United","Swansea","Stoke","Tottenham","A","H","9.35","4.65",43.4775,0
+2013-05-12,"Manchester United","Swansea","Stoke","Tottenham","A","D","9.35","3.54",33.099,0
+2013-05-12,"Manchester United","Swansea","Sunderland","Southampton","A","H","9.35","3.04",28.424,0
+2013-05-12,"Manchester United","Swansea","Sunderland","Southampton","A","D","9.35","3.08",28.798,0
+2013-05-12,"Manchester United","Swansea","Sunderland","Southampton","A","A","9.35","2.5",23.375,0
+2013-05-14,"Arsenal","Wigan","Reading","Manchester City","D","H","5.3","6.51",34.503,0
+2013-05-14,"Arsenal","Wigan","Reading","Manchester City","A","H","7.62","6.51",49.6062,0
+2013-05-14,"Arsenal","Wigan","Reading","Manchester City","D","D","5.3","4.53",24.009,0
+2013-05-14,"Arsenal","Wigan","Reading","Manchester City","A","D","7.62","4.53",34.5186,0
+2013-05-19,"Chelsea","Everton","Liverpool","QPR","D","D","3.75","6.18",23.175,0
+2013-05-19,"Chelsea","Everton","Liverpool","QPR","A","D","4.82","6.18",29.7876,0
+2013-05-19,"Chelsea","Everton","Liverpool","QPR","H","A","1.72","11.86",20.3992,0
+2013-05-19,"Chelsea","Everton","Liverpool","QPR","D","A","3.75","11.86",44.475,0
+2013-05-19,"Chelsea","Everton","Liverpool","QPR","A","A","4.82","11.86",57.1652,0
+2013-05-19,"Chelsea","Everton","Manchester City","Norwich","D","D","3.75","5.72",21.45,0
+2013-05-19,"Chelsea","Everton","Manchester City","Norwich","A","D","4.82","5.72",27.5704,0
+2013-05-19,"Chelsea","Everton","Manchester City","Norwich","D","A","3.75","11.27",42.2625,0
+2013-05-19,"Chelsea","Everton","Manchester City","Norwich","A","A","4.82","11.27",54.3214,0
+2013-05-19,"Chelsea","Everton","Newcastle","Arsenal","D","H","3.75","5.91",22.1625,0
+2013-05-19,"Chelsea","Everton","Newcastle","Arsenal","A","H","4.82","5.91",28.4862,0
+2013-05-19,"Chelsea","Everton","Newcastle","Arsenal","A","D","4.82","4.4",21.208,0
+2013-05-19,"Chelsea","Everton","Southampton","Stoke","D","A","3.75","5.39",20.2125,0
+2013-05-19,"Chelsea","Everton","Southampton","Stoke","A","A","4.82","5.39",25.9798,0
+2013-05-19,"Chelsea","Everton","Swansea","Fulham","A","A","4.82","5.24",25.2568,0
+2013-05-19,"Chelsea","Everton","Tottenham","Sunderland","D","D","3.75","5.98",22.425,0
+2013-05-19,"Chelsea","Everton","Tottenham","Sunderland","A","D","4.82","5.98",28.8236,0
+2013-05-19,"Chelsea","Everton","Tottenham","Sunderland","H","A","1.72","12.52",21.5344,0
+2013-05-19,"Chelsea","Everton","Tottenham","Sunderland","D","A","3.75","12.52",46.95,0
+2013-05-19,"Chelsea","Everton","Tottenham","Sunderland","A","A","4.82","12.52",60.3464,0
+2013-05-19,"Chelsea","Everton","West Ham","Reading","D","A","3.75","5.64",21.15,0
+2013-05-19,"Chelsea","Everton","West Ham","Reading","A","A","4.82","5.64",27.1848,0
+2013-05-19,"Liverpool","QPR","Manchester City","Norwich","D","D","6.18","5.72",35.3496,0
+2013-05-19,"Liverpool","QPR","Manchester City","Norwich","A","D","11.86","5.72",67.8392,0
+2013-05-19,"Liverpool","QPR","Manchester City","Norwich","D","A","6.18","11.27",69.6486,0
+2013-05-19,"Liverpool","QPR","Manchester City","Norwich","A","A","11.86","11.27",133.6622,0
+2013-05-19,"Liverpool","QPR","Newcastle","Arsenal","D","H","6.18","5.91",36.5238,0
+2013-05-19,"Liverpool","QPR","Newcastle","Arsenal","A","H","11.86","5.91",70.0926,0
+2013-05-19,"Liverpool","QPR","Newcastle","Arsenal","D","D","6.18","4.4",27.192,0
+2013-05-19,"Liverpool","QPR","Newcastle","Arsenal","A","D","11.86","4.4",52.184,0
+2013-05-19,"Liverpool","QPR","Southampton","Stoke","A","H","11.86","1.67",19.8062,0
+2013-05-19,"Liverpool","QPR","Southampton","Stoke","D","D","6.18","3.67",22.6806,0
+2013-05-19,"Liverpool","QPR","Southampton","Stoke","A","D","11.86","3.67",43.5262,0
+2013-05-19,"Liverpool","QPR","Southampton","Stoke","D","A","6.18","5.39",33.3102,0
+2013-05-19,"Liverpool","QPR","Southampton","Stoke","A","A","11.86","5.39",63.9254,0
+2013-05-19,"Liverpool","QPR","Swansea","Fulham","D","D","6.18","3.82",23.6076,0
+2013-05-19,"Liverpool","QPR","Swansea","Fulham","A","D","11.86","3.82",45.3052,0
+2013-05-19,"Liverpool","QPR","Swansea","Fulham","D","A","6.18","5.24",32.3832,0
+2013-05-19,"Liverpool","QPR","Swansea","Fulham","A","A","11.86","5.24",62.1464,0
+2013-05-19,"Liverpool","QPR","Tottenham","Sunderland","D","D","6.18","5.98",36.9564,0
+2013-05-19,"Liverpool","QPR","Tottenham","Sunderland","A","D","11.86","5.98",70.9228,0
+2013-05-19,"Liverpool","QPR","Tottenham","Sunderland","D","A","6.18","12.52",77.3736,0
+2013-05-19,"Liverpool","QPR","Tottenham","Sunderland","A","A","11.86","12.52",148.4872,0
+2013-05-19,"Liverpool","QPR","West Brom","Manchester United","D","H","6.18","3.78",23.3604,0
+2013-05-19,"Liverpool","QPR","West Brom","Manchester United","A","H","11.86","3.78",44.8308,0
+2013-05-19,"Liverpool","QPR","West Brom","Manchester United","D","D","6.18","3.49",21.5682,0
+2013-05-19,"Liverpool","QPR","West Brom","Manchester United","A","D","11.86","3.49",41.3914,0
+2013-05-19,"Liverpool","QPR","West Brom","Manchester United","A","A","11.86","1.98",23.4828,0
+2013-05-19,"Liverpool","QPR","West Ham","Reading","D","D","6.18","3.92",24.2256,0
+2013-05-19,"Liverpool","QPR","West Ham","Reading","A","D","11.86","3.92",46.4912,0
+2013-05-19,"Liverpool","QPR","West Ham","Reading","D","A","6.18","5.64",34.8552,0
+2013-05-19,"Liverpool","QPR","West Ham","Reading","A","A","11.86","5.64",66.8904,0
+2013-05-19,"Liverpool","QPR","Wigan","Aston Villa","A","H","11.86","2.05",24.313,0
+2013-05-19,"Liverpool","QPR","Wigan","Aston Villa","D","D","6.18","3.47",21.4446,0
+2013-05-19,"Liverpool","QPR","Wigan","Aston Villa","A","D","11.86","3.47",41.1542,0
+2013-05-19,"Liverpool","QPR","Wigan","Aston Villa","D","A","6.18","3.58",22.1244,0
+2013-05-19,"Liverpool","QPR","Wigan","Aston Villa","A","A","11.86","3.58",42.4588,0
+2013-05-19,"Manchester City","Norwich","Newcastle","Arsenal","D","H","5.72","5.91",33.8052,0
+2013-05-19,"Manchester City","Norwich","Newcastle","Arsenal","A","H","11.27","5.91",66.6057,0
+2013-05-19,"Manchester City","Norwich","Newcastle","Arsenal","D","D","5.72","4.4",25.168,0
+2013-05-19,"Manchester City","Norwich","Newcastle","Arsenal","A","D","11.27","4.4",49.588,0
+2013-05-19,"Manchester City","Norwich","Southampton","Stoke","D","D","5.72","3.67",20.9924,0
+2013-05-19,"Manchester City","Norwich","Southampton","Stoke","A","D","11.27","3.67",41.3609,0
+2013-05-19,"Manchester City","Norwich","Southampton","Stoke","D","A","5.72","5.39",30.8308,0
+2013-05-19,"Manchester City","Norwich","Southampton","Stoke","A","A","11.27","5.39",60.7453,0
+2013-05-19,"Manchester City","Norwich","Swansea","Fulham","D","D","5.72","3.82",21.8504,0
+2013-05-19,"Manchester City","Norwich","Swansea","Fulham","A","D","11.27","3.82",43.0514,0
+2013-05-19,"Manchester City","Norwich","Swansea","Fulham","D","A","5.72","5.24",29.9728,0
+2013-05-19,"Manchester City","Norwich","Swansea","Fulham","A","A","11.27","5.24",59.0548,0
+2013-05-19,"Manchester City","Norwich","Tottenham","Sunderland","D","D","5.72","5.98",34.2056,0
+2013-05-19,"Manchester City","Norwich","Tottenham","Sunderland","A","D","11.27","5.98",67.3946,0
+2013-05-19,"Manchester City","Norwich","Tottenham","Sunderland","D","A","5.72","12.52",71.6144,0
+2013-05-19,"Manchester City","Norwich","Tottenham","Sunderland","A","A","11.27","12.52",141.1004,0
+2013-05-19,"Manchester City","Norwich","West Brom","Manchester United","D","H","5.72","3.78",21.6216,0
+2013-05-19,"Manchester City","Norwich","West Brom","Manchester United","A","H","11.27","3.78",42.6006,0
+2013-05-19,"Manchester City","Norwich","West Brom","Manchester United","D","D","5.72","3.49",19.9628,0
+2013-05-19,"Manchester City","Norwich","West Brom","Manchester United","A","D","11.27","3.49",39.3323,0
+2013-05-19,"Manchester City","Norwich","West Brom","Manchester United","A","A","11.27","1.98",22.3146,0
+2013-05-19,"Manchester City","Norwich","West Ham","Reading","D","D","5.72","3.92",22.4224,0
+2013-05-19,"Manchester City","Norwich","West Ham","Reading","A","D","11.27","3.92",44.1784,0
+2013-05-19,"Manchester City","Norwich","West Ham","Reading","D","A","5.72","5.64",32.2608,0
+2013-05-19,"Manchester City","Norwich","West Ham","Reading","A","A","11.27","5.64",63.5628,0
+2013-05-19,"Manchester City","Norwich","Wigan","Aston Villa","A","H","11.27","2.05",23.1035,0
+2013-05-19,"Manchester City","Norwich","Wigan","Aston Villa","D","D","5.72","3.47",19.8484,0
+2013-05-19,"Manchester City","Norwich","Wigan","Aston Villa","A","D","11.27","3.47",39.1069,0
+2013-05-19,"Manchester City","Norwich","Wigan","Aston Villa","D","A","5.72","3.58",20.4776,0
+2013-05-19,"Manchester City","Norwich","Wigan","Aston Villa","A","A","11.27","3.58",40.3466,0
+2013-05-19,"Newcastle","Arsenal","Southampton","Stoke","H","D","5.91","3.67",21.6897,0
+2013-05-19,"Newcastle","Arsenal","Southampton","Stoke","H","A","5.91","5.39",31.8549,0
+2013-05-19,"Newcastle","Arsenal","Southampton","Stoke","D","A","4.4","5.39",23.716,0
+2013-05-19,"Newcastle","Arsenal","Swansea","Fulham","H","D","5.91","3.82",22.5762,0
+2013-05-19,"Newcastle","Arsenal","Swansea","Fulham","H","A","5.91","5.24",30.9684,0
+2013-05-19,"Newcastle","Arsenal","Swansea","Fulham","D","A","4.4","5.24",23.056,0
+2013-05-19,"Newcastle","Arsenal","Tottenham","Sunderland","H","D","5.91","5.98",35.3418,0
+2013-05-19,"Newcastle","Arsenal","Tottenham","Sunderland","D","D","4.4","5.98",26.312,0
+2013-05-19,"Newcastle","Arsenal","Tottenham","Sunderland","H","A","5.91","12.52",73.9932,0
+2013-05-19,"Newcastle","Arsenal","Tottenham","Sunderland","D","A","4.4","12.52",55.088,0
+2013-05-19,"Newcastle","Arsenal","West Brom","Manchester United","H","H","5.91","3.78",22.3398,1
+2013-05-19,"Newcastle","Arsenal","West Brom","Manchester United","H","D","5.91","3.49",20.6259,0
+2013-05-19,"Newcastle","Arsenal","West Ham","Reading","H","D","5.91","3.92",23.1672,0
+2013-05-19,"Newcastle","Arsenal","West Ham","Reading","H","A","5.91","5.64",33.3324,0
+2013-05-19,"Newcastle","Arsenal","West Ham","Reading","D","A","4.4","5.64",24.816,0
+2013-05-19,"Newcastle","Arsenal","Wigan","Aston Villa","H","D","5.91","3.47",20.5077,0
+2013-05-19,"Newcastle","Arsenal","Wigan","Aston Villa","H","A","5.91","3.58",21.1578,0
+2013-05-19,"Southampton","Stoke","Swansea","Fulham","A","D","5.39","3.82",20.5898,0
+2013-05-19,"Southampton","Stoke","Swansea","Fulham","A","A","5.39","5.24",28.2436,0
+2013-05-19,"Southampton","Stoke","Tottenham","Sunderland","D","D","3.67","5.98",21.9466,0
+2013-05-19,"Southampton","Stoke","Tottenham","Sunderland","A","D","5.39","5.98",32.2322,0
+2013-05-19,"Southampton","Stoke","Tottenham","Sunderland","H","A","1.67","12.52",20.9084,0
+2013-05-19,"Southampton","Stoke","Tottenham","Sunderland","D","A","3.67","12.52",45.9484,0
+2013-05-19,"Southampton","Stoke","Tottenham","Sunderland","A","A","5.39","12.52",67.4828,0
+2013-05-19,"Southampton","Stoke","West Brom","Manchester United","A","H","5.39","3.78",20.3742,0
+2013-05-19,"Southampton","Stoke","West Ham","Reading","A","D","5.39","3.92",21.1288,0
+2013-05-19,"Southampton","Stoke","West Ham","Reading","D","A","3.67","5.64",20.6988,0
+2013-05-19,"Southampton","Stoke","West Ham","Reading","A","A","5.39","5.64",30.3996,0
+2013-05-19,"Swansea","Fulham","Tottenham","Sunderland","D","D","3.82","5.98",22.8436,0
+2013-05-19,"Swansea","Fulham","Tottenham","Sunderland","A","D","5.24","5.98",31.3352,0
+2013-05-19,"Swansea","Fulham","Tottenham","Sunderland","H","A","1.66","12.52",20.7832,0
+2013-05-19,"Swansea","Fulham","Tottenham","Sunderland","D","A","3.82","12.52",47.8264,0
+2013-05-19,"Swansea","Fulham","Tottenham","Sunderland","A","A","5.24","12.52",65.6048,0
+2013-05-19,"Swansea","Fulham","West Brom","Manchester United","A","H","5.24","3.78",19.8072,0
+2013-05-19,"Swansea","Fulham","West Ham","Reading","A","D","5.24","3.92",20.5408,0
+2013-05-19,"Swansea","Fulham","West Ham","Reading","D","A","3.82","5.64",21.5448,0
+2013-05-19,"Swansea","Fulham","West Ham","Reading","A","A","5.24","5.64",29.5536,0
+2013-05-19,"Tottenham","Sunderland","West Brom","Manchester United","D","H","5.98","3.78",22.6044,0
+2013-05-19,"Tottenham","Sunderland","West Brom","Manchester United","A","H","12.52","3.78",47.3256,0
+2013-05-19,"Tottenham","Sunderland","West Brom","Manchester United","D","D","5.98","3.49",20.8702,0
+2013-05-19,"Tottenham","Sunderland","West Brom","Manchester United","A","D","12.52","3.49",43.6948,0
+2013-05-19,"Tottenham","Sunderland","West Brom","Manchester United","A","A","12.52","1.98",24.7896,0
+2013-05-19,"Tottenham","Sunderland","West Ham","Reading","A","H","12.52","1.61",20.1572,0
+2013-05-19,"Tottenham","Sunderland","West Ham","Reading","D","D","5.98","3.92",23.4416,0
+2013-05-19,"Tottenham","Sunderland","West Ham","Reading","A","D","12.52","3.92",49.0784,0
+2013-05-19,"Tottenham","Sunderland","West Ham","Reading","D","A","5.98","5.64",33.7272,0
+2013-05-19,"Tottenham","Sunderland","West Ham","Reading","A","A","12.52","5.64",70.6128,0
+2013-05-19,"Tottenham","Sunderland","Wigan","Aston Villa","A","H","12.52","2.05",25.666,0
+2013-05-19,"Tottenham","Sunderland","Wigan","Aston Villa","D","D","5.98","3.47",20.7506,0
+2013-05-19,"Tottenham","Sunderland","Wigan","Aston Villa","A","D","12.52","3.47",43.4444,0
+2013-05-19,"Tottenham","Sunderland","Wigan","Aston Villa","D","A","5.98","3.58",21.4084,0
+2013-05-19,"Tottenham","Sunderland","Wigan","Aston Villa","A","A","12.52","3.58",44.8216,0
+2013-05-19,"West Brom","Manchester United","West Ham","Reading","H","A","3.78","5.64",21.3192,0
+2013-05-19,"West Ham","Reading","Wigan","Aston Villa","A","A","5.64","3.58",20.1912,0

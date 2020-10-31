@@ -1,0 +1,16 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : turkey, super-lig - 2020-10-20 11:13:25"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [turkey], League : [super-lig], navigate to the website"
+[1] "Country : [turkey], League : [super-lig], navigate to the website"
+
+Selenium message:chrome not reachable
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'f93c906cf296', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '4.19.130-boot2docker', java.version: '1.8.0_265'
+Driver info: driver.version: unknown
+
+Error: 	 Summary: UnknownError
+ 	 Detail: An unknown server-side error occurred while processing the command.
+ 	 class: org.openqa.selenium.WebDriverException
+	 Further Details: run errorDetails method

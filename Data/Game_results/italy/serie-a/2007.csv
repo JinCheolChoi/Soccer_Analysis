@@ -1,0 +1,381 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+18.05.2008,2007,AC Milan,Udinese,4,1
+18.05.2008,2007,ACN Siena,Palermo,2,2
+18.05.2008,2007,Atalanta,Genoa,2,0
+18.05.2008,2007,Cagliari,Reggina,2,2
+18.05.2008,2007,Catania,AS Roma,1,1
+18.05.2008,2007,Empoli,Livorno,2,1
+18.05.2008,2007,Lazio,Napoli,2,1
+18.05.2008,2007,Parma,Inter,0,2
+18.05.2008,2007,Torino,Fiorentina,0,1
+17.05.2008,2007,Sampdoria,Juventus,3,3
+11.05.2008,2007,AS Roma,Atalanta,2,1
+11.05.2008,2007,Fiorentina,Parma,3,1
+11.05.2008,2007,Genoa,Lazio,0,2
+11.05.2008,2007,Inter,ACN Siena,2,2
+11.05.2008,2007,Juventus,Catania,1,1
+11.05.2008,2007,Livorno,Torino,0,1
+11.05.2008,2007,Napoli,AC Milan,3,1
+11.05.2008,2007,Palermo,Sampdoria,0,2
+11.05.2008,2007,Reggina,Empoli,2,0
+11.05.2008,2007,Udinese,Cagliari,0,2
+04.05.2008,2007,AC Milan,Inter,2,1
+04.05.2008,2007,ACN Siena,Juventus,1,0
+04.05.2008,2007,Atalanta,Livorno,3,2
+04.05.2008,2007,Cagliari,Fiorentina,2,1
+04.05.2008,2007,Catania,Reggina,1,2
+04.05.2008,2007,Empoli,Udinese,0,1
+04.05.2008,2007,Lazio,Palermo,1,2
+04.05.2008,2007,Parma,Genoa,1,0
+04.05.2008,2007,Sampdoria,AS Roma,0,3
+04.05.2008,2007,Torino,Napoli,2,1
+27.04.2008,2007,AS Roma,Torino,4,1
+27.04.2008,2007,Fiorentina,Sampdoria,2,2
+27.04.2008,2007,Genoa,Empoli,0,1
+27.04.2008,2007,Inter,Cagliari,2,1
+27.04.2008,2007,Juventus,Lazio,5,2
+27.04.2008,2007,Livorno,AC Milan,1,4
+27.04.2008,2007,Napoli,ACN Siena,0,0
+27.04.2008,2007,Palermo,Atalanta,0,0
+27.04.2008,2007,Reggina,Parma,2,1
+27.04.2008,2007,Udinese,Catania,2,1
+20.04.2008,2007,AC Milan,Reggina,5,1
+20.04.2008,2007,ACN Siena,Genoa,0,1
+20.04.2008,2007,Atalanta,Juventus,0,4
+20.04.2008,2007,Cagliari,Empoli,2,0
+20.04.2008,2007,Catania,Lazio,1,0
+20.04.2008,2007,Parma,Napoli,1,2
+20.04.2008,2007,Sampdoria,Udinese,3,0
+20.04.2008,2007,Torino,Inter,0,1
+19.04.2008,2007,AS Roma,Livorno,1,1
+19.04.2008,2007,Fiorentina,Palermo,1,0
+16.04.2008,2007,Juventus,Parma,3,0
+13.04.2008,2007,Empoli,Parma,1,1
+13.04.2008,2007,Genoa,Torino,3,0
+13.04.2008,2007,Inter,Fiorentina,2,0
+13.04.2008,2007,Lazio,ACN Siena,1,1
+13.04.2008,2007,Livorno,Cagliari,1,2
+13.04.2008,2007,Napoli,Atalanta,2,0
+13.04.2008,2007,Reggina,Sampdoria,1,0
+13.04.2008,2007,Udinese,AS Roma,1,3
+12.04.2008,2007,Juventus,AC Milan,3,2
+12.04.2008,2007,Palermo,Catania,1,0
+06.04.2008,2007,ACN Siena,Udinese,1,1
+06.04.2008,2007,Atalanta,Inter,0,2
+06.04.2008,2007,Catania,Napoli,3,0
+06.04.2008,2007,Fiorentina,Reggina,2,0
+06.04.2008,2007,Palermo,Juventus,3,2
+06.04.2008,2007,Parma,Lazio,2,2
+06.04.2008,2007,Sampdoria,Livorno,2,0
+06.04.2008,2007,Torino,Empoli,0,1
+05.04.2008,2007,AC Milan,Cagliari,3,1
+05.04.2008,2007,AS Roma,Genoa,3,2
+30.03.2008,2007,AC Milan,Atalanta,1,2
+30.03.2008,2007,Catania,Torino,1,2
+30.03.2008,2007,Empoli,Sampdoria,0,2
+30.03.2008,2007,Genoa,Reggina,2,0
+30.03.2008,2007,Livorno,ACN Siena,0,0
+30.03.2008,2007,Napoli,Palermo,1,0
+30.03.2008,2007,Udinese,Fiorentina,3,1
+29.03.2008,2007,Cagliari,AS Roma,1,1
+29.03.2008,2007,Lazio,Inter,1,1
+22.03.2008,2007,ACN Siena,Parma,2,0
+22.03.2008,2007,AS Roma,Empoli,2,1
+22.03.2008,2007,Atalanta,Catania,0,0
+22.03.2008,2007,Fiorentina,Lazio,1,0
+22.03.2008,2007,Inter,Juventus,1,2
+22.03.2008,2007,Palermo,Genoa,2,3
+22.03.2008,2007,Reggina,Napoli,1,1
+22.03.2008,2007,Sampdoria,Cagliari,1,1
+22.03.2008,2007,Torino,AC Milan,0,1
+22.03.2008,2007,Udinese,Livorno,2,0
+19.03.2008,2007,AC Milan,Sampdoria,1,2
+19.03.2008,2007,Cagliari,Atalanta,1,0
+19.03.2008,2007,Catania,ACN Siena,0,0
+19.03.2008,2007,Empoli,Juventus,0,0
+19.03.2008,2007,Genoa,Inter,1,1
+19.03.2008,2007,Lazio,AS Roma,3,2
+19.03.2008,2007,Livorno,Reggina,1,1
+19.03.2008,2007,Napoli,Fiorentina,2,0
+19.03.2008,2007,Parma,Palermo,2,1
+19.03.2008,2007,Torino,Udinese,0,1
+16.03.2008,2007,Atalanta,Empoli,4,1
+16.03.2008,2007,Cagliari,Torino,3,0
+16.03.2008,2007,Fiorentina,Genoa,3,1
+16.03.2008,2007,Inter,Palermo,2,1
+16.03.2008,2007,Juventus,Napoli,1,0
+16.03.2008,2007,Livorno,Parma,1,1
+16.03.2008,2007,Reggina,ACN Siena,4,0
+16.03.2008,2007,Sampdoria,Catania,3,1
+15.03.2008,2007,AS Roma,AC Milan,2,1
+15.03.2008,2007,Udinese,Lazio,2,2
+09.03.2008,2007,ACN Siena,Fiorentina,1,0
+09.03.2008,2007,Catania,Cagliari,2,1
+09.03.2008,2007,Empoli,AC Milan,1,3
+09.03.2008,2007,Genoa,Juventus,0,2
+09.03.2008,2007,Lazio,Livorno,2,0
+09.03.2008,2007,Napoli,AS Roma,0,2
+09.03.2008,2007,Parma,Sampdoria,1,2
+09.03.2008,2007,Torino,Atalanta,1,0
+08.03.2008,2007,Inter,Reggina,2,0
+08.03.2008,2007,Palermo,Udinese,1,1
+02.03.2008,2007,Cagliari,Genoa,2,1
+02.03.2008,2007,Empoli,ACN Siena,0,2
+02.03.2008,2007,Juventus,Fiorentina,2,3
+02.03.2008,2007,Livorno,Catania,1,0
+02.03.2008,2007,Napoli,Inter,1,0
+02.03.2008,2007,Reggina,Palermo,0,0
+02.03.2008,2007,Sampdoria,Torino,2,2
+02.03.2008,2007,Udinese,Atalanta,2,0
+01.03.2008,2007,AC Milan,Lazio,1,1
+01.03.2008,2007,AS Roma,Parma,4,0
+27.02.2008,2007,ACN Siena,Cagliari,1,0
+27.02.2008,2007,Atalanta,Sampdoria,4,1
+27.02.2008,2007,Catania,AC Milan,1,1
+27.02.2008,2007,Fiorentina,Livorno,1,0
+27.02.2008,2007,Genoa,Napoli,2,0
+27.02.2008,2007,Inter,AS Roma,1,1
+27.02.2008,2007,Lazio,Reggina,1,0
+27.02.2008,2007,Palermo,Empoli,2,0
+27.02.2008,2007,Parma,Udinese,2,0
+26.02.2008,2007,Juventus,Torino,0,0
+24.02.2008,2007,AC Milan,Palermo,2,1
+24.02.2008,2007,AS Roma,Fiorentina,1,0
+24.02.2008,2007,Atalanta,ACN Siena,2,2
+24.02.2008,2007,Cagliari,Lazio,1,0
+24.02.2008,2007,Empoli,Catania,2,0
+24.02.2008,2007,Livorno,Napoli,1,2
+24.02.2008,2007,Sampdoria,Inter,1,1
+24.02.2008,2007,Udinese,Genoa,3,5
+23.02.2008,2007,Reggina,Juventus,2,1
+23.02.2008,2007,Torino,Parma,4,4
+17.02.2008,2007,ACN Siena,Torino,0,0
+17.02.2008,2007,Fiorentina,Catania,2,1
+17.02.2008,2007,Genoa,Sampdoria,0,1
+17.02.2008,2007,Lazio,Atalanta,3,0
+17.02.2008,2007,Napoli,Empoli,1,3
+17.02.2008,2007,Palermo,Cagliari,2,1
+17.02.2008,2007,Reggina,Udinese,1,3
+16.02.2008,2007,Inter,Livorno,2,0
+16.02.2008,2007,Juventus,AS Roma,1,0
+16.02.2008,2007,Parma,AC Milan,0,0
+13.02.2008,2007,AC Milan,Livorno,1,1
+10.02.2008,2007,AC Milan,ACN Siena,1,0
+10.02.2008,2007,Cagliari,Parma,1,1
+10.02.2008,2007,Catania,Inter,0,2
+10.02.2008,2007,Empoli,Lazio,1,0
+10.02.2008,2007,Livorno,Genoa,1,1
+10.02.2008,2007,Sampdoria,Napoli,2,0
+10.02.2008,2007,Torino,Palermo,3,1
+10.02.2008,2007,Udinese,Juventus,1,2
+09.02.2008,2007,AS Roma,Reggina,2,0
+09.02.2008,2007,Atalanta,Fiorentina,2,2
+03.02.2008,2007,ACN Siena,AS Roma,3,0
+03.02.2008,2007,Fiorentina,AC Milan,0,1
+03.02.2008,2007,Genoa,Catania,2,1
+03.02.2008,2007,Inter,Empoli,1,0
+03.02.2008,2007,Juventus,Cagliari,1,1
+03.02.2008,2007,Lazio,Sampdoria,2,1
+03.02.2008,2007,Parma,Atalanta,2,3
+03.02.2008,2007,Reggina,Torino,1,3
+02.02.2008,2007,Napoli,Udinese,3,1
+02.02.2008,2007,Palermo,Livorno,1,0
+30.01.2008,2007,Reggina,AC Milan,0,1
+27.01.2008,2007,AC Milan,Genoa,2,0
+27.01.2008,2007,Atalanta,Reggina,2,2
+27.01.2008,2007,Cagliari,Napoli,2,1
+27.01.2008,2007,Catania,Parma,0,0
+27.01.2008,2007,Empoli,Fiorentina,0,2
+27.01.2008,2007,Livorno,Juventus,1,3
+27.01.2008,2007,Torino,Lazio,0,0
+27.01.2008,2007,Udinese,Inter,0,0
+26.01.2008,2007,AS Roma,Palermo,1,0
+26.01.2008,2007,Sampdoria,ACN Siena,1,0
+23.01.2008,2007,Atalanta,AC Milan,2,1
+20.01.2008,2007,AS Roma,Catania,2,0
+20.01.2008,2007,Inter,Parma,3,2
+20.01.2008,2007,Juventus,Sampdoria,0,0
+20.01.2008,2007,Livorno,Empoli,1,0
+20.01.2008,2007,Napoli,Lazio,2,2
+20.01.2008,2007,Palermo,ACN Siena,2,3
+20.01.2008,2007,Reggina,Cagliari,2,0
+20.01.2008,2007,Udinese,AC Milan,0,1
+19.01.2008,2007,Fiorentina,Torino,2,1
+19.01.2008,2007,Genoa,Atalanta,2,1
+13.01.2008,2007,AC Milan,Napoli,5,2
+13.01.2008,2007,ACN Siena,Inter,2,3
+13.01.2008,2007,Atalanta,AS Roma,1,2
+13.01.2008,2007,Cagliari,Udinese,0,1
+13.01.2008,2007,Lazio,Genoa,1,2
+13.01.2008,2007,Parma,Fiorentina,1,2
+13.01.2008,2007,Sampdoria,Palermo,3,0
+13.01.2008,2007,Torino,Livorno,1,2
+12.01.2008,2007,Catania,Juventus,1,1
+12.01.2008,2007,Empoli,Reggina,1,1
+23.12.2007,2007,Fiorentina,Cagliari,5,1
+23.12.2007,2007,Inter,AC Milan,2,1
+23.12.2007,2007,Juventus,ACN Siena,2,0
+23.12.2007,2007,Livorno,Atalanta,1,1
+23.12.2007,2007,Napoli,Torino,1,1
+23.12.2007,2007,Palermo,Lazio,2,2
+23.12.2007,2007,Reggina,Catania,3,1
+23.12.2007,2007,Udinese,Empoli,2,2
+22.12.2007,2007,AS Roma,Sampdoria,2,0
+22.12.2007,2007,Genoa,Parma,1,0
+16.12.2007,2007,ACN Siena,Napoli,1,1
+16.12.2007,2007,Atalanta,Palermo,1,3
+16.12.2007,2007,Cagliari,Inter,0,2
+16.12.2007,2007,Empoli,Genoa,1,1
+16.12.2007,2007,Parma,Reggina,3,0
+16.12.2007,2007,Sampdoria,Fiorentina,2,2
+16.12.2007,2007,Torino,AS Roma,0,0
+15.12.2007,2007,Catania,Udinese,2,0
+15.12.2007,2007,Lazio,Juventus,2,3
+09.12.2007,2007,Empoli,Cagliari,4,1
+09.12.2007,2007,Genoa,ACN Siena,1,3
+09.12.2007,2007,Inter,Torino,4,0
+09.12.2007,2007,Juventus,Atalanta,1,0
+09.12.2007,2007,Livorno,AS Roma,1,1
+09.12.2007,2007,Napoli,Parma,1,0
+09.12.2007,2007,Udinese,Sampdoria,3,2
+08.12.2007,2007,Lazio,Catania,2,0
+08.12.2007,2007,Palermo,Fiorentina,2,0
+05.12.2007,2007,AS Roma,Cagliari,2,0
+05.12.2007,2007,Inter,Lazio,3,0
+02.12.2007,2007,ACN Siena,Lazio,1,1
+02.12.2007,2007,AS Roma,Udinese,2,1
+02.12.2007,2007,Atalanta,Napoli,5,1
+02.12.2007,2007,Cagliari,Livorno,0,0
+02.12.2007,2007,Catania,Palermo,3,1
+02.12.2007,2007,Fiorentina,Inter,0,2
+02.12.2007,2007,Parma,Empoli,1,0
+02.12.2007,2007,Torino,Genoa,1,1
+01.12.2007,2007,AC Milan,Juventus,0,0
+01.12.2007,2007,Sampdoria,Reggina,3,0
+25.11.2007,2007,Cagliari,AC Milan,1,2
+25.11.2007,2007,Empoli,Torino,0,0
+25.11.2007,2007,Juventus,Palermo,5,0
+25.11.2007,2007,Lazio,Parma,1,0
+25.11.2007,2007,Livorno,Sampdoria,3,1
+25.11.2007,2007,Napoli,Catania,2,0
+25.11.2007,2007,Reggina,Fiorentina,0,0
+25.11.2007,2007,Udinese,ACN Siena,2,0
+24.11.2007,2007,Genoa,AS Roma,0,1
+24.11.2007,2007,Inter,Atalanta,2,1
+11.11.2007,2007,ACN Siena,Livorno,2,3
+11.11.2007,2007,Fiorentina,Udinese,1,2
+11.11.2007,2007,Parma,Juventus,2,2
+11.11.2007,2007,Reggina,Genoa,2,0
+11.11.2007,2007,Torino,Catania,1,1
+10.11.2007,2007,Palermo,Napoli,2,1
+10.11.2007,2007,Sampdoria,Empoli,3,0
+04.11.2007,2007,Cagliari,Sampdoria,0,3
+04.11.2007,2007,Catania,Atalanta,1,2
+04.11.2007,2007,Empoli,AS Roma,2,2
+04.11.2007,2007,Genoa,Palermo,3,3
+04.11.2007,2007,Juventus,Inter,1,1
+04.11.2007,2007,Livorno,Udinese,0,0
+04.11.2007,2007,Napoli,Reggina,1,1
+04.11.2007,2007,Parma,ACN Siena,2,2
+03.11.2007,2007,AC Milan,Torino,0,0
+03.11.2007,2007,Lazio,Fiorentina,0,1
+31.10.2007,2007,ACN Siena,Catania,1,1
+31.10.2007,2007,AS Roma,Lazio,3,2
+31.10.2007,2007,Atalanta,Cagliari,2,2
+31.10.2007,2007,Fiorentina,Napoli,1,0
+31.10.2007,2007,Inter,Genoa,4,1
+31.10.2007,2007,Juventus,Empoli,3,0
+31.10.2007,2007,Palermo,Parma,1,1
+31.10.2007,2007,Reggina,Livorno,1,3
+31.10.2007,2007,Sampdoria,AC Milan,0,5
+31.10.2007,2007,Udinese,Torino,2,1
+28.10.2007,2007,AC Milan,AS Roma,0,1
+28.10.2007,2007,ACN Siena,Reggina,0,0
+28.10.2007,2007,Catania,Sampdoria,2,0
+28.10.2007,2007,Empoli,Atalanta,0,1
+28.10.2007,2007,Genoa,Fiorentina,0,0
+28.10.2007,2007,Lazio,Udinese,0,1
+28.10.2007,2007,Palermo,Inter,0,0
+28.10.2007,2007,Parma,Livorno,3,2
+27.10.2007,2007,Napoli,Juventus,3,1
+27.10.2007,2007,Torino,Cagliari,2,0
+21.10.2007,2007,AC Milan,Empoli,0,1
+21.10.2007,2007,Atalanta,Torino,2,2
+21.10.2007,2007,Cagliari,Catania,1,1
+21.10.2007,2007,Fiorentina,ACN Siena,3,0
+21.10.2007,2007,Juventus,Genoa,1,0
+21.10.2007,2007,Livorno,Lazio,0,1
+21.10.2007,2007,Sampdoria,Parma,3,0
+21.10.2007,2007,Udinese,Palermo,1,1
+20.10.2007,2007,AS Roma,Napoli,4,4
+20.10.2007,2007,Reggina,Inter,0,1
+07.10.2007,2007,ACN Siena,Empoli,3,0
+07.10.2007,2007,Catania,Livorno,1,0
+07.10.2007,2007,Fiorentina,Juventus,1,1
+07.10.2007,2007,Genoa,Cagliari,2,0
+07.10.2007,2007,Lazio,AC Milan,1,5
+07.10.2007,2007,Palermo,Reggina,1,1
+07.10.2007,2007,Parma,AS Roma,0,3
+07.10.2007,2007,Torino,Sampdoria,1,0
+06.10.2007,2007,Atalanta,Udinese,0,0
+06.10.2007,2007,Inter,Napoli,2,1
+30.09.2007,2007,AC Milan,Catania,1,1
+30.09.2007,2007,Cagliari,ACN Siena,1,0
+30.09.2007,2007,Empoli,Palermo,3,1
+30.09.2007,2007,Napoli,Genoa,1,2
+30.09.2007,2007,Reggina,Lazio,1,1
+30.09.2007,2007,Sampdoria,Atalanta,3,0
+30.09.2007,2007,Torino,Juventus,0,1
+30.09.2007,2007,Udinese,Parma,2,1
+29.09.2007,2007,AS Roma,Inter,1,4
+29.09.2007,2007,Livorno,Fiorentina,0,3
+26.09.2007,2007,ACN Siena,Atalanta,1,1
+26.09.2007,2007,Catania,Empoli,1,0
+26.09.2007,2007,Fiorentina,AS Roma,2,2
+26.09.2007,2007,Genoa,Udinese,3,2
+26.09.2007,2007,Inter,Sampdoria,3,0
+26.09.2007,2007,Juventus,Reggina,4,0
+26.09.2007,2007,Lazio,Cagliari,3,1
+26.09.2007,2007,Napoli,Livorno,1,0
+26.09.2007,2007,Palermo,AC Milan,2,1
+26.09.2007,2007,Parma,Torino,2,0
+23.09.2007,2007,AS Roma,Juventus,2,2
+23.09.2007,2007,Atalanta,Lazio,2,1
+23.09.2007,2007,Cagliari,Palermo,0,1
+23.09.2007,2007,Catania,Fiorentina,0,1
+23.09.2007,2007,Empoli,Napoli,0,0
+23.09.2007,2007,Livorno,Inter,2,2
+23.09.2007,2007,Sampdoria,Genoa,0,0
+23.09.2007,2007,Torino,ACN Siena,1,1
+22.09.2007,2007,AC Milan,Parma,1,1
+22.09.2007,2007,Udinese,Reggina,2,0
+16.09.2007,2007,Fiorentina,Atalanta,2,2
+16.09.2007,2007,Genoa,Livorno,1,1
+16.09.2007,2007,Inter,Catania,2,0
+16.09.2007,2007,Juventus,Udinese,0,1
+16.09.2007,2007,Napoli,Sampdoria,2,0
+16.09.2007,2007,Palermo,Torino,1,1
+16.09.2007,2007,Parma,Cagliari,1,1
+16.09.2007,2007,Reggina,AS Roma,0,2
+15.09.2007,2007,ACN Siena,AC Milan,1,1
+15.09.2007,2007,Lazio,Empoli,0,0
+03.09.2007,2007,AC Milan,Fiorentina,1,1
+02.09.2007,2007,AS Roma,ACN Siena,3,0
+02.09.2007,2007,Atalanta,Parma,2,0
+02.09.2007,2007,Cagliari,Juventus,2,3
+02.09.2007,2007,Catania,Genoa,0,0
+02.09.2007,2007,Livorno,Palermo,2,4
+02.09.2007,2007,Sampdoria,Lazio,0,0
+02.09.2007,2007,Torino,Reggina,2,2
+02.09.2007,2007,Udinese,Napoli,0,5
+01.09.2007,2007,Empoli,Inter,0,2
+26.08.2007,2007,ACN Siena,Sampdoria,1,2
+26.08.2007,2007,Fiorentina,Empoli,3,1
+26.08.2007,2007,Genoa,AC Milan,0,3
+26.08.2007,2007,Inter,Udinese,1,1
+26.08.2007,2007,Napoli,Cagliari,0,2
+26.08.2007,2007,Palermo,AS Roma,0,2
+26.08.2007,2007,Parma,Catania,2,2
+26.08.2007,2007,Reggina,Atalanta,1,1
+25.08.2007,2007,Juventus,Livorno,5,1
+25.08.2007,2007,Lazio,Torino,2,2

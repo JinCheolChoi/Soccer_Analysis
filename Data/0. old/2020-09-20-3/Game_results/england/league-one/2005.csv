@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
+07.05.2005,2005,Blackpool,Barnsley,0,2
+07.05.2005,2005,Bournemouth,Hartlepool,2,2
+07.05.2005,2005,Brentford,Hull,2,1
+07.05.2005,2005,Colchester,Torquay,2,1
+07.05.2005,2005,Doncaster,Luton,3,3
+07.05.2005,2005,MK Dons,Tranmere,2,1
+07.05.2005,2005,Oldham,Bradford City,2,1
+07.05.2005,2005,Port Vale,Peterborough,1,0
+07.05.2005,2005,Sheffield Wed,Bristol City,2,3
+07.05.2005,2005,Swindon,Chesterfield,1,1
+07.05.2005,2005,Walsall,Stockport,3,0
+07.05.2005,2005,Wrexham,Huddersfield,0,1
+03.05.2005,2005,Wrexham,Brentford,1,2
+30.04.2005,2005,Barnsley,Colchester,1,1
+30.04.2005,2005,Bradford City,Bournemouth,4,2
+30.04.2005,2005,Bristol City,Doncaster,2,2
+30.04.2005,2005,Chesterfield,Oldham,1,0
+30.04.2005,2005,Hartlepool,Walsall,1,3
+30.04.2005,2005,Huddersfield,Swindon,4,0
+30.04.2005,2005,Hull,Sheffield Wed,1,2
+30.04.2005,2005,Luton,Brentford,4,2
+30.04.2005,2005,Peterborough,MK Dons,0,3
+30.04.2005,2005,Stockport,Wrexham,1,4
+30.04.2005,2005,Torquay,Blackpool,2,0
+29.04.2005,2005,Tranmere,Port Vale,1,0
+26.04.2005,2005,Port Vale,Wrexham,0,2
+23.04.2005,2005,Blackpool,Chesterfield,1,0
+23.04.2005,2005,Bournemouth,Peterborough,0,1
+23.04.2005,2005,Brentford,Huddersfield,0,1
+23.04.2005,2005,Colchester,Bradford City,0,0
+23.04.2005,2005,Doncaster,Hartlepool,2,0
+23.04.2005,2005,MK Dons,Bristol City,1,2
+23.04.2005,2005,Oldham,Torquay,1,2
+23.04.2005,2005,Port Vale,Barnsley,5,0
+23.04.2005,2005,Sheffield Wed,Stockport,0,0
+23.04.2005,2005,Swindon,Tranmere,2,1
+23.04.2005,2005,Walsall,Hull,3,0
+23.04.2005,2005,Wrexham,Luton,1,2
+16.04.2005,2005,Barnsley,Oldham,2,2
+16.04.2005,2005,Bradford City,Brentford,4,1
+16.04.2005,2005,Bristol City,Wrexham,1,0
+16.04.2005,2005,Chesterfield,Bournemouth,2,3
+16.04.2005,2005,Huddersfield,Colchester,2,2
+16.04.2005,2005,Hull,Swindon,0,0
+16.04.2005,2005,Luton,MK Dons,1,0
+16.04.2005,2005,Peterborough,Walsall,0,2
+16.04.2005,2005,Stockport,Doncaster,2,4
+16.04.2005,2005,Torquay,Port Vale,1,0
+16.04.2005,2005,Tranmere,Blackpool,0,0
+15.04.2005,2005,Hartlepool,Sheffield Wed,3,0
+13.04.2005,2005,Swindon,Bristol City,0,0
+12.04.2005,2005,Stockport,Blackpool,0,1
+12.04.2005,2005,Brentford,Tranmere,1,0
+10.04.2005,2005,Bradford City,Hull,0,2
+09.04.2005,2005,Blackpool,Peterborough,0,1
+09.04.2005,2005,Bournemouth,Luton,0,1
+09.04.2005,2005,Brentford,Bristol City,1,0
+09.04.2005,2005,Colchester,Hartlepool,1,1
+09.04.2005,2005,Huddersfield,Doncaster,3,1
+09.04.2005,2005,Oldham,Sheffield Wed,1,1
+09.04.2005,2005,Port Vale,Chesterfield,1,0
+09.04.2005,2005,Swindon,Walsall,1,2
+09.04.2005,2005,Torquay,MK Dons,1,0
+08.04.2005,2005,Tranmere,Stockport,1,0
+05.04.2005,2005,Barnsley,Wrexham,2,2
+05.04.2005,2005,Bristol City,Bournemouth,0,2
+05.04.2005,2005,Hartlepool,Peterborough,2,2
+02.04.2005,2005,Bristol City,Port Vale,2,0
+02.04.2005,2005,Chesterfield,Bradford City,0,0
+02.04.2005,2005,Hartlepool,Swindon,3,0
+02.04.2005,2005,Hull,Barnsley,2,1
+02.04.2005,2005,Luton,Blackpool,1,0
+02.04.2005,2005,MK Dons,Oldham,1,1
+02.04.2005,2005,Peterborough,Huddersfield,1,2
+02.04.2005,2005,Sheffield Wed,Tranmere,1,2
+02.04.2005,2005,Stockport,Brentford,1,2
+02.04.2005,2005,Walsall,Torquay,1,1
+02.04.2005,2005,Wrexham,Bournemouth,1,2
+01.04.2005,2005,Doncaster,Colchester,1,1
+29.03.2005,2005,Huddersfield,Sheffield Wed,1,0
+28.03.2005,2005,Barnsley,Walsall,3,2
+28.03.2005,2005,Blackpool,Hartlepool,2,2
+28.03.2005,2005,Bournemouth,MK Dons,0,1
+28.03.2005,2005,Bradford City,Stockport,3,1
+28.03.2005,2005,Brentford,Peterborough,0,0
+28.03.2005,2005,Colchester,Chesterfield,1,0
+28.03.2005,2005,Oldham,Hull,1,0
+28.03.2005,2005,Torquay,Luton,1,4
+28.03.2005,2005,Tranmere,Doncaster,2,4
+26.03.2005,2005,Chesterfield,Tranmere,2,2
+26.03.2005,2005,Hull,Port Vale,2,2
+26.03.2005,2005,Sheffield Wed,Torquay,2,2
+26.03.2005,2005,Walsall,Oldham,0,1
+25.03.2005,2005,Hartlepool,Huddersfield,0,1
+25.03.2005,2005,Luton,Barnsley,1,3
+25.03.2005,2005,MK Dons,Swindon,1,1
+25.03.2005,2005,Peterborough,Colchester,0,3
+24.03.2005,2005,Doncaster,Bradford City,1,1
+22.03.2005,2005,Blackpool,Brentford,2,1
+19.03.2005,2005,Barnsley,MK Dons,1,1
+19.03.2005,2005,Blackpool,Doncaster,1,1
+19.03.2005,2005,Bournemouth,Hull,0,4
+19.03.2005,2005,Bradford City,Hartlepool,1,2
+19.03.2005,2005,Brentford,Chesterfield,2,2
+19.03.2005,2005,Colchester,Sheffield Wed,1,1
+19.03.2005,2005,Huddersfield,Stockport,5,3
+19.03.2005,2005,Oldham,Luton,2,2
+19.03.2005,2005,Port Vale,Walsall,2,0
+19.03.2005,2005,Swindon,Wrexham,4,2
+19.03.2005,2005,Torquay,Bristol City,0,4
+18.03.2005,2005,Tranmere,Peterborough,5,0
+15.03.2005,2005,Oldham,Brentford,0,2
+12.03.2005,2005,Bristol City,Barnsley,0,0
+12.03.2005,2005,Chesterfield,Huddersfield,2,1
+12.03.2005,2005,Doncaster,Brentford,0,0
+12.03.2005,2005,Hartlepool,Tranmere,0,1
+12.03.2005,2005,Hull,Torquay,2,0
+12.03.2005,2005,Luton,Swindon,3,1
+12.03.2005,2005,MK Dons,Port Vale,1,1
+12.03.2005,2005,Peterborough,Bradford City,2,2
+12.03.2005,2005,Sheffield Wed,Blackpool,3,2
+12.03.2005,2005,Stockport,Colchester,1,2
+12.03.2005,2005,Walsall,Bournemouth,1,2
+12.03.2005,2005,Wrexham,Oldham,1,0
+08.03.2005,2005,Bournemouth,Blackpool,2,3
+08.03.2005,2005,Hull,Hartlepool,1,0
+08.03.2005,2005,Port Vale,Colchester,0,0
+06.03.2005,2005,Sheffield Wed,Doncaster,2,0
+05.03.2005,2005,Blackpool,Walsall,2,0
+05.03.2005,2005,Bradford City,Huddersfield,2,0
+05.03.2005,2005,Colchester,Brentford,0,1
+05.03.2005,2005,Hartlepool,Wrexham,4,6
+05.03.2005,2005,Luton,Bristol City,5,0
+05.03.2005,2005,MK Dons,Stockport,2,1
+05.03.2005,2005,Oldham,Port Vale,3,0
+05.03.2005,2005,Peterborough,Barnsley,1,3
+05.03.2005,2005,Swindon,Bournemouth,0,3
+05.03.2005,2005,Torquay,Chesterfield,2,2
+05.03.2005,2005,Tranmere,Hull,1,3
+26.02.2005,2005,Barnsley,Torquay,4,1
+26.02.2005,2005,Bournemouth,Tranmere,1,1
+26.02.2005,2005,Brentford,Sheffield Wed,3,3
+26.02.2005,2005,Bristol City,Blackpool,1,1
+26.02.2005,2005,Chesterfield,Peterborough,1,3
+26.02.2005,2005,Doncaster,Swindon,1,1
+26.02.2005,2005,Huddersfield,Oldham,2,1
+26.02.2005,2005,Hull,Colchester,2,0
+26.02.2005,2005,Port Vale,Luton,3,1
+26.02.2005,2005,Stockport,Hartlepool,1,0
+26.02.2005,2005,Walsall,Bradford City,1,1
+26.02.2005,2005,Wrexham,MK Dons,0,0
+23.02.2005,2005,Sheffield Wed,Peterborough,2,1
+23.02.2005,2005,Swindon,Port Vale,1,0
+22.02.2005,2005,Blackpool,Bradford City,2,1
+22.02.2005,2005,Bournemouth,Torquay,3,0
+22.02.2005,2005,Bristol City,Oldham,5,1
+22.02.2005,2005,Doncaster,Barnsley,4,0
+22.02.2005,2005,Hartlepool,Brentford,3,1
+22.02.2005,2005,Luton,Walsall,1,0
+22.02.2005,2005,MK Dons,Hull,1,1
+22.02.2005,2005,Stockport,Chesterfield,1,2
+22.02.2005,2005,Tranmere,Huddersfield,3,0
+22.02.2005,2005,Wrexham,Colchester,2,2
+19.02.2005,2005,Barnsley,Bournemouth,0,1
+19.02.2005,2005,Bradford City,Luton,0,1
+19.02.2005,2005,Chesterfield,Sheffield Wed,1,3
+19.02.2005,2005,Colchester,Bristol City,0,2
+19.02.2005,2005,Huddersfield,Blackpool,1,0
+19.02.2005,2005,Hull,Wrexham,2,1
+19.02.2005,2005,Oldham,Stockport,1,2
+19.02.2005,2005,Peterborough,Doncaster,0,2
+19.02.2005,2005,Port Vale,Hartlepool,0,1
+19.02.2005,2005,Torquay,Swindon,2,2
+19.02.2005,2005,Walsall,MK Dons,0,0
+15.02.2005,2005,Torquay,Peterborough,2,1
+15.02.2005,2005,Hartlepool,Luton,2,3
+15.02.2005,2005,Colchester,Bournemouth,3,1
+12.02.2005,2005,Bournemouth,Oldham,4,0
+12.02.2005,2005,Doncaster,Chesterfield,0,1
+12.02.2005,2005,Luton,Hull,1,0
+12.02.2005,2005,MK Dons,Huddersfield,2,1
+12.02.2005,2005,Sheffield Wed,Bradford City,1,2
+12.02.2005,2005,Stockport,Port Vale,1,2
+12.02.2005,2005,Swindon,Barnsley,2,1
+12.02.2005,2005,Tranmere,Colchester,1,1
+12.02.2005,2005,Wrexham,Torquay,1,1
+11.02.2005,2005,Bristol City,Walsall,0,1
+08.02.2005,2005,Blackpool,Oldham,2,0
+08.02.2005,2005,Bradford City,MK Dons,1,4
+05.02.2005,2005,Barnsley,Sheffield Wed,0,0
+05.02.2005,2005,Bradford City,Tranmere,1,1
+05.02.2005,2005,Brentford,MK Dons,1,0
+05.02.2005,2005,Chesterfield,Hartlepool,0,1
+05.02.2005,2005,Colchester,Blackpool,0,1
+05.02.2005,2005,Huddersfield,Luton,1,1
+05.02.2005,2005,Hull,Bristol City,1,1
+05.02.2005,2005,Oldham,Swindon,1,2
+05.02.2005,2005,Peterborough,Stockport,2,1
+05.02.2005,2005,Port Vale,Bournemouth,2,1
+05.02.2005,2005,Torquay,Doncaster,2,1
+05.02.2005,2005,Walsall,Wrexham,2,2
+01.02.2005,2005,Chesterfield,Hull,1,1
+01.02.2005,2005,Stockport,Bournemouth,2,2
+31.01.2005,2005,Barnsley,Bradford City,2,2
+29.01.2005,2005,Luton,Tranmere,1,1
+29.01.2005,2005,MK Dons,Sheffield Wed,2,2
+29.01.2005,2005,Swindon,Stockport,3,0
+29.01.2005,2005,Walsall,Huddersfield,4,3
+29.01.2005,2005,Wrexham,Doncaster,0,0
+28.01.2005,2005,Bristol City,Chesterfield,2,3
+25.01.2005,2005,Brentford,Barnsley,1,1
+25.01.2005,2005,Colchester,Walsall,5,0
+22.01.2005,2005,Blackpool,MK Dons,1,0
+22.01.2005,2005,Bradford City,Torquay,2,2
+22.01.2005,2005,Brentford,Swindon,2,1
+22.01.2005,2005,Chesterfield,Wrexham,2,4
+22.01.2005,2005,Colchester,Luton,0,0
+22.01.2005,2005,Doncaster,Hull,1,0
+22.01.2005,2005,Hartlepool,Bristol City,2,1
+22.01.2005,2005,Huddersfield,Bournemouth,3,2
+22.01.2005,2005,Peterborough,Oldham,1,2
+22.01.2005,2005,Stockport,Barnsley,2,2
+22.01.2005,2005,Tranmere,Walsall,2,1
+21.01.2005,2005,Sheffield Wed,Port Vale,1,0
+15.01.2005,2005,Barnsley,Huddersfield,4,2
+15.01.2005,2005,Bournemouth,Sheffield Wed,1,1
+15.01.2005,2005,Bristol City,Bradford City,0,0
+15.01.2005,2005,Hull,Peterborough,2,2
+15.01.2005,2005,Luton,Stockport,3,0
+15.01.2005,2005,MK Dons,Colchester,2,0
+15.01.2005,2005,Oldham,Doncaster,1,2
+15.01.2005,2005,Port Vale,Brentford,0,1
+15.01.2005,2005,Swindon,Blackpool,2,2
+15.01.2005,2005,Torquay,Hartlepool,1,2
+15.01.2005,2005,Walsall,Chesterfield,3,0
+15.01.2005,2005,Wrexham,Tranmere,1,5
+11.01.2005,2005,Peterborough,Wrexham,2,2
+10.01.2005,2005,Tranmere,Bristol City,0,1
+08.01.2005,2005,Doncaster,Port Vale,2,0
+08.01.2005,2005,Huddersfield,Torquay,1,1
+08.01.2005,2005,Sheffield Wed,Swindon,2,0
+03.01.2005,2005,Blackpool,Port Vale,0,2
+03.01.2005,2005,Bradford City,Swindon,1,2
+03.01.2005,2005,Brentford,Walsall,1,0
+03.01.2005,2005,Chesterfield,Barnsley,2,2
+03.01.2005,2005,Colchester,Oldham,0,0
+03.01.2005,2005,Doncaster,Bournemouth,1,1
+03.01.2005,2005,Hartlepool,MK Dons,5,0
+03.01.2005,2005,Huddersfield,Bristol City,2,2
+03.01.2005,2005,Peterborough,Luton,2,2
+03.01.2005,2005,Sheffield Wed,Wrexham,4,0
+03.01.2005,2005,Stockport,Hull,1,3
+03.01.2005,2005,Tranmere,Torquay,4,1
+01.01.2005,2005,Barnsley,Hartlepool,0,0
+01.01.2005,2005,Bournemouth,Brentford,3,2
+01.01.2005,2005,Bristol City,Peterborough,2,0
+01.01.2005,2005,Hull,Huddersfield,2,1
+01.01.2005,2005,Luton,Sheffield Wed,1,1
+01.01.2005,2005,MK Dons,Chesterfield,1,1
+01.01.2005,2005,Oldham,Tranmere,2,2
+01.01.2005,2005,Port Vale,Bradford City,0,1
+01.01.2005,2005,Swindon,Colchester,0,3
+01.01.2005,2005,Torquay,Stockport,1,2
+01.01.2005,2005,Walsall,Doncaster,1,1
+01.01.2005,2005,Wrexham,Blackpool,1,2
+29.12.2004,2005,Hull,Doncaster,2,1
+28.12.2004,2005,Barnsley,Stockport,3,3
+28.12.2004,2005,Bournemouth,Huddersfield,2,2
+28.12.2004,2005,Bristol City,Hartlepool,0,0
+28.12.2004,2005,Luton,Colchester,2,2
+28.12.2004,2005,MK Dons,Blackpool,3,1
+28.12.2004,2005,Oldham,Peterborough,2,1
+28.12.2004,2005,Port Vale,Sheffield Wed,0,2
+28.12.2004,2005,Swindon,Brentford,3,0
+28.12.2004,2005,Torquay,Bradford City,0,0
+28.12.2004,2005,Walsall,Tranmere,0,2
+28.12.2004,2005,Wrexham,Chesterfield,3,1
+26.12.2004,2005,Blackpool,Hull,0,2
+26.12.2004,2005,Bradford City,Wrexham,1,1
+26.12.2004,2005,Brentford,Torquay,1,3
+26.12.2004,2005,Chesterfield,Luton,0,1
+26.12.2004,2005,Doncaster,MK Dons,3,0
+26.12.2004,2005,Hartlepool,Oldham,2,1
+26.12.2004,2005,Huddersfield,Port Vale,2,1
+26.12.2004,2005,Peterborough,Swindon,0,2
+26.12.2004,2005,Sheffield Wed,Walsall,3,2
+26.12.2004,2005,Stockport,Bristol City,1,2
+26.12.2004,2005,Tranmere,Barnsley,1,1
+19.12.2004,2005,Doncaster,Sheffield Wed,0,4
+18.12.2004,2005,Barnsley,Peterborough,4,0
+18.12.2004,2005,Bournemouth,Swindon,2,1
+18.12.2004,2005,Brentford,Colchester,1,0
+18.12.2004,2005,Bristol City,Luton,1,2
+18.12.2004,2005,Chesterfield,Torquay,1,1
+18.12.2004,2005,Huddersfield,Bradford City,0,1
+18.12.2004,2005,Hull,Tranmere,6,1
+18.12.2004,2005,Port Vale,Oldham,3,1
+18.12.2004,2005,Stockport,MK Dons,3,1
+18.12.2004,2005,Walsall,Blackpool,3,2
+18.12.2004,2005,Wrexham,Hartlepool,1,5
+11.12.2004,2005,Blackpool,Bristol City,1,1
+11.12.2004,2005,Bradford City,Walsall,1,1
+11.12.2004,2005,Colchester,Hull,1,2
+11.12.2004,2005,Hartlepool,Stockport,3,1
+11.12.2004,2005,Luton,Port Vale,1,0
+11.12.2004,2005,MK Dons,Wrexham,3,0
+11.12.2004,2005,Oldham,Huddersfield,2,1
+11.12.2004,2005,Peterborough,Chesterfield,1,2
+11.12.2004,2005,Sheffield Wed,Brentford,1,2
+11.12.2004,2005,Swindon,Doncaster,1,1
+11.12.2004,2005,Torquay,Barnsley,0,1
+10.12.2004,2005,Tranmere,Bournemouth,2,0
+08.12.2004,2005,Sheffield Wed,Hull,2,4
+08.12.2004,2005,Swindon,Huddersfield,1,2
+07.12.2004,2005,Blackpool,Torquay,4,0
+07.12.2004,2005,Bournemouth,Bradford City,2,0
+07.12.2004,2005,Brentford,Luton,2,0
+07.12.2004,2005,Colchester,Barnsley,0,2
+07.12.2004,2005,Doncaster,Bristol City,1,1
+07.12.2004,2005,MK Dons,Peterborough,1,1
+07.12.2004,2005,Oldham,Chesterfield,4,1
+07.12.2004,2005,Port Vale,Tranmere,3,1
+07.12.2004,2005,Walsall,Hartlepool,2,1
+07.12.2004,2005,Wrexham,Stockport,2,1
+27.11.2004,2005,Barnsley,Blackpool,1,0
+27.11.2004,2005,Bradford City,Oldham,1,3
+27.11.2004,2005,Bristol City,Sheffield Wed,1,4
+27.11.2004,2005,Chesterfield,Swindon,1,0
+27.11.2004,2005,Hartlepool,Bournemouth,3,2
+27.11.2004,2005,Huddersfield,Wrexham,1,2
+27.11.2004,2005,Hull,Brentford,2,0
+27.11.2004,2005,Luton,Doncaster,1,1
+27.11.2004,2005,Peterborough,Port Vale,4,0
+27.11.2004,2005,Stockport,Walsall,0,1
+27.11.2004,2005,Torquay,Colchester,1,3
+27.11.2004,2005,Tranmere,MK Dons,2,0
+23.11.2004,2005,Torquay,Wrexham,1,0
+20.11.2004,2005,Blackpool,Tranmere,0,1
+20.11.2004,2005,Bournemouth,Chesterfield,0,0
+20.11.2004,2005,Brentford,Bradford City,1,2
+20.11.2004,2005,Colchester,Huddersfield,0,0
+20.11.2004,2005,Doncaster,Stockport,3,1
+20.11.2004,2005,MK Dons,Luton,1,4
+20.11.2004,2005,Oldham,Barnsley,3,2
+20.11.2004,2005,Port Vale,Torquay,1,2
+20.11.2004,2005,Sheffield Wed,Hartlepool,2,0
+20.11.2004,2005,Swindon,Hull,4,2
+20.11.2004,2005,Walsall,Peterborough,2,1
+20.11.2004,2005,Wrexham,Bristol City,1,3
+09.11.2004,2005,Bristol City,Tranmere,4,0
+09.11.2004,2005,Blackpool,Wrexham,2,1
+07.11.2004,2005,Huddersfield,Brentford,1,1
+06.11.2004,2005,Barnsley,Port Vale,1,2
+06.11.2004,2005,Bradford City,Colchester,2,2
+06.11.2004,2005,Bristol City,MK Dons,4,1
+06.11.2004,2005,Chesterfield,Blackpool,1,0
+06.11.2004,2005,Hartlepool,Doncaster,2,1
+06.11.2004,2005,Hull,Walsall,3,1
+06.11.2004,2005,Luton,Wrexham,5,1
+06.11.2004,2005,Peterborough,Bournemouth,0,1
+06.11.2004,2005,Stockport,Sheffield Wed,0,3
+06.11.2004,2005,Torquay,Oldham,2,0
+06.11.2004,2005,Tranmere,Swindon,2,1
+30.10.2004,2005,Blackpool,Huddersfield,1,1
+30.10.2004,2005,Bournemouth,Barnsley,1,3
+30.10.2004,2005,Bristol City,Colchester,0,0
+30.10.2004,2005,Doncaster,Peterborough,2,1
+30.10.2004,2005,Hartlepool,Port Vale,1,0
+30.10.2004,2005,Luton,Bradford City,4,0
+30.10.2004,2005,MK Dons,Walsall,1,1
+30.10.2004,2005,Sheffield Wed,Chesterfield,2,2
+30.10.2004,2005,Stockport,Oldham,1,2
+30.10.2004,2005,Swindon,Torquay,3,3
+30.10.2004,2005,Tranmere,Brentford,1,0
+30.10.2004,2005,Wrexham,Hull,2,2
+27.10.2004,2005,Swindon,Sheffield Wed,3,2
+26.10.2004,2005,Wrexham,Peterborough,1,1
+23.10.2004,2005,Barnsley,Swindon,2,2
+23.10.2004,2005,Bradford City,Sheffield Wed,3,1
+23.10.2004,2005,Brentford,Blackpool,0,3
+23.10.2004,2005,Chesterfield,Doncaster,0,0
+23.10.2004,2005,Colchester,Tranmere,1,2
+23.10.2004,2005,Huddersfield,MK Dons,3,1
+23.10.2004,2005,Hull,Luton,3,0
+23.10.2004,2005,Oldham,Bournemouth,1,2
+23.10.2004,2005,Peterborough,Hartlepool,3,0
+23.10.2004,2005,Port Vale,Stockport,0,0
+23.10.2004,2005,Walsall,Bristol City,1,2
+20.10.2004,2005,Barnsley,Doncaster,1,3
+20.10.2004,2005,Chesterfield,Stockport,4,0
+20.10.2004,2005,Hull,MK Dons,3,2
+19.10.2004,2005,Bradford City,Blackpool,2,1
+19.10.2004,2005,Brentford,Hartlepool,2,1
+19.10.2004,2005,Colchester,Wrexham,1,2
+19.10.2004,2005,Huddersfield,Tranmere,1,3
+19.10.2004,2005,Oldham,Bristol City,0,0
+19.10.2004,2005,Peterborough,Sheffield Wed,1,1
+19.10.2004,2005,Port Vale,Swindon,1,0
+19.10.2004,2005,Torquay,Bournemouth,1,2
+19.10.2004,2005,Walsall,Luton,2,0
+17.10.2004,2005,Sheffield Wed,Barnsley,1,0
+16.10.2004,2005,Blackpool,Colchester,1,1
+16.10.2004,2005,Bournemouth,Port Vale,4,0
+16.10.2004,2005,Bristol City,Hull,3,1
+16.10.2004,2005,Doncaster,Torquay,2,2
+16.10.2004,2005,Hartlepool,Chesterfield,3,2
+16.10.2004,2005,Luton,Huddersfield,1,2
+16.10.2004,2005,MK Dons,Brentford,0,0
+16.10.2004,2005,Stockport,Peterborough,1,0
+16.10.2004,2005,Swindon,Oldham,1,0
+16.10.2004,2005,Tranmere,Bradford City,4,5
+16.10.2004,2005,Wrexham,Walsall,1,1
+10.10.2004,2005,Hull,Chesterfield,1,0
+10.10.2004,2005,Oldham,Blackpool,1,2
+09.10.2004,2005,Barnsley,Brentford,0,0
+09.10.2004,2005,Torquay,Huddersfield,2,1
+09.10.2004,2005,Walsall,Colchester,2,1
+08.10.2004,2005,Bournemouth,Stockport,2,1
+08.10.2004,2005,Luton,Hartlepool,3,0
+08.10.2004,2005,MK Dons,Bradford City,1,2
+08.10.2004,2005,Port Vale,Doncaster,2,0
+02.10.2004,2005,Blackpool,Bournemouth,3,3
+02.10.2004,2005,Bradford City,Barnsley,1,0
+02.10.2004,2005,Brentford,Oldham,2,0
+02.10.2004,2005,Chesterfield,Bristol City,2,2
+02.10.2004,2005,Colchester,Port Vale,2,1
+02.10.2004,2005,Doncaster,Wrexham,0,0
+02.10.2004,2005,Hartlepool,Hull,2,0
+02.10.2004,2005,Huddersfield,Walsall,3,1
+02.10.2004,2005,Peterborough,Torquay,1,1
+02.10.2004,2005,Sheffield Wed,MK Dons,1,1
+02.10.2004,2005,Stockport,Swindon,3,3
+02.10.2004,2005,Tranmere,Luton,1,1
+25.09.2004,2005,Barnsley,Chesterfield,1,0
+25.09.2004,2005,Bournemouth,Doncaster,5,0
+25.09.2004,2005,Bristol City,Huddersfield,3,3
+25.09.2004,2005,Hull,Stockport,0,0
+25.09.2004,2005,Luton,Peterborough,2,1
+25.09.2004,2005,MK Dons,Hartlepool,4,2
+25.09.2004,2005,Oldham,Colchester,1,1
+25.09.2004,2005,Port Vale,Blackpool,0,3
+25.09.2004,2005,Swindon,Bradford City,1,0
+25.09.2004,2005,Torquay,Tranmere,1,2
+25.09.2004,2005,Walsall,Brentford,0,1
+25.09.2004,2005,Wrexham,Sheffield Wed,0,3
+18.09.2004,2005,Blackpool,Swindon,1,1
+18.09.2004,2005,Bradford City,Bristol City,4,1
+18.09.2004,2005,Brentford,Port Vale,1,0
+18.09.2004,2005,Chesterfield,Walsall,1,0
+18.09.2004,2005,Colchester,MK Dons,0,1
+18.09.2004,2005,Doncaster,Oldham,1,1
+18.09.2004,2005,Hartlepool,Torquay,4,1
+18.09.2004,2005,Huddersfield,Barnsley,0,2
+18.09.2004,2005,Peterborough,Hull,2,3
+18.09.2004,2005,Sheffield Wed,Bournemouth,0,1
+18.09.2004,2005,Stockport,Luton,1,3
+18.09.2004,2005,Tranmere,Wrexham,1,1
+14.09.2004,2005,Tranmere,Oldham,2,0
+11.09.2004,2005,Barnsley,Tranmere,0,0
+11.09.2004,2005,Bournemouth,Colchester,1,3
+11.09.2004,2005,Bristol City,Stockport,5,0
+11.09.2004,2005,Hull,Blackpool,2,1
+11.09.2004,2005,Luton,Chesterfield,1,0
+11.09.2004,2005,MK Dons,Doncaster,0,1
+11.09.2004,2005,Oldham,Hartlepool,3,2
+11.09.2004,2005,Port Vale,Huddersfield,0,3
+11.09.2004,2005,Swindon,Peterborough,0,1
+11.09.2004,2005,Torquay,Brentford,2,2
+11.09.2004,2005,Walsall,Sheffield Wed,1,1
+11.09.2004,2005,Wrexham,Bradford City,1,0
+05.09.2004,2005,Huddersfield,Hull,4,0
+04.09.2004,2005,Bradford City,Port Vale,0,2
+04.09.2004,2005,Brentford,Bournemouth,2,1
+04.09.2004,2005,Chesterfield,MK Dons,2,2
+04.09.2004,2005,Colchester,Swindon,0,1
+04.09.2004,2005,Doncaster,Walsall,3,1
+04.09.2004,2005,Hartlepool,Barnsley,1,1
+04.09.2004,2005,Peterborough,Bristol City,0,1
+04.09.2004,2005,Sheffield Wed,Luton,0,0
+04.09.2004,2005,Stockport,Torquay,0,2
+31.08.2004,2005,Chesterfield,Port Vale,1,0
+31.08.2004,2005,Hull,Bradford City,0,1
+30.08.2004,2005,Bristol City,Brentford,4,1
+30.08.2004,2005,Doncaster,Huddersfield,2,1
+30.08.2004,2005,Hartlepool,Colchester,2,1
+30.08.2004,2005,Luton,Bournemouth,1,0
+30.08.2004,2005,MK Dons,Torquay,1,0
+30.08.2004,2005,Peterborough,Blackpool,0,0
+30.08.2004,2005,Sheffield Wed,Oldham,1,1
+30.08.2004,2005,Stockport,Tranmere,1,1
+30.08.2004,2005,Walsall,Swindon,3,2
+30.08.2004,2005,Wrexham,Barnsley,2,1
+28.08.2004,2005,Barnsley,Hull,1,2
+28.08.2004,2005,Blackpool,Luton,1,3
+28.08.2004,2005,Bournemouth,Wrexham,1,0
+28.08.2004,2005,Bradford City,Chesterfield,2,3
+28.08.2004,2005,Brentford,Stockport,3,0
+28.08.2004,2005,Colchester,Doncaster,4,1
+28.08.2004,2005,Huddersfield,Peterborough,2,1
+28.08.2004,2005,Oldham,MK Dons,3,0
+28.08.2004,2005,Port Vale,Bristol City,3,0
+28.08.2004,2005,Swindon,Hartlepool,3,0
+28.08.2004,2005,Torquay,Walsall,0,0
+27.08.2004,2005,Tranmere,Sheffield Wed,4,2
+21.08.2004,2005,Bristol City,Swindon,1,2
+21.08.2004,2005,Chesterfield,Colchester,2,1
+21.08.2004,2005,Doncaster,Tranmere,0,0
+21.08.2004,2005,Hartlepool,Blackpool,1,1
+21.08.2004,2005,Hull,Oldham,2,0
+21.08.2004,2005,Luton,Torquay,1,0
+21.08.2004,2005,MK Dons,Bournemouth,1,3
+21.08.2004,2005,Peterborough,Brentford,3,0
+21.08.2004,2005,Sheffield Wed,Huddersfield,1,0
+21.08.2004,2005,Stockport,Bradford City,0,1
+21.08.2004,2005,Walsall,Barnsley,2,2
+21.08.2004,2005,Wrexham,Port Vale,1,1
+16.08.2004,2005,Huddersfield,Hartlepool,0,2
+14.08.2004,2005,Barnsley,Luton,3,4
+14.08.2004,2005,Blackpool,Stockport,0,4
+14.08.2004,2005,Bournemouth,Bristol City,2,2
+14.08.2004,2005,Bradford City,Doncaster,2,0
+14.08.2004,2005,Brentford,Wrexham,1,0
+14.08.2004,2005,Colchester,Peterborough,2,1
+14.08.2004,2005,Oldham,Walsall,5,3
+14.08.2004,2005,Port Vale,Hull,3,2
+14.08.2004,2005,Swindon,MK Dons,2,1
+14.08.2004,2005,Torquay,Sheffield Wed,2,4
+14.08.2004,2005,Tranmere,Chesterfield,1,0
+11.08.2004,2005,Swindon,Luton,2,3
+10.08.2004,2005,Barnsley,Bristol City,2,1
+10.08.2004,2005,Blackpool,Sheffield Wed,1,2
+10.08.2004,2005,Bournemouth,Walsall,2,2
+10.08.2004,2005,Bradford City,Peterborough,2,2
+10.08.2004,2005,Brentford,Doncaster,4,3
+10.08.2004,2005,Colchester,Stockport,3,2
+10.08.2004,2005,Huddersfield,Chesterfield,0,0
+10.08.2004,2005,Oldham,Wrexham,2,3
+10.08.2004,2005,Port Vale,MK Dons,3,2
+10.08.2004,2005,Torquay,Hull,0,3
+10.08.2004,2005,Tranmere,Hartlepool,2,1
+07.08.2004,2005,Bristol City,Torquay,1,1
+07.08.2004,2005,Chesterfield,Brentford,3,1
+07.08.2004,2005,Doncaster,Blackpool,2,0
+07.08.2004,2005,Hartlepool,Bradford City,2,1
+07.08.2004,2005,Hull,Bournemouth,1,0
+07.08.2004,2005,Luton,Oldham,2,1
+07.08.2004,2005,MK Dons,Barnsley,1,1
+07.08.2004,2005,Peterborough,Tranmere,1,0
+07.08.2004,2005,Sheffield Wed,Colchester,0,3
+07.08.2004,2005,Stockport,Huddersfield,2,3
+07.08.2004,2005,Walsall,Port Vale,3,2
+07.08.2004,2005,Wrexham,Swindon,2,1
