@@ -1,0 +1,36 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j2-league - 2020-11-04 00:14:55"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j2-league], navigate to the website"
+[1] "Country : [japan], League : [j2-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j2-league], game times"
+[1] "Country : [japan], League : [j2-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j2-league], extract team names"
+[1] "Country : [japan], League : [j2-league], game dates updated"
+          Date   New_Date           Home_Team       Away_Team
+ 1: 2020-11-03 2020-11-04               Verdy        Kanazawa
+ 2: 2020-11-03 2020-11-04 Giravanz Kitakyushu    Omiya Ardija
+ 3: 2020-11-03 2020-11-04               Chiba           Ehime
+ 4: 2020-11-03 2020-11-04               Kyoto         Okayama
+ 5: 2020-11-03 2020-11-04              Yamaga         Tochigi
+ 6: 2020-11-03 2020-11-04                Mito  Avispa Fukuoka
+ 7: 2020-11-03 2020-11-04   Montedio Yamagata Albirex Niigata
+ 8: 2020-11-03 2020-11-04    Renofa Yamaguchi         Kusatsu
+ 9: 2020-11-03 2020-11-04           Tokushima           Iwata
+10: 2020-11-03 2020-11-04    V-Varen Nagasaki         Machida
+11: 2020-11-03 2020-11-04                Kofu          Ryukyu
+[1] "Country : [japan], League : [j2-league], 0 new game(s) found to add."
+[1] "Country : [japan], League : [j2-league], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : turkey, super-lig - 2020-11-04 00:15:16"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [turkey], League : [super-lig], navigate to the website"
+[1] "Country : [turkey], League : [super-lig], get all hyperlinks for games"
+[1] "Country : [turkey], League : [super-lig], game times"
+[1] "Country : [turkey], League : [super-lig], Over_under_score_odds"
+[1] "Country : [turkey], League : [super-lig], extract team names"
+[1] "Country : [turkey], League : [super-lig], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""

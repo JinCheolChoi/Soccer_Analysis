@@ -1,0 +1,347 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2021-03-12 00:58:09"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 3 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], calculate kelly scores"
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League      Home_Team Away_Team
+1: 2021-03-13 premier-league Crystal Palace West Brom
+                                                                                                                                          URL
+1: https://www.playnow.com/sports/sports/event/10320445/soccer/united-kingdom/english-premier-league/crystal-palace-fc-v-west-bromwich-albion
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.09         8     1.44       2.7      2.3      1.57     4.25       1.2        8
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      1.06        0         0      Over 3.5        4.25                    0.1666667 6
+   Chosen_Option_Std    Kelly         Record_Time
+1:         0.1521452 3.284946 2021-03-12 00:58:50
+[1] "Country : [england], League : [premier-league], Progress : 1 out of 3"
+[1] "Added game"
+         Date      Home_Team Away_Team
+1: 2021-03-13 Crystal Palace West Brom
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2021-03-13 premier-league   Everton   Burnley
+                                                                                                                         URL
+1: https://www.playnow.com/sports/sports/event/10320450/soccer/united-kingdom/english-premier-league/everton-fc-v-burnley-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.06        10     1.33         3     2.05       1.7      3.6      1.25        7
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      1.08        0         0      Over 3.5         3.6                    0.1666667 6
+   Chosen_Option_Std    Kelly         Record_Time
+1:         0.1521452 2.363636 2021-03-12 00:59:11
+[1] "Country : [england], League : [premier-league], Progress : 2 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-03-13   Everton   Burnley
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team       Away_Team
+1: 2021-03-13 premier-league    Fulham Manchester City
+                                                                                                                                URL
+1: https://www.playnow.com/sports/sports/event/10320444/soccer/united-kingdom/english-premier-league/fulham-fc-v-manchester-city-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.03        14     1.22       3.9     1.75      2.05      2.8       1.4        5
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob
+1:      1.15        0         0      Over 4.5           5                    0.2307692
+    N Chosen_Option_Std    Kelly         Record_Time
+1: 13         0.1168545 5.807692 2021-03-12 00:59:33
+[1] "Country : [england], League : [premier-league], Progress : 3 out of 3"
+[1] "Added game"
+         Date Home_Team       Away_Team
+1: 2021-03-13    Fulham Manchester City
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2021-03-12 00:59:34"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], 0 new game(s) found to add."
+[1] "Country : [england], League : [championship], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2021-03-12 00:59:53"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], 3 new game(s) found to add."
+[1] "Country : [england], League : [league-one], calculate kelly scores"
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2021-03-13 league-one Blackpool Fleetwood
+                                                                                                                      URL
+1: https://www.playnow.com/sports/sports/event/10325600/soccer/united-kingdom/english-league-1/blackpool-v-fleetwood-town
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.07       8.5     1.38       2.8     2.15      1.62      3.9      1.22        7
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      1.06        0         0      Over 3.5         3.9                         0.25 4
+   Chosen_Option_Std    Kelly         Record_Time
+1:         0.2165064 2.539474 2021-03-12 01:00:29
+[1] "Country : [england], League : [league-one], Progress : 1 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-03-13 Blackpool Fleetwood
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team   Away_Team
+1: 2021-03-13 league-one Doncaster Northampton
+                                                                                                                               URL
+1: https://www.playnow.com/sports/sports/event/10325602/soccer/united-kingdom/english-league-1/doncaster-rovers-v-northampton-town
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.05        11     1.28       3.4     1.87      1.83      3.2       1.3     5.75
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:       1.1        0         0      Over 4.5        5.75                            0 3
+   Chosen_Option_Std Kelly         Record_Time
+1:                 0   116 2021-03-12 01:00:47
+[1] "Country : [england], League : [league-one], Progress : 2 out of 3"
+[1] "Added game"
+         Date Home_Team   Away_Team
+1: 2021-03-13 Doncaster Northampton
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team  Away_Team
+1: 2021-03-13 league-one      Hull Oxford Utd
+                                                                                                                     URL
+1: https://www.playnow.com/sports/sports/event/10325604/soccer/united-kingdom/english-league-1/hull-city-v-oxford-united
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.05        11     1.28      3.25      1.9       1.8      3.2       1.3     5.75
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob
+1:       1.1        0         0                        NA                           NA
+    N Chosen_Option_Std Kelly         Record_Time
+1: NA                NA    NA 2021-03-12 01:01:05
+[1] "Country : [england], League : [league-one], Progress : 3 out of 3"
+[1] "Added game"
+         Date Home_Team  Away_Team
+1: 2021-03-13      Hull Oxford Utd
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2021-03-12 01:01:06"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], 1 new game(s) found to add."
+[1] "Country : [england], League : [league-two], calculate kelly scores"
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2021-03-13 league-two Morecambe   Newport
+                                                                                                                             URL
+1: https://www.playnow.com/sports/sports/event/10326097/soccer/united-kingdom/english-league-2/morecambe-fc-v-newport-county-afc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.05        10      1.3       3.2        2      1.75      3.4      1.28        6
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      1.09        0         0      Over 3.5         3.4                    0.2857143 7
+   Chosen_Option_Std    Kelly         Record_Time
+1:         0.1707469 2.011905 2021-03-12 01:01:42
+[1] "Country : [england], League : [league-two], Progress : 1 out of 1"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-03-13 Morecambe   Newport
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : spain, laliga - 2021-03-12 01:01:43"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], get all hyperlinks for games"
+[1] "Country : [spain], League : [laliga], game times"
+[1] "Country : [spain], League : [laliga], Over_under_score_odds"
+[1] "Country : [spain], League : [laliga], extract team names"
+[1] "Country : [spain], League : [laliga], 3 new game(s) found to add."
+[1] "Country : [spain], League : [laliga], calculate kelly scores"
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League Home_Team Away_Team
+1: 2021-03-13 laliga    Alaves  Cadiz CF
+                                                                                                              URL
+1: https://www.playnow.com/sports/sports/event/10320394/soccer/europe/spanish-la-liga/deportivo-alaves-v-cadiz-cf
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.11       6.5     1.53       2.4     2.65      1.44        5      1.14       10
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      1.03        0         0      Over 3.5           5                            0 1
+   Chosen_Option_Std Kelly         Record_Time
+1:                 0  7.25 2021-03-12 01:02:21
+[1] "Country : [spain], League : [laliga], Progress : 1 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-03-13    Alaves  Cadiz CF
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League   Home_Team Away_Team
+1: 2021-03-13 laliga Real Madrid     Elche
+                                                                                                         URL
+1: https://www.playnow.com/sports/sports/event/10320397/soccer/europe/spanish-la-liga/real-madrid-v-elche-cf
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.02        18     1.18      4.75     1.57       2.3      2.4      1.53     4.25
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:       1.2        0         0     Under 1.5        4.75                            0 2
+   Chosen_Option_Std   Kelly         Record_Time
+1:                 0 5.52381 2021-03-12 01:02:43
+[1] "Country : [spain], League : [laliga], Progress : 2 out of 3"
+[1] "Added game"
+         Date   Home_Team Away_Team
+1: 2021-03-13 Real Madrid     Elche
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League Home_Team   Away_Team
+1: 2021-03-13 laliga    Getafe Atl. Madrid
+                                                                                                              URL
+1: https://www.playnow.com/sports/sports/event/10320393/soccer/europe/spanish-la-liga/getafe-cf-v-atletico-madrid
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.13         6     1.62      2.25      2.9      1.38     5.75      1.12       11
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob
+1:      1.03        0         0      Over 3.5        5.75                    0.1428571
+    N Chosen_Option_Std    Kelly         Record_Time
+1: 14        0.09352195 99.57143 2021-03-12 01:03:03
+[1] "Country : [spain], League : [laliga], Progress : 3 out of 3"
+[1] "Added game"
+         Date Home_Team   Away_Team
+1: 2021-03-13    Getafe Atl. Madrid
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2021-03-12 01:03:04"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], 1 new game(s) found to add."
+[1] "Country : [italy], League : [serie-a], calculate kelly scores"
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team  Away_Team
+1: 2021-03-13 serie-a Benevento Fiorentina
+                                                                                                                    URL
+1: https://www.playnow.com/sports/sports/event/10320441/soccer/europe/italian-serie-a/benevento-calcio-v-acf-fiorentina
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.07         9     1.33       3.2     2.05      1.75      3.5      1.28      6.5
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      1.09        0         0      Over 3.5         3.5                            0 1
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 2.521739 2021-03-12 01:03:43
+[1] "Country : [italy], League : [serie-a], Progress : 1 out of 1"
+[1] "Added game"
+         Date Home_Team  Away_Team
+1: 2021-03-13 Benevento Fiorentina
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2021-03-12 01:03:44"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], 0 new game(s) found to add."
+[1] "Country : [netherlands], League : [eerste-divisie], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : germany, 3-liga - 2021-03-12 01:04:07"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [germany], League : [3-liga], navigate to the website"
+[1] "Country : [germany], League : [3-liga], get all hyperlinks for games"
+[1] "Country : [germany], League : [3-liga], game times"
+[1] "Country : [germany], League : [3-liga], Over_under_score_odds"
+[1] "Country : [germany], League : [3-liga], extract team names"
+[1] "Country : [germany], League : [3-liga], 0 new game(s) found to add."
+[1] "Country : [germany], League : [3-liga], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : china, super-league - 2021-03-12 01:04:24"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [china], League : [super-league], navigate to the website"
+[1] "Country : [china], League : [super-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j1-league - 2021-03-12 01:04:36"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j1-league], navigate to the website"
+[1] "Country : [japan], League : [j1-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j1-league], game times"
+[1] "Country : [japan], League : [j1-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j1-league], extract team names"
+[1] "Country : [japan], League : [j1-league], 3 new game(s) found to add."
+[1] "Country : [japan], League : [j1-league], calculate kelly scores"
+[1] "Country : [japan], League : [j1-league], Target_Options_N"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], open heandings chosen"
+         Date    League         Home_Team Away_Team
+1: 2021-03-13 j1-league Kawasaki Frontale   Kashima
+                                                                                                                     URL
+1: https://www.playnow.com/sports/sports/event/10328107/soccer/asia/japanese-j-league/kawasaki-frontale-v-kashiwa-reysol
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:        0         0     1.15      4.75      1.5       2.4     2.25      1.57     3.75
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob
+1:      1.22        7      1.08     Under 1.5        4.75                    0.1428571
+    N Chosen_Option_Std    Kelly         Record_Time
+1: 14        0.09352195 4.877551 2021-03-12 01:05:14
+[1] "Country : [japan], League : [j1-league], Progress : 1 out of 3"
+[1] "Added game"
+         Date         Home_Team Away_Team
+1: 2021-03-13 Kawasaki Frontale   Kashima
+[1] "Country : [japan], League : [j1-league], Target_Options_N"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], re-open the server"
+
+Selenium message:No active session with ID 5c9c8ea7b6d9e69c1d705958e5076e88
+
+Error: 	 Summary: NoSuchDriver
+ 	 Detail: A session is either terminated or not started
+	 Further Details: run errorDetails method

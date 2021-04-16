@@ -1,0 +1,381 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2021-01-23 02:59:07"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 0 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2021-01-23 02:59:35"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], 2 new game(s) found to add."
+[1] "Country : [england], League : [championship], calculate kelly scores"
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League Home_Team Away_Team                                                                                                                            URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5
+1: 2021-01-24 championship   Preston   Reading https://www.playnow.com/sports/sports/event/10286856/soccer/united-kingdom/english-championship/preston-north-end-v-reading-fc     1.08         8     1.38       2.8      2.2
+   Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:       1.6      3.9      1.22      7.5      1.06        0         0      Over 3.5         3.9                   0.08333333 12        0.07978559 2.881579 2021-01-23 03:00:14
+[1] "Country : [england], League : [championship], Progress : 1 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-24   Preston   Reading
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League     Home_Team Away_Team                                                                                                                                 URL Over 0.5 Under 0.5 Over 1.5 Under 1.5
+1: 2021-01-24 championship Middlesbrough Blackburn https://www.playnow.com/sports/sports/event/10286859/soccer/united-kingdom/english-championship/middlesbrough-fc-v-blackburn-rovers     1.07         9     1.36       2.9
+   Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      2.1      1.67      3.6      1.25        7      1.07        0         0      Over 3.5         3.6                            0 5                 0 2.636364 2021-01-23 03:00:32
+[1] "Country : [england], League : [championship], Progress : 2 out of 2"
+[1] "Added game"
+         Date     Home_Team Away_Team
+1: 2021-01-24 Middlesbrough Blackburn
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2021-01-23 03:00:33"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-one], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2021-01-23 03:00:58"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-two], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : spain, laliga - 2021-01-23 03:01:18"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], get all hyperlinks for games"
+[1] "Country : [spain], League : [laliga], game times"
+[1] "Country : [spain], League : [laliga], Over_under_score_odds"
+[1] "Country : [spain], League : [laliga], extract team names"
+[1] "Country : [spain], League : [laliga], 4 new game(s) found to add."
+[1] "Country : [spain], League : [laliga], calculate kelly scores"
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League Home_Team  Away_Team                                                                                                        URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5
+1: 2021-01-24 laliga   Osasuna Granada CF https://www.playnow.com/sports/sports/event/10283023/soccer/europe/spanish-la-liga/ca-osasuna-v-granada-cf     1.09       7.5     1.44       2.7     2.35      1.53     4.25       1.2
+   Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      8.5      1.05        0         0      Over 3.5        4.25                            0 4                 0 3.741935 2021-01-23 03:02:06
+[1] "Country : [spain], League : [laliga], Progress : 1 out of 4"
+[1] "Added game"
+         Date Home_Team  Away_Team
+1: 2021-01-24   Osasuna Granada CF
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League Home_Team Away_Team                                                                                                        URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5
+1: 2021-01-24 laliga     Elche Barcelona https://www.playnow.com/sports/sports/event/10283021/soccer/europe/spanish-la-liga/elche-cf-v-fc-barcelona        0         0     1.15      5.25      1.5       2.5      2.2      1.62
+   Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:     3.75      1.25      6.5      1.09     Under 1.5        5.25                          0.5 2         0.3535534 5.772727 2021-01-23 03:02:27
+[1] "Country : [spain], League : [laliga], Progress : 2 out of 4"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-24     Elche Barcelona
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League  Home_Team Away_Team                                                                                                            URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2021-01-24 laliga Celta Vigo     Eibar https://www.playnow.com/sports/sports/event/10283022/soccer/europe/spanish-la-liga/rc-celta-de-vigo-v-sd-eibar     1.07       8.5      1.4       2.9      2.2      1.62        4
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      1.22      7.5      1.07        0         0      Over 3.5           4                          0.4 5          0.219089 2.333333 2021-01-23 03:02:47
+[1] "Country : [spain], League : [laliga], Progress : 3 out of 4"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2021-01-24 Celta Vigo     Eibar
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League   Home_Team Away_Team                                                                                                              URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2021-01-24 laliga Atl. Madrid  Valencia https://www.playnow.com/sports/sports/event/10283024/soccer/europe/spanish-la-liga/atletico-madrid-v-valencia-cf     1.05        11      1.3      3.25     1.95       1.8      3.4
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:       1.3        6       1.1        0         0      Over 3.5         3.4                    0.2068966 29         0.0752216 2.123563 2021-01-23 03:03:08
+[1] "Country : [spain], League : [laliga], Progress : 4 out of 4"
+[1] "Added game"
+         Date   Home_Team Away_Team
+1: 2021-01-24 Atl. Madrid  Valencia
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2021-01-23 03:03:09"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], 5 new game(s) found to add."
+[1] "Country : [italy], League : [serie-a], calculate kelly scores"
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team                                                                                                            URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2021-01-24 serie-a  Juventus   Bologna https://www.playnow.com/sports/sports/event/10282990/soccer/europe/italian-serie-a/juventus-turin-v-bologna-fc        0         0     1.16         5     1.53       2.4      2.3
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:      1.57      3.9      1.22        7      1.08     Under 1.5           5                    0.1363636 22          0.073165 6.397727 2021-01-23 03:03:56
+[1] "Country : [italy], League : [serie-a], Progress : 1 out of 5"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-24  Juventus   Bologna
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team                                                                                                            URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2021-01-24 serie-a     Genoa  Cagliari https://www.playnow.com/sports/sports/event/10282992/soccer/europe/italian-serie-a/genoa-cfc-v-cagliari-calcio     1.04        12     1.28       3.6     1.83       1.9        3
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std   Kelly         Record_Time
+1:      1.33     5.75      1.12        0         0      Over 4.5        5.75                        0.125 16        0.08267973 101.625 2021-01-23 03:04:17
+[1] "Country : [italy], League : [serie-a], Progress : 2 out of 5"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-24     Genoa  Cagliari
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team                                                                                                           URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2021-01-24 serie-a    Verona    Napoli https://www.playnow.com/sports/sports/event/10282991/soccer/europe/italian-serie-a/hellas-verona-v-ssc-napoli     1.04        13     1.25      3.75      1.8      1.95        3
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      1.36      5.5      1.13        0         0      Over 4.5         5.5                            0 8                 0 19.33333 2021-01-23 03:04:38
+[1] "Country : [italy], League : [serie-a], Progress : 3 out of 5"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-24    Verona    Napoli
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team                                                                                                             URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2021-01-24 serie-a     Lazio  Sassuolo https://www.playnow.com/sports/sports/event/10282993/soccer/europe/italian-serie-a/lazio-roma-v-sassuolo-calcio     1.02        18     1.18      4.75     1.57       2.3      2.4
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std   Kelly         Record_Time
+1:      1.53     4.25       1.2        0         0     Under 1.5        4.75                            0 6                 0 5.52381 2021-01-23 03:04:58
+[1] "Country : [italy], League : [serie-a], Progress : 4 out of 5"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-24     Lazio  Sassuolo
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team                                                                                                               URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2021-01-24 serie-a     Parma Sampdoria https://www.playnow.com/sports/sports/event/10282994/soccer/europe/italian-serie-a/parma-calcio-v-sampdoria-genoa     1.05        11     1.28       3.5     1.87      1.87      3.2
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:      1.33     5.75      1.11        0         0      Over 4.5        5.75                          0.1 20        0.06708204 104.5 2021-01-23 03:05:19
+[1] "Country : [italy], League : [serie-a], Progress : 5 out of 5"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-24     Parma Sampdoria
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2021-01-23 03:05:20"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], 2 new game(s) found to add."
+[1] "Country : [netherlands], League : [eerste-divisie], calculate kelly scores"
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League   Home_Team  Away_Team                                                                                                                 URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-24 eerste-divisie FC Volendam Graafschap https://www.playnow.com/sports/sports/event/10288667/soccer/europe/dutch-eerste-divisie/fc-volendam-v-de-graafschap        0         0     1.12      5.25     1.44       2.6
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:     2.05      1.67      3.4      1.28     5.75      1.11      Over 5.5        5.75                    0.1111111 9         0.1047566 103.2222 2021-01-23 03:05:54
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 1 out of 2"
+[1] "Added game"
+         Date   Home_Team  Away_Team
+1: 2021-01-24 FC Volendam Graafschap
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League Home_Team    Away_Team                                                                                                                        URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5
+1: 2021-01-24 eerste-divisie      Roda Jong Utrecht https://www.playnow.com/sports/sports/event/10288668/soccer/europe/dutch-eerste-divisie/roda-jc-kerkrade-v-jong-fc-utrecht        0         0     1.15      4.75      1.5
+   Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std   Kelly         Record_Time
+1:       2.4     2.25      1.57     3.75      1.22        7      1.08     Under 1.5        4.75                            0 2                 0 5.52381 2021-01-23 03:06:12
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 2 out of 2"
+[1] "Added game"
+         Date Home_Team    Away_Team
+1: 2021-01-24      Roda Jong Utrecht
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : germany, 3-liga - 2021-01-23 03:06:13"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [germany], League : [3-liga], navigate to the website"
+[1] "Country : [germany], League : [3-liga], get all hyperlinks for games"
+[1] "Country : [germany], League : [3-liga], game times"
+[1] "Country : [germany], League : [3-liga], Over_under_score_odds"
+[1] "Country : [germany], League : [3-liga], extract team names"
+[1] "Country : [germany], League : [3-liga], 3 new game(s) found to add."
+[1] "Country : [germany], League : [3-liga], calculate kelly scores"
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League   Home_Team Away_Team                                                                                                               URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2021-01-24 3-liga Munich 1860    Meppen https://www.playnow.com/sports/sports/event/10288930/soccer/europe/german-3-liga/tsv-1860-munich-v-sv-meppen-1912     1.03        13      1.2         4      1.7      2.05     2.65
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std   Kelly         Record_Time
+1:      1.44     4.75      1.16        0         0      Over 4.5        4.75                            0 2                 0 5.52381 2021-01-23 03:06:50
+[1] "Country : [germany], League : [3-liga], Progress : 1 out of 3"
+[1] "Added game"
+         Date   Home_Team Away_Team
+1: 2021-01-24 Munich 1860    Meppen
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League   Home_Team Away_Team                                                                                                            URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2021-01-24 3-liga Saarbrucken    Lubeck https://www.playnow.com/sports/sports/event/10288935/soccer/europe/german-3-liga/1-fc-saarbrucken-v-vfb-lubeck     1.03        14     1.18      4.25     1.67       2.1      2.5
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:      1.47      4.5      1.18        0         0                        NA                           NA NA                NA    NA 2021-01-23 03:07:08
+[1] "Country : [germany], League : [3-liga], Progress : 2 out of 3"
+[1] "Added game"
+         Date   Home_Team Away_Team
+1: 2021-01-24 Saarbrucken    Lubeck
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League Home_Team  Away_Team                                                                                                                           URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-24 3-liga Uerdingen Ingolstadt https://www.playnow.com/sports/sports/event/10288936/soccer/europe/german-3-liga/krefelder-fc-uerdingen-05-v-fc-ingolstadt-04     1.05        11     1.28      3.25      1.9       1.8
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std Kelly         Record_Time
+1:      3.2       1.3     5.75       1.1        0         0      Over 4.5        5.75                            0 1                 0   116 2021-01-23 03:07:26
+[1] "Country : [germany], League : [3-liga], Progress : 3 out of 3"
+[1] "Added game"
+         Date Home_Team  Away_Team
+1: 2021-01-24 Uerdingen Ingolstadt
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : china, super-league - 2021-01-23 03:07:28"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [china], League : [super-league], navigate to the website"
+[1] "Country : [china], League : [super-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j1-league - 2021-01-23 03:07:39"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j1-league], navigate to the website"
+[1] "Country : [japan], League : [j1-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j2-league - 2021-01-23 03:07:51"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j2-league], navigate to the website"
+[1] "Country : [japan], League : [j2-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : turkey, super-lig - 2021-01-23 03:08:02"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [turkey], League : [super-lig], navigate to the website"
+[1] "Country : [turkey], League : [super-lig], get all hyperlinks for games"
+[1] "Country : [turkey], League : [super-lig], game times"
+[1] "Country : [turkey], League : [super-lig], Over_under_score_odds"
+[1] "Country : [turkey], League : [super-lig], extract team names"
+[1] "Country : [turkey], League : [super-lig], 5 new game(s) found to add."
+[1] "Country : [turkey], League : [super-lig], calculate kelly scores"
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League Home_Team   Away_Team                                                                                                                   URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-24 super-lig Konyaspor Antalyaspor https://www.playnow.com/sports/sports/event/10289832/soccer/asia/turkish-super-league/konyaspor-club-v-antalyaspor-as     1.05        11     1.28      3.25      1.9       1.8
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      3.2       1.3     5.75       1.1        0         0      Over 4.5        5.75                    0.1111111 9         0.1047566 103.2222 2021-01-23 03:08:39
+[1] "Country : [turkey], League : [super-lig], Progress : 1 out of 5"
+[1] "Added game"
+         Date Home_Team   Away_Team
+1: 2021-01-24 Konyaspor Antalyaspor
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League   Home_Team  Away_Team                                                                                                                     URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-24 super-lig Denizlispor Karagumruk https://www.playnow.com/sports/sports/event/10289833/soccer/asia/turkish-super-league/denizlispor-v-fatih-karagumruk-sk     1.03        14     1.22       3.9      1.7      2.05
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:      2.7       1.4     4.75      1.15        0         0                        NA                           NA NA                NA    NA 2021-01-23 03:08:58
+[1] "Country : [turkey], League : [super-lig], Progress : 2 out of 5"
+[1] "Added game"
+         Date   Home_Team  Away_Team
+1: 2021-01-24 Denizlispor Karagumruk
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League        Home_Team   Away_Team                                                                                                                     URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5
+1: 2021-01-24 super-lig Yeni Malatyaspor Galatasaray https://www.playnow.com/sports/sports/event/10289659/soccer/asia/turkish-super-league/yeni-malatyaspor-v-galatasaray-sk     1.03        15      1.2         4     1.67
+   Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std   Kelly         Record_Time
+1:      2.05     2.65      1.44     4.75      1.16        0         0      Over 4.5        4.75                            0 3                 0 5.52381 2021-01-23 03:09:16
+[1] "Country : [turkey], League : [super-lig], Progress : 3 out of 5"
+[1] "Added game"
+         Date        Home_Team   Away_Team
+1: 2021-01-24 Yeni Malatyaspor Galatasaray
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League Home_Team Away_Team                                                                                                            URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2021-01-24 super-lig  Besiktas   Goztepe https://www.playnow.com/sports/sports/event/10289834/soccer/asia/turkish-super-league/besiktas-jk-v-goztepe-sk     1.02        18     1.16       4.5     1.53       2.3     2.35
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      1.53        4       1.2        0         0     Under 1.5         4.5                    0.1666667 6         0.1521452 3.884615 2021-01-23 03:09:35
+[1] "Country : [turkey], League : [super-lig], Progress : 4 out of 5"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-24  Besiktas   Goztepe
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League Home_Team Away_Team                                                                                                            URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2021-01-24 super-lig Gaziantep Hatayspor https://www.playnow.com/sports/sports/event/10289835/soccer/asia/turkish-super-league/gaziantep-fk-v-hatayspor     1.04        12     1.22      3.75     1.75      1.95      2.8
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:      1.38        5      1.13        0         0                        NA                           NA NA                NA    NA 2021-01-23 03:09:53
+[1] "Country : [turkey], League : [super-lig], Progress : 5 out of 5"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-24 Gaziantep Hatayspor
+[1] ""
+[1] ""

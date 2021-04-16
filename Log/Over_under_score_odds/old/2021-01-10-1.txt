@@ -1,0 +1,253 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2021-01-10 08:09:35"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2021-01-10 08:09:57"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2021-01-10 08:10:19"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2021-01-10 08:10:36"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : spain, laliga - 2021-01-10 08:10:57"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], get all hyperlinks for games"
+[1] "Country : [spain], League : [laliga], game times"
+[1] "Country : [spain], League : [laliga], Over_under_score_odds"
+[1] "Country : [spain], League : [laliga], extract team names"
+[1] "Country : [spain], League : [laliga], 2 new game(s) found to add."
+[1] "Country : [spain], League : [laliga], calculate kelly scores"
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League Home_Team Away_Team
+1: 2021-01-11 laliga     Elche    Getafe
+                                                                                                       URL Over 0.5
+1: https://www.playnow.com/sports/sports/event/10277151/soccer/europe/spanish-la-liga/elche-cf-v-getafe-cf     1.14
+   Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option
+1:      5.75     1.62       2.2        3      1.36     5.75      1.11       11      1.02        0         0     Under 0.5
+   Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std Kelly         Record_Time
+1:        5.75                            0 2                 0   116 2021-01-10 08:11:39
+[1] "Country : [spain], League : [laliga], Progress : 1 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-11     Elche    Getafe
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League Home_Team Away_Team
+1: 2021-01-11 laliga    Huesca     Betis
+                                                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10277144/soccer/europe/spanish-la-liga/sd-huesca-v-real-betis-balompie
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     1.06         9     1.36         3      2.1       1.7      3.6      1.25        7      1.08        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      Over 3.5         3.6                            0 1                 0 2.636364 2021-01-10 08:12:00
+[1] "Country : [spain], League : [laliga], Progress : 2 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-11    Huesca     Betis
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2021-01-10 08:12:01"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], 1 new game(s) found to add."
+[1] "Country : [italy], League : [serie-a], calculate kelly scores"
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team
+1: 2021-01-11 serie-a    Spezia Sampdoria
+                                                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10278615/soccer/europe/italian-serie-a/spezia-calcio-v-sampdoria-genoa
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     1.04        12     1.25      3.75      1.8      1.95      2.9      1.38     5.25      1.13        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                        NA                           NA NA                NA    NA 2021-01-10 08:12:43
+[1] "Country : [italy], League : [serie-a], Progress : 1 out of 1"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-11    Spezia Sampdoria
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2021-01-10 08:12:44"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], 2 new game(s) found to add."
+[1] "Country : [netherlands], League : [eerste-divisie], calculate kelly scores"
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2021-01-11 eerste-divisie Den Bosch   Jong AZ
+                                                                                                                      URL
+1: https://www.playnow.com/sports/sports/event/10279362/soccer/europe/dutch-eerste-divisie/fc-den-bosch-v-jong-az-alkmaar
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:        0         0     1.13      5.25     1.44       2.6     2.05      1.67      3.4      1.28     5.75       1.1
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std Kelly         Record_Time
+1:      Over 5.5        5.75                            0 2                 0   116 2021-01-10 08:13:18
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 1 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-11 Den Bosch   Jong AZ
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2021-01-11 eerste-divisie Dordrecht  Jong PSV
+                                                                                                                         URL
+1: https://www.playnow.com/sports/sports/event/10279363/soccer/europe/dutch-eerste-divisie/fc-dordrecht-v-jong-psv-eindhoven
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:        0         0     1.12      5.25     1.44       2.6     2.05      1.67      3.4      1.28     5.75      1.11
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std Kelly         Record_Time
+1:      Over 5.5        5.75                            0 5                 0   116 2021-01-10 08:13:36
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 2 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-11 Dordrecht  Jong PSV
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : germany, 3-liga - 2021-01-10 08:13:37"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [germany], League : [3-liga], navigate to the website"
+[1] "Country : [germany], League : [3-liga], get all hyperlinks for games"
+[1] "Country : [germany], League : [3-liga], game times"
+[1] "Country : [germany], League : [3-liga], Over_under_score_odds"
+[1] "Country : [germany], League : [3-liga], extract team names"
+[1] "Country : [germany], League : [3-liga], 1 new game(s) found to add."
+[1] "Country : [germany], League : [3-liga], calculate kelly scores"
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League        Home_Team         Away_Team
+1: 2021-01-11 3-liga Turkgucu Munchen SG Dynamo Dresden
+                                                                                                                     URL
+1: https://www.playnow.com/sports/sports/event/10276836/soccer/europe/german-3-liga/turkgucu-munchen-v-sg-dynamo-dresden
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     1.04        13     1.22      3.75     1.75      1.95      2.8      1.38        5      1.13        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                        NA                           NA NA                NA    NA 2021-01-10 08:14:11
+[1] "Country : [germany], League : [3-liga], Progress : 1 out of 1"
+[1] "Added game"
+         Date        Home_Team         Away_Team
+1: 2021-01-11 Turkgucu Munchen SG Dynamo Dresden
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : china, super-league - 2021-01-10 08:14:12"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [china], League : [super-league], navigate to the website"
+[1] "Country : [china], League : [super-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j1-league - 2021-01-10 08:14:24"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j1-league], navigate to the website"
+[1] "Country : [japan], League : [j1-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j2-league - 2021-01-10 08:14:36"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j2-league], navigate to the website"
+[1] "Country : [japan], League : [j2-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : turkey, super-lig - 2021-01-10 08:14:47"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [turkey], League : [super-lig], navigate to the website"
+[1] "Country : [turkey], League : [super-lig], get all hyperlinks for games"
+[1] "Country : [turkey], League : [super-lig], game times"
+[1] "Country : [turkey], League : [super-lig], Over_under_score_odds"
+[1] "Country : [turkey], League : [super-lig], extract team names"
+[1] "Country : [turkey], League : [super-lig], 2 new game(s) found to add."
+[1] "Country : [turkey], League : [super-lig], calculate kelly scores"
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League  Home_Team  Away_Team
+1: 2021-01-11 super-lig Erzurum BB Fenerbahce
+                                                                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10280415/soccer/asia/turkish-super-league/buyuksehir-belediye-erzurumspor-v-fenerbahce
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:     1.02        18     1.16       4.5     1.57       2.3     2.35      1.53        4       1.2        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      Over 4.5           4                            0 1                 0 3.222222 2021-01-10 08:15:23
+[1] "Country : [turkey], League : [super-lig], Progress : 1 out of 2"
+[1] "Added game"
+         Date  Home_Team  Away_Team
+1: 2021-01-11 Erzurum BB Fenerbahce
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League  Home_Team Away_Team
+1: 2021-01-11 super-lig Alanyaspor Kasimpasa
+                                                                                                            URL Over 0.5
+1: https://www.playnow.com/sports/sports/event/10280012/soccer/asia/turkish-super-league/alanyaspor-v-kasimpasa     1.03
+   Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option
+1:        16     1.18      4.25     1.62      2.15      2.5      1.47     4.25      1.18        0         0     Under 1.5
+   Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:        4.25                            0 4                 0 3.741935 2021-01-10 08:15:41
+[1] "Country : [turkey], League : [super-lig], Progress : 2 out of 2"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2021-01-11 Alanyaspor Kasimpasa
+[1] ""
+[1] ""

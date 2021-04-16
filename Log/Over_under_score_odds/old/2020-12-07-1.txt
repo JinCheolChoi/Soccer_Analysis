@@ -1,0 +1,215 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-12-07 11:42:36"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-12-07 11:42:56"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], 3 new game(s) found to add."
+[1] "Country : [england], League : [championship], calculate kelly scores"
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League Home_Team Away_Team                                                                                                                        URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2020-12-08 championship  Coventry     Luton https://www.playnow.com/sports/sports/event/10258570/soccer/united-kingdom/english-championship/coventry-city-v-luton-town     1.07         9     1.36       2.9     2.15      1.62
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:     3.75      1.22        7      1.07        0         0      Over 3.5        3.75                            0 2                 0 2.829268 2020-12-07 11:43:43
+[1] "Country : [england], League : [championship], Progress : 1 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-08  Coventry     Luton
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League    Home_Team     Away_Team                                                                                                                                     URL Over 0.5 Under 0.5 Over 1.5
+1: 2020-12-08 championship Huddersfield Sheffield Wed https://www.playnow.com/sports/sports/event/10258565/soccer/united-kingdom/english-championship/huddersfield-town-v-sheffield-wednesday     1.07       8.5     1.38
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:       2.8      2.2       1.6      3.9      1.22        7      1.06        0         0      Over 3.5         3.9                            0 7                 0 3.052632 2020-12-07 11:44:09
+[1] "Country : [england], League : [championship], Progress : 2 out of 3"
+[1] "Added game"
+         Date    Home_Team     Away_Team
+1: 2020-12-08 Huddersfield Sheffield Wed
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League Home_Team Away_Team                                                                                                                               URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5
+1: 2020-12-08 championship  Millwall       QPR https://www.playnow.com/sports/sports/event/10258564/soccer/united-kingdom/english-championship/millwall-fc-v-queens-park-rangers     1.06        10     1.33         3     2.05
+   Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:       1.7      3.5      1.25      6.5      1.08        0         0      Over 3.5         3.5                    0.1428571 7           0.13226 2.304348 2020-12-07 11:44:27
+[1] "Country : [england], League : [championship], Progress : 3 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-08  Millwall       QPR
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2020-12-07 11:44:29"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2020-12-07 11:45:06"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], 2 new game(s) found to add."
+[1] "Country : [england], League : [league-two], calculate kelly scores"
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team                                                                                                                           URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5
+1: 2020-12-08 league-two   Grimsby   Newport https://www.playnow.com/sports/sports/event/10260234/soccer/united-kingdom/english-league-2/grimsby-town-v-newport-county-afc     1.05        10      1.3       3.2     1.95
+   Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std  Kelly         Record_Time
+1:      1.75      3.4      1.28        6      1.09        0         0      Over 3.5         3.4                         0.25 4         0.2165064 2.0625 2020-12-07 11:45:40
+[1] "Country : [england], League : [league-two], Progress : 1 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-08   Grimsby   Newport
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League  Home_Team  Away_Team                                                                                                                               URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5
+1: 2020-12-08 league-two Scunthorpe Colchester https://www.playnow.com/sports/sports/event/10260235/soccer/united-kingdom/english-league-2/scunthorpe-united-v-colchester-united     1.06        10     1.33         3        2
+   Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:       1.7      3.4      1.28      6.5      1.08        0         0     Under 1.5           3                            0 1                 0 2.071429 2020-12-07 11:45:58
+[1] "Country : [england], League : [league-two], Progress : 2 out of 2"
+[1] "Added game"
+         Date  Home_Team  Away_Team
+1: 2020-12-08 Scunthorpe Colchester
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : spain, laliga - 2020-12-07 11:46:00"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], get all hyperlinks for games"
+[1] "Country : [spain], League : [laliga], game times"
+[1] "Country : [spain], League : [laliga], Over_under_score_odds"
+[1] "Country : [spain], League : [laliga], extract team names"
+[1] "Country : [spain], League : [laliga], 0 new game(s) found to add."
+[1] "Country : [spain], League : [laliga], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2020-12-07 11:46:21"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2020-12-07 11:46:42"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], 0 new game(s) found to add."
+[1] "Country : [netherlands], League : [eerste-divisie], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : germany, 3-liga - 2020-12-07 11:47:08"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [germany], League : [3-liga], navigate to the website"
+[1] "Country : [germany], League : [3-liga], get all hyperlinks for games"
+[1] "Country : [germany], League : [3-liga], game times"
+[1] "Country : [germany], League : [3-liga], Over_under_score_odds"
+[1] "Country : [germany], League : [3-liga], extract team names"
+[1] "Country : [germany], League : [3-liga], 1 new game(s) found to add."
+[1] "Country : [germany], League : [3-liga], calculate kelly scores"
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League Home_Team Away_Team                                                                                                                      URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2020-12-08 3-liga    Meppen  Mannheim https://www.playnow.com/sports/sports/event/10258414/soccer/europe/german-3-liga/sv-meppen-1912-v-sv-waldhof-mannheim-07     1.03        14     1.22       3.9      1.7      2.05
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std   Kelly         Record_Time
+1:      2.7       1.4     4.75      1.15        0         0      Over 4.5        4.75                            0 1                 0 5.52381 2020-12-07 11:47:41
+[1] "Country : [germany], League : [3-liga], Progress : 1 out of 1"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-08    Meppen  Mannheim
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : china, super-league - 2020-12-07 11:47:42"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [china], League : [super-league], navigate to the website"
+[1] "Country : [china], League : [super-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j1-league - 2020-12-07 11:47:54"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j1-league], navigate to the website"
+[1] "Country : [japan], League : [j1-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j1-league], game times"
+[1] "Country : [japan], League : [j1-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j1-league], extract team names"
+[1] "Country : [japan], League : [j1-league], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j2-league - 2020-12-07 11:48:14"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j2-league], navigate to the website"
+[1] "Country : [japan], League : [j2-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j2-league], game times"
+[1] "Country : [japan], League : [j2-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j2-league], extract team names"
+[1] "Country : [japan], League : [j2-league], 1 new game(s) found to add."
+[1] "Country : [japan], League : [j2-league], calculate kelly scores"
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League Home_Team Away_Team                                                                                                            URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2020-12-08 j2-league     Ehime      Kofu https://www.playnow.com/sports/sports/event/10260637/soccer/asia/japanese-j-league-2/ehime-fc-v-ventforet-kofu     1.06        10      1.3       3.2        2      1.75      3.4
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      1.28      6.5      1.09        0         0      Over 3.5         3.4                            0 7                 0 2.416667 2020-12-07 11:48:52
+[1] "Country : [japan], League : [j2-league], Progress : 1 out of 1"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-08     Ehime      Kofu
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : turkey, super-lig - 2020-12-07 11:48:53"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [turkey], League : [super-lig], navigate to the website"
+[1] "Country : [turkey], League : [super-lig], get all hyperlinks for games"
+[1] "Country : [turkey], League : [super-lig], game times"
+[1] "Country : [turkey], League : [super-lig], Over_under_score_odds"
+[1] "Country : [turkey], League : [super-lig], extract team names"
+[1] "Country : [turkey], League : [super-lig], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""

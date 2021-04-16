@@ -1,234 +1,307 @@
 Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-Today,2020,G-Osaka,Sapporo,2,1
-Today,2020,Kashima,Nagoya,0,2
-Today,2020,Kashiwa,Shimizu,0,0
-Today,2020,Kawasaki Frontale,FC Tokyo,2,1
-Today,2020,Oita,Urawa,0,0
-Today,2020,Shonan,Yokohama,1,0
-Today,2020,Vegalta Sendai,Hiroshima,0,0
-28.10.,2020,Hiroshima,Yokohama M.,3,1
-28.10.,2020,FC Tokyo,Kashiwa,1,3
-28.10.,2020,Vegalta Sendai,Kobe,2,3
-25.10.,2020,Sagan Tosu,Shonan,2,2
-24.10.,2020,FC Tokyo,Yokohama M.,0,4
-24.10.,2020,G-Osaka,Kashiwa,2,1
-24.10.,2020,Kashima,Hiroshima,1,0
-24.10.,2020,Nagoya,Vegalta Sendai,1,0
-24.10.,2020,Sapporo,Yokohama,3,0
-24.10.,2020,Urawa,C-Osaka,3,1
-21.10.,2020,Kobe,Kashima,1,3
-21.10.,2020,Yokohama M.,Nagoya,2,1
-21.10.,2020,Shonan,Sagan Tosu,0,0
-18.10.,2020,Hiroshima,Kobe,2,1
-18.10.,2020,Kawasaki Frontale,Nagoya,3,0
-18.10.,2020,Oita,G-Osaka,0,1
-18.10.,2020,Sapporo,Kashima,1,0
-18.10.,2020,Shimizu,Sagan Tosu,1,1
-18.10.,2020,Shonan,Kashiwa,3,2
-18.10.,2020,Urawa,Vegalta Sendai,6,0
-18.10.,2020,Yokohama,FC Tokyo,1,0
-17.10.,2020,C-Osaka,Yokohama M.,4,1
-14.10.,2020,C-Osaka,Shonan,1,0
-14.10.,2020,FC Tokyo,Shimizu,3,1
-14.10.,2020,G-Osaka,Yokohama M.,1,1
-14.10.,2020,Hiroshima,Kawasaki Frontale,0,2
-14.10.,2020,Kashiwa,Urawa,1,1
-14.10.,2020,Kobe,Oita,1,1
-14.10.,2020,Nagoya,Sapporo,3,0
-14.10.,2020,Sagan Tosu,Kashima,0,2
-14.10.,2020,Vegalta Sendai,Yokohama,0,0
-10.10.,2020,FC Tokyo,G-Osaka,0,1
-10.10.,2020,Kashima,Yokohama,3,2
-10.10.,2020,Kashiwa,Kobe,4,3
-10.10.,2020,Kawasaki Frontale,Vegalta Sendai,1,0
-10.10.,2020,Nagoya,C-Osaka,1,0
-10.10.,2020,Sagan Tosu,Urawa,0,1
-10.10.,2020,Sapporo,Shonan,2,1
-10.10.,2020,Shimizu,Hiroshima,2,3
-10.10.,2020,Yokohama M.,Oita,4,0
-07.10.,2020,Sagan Tosu,G-Osaka,1,2
-04.10.,2020,Shonan,FC Tokyo,0,1
-04.10.,2020,Urawa,Nagoya,0,1
-04.10.,2020,Yokohama M.,Kobe,2,3
-03.10.,2020,C-Osaka,Kawasaki Frontale,1,3
-03.10.,2020,G-Osaka,Kashima,2,0
-03.10.,2020,Hiroshima,Sagan Tosu,3,0
-03.10.,2020,Oita,Shimizu,2,1
-03.10.,2020,Sapporo,Vegalta Sendai,3,3
-03.10.,2020,Yokohama,Kashiwa,0,3
-30.09.,2020,Kobe,Nagoya,1,0
-30.09.,2020,Urawa,FC Tokyo,0,1
-30.09.,2020,Yokohama M.,Sagan Tosu,1,1
-27.09.,2020,Hiroshima,G-Osaka,1,2
-27.09.,2020,Kashima,Oita,0,2
-27.09.,2020,Kashiwa,Yokohama M.,1,3
-27.09.,2020,Sagan Tosu,FC Tokyo,3,0
-27.09.,2020,Shonan,Kawasaki Frontale,0,1
-27.09.,2020,Vegalta Sendai,C-Osaka,2,3
-26.09.,2020,Kobe,Sapporo,4,0
-26.09.,2020,Nagoya,Shimizu,3,1
-26.09.,2020,Urawa,Yokohama,0,2
-23.09.,2020,FC Tokyo,C-Osaka,2,0
-23.09.,2020,G-Osaka,Nagoya,2,1
-23.09.,2020,Kashima,Shonan,1,0
-23.09.,2020,Kawasaki Frontale,Yokohama,3,2
-23.09.,2020,Kobe,Sagan Tosu,4,3
-23.09.,2020,Oita,Hiroshima,0,2
-23.09.,2020,Sapporo,Kashiwa,0,1
-23.09.,2020,Shimizu,Urawa,1,2
-23.09.,2020,Yokohama M.,Vegalta Sendai,3,1
-20.09.,2020,FC Tokyo,Vegalta Sendai,1,0
-20.09.,2020,Oita,Yokohama,1,0
-20.09.,2020,Urawa,Kawasaki Frontale,0,3
-19.09.,2020,C-Osaka,Kashima,1,2
-19.09.,2020,Kashiwa,Hiroshima,1,1
-19.09.,2020,Nagoya,Kobe,2,1
-19.09.,2020,Sagan Tosu,Yokohama M.,1,3
-19.09.,2020,Sapporo,G-Osaka,0,1
-19.09.,2020,Shonan,Shimizu,0,3
-16.09.,2020,Kobe,C-Osaka,0,1
-16.09.,2020,FC Tokyo,Oita,2,3
-16.09.,2020,Yokohama M.,Shimizu,3,0
-16.09.,2020,Sagan Tosu,Sapporo,0,2
-13.09.,2020,G-Osaka,Shonan,0,1
-13.09.,2020,Kawasaki Frontale,Hiroshima,5,1
-13.09.,2020,Sagan Tosu,Kashiwa,2,1
-13.09.,2020,Sapporo,Urawa,3,4
-13.09.,2020,Vegalta Sendai,Oita,0,3
-13.09.,2020,Yokohama,Nagoya,3,2
-13.09.,2020,Yokohama M.,C-Osaka,1,2
-12.09.,2020,Kobe,FC Tokyo,2,2
-12.09.,2020,Shimizu,Kashima,1,2
-09.09.,2020,C-Osaka,Sapporo,2,0
-09.09.,2020,FC Tokyo,Yokohama,2,1
-09.09.,2020,Hiroshima,Shimizu,4,1
-09.09.,2020,Kashima,Vegalta Sendai,2,1
-09.09.,2020,Kashiwa,G-Osaka,3,0
-09.09.,2020,Kawasaki Frontale,Kobe,3,2
-09.09.,2020,Nagoya,Yokohama M.,2,1
-09.09.,2020,Oita,Shonan,2,2
-09.09.,2020,Urawa,Sagan Tosu,2,2
-05.09.,2020,C-Osaka,Urawa,3,0
-05.09.,2020,Nagoya,Kashima,1,3
-05.09.,2020,Oita,FC Tokyo,0,1
-05.09.,2020,Sagan Tosu,Yokohama,3,0
-05.09.,2020,Sapporo,Hiroshima,0,2
-05.09.,2020,Shimizu,Kashiwa,1,2
-05.09.,2020,Shonan,Kobe,1,1
-05.09.,2020,Vegalta Sendai,G-Osaka,1,4
-05.09.,2020,Yokohama M.,Kawasaki Frontale,1,3
-30.08.,2020,Yokohama,C-Osaka,1,2
-29.08.,2020,G-Osaka,FC Tokyo,1,3
-29.08.,2020,Hiroshima,Vegalta Sendai,1,1
-29.08.,2020,Kashiwa,Kashima,2,3
-29.08.,2020,Kawasaki Frontale,Shimizu,5,0
-29.08.,2020,Kobe,Yokohama M.,3,3
-29.08.,2020,Sapporo,Nagoya,0,0
-29.08.,2020,Urawa,Oita,2,1
-26.08.,2020,Yokohama M.,Sapporo,4,1
-26.08.,2020,FC Tokyo,Kashima,1,2
-26.08.,2020,Kobe,Kawasaki Frontale,2,2
-23.08.,2020,C-Osaka,Vegalta Sendai,2,1
-23.08.,2020,FC Tokyo,Shonan,3,0
-23.08.,2020,Kashima,G-Osaka,1,1
-23.08.,2020,Nagoya,Kawasaki Frontale,1,0
-23.08.,2020,Oita,Kashiwa,0,0
-23.08.,2020,Urawa,Kobe,1,2
-23.08.,2020,Yokohama M.,Hiroshima,3,1
-22.08.,2020,Shimizu,Yokohama,2,3
-19.08.,2020,G-Osaka,Urawa,1,3
-19.08.,2020,Hiroshima,FC Tokyo,3,3
-19.08.,2020,Kawasaki Frontale,C-Osaka,5,2
-19.08.,2020,Kobe,Kashiwa,2,3
-19.08.,2020,Sapporo,Oita,1,1
-19.08.,2020,Shimizu,Yokohama M.,3,4
-19.08.,2020,Shonan,Nagoya,0,1
-19.08.,2020,Yokohama,Kashima,1,0
-16.08.,2020,Kashima,Kobe,2,2
-15.08.,2020,FC Tokyo,Nagoya,1,0
-15.08.,2020,Kashiwa,C-Osaka,1,3
-15.08.,2020,Oita,Yokohama M.,1,0
-15.08.,2020,Sapporo,Kawasaki Frontale,1,6
-15.08.,2020,Urawa,Hiroshima,1,0
-15.08.,2020,Vegalta Sendai,Shimizu,0,0
-15.08.,2020,Yokohama,Shonan,4,2
-09.08.,2020,C-Osaka,FC Tokyo,0,0
-09.08.,2020,Hiroshima,Shonan,1,0
-08.08.,2020,G-Osaka,Yokohama,2,1
-08.08.,2020,Kashima,Sagan Tosu,2,0
-08.08.,2020,Kawasaki Frontale,Oita,2,0
-08.08.,2020,Kobe,Vegalta Sendai,1,2
-08.08.,2020,Nagoya,Urawa,6,2
-08.08.,2020,Shimizu,Sapporo,3,1
-08.08.,2020,Yokohama M.,Kashiwa,1,1
-02.08.,2020,Sapporo,Kobe,2,3
-01.08.,2020,FC Tokyo,Sagan Tosu,2,3
-01.08.,2020,G-Osaka,Kawasaki Frontale,0,1
-01.08.,2020,Nagoya,Kashiwa,0,1
-01.08.,2020,Oita,Kashima,1,4
-01.08.,2020,Shonan,C-Osaka,0,1
-01.08.,2020,Urawa,Shimizu,1,1
-01.08.,2020,Vegalta Sendai,Yokohama M.,0,1
-01.08.,2020,Yokohama,Hiroshima,0,2
-26.07.,2020,Kashima,FC Tokyo,2,2
-26.07.,2020,Kashiwa,Vegalta Sendai,5,1
-26.07.,2020,Kawasaki Frontale,Shonan,3,1
-26.07.,2020,Kobe,G-Osaka,0,2
-26.07.,2020,Sagan Tosu,C-Osaka,1,1
-26.07.,2020,Sapporo,Yokohama M.,3,1
-26.07.,2020,Shimizu,Oita,4,2
-26.07.,2020,Yokohama,Urawa,0,2
-22.07.,2020,C-Osaka,Kobe,0,0
-22.07.,2020,G-Osaka,Hiroshima,1,0
-22.07.,2020,Oita,Nagoya,0,3
-22.07.,2020,Sagan Tosu,Shimizu,1,1
-22.07.,2020,Sapporo,FC Tokyo,1,1
-22.07.,2020,Shonan,Kashima,1,0
-22.07.,2020,Urawa,Kashiwa,0,4
-22.07.,2020,Vegalta Sendai,Kawasaki Frontale,2,3
-22.07.,2020,Yokohama M.,Yokohama,4,0
-18.07.,2020,FC Tokyo,Urawa,2,0
-18.07.,2020,G-Osaka,Oita,2,1
-18.07.,2020,Hiroshima,C-Osaka,1,2
-18.07.,2020,Kashima,Yokohama M.,4,2
-18.07.,2020,Kashiwa,Shonan,3,2
-18.07.,2020,Kobe,Shimizu,3,1
-18.07.,2020,Nagoya,Sagan Tosu,1,0
-18.07.,2020,Vegalta Sendai,Sapporo,2,2
-18.07.,2020,Yokohama,Kawasaki Frontale,1,5
-12.07.,2020,C-Osaka,Nagoya,0,2
-12.07.,2020,Sagan Tosu,Hiroshima,0,0
-12.07.,2020,Shimizu,G-Osaka,1,2
-12.07.,2020,Shonan,Sapporo,0,0
-12.07.,2020,Urawa,Kashima,1,0
-12.07.,2020,Yokohama,Vegalta Sendai,1,1
-12.07.,2020,Yokohama M.,FC Tokyo,1,3
-11.07.,2020,Kawasaki Frontale,Kashiwa,3,1
-11.07.,2020,Oita,Kobe,1,1
-08.07.,2020,C-Osaka,Shimizu,2,0
-08.07.,2020,FC Tokyo,Kawasaki Frontale,0,4
-08.07.,2020,Hiroshima,Oita,1,2
-08.07.,2020,Kashima,Sapporo,0,2
-08.07.,2020,Kashiwa,Yokohama,1,3
-08.07.,2020,Nagoya,G-Osaka,2,2
-08.07.,2020,Sagan Tosu,Kobe,0,1
-08.07.,2020,Vegalta Sendai,Urawa,1,2
-08.07.,2020,Yokohama M.,Shonan,3,2
-04.07.,2020,G-Osaka,C-Osaka,1,2
-04.07.,2020,Kashiwa,FC Tokyo,0,1
-04.07.,2020,Kawasaki Frontale,Kashima,2,1
-04.07.,2020,Kobe,Hiroshima,0,3
-04.07.,2020,Oita,Sagan Tosu,2,0
-04.07.,2020,Shimizu,Nagoya,1,2
-04.07.,2020,Shonan,Vegalta Sendai,0,1
-04.07.,2020,Urawa,Yokohama M.,0,0
-04.07.,2020,Yokohama,Sapporo,1,2
-23.02.,2020,Hiroshima,Kashima,3,0
-23.02.,2020,Kobe,Yokohama,1,1
-23.02.,2020,Shimizu,FC Tokyo,1,3
-23.02.,2020,Yokohama M.,G-Osaka,1,2
-22.02.,2020,C-Osaka,Oita,1,0
-22.02.,2020,Kashiwa,Sapporo,4,2
-22.02.,2020,Kawasaki Frontale,Sagan Tosu,0,0
-22.02.,2020,Vegalta Sendai,Nagoya,1,1
-21.02.,2020,Shonan,Urawa,2,3
+19.12.2020,2020,FC Tokyo,Vissel Kobe,1,0
+19.12.2020,2020,Gamba Osaka,Shimizu S-Pulse,0,2
+19.12.2020,2020,Kashima Antlers,Cerezo Osaka,1,1
+19.12.2020,2020,Kashiwa Reysol,Kawasaki Frontale,2,3
+19.12.2020,2020,Nagoya Grampus,Sanfrecce Hiroshima,1,0
+19.12.2020,2020,Sagan Tosu,Oita Trinita,2,2
+19.12.2020,2020,Urawa Reds,Hokkaido Consadole Sapporo,0,2
+19.12.2020,2020,Vegalta Sendai,Shonan Bellmare,0,0
+19.12.2020,2020,Yokohama FC,Yokohama F. Marinos,3,1
+16.12.2020,2020,Cerezo Osaka,Sagan Tosu,1,2
+16.12.2020,2020,Kawasaki Frontale,Urawa Reds,3,1
+16.12.2020,2020,Sanfrecce Hiroshima,Kashiwa Reysol,0,1
+16.12.2020,2020,Shimizu S-Pulse,Vegalta Sendai,2,3
+16.12.2020,2020,Shonan Bellmare,Oita Trinita,1,2
+16.12.2020,2020,Yokohama FC,Gamba Osaka,0,2
+12.12.2020,2020,Cerezo Osaka,Kashiwa Reysol,0,0
+12.12.2020,2020,Kashima Antlers,Shimizu S-Pulse,2,0
+12.12.2020,2020,Nagoya Grampus,Yokohama FC,0,0
+12.12.2020,2020,Oita Trinita,Hokkaido Consadole Sapporo,1,1
+12.12.2020,2020,Sagan Tosu,Kawasaki Frontale,1,1
+12.12.2020,2020,Urawa Reds,Shonan Bellmare,0,0
+12.12.2020,2020,FC Tokyo,Sanfrecce Hiroshima,1,0
+09.12.2020,2020,Kashiwa Reysol,Oita Trinita,1,1
+06.12.2020,2020,Oita Trinita,Vegalta Sendai,0,2
+06.12.2020,2020,Shonan Bellmare,Gamba Osaka,1,2
+05.12.2020,2020,Hokkaido Consadole Sapporo,Cerezo Osaka,1,3
+05.12.2020,2020,Kashiwa Reysol,Nagoya Grampus,0,1
+05.12.2020,2020,Shimizu S-Pulse,Kawasaki Frontale,2,2
+05.12.2020,2020,Yokohama FC,Sagan Tosu,1,1
+01.12.2020,2020,Vegalta Sendai,Kashiwa Reysol,0,2
+29.11.2020,2020,Cerezo Osaka,Yokohama FC,1,0
+29.11.2020,2020,Gamba Osaka,Sagan Tosu,1,1
+29.11.2020,2020,Kashima Antlers,Urawa Reds,4,0
+29.11.2020,2020,Shimizu S-Pulse,Shonan Bellmare,1,1
+28.11.2020,2020,Nagoya Grampus,Oita Trinita,0,0
+28.11.2020,2020,Sanfrecce Hiroshima,Hokkaido Consadole Sapporo,2,2
+25.11.2020,2020,Kashima Antlers,Kashiwa Reysol,1,4
+25.11.2020,2020,Kawasaki Frontale,Gamba Osaka,5,0
+25.11.2020,2020,Oita Trinita,Cerezo Osaka,0,1
+25.11.2020,2020,Sagan Tosu,Vegalta Sendai,0,1
+25.11.2020,2020,Shonan Bellmare,Sanfrecce Hiroshima,1,1
+25.11.2020,2020,Yokohama FC,Shimizu S-Pulse,1,3
+22.11.2020,2020,Urawa Reds,Gamba Osaka,1,2
+21.11.2020,2020,Cerezo Osaka,Sanfrecce Hiroshima,0,1
+21.11.2020,2020,Hokkaido Consadole Sapporo,Shimizu S-Pulse,5,1
+21.11.2020,2020,Kashiwa Reysol,Sagan Tosu,1,2
+21.11.2020,2020,Nagoya Grampus,Shonan Bellmare,3,1
+21.11.2020,2020,Oita Trinita,Kawasaki Frontale,1,0
+21.11.2020,2020,Vegalta Sendai,Kashima Antlers,1,3
+18.11.2020,2020,Vegalta Sendai,FC Tokyo,2,2
+18.11.2020,2020,Vissel Kobe,Urawa Reds,0,1
+18.11.2020,2020,Kawasaki Frontale,Yokohama F. Marinos,3,1
+15.11.2020,2020,Nagoya Grampus,FC Tokyo,1,0
+15.11.2020,2020,Vissel Kobe,Shonan Bellmare,0,2
+14.11.2020,2020,Gamba Osaka,Vegalta Sendai,0,4
+14.11.2020,2020,Hokkaido Consadole Sapporo,Sagan Tosu,1,1
+14.11.2020,2020,Kashima Antlers,Kawasaki Frontale,1,1
+14.11.2020,2020,Sanfrecce Hiroshima,Yokohama FC,1,1
+14.11.2020,2020,Shimizu S-Pulse,Cerezo Osaka,3,1
+14.11.2020,2020,Yokohama F. Marinos,Urawa Reds,6,2
+11.11.2020,2020,FC Tokyo,Hokkaido Consadole Sapporo,1,0
+11.11.2020,2020,Gamba Osaka,Vissel Kobe,1,0
+11.11.2020,2020,Shonan Bellmare,Yokohama F. Marinos,1,0
+11.11.2020,2020,Sanfrecce Hiroshima,Nagoya Grampus,2,0
+08.11.2020,2020,Yokohama FC,Vissel Kobe,2,1
+08.11.2020,2020,Vegalta Sendai,Sagan Tosu,0,3
+03.11.2020,2020,Yokohama F. Marinos,Kashima Antlers,2,3
+03.11.2020,2020,Cerezo Osaka,Gamba Osaka,1,1
+03.11.2020,2020,Kawasaki Frontale,Hokkaido Consadole Sapporo,0,2
+03.11.2020,2020,Sagan Tosu,Nagoya Grampus,0,0
+03.11.2020,2020,Sanfrecce Hiroshima,Urawa Reds,1,1
+03.11.2020,2020,Shimizu S-Pulse,Vissel Kobe,3,1
+03.11.2020,2020,Yokohama FC,Oita Trinita,2,3
+31.10.2020,2020,Gamba Osaka,Hokkaido Consadole Sapporo,2,1
+31.10.2020,2020,Kashima Antlers,Nagoya Grampus,0,2
+31.10.2020,2020,Kashiwa Reysol,Shimizu S-Pulse,0,0
+31.10.2020,2020,Kawasaki Frontale,FC Tokyo,2,1
+31.10.2020,2020,Oita Trinita,Urawa Reds,0,0
+31.10.2020,2020,Shonan Bellmare,Yokohama FC,1,0
+31.10.2020,2020,Vegalta Sendai,Sanfrecce Hiroshima,0,0
+28.10.2020,2020,Sanfrecce Hiroshima,Yokohama F. Marinos,3,1
+28.10.2020,2020,FC Tokyo,Kashiwa Reysol,1,3
+28.10.2020,2020,Vegalta Sendai,Vissel Kobe,2,3
+25.10.2020,2020,Sagan Tosu,Shonan Bellmare,2,2
+24.10.2020,2020,FC Tokyo,Yokohama F. Marinos,0,4
+24.10.2020,2020,Gamba Osaka,Kashiwa Reysol,2,1
+24.10.2020,2020,Hokkaido Consadole Sapporo,Yokohama FC,3,0
+24.10.2020,2020,Kashima Antlers,Sanfrecce Hiroshima,1,0
+24.10.2020,2020,Nagoya Grampus,Vegalta Sendai,1,0
+24.10.2020,2020,Urawa Reds,Cerezo Osaka,3,1
+21.10.2020,2020,Vissel Kobe,Kashima Antlers,1,3
+21.10.2020,2020,Yokohama F. Marinos,Nagoya Grampus,2,1
+21.10.2020,2020,Shonan Bellmare,Sagan Tosu,0,0
+18.10.2020,2020,Hokkaido Consadole Sapporo,Kashima Antlers,1,0
+18.10.2020,2020,Kawasaki Frontale,Nagoya Grampus,3,0
+18.10.2020,2020,Oita Trinita,Gamba Osaka,0,1
+18.10.2020,2020,Sanfrecce Hiroshima,Vissel Kobe,2,1
+18.10.2020,2020,Shimizu S-Pulse,Sagan Tosu,1,1
+18.10.2020,2020,Shonan Bellmare,Kashiwa Reysol,3,2
+18.10.2020,2020,Urawa Reds,Vegalta Sendai,6,0
+18.10.2020,2020,Yokohama FC,FC Tokyo,1,0
+17.10.2020,2020,Cerezo Osaka,Yokohama F. Marinos,4,1
+14.10.2020,2020,Cerezo Osaka,Shonan Bellmare,1,0
+14.10.2020,2020,FC Tokyo,Shimizu S-Pulse,3,1
+14.10.2020,2020,Gamba Osaka,Yokohama F. Marinos,1,1
+14.10.2020,2020,Kashiwa Reysol,Urawa Reds,1,1
+14.10.2020,2020,Nagoya Grampus,Hokkaido Consadole Sapporo,3,0
+14.10.2020,2020,Sagan Tosu,Kashima Antlers,0,2
+14.10.2020,2020,Sanfrecce Hiroshima,Kawasaki Frontale,0,2
+14.10.2020,2020,Vegalta Sendai,Yokohama FC,0,0
+14.10.2020,2020,Vissel Kobe,Oita Trinita,1,1
+10.10.2020,2020,FC Tokyo,Gamba Osaka,0,1
+10.10.2020,2020,Hokkaido Consadole Sapporo,Shonan Bellmare,2,1
+10.10.2020,2020,Kashima Antlers,Yokohama FC,3,2
+10.10.2020,2020,Kashiwa Reysol,Vissel Kobe,4,3
+10.10.2020,2020,Kawasaki Frontale,Vegalta Sendai,1,0
+10.10.2020,2020,Nagoya Grampus,Cerezo Osaka,1,0
+10.10.2020,2020,Sagan Tosu,Urawa Reds,0,1
+10.10.2020,2020,Shimizu S-Pulse,Sanfrecce Hiroshima,2,3
+10.10.2020,2020,Yokohama F. Marinos,Oita Trinita,4,0
+07.10.2020,2020,Sagan Tosu,Gamba Osaka,1,2
+04.10.2020,2020,Shonan Bellmare,FC Tokyo,0,1
+04.10.2020,2020,Urawa Reds,Nagoya Grampus,0,1
+04.10.2020,2020,Yokohama F. Marinos,Vissel Kobe,2,3
+03.10.2020,2020,Cerezo Osaka,Kawasaki Frontale,1,3
+03.10.2020,2020,Gamba Osaka,Kashima Antlers,2,0
+03.10.2020,2020,Hokkaido Consadole Sapporo,Vegalta Sendai,3,3
+03.10.2020,2020,Oita Trinita,Shimizu S-Pulse,2,1
+03.10.2020,2020,Sanfrecce Hiroshima,Sagan Tosu,3,0
+03.10.2020,2020,Yokohama FC,Kashiwa Reysol,0,3
+30.09.2020,2020,Urawa Reds,FC Tokyo,0,1
+30.09.2020,2020,Vissel Kobe,Nagoya Grampus,1,0
+30.09.2020,2020,Yokohama F. Marinos,Sagan Tosu,1,1
+27.09.2020,2020,Kashima Antlers,Oita Trinita,0,2
+27.09.2020,2020,Kashiwa Reysol,Yokohama F. Marinos,1,3
+27.09.2020,2020,Sagan Tosu,FC Tokyo,3,0
+27.09.2020,2020,Sanfrecce Hiroshima,Gamba Osaka,1,2
+27.09.2020,2020,Shonan Bellmare,Kawasaki Frontale,0,1
+27.09.2020,2020,Vegalta Sendai,Cerezo Osaka,2,3
+26.09.2020,2020,Nagoya Grampus,Shimizu S-Pulse,3,1
+26.09.2020,2020,Urawa Reds,Yokohama FC,0,2
+26.09.2020,2020,Vissel Kobe,Hokkaido Consadole Sapporo,4,0
+23.09.2020,2020,FC Tokyo,Cerezo Osaka,2,0
+23.09.2020,2020,Gamba Osaka,Nagoya Grampus,2,1
+23.09.2020,2020,Hokkaido Consadole Sapporo,Kashiwa Reysol,0,1
+23.09.2020,2020,Kashima Antlers,Shonan Bellmare,1,0
+23.09.2020,2020,Kawasaki Frontale,Yokohama FC,3,2
+23.09.2020,2020,Oita Trinita,Sanfrecce Hiroshima,0,2
+23.09.2020,2020,Shimizu S-Pulse,Urawa Reds,1,2
+23.09.2020,2020,Vissel Kobe,Sagan Tosu,4,3
+23.09.2020,2020,Yokohama F. Marinos,Vegalta Sendai,3,1
+20.09.2020,2020,FC Tokyo,Vegalta Sendai,1,0
+20.09.2020,2020,Oita Trinita,Yokohama FC,1,0
+20.09.2020,2020,Urawa Reds,Kawasaki Frontale,0,3
+19.09.2020,2020,Cerezo Osaka,Kashima Antlers,1,2
+19.09.2020,2020,Hokkaido Consadole Sapporo,Gamba Osaka,0,1
+19.09.2020,2020,Kashiwa Reysol,Sanfrecce Hiroshima,1,1
+19.09.2020,2020,Nagoya Grampus,Vissel Kobe,2,1
+19.09.2020,2020,Sagan Tosu,Yokohama F. Marinos,1,3
+19.09.2020,2020,Shonan Bellmare,Shimizu S-Pulse,0,3
+16.09.2020,2020,Vissel Kobe,Cerezo Osaka,0,1
+16.09.2020,2020,FC Tokyo,Oita Trinita,2,3
+16.09.2020,2020,Yokohama F. Marinos,Shimizu S-Pulse,3,0
+16.09.2020,2020,Sagan Tosu,Hokkaido Consadole Sapporo,0,2
+13.09.2020,2020,Gamba Osaka,Shonan Bellmare,0,1
+13.09.2020,2020,Hokkaido Consadole Sapporo,Urawa Reds,3,4
+13.09.2020,2020,Kawasaki Frontale,Sanfrecce Hiroshima,5,1
+13.09.2020,2020,Sagan Tosu,Kashiwa Reysol,2,1
+13.09.2020,2020,Vegalta Sendai,Oita Trinita,0,3
+13.09.2020,2020,Yokohama FC,Nagoya Grampus,3,2
+13.09.2020,2020,Yokohama F. Marinos,Cerezo Osaka,1,2
+12.09.2020,2020,Shimizu S-Pulse,Kashima Antlers,1,2
+12.09.2020,2020,Vissel Kobe,FC Tokyo,2,2
+09.09.2020,2020,Cerezo Osaka,Hokkaido Consadole Sapporo,2,0
+09.09.2020,2020,FC Tokyo,Yokohama FC,2,1
+09.09.2020,2020,Kashima Antlers,Vegalta Sendai,2,1
+09.09.2020,2020,Kashiwa Reysol,Gamba Osaka,3,0
+09.09.2020,2020,Kawasaki Frontale,Vissel Kobe,3,2
+09.09.2020,2020,Nagoya Grampus,Yokohama F. Marinos,2,1
+09.09.2020,2020,Oita Trinita,Shonan Bellmare,2,2
+09.09.2020,2020,Sanfrecce Hiroshima,Shimizu S-Pulse,4,1
+09.09.2020,2020,Urawa Reds,Sagan Tosu,2,2
+05.09.2020,2020,Cerezo Osaka,Urawa Reds,3,0
+05.09.2020,2020,Hokkaido Consadole Sapporo,Sanfrecce Hiroshima,0,2
+05.09.2020,2020,Nagoya Grampus,Kashima Antlers,1,3
+05.09.2020,2020,Oita Trinita,FC Tokyo,0,1
+05.09.2020,2020,Sagan Tosu,Yokohama FC,3,0
+05.09.2020,2020,Shimizu S-Pulse,Kashiwa Reysol,1,2
+05.09.2020,2020,Shonan Bellmare,Vissel Kobe,1,1
+05.09.2020,2020,Vegalta Sendai,Gamba Osaka,1,4
+05.09.2020,2020,Yokohama F. Marinos,Kawasaki Frontale,1,3
+30.08.2020,2020,Yokohama FC,Cerezo Osaka,1,2
+29.08.2020,2020,Gamba Osaka,FC Tokyo,1,3
+29.08.2020,2020,Hokkaido Consadole Sapporo,Nagoya Grampus,0,0
+29.08.2020,2020,Kashiwa Reysol,Kashima Antlers,2,3
+29.08.2020,2020,Kawasaki Frontale,Shimizu S-Pulse,5,0
+29.08.2020,2020,Sanfrecce Hiroshima,Vegalta Sendai,1,1
+29.08.2020,2020,Urawa Reds,Oita Trinita,2,1
+29.08.2020,2020,Vissel Kobe,Yokohama F. Marinos,3,3
+26.08.2020,2020,Yokohama F. Marinos,Hokkaido Consadole Sapporo,4,1
+26.08.2020,2020,FC Tokyo,Kashima Antlers,1,2
+26.08.2020,2020,Vissel Kobe,Kawasaki Frontale,2,2
+23.08.2020,2020,Cerezo Osaka,Vegalta Sendai,2,1
+23.08.2020,2020,FC Tokyo,Shonan Bellmare,3,0
+23.08.2020,2020,Kashima Antlers,Gamba Osaka,1,1
+23.08.2020,2020,Nagoya Grampus,Kawasaki Frontale,1,0
+23.08.2020,2020,Oita Trinita,Kashiwa Reysol,0,0
+23.08.2020,2020,Urawa Reds,Vissel Kobe,1,2
+23.08.2020,2020,Yokohama F. Marinos,Sanfrecce Hiroshima,3,1
+22.08.2020,2020,Shimizu S-Pulse,Yokohama FC,2,3
+19.08.2020,2020,Gamba Osaka,Urawa Reds,1,3
+19.08.2020,2020,Hokkaido Consadole Sapporo,Oita Trinita,1,1
+19.08.2020,2020,Kawasaki Frontale,Cerezo Osaka,5,2
+19.08.2020,2020,Sanfrecce Hiroshima,FC Tokyo,3,3
+19.08.2020,2020,Shimizu S-Pulse,Yokohama F. Marinos,3,4
+19.08.2020,2020,Shonan Bellmare,Nagoya Grampus,0,1
+19.08.2020,2020,Vissel Kobe,Kashiwa Reysol,2,3
+19.08.2020,2020,Yokohama FC,Kashima Antlers,1,0
+16.08.2020,2020,Kashima Antlers,Vissel Kobe,2,2
+15.08.2020,2020,FC Tokyo,Nagoya Grampus,1,0
+15.08.2020,2020,Hokkaido Consadole Sapporo,Kawasaki Frontale,1,6
+15.08.2020,2020,Kashiwa Reysol,Cerezo Osaka,1,3
+15.08.2020,2020,Oita Trinita,Yokohama F. Marinos,1,0
+15.08.2020,2020,Urawa Reds,Sanfrecce Hiroshima,1,0
+15.08.2020,2020,Vegalta Sendai,Shimizu S-Pulse,0,0
+15.08.2020,2020,Yokohama FC,Shonan Bellmare,4,2
+09.08.2020,2020,Cerezo Osaka,FC Tokyo,0,0
+09.08.2020,2020,Sanfrecce Hiroshima,Shonan Bellmare,1,0
+08.08.2020,2020,Gamba Osaka,Yokohama FC,2,1
+08.08.2020,2020,Kashima Antlers,Sagan Tosu,2,0
+08.08.2020,2020,Kawasaki Frontale,Oita Trinita,2,0
+08.08.2020,2020,Nagoya Grampus,Urawa Reds,6,2
+08.08.2020,2020,Shimizu S-Pulse,Hokkaido Consadole Sapporo,3,1
+08.08.2020,2020,Vissel Kobe,Vegalta Sendai,1,2
+08.08.2020,2020,Yokohama F. Marinos,Kashiwa Reysol,1,1
+02.08.2020,2020,Hokkaido Consadole Sapporo,Vissel Kobe,2,3
+01.08.2020,2020,FC Tokyo,Sagan Tosu,2,3
+01.08.2020,2020,Gamba Osaka,Kawasaki Frontale,0,1
+01.08.2020,2020,Nagoya Grampus,Kashiwa Reysol,0,1
+01.08.2020,2020,Oita Trinita,Kashima Antlers,1,4
+01.08.2020,2020,Shonan Bellmare,Cerezo Osaka,0,1
+01.08.2020,2020,Urawa Reds,Shimizu S-Pulse,1,1
+01.08.2020,2020,Vegalta Sendai,Yokohama F. Marinos,0,1
+01.08.2020,2020,Yokohama FC,Sanfrecce Hiroshima,0,2
+26.07.2020,2020,Hokkaido Consadole Sapporo,Yokohama F. Marinos,3,1
+26.07.2020,2020,Kashima Antlers,FC Tokyo,2,2
+26.07.2020,2020,Kashiwa Reysol,Vegalta Sendai,5,1
+26.07.2020,2020,Kawasaki Frontale,Shonan Bellmare,3,1
+26.07.2020,2020,Sagan Tosu,Cerezo Osaka,1,1
+26.07.2020,2020,Shimizu S-Pulse,Oita Trinita,4,2
+26.07.2020,2020,Vissel Kobe,Gamba Osaka,0,2
+26.07.2020,2020,Yokohama FC,Urawa Reds,0,2
+22.07.2020,2020,Cerezo Osaka,Vissel Kobe,0,0
+22.07.2020,2020,Gamba Osaka,Sanfrecce Hiroshima,1,0
+22.07.2020,2020,Hokkaido Consadole Sapporo,FC Tokyo,1,1
+22.07.2020,2020,Oita Trinita,Nagoya Grampus,0,3
+22.07.2020,2020,Sagan Tosu,Shimizu S-Pulse,1,1
+22.07.2020,2020,Shonan Bellmare,Kashima Antlers,1,0
+22.07.2020,2020,Urawa Reds,Kashiwa Reysol,0,4
+22.07.2020,2020,Vegalta Sendai,Kawasaki Frontale,2,3
+22.07.2020,2020,Yokohama F. Marinos,Yokohama FC,4,0
+18.07.2020,2020,FC Tokyo,Urawa Reds,2,0
+18.07.2020,2020,Gamba Osaka,Oita Trinita,2,1
+18.07.2020,2020,Kashima Antlers,Yokohama F. Marinos,4,2
+18.07.2020,2020,Kashiwa Reysol,Shonan Bellmare,3,2
+18.07.2020,2020,Nagoya Grampus,Sagan Tosu,1,0
+18.07.2020,2020,Sanfrecce Hiroshima,Cerezo Osaka,1,2
+18.07.2020,2020,Vegalta Sendai,Hokkaido Consadole Sapporo,2,2
+18.07.2020,2020,Vissel Kobe,Shimizu S-Pulse,3,1
+18.07.2020,2020,Yokohama FC,Kawasaki Frontale,1,5
+12.07.2020,2020,Cerezo Osaka,Nagoya Grampus,0,2
+12.07.2020,2020,Sagan Tosu,Sanfrecce Hiroshima,0,0
+12.07.2020,2020,Shimizu S-Pulse,Gamba Osaka,1,2
+12.07.2020,2020,Shonan Bellmare,Hokkaido Consadole Sapporo,0,0
+12.07.2020,2020,Urawa Reds,Kashima Antlers,1,0
+12.07.2020,2020,Yokohama FC,Vegalta Sendai,1,1
+12.07.2020,2020,Yokohama F. Marinos,FC Tokyo,1,3
+11.07.2020,2020,Kawasaki Frontale,Kashiwa Reysol,3,1
+11.07.2020,2020,Oita Trinita,Vissel Kobe,1,1
+08.07.2020,2020,Cerezo Osaka,Shimizu S-Pulse,2,0
+08.07.2020,2020,FC Tokyo,Kawasaki Frontale,0,4
+08.07.2020,2020,Kashima Antlers,Hokkaido Consadole Sapporo,0,2
+08.07.2020,2020,Kashiwa Reysol,Yokohama FC,1,3
+08.07.2020,2020,Nagoya Grampus,Gamba Osaka,2,2
+08.07.2020,2020,Sagan Tosu,Vissel Kobe,0,1
+08.07.2020,2020,Sanfrecce Hiroshima,Oita Trinita,1,2
+08.07.2020,2020,Vegalta Sendai,Urawa Reds,1,2
+08.07.2020,2020,Yokohama F. Marinos,Shonan Bellmare,3,2
+04.07.2020,2020,Gamba Osaka,Cerezo Osaka,1,2
+04.07.2020,2020,Kashiwa Reysol,FC Tokyo,0,1
+04.07.2020,2020,Kawasaki Frontale,Kashima Antlers,2,1
+04.07.2020,2020,Oita Trinita,Sagan Tosu,2,0
+04.07.2020,2020,Shimizu S-Pulse,Nagoya Grampus,1,2
+04.07.2020,2020,Shonan Bellmare,Vegalta Sendai,0,1
+04.07.2020,2020,Urawa Reds,Yokohama F. Marinos,0,0
+04.07.2020,2020,Vissel Kobe,Sanfrecce Hiroshima,0,3
+04.07.2020,2020,Yokohama FC,Hokkaido Consadole Sapporo,1,2
+23.02.2020,2020,Sanfrecce Hiroshima,Kashima Antlers,3,0
+23.02.2020,2020,Shimizu S-Pulse,FC Tokyo,1,3
+23.02.2020,2020,Vissel Kobe,Yokohama FC,1,1
+23.02.2020,2020,Yokohama F. Marinos,Gamba Osaka,1,2
+22.02.2020,2020,Cerezo Osaka,Oita Trinita,1,0
+22.02.2020,2020,Kashiwa Reysol,Hokkaido Consadole Sapporo,4,2
+22.02.2020,2020,Kawasaki Frontale,Sagan Tosu,0,0
+22.02.2020,2020,Vegalta Sendai,Nagoya Grampus,1,1
+21.02.2020,2020,Shonan Bellmare,Urawa Reds,2,3

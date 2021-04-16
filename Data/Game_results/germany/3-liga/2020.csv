@@ -1,73 +1,311 @@
 Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-Today,2020,Mannheim,Magdeburg,5,2
-Today,2020,Munich 1860,Duisburg,0,2
-Today,2020,SG Dynamo Dresden,Meppen,3,0
-Today,2020,Uerdingen,Saarbrucken,1,0
-Yesterday,2020,Viktoria Koln,Lubeck,0,2
-26.10.,2020,Unterhaching,Munich 1860,0,2
-25.10.,2020,Bayern II,Mannheim,2,0
-25.10.,2020,Saarbrucken,Verl,1,2
-24.10.,2020,Duisburg,Uerdingen,0,2
-24.10.,2020,Hansa Rostock,Viktoria Koln,5,1
-24.10.,2020,Ingolstadt,SG Dynamo Dresden,1,0
-24.10.,2020,Lubeck,Hallescher,2,3
-24.10.,2020,Magdeburg,Wehen,1,2
-24.10.,2020,Meppen,Kaiserslautern,3,2
-21.10.,2020,Hallescher,Meppen,4,1
-21.10.,2020,Kaiserslautern,Ingolstadt,1,1
-21.10.,2020,Munich 1860,Saarbrucken,1,2
-21.10.,2020,Unterhaching,Duisburg,0,1
-21.10.,2020,Viktoria Koln,Bayern II,3,2
-20.10.,2020,Mannheim,Hansa Rostock,1,2
-20.10.,2020,SG Dynamo Dresden,Zwickau,1,2
-20.10.,2020,Turkgucu Munchen,Lubeck,4,3
-20.10.,2020,Uerdingen,Wehen,0,4
-20.10.,2020,Verl,Magdeburg,3,1
-18.10.,2020,Meppen,Viktoria Koln,0,1
-18.10.,2020,Saarbrucken,Unterhaching,2,1
-17.10.,2020,Bayern II,Kaiserslautern,0,0
-17.10.,2020,Hansa Rostock,Munich 1860,1,1
-17.10.,2020,Ingolstadt,Verl,2,1
-17.10.,2020,Lubeck,SG Dynamo Dresden,0,1
-17.10.,2020,Wehen,Mannheim,0,1
-17.10.,2020,Zwickau,Uerdingen,1,2
-16.10.,2020,Magdeburg,Turkgucu Munchen,2,0
-12.10.,2020,Hallescher,Zwickau,0,2
-11.10.,2020,Unterhaching,Meppen,2,1
-11.10.,2020,Viktoria Koln,Ingolstadt,2,0
-10.10.,2020,Kaiserslautern,Mannheim,1,1
-10.10.,2020,Munich 1860,Lubeck,4,1
-10.10.,2020,SG Dynamo Dresden,Magdeburg,1,0
-10.10.,2020,Turkgucu Munchen,Wehen,0,0
-10.10.,2020,Uerdingen,Bayern II,1,1
-10.10.,2020,Verl,Hansa Rostock,2,3
-05.10.,2020,Wehen,Kaiserslautern,2,2
-04.10.,2020,Hansa Rostock,Uerdingen,0,0
-04.10.,2020,Saarbrucken,Hallescher,4,0
-03.10.,2020,Ingolstadt,Unterhaching,0,1
-03.10.,2020,Lubeck,Duisburg,1,1
-03.10.,2020,Magdeburg,Viktoria Koln,0,2
-03.10.,2020,Mannheim,Turkgucu Munchen,4,4
-03.10.,2020,Meppen,Verl,1,2
-03.10.,2020,Zwickau,Munich 1860,1,2
-02.10.,2020,Bayern II,SG Dynamo Dresden,3,0
-28.09.,2020,Uerdingen,Meppen,0,2
-27.09.,2020,SG Dynamo Dresden,Mannheim,1,1
-27.09.,2020,Turkgucu Munchen,Kaiserslautern,3,0
-26.09.,2020,Duisburg,Zwickau,1,1
-26.09.,2020,Hallescher,Ingolstadt,0,2
-26.09.,2020,Munich 1860,Magdeburg,1,1
-26.09.,2020,Saarbrucken,Hansa Rostock,2,0
-26.09.,2020,Verl,Bayern II,3,0
-26.09.,2020,Viktoria Koln,Wehen,0,2
-25.09.,2020,Unterhaching,Lubeck,1,0
-21.09.,2020,Mannheim,Viktoria Koln,2,2
-20.09.,2020,Ingolstadt,Uerdingen,2,1
-20.09.,2020,Magdeburg,Hallescher,0,2
-19.09.,2020,Bayern II,Turkgucu Munchen,2,2
-19.09.,2020,Hansa Rostock,Duisburg,3,1
-19.09.,2020,Lubeck,Saarbrucken,1,1
-19.09.,2020,Meppen,Munich 1860,1,3
-19.09.,2020,Wehen,Verl,0,0
-19.09.,2020,Zwickau,Unterhaching,2,1
-18.09.,2020,Kaiserslautern,SG Dynamo Dresden,0,1
+12.04.,2020,Meppen,Wehen,0,3
+11.04.,2020,Unterhaching,SG Dynamo Dresden,2,0
+11.04.,2020,Zwickau,Viktoria Koln,1,2
+10.04.,2020,Duisburg,Mannheim,1,1
+10.04.,2020,Hansa Rostock,Magdeburg,0,2
+10.04.,2020,Ingolstadt,Bayern II,2,2
+10.04.,2020,Lubeck,Kaiserslautern,1,1
+10.04.,2020,Munich 1860,Verl,3,2
+10.04.,2020,Saarbrucken,Turkgucu Munchen,2,1
+09.04.,2020,Hallescher,Uerdingen,2,1
+07.04.,2020,Kaiserslautern,Zwickau,2,2
+05.04.,2020,Viktoria Koln,Unterhaching,1,1
+04.04.,2020,SG Dynamo Dresden,Hansa Rostock,0,0
+04.04.,2020,Turkgucu Munchen,Meppen,2,0
+03.04.,2020,Bayern II,Lubeck,2,3
+03.04.,2020,Kaiserslautern,Hallescher,3,1
+03.04.,2020,Magdeburg,Ingolstadt,2,0
+03.04.,2020,Mannheim,Zwickau,1,0
+03.04.,2020,Uerdingen,Munich 1860,1,3
+03.04.,2020,Verl,Duisburg,1,2
+03.04.,2020,Wehen,Saarbrucken,2,2
+27.03.,2020,Uerdingen,Zwickau,1,1
+22.03.,2020,Munich 1860,SG Dynamo Dresden,1,0
+21.03.,2020,Meppen,Bayern II,2,1
+21.03.,2020,Zwickau,Wehen,2,1
+20.03.,2020,Duisburg,Turkgucu Munchen,3,2
+20.03.,2020,Hansa Rostock,Hallescher,1,0
+20.03.,2020,Ingolstadt,Mannheim,1,0
+20.03.,2020,Lubeck,Verl,2,2
+20.03.,2020,Magdeburg,Kaiserslautern,1,0
+20.03.,2020,Unterhaching,Uerdingen,2,3
+19.03.,2020,Saarbrucken,Viktoria Koln,2,3
+17.03.,2020,Verl,Ingolstadt,1,1
+17.03.,2020,Lubeck,Munich 1860,0,0
+17.03.,2020,Meppen,Uerdingen,0,4
+17.03.,2020,SG Dynamo Dresden,Wehen,1,0
+16.03.,2020,Hallescher,Duisburg,1,1
+15.03.,2020,Turkgucu Munchen,Hansa Rostock,0,3
+14.03.,2020,Mannheim,Meppen,0,1
+14.03.,2020,Verl,Unterhaching,2,1
+13.03.,2020,Bayern II,Magdeburg,0,2
+13.03.,2020,SG Dynamo Dresden,Saarbrucken,1,1
+13.03.,2020,Viktoria Koln,Duisburg,3,1
+13.03.,2020,Hallescher,Munich 1860,0,4
+13.03.,2020,Wehen,Ingolstadt,1,2
+12.03.,2020,Uerdingen,Lubeck,1,1
+10.03.,2020,Bayern II,Verl,1,2
+10.03.,2020,Saarbrucken,Zwickau,1,2
+09.03.,2020,Viktoria Koln,Meppen,1,0
+09.03.,2020,Uerdingen,Hansa Rostock,0,1
+08.03.,2020,Ingolstadt,Turkgucu Munchen,2,1
+07.03.,2020,Bayern II,Wehen,2,0
+07.03.,2020,Unterhaching,Hallescher,3,0
+06.03.,2020,Duisburg,Munich 1860,1,0
+06.03.,2020,Hansa Rostock,Kaiserslautern,2,1
+06.03.,2020,Lubeck,Viktoria Koln,1,2
+06.03.,2020,Magdeburg,Mannheim,1,1
+06.03.,2020,Meppen,SG Dynamo Dresden,0,4
+06.03.,2020,Saarbrucken,Uerdingen,2,2
+05.03.,2020,Zwickau,Verl,3,0
+03.03.,2020,Saarbrucken,Duisburg,4,1
+03.03.,2020,Uerdingen,Ingolstadt,0,3
+03.03.,2020,Lubeck,Hansa Rostock,1,0
+02.03.,2020,Viktoria Koln,Magdeburg,2,4
+01.03.,2020,Mannheim,Bayern II,2,2
+28.02.,2020,Turkgucu Munchen,Zwickau,1,1
+28.02.,2020,Uerdingen,Duisburg,1,2
+27.02.,2020,SG Dynamo Dresden,Ingolstadt,4,0
+27.02.,2020,Viktoria Koln,Hansa Rostock,1,2
+27.02.,2020,Hallescher,Lubeck,2,1
+27.02.,2020,Kaiserslautern,Meppen,2,2
+27.02.,2020,Verl,Saarbrucken,1,3
+27.02.,2020,Wehen,Magdeburg,1,0
+26.02.,2020,Munich 1860,Unterhaching,3,1
+24.02.,2020,SG Dynamo Dresden,Bayern II,1,1
+22.02.,2020,Wehen,Uerdingen,3,1
+21.02.,2020,Bayern II,Viktoria Koln,0,1
+21.02.,2020,Magdeburg,Verl,0,4
+20.02.,2020,Duisburg,Unterhaching,2,1
+20.02.,2020,Hansa Rostock,Mannheim,1,0
+20.02.,2020,Ingolstadt,Kaiserslautern,1,0
+20.02.,2020,Lubeck,Turkgucu Munchen,0,2
+20.02.,2020,Saarbrucken,Munich 1860,2,1
+20.02.,2020,Zwickau,SG Dynamo Dresden,0,2
+19.02.,2020,Meppen,Hallescher,2,1
+15.02.,2020,Turkgucu Munchen,Magdeburg,2,1
+14.02.,2020,SG Dynamo Dresden,Lubeck,3,1
+14.02.,2020,Unterhaching,Saarbrucken,0,1
+13.02.,2020,Kaiserslautern,Bayern II,1,1
+13.02.,2020,Mannheim,Wehen,0,1
+13.02.,2020,Munich 1860,Hansa Rostock,0,0
+10.02.,2020,Bayern II,Zwickau,3,2
+07.02.,2020,Bayern II,Uerdingen,0,1
+07.02.,2020,Wehen,Turkgucu Munchen,3,1
+06.02.,2020,Ingolstadt,Viktoria Koln,2,1
+06.02.,2020,Magdeburg,SG Dynamo Dresden,0,1
+06.02.,2020,Mannheim,Kaiserslautern,0,2
+06.02.,2020,Meppen,Unterhaching,3,2
+06.02.,2020,Zwickau,Hallescher,2,2
+05.02.,2020,Hansa Rostock,Verl,3,2
+01.02.,2020,Hallescher,Saarbrucken,1,1
+31.01.,2020,Duisburg,Lubeck,3,1
+31.01.,2020,Munich 1860,Zwickau,0,1
+30.01.,2020,Kaiserslautern,Wehen,0,1
+30.01.,2020,Turkgucu Munchen,Mannheim,0,2
+30.01.,2020,Unterhaching,Ingolstadt,0,1
+30.01.,2020,Verl,Meppen,3,1
+27.01.,2020,Hansa Rostock,Saarbrucken,4,2
+27.01.,2020,Ingolstadt,Hallescher,1,1
+27.01.,2020,Lubeck,Unterhaching,1,0
+27.01.,2020,Magdeburg,Munich 1860,0,3
+26.01.,2020,Kaiserslautern,Turkgucu Munchen,0,0
+26.01.,2020,Mannheim,SG Dynamo Dresden,1,0
+26.01.,2020,Wehen,Viktoria Koln,2,2
+26.01.,2020,Zwickau,Duisburg,3,1
+24.01.,2020,Munich 1860,Meppen,1,1
+24.01.,2020,Saarbrucken,Lubeck,0,0
+23.01.,2020,SG Dynamo Dresden,Kaiserslautern,4,3
+23.01.,2020,Duisburg,Hansa Rostock,1,2
+23.01.,2020,Viktoria Koln,Mannheim,1,2
+23.01.,2020,Hallescher,Magdeburg,1,0
+23.01.,2020,Unterhaching,Zwickau,1,2
+23.01.,2020,Verl,Wehen,2,2
+22.01.,2020,Turkgucu Munchen,Bayern II,0,0
+20.01.,2020,Duisburg,Magdeburg,1,2
+20.01.,2020,Hallescher,Mannheim,0,0
+19.01.,2020,Turkgucu Munchen,Unterhaching,0,0
+19.01.,2020,Verl,Zwickau,1,1
+18.01.,2020,Munich 1860,Ingolstadt,1,0
+17.01.,2020,Duisburg,Meppen,1,0
+17.01.,2020,Uerdingen,Mannheim,1,1
+16.01.,2020,Hallescher,Bayern II,0,4
+16.01.,2020,Unterhaching,Magdeburg,0,2
+16.01.,2020,Verl,Kaiserslautern,1,1
+15.01.,2020,Viktoria Koln,Turkgucu Munchen,0,2
+13.01.,2020,Zwickau,Ingolstadt,0,2
+13.01.,2020,Lubeck,Mannheim,0,1
+12.01.,2020,Magdeburg,Saarbrucken,1,2
+12.01.,2020,Bayern II,Meppen,2,0
+12.01.,2020,Unterhaching,Verl,3,4
+11.01.,2020,Turkgucu Munchen,SG Dynamo Dresden,1,0
+10.01.,2020,Ingolstadt,Duisburg,2,1
+10.01.,2020,Zwickau,Lubeck,2,1
+09.01.,2020,Bayern II,Munich 1860,0,2
+09.01.,2020,Hansa Rostock,Unterhaching,1,0
+09.01.,2020,Kaiserslautern,Viktoria Koln,0,0
+09.01.,2020,Magdeburg,Uerdingen,1,1
+09.01.,2020,Meppen,Saarbrucken,1,0
+09.01.,2020,Wehen,Hallescher,1,1
+08.01.,2020,Mannheim,Verl,2,2
+23.12.2020,2020,Meppen,Turkgucu Munchen,1,4
+20.12.2020,2020,Verl,Turkgucu Munchen,0,1
+20.12.2020,2020,Zwickau,Hansa Rostock,0,2
+19.12.2020,2020,Viktoria Koln,SG Dynamo Dresden,2,4
+19.12.2020,2020,Lubeck,Meppen,0,2
+19.12.2020,2020,Saarbrucken,Ingolstadt,3,3
+19.12.2020,2020,Uerdingen,Kaiserslautern,0,2
+19.12.2020,2020,Unterhaching,Bayern II,1,1
+18.12.2020,2020,Munich 1860,Wehen,2,2
+16.12.2020,2020,Bayern II,Duisburg,1,1
+16.12.2020,2020,Viktoria Koln,Uerdingen,0,2
+16.12.2020,2020,Ingolstadt,Hansa Rostock,1,0
+16.12.2020,2020,Meppen,Zwickau,1,2
+15.12.2020,2020,SG Dynamo Dresden,Verl,4,1
+15.12.2020,2020,Kaiserslautern,Munich 1860,0,3
+15.12.2020,2020,Mannheim,Unterhaching,1,4
+15.12.2020,2020,Turkgucu Munchen,Hallescher,0,3
+15.12.2020,2020,Wehen,Lubeck,4,2
+13.12.2020,2020,Hansa Rostock,Meppen,0,2
+13.12.2020,2020,Saarbrucken,Bayern II,1,2
+12.12.2020,2020,Duisburg,Wehen,4,1
+12.12.2020,2020,Hallescher,SG Dynamo Dresden,1,3
+12.12.2020,2020,Lubeck,Magdeburg,1,1
+12.12.2020,2020,Munich 1860,Mannheim,5,0
+12.12.2020,2020,Uerdingen,Turkgucu Munchen,1,0
+12.12.2020,2020,Verl,Viktoria Koln,1,1
+11.12.2020,2020,Unterhaching,Kaiserslautern,2,0
+08.12.2020,2020,Meppen,Mannheim,2,0
+06.12.2020,2020,Verl,Hallescher,4,2
+06.12.2020,2020,Wehen,Hansa Rostock,2,1
+05.12.2020,2020,SG Dynamo Dresden,Uerdingen,0,0
+05.12.2020,2020,Viktoria Koln,Munich 1860,2,1
+05.12.2020,2020,Ingolstadt,Lubeck,1,1
+05.12.2020,2020,Kaiserslautern,Duisburg,2,2
+05.12.2020,2020,Mannheim,Saarbrucken,4,1
+04.12.2020,2020,Magdeburg,Meppen,0,0
+02.12.2020,2020,Hansa Rostock,Turkgucu Munchen,2,0
+02.12.2020,2020,Hallescher,Unterhaching,2,0
+30.11.2020,2020,Meppen,Ingolstadt,2,0
+29.11.2020,2020,Duisburg,SG Dynamo Dresden,0,3
+29.11.2020,2020,Saarbrucken,Kaiserslautern,1,1
+28.11.2020,2020,Hallescher,Viktoria Koln,2,0
+28.11.2020,2020,Hansa Rostock,Bayern II,2,0
+28.11.2020,2020,Munich 1860,Turkgucu Munchen,2,2
+28.11.2020,2020,Unterhaching,Wehen,2,1
+28.11.2020,2020,Zwickau,Magdeburg,0,1
+27.11.2020,2020,Uerdingen,Verl,1,2
+25.11.2020,2020,Bayern II,Ingolstadt,1,3
+25.11.2020,2020,SG Dynamo Dresden,Unterhaching,2,0
+25.11.2020,2020,Viktoria Koln,Zwickau,1,1
+25.11.2020,2020,Kaiserslautern,Lubeck,1,0
+25.11.2020,2020,Magdeburg,Hansa Rostock,1,1
+24.11.2020,2020,Mannheim,Duisburg,2,2
+24.11.2020,2020,Turkgucu Munchen,Saarbrucken,1,1
+24.11.2020,2020,Uerdingen,Hallescher,0,1
+24.11.2020,2020,Verl,Munich 1860,1,1
+24.11.2020,2020,Wehen,Meppen,1,0
+22.11.2020,2020,Ingolstadt,Magdeburg,1,0
+22.11.2020,2020,Lubeck,Bayern II,3,0
+22.11.2020,2020,Unterhaching,Viktoria Koln,2,2
+21.11.2020,2020,Hallescher,Kaiserslautern,1,1
+21.11.2020,2020,Hansa Rostock,SG Dynamo Dresden,1,3
+21.11.2020,2020,Munich 1860,Uerdingen,0,0
+21.11.2020,2020,Saarbrucken,Wehen,3,3
+21.11.2020,2020,Zwickau,Mannheim,0,0
+20.11.2020,2020,Duisburg,Verl,0,4
+17.11.2020,2020,Duisburg,Hallescher,0,0
+16.11.2020,2020,Verl,Lubeck,1,2
+15.11.2020,2020,SG Dynamo Dresden,Munich 1860,2,1
+14.11.2020,2020,Hallescher,Hansa Rostock,1,1
+14.11.2020,2020,Kaiserslautern,Magdeburg,1,1
+14.11.2020,2020,Mannheim,Ingolstadt,4,1
+14.11.2020,2020,Turkgucu Munchen,Duisburg,2,1
+14.11.2020,2020,Uerdingen,Unterhaching,3,1
+14.11.2020,2020,Wehen,Zwickau,3,1
+13.11.2020,2020,Viktoria Koln,Saarbrucken,0,2
+09.11.2020,2020,Duisburg,Viktoria Koln,1,3
+08.11.2020,2020,Lubeck,Uerdingen,1,0
+07.11.2020,2020,Magdeburg,Bayern II,2,1
+07.11.2020,2020,Munich 1860,Hallescher,6,1
+07.11.2020,2020,Saarbrucken,SG Dynamo Dresden,2,1
+07.11.2020,2020,Zwickau,Kaiserslautern,1,2
+06.11.2020,2020,Ingolstadt,Wehen,4,1
+04.11.2020,2020,Zwickau,Turkgucu Munchen,0,1
+04.11.2020,2020,Duisburg,Saarbrucken,2,3
+02.11.2020,2020,Kaiserslautern,Hansa Rostock,0,0
+01.11.2020,2020,Turkgucu Munchen,Ingolstadt,1,1
+01.11.2020,2020,Wehen,Bayern II,2,4
+31.10.2020,2020,SG Dynamo Dresden,Meppen,3,0
+31.10.2020,2020,Mannheim,Magdeburg,5,2
+31.10.2020,2020,Munich 1860,Duisburg,0,2
+31.10.2020,2020,Uerdingen,Saarbrucken,1,0
+30.10.2020,2020,Viktoria Koln,Lubeck,0,2
+26.10.2020,2020,Unterhaching,Munich 1860,0,2
+25.10.2020,2020,Bayern II,Mannheim,2,0
+25.10.2020,2020,Saarbrucken,Verl,1,2
+24.10.2020,2020,Duisburg,Uerdingen,0,2
+24.10.2020,2020,Hansa Rostock,Viktoria Koln,5,1
+24.10.2020,2020,Ingolstadt,SG Dynamo Dresden,1,0
+24.10.2020,2020,Lubeck,Hallescher,2,3
+24.10.2020,2020,Magdeburg,Wehen,1,2
+24.10.2020,2020,Meppen,Kaiserslautern,3,2
+21.10.2020,2020,Viktoria Koln,Bayern II,3,2
+21.10.2020,2020,Hallescher,Meppen,4,1
+21.10.2020,2020,Kaiserslautern,Ingolstadt,1,1
+21.10.2020,2020,Munich 1860,Saarbrucken,1,2
+21.10.2020,2020,Unterhaching,Duisburg,0,1
+20.10.2020,2020,SG Dynamo Dresden,Zwickau,1,2
+20.10.2020,2020,Mannheim,Hansa Rostock,1,2
+20.10.2020,2020,Turkgucu Munchen,Lubeck,4,3
+20.10.2020,2020,Uerdingen,Wehen,0,4
+20.10.2020,2020,Verl,Magdeburg,3,1
+18.10.2020,2020,Meppen,Viktoria Koln,0,1
+18.10.2020,2020,Saarbrucken,Unterhaching,2,1
+17.10.2020,2020,Bayern II,Kaiserslautern,0,0
+17.10.2020,2020,Hansa Rostock,Munich 1860,1,1
+17.10.2020,2020,Ingolstadt,Verl,2,1
+17.10.2020,2020,Lubeck,SG Dynamo Dresden,0,1
+17.10.2020,2020,Wehen,Mannheim,0,1
+17.10.2020,2020,Zwickau,Uerdingen,1,2
+16.10.2020,2020,Magdeburg,Turkgucu Munchen,2,0
+12.10.2020,2020,Hallescher,Zwickau,0,2
+11.10.2020,2020,Viktoria Koln,Ingolstadt,2,0
+11.10.2020,2020,Unterhaching,Meppen,2,1
+10.10.2020,2020,SG Dynamo Dresden,Magdeburg,1,0
+10.10.2020,2020,Kaiserslautern,Mannheim,1,1
+10.10.2020,2020,Munich 1860,Lubeck,4,1
+10.10.2020,2020,Turkgucu Munchen,Wehen,0,0
+10.10.2020,2020,Uerdingen,Bayern II,1,1
+10.10.2020,2020,Verl,Hansa Rostock,2,3
+05.10.2020,2020,Wehen,Kaiserslautern,2,2
+04.10.2020,2020,Hansa Rostock,Uerdingen,0,0
+04.10.2020,2020,Saarbrucken,Hallescher,4,0
+03.10.2020,2020,Ingolstadt,Unterhaching,0,1
+03.10.2020,2020,Lubeck,Duisburg,1,1
+03.10.2020,2020,Magdeburg,Viktoria Koln,0,2
+03.10.2020,2020,Mannheim,Turkgucu Munchen,4,4
+03.10.2020,2020,Meppen,Verl,1,2
+03.10.2020,2020,Zwickau,Munich 1860,1,2
+02.10.2020,2020,Bayern II,SG Dynamo Dresden,3,0
+28.09.2020,2020,Uerdingen,Meppen,0,2
+27.09.2020,2020,SG Dynamo Dresden,Mannheim,1,1
+27.09.2020,2020,Turkgucu Munchen,Kaiserslautern,3,0
+26.09.2020,2020,Duisburg,Zwickau,1,1
+26.09.2020,2020,Viktoria Koln,Wehen,0,2
+26.09.2020,2020,Hallescher,Ingolstadt,0,2
+26.09.2020,2020,Munich 1860,Magdeburg,1,1
+26.09.2020,2020,Saarbrucken,Hansa Rostock,2,0
+26.09.2020,2020,Verl,Bayern II,3,0
+25.09.2020,2020,Unterhaching,Lubeck,1,0
+21.09.2020,2020,Mannheim,Viktoria Koln,2,2
+20.09.2020,2020,Ingolstadt,Uerdingen,2,1
+20.09.2020,2020,Magdeburg,Hallescher,0,2
+19.09.2020,2020,Bayern II,Turkgucu Munchen,2,2
+19.09.2020,2020,Hansa Rostock,Duisburg,3,1
+19.09.2020,2020,Lubeck,Saarbrucken,1,1
+19.09.2020,2020,Meppen,Munich 1860,1,3
+19.09.2020,2020,Wehen,Verl,0,0
+19.09.2020,2020,Zwickau,Unterhaching,2,1
+18.09.2020,2020,Kaiserslautern,SG Dynamo Dresden,0,1

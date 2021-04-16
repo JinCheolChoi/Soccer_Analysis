@@ -4,11 +4,15 @@
 #
 #****************
 Kelly_Criterion=function(p, b, Coef=1){
-  Kelly=(p)-(1-p)/(b*Coef-1)       
-  
+  Kelly=(p)-(1-p)/(b*Coef-1)
+
   return(Kelly)
 }
-
+# Kelly_Criterion=function(p, b, Coef=1){
+#   Kelly=(p*(1/Coef))-(1-p*(1/Coef))/(b-1)
+# 
+#   return(Kelly)
+# }
 
 #************************
 #
@@ -478,6 +482,21 @@ Over_Under_Score_Odds_Manipulation=function(Over_Under_Score_Odds){
   Over_Under_Score_Odds[Home_Team=="Wigan Athletic", Home_Team:="Wigan"]
   Over_Under_Score_Odds[Away_Team=="Wigan Athletic", Away_Team:="Wigan"]
   
+  Over_Under_Score_Odds[Home_Team=="Oita Trinita", Home_Team:="Oita"]
+  Over_Under_Score_Odds[Away_Team=="Oita Trinita", Away_Team:="Oita"]
+  
+  Over_Under_Score_Odds[Home_Team=="Shimizu S-Pulse", Home_Team:="Shimizu"]
+  Over_Under_Score_Odds[Away_Team=="Shimizu S-Pulse", Away_Team:="Shimizu"]
+  
+  Over_Under_Score_Odds[Home_Team=="", Home_Team:=""]
+  Over_Under_Score_Odds[Away_Team=="", Away_Team:=""]
+  
+  Over_Under_Score_Odds[Home_Team=="", Home_Team:=""]
+  Over_Under_Score_Odds[Away_Team=="", Away_Team:=""]
+  
+  Over_Under_Score_Odds[Home_Team=="", Home_Team:=""]
+  Over_Under_Score_Odds[Away_Team=="", Away_Team:=""]
+  
   Over_Under_Score_Odds[Home_Team=="", Home_Team:=""]
   Over_Under_Score_Odds[Away_Team=="", Away_Team:=""]
   
@@ -883,8 +902,8 @@ Over_Under_Score_Odds_Manipulation=function(Over_Under_Score_Odds){
   # Over_Under_Score_Odds[Home_Team=="Qingdao Huanghai FC", Home_Team:=""]
   # Over_Under_Score_Odds[Away_Team=="Qingdao Huanghai FC", Away_Team:=""]
   
-  Over_Under_Score_Odds[Home_Team=="", Home_Team:=""]
-  Over_Under_Score_Odds[Away_Team=="", Away_Team:=""]
+  Over_Under_Score_Odds[Home_Team=="Zhejiang Greentown FC", Home_Team:="Zhejiang Greentown"]
+  Over_Under_Score_Odds[Away_Team=="Zhejiang Greentown FC", Away_Team:="Zhejiang Greentown"]
   
   Over_Under_Score_Odds[Home_Team=="", Home_Team:=""]
   Over_Under_Score_Odds[Away_Team=="", Away_Team:=""]
@@ -1051,8 +1070,8 @@ Over_Under_Score_Odds_Manipulation=function(Over_Under_Score_Odds){
   Over_Under_Score_Odds[Home_Team=="Caykur Rizespor", Home_Team:="Rizespor"]
   Over_Under_Score_Odds[Away_Team=="Caykur Rizespor", Away_Team:="Rizespor"]
   
-  Over_Under_Score_Odds[Home_Team=="", Home_Team:=""]
-  Over_Under_Score_Odds[Away_Team=="", Away_Team:=""]
+  Over_Under_Score_Odds[Home_Team=="MKE Ankaragucu", Home_Team:="Ankaragucu"]
+  Over_Under_Score_Odds[Away_Team=="MKE Ankaragucu", Away_Team:="Ankaragucu"]
   
   Over_Under_Score_Odds[Home_Team=="", Home_Team:=""]
   Over_Under_Score_Odds[Away_Team=="", Away_Team:=""]
@@ -1570,6 +1589,20 @@ Compute_Kelly_Scores=function(Over_Under_Score_Odds, Results_Data, League_Text, 
         Chosen_Profit = ifelse(Over_Selected >= Under_Selected,
                                Over_Selected,
                                Under_Selected)
+        
+      } else{
+        # if there is no positive expected profit
+        Chosen_Profit = NULL
+      }
+    } else if (Chosen_Profit_Criteria==4) {
+      #***************************************************************************************************************************
+      # Chosen_Profit Criterion - (4) : "Under 0.5"
+      Temp = unlist(Over_Under_Score_Profit[i, "Under 0.5"])
+      
+      if (length(Temp) >
+          0) {
+        # bet only if there is positive expected profit
+        Chosen_Profit = Temp
         
       } else{
         # if there is no positive expected profit

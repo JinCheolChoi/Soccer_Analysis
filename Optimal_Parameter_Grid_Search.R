@@ -58,7 +58,7 @@ for(Ind in 1:nrow(Training_Output)){
   #*************
   # Training set
   #*************
-  Combined_Over_Under_Score_Odds=Full_Combined_Over_Under_Score_Odds[Date<=Last_Date, ]
+  Combined_Over_Under_Score_Odds=Full_Combined_Over_Under_Score_Odds[Date<=Training_Last_Date, ]
   source(paste0(CODE.dir.2, "Calculate_Balance_2.R"))
   Combined_Over_Under_Score_Odds
   
@@ -111,9 +111,9 @@ for(Ind in 1:nrow(Training_Output)){
   #*********
   # Test set
   #*********
-  Combined_Over_Under_Score_Odds=Full_Combined_Over_Under_Score_Odds[Date>Last_Date, ]
+  Combined_Over_Under_Score_Odds=Full_Combined_Over_Under_Score_Odds[Date>Training_Last_Date &
+                                                                       Date<=Test_Last_Date, ]
   source(paste0(CODE.dir.2, "Calculate_Balance_2.R"))
-  
   # Test_Output
   if(length(Final_Combined_Over_Under_Score_Odds)!=0){
     # if Betting_Amount is given as an amount, the outcome of interest is Cumulative_Profit, not Daily_Balance

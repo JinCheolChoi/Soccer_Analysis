@@ -86,12 +86,12 @@ source(paste0(CODE.dir.2, "Extract_Data_Game_Results.R"))
 # load
 #*****
 #load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-24-Uni-Dist.Rdata")
-load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-24-Ind-Dist.Rdata")
+load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-11-to-25.Rdata")
 Optimal_Settings
-Optimal_Pars="Yes" # use optimal parameters based on Optimal_Settings
-# Prob_Estimate="Exact"
-# Chosen_Profit_Criteria=1
-# Coef=1/5.8
+Optimal_Pars="No" # use optimal parameters based on Optimal_Settings
+Prob_Estimate="Exact"
+Chosen_Profit_Criteria=1
+Coef=1/5.8
 
 data.dir.1="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Data/Game_results/"
 # data.dir.2="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Data/Over_under_score_odds/"
@@ -132,8 +132,8 @@ while(Loop==0){
   # Close connection to log file
   closeAllConnections()
   
-  # loop every 3 hours
-  Sys.sleep(6*60*60)
+  # loop every 6 hours
+  Sys.sleep(12*60*60)
 }
 
 #******************************
@@ -144,7 +144,7 @@ while(Loop==0){
 data.dir.1="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Data/Game_results/"
 output.dir="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Output/Over_under_score_odds/"
 Capital=10000
-Years=2020
+Years=2020 # year changes as of every July
 Betting_Amount=10   # Amount*Proportion (input any amount)
 # Kelly
 Simulation="Yes"       # No = calculate balance based on actual bettings
@@ -163,20 +163,19 @@ All_Leagues=c(
   "j2-league",
   "super-lig"
 )
-Prob_Estimates=c("Poisson", "Exact", "Negative_Binom", "Implied") # "Poisson", "Exact", "Negative_Binom", "Implied"
-Chosen_Profit_Criterias=c(1, 2, 3) # choose the option to bet by : 
+Prob_Estimates=c("Poisson", "Exact", "Implied") # "Poisson", "Exact", "Negative_Binom", "Implied"
+Chosen_Profit_Criterias=c(1, 4) # choose the option to bet by : 
 # 1 : maximum profit
 # 2 : minimum profit
 # 3 : a larger profit between the lowest option of "Over"s and the highest option of "Under"s
+# 4 : "Under 0.5"
 Coefs=1/seq(1, 16, by=0.1)
-Last_Date="2020-10-24" # the last date in training set
+Training_Last_Date="2021-01-15" # the last date in training set
+Test_Last_Date="2021-02-07" # the last date in training set
 #
 t_1=system.time({
   source(paste0(CODE.dir.2, "Optimal_Parameter_Grid_Search.R"))
 })
-
-Training_Output[, ] %>% head
-Test_Output[, ] %>% head
 
 #*****************
 # optimal settings
@@ -200,40 +199,40 @@ All_Leagues=c(
 )
 for(League_Ind in 1:length(All_Leagues)){
   #League_Ind=1
-  Selected_Training_Output=Training_Output[League==All_Leagues[League_Ind]&
-                                             Prob_Est=="Exact"
-                                           # Chosen_Profit_Criterion==1 &
-                                           # Efficient>0
-                                           # Efficient<2 &
-                                           # Cum_Profit>1000 &
-                                           # Bet_Std<1000 &
-                                           # Profit_Std<500
-                                           # Cum_Profit_Std<1000 &
-                                           #Total_Bet<100000000 &
-                                           #Min_Cum_Profit>0 &
-                                           #Fixed_Bet_Prof_Ind>0 &
-                                           #Kelly_Bet_Prof_Ind>0
-                                           , ]%>%
-    filter(Cum_Profit==max(Cum_Profit))
+  # Selected_Training_Output=Test_Output[League==All_Leagues[League_Ind]&
+  #                                            Prob_Est=="Exact"&
+  #                                            Chosen_Profit_Criterion==4 &
+  #                                          Efficient>0 &
+  #                                          Efficient<2
+  #                                          # Cum_Profit>100
+  #                                          # Bet_Std<1000 &
+  #                                          # Profit_Std<500 &
+  #                                          # Cum_Profit_Std<1000
+  #                                          #Total_Bet<100000000 &
+  #                                          #Min_Cum_Profit>0 &
+  #                                          #Fixed_Bet_Prof_Ind>0 &
+  #                                          #Kelly_Bet_Prof_Ind>0
+  #                                          , ]%>%
+  #   filter(Cum_Profit==max(Cum_Profit, na.rm=T))
   
-  # Selected_Training_Output=Output[League==All_Leagues[League_Ind]&
-  #                                   Prob_Est=="Exact"&
-  #                                   Efficient.x>0 & Efficient.y>0 &
-  #                                   #Efficient.x<2 & Efficient.y<2 &
-  #                                   # Fixed_Bet_Prof_Ind.x>0 & Fixed_Bet_Prof_Ind.y>0 &
-  #                                   # Kelly_Bet_Prof_Ind.x>0 & Kelly_Bet_Prof_Ind.y>0
-  #                                   Cum_Profit.x>100 & Cum_Profit.y>100
-  #                                 , ] %>%
-  #   filter(Cum_Profit.x==max(Cum_Profit.x))
+  Selected_Training_Output=Output[League==All_Leagues[League_Ind]&
+                                    #Prob_Est=="Exact"&
+                                    Chosen_Profit_Criterion==4 &
+                                    Efficient.x>0 & Efficient.y>0 &
+                                    Efficient.x<2 & Efficient.y<2 
+                                    # Fixed_Bet_Prof_Ind.x>0 & Fixed_Bet_Prof_Ind.y>0 &
+                                    # Kelly_Bet_Prof_Ind.x>0 & Kelly_Bet_Prof_Ind.y>0
+                                    # Cum_Profit.x>100 & Cum_Profit.y>100
+                                  , ] %>%
+    filter(Cum_Profit.x==max(Cum_Profit.x, na.rm=T))
   
   Optimal_Settings=rbind(Optimal_Settings, Selected_Training_Output)
 }
-Optimal_Settings %>% 
-  left_join(Test_Output, by=c("League", "Prob_Est", "Chosen_Profit_Criterion", "Coef")) %>% 
-  filter(Fixed_Bet_Prof_Ind.y>10)
 Optimal_Settings
+
 data.table(Optimal_Settings$League,
            1/Optimal_Settings$Coef)
+
 
 # #############################################
 # Training=rbind(Training_Output) %>%
@@ -288,8 +287,9 @@ Countries=c(
   "japan",
   "turkey"
 )
-First_Date="2020-01-12"
+First_Date=as.Date(Test_Last_Date)+1
 Last_Date=Sys.Date()+1 # last date to parse
+
 
 #******************
 # calculate balance
@@ -342,7 +342,11 @@ if(Betting_Amount=="Kelly"){
                     paste0("Total betting : ", sum(Final_Combined_Over_Under_Score_Odds[, Bet])))
   
 }
-Simul_Result
+Simul_Result[[2]] %>% head(30)
+
+
+# # profit
+# sum(Simul_Result[[1]]$Result*(Simul_Result[[1]]$Chosen_Odds-1))-sum(Simul_Result[[1]]$Result==0)
 
 Simul_Result[[1]][Date>=First_Date, ] %>% 
   group_by(Date) %>% 
@@ -368,8 +372,14 @@ Simul_Result[[1]][Date>=First_Date&Profit>0, ] %>%
 #**************
 # save and load
 #**************
-#save.image("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-24-Ind-Dist.Rdata")
-#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-24-Ind-Dist.Rdata")
-#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-11-Ind-Dist.Rdata")
-#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-04-Ind-Dist.Rdata")
+#save.image("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2021-01-15-and-02-07.Rdata")
+#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2021-01-15-and-02-07.Rdata")
+#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-12-15-and-12-31.Rdata")
+#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-11-15-and-12-01.Rdata")
+#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-11-01-to-05.Rdata")
+#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-11-to-25.Rdata")
+#load("C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Rdata/2020-10-04-to-18.Rdata")
+
+
+
 

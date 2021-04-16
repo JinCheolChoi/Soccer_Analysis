@@ -1,0 +1,412 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-11-10 10:22:26"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-11-10 10:22:49"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2020-11-10 10:23:11"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2020-11-10 10:23:32"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : spain, laliga - 2020-11-10 10:23:53"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], get all hyperlinks for games"
+[1] "Country : [spain], League : [laliga], game times"
+[1] "Country : [spain], League : [laliga], Over_under_score_odds"
+[1] "Country : [spain], League : [laliga], extract team names"
+[1] "Country : [spain], League : [laliga], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2020-11-10 10:24:14"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2020-11-10 10:24:36"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], 1 new game(s) found to add."
+[1] "Country : [netherlands], League : [eerste-divisie], calculate kelly scores"
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League  Home_Team Away_Team
+1: 2020-11-11 eerste-divisie Graafschap     Breda
+                                                                              URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10238312/de-graafschap-v-nac-breda     1.02        18     1.16
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       4.5     1.53       2.3      2.3      1.53      3.9      1.22        0         0     Under 1.5         4.5
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                            0 1                 0 4.461538 2020-11-10 10:25:11
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 1 out of 1"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-11-11 Graafschap     Breda
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : germany, 3-liga - 2020-11-10 10:25:12"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [germany], League : [3-liga], navigate to the website"
+[1] "Country : [germany], League : [3-liga], get all hyperlinks for games"
+[1] "Country : [germany], League : [3-liga], game times"
+[1] "Country : [germany], League : [3-liga], Over_under_score_odds"
+[1] "Country : [germany], League : [3-liga], extract team names"
+[1] "Country : [germany], League : [3-liga], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : china, super-league - 2020-11-10 10:25:34"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [china], League : [super-league], navigate to the website"
+[1] "Country : [china], League : [super-league], get all hyperlinks for games"
+[1] "Country : [china], League : [super-league], game times"
+[1] "Country : [china], League : [super-league], Over_under_score_odds"
+[1] "Country : [china], League : [super-league], extract team names"
+[1] "Country : [china], League : [super-league], 1 new game(s) found to add."
+[1] "Country : [china], League : [super-league], calculate kelly scores"
+[1] "Country : [china], League : [super-league], Target_Options_N"
+[1] "Country : [china], League : [super-league], Headings"
+[1] "Country : [china], League : [super-league], navigate to the game"
+[1] "Country : [china], League : [super-league], navigate to the game"
+[1] "Country : [china], League : [super-league], open heandings chosen"
+         Date       League     Home_Team     Away_Team
+1: 2020-11-11 super-league Beijing Guoan Shanghai SIPG
+                                                                                     URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10240501/beijing-guoan-fc-v-shanghai-sipg     1.05        11      1.3
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:      3.25      1.9       1.8     3.25       1.3        6       1.1        0         0      Over 3.5        3.25
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.1428571 7           0.13226 2.092437 2020-11-10 10:26:14
+[1] "Country : [china], League : [super-league], Progress : 1 out of 1"
+[1] "Added game"
+         Date     Home_Team     Away_Team
+1: 2020-11-11 Beijing Guoan Shanghai SIPG
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j1-league - 2020-11-10 10:26:15"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j1-league], navigate to the website"
+[1] "Country : [japan], League : [j1-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j1-league], game times"
+[1] "Country : [japan], League : [j1-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j1-league], extract team names"
+[1] "Country : [japan], League : [j1-league], 4 new game(s) found to add."
+[1] "Country : [japan], League : [j1-league], calculate kelly scores"
+[1] "Country : [japan], League : [j1-league], Target_Options_N"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2020-11-11 j1-league  FC Tokyo   Sapporo
+                                                                                          URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10236833/fc-tokyo-v-hokkaido-consadole-sapporo     1.03        15
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option
+1:      1.2         4     1.67       2.1      2.6      1.44      4.5      1.16        0         0      Over 4.5
+   Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:         4.5                          0.2 5         0.1788854 3.769231 2020-11-10 10:26:57
+[1] "Country : [japan], League : [j1-league], Progress : 1 out of 4"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-11  FC Tokyo   Sapporo
+[1] "Country : [japan], League : [j1-league], Target_Options_N"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2020-11-11 j1-league   G-Osaka      Kobe
+                                                                              URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10236834/gamba-osaka-v-vissel-kobe        0         0     1.14
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:         5     1.47      2.45      2.2      1.62      3.6      1.25      6.5      1.09     Under 1.5           5
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.1538462 13         0.1000683 6.288462 2020-11-10 10:27:16
+[1] "Country : [japan], League : [j1-league], Progress : 2 out of 4"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-11   G-Osaka      Kobe
+[1] "Country : [japan], League : [j1-league], Target_Options_N"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2020-11-11 j1-league Hiroshima    Nagoya
+                                                                                         URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10236857/sanfrecce-hiroshima-v-nagoya-grampus     1.05        10
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option
+1:     1.33         3        2       1.7      3.5      1.25      6.5      1.08        0         0      Over 3.5
+   Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:         3.5                    0.1666667 12         0.1075829 2.268116 2020-11-10 10:27:34
+[1] "Country : [japan], League : [j1-league], Progress : 3 out of 4"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-11 Hiroshima    Nagoya
+[1] "Country : [japan], League : [j1-league], Target_Options_N"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], open heandings chosen"
+         Date    League Home_Team   Away_Team
+1: 2020-11-11 j1-league    Shonan Yokohama M.
+                                                                                         URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10236843/shonan-bellmare-v-yokohama-f-marinos        0         0
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option
+1:      1.1         6     1.36       2.9     1.87      1.83        3      1.36        5      1.14      Over 5.5
+   Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std Kelly         Record_Time
+1:           5                            0 4                 0  7.25 2020-11-10 10:27:53
+[1] "Country : [japan], League : [j1-league], Progress : 4 out of 4"
+[1] "Added game"
+         Date Home_Team   Away_Team
+1: 2020-11-11    Shonan Yokohama M.
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j2-league - 2020-11-10 10:27:54"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j2-league], navigate to the website"
+[1] "Country : [japan], League : [j2-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j2-league], game times"
+[1] "Country : [japan], League : [j2-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j2-league], extract team names"
+[1] "Country : [japan], League : [j2-league], 11 new game(s) found to add."
+[1] "Country : [japan], League : [j2-league], calculate kelly scores"
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League      Home_Team Away_Team
+1: 2020-11-11 j2-league Avispa Fukuoka    Ryukyu
+                                                                               URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10240330/avispa-fukuoka-v-fc-ryukyu     1.06        10      1.3
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       3.2        2      1.75      3.4      1.28        6      1.09        0         0      Over 3.5         3.4
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                            0 1                 0 2.416667 2020-11-10 10:28:37
+[1] "Country : [japan], League : [j2-league], Progress : 1 out of 11"
+[1] "Added game"
+         Date      Home_Team Away_Team
+1: 2020-11-11 Avispa Fukuoka    Ryukyu
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League           Home_Team Away_Team
+1: 2020-11-11 j2-league Giravanz Kitakyushu     Ehime
+                                                                                   URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10240333/giravanz-kitakyushu-v-ehime-fc     1.05        10      1.3
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       3.2     1.95      1.75      3.4      1.28        6      1.09        0         0      Over 3.5         3.4
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.2857143 7         0.1707469 2.011905 2020-11-10 10:29:00
+[1] "Country : [japan], League : [j2-league], Progress : 2 out of 11"
+[1] "Added game"
+         Date           Home_Team Away_Team
+1: 2020-11-11 Giravanz Kitakyushu     Ehime
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2020-11-11 j2-league     Kyoto     Verdy
+                                                                                 URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10240348/kyoto-sanga-fc-v-tokyo-verdy     1.05        11     1.28
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:      3.25      1.9       1.8      3.2       1.3     5.75       1.1        0         0      Over 4.5        5.75
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                   0.09090909 11        0.08667842 105.5455 2020-11-10 10:29:19
+[1] "Country : [japan], League : [j2-league], Progress : 3 out of 11"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-11     Kyoto     Verdy
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League Home_Team        Away_Team
+1: 2020-11-11 j2-league   Machida Renofa Yamaguchi
+                                                                                      URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10240355/machida-zelvia-v-renofa-yamaguchi     1.05        10     1.33
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       3.2        2      1.75      3.4      1.28      6.5      1.09        0         0      Over 3.5         3.4
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std  Kelly         Record_Time
+1:                         0.25 4         0.2165064 2.0625 2020-11-10 10:29:38
+[1] "Country : [japan], League : [j2-league], Progress : 4 out of 11"
+[1] "Added game"
+         Date Home_Team        Away_Team
+1: 2020-11-11   Machida Renofa Yamaguchi
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2020-11-11 j2-league    Yamaga     Chiba
+                                                                                                    URL Over 0.5
+1: https://www.playnow.com/sports/sports/event/10240374/matsumoto-yamaga-fc-v-jef-united-ichihara-chiba     1.07
+   Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:       8.5      1.4      2.75     2.25      1.57        4       1.2      7.5      1.06        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      Over 3.5           4                          0.5 6         0.2041241 2.111111 2020-11-10 10:29:56
+[1] "Country : [japan], League : [j2-league], Progress : 5 out of 11"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-11    Yamaga     Chiba
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League         Home_Team    Away_Team
+1: 2020-11-11 j2-league Montedio Yamagata Omiya Ardija
+                                                                                     URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10240359/montedio-yamagata-v-omiya-ardija     1.06         9     1.36
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       2.9      2.1      1.67      3.6      1.25        7      1.07        0         0      Over 3.5         3.6
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.3333333 6         0.1924501 2.090909 2020-11-10 10:30:19
+[1] "Country : [japan], League : [j2-league], Progress : 6 out of 11"
+[1] "Added game"
+         Date         Home_Team    Away_Team
+1: 2020-11-11 Montedio Yamagata Omiya Ardija
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2020-11-11 j2-league Tokushima   Tochigi
+                                                                                  URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10240362/tokushima-vortis-v-tochigi-sc     1.09       7.5     1.47
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       2.5      2.4       1.5      4.5      1.16        8      1.04        0         0      Over 3.5         4.5
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                          0.5 8         0.1767767 2.730769 2020-11-10 10:30:37
+[1] "Country : [japan], League : [j2-league], Progress : 7 out of 11"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-11 Tokushima   Tochigi
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League        Home_Team Away_Team
+1: 2020-11-11 j2-league V-Varen Nagasaki   Okayama
+                                                                                       URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10240371/v-varen-nagasaki-v-fagiano-okayama     1.07       8.5
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option
+1:     1.38       2.8     2.15      1.62      3.9      1.22        7      1.06        0         0      Over 3.5
+   Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:         3.9                    0.3333333 6         0.1924501 2.368421 2020-11-10 10:30:56
+[1] "Country : [japan], League : [j2-league], Progress : 8 out of 11"
+[1] "Added game"
+         Date        Home_Team Away_Team
+1: 2020-11-11 V-Varen Nagasaki   Okayama
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2020-11-11 j2-league      Kofu      Mito
+                                                                                    URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10240352/ventforet-kofu-v-mito-hollyhock     1.06        10     1.33
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       3.2        2       1.7      3.4      1.28      6.5      1.08        0         0      Over 3.5         3.4
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.2307692 13         0.1168545 2.089744 2020-11-10 10:31:15
+[1] "Country : [japan], League : [j2-league], Progress : 9 out of 11"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-11      Kofu      Mito
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2020-11-11 j2-league  Kanazawa   Kusatsu
+                                                                                     URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10240334/zweigen-kanazawa-v-thespakusatsu     1.04        13     1.25
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       3.5      1.8       1.9        3      1.33      5.5      1.12        0         0      Over 4.5         5.5
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                            0 3                 0 19.33333 2020-11-10 10:31:33
+[1] "Country : [japan], League : [j2-league], Progress : 10 out of 11"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-11  Kanazawa   Kusatsu
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League Home_Team       Away_Team
+1: 2020-11-11 j2-league     Iwata Albirex Niigata
+                                                                                   URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10240375/jubilo-iwata-v-niigata-albirex     1.04        12     1.25
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       3.5     1.83      1.87        3      1.33      5.5      1.12        0         0                        NA
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                           NA NA                NA    NA 2020-11-10 10:31:54
+[1] "Country : [japan], League : [j2-league], Progress : 11 out of 11"
+[1] "Added game"
+         Date Home_Team       Away_Team
+1: 2020-11-11     Iwata Albirex Niigata
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : turkey, super-lig - 2020-11-10 10:31:55"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [turkey], League : [super-lig], navigate to the website"
+[1] "Country : [turkey], League : [super-lig], navigate to the website"
+[1] "Country : [turkey], League : [super-lig], get all hyperlinks for games"
+[1] "Country : [turkey], League : [super-lig], game times"
+[1] "Country : [turkey], League : [super-lig], Over_under_score_odds"
+[1] "Country : [turkey], League : [super-lig], extract team names"
+[1] "Country : [turkey], League : [super-lig], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""

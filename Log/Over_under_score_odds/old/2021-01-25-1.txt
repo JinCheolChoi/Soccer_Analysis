@@ -1,0 +1,405 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2021-01-25 03:25:38"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 4 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], calculate kelly scores"
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League      Home_Team Away_Team                                                                                                                                      URL Over 0.5 Under 0.5 Over 1.5
+1: 2021-01-26 premier-league Crystal Palace  West Ham https://www.playnow.com/sports/sports/event/10287194/soccer/united-kingdom/english-premier-league/crystal-palace-fc-v-west-ham-united-fc     1.07         9     1.38
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:       2.9      2.2      1.62      3.9      1.22      7.5      1.07        0         0      Over 3.5         3.9                    0.4285714 7         0.1870439 2.172932 2021-01-25 03:26:27
+[1] "Country : [england], League : [premier-league], Progress : 1 out of 4"
+[1] "Added game"
+         Date      Home_Team Away_Team
+1: 2021-01-26 Crystal Palace  West Ham
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team Away_Team                                                                                                                                  URL Over 0.5 Under 0.5 Over 1.5 Under 1.5
+1: 2021-01-26 premier-league Newcastle     Leeds https://www.playnow.com/sports/sports/event/10287260/soccer/united-kingdom/english-premier-league/newcastle-united-fc-v-leeds-united     1.03        15      1.2      4.25
+   Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std   Kelly         Record_Time
+1:     1.67       2.1     2.65      1.44     4.75      1.16        0         0      Over 4.5        4.75                            0 6                 0 5.52381 2021-01-25 03:26:48
+[1] "Country : [england], League : [premier-league], Progress : 2 out of 4"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-26 Newcastle     Leeds
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League   Home_Team Away_Team                                                                                                                           URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5
+1: 2021-01-26 premier-league Southampton   Arsenal https://www.playnow.com/sports/sports/event/10287262/soccer/united-kingdom/english-premier-league/southampton-fc-v-arsenal-fc     1.05        11     1.28       3.4      1.9
+   Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:      1.83      3.2      1.33        6      1.11        0         0     Under 1.5         3.4                    0.2142857 14         0.1096642 2.113095 2021-01-25 03:27:09
+[1] "Country : [england], League : [premier-league], Progress : 3 out of 4"
+[1] "Added game"
+         Date   Home_Team Away_Team
+1: 2021-01-26 Southampton   Arsenal
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team       Away_Team                                                                                                                                         URL Over 0.5 Under 0.5 Over 1.5
+1: 2021-01-26 premier-league West Brom Manchester City https://www.playnow.com/sports/sports/event/10287258/soccer/united-kingdom/english-premier-league/west-bromwich-albion-v-manchester-city-fc        0         0     1.15
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:      5.25      1.5      2.45     2.25       1.6     3.75      1.25        7      1.09     Under 1.5        5.25                   0.08333333 12        0.07978559  9.75 2021-01-25 03:27:31
+[1] "Country : [england], League : [premier-league], Progress : 4 out of 4"
+[1] "Added game"
+         Date Home_Team       Away_Team
+1: 2021-01-26 West Brom Manchester City
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2021-01-25 03:27:32"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], 2 new game(s) found to add."
+[1] "Country : [england], League : [championship], calculate kelly scores"
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League    Home_Team    Away_Team                                                                                                                              URL Over 0.5 Under 0.5 Over 1.5 Under 1.5
+1: 2021-01-26 championship Bristol City Huddersfield https://www.playnow.com/sports/sports/event/10286855/soccer/united-kingdom/english-championship/bristol-city-v-huddersfield-town     1.06         9     1.33         3
+   Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      2.1      1.67      3.6      1.25      6.5      1.07        0         0     Under 1.5           3                            0 5                 0 2.071429 2021-01-25 03:28:17
+[1] "Country : [england], League : [championship], Progress : 1 out of 2"
+[1] "Added game"
+         Date    Home_Team    Away_Team
+1: 2021-01-26 Bristol City Huddersfield
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League Home_Team Away_Team                                                                                                                      URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-26 championship  Millwall   Watford https://www.playnow.com/sports/sports/event/10288020/soccer/united-kingdom/english-championship/millwall-fc-v-watford-fc     1.08       7.5      1.4       2.7      2.3      1.57
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:        4       1.2      7.5      1.05        0         0      Over 3.5           4                    0.3333333 9         0.1571348 2.481481 2021-01-25 03:28:35
+[1] "Country : [england], League : [championship], Progress : 2 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-26  Millwall   Watford
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2021-01-25 03:28:36"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], 11 new game(s) found to add."
+[1] "Country : [england], League : [league-one], calculate kelly scores"
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League  Home_Team Away_Team                                                                                                                        URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-26 league-one Accrington      Hull https://www.playnow.com/sports/sports/event/10289548/soccer/united-kingdom/english-league-1/accrington-stanley-v-hull-city     1.05        11     1.28      3.25      1.9       1.8
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:      3.2       1.3     5.75       1.1        0         0                        NA                           NA NA                NA    NA 2021-01-25 03:29:21
+[1] "Country : [england], League : [league-one], Progress : 1 out of 11"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2021-01-26 Accrington      Hull
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League  Home_Team Away_Team                                                                                                                         URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-26 league-one Gillingham     Crewe https://www.playnow.com/sports/sports/event/10289563/soccer/united-kingdom/english-league-1/gillingham-fc-v-crewe-alexandra     1.05        10      1.3       3.2     1.95      1.75
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:     3.25      1.28        6      1.09        0         0      Over 3.5        3.25                         0.25 4         0.2165064 1.955882 2021-01-25 03:29:40
+[1] "Country : [england], League : [league-one], Progress : 2 out of 11"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2021-01-26 Gillingham     Crewe
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team     Away_Team                                                                                                                          URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5
+1: 2021-01-26 league-one Doncaster AFC Wimbledon https://www.playnow.com/sports/sports/event/10289550/soccer/united-kingdom/english-league-1/doncaster-rovers-v-afc-wimbledon     1.05        10      1.3       3.2     1.95
+   Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      1.75      3.4      1.28        6      1.09        0         0      Over 3.5         3.4                            0 2                 0 2.416667 2021-01-25 03:29:59
+[1] "Country : [england], League : [league-one], Progress : 3 out of 11"
+[1] "Added game"
+         Date Home_Team     Away_Team
+1: 2021-01-26 Doncaster AFC Wimbledon
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team Away_Team                                                                                                                                URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5
+1: 2021-01-26 league-one   MK Dons  Charlton https://www.playnow.com/sports/sports/event/10289565/soccer/united-kingdom/english-league-1/milton-keynes-dons-v-charlton-athletic     1.05        11     1.28       3.4      1.9
+   Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std Kelly         Record_Time
+1:       1.8      3.2       1.3     5.75       1.1        0         0      Over 4.5        5.75                            0 5                 0   116 2021-01-25 03:30:17
+[1] "Country : [england], League : [league-one], Progress : 4 out of 11"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-26   MK Dons  Charlton
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League    Home_Team      Away_Team                                                                                                                              URL Over 0.5 Under 0.5 Over 1.5 Under 1.5
+1: 2021-01-26 league-one Peterborough Bristol Rovers https://www.playnow.com/sports/sports/event/10289562/soccer/united-kingdom/english-league-1/peterborough-united-v-bristol-rovers     1.04        13     1.25       3.6
+   Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      1.8      1.95      2.9      1.36     5.25      1.13        0         0      Over 4.5        5.25                    0.3333333 6         0.1924501 7.363636 2021-01-25 03:30:36
+[1] "Country : [england], League : [league-one], Progress : 5 out of 11"
+[1] "Added game"
+         Date    Home_Team      Away_Team
+1: 2021-01-26 Peterborough Bristol Rovers
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League  Home_Team Away_Team                                                                                                                      URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-26 league-one Portsmouth   Lincoln https://www.playnow.com/sports/sports/event/10289551/soccer/united-kingdom/english-league-1/portsmouth-fc-v-lincoln-city     1.07       8.5     1.36       2.9     2.15      1.62
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:     3.75      1.22        7      1.07        0         0      Over 3.5        3.75                            0 1                 0 2.829268 2021-01-25 03:30:55
+[1] "Country : [england], League : [league-one], Progress : 6 out of 11"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2021-01-26 Portsmouth   Lincoln
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team  Away_Team                                                                                                                      URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-26 league-one  Rochdale Oxford Utd https://www.playnow.com/sports/sports/event/10289552/soccer/united-kingdom/english-league-1/rochdale-afc-v-oxford-united     1.03        14      1.2         4     1.67       2.1
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      2.6      1.44      4.5      1.16        0         0      Over 4.5         4.5                            0 3                 0 4.461538 2021-01-25 03:31:13
+[1] "Country : [england], League : [league-one], Progress : 7 out of 11"
+[1] "Added game"
+         Date Home_Team  Away_Team
+1: 2021-01-26  Rochdale Oxford Utd
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team Away_Team                                                                                                                        URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-26 league-one   Swindon  Plymouth https://www.playnow.com/sports/sports/event/10289553/soccer/united-kingdom/english-league-1/swindon-town-v-plymouth-argyle     1.03        14     1.22       3.9      1.7      2.05
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      2.7       1.4     4.75      1.15        0         0      Over 4.5        4.75                    0.6666667 3         0.2721655 2.507937 2021-01-25 03:31:32
+[1] "Country : [england], League : [league-one], Progress : 8 out of 11"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-26   Swindon  Plymouth
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team Away_Team                                                                                                                    URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-26 league-one     Wigan Blackpool https://www.playnow.com/sports/sports/event/10289549/soccer/united-kingdom/english-league-1/wigan-athletic-v-blackpool     1.06        10      1.3       3.2        2      1.75
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      3.4      1.28        6      1.09        0         0      Over 3.5         3.4                    0.1666667 6         0.1521452 2.180556 2021-01-25 03:31:53
+[1] "Country : [england], League : [league-one], Progress : 9 out of 11"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-26     Wigan Blackpool
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team   Away_Team                                                                                                                           URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5
+1: 2021-01-26 league-one Fleetwood Northampton https://www.playnow.com/sports/sports/event/10289560/soccer/united-kingdom/english-league-1/fleetwood-town-v-northampton-town     1.04        12     1.28       3.4     1.87
+   Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std Kelly         Record_Time
+1:      1.83      3.2      1.33     5.75      1.11        0         0      Over 4.5        5.75                            0 2                 0   116 2021-01-25 03:32:12
+[1] "Country : [england], League : [league-one], Progress : 10 out of 11"
+[1] "Added game"
+         Date Home_Team   Away_Team
+1: 2021-01-26 Fleetwood Northampton
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team  Away_Team                                                                                                                       URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-26 league-one   Ipswich Sunderland https://www.playnow.com/sports/sports/event/10289555/soccer/united-kingdom/english-league-1/ipswich-town-v-sunderland-afc     1.07       8.5     1.38      2.75      2.2       1.6
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      3.9      1.22      7.5      1.06        0         0      Over 3.5         3.9                            0 1                 0 3.052632 2021-01-25 03:32:30
+[1] "Country : [england], League : [league-one], Progress : 11 out of 11"
+[1] "Added game"
+         Date Home_Team  Away_Team
+1: 2021-01-26   Ipswich Sunderland
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2021-01-25 03:32:31"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], 3 new game(s) found to add."
+[1] "Country : [england], League : [league-two], calculate kelly scores"
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team                                                                                                                    URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-26 league-two    Exeter Morecambe https://www.playnow.com/sports/sports/event/10292167/soccer/united-kingdom/english-league-2/exeter-city-v-morecambe-fc     1.02        16     1.18       4.5     1.57      2.25
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      2.4       1.5        4       1.2        0         0     Under 1.5         4.5                        0.125 8         0.1169268 4.028846 2021-01-25 03:33:15
+[1] "Country : [england], League : [league-two], Progress : 1 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-26    Exeter Morecambe
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team                                                                                                                   URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2021-01-26 league-two    Barrow   Grimsby https://www.playnow.com/sports/sports/event/10292168/soccer/united-kingdom/english-league-2/barrow-afc-v-grimsby-town     1.05        10      1.3       3.2     1.95      1.75
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:     3.25      1.28        6      1.09        0         0                        NA                           NA NA                NA    NA 2021-01-25 03:33:33
+[1] "Country : [england], League : [league-two], Progress : 2 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-26    Barrow   Grimsby
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League  Home_Team Away_Team                                                                                                                           URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5
+1: 2021-01-26 league-two Cheltenham    Oldham https://www.playnow.com/sports/sports/event/10292171/soccer/united-kingdom/english-league-2/cheltenham-town-v-oldham-athletic     1.04        12     1.25       3.6      1.8
+   Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:       1.9      2.9      1.36     5.25      1.12        0         0      Over 4.5        5.25                            0 2                 0 10.54545 2021-01-25 03:33:53
+[1] "Country : [england], League : [league-two], Progress : 3 out of 3"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2021-01-26 Cheltenham    Oldham
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : spain, laliga - 2021-01-25 03:33:54"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], get all hyperlinks for games"
+[1] "Country : [spain], League : [laliga], game times"
+[1] "Country : [spain], League : [laliga], Over_under_score_odds"
+[1] "Country : [spain], League : [laliga], extract team names"
+[1] "Country : [spain], League : [laliga], 0 new game(s) found to add."
+[1] "Country : [spain], League : [laliga], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2021-01-25 03:34:19"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2021-01-25 03:34:45"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], 0 new game(s) found to add."
+[1] "Country : [netherlands], League : [eerste-divisie], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : germany, 3-liga - 2021-01-25 03:35:07"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [germany], League : [3-liga], navigate to the website"
+[1] "Country : [germany], League : [3-liga], get all hyperlinks for games"
+[1] "Country : [germany], League : [3-liga], game times"
+[1] "Country : [germany], League : [3-liga], Over_under_score_odds"
+[1] "Country : [germany], League : [3-liga], extract team names"
+[1] "Country : [germany], League : [3-liga], 3 new game(s) found to add."
+[1] "Country : [germany], League : [3-liga], calculate kelly scores"
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League      Home_Team        Away_Team                                                                                                                     URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5
+1: 2021-01-26 3-liga Kaiserslautern Turkgucu Munchen https://www.playnow.com/sports/sports/event/10293024/soccer/europe/german-3-liga/1-fc-kaiserslautern-v-turkgucu-munchen     1.04        12     1.25       3.6      1.8
+   Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:       1.9      2.9      1.36     5.25      1.12        0         0                        NA                           NA NA                NA    NA 2021-01-25 03:35:52
+[1] "Country : [germany], League : [3-liga], Progress : 1 out of 3"
+[1] "Added game"
+         Date      Home_Team        Away_Team
+1: 2021-01-26 Kaiserslautern Turkgucu Munchen
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League Home_Team Away_Team                                                                                                            URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2021-01-26 3-liga Bayern II      Verl https://www.playnow.com/sports/sports/event/10293023/soccer/europe/german-3-liga/fc-bayern-munich-ii-v-sc-verl     1.04        12     1.22       3.9     1.75      1.95     2.75
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:       1.4        5      1.14        0         0                        NA                           NA NA                NA    NA 2021-01-25 03:36:10
+[1] "Country : [germany], League : [3-liga], Progress : 2 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-26 Bayern II      Verl
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League Home_Team Away_Team                                                                                                         URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5
+1: 2021-01-26 3-liga   Zwickau  Duisburg https://www.playnow.com/sports/sports/event/10292677/soccer/europe/german-3-liga/fsv-zwickau-v-msv-duisburg     1.05        10     1.28      3.25     1.95       1.8      3.2       1.3
+   Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std   Kelly         Record_Time
+1:        6       1.1        0         0     Under 1.5        3.25                            0 1                 0 2.27451 2021-01-25 03:36:29
+[1] "Country : [germany], League : [3-liga], Progress : 3 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-01-26   Zwickau  Duisburg
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : china, super-league - 2021-01-25 03:36:30"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [china], League : [super-league], navigate to the website"
+[1] "Country : [china], League : [super-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j1-league - 2021-01-25 03:36:50"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j1-league], navigate to the website"
+[1] "Country : [japan], League : [j1-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j2-league - 2021-01-25 03:37:11"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j2-league], navigate to the website"
+[1] "Country : [japan], League : [j2-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : turkey, super-lig - 2021-01-25 03:37:32"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [turkey], League : [super-lig], navigate to the website"
+[1] "Country : [turkey], League : [super-lig], get all hyperlinks for games"
+[1] "Country : [turkey], League : [super-lig], game times"
+[1] "Country : [turkey], League : [super-lig], Over_under_score_odds"
+[1] "Country : [turkey], League : [super-lig], extract team names"
+[1] "Country : [turkey], League : [super-lig], 0 new game(s) found to add."
+[1] "Country : [turkey], League : [super-lig], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""

@@ -1,0 +1,388 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-12-05 11:18:21"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 4 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], calculate kelly scores"
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team      Away_Team                                                                                                                                        URL Over 0.5 Under 0.5 Over 1.5
+1: 2020-12-06 premier-league West Brom Crystal Palace https://www.playnow.com/sports/sports/event/10249709/soccer/united-kingdom/english-premier-league/west-bromwich-albion-v-crystal-palace-fc     1.07         9     1.36
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:         3      2.1      1.67     3.75      1.25        7      1.08        0         0      Over 3.5        3.75                          0.5 6         0.2041241 1.914634 2020-12-05 11:19:05
+[1] "Country : [england], League : [premier-league], Progress : 1 out of 4"
+[1] "Added game"
+         Date Home_Team      Away_Team
+1: 2020-12-06 West Brom Crystal Palace
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League     Home_Team Away_Team                                                                                                                                       URL Over 0.5 Under 0.5 Over 1.5
+1: 2020-12-06 premier-league Sheffield Utd Leicester https://www.playnow.com/sports/sports/event/10252329/soccer/united-kingdom/english-premier-league/sheffield-united-fc-v-leicester-city-fc     1.06        10     1.33
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:       3.2        2      1.75      3.4      1.28      6.5      1.09        0         0      Over 3.5         3.4                            0 1                 0 2.416667 2020-12-05 11:19:26
+[1] "Country : [england], League : [premier-league], Progress : 2 out of 4"
+[1] "Added game"
+         Date     Home_Team Away_Team
+1: 2020-12-06 Sheffield Utd Leicester
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team Away_Team                                                                                                                                 URL Over 0.5 Under 0.5 Over 1.5 Under 1.5
+1: 2020-12-06 premier-league Tottenham   Arsenal https://www.playnow.com/sports/sports/event/10252331/soccer/united-kingdom/english-premier-league/tottenham-hotspur-fc-v-arsenal-fc     1.05        11     1.28       3.4
+   Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:      1.9      1.83      3.2      1.33        6      1.11        0         0     Under 1.5         3.4                    0.1363636 22          0.073165 2.223485 2020-12-05 11:19:47
+[1] "Country : [england], League : [premier-league], Progress : 3 out of 4"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-06 Tottenham   Arsenal
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team Away_Team                                                                                                                                         URL Over 0.5 Under 0.5 Over 1.5 Under 1.5
+1: 2020-12-06 premier-league Liverpool    Wolves https://www.playnow.com/sports/sports/event/10252330/soccer/united-kingdom/english-premier-league/liverpool-fc-v-wolverhampton-wanderers-fc     1.03        14     1.22         4
+   Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std Kelly         Record_Time
+1:      1.7      2.05     2.75       1.4        5      1.15        0         0      Over 4.5           5                            0 6                 0  7.25 2020-12-05 11:20:07
+[1] "Country : [england], League : [premier-league], Progress : 4 out of 4"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-06 Liverpool    Wolves
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-12-05 11:20:08"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2020-12-05 11:20:33"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2020-12-05 11:20:53"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : spain, laliga - 2020-12-05 11:21:10"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], get all hyperlinks for games"
+[1] "Country : [spain], League : [laliga], game times"
+[1] "Country : [spain], League : [laliga], Over_under_score_odds"
+[1] "Country : [spain], League : [laliga], extract team names"
+[1] "Country : [spain], League : [laliga], 4 new game(s) found to add."
+[1] "Country : [spain], League : [laliga], calculate kelly scores"
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League  Home_Team Away_Team                                                                                                       URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5
+1: 2020-12-06 laliga Granada CF    Huesca https://www.playnow.com/sports/sports/event/10250321/soccer/europe/spanish-la-liga/granada-cf-v-sd-huesca     1.09       7.5     1.44      2.65      2.4      1.53     4.25      1.18
+   Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:      8.5      1.05        0         0                        NA                           NA NA                NA    NA 2020-12-05 11:21:54
+[1] "Country : [spain], League : [laliga], Progress : 1 out of 4"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-12-06 Granada CF    Huesca
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League Home_Team Away_Team                                                                                                                 URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2020-12-06 laliga   Osasuna     Betis https://www.playnow.com/sports/sports/event/10250317/soccer/europe/spanish-la-liga/ca-osasuna-v-real-betis-balompie     1.06        10     1.33       3.2        2      1.75      3.5
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:      1.28      6.5      1.09        0         0      Over 3.5         3.5                    0.1428571 14        0.09352195 2.304348 2020-12-05 11:22:15
+[1] "Country : [spain], League : [laliga], Progress : 2 out of 4"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-06   Osasuna     Betis
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League  Home_Team Away_Team                                                                                                         URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5
+1: 2020-12-06 laliga Villarreal     Elche https://www.playnow.com/sports/sports/event/10250323/soccer/europe/spanish-la-liga/villarreal-cf-v-elche-cf     1.03        15     1.22      4.25     1.67       2.1      2.7      1.44
+   Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std   Kelly         Record_Time
+1:     4.75      1.16        0         0      Over 4.5        4.75                            0 2                 0 5.52381 2020-12-05 11:22:35
+[1] "Country : [spain], League : [laliga], Progress : 3 out of 4"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-12-06 Villarreal     Elche
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League Home_Team     Away_Team                                                                                                                 URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2020-12-06 laliga    Alaves Real Sociedad https://www.playnow.com/sports/sports/event/10250318/soccer/europe/spanish-la-liga/deportivo-alaves-v-real-sociedad     1.07         9     1.38       2.9     2.15      1.67      3.9
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:      1.25      7.5      1.07        0         0      Over 3.5         3.9                          0.2 10         0.1264911 2.642105 2020-12-05 11:22:56
+[1] "Country : [spain], League : [laliga], Progress : 4 out of 4"
+[1] "Added game"
+         Date Home_Team     Away_Team
+1: 2020-12-06    Alaves Real Sociedad
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2020-12-05 11:22:57"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], 6 new game(s) found to add."
+[1] "Country : [italy], League : [serie-a], calculate kelly scores"
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team                                                                                                                URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2020-12-06 serie-a    Verona  Cagliari https://www.playnow.com/sports/sports/event/10251701/soccer/europe/italian-serie-a/hellas-verona-v-cagliari-calcio     1.03        16      1.2      4.25     1.67      2.15      2.6
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      1.47      4.5      1.18        0         0      Over 4.5         4.5                            0 7                 0 4.461538 2020-12-05 11:23:44
+[1] "Country : [italy], League : [serie-a], Progress : 1 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-06    Verona  Cagliari
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team                                                                                                          URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5
+1: 2020-12-06 serie-a   AS Roma  Sassuolo https://www.playnow.com/sports/sports/event/10251744/soccer/europe/italian-serie-a/as-roma-v-sassuolo-calcio        0         0     1.11       6.5      1.4       2.8     1.95       1.8
+   Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      3.2      1.33     5.25      1.13      Over 5.5        5.25                    0.1428571 7           0.13226 9.181818 2020-12-05 11:24:05
+[1] "Country : [italy], League : [serie-a], Progress : 2 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-06   AS Roma  Sassuolo
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team                                                                                                                URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2020-12-06 serie-a     Parma Benevento https://www.playnow.com/sports/sports/event/10251696/soccer/europe/italian-serie-a/parma-calcio-v-benevento-calcio     1.04        14     1.22         4      1.7      2.05      2.7
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:      1.44        5      1.15        0         0                        NA                           NA NA                NA    NA 2020-12-05 11:24:26
+[1] "Country : [italy], League : [serie-a], Progress : 3 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-06     Parma Benevento
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team                                                                                                             URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2020-12-06 serie-a   Udinese  Atalanta https://www.playnow.com/sports/sports/event/10251698/soccer/europe/italian-serie-a/udinese-calcio-v-atalanta-bc     1.04        13     1.22         4     1.75         2      2.8
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:       1.4        5      1.15        0         0      Over 4.5           5                    0.1304348 23        0.07022373 6.434783 2020-12-05 11:24:47
+[1] "Country : [italy], League : [serie-a], Progress : 4 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-06   Udinese  Atalanta
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team                                                                                                        URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5
+1: 2020-12-06 serie-a   Crotone    Napoli https://www.playnow.com/sports/sports/event/10251697/soccer/europe/italian-serie-a/fc-crotone-v-ssc-napoli     1.02        19     1.16         5     1.57      2.35     2.35      1.53
+   Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std Kelly         Record_Time
+1:        4      1.22        0         0     Under 1.5           5                          0.5 2         0.3535534 4.125 2020-12-05 11:25:07
+[1] "Country : [italy], League : [serie-a], Progress : 5 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-06   Crotone    Napoli
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team                                                                                                           URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2020-12-06 serie-a Sampdoria  AC Milan https://www.playnow.com/sports/sports/event/10251700/soccer/europe/italian-serie-a/sampdoria-genoa-v-ac-milan     1.03        15      1.2      4.25     1.67      2.15      2.6
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std   Kelly         Record_Time
+1:      1.47      4.5      1.18        0         0      Over 4.5         4.5                    0.1153846 26        0.06265627 4.06213 2020-12-05 11:25:28
+[1] "Country : [italy], League : [serie-a], Progress : 6 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-06 Sampdoria  AC Milan
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2020-12-05 11:25:29"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], 2 new game(s) found to add."
+[1] "Country : [netherlands], League : [eerste-divisie], calculate kelly scores"
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League Home_Team Away_Team                                                                                                                 URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2020-12-06 eerste-divisie Den Bosch  Nijmegen https://www.playnow.com/sports/sports/event/10256591/soccer/europe/dutch-eerste-divisie/fc-den-bosch-v-nec-nijmegen     1.02        18     1.16       4.5     1.53       2.3
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:     2.35      1.53        4       1.2        0         0     Under 1.5         4.5                            0 4                 0 4.461538 2020-12-05 11:26:03
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 1 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-06 Den Bosch  Nijmegen
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League Home_Team Away_Team                                                                                                              URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2020-12-06 eerste-divisie     Breda Dordrecht https://www.playnow.com/sports/sports/event/10256592/soccer/europe/dutch-eerste-divisie/nac-breda-v-fc-dordrecht        0         0      1.1         6     1.36       2.9
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std  Kelly         Record_Time
+1:      1.9      1.83      2.9      1.36        5      1.14      Over 5.5           5                         0.25 4         0.2165064 5.6875 2020-12-05 11:26:21
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 2 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-06     Breda Dordrecht
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : germany, 3-liga - 2020-12-05 11:26:22"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [germany], League : [3-liga], navigate to the website"
+[1] "Country : [germany], League : [3-liga], get all hyperlinks for games"
+[1] "Country : [germany], League : [3-liga], game times"
+[1] "Country : [germany], League : [3-liga], Over_under_score_odds"
+[1] "Country : [germany], League : [3-liga], extract team names"
+[1] "Country : [germany], League : [3-liga], 2 new game(s) found to add."
+[1] "Country : [germany], League : [3-liga], calculate kelly scores"
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League Home_Team     Away_Team                                                                                                                    URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2020-12-06 3-liga     Wehen Hansa Rostock https://www.playnow.com/sports/sports/event/10256976/soccer/europe/german-3-liga/sv-wehen-wiesbaden-v-fc-hansa-rostock     1.05        11     1.28       3.4      1.9      1.83
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std Kelly         Record_Time
+1:      3.2       1.3     5.75       1.1        0         0      Over 4.5        5.75                            0 8                 0   116 2020-12-05 11:26:56
+[1] "Country : [germany], League : [3-liga], Progress : 1 out of 2"
+[1] "Added game"
+         Date Home_Team     Away_Team
+1: 2020-12-06     Wehen Hansa Rostock
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League Home_Team  Away_Team                                                                                                      URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5
+1: 2020-12-06 3-liga      Verl Hallescher https://www.playnow.com/sports/sports/event/10256977/soccer/europe/german-3-liga/sc-verl-v-hallescher-fc     1.04        12     1.25       3.6      1.8      1.95      2.9      1.36
+   Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:     5.25      1.13        0         0                        NA                           NA NA                NA    NA 2020-12-05 11:27:14
+[1] "Country : [germany], League : [3-liga], Progress : 2 out of 2"
+[1] "Added game"
+         Date Home_Team  Away_Team
+1: 2020-12-06      Verl Hallescher
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : china, super-league - 2020-12-05 11:27:15"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [china], League : [super-league], navigate to the website"
+[1] "Country : [china], League : [super-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j1-league - 2020-12-05 11:27:27"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j1-league], navigate to the website"
+[1] "Country : [japan], League : [j1-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j1-league], game times"
+[1] "Country : [japan], League : [j1-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j1-league], extract team names"
+[1] "Country : [japan], League : [j1-league], 0 new game(s) found to add."
+[1] "Country : [japan], League : [j1-league], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j2-league - 2020-12-05 11:27:44"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j2-league], navigate to the website"
+[1] "Country : [japan], League : [j2-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j2-league], game times"
+[1] "Country : [japan], League : [j2-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j2-league], extract team names"
+[1] "Country : [japan], League : [j2-league], 0 new game(s) found to add."
+[1] "Country : [japan], League : [j2-league], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : turkey, super-lig - 2020-12-05 11:28:04"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [turkey], League : [super-lig], navigate to the website"
+[1] "Country : [turkey], League : [super-lig], get all hyperlinks for games"
+[1] "Country : [turkey], League : [super-lig], game times"
+[1] "Country : [turkey], League : [super-lig], Over_under_score_odds"
+[1] "Country : [turkey], League : [super-lig], extract team names"
+[1] "Country : [turkey], League : [super-lig], 3 new game(s) found to add."
+[1] "Country : [turkey], League : [super-lig], calculate kelly scores"
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League  Home_Team Away_Team                                                                                                                         URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2020-12-06 super-lig Karagumruk  Rizespor https://www.playnow.com/sports/sports/event/10256819/soccer/asia/turkish-super-league/fatih-karagumruk-sk-v-caykur-rizespor     1.04        12     1.25       3.5     1.83      1.87
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:        3      1.33      5.5      1.11        0         0                        NA                           NA NA                NA    NA 2020-12-05 11:28:38
+[1] "Country : [turkey], League : [super-lig], Progress : 1 out of 3"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-12-06 Karagumruk  Rizespor
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League   Home_Team  Away_Team                                                                                                                   URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5
+1: 2020-12-06 super-lig Antalyaspor Ankaragucu https://www.playnow.com/sports/sports/event/10256820/soccer/asia/turkish-super-league/antalyaspor-as-v-mke-ankaragucu     1.05        11     1.25       3.5     1.83      1.87
+   Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:        3      1.33      5.5      1.11        0         0      Over 4.5         5.5                          0.4 10         0.1549193    12 2020-12-05 11:28:56
+[1] "Country : [turkey], League : [super-lig], Progress : 2 out of 3"
+[1] "Added game"
+         Date   Home_Team  Away_Team
+1: 2020-12-06 Antalyaspor Ankaragucu
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League   Home_Team  Away_Team                                                                                                            URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5
+1: 2020-12-06 super-lig Denizlispor Fenerbahce https://www.playnow.com/sports/sports/event/10256779/soccer/asia/turkish-super-league/denizlispor-v-fenerbahce     1.02        17     1.18      4.25      1.6       2.2      2.4
+   Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:       1.5     4.25       1.2        0         0      Over 4.5        4.25                            0 12                 0 3.741935 2020-12-05 11:29:14
+[1] "Country : [turkey], League : [super-lig], Progress : 3 out of 3"
+[1] "Added game"
+         Date   Home_Team  Away_Team
+1: 2020-12-06 Denizlispor Fenerbahce
+[1] ""
+[1] ""

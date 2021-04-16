@@ -1,0 +1,365 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-11-03 17:10:03"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-11-03 17:10:28"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], 0 new game(s) found to add."
+[1] "Country : [england], League : [championship], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2020-11-03 17:10:55"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], New team names found. Add them in the function, Over_Under_Score_Odds_Manipulation."
+[1] "[New team names to be edited]--------------------"
+[1] "Birmingham" "Derby"      "Watford"   
+[1] "-------------------------------------------------"
+[1] ""
+[1] "[Reference]--------------------------------------"
+ [1] "Accrington"      "AFC Wimbledon"   "Barnsley"        "Blackburn"       "Blackpool"       "Bolton"         
+ [7] "Bournemouth"     "Bradford City"   "Brentford"       "Brighton"        "Bristol City"    "Bristol Rovers" 
+[13] "Burnley"         "Burton"          "Bury"            "Cambridge Utd"   "Cardiff"         "Carlisle"       
+[19] "Charlton"        "Cheltenham"      "Chesterfield"    "Colchester"      "Coventry"        "Crawley"        
+[25] "Crewe"           "Dag & Red"       "Doncaster"       "Exeter"          "Fleetwood"       "Fulham"         
+[31] "Gillingham"      "Grimsby"         "Hartlepool"      "Hereford"        "Huddersfield"    "Hull"           
+[37] "Ipswich"         "Leeds"           "Leicester"       "Leyton Orient"   "Lincoln"         "Luton"          
+[43] "Macclesfield"    "Manchester City" "Mansfield"       "Millwall"        "MK Dons"         "Northampton"    
+[49] "Norwich"         "Nottingham"      "Notts Co"        "Oldham"          "Oxford Utd"      "Peterborough"   
+[55] "Plymouth"        "Port Vale"       "Portsmouth"      "Preston"         "QPR"             "Reading"        
+[61] "Rochdale"        "Rotherham"       "Rushden"         "Scunthorpe"      "Sheffield Utd"   "Sheffield Wed"  
+[67] "Shrewsbury"      "Southampton"     "Southend"        "Stevenage"       "Stockport"       "Stoke"          
+[73] "Sunderland"      "Swansea"         "Swindon"         "Torquay"         "Tranmere"        "Walsall"        
+[79] "Wigan"           "Wolves"          "Wrexham"         "Wycombe"         "Yeovil"          "York"           
+[1] "-------------------------------------------------"
+[1] "Country : [england], League : [league-one], 6 new game(s) found to add."
+[1] "Country : [england], League : [league-one], calculate kelly scores"
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-11-04 league-one   Reading   Preston
+                                                                                   URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10232711/reading-fc-v-preston-north-end     1.07       8.5     1.38
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       2.8     2.15      1.62     3.75      1.22        7      1.06        0         0     Under 0.5         8.5
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                            0 2                 0 2.847826 2020-11-03 17:12:04
+[1] "Country : [england], League : [league-one], Progress : 1 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-04   Reading   Preston
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team Away_Team                                                                          URL
+1: 2020-11-04 league-one   Watford     Stoke https://www.playnow.com/sports/sports/event/10232714/watford-fc-v-stoke-city
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      1.1         7      1.5      2.45      2.5      1.47     4.75      1.15      8.5      1.04        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                        NA                           NA NA                NA    NA 2020-11-03 17:12:23
+[1] "Country : [england], League : [league-one], Progress : 2 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-04   Watford     Stoke
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League  Home_Team Away_Team
+1: 2020-11-04 league-one Birmingham   Wycombe
+                                                                                        URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10232719/birmingham-city-v-wycombe-wanderers     1.06         9     1.36
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:         3      2.1      1.67      3.6      1.25      6.5      1.07        0         0                        NA
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                           NA NA                NA    NA 2020-11-03 17:12:41
+[1] "Country : [england], League : [league-one], Progress : 3 out of 6"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-11-04 Birmingham   Wycombe
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-11-04 league-one     Derby       QPR
+                                                                                       URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10232720/derby-county-v-queens-park-rangers     1.06        10      1.3
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       3.2        2      1.75      3.4      1.28        6      1.09        0         0                        NA
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                           NA NA                NA    NA 2020-11-03 17:12:59
+[1] "Country : [england], League : [league-one], Progress : 4 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-04     Derby       QPR
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League  Home_Team Away_Team
+1: 2020-11-04 league-one Nottingham  Coventry
+                                                                                      URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10232716/nottingham-forest-v-coventry-city     1.06         9     1.36
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       2.9      2.1      1.67      3.6      1.25        7      1.07        0         0                        NA
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                           NA NA                NA    NA 2020-11-03 17:13:18
+[1] "Country : [england], League : [league-one], Progress : 5 out of 6"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-11-04 Nottingham  Coventry
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+[1] "Country : [england], League : [league-one], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-11-04 league-one Rotherham     Luton
+                                                                                  URL Over 0.5 Under 0.5 Over 1.5 Under 1.5
+1: https://www.playnow.com/sports/sports/event/10232722/rotherham-united-v-luton-town     1.07       8.5     1.38       2.8
+   Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:      2.2       1.6      3.9      1.22      7.5      1.06        0         0     Under 0.5         8.5
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                            0 1                 0 2.847826 2020-11-03 17:13:36
+[1] "Country : [england], League : [league-one], Progress : 6 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-04 Rotherham     Luton
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2020-11-03 17:13:37"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], New team names found. Add them in the function, Over_Under_Score_Odds_Manipulation."
+[1] "[New team names to be edited]--------------------"
+[1] "Birmingham" "Derby"      "Nottingham" "Preston"    "QPR"        "Reading"    "Stoke"      "Watford"   
+[1] "-------------------------------------------------"
+[1] ""
+[1] "[Reference]--------------------------------------"
+ [1] "Accrington"     "AFC Wimbledon"  "Aldershot"      "Barnet"         "Barrow"         "Blackpool"      "Bolton"        
+ [8] "Boston Utd"     "Bournemouth"    "Bradford City"  "Brentford"      "Brighton"       "Bristol Rovers" "Burton"        
+[15] "Bury"           "Cambridge Utd"  "Cardiff"        "Carlisle"       "Cheltenham"     "Chester"        "Chesterfield"  
+[22] "Colchester"     "Coventry"       "Crawley"        "Crewe"          "Dag & Red"      "Darlington"     "Doncaster"     
+[29] "Exeter"         "FC Halifax"     "Fleetwood"      "Forest Green"   "Gillingham"     "Grimsby"        "Harrogate"     
+[36] "Hartlepool"     "Hereford"       "Huddersfield"   "Hull"           "Kidderminster"  "Leyton Orient"  "Lincoln"       
+[43] "Luton"          "Macclesfield"   "Mansfield"      "MK Dons"        "Morecambe"      "Newport"        "Northampton"   
+[50] "Notts Co"       "Oldham"         "Oxford Utd"     "Peterborough"   "Plymouth"       "Port Vale"      "Portsmouth"    
+[57] "Rochdale"       "Rotherham"      "Rushden"        "Salford"        "Scarborough FC" "Scunthorpe"     "Shrewsbury"    
+[64] "Southend"       "Stevenage"      "Stockport"      "Swansea"        "Swindon"        "Torquay"        "Tranmere"      
+[71] "Walsall"        "Wrexham"        "Wycombe"        "Yeovil"         "York"          
+[1] "-------------------------------------------------"
+[1] "Country : [england], League : [league-two], 6 new game(s) found to add."
+[1] "Country : [england], League : [league-two], calculate kelly scores"
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-11-04 league-two   Reading   Preston
+                                                                                   URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10232711/reading-fc-v-preston-north-end     1.07       8.5     1.38
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       2.8     2.15      1.62     3.75      1.22        7      1.06        0         0                        NA
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                           NA NA                NA    NA 2020-11-03 17:14:46
+[1] "Country : [england], League : [league-two], Progress : 1 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-04   Reading   Preston
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team                                                                          URL
+1: 2020-11-04 league-two   Watford     Stoke https://www.playnow.com/sports/sports/event/10232714/watford-fc-v-stoke-city
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5
+1:      1.1         7      1.5      2.45      2.5      1.47     4.75      1.15      8.5      1.04        0         0
+   Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                        NA                           NA NA                NA    NA 2020-11-03 17:15:04
+[1] "Country : [england], League : [league-two], Progress : 2 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-04   Watford     Stoke
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League  Home_Team Away_Team
+1: 2020-11-04 league-two Birmingham   Wycombe
+                                                                                        URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10232719/birmingham-city-v-wycombe-wanderers     1.06         9     1.36
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:         3      2.1      1.67      3.6      1.25      6.5      1.07        0         0                        NA
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                           NA NA                NA    NA 2020-11-03 17:15:22
+[1] "Country : [england], League : [league-two], Progress : 3 out of 6"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-11-04 Birmingham   Wycombe
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-11-04 league-two     Derby       QPR
+                                                                                       URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10232720/derby-county-v-queens-park-rangers     1.06        10      1.3
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       3.2        2      1.75      3.4      1.28        6      1.09        0         0                        NA
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                           NA NA                NA    NA 2020-11-03 17:15:40
+[1] "Country : [england], League : [league-two], Progress : 4 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-04     Derby       QPR
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League  Home_Team Away_Team
+1: 2020-11-04 league-two Nottingham  Coventry
+                                                                                      URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10232716/nottingham-forest-v-coventry-city     1.06         9     1.36
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       2.9      2.1      1.67      3.6      1.25        7      1.07        0         0                        NA
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                           NA NA                NA    NA 2020-11-03 17:15:58
+[1] "Country : [england], League : [league-two], Progress : 5 out of 6"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2020-11-04 Nottingham  Coventry
+[1] "Country : [england], League : [league-two], Target_Options_N"
+[1] "Country : [england], League : [league-two], Headings"
+[1] "Country : [england], League : [league-two], navigate to the game"
+[1] "Country : [england], League : [league-two], open heandings chosen"
+         Date     League Home_Team Away_Team
+1: 2020-11-04 league-two Rotherham     Luton
+                                                                                  URL Over 0.5 Under 0.5 Over 1.5 Under 1.5
+1: https://www.playnow.com/sports/sports/event/10232722/rotherham-united-v-luton-town     1.07       8.5     1.38       2.8
+   Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:      2.2       1.6      3.9      1.22      7.5      1.06        0         0     Under 0.5         8.5
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                            0 1                 0 2.517857 2020-11-03 17:16:17
+[1] "Country : [england], League : [league-two], Progress : 6 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-11-04 Rotherham     Luton
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : spain, laliga - 2020-11-03 17:16:18"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], get all hyperlinks for games"
+[1] "Country : [spain], League : [laliga], game times"
+[1] "Country : [spain], League : [laliga], Over_under_score_odds"
+[1] "Country : [spain], League : [laliga], extract team names"
+[1] "Country : [spain], League : [laliga], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2020-11-03 17:16:47"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], 0 new game(s) found to add."
+[1] "Country : [italy], League : [serie-a], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2020-11-03 17:17:09"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : germany, 3-liga - 2020-11-03 17:17:31"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [germany], League : [3-liga], navigate to the website"
+[1] "Country : [germany], League : [3-liga], get all hyperlinks for games"
+[1] "Country : [germany], League : [3-liga], game times"
+[1] "Country : [germany], League : [3-liga], Over_under_score_odds"
+[1] "Country : [germany], League : [3-liga], extract team names"
+[1] "Country : [germany], League : [3-liga], 0 new game(s) found to add."
+[1] "Country : [germany], League : [3-liga], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : china, super-league - 2020-11-03 17:17:52"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [china], League : [super-league], navigate to the website"
+[1] "Country : [china], League : [super-league], get all hyperlinks for games"
+[1] "Country : [china], League : [super-league], game times"
+[1] "Country : [china], League : [super-league], Over_under_score_odds"
+[1] "Country : [china], League : [super-league], extract team names"
+[1] "Country : [china], League : [super-league], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j1-league - 2020-11-03 17:18:14"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j1-league], navigate to the website"
+[1] "Country : [japan], League : [j1-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j1-league], game times"
+[1] "Country : [japan], League : [j1-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j1-league], extract team names"
+[1] "Country : [japan], League : [j1-league], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j2-league - 2020-11-03 17:18:35"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j2-league], navigate to the website"
+[1] "Country : [japan], League : [j2-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j2-league], game times"
+[1] "Country : [japan], League : [j2-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j2-league], extract team names"
+[1] "Country : [japan], League : [j2-league], 0 new game(s) found to add."
+[1] "Country : [japan], League : [j2-league], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : turkey, super-lig - 2020-11-03 17:18:56"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [turkey], League : [super-lig], navigate to the website"
+[1] "Country : [turkey], League : [super-lig], get all hyperlinks for games"
+[1] "Country : [turkey], League : [super-lig], game times"
+[1] "Country : [turkey], League : [super-lig], Over_under_score_odds"
+[1] "Country : [turkey], League : [super-lig], extract team names"
+[1] "Country : [turkey], League : [super-lig], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""

@@ -1,0 +1,224 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-11-04 00:02:10"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-11-04 00:02:40"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], 0 new game(s) found to add."
+[1] "Country : [england], League : [championship], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2020-11-04 00:03:05"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2020-11-04 00:03:46"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : spain, laliga - 2020-11-04 00:04:27"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], get all hyperlinks for games"
+[1] "Country : [spain], League : [laliga], game times"
+[1] "Country : [spain], League : [laliga], Over_under_score_odds"
+[1] "Country : [spain], League : [laliga], extract team names"
+[1] "Country : [spain], League : [laliga], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2020-11-04 00:04:51"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], 0 new game(s) found to add."
+[1] "Country : [italy], League : [serie-a], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2020-11-04 00:05:12"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : germany, 3-liga - 2020-11-04 00:05:32"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [germany], League : [3-liga], navigate to the website"
+[1] "Country : [germany], League : [3-liga], get all hyperlinks for games"
+[1] "Country : [germany], League : [3-liga], game times"
+[1] "Country : [germany], League : [3-liga], Over_under_score_odds"
+[1] "Country : [germany], League : [3-liga], extract team names"
+[1] "Country : [germany], League : [3-liga], 0 new game(s) found to add."
+[1] "Country : [germany], League : [3-liga], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : china, super-league - 2020-11-04 00:05:55"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [china], League : [super-league], navigate to the website"
+[1] "Country : [china], League : [super-league], get all hyperlinks for games"
+[1] "Country : [china], League : [super-league], game times"
+[1] "Country : [china], League : [super-league], Over_under_score_odds"
+[1] "Country : [china], League : [super-league], extract team names"
+[1] "Country : [china], League : [super-league], New team names found. Add them in the function, Over_Under_Score_Odds_Manipulation."
+[1] "[New team names to be edited]--------------------"
+[1] "Qingdao Huanghai FC"
+[1] "-------------------------------------------------"
+[1] ""
+[1] "[Reference]--------------------------------------"
+ [1] "Bayi Army"            "Beijing Guoan"        "Beijing Renhe"       
+ [4] "Changchun Yatai"      "Chengdu Tiancheng"    "Chongqing Lifan"     
+ [7] "Dalian Pro"           "Dalian Shide"         "Guangzhou Evergrande"
+[10] "Guangzhou R&F"        "Guizhou Zhicheng"     "Hebei"               
+[13] "Henan Jianye"         "Jiangsu Suning"       "Liaoning"            
+[16] "Qingdao Jonoon"       "Shaanxi Guoli"        "Shandong Luneng"     
+[19] "Shanghai Shenhua"     "Shanghai Shenxin"     "Shanghai SIPG"       
+[22] "Shanghai United"      "Shenzhen"             "Shijiazhuang"        
+[25] "Sichuan Guancheng"    "Tianjin Teda"         "Tianjin Tianhai"     
+[28] "Wuhan Zall"           "Xiamen Lanshi"        "Yanbian"             
+[31] "Yunnan Hongta"        "Zhejiang Greentown"   "Zhejiang Yiteng"     
+[1] "-------------------------------------------------"
+[1] "Country : [china], League : [super-league], 5 new game(s) found to add."
+[1] "Country : [china], League : [super-league], calculate kelly scores"
+[1] "Country : [china], League : [super-league], Target_Options_N"
+[1] "Country : [china], League : [super-league], Headings"
+[1] "Country : [china], League : [super-league], navigate to the game"
+[1] "Country : [china], League : [super-league], open heandings chosen"
+         Date       League       Home_Team       Away_Team
+1: 2020-11-05 super-league Chongqing Lifan Shandong Luneng
+                                                                                      URL
+1: https://www.playnow.com/sports/sports/event/10235730/chongqing-lifan-v-shandong-luneng
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.03        15      1.2      4.25     1.62      2.15     2.55      1.47      4.5
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob
+1:      1.18        0         0      Over 3.5        2.55                    0.2142857
+    N Chosen_Option_Std    Kelly         Record_Time
+1: 14         0.1096642 2.292627 2020-11-04 00:06:34
+[1] "Country : [china], League : [super-league], Progress : 1 out of 5"
+[1] "Added game"
+         Date       Home_Team       Away_Team
+1: 2020-11-05 Chongqing Lifan Shandong Luneng
+[1] "Country : [china], League : [super-league], Target_Options_N"
+[1] "Country : [china], League : [super-league], Headings"
+[1] "Country : [china], League : [super-league], navigate to the game"
+[1] "Country : [china], League : [super-league], open heandings chosen"
+         Date       League     Home_Team  Away_Team
+1: 2020-11-05 super-league Guangzhou R&F Dalian Pro
+                                                                                                URL
+1: https://www.playnow.com/sports/sports/event/10235693/guangzhou-randf-fc-v-dalian-professional-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.04        13     1.22      3.75     1.75      1.95      2.8      1.38        5
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob
+1:      1.13        0         0     Under 1.5        3.75                            0
+   N Chosen_Option_Std    Kelly         Record_Time
+1: 5                 0 11.71429 2020-11-04 00:06:52
+[1] "Country : [china], League : [super-league], Progress : 2 out of 5"
+[1] "Added game"
+         Date     Home_Team  Away_Team
+1: 2020-11-05 Guangzhou R&F Dalian Pro
+[1] "Country : [china], League : [super-league], Target_Options_N"
+[1] "Country : [china], League : [super-league], Headings"
+[1] "Country : [china], League : [super-league], navigate to the game"
+[1] "Country : [china], League : [super-league], open heandings chosen"
+         Date       League    Home_Team    Away_Team
+1: 2020-11-05 super-league Henan Jianye Tianjin Teda
+                                                                                URL
+1: https://www.playnow.com/sports/sports/event/10235726/henan-jianye-v-tianjin-teda
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.04        12     1.25       3.6      1.8      1.95      2.9      1.36     5.25
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob
+1:      1.13        0         0     Under 1.5         3.6                    0.5833333
+    N Chosen_Option_Std Kelly         Record_Time
+1: 12         0.1423188     4 2020-11-04 00:07:10
+[1] "Country : [china], League : [super-league], Progress : 3 out of 5"
+[1] "Added game"
+         Date    Home_Team    Away_Team
+1: 2020-11-05 Henan Jianye Tianjin Teda
+[1] "Country : [china], League : [super-league], Target_Options_N"
+[1] "Country : [china], League : [super-league], Headings"
+[1] "Country : [china], League : [super-league], navigate to the game"
+[1] "Country : [china], League : [super-league], open heandings chosen"
+         Date       League           Home_Team Away_Team
+1: 2020-11-05 super-league Qingdao Huanghai FC  Shenzhen
+                                                                                      URL
+1: https://www.playnow.com/sports/sports/event/10236911/qingdao-huanghai-fc-v-shenzhen-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.04        13     1.22       3.9      1.7         2      2.7       1.4     4.75
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob
+1:      1.15        0         0                        NA                           NA
+    N Chosen_Option_Std Kelly         Record_Time
+1: NA                NA    NA 2020-11-04 00:07:29
+[1] "Country : [china], League : [super-league], Progress : 4 out of 5"
+[1] "Added game"
+         Date           Home_Team Away_Team
+1: 2020-11-05 Qingdao Huanghai FC  Shenzhen
+[1] "Country : [china], League : [super-league], Target_Options_N"
+[1] "Country : [china], League : [super-league], Headings"
+[1] "Country : [china], League : [super-league], navigate to the game"
+[1] "Country : [china], League : [super-league], open heandings chosen"
+         Date       League        Home_Team Away_Team
+1: 2020-11-05 super-league Shanghai Shenhua     Hebei
+                                                                                              URL
+1: https://www.playnow.com/sports/sports/event/10235729/shanghai-shenhua-v-hebei-china-fortune-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.04        13     1.25       3.6      1.8      1.95      2.9      1.36     5.25
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob
+1:      1.13        0         0     Under 1.5         3.6                            0
+   N Chosen_Option_Std Kelly         Record_Time
+1: 4                 0   8.2 2020-11-04 00:07:47
+[1] "Country : [china], League : [super-league], Progress : 5 out of 5"
+[1] "Added game"
+         Date        Home_Team Away_Team
+1: 2020-11-05 Shanghai Shenhua     Hebei
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j1-league - 2020-11-04 00:07:48"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j1-league], navigate to the website"
+[1] "Country : [japan], League : [j1-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j1-league], game times"
+[1] "Country : [japan], League : [j1-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j1-league], extract team names"
+[1] "Country : [japan], League : [j1-league], There is no new game to be added (either no within the time window or games to be added are already all in-play now. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j2-league - 2020-11-04 00:08:08"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j2-league], navigate to the website"
+[1] "Country : [japan], League : [j2-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j2-league], game times"
+[1] "Country : [japan], League : [j2-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j2-league], extract team names"
+Error in fwrite(Current_Over_under_score_odds, paste0(output.dir, Country,  : 
+  Permission denied: 'C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Output/Over_under_score_odds/japan/j2-league/2020.csv'. Failed to open existing file for writing. Do you have write permission to it? Is this Windows and does another process such as Excel have it open?

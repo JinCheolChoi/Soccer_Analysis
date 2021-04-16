@@ -47,7 +47,8 @@
 #docker run -d -p 4445:4444 selenium/standalone-chrome:3.141.59
 remDr=remoteDriver(
   #remoteServerAddr="192.168.99.103", # desktop
-  remoteServerAddr="192.168.99.100", # laptop
+  remoteServerAddr="localhost", # desktop
+  # remoteServerAddr="192.168.99.100", # laptop
   port=4445L,
   browserName="chrome"
 )
@@ -65,6 +66,7 @@ for(Country in Countries){
   source(paste0(CODE.dir.2, "Country_League_List.R"))
   
   for(League_Text in All_Leagues){
+    #League_Text="premier-league"
     #*******************************************
     # !!!! optimal parameters for the league !!!
     #*******************************************
@@ -106,7 +108,38 @@ for(Country in Countries){
     Message=remDr$findElements(using='class', value='no-data__message')
     No_event_message=unlist(sapply(Message, function(x){x$getElementText()}))
     
-    if(is.null(No_event_message)){ # No_event_message (start) ---- 
+    # look at the names of leagues on the page
+    League_Name=remDr$findElements(using='class', value='event-list__event-header__sport-name')
+    League_Name_Text=unlist(sapply(League_Name, function(x){x$getElementText()}))
+    
+    # Leagues=c(
+    #   "premier-league",
+    #   "championship",
+    #   "league-one",
+    #   "league-two",
+    #   "laliga",
+    #   "serie-a",
+    #   "eerste-divisie",
+    #   "3-liga",
+    #   "super-league",
+    #   "j1-league",
+    #   "j2-league",
+    #   "super-lig"
+    # )
+    # 
+    #   English Premier League
+    #   English Championship
+    #   
+    #   Spanish La Liga
+    #   Italian Serie A
+    #   Dutch Eerste Divisie
+    #   German 3 Liga
+    #   Chinese Super League
+    #   Japanese J League
+    #   Japanese J League 2
+    #   Turkish Super League
+    
+    if(is.null(No_event_message) & length(unique(League_Name_Text))==1){ # No_event_message (start) ---- 
      # get all hyperlinks for games
     print(paste0("Country : [", Country, "], League : [", League_Text, "], get all hyperlinks for games"))
     webElems=c()
@@ -164,7 +197,7 @@ for(Country in Countries){
                     "Sep", "Oct", "Nov", "Dec")
       Days_Text=c("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun")
       for(Game_Ind in 1:length(GameTime_Text)){
-        #Game_Ind=2
+        #Game_Ind=1
         Time_Texts=unique(na.omit(unlist(strsplit(unlist(GameTime_Text[Game_Ind]), "[^a-zA-Z]+"))))
         Time_Texts=Time_Texts[Time_Texts!=""]
         if(length(Time_Texts)==0){
@@ -307,9 +340,9 @@ for(Country in Countries){
           if(nrow(Date_Update_Games)>0){
             Updated_Games=Over_under_score_odds[New_Date!=Date, .SD, .SDcols=c("Date", "New_Date", "Home_Team", "Away_Team")]
             # update dates
-            Current_Over_under_score_odds[Date==Updated_Games$Date &
-                                            Home_Team==Updated_Games$Home_Team &
-                                            Away_Team==Updated_Games$Away_Team, 
+            Current_Over_under_score_odds[Date%in%Updated_Games$Date &
+                                            Home_Team%in%Updated_Games$Home_Team &
+                                            Away_Team%in%Updated_Games$Away_Team, 
                                           Date:=as.Date(Updated_Games$New_Date)]
             # export
             Current_Over_under_score_odds=Current_Over_under_score_odds[order(Date, Home_Team, Away_Team, decreasing=T), ]
@@ -433,8 +466,9 @@ for(Country in Countries){
       print(paste0("Country : [", Country, "], League : [", League_Text, "], There is no hyperlink to a game on the page. The update of this league will be skipped."))
     } # No hyperlink to game (end) ----
      
-    }else if(No_event_message=="No events"){ # No_event_message (end) ---- 
-      print(paste0("Country : [", Country, "], League : [", League_Text, "], There is no hyperlink to a game on the page. The update of this league will be skipped."))
+    }else{ # No_event_message (end) ---- 
+    # else if(No_event_message=="No events" | length(unique(League_Name_Text))>1){ # No_event_message (end) ---- 
+      print(paste0("Country : [", Country, "], League : [", League_Text, "], There is no game/hyperlink to a game on the page. The update of this league will be skipped."))
     }
       
     

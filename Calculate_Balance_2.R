@@ -10,14 +10,19 @@
 # Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[Kelly!=1, ] # if Kelly==1, no bet! (too risky)
 # Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[N>=1, ] # if Kelly==1, no bet! (too risky)
 # Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[Kelly>=1, Kelly:=1] # if Kelly is too high, no bet! (too risky)
+# Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[Chosen_Odds>12, ]
 Combined_Over_Under_Score_Odds[, Expected_Profit_Ind:=(Chosen_Odds-1)*Kelly] # calculate expected profit
+Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[Expected_Profit_Ind>0, ] # keep games with positive expected profit
+# Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[Expected_Profit_Ind>=0, ] # calculate expected profit
 # Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[Chosen_Odds<=3, ] # 
 #Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[Chosen_Option_Empirical_Prob>=0.8, ] # 
 # Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[Chosen_Option_Std<=0.3, ] #
 # Combined_Over_Under_Score_Odds[Kelly>30, ]$Chosen_Odds
 # Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[, Kelly:=Kelly/150] # if Kelly is too high, no bet! (too risky)
-Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[!Kelly>150, ] #
+Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[Kelly>0, ]
+# Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[!Kelly>150, ] #
 Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[!Kelly<=10, ] #
+
 # Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[Chosen_Odds>=12, ] #
 # Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[!Kelly>1, ] #
 # Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[N<=6, ] # 
@@ -26,6 +31,7 @@ Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[!is.na(Chosen_Odds
 Combined_Over_Under_Score_Odds=Combined_Over_Under_Score_Odds[!is.na(Total_Goal), ] # games that haven't been held yet
 
 Unique_Dates=sort(unique(Combined_Over_Under_Score_Odds[, Date]))
+
 
 #******************
 #

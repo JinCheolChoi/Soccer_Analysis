@@ -1,0 +1,554 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2021-04-10 01:36:33"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 4 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], calculate kelly scores"
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2021-04-11 premier-league   Burnley Newcastle
+                                                                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10338032/soccer/united-kingdom/english-premier-league/burnley-fc-v-newcastle-united-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option
+1:     1.09         8     1.44       2.7     2.35      1.57     4.25       1.2        8      1.06        0         0      Over 3.5
+   Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:        4.25                            0 4                 0 3.741935 2021-04-10 01:37:21
+[1] "Country : [england], League : [premier-league], Progress : 1 out of 4"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-04-11   Burnley Newcastle
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2021-04-11 premier-league  West Ham Leicester
+                                                                                                                                        URL
+1: https://www.playnow.com/sports/sports/event/10338035/soccer/united-kingdom/english-premier-league/west-ham-united-fc-v-leicester-city-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option
+1:     1.05        11      1.3      3.25     1.95       1.8     3.25       1.3        6       1.1        0         0     Under 1.5
+   Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:        3.25                          0.2 10         0.1264911 2.019608 2021-04-10 01:37:41
+[1] "Country : [england], League : [premier-league], Progress : 2 out of 4"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-04-11  West Ham Leicester
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team      Away_Team
+1: 2021-04-11 premier-league Tottenham Manchester Utd
+                                                                                                                                             URL
+1: https://www.playnow.com/sports/sports/event/10338030/soccer/united-kingdom/english-premier-league/tottenham-hotspur-fc-v-manchester-united-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option
+1:     1.05        11      1.3       3.4      1.9      1.83     3.25       1.3        6      1.11        0         0     Under 1.5
+   Chosen_Odds Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:         3.4                    0.2380952 21        0.09294286 2.079365 2021-04-10 01:38:02
+[1] "Country : [england], League : [premier-league], Progress : 3 out of 4"
+[1] "Added game"
+         Date Home_Team      Away_Team
+1: 2021-04-11 Tottenham Manchester Utd
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League     Home_Team Away_Team
+1: 2021-04-11 premier-league Sheffield Utd   Arsenal
+                                                                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10338031/soccer/united-kingdom/english-premier-league/sheffield-united-fc-v-arsenal-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option
+1:     1.05        11      1.3      3.25     1.95       1.8      3.4       1.3      6.5       1.1        0         0      Over 3.5
+   Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:         3.4                            0 2                 0 2.416667 2021-04-10 01:38:22
+[1] "Country : [england], League : [premier-league], Progress : 4 out of 4"
+[1] "Added game"
+         Date     Home_Team Away_Team
+1: 2021-04-11 Sheffield Utd   Arsenal
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2021-04-10 01:38:23"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], 0 new game(s) found to add."
+[1] "Country : [england], League : [championship], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2021-04-10 01:38:49"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-one], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-two - 2021-04-10 01:39:13"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-two], navigate to the website"
+[1] "Country : [england], League : [league-two], get all hyperlinks for games"
+[1] "Country : [england], League : [league-two], game times"
+[1] "Country : [england], League : [league-two], Over_under_score_odds"
+[1] "Country : [england], League : [league-two], extract team names"
+[1] "Country : [england], League : [league-two], 0 new game(s) found to add."
+[1] "Country : [england], League : [league-two], There is no new game to be added. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : spain, laliga - 2021-04-10 01:39:33"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [spain], League : [laliga], navigate to the website"
+[1] "Country : [spain], League : [laliga], get all hyperlinks for games"
+[1] "Country : [spain], League : [laliga], game times"
+[1] "Country : [spain], League : [laliga], Over_under_score_odds"
+[1] "Country : [spain], League : [laliga], extract team names"
+[1] "Country : [spain], League : [laliga], 4 new game(s) found to add."
+[1] "Country : [spain], League : [laliga], calculate kelly scores"
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League  Home_Team Away_Team
+1: 2021-04-11 laliga Villarreal   Osasuna
+                                                                                                             URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10338127/soccer/europe/spanish-la-liga/villarreal-cf-v-ca-osasuna     1.06        10
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:     1.36         3     2.05       1.7      3.6      1.25        7      1.08        0         0      Over 3.5         3.6
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                          0.4 15         0.1264911 1.981818 2021-04-10 01:40:21
+[1] "Country : [spain], League : [laliga], Progress : 1 out of 4"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2021-04-11 Villarreal   Osasuna
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League Home_Team     Away_Team
+1: 2021-04-11 laliga  Valencia Real Sociedad
+                                                                                                              URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10338125/soccer/europe/spanish-la-liga/valencia-cf-v-real-sociedad     1.05        11
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:      1.3       3.4     1.95       1.8     3.25       1.3        6       1.1        0         0     Under 1.5         3.4
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.2857143 28        0.08537347 2.011905 2021-04-10 01:40:41
+[1] "Country : [spain], League : [laliga], Progress : 2 out of 4"
+[1] "Added game"
+         Date Home_Team     Away_Team
+1: 2021-04-11  Valencia Real Sociedad
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League  Home_Team  Away_Team
+1: 2021-04-11 laliga Valladolid Granada CF
+                                                                                                               URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10338129/soccer/europe/spanish-la-liga/real-valladolid-v-granada-cf     1.08         8
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:     1.44       2.7      2.3      1.57     4.25       1.2        8      1.06        0         0      Over 3.5        4.25
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                            0 3                 0 3.741935 2021-04-10 01:41:02
+[1] "Country : [spain], League : [laliga], Progress : 3 out of 4"
+[1] "Added game"
+         Date  Home_Team  Away_Team
+1: 2021-04-11 Valladolid Granada CF
+[1] "Country : [spain], League : [laliga], Target_Options_N"
+[1] "Country : [spain], League : [laliga], Headings"
+[1] "Country : [spain], League : [laliga], navigate to the game"
+[1] "Country : [spain], League : [laliga], open heandings chosen"
+         Date League Home_Team   Away_Team
+1: 2021-04-11 laliga     Betis Atl. Madrid
+                                                                                                                        URL Over 0.5
+1: https://www.playnow.com/sports/sports/event/10338132/soccer/europe/spanish-la-liga/real-betis-balompie-v-atletico-madrid     1.08
+   Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:         8      1.4      2.75      2.3      1.57     4.25       1.2        8      1.06        0         0      Over 3.5        4.25
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.2272727 22        0.08934607 3.118768 2021-04-10 01:41:22
+[1] "Country : [spain], League : [laliga], Progress : 4 out of 4"
+[1] "Added game"
+         Date Home_Team   Away_Team
+1: 2021-04-11     Betis Atl. Madrid
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : italy, serie-a - 2021-04-10 01:41:23"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [italy], League : [serie-a], navigate to the website"
+[1] "Country : [italy], League : [serie-a], get all hyperlinks for games"
+[1] "Country : [italy], League : [serie-a], game times"
+[1] "Country : [italy], League : [serie-a], Over_under_score_odds"
+[1] "Country : [italy], League : [serie-a], extract team names"
+[1] "Country : [italy], League : [serie-a], 6 new game(s) found to add."
+[1] "Country : [italy], League : [serie-a], calculate kelly scores"
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team
+1: 2021-04-11 serie-a     Inter  Cagliari
+                                                                                                                 URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10338513/soccer/europe/italian-serie-a/inter-milano-v-cagliari-calcio        0         0
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:     1.15      5.25      1.5       2.5     2.25       1.6     3.75      1.25      6.5      1.09     Under 1.5        5.25
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                        0.125 24        0.06750772 9.352273 2021-04-10 01:42:08
+[1] "Country : [italy], League : [serie-a], Progress : 1 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-04-11     Inter  Cagliari
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team
+1: 2021-04-11 serie-a    Verona     Lazio
+                                                                                                             URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10338514/soccer/europe/italian-serie-a/hellas-verona-v-lazio-roma     1.05        11
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:     1.28       3.5      1.9      1.83      3.2      1.33        6      1.11        0         0     Under 1.5         3.5
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                          0.1 10        0.09486833 2.369565 2021-04-10 01:42:28
+[1] "Country : [italy], League : [serie-a], Progress : 2 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-04-11    Verona     Lazio
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team
+1: 2021-04-11 serie-a  Juventus     Genoa
+                                                                                                             URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10338519/soccer/europe/italian-serie-a/juventus-turin-v-genoa-cfc     1.02        19
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:     1.18      4.75     1.57       2.3      2.4      1.53        4       1.2        0         0     Under 1.5        4.75
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.3157895 19         0.1066392 4.095238 2021-04-10 01:42:49
+[1] "Country : [italy], League : [serie-a], Progress : 3 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-04-11  Juventus     Genoa
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team
+1: 2021-04-11 serie-a Sampdoria    Napoli
+                                                                                                               URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10338510/soccer/europe/italian-serie-a/sampdoria-genoa-v-ssc-napoli     1.03        16
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:     1.18       4.5     1.62       2.2      2.5       1.5     4.25      1.18        0         0     Under 1.5         4.5
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.1904762 21        0.08568909 3.802198 2021-04-10 01:43:09
+[1] "Country : [italy], League : [serie-a], Progress : 4 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-04-11 Sampdoria    Napoli
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League Home_Team Away_Team
+1: 2021-04-11 serie-a   AS Roma   Bologna
+                                                                                                       URL Over 0.5 Under 0.5 Over 1.5
+1: https://www.playnow.com/sports/sports/event/10338521/soccer/europe/italian-serie-a/as-roma-v-bologna-fc        0         0     1.14
+   Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:       5.5     1.47      2.55     2.15      1.67      3.6      1.25        6       1.1     Under 1.5         5.5
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std Kelly         Record_Time
+1:                   0.04545455 22        0.04440947  18.5 2021-04-10 01:43:30
+[1] "Country : [italy], League : [serie-a], Progress : 5 out of 6"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-04-11   AS Roma   Bologna
+[1] "Country : [italy], League : [serie-a], Target_Options_N"
+[1] "Country : [italy], League : [serie-a], Headings"
+[1] "Country : [italy], League : [serie-a], navigate to the game"
+[1] "Country : [italy], League : [serie-a], open heandings chosen"
+         Date  League  Home_Team Away_Team
+1: 2021-04-11 serie-a Fiorentina  Atalanta
+                                                                                                               URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10338512/soccer/europe/italian-serie-a/acf-fiorentina-v-atalanta-bc     1.03        16
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:      1.2       4.5     1.62       2.2     2.55      1.47      4.5      1.18        0         0      Over 4.5         4.5
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                     0.173913 23         0.0790342 3.859532 2021-04-10 01:43:50
+[1] "Country : [italy], League : [serie-a], Progress : 6 out of 6"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2021-04-11 Fiorentina  Atalanta
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : netherlands, eerste-divisie - 2021-04-10 01:43:51"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the website"
+[1] "Country : [netherlands], League : [eerste-divisie], get all hyperlinks for games"
+[1] "Country : [netherlands], League : [eerste-divisie], game times"
+[1] "Country : [netherlands], League : [eerste-divisie], Over_under_score_odds"
+[1] "Country : [netherlands], League : [eerste-divisie], extract team names"
+[1] "Country : [netherlands], League : [eerste-divisie], 1 new game(s) found to add."
+[1] "Country : [netherlands], League : [eerste-divisie], calculate kelly scores"
+[1] "Country : [netherlands], League : [eerste-divisie], Target_Options_N"
+[1] "Country : [netherlands], League : [eerste-divisie], Headings"
+[1] "Country : [netherlands], League : [eerste-divisie], navigate to the game"
+[1] "Country : [netherlands], League : [eerste-divisie], open heandings chosen"
+         Date         League  Home_Team   Away_Team
+1: 2021-04-11 eerste-divisie Graafschap G.A. Eagles
+                                                                                                                       URL Over 0.5
+1: https://www.playnow.com/sports/sports/event/10349790/soccer/europe/dutch-eerste-divisie/de-graafschap-v-go-ahead-eagles     1.04
+   Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:        12     1.25       3.5     1.83       1.9        3      1.33      5.5      1.12        0         0      Over 4.5         5.5
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.2857143 7         0.1707469 14.09524 2021-04-10 01:44:25
+[1] "Country : [netherlands], League : [eerste-divisie], Progress : 1 out of 1"
+[1] "Added game"
+         Date  Home_Team   Away_Team
+1: 2021-04-11 Graafschap G.A. Eagles
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : germany, 3-liga - 2021-04-10 01:44:26"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [germany], League : [3-liga], navigate to the website"
+[1] "Country : [germany], League : [3-liga], get all hyperlinks for games"
+[1] "Country : [germany], League : [3-liga], game times"
+[1] "Country : [germany], League : [3-liga], Over_under_score_odds"
+[1] "Country : [germany], League : [3-liga], extract team names"
+[1] "Country : [germany], League : [3-liga], 2 new game(s) found to add."
+[1] "Country : [germany], League : [3-liga], calculate kelly scores"
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League Home_Team     Away_Team
+1: 2021-04-11 3-liga   Zwickau Viktoria Koln
+                                                                                                               URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10349705/soccer/europe/german-3-liga/fsv-zwickau-v-fc-viktoria-koln     1.04        12
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:     1.25       3.6      1.8      1.95      2.9      1.36     5.25      1.13        0         0      Over 4.5        5.25
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                            0 1                 0 10.54545 2021-04-10 01:45:03
+[1] "Country : [germany], League : [3-liga], Progress : 1 out of 2"
+[1] "Added game"
+         Date Home_Team     Away_Team
+1: 2021-04-11   Zwickau Viktoria Koln
+[1] "Country : [germany], League : [3-liga], Target_Options_N"
+[1] "Country : [germany], League : [3-liga], Headings"
+[1] "Country : [germany], League : [3-liga], navigate to the game"
+[1] "Country : [germany], League : [3-liga], open heandings chosen"
+         Date League    Home_Team         Away_Team
+1: 2021-04-11 3-liga Unterhaching SG Dynamo Dresden
+                                                                                                                       URL Over 0.5
+1: https://www.playnow.com/sports/sports/event/10349708/soccer/europe/german-3-liga/spvgg-unterhaching-v-sg-dynamo-dresden     1.05
+   Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:        11      1.3       3.2     1.95      1.75      3.4      1.28        6      1.09        0         0      Over 3.5         3.4
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                            0 4                 0 2.416667 2021-04-10 01:45:21
+[1] "Country : [germany], League : [3-liga], Progress : 2 out of 2"
+[1] "Added game"
+         Date    Home_Team         Away_Team
+1: 2021-04-11 Unterhaching SG Dynamo Dresden
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : china, super-league - 2021-04-10 01:45:22"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [china], League : [super-league], navigate to the website"
+[1] "Country : [china], League : [super-league], There is no game/hyperlink to a game on the page. The update of this league will be skipped."
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j1-league - 2021-04-10 01:45:33"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j1-league], navigate to the website"
+[1] "Country : [japan], League : [j1-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j1-league], game times"
+[1] "Country : [japan], League : [j1-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j1-league], extract team names"
+[1] "Country : [japan], League : [j1-league], 3 new game(s) found to add."
+[1] "Country : [japan], League : [j1-league], calculate kelly scores"
+[1] "Country : [japan], League : [j1-league], Target_Options_N"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2021-04-11 j1-league     Urawa Tokushima
+                                                                                                                        URL Over 0.5
+1: https://www.playnow.com/sports/sports/event/10350586/soccer/asia/japanese-j-league/urawa-red-diamonds-v-tokushima-vortis     1.06
+   Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:        10     1.36       2.9      2.1      1.67      3.6      1.25      6.5      1.07        0         0      Over 3.5         3.6
+   Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:                            0 1                 0 2.636364 2021-04-10 01:46:09
+[1] "Country : [japan], League : [j1-league], Progress : 1 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-04-11     Urawa Tokushima
+[1] "Country : [japan], League : [j1-league], Target_Options_N"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2021-04-11 j1-league   Kashima   G-Osaka
+                                                                                                               URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10350587/soccer/asia/japanese-j-league/kashiwa-reysol-v-gamba-osaka     1.05        11
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:      1.3       3.2     1.95      1.75     3.25      1.28        6      1.09        0         0     Under 1.5         3.2
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.2307692 13         0.1168545 1.946746 2021-04-10 01:46:27
+[1] "Country : [japan], League : [j1-league], Progress : 2 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-04-11   Kashima   G-Osaka
+[1] "Country : [japan], League : [j1-league], Target_Options_N"
+[1] "Country : [japan], League : [j1-league], Headings"
+[1] "Country : [japan], League : [j1-league], navigate to the game"
+[1] "Country : [japan], League : [j1-league], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2021-04-11 j1-league      Kobe   Shimizu
+                                                                                                                URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10350588/soccer/asia/japanese-j-league/vissel-kobe-v-shimizu-s-pulse     1.05        11
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:     1.28      3.25      1.9       1.8      3.2       1.3     5.75       1.1        0         0      Over 4.5        5.75
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                   0.07142857 14        0.06883029 107.7857 2021-04-10 01:46:45
+[1] "Country : [japan], League : [j1-league], Progress : 3 out of 3"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-04-11      Kobe   Shimizu
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : japan, j2-league - 2021-04-10 01:46:47"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [japan], League : [j2-league], navigate to the website"
+[1] "Country : [japan], League : [j2-league], get all hyperlinks for games"
+[1] "Country : [japan], League : [j2-league], game times"
+[1] "Country : [japan], League : [j2-league], Over_under_score_odds"
+[1] "Country : [japan], League : [j2-league], extract team names"
+[1] "Country : [japan], League : [j2-league], New team names found. Add them in the function, Over_Under_Score_Odds_Manipulation."
+[1] "[New team names to be edited]--------------------"
+[1] "SC Sagamihara"
+[1] "-------------------------------------------------"
+[1] ""
+[1] "[Reference]--------------------------------------"
+ [1] "Albirex Niigata"     "Avispa Fukuoka"      "C-Osaka"             "Chiba"               "Ehime"               "FC Tokyo"           
+ [7] "G-Osaka"             "Gainare Tottori"     "Gifu"                "Giravanz Kitakyushu" "Hiroshima"           "Iwata"              
+[13] "Kagoshima Utd"       "Kamatamare"          "Kanazawa"            "Kashiwa"             "Kawasaki Frontale"   "Kobe"               
+[19] "Kofu"                "Kumamoto"            "Kusatsu"             "Kyoto"               "Machida"             "Mito"               
+[25] "Montedio Yamagata"   "Nagoya"              "Oita"                "Okayama"             "Omiya Ardija"        "Renofa Yamaguchi"   
+[31] "Ryukyu"              "Sagan Tosu"          "Sapporo"             "Shimizu"             "Shonan"              "Tochigi"            
+[37] "Tokushima"           "Toyama"              "V-Varen Nagasaki"    "Vegalta Sendai"      "Verdy"               "Yamaga"             
+[43] "Yokohama"           
+[1] "-------------------------------------------------"
+[1] "Country : [japan], League : [j2-league], 1 new game(s) found to add."
+[1] "Country : [japan], League : [j2-league], calculate kelly scores"
+[1] "Country : [japan], League : [j2-league], Target_Options_N"
+[1] "Country : [japan], League : [j2-league], Headings"
+[1] "Country : [japan], League : [j2-league], navigate to the game"
+[1] "Country : [japan], League : [j2-league], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2021-04-11 j2-league     Ehime   Okayama
+                                                                                                               URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10348981/soccer/asia/japanese-j-league-2/ehime-fc-v-fagiano-okayama     1.08         8
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:      1.4       2.7      2.3      1.57        4       1.2      7.5      1.05        0         0      Over 3.5           4
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.1538462 13         0.1000683 2.880342 2021-04-10 01:47:23
+[1] "Country : [japan], League : [j2-league], Progress : 1 out of 1"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-04-11     Ehime   Okayama
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : turkey, super-lig - 2021-04-10 01:47:24"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [turkey], League : [super-lig], navigate to the website"
+[1] "Country : [turkey], League : [super-lig], get all hyperlinks for games"
+[1] "Country : [turkey], League : [super-lig], game times"
+[1] "Country : [turkey], League : [super-lig], Over_under_score_odds"
+[1] "Country : [turkey], League : [super-lig], extract team names"
+[1] "Country : [turkey], League : [super-lig], 4 new game(s) found to add."
+[1] "Country : [turkey], League : [super-lig], calculate kelly scores"
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League Home_Team Away_Team
+1: 2021-04-11 super-lig Sivasspor Konyaspor
+                                                                                                                URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10348547/soccer/asia/turkish-super-league/sivasspor-v-konyaspor-club     1.07       8.5
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:      1.4       2.7     2.25      1.57        4       1.2      7.5      1.06        0         0      Over 3.5           4
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                   0.09090909 11        0.08667842 3.020202 2021-04-10 01:48:06
+[1] "Country : [turkey], League : [super-lig], Progress : 1 out of 4"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2021-04-11 Sivasspor Konyaspor
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League   Home_Team   Away_Team
+1: 2021-04-11 super-lig Kayserispor Antalyaspor
+                                                                                                                  URL Over 0.5 Under 0.5
+1: https://www.playnow.com/sports/sports/event/10348548/soccer/asia/turkish-super-league/kayserispor-v-antalyaspor-as     1.08         8
+   Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:      1.4       2.7     2.25      1.57        4       1.2      7.5      1.05        0         0      Over 3.5           4
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.2727273 11         0.1342816 2.616162 2021-04-10 01:48:24
+[1] "Country : [turkey], League : [super-lig], Progress : 2 out of 4"
+[1] "Added game"
+         Date   Home_Team   Away_Team
+1: 2021-04-11 Kayserispor Antalyaspor
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League  Home_Team      Away_Team
+1: 2021-04-11 super-lig Ankaragucu Genclerbirligi
+                                                                                                                        URL Over 0.5
+1: https://www.playnow.com/sports/sports/event/10348581/soccer/asia/turkish-super-league/mke-ankaragucu-v-genclerbirligi-sk     1.04
+   Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds
+1:        12     1.25       3.6      1.8       1.9      2.9      1.36     5.25      1.12        0         0      Over 4.5        5.25
+   Chosen_Option_Empirical_Prob  N Chosen_Option_Std    Kelly         Record_Time
+1:                    0.2857143 14         0.1207363 7.818182 2021-04-10 01:48:43
+[1] "Country : [turkey], League : [super-lig], Progress : 3 out of 4"
+[1] "Added game"
+         Date  Home_Team      Away_Team
+1: 2021-04-11 Ankaragucu Genclerbirligi
+[1] "Country : [turkey], League : [super-lig], Target_Options_N"
+[1] "Country : [turkey], League : [super-lig], Headings"
+[1] "Country : [turkey], League : [super-lig], navigate to the game"
+[1] "Country : [turkey], League : [super-lig], open heandings chosen"
+         Date    League  Home_Team Away_Team
+1: 2021-04-11 super-lig Erzurum BB  Besiktas
+                                                                                                                                   URL
+1: https://www.playnow.com/sports/sports/event/10349318/soccer/asia/turkish-super-league/buyuksehir-belediye-erzurumspor-v-besiktas-jk
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5 Under 5.5 Chosen_Option
+1:     1.03        15      1.2         4     1.67       2.1      2.6      1.44      4.5      1.16        0         0      Over 4.5
+   Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:         4.5                            0 1                 0 4.461538 2021-04-10 01:49:01
+[1] "Country : [turkey], League : [super-lig], Progress : 4 out of 4"
+[1] "Added game"
+         Date  Home_Team Away_Team
+1: 2021-04-11 Erzurum BB  Besiktas
+[1] ""
+[1] ""

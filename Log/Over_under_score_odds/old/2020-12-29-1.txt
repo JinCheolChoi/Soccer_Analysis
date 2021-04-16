@@ -1,0 +1,110 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2020-12-29 03:25:21"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 2 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], calculate kelly scores"
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2020-12-30 premier-league Tottenham    Fulham
+                                                                                                                                  URL
+1: https://www.playnow.com/sports/sports/event/10270292/soccer/united-kingdom/english-premier-league/tottenham-hotspur-fc-v-fulham-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.05        12     1.28       3.5     1.87      1.87      3.2      1.33     5.75
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob
+1:      1.11        0         0      Over 4.5        5.75                   0.07142857
+    N Chosen_Option_Std    Kelly         Record_Time
+1: 14        0.06883029 107.7857 2020-12-29 03:26:10
+[1] "Country : [england], League : [premier-league], Progress : 1 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-30 Tottenham    Fulham
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team Away_Team
+1: 2020-12-30 premier-league Newcastle Liverpool
+                                                                                                                                    URL
+1: https://www.playnow.com/sports/sports/event/10270293/soccer/united-kingdom/english-premier-league/newcastle-united-fc-v-liverpool-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:        0         0     1.16         5     1.53       2.4      2.3      1.57      3.9
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob
+1:      1.22        7      1.08     Under 1.5           5                         0.15
+    N Chosen_Option_Std  Kelly         Record_Time
+1: 20         0.0798436 6.3125 2020-12-29 03:26:30
+[1] "Country : [england], League : [premier-league], Progress : 2 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-30 Newcastle Liverpool
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, championship - 2020-12-29 03:26:31"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [championship], navigate to the website"
+[1] "Country : [england], League : [championship], get all hyperlinks for games"
+[1] "Country : [england], League : [championship], game times"
+[1] "Country : [england], League : [championship], Over_under_score_odds"
+[1] "Country : [england], League : [championship], extract team names"
+[1] "Country : [england], League : [championship], 2 new game(s) found to add."
+[1] "Country : [england], League : [championship], calculate kelly scores"
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League Home_Team   Away_Team
+1: 2020-12-30 championship Brentford Bournemouth
+                                                                                                                              URL
+1: https://www.playnow.com/sports/sports/event/10270235/soccer/united-kingdom/english-championship/brentford-fc-v-afc-bournemouth
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.06        10     1.33       3.2        2       1.7      3.4      1.28      6.5
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      1.08        0         0     Under 1.5         3.2                            0 1
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 2.230769 2020-12-29 03:27:13
+[1] "Country : [england], League : [championship], Progress : 1 out of 2"
+[1] "Added game"
+         Date Home_Team   Away_Team
+1: 2020-12-30 Brentford Bournemouth
+[1] "Country : [england], League : [championship], Target_Options_N"
+[1] "Country : [england], League : [championship], Headings"
+[1] "Country : [england], League : [championship], navigate to the game"
+[1] "Country : [england], League : [championship], open heandings chosen"
+         Date       League Home_Team Away_Team
+1: 2020-12-30 championship   Swansea   Reading
+                                                                                                                         URL
+1: https://www.playnow.com/sports/sports/event/10270233/soccer/united-kingdom/english-championship/swansea-city-v-reading-fc
+   Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5
+1:     1.08         8      1.4       2.7      2.3      1.57        4       1.2      7.5
+   Under 4.5 Over 5.5 Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N
+1:      1.05        0         0      Over 3.5           4                            0 5
+   Chosen_Option_Std    Kelly         Record_Time
+1:                 0 3.222222 2020-12-29 03:27:32
+[1] "Country : [england], League : [championship], Progress : 2 out of 2"
+[1] "Added game"
+         Date Home_Team Away_Team
+1: 2020-12-30   Swansea   Reading
+[1] ""
+[1] ""
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, league-one - 2020-12-29 03:27:33"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [league-one], navigate to the website"
+[1] "Country : [england], League : [league-one], get all hyperlinks for games"
+[1] "Country : [england], League : [league-one], game times"
+[1] "Country : [england], League : [league-one], Over_under_score_odds"
+[1] "Country : [england], League : [league-one], extract team names"
+[1] "Country : [england], League : [league-one], 5 new game(s) found to add."
+[1] "Country : [england], League : [league-one], calculate kelly scores"
+[1] "Country : [england], League : [league-one], Target_Options_N"
+[1] "Country : [england], League : [league-one], Headings"
+[1] "Country : [england], League : [league-one], navigate to the game"
+Error in Headings[[i]] : subscript out of bounds

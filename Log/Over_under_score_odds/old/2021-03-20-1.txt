@@ -1,0 +1,15 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2021-03-20 01:05:33"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+
+Selenium message:unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=88.0.4324.96)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '341d6d50da29', ip: '172.17.0.2', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.72-microsoft-standard-WSL2', java.version: '1.8.0_275'
+Driver info: driver.version: unknown
+
+Error: 	 Summary: UnknownError
+ 	 Detail: An unknown server-side error occurred while processing the command.
+ 	 class: org.openqa.selenium.WebDriverException
+	 Further Details: run errorDetails method
