@@ -1,0 +1,20 @@
+[1] "-------------------------------------------------------------"
+[1] "[Time] : england, premier-league - 2021-04-18 12:22:36"
+[1] "------------ Send a request to the remote server ------------"
+[1] "Country : [england], League : [premier-league], navigate to the website"
+[1] "Country : [england], League : [premier-league], get all hyperlinks for games"
+[1] "Country : [england], League : [premier-league], game times"
+[1] "Country : [england], League : [premier-league], Over_under_score_odds"
+[1] "Country : [england], League : [premier-league], extract team names"
+[1] "Country : [england], League : [premier-league], 1 new game(s) found to add."
+[1] "Country : [england], League : [premier-league], calculate kelly scores"
+[1] "Country : [england], League : [premier-league], Target_Options_N"
+[1] "Country : [england], League : [premier-league], Headings"
+[1] "Country : [england], League : [premier-league], navigate to the game"
+[1] "Country : [england], League : [premier-league], open heandings chosen"
+         Date         League Home_Team Away_Team                                                                                                                           URL Over 0.5 Under 0.5 Over 1.5 Under 1.5 Over 2.5 Under 2.5 Over 3.5 Under 3.5 Over 4.5 Under 4.5 Over 5.5
+1: 2021-04-19 premier-league     Leeds Liverpool https://www.playnow.com/sports/sports/event/10345101/soccer/united-kingdom/english-premier-league/leeds-united-v-liverpool-fc        0         0     1.15      5.25      1.5      2.45     2.25       1.6     3.75      1.25      6.5
+   Under 5.5 Chosen_Option Chosen_Odds Chosen_Option_Empirical_Prob N Chosen_Option_Std    Kelly         Record_Time
+1:      1.09     Under 1.5        5.25                    0.3333333 6         0.1924501 7.363636 2021-04-18 12:23:22
+Error in rbindlist(l, use.names, fill, idcol) : 
+  Class attribute on column 24 of item 2 does not match with column 24 of item 1.
