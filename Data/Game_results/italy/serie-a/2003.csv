@@ -1,6 +1,5 @@
 Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 16.05.2004,2003,AC Milan,Brescia,4,2
-16.05.2004,2003,ACN Siena,Juventus,1,3
 16.05.2004,2003,Chievo,Bologna,2,1
 16.05.2004,2003,Empoli,Inter,2,3
 16.05.2004,2003,Lazio,Modena,2,1
@@ -8,17 +7,17 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 16.05.2004,2003,Parma,Udinese,4,3
 16.05.2004,2003,Perugia,Ancona,1,0
 16.05.2004,2003,Sampdoria,AS Roma,0,0
+16.05.2004,2003,Siena,Juventus,1,3
 09.05.2004,2003,Ancona,Empoli,2,1
 09.05.2004,2003,AS Roma,Perugia,1,3
 09.05.2004,2003,Bologna,Lecce,1,1
 09.05.2004,2003,Brescia,Lazio,2,1
 09.05.2004,2003,Inter,Parma,1,0
 09.05.2004,2003,Juventus,Sampdoria,2,0
-09.05.2004,2003,Modena,ACN Siena,1,3
+09.05.2004,2003,Modena,Siena,1,3
 09.05.2004,2003,Reggina,AC Milan,2,1
 09.05.2004,2003,Udinese,Chievo,1,1
 02.05.2004,2003,AC Milan,AS Roma,1,0
-02.05.2004,2003,ACN Siena,Brescia,0,1
 02.05.2004,2003,Chievo,Modena,2,0
 02.05.2004,2003,Empoli,Bologna,2,0
 02.05.2004,2003,Lazio,Reggina,1,1
@@ -26,9 +25,10 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 02.05.2004,2003,Parma,Ancona,3,1
 02.05.2004,2003,Perugia,Juventus,1,0
 02.05.2004,2003,Sampdoria,Udinese,1,3
+02.05.2004,2003,Siena,Brescia,0,1
 25.04.2004,2003,Ancona,Chievo,0,2
 25.04.2004,2003,AS Roma,Empoli,3,0
-25.04.2004,2003,Bologna,ACN Siena,3,1
+25.04.2004,2003,Bologna,Siena,3,1
 25.04.2004,2003,Brescia,Perugia,1,1
 25.04.2004,2003,Inter,Lazio,0,0
 25.04.2004,2003,Juventus,Lecce,3,4
@@ -43,28 +43,27 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 18.04.2004,2003,Modena,AS Roma,0,1
 18.04.2004,2003,Parma,Juventus,2,2
 18.04.2004,2003,Sampdoria,Perugia,3,2
-17.04.2004,2003,ACN Siena,AC Milan,1,2
 17.04.2004,2003,Lecce,Udinese,2,1
+17.04.2004,2003,Siena,AC Milan,1,2
 11.04.2004,2003,Perugia,Inter,2,3
 10.04.2004,2003,AC Milan,Empoli,1,0
-10.04.2004,2003,ACN Siena,Sampdoria,0,0
 10.04.2004,2003,Ancona,Bologna,3,2
 10.04.2004,2003,AS Roma,Chievo,3,1
 10.04.2004,2003,Brescia,Modena,0,0
 10.04.2004,2003,Juventus,Lazio,1,0
 10.04.2004,2003,Parma,Lecce,3,1
 10.04.2004,2003,Reggina,Udinese,0,1
+10.04.2004,2003,Siena,Sampdoria,0,0
 04.04.2004,2003,Ancona,Sampdoria,0,1
 04.04.2004,2003,Bologna,Reggina,2,2
 04.04.2004,2003,Chievo,Parma,0,2
 04.04.2004,2003,Empoli,Perugia,1,0
 04.04.2004,2003,Inter,Juventus,3,2
-04.04.2004,2003,Lazio,ACN Siena,5,2
+04.04.2004,2003,Lazio,Siena,5,2
 04.04.2004,2003,Lecce,AS Roma,0,3
 04.04.2004,2003,Modena,AC Milan,1,1
 04.04.2004,2003,Udinese,Brescia,4,3
 28.03.2004,2003,AC Milan,Chievo,2,2
-28.03.2004,2003,ACN Siena,Udinese,1,0
 28.03.2004,2003,AS Roma,Bologna,1,2
 28.03.2004,2003,Brescia,Ancona,5,2
 28.03.2004,2003,Juventus,Modena,3,1
@@ -72,29 +71,30 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 28.03.2004,2003,Perugia,Lazio,1,2
 28.03.2004,2003,Reggina,Inter,0,2
 28.03.2004,2003,Sampdoria,Lecce,2,2
+28.03.2004,2003,Siena,Udinese,1,0
 25.03.2004,2003,Bologna,Lazio,2,1
 21.03.2004,2003,Ancona,Inter,0,2
 21.03.2004,2003,Bologna,Brescia,3,0
-21.03.2004,2003,Chievo,ACN Siena,1,1
+21.03.2004,2003,Chievo,Siena,1,1
 21.03.2004,2003,Empoli,Sampdoria,1,1
 21.03.2004,2003,Lecce,Perugia,1,2
 21.03.2004,2003,Modena,Reggina,1,2
 20.03.2004,2003,AC Milan,Parma,3,1
 20.03.2004,2003,Udinese,Juventus,0,0
-14.03.2004,2003,ACN Siena,Ancona,3,2
 14.03.2004,2003,Inter,Chievo,0,0
 14.03.2004,2003,Juventus,AC Milan,1,3
 14.03.2004,2003,Lazio,Udinese,2,2
 14.03.2004,2003,Parma,Brescia,2,2
 14.03.2004,2003,Perugia,Modena,1,1
 14.03.2004,2003,Reggina,AS Roma,0,0
+14.03.2004,2003,Siena,Ancona,3,2
 13.03.2004,2003,Empoli,Lecce,0,0
 13.03.2004,2003,Sampdoria,Bologna,3,2
 07.03.2004,2003,AC Milan,Sampdoria,3,1
 07.03.2004,2003,Ancona,Reggina,1,1
 07.03.2004,2003,AS Roma,Inter,4,1
 07.03.2004,2003,Chievo,Empoli,0,0
-07.03.2004,2003,Lecce,ACN Siena,0,0
+07.03.2004,2003,Lecce,Siena,0,0
 07.03.2004,2003,Udinese,Perugia,1,1
 06.03.2004,2003,Brescia,Juventus,2,3
 06.03.2004,2003,Modena,Parma,2,2
@@ -105,9 +105,9 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 29.02.2004,2003,Parma,AS Roma,1,4
 29.02.2004,2003,Perugia,Bologna,4,2
 29.02.2004,2003,Sampdoria,Chievo,1,0
-28.02.2004,2003,ACN Siena,Reggina,0,0
 28.02.2004,2003,Empoli,Udinese,2,0
-22.02.2004,2003,AS Roma,ACN Siena,6,0
+28.02.2004,2003,Siena,Reggina,0,0
+22.02.2004,2003,AS Roma,Siena,6,0
 22.02.2004,2003,Bologna,Juventus,0,1
 22.02.2004,2003,Brescia,Lecce,1,2
 22.02.2004,2003,Chievo,Lazio,0,0
@@ -116,18 +116,18 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 22.02.2004,2003,Udinese,Ancona,3,0
 21.02.2004,2003,AC Milan,Inter,3,2
 21.02.2004,2003,Sampdoria,Parma,1,2
-15.02.2004,2003,ACN Siena,Parma,1,2
 15.02.2004,2003,Ancona,AS Roma,0,0
 15.02.2004,2003,Bologna,Modena,1,1
 15.02.2004,2003,Brescia,Sampdoria,1,1
 15.02.2004,2003,Inter,Udinese,1,2
 15.02.2004,2003,Juventus,Reggina,1,0
 15.02.2004,2003,Lecce,AC Milan,1,1
+15.02.2004,2003,Siena,Parma,1,2
 14.02.2004,2003,Lazio,Empoli,3,0
 14.02.2004,2003,Perugia,Chievo,0,2
 08.02.2004,2003,AC Milan,Perugia,2,1
 08.02.2004,2003,AS Roma,Juventus,4,0
-08.02.2004,2003,Empoli,ACN Siena,1,0
+08.02.2004,2003,Empoli,Siena,1,0
 08.02.2004,2003,Modena,Ancona,2,1
 08.02.2004,2003,Parma,Lazio,0,3
 08.02.2004,2003,Reggina,Brescia,0,0
@@ -136,14 +136,14 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 07.02.2004,2003,Udinese,Bologna,1,3
 01.02.2004,2003,Ancona,Lecce,0,2
 01.02.2004,2003,Bologna,AC Milan,0,2
-01.02.2004,2003,Inter,ACN Siena,4,0
+01.02.2004,2003,Inter,Siena,4,0
 01.02.2004,2003,Juventus,Chievo,1,0
 01.02.2004,2003,Lazio,Sampdoria,1,1
 01.02.2004,2003,Perugia,Parma,2,2
 01.02.2004,2003,Udinese,Modena,1,0
 31.01.2004,2003,Brescia,AS Roma,1,0
 31.01.2004,2003,Reggina,Empoli,2,0
-28.01.2004,2003,AC Milan,ACN Siena,2,1
+28.01.2004,2003,AC Milan,Siena,2,1
 25.01.2004,2003,AC Milan,Ancona,5,0
 25.01.2004,2003,AS Roma,Udinese,1,1
 25.01.2004,2003,Chievo,Brescia,3,1
@@ -151,42 +151,42 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 25.01.2004,2003,Lecce,Lazio,0,1
 25.01.2004,2003,Modena,Inter,1,1
 25.01.2004,2003,Parma,Bologna,0,0
-24.01.2004,2003,ACN Siena,Perugia,2,1
 24.01.2004,2003,Sampdoria,Reggina,2,0
+24.01.2004,2003,Siena,Perugia,2,1
 18.01.2004,2003,Ancona,Perugia,0,0
 18.01.2004,2003,AS Roma,Sampdoria,3,1
 18.01.2004,2003,Bologna,Chievo,3,1
 18.01.2004,2003,Brescia,AC Milan,0,1
 18.01.2004,2003,Inter,Empoli,0,1
-18.01.2004,2003,Juventus,ACN Siena,4,2
+18.01.2004,2003,Juventus,Siena,4,2
 18.01.2004,2003,Reggina,Lecce,1,3
 17.01.2004,2003,Modena,Lazio,1,1
 17.01.2004,2003,Udinese,Parma,1,1
 11.01.2004,2003,AC Milan,Reggina,3,1
-11.01.2004,2003,ACN Siena,Modena,4,0
 11.01.2004,2003,Empoli,Ancona,2,0
 11.01.2004,2003,Lazio,Brescia,0,1
 11.01.2004,2003,Lecce,Bologna,1,2
 11.01.2004,2003,Perugia,AS Roma,0,1
 11.01.2004,2003,Sampdoria,Juventus,1,2
+11.01.2004,2003,Siena,Modena,4,0
 10.01.2004,2003,Chievo,Udinese,0,0
 10.01.2004,2003,Parma,Inter,1,0
 06.01.2004,2003,Ancona,Parma,0,2
 06.01.2004,2003,AS Roma,AC Milan,1,2
 06.01.2004,2003,Bologna,Empoli,2,1
-06.01.2004,2003,Brescia,ACN Siena,4,2
+06.01.2004,2003,Brescia,Siena,4,2
 06.01.2004,2003,Inter,Lecce,3,1
 06.01.2004,2003,Juventus,Perugia,1,0
 06.01.2004,2003,Modena,Chievo,0,3
 06.01.2004,2003,Reggina,Lazio,2,1
 06.01.2004,2003,Udinese,Sampdoria,0,1
 21.12.2003,2003,AC Milan,Udinese,1,2
-21.12.2003,2003,ACN Siena,Bologna,0,0
 21.12.2003,2003,Chievo,Ancona,1,0
 21.12.2003,2003,Lazio,Inter,2,1
 21.12.2003,2003,Lecce,Juventus,1,1
 21.12.2003,2003,Perugia,Brescia,2,2
 21.12.2003,2003,Sampdoria,Modena,1,1
+21.12.2003,2003,Siena,Bologna,0,0
 20.12.2003,2003,Empoli,AS Roma,0,2
 20.12.2003,2003,Parma,Reggina,1,2
 14.12.2003,2003,Ancona,Lazio,0,1
@@ -202,7 +202,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 07.12.2003,2003,Inter,Perugia,2,1
 07.12.2003,2003,Lecce,Parma,1,2
 07.12.2003,2003,Modena,Brescia,1,1
-07.12.2003,2003,Sampdoria,ACN Siena,2,1
+07.12.2003,2003,Sampdoria,Siena,2,1
 07.12.2003,2003,Udinese,Reggina,1,0
 06.12.2003,2003,Empoli,AC Milan,0,1
 06.12.2003,2003,Lazio,Juventus,2,0
@@ -213,27 +213,27 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 30.11.2003,2003,Perugia,Empoli,1,1
 30.11.2003,2003,Reggina,Bologna,0,0
 30.11.2003,2003,Sampdoria,Ancona,2,0
-29.11.2003,2003,ACN Siena,Lazio,3,0
 29.11.2003,2003,Juventus,Inter,1,3
+29.11.2003,2003,Siena,Lazio,3,0
 23.11.2003,2003,Ancona,Brescia,1,1
 23.11.2003,2003,Bologna,AS Roma,0,4
 23.11.2003,2003,Chievo,AC Milan,0,2
 23.11.2003,2003,Empoli,Parma,1,0
 23.11.2003,2003,Lazio,Perugia,3,1
 23.11.2003,2003,Lecce,Sampdoria,0,0
-23.11.2003,2003,Udinese,ACN Siena,1,1
+23.11.2003,2003,Udinese,Siena,1,1
 22.11.2003,2003,Inter,Reggina,6,0
 22.11.2003,2003,Modena,Juventus,0,2
-09.11.2003,2003,ACN Siena,Chievo,1,2
 09.11.2003,2003,AS Roma,Lazio,2,0
 09.11.2003,2003,Inter,Ancona,3,0
 09.11.2003,2003,Juventus,Udinese,4,1
 09.11.2003,2003,Parma,AC Milan,0,0
 09.11.2003,2003,Perugia,Lecce,2,2
 09.11.2003,2003,Reggina,Modena,1,1
+09.11.2003,2003,Siena,Chievo,1,2
 08.11.2003,2003,Brescia,Bologna,0,0
 08.11.2003,2003,Sampdoria,Empoli,2,0
-02.11.2003,2003,Ancona,ACN Siena,0,0
+02.11.2003,2003,Ancona,Siena,0,0
 02.11.2003,2003,AS Roma,Reggina,2,0
 02.11.2003,2003,Bologna,Sampdoria,0,1
 02.11.2003,2003,Brescia,Parma,2,3
@@ -249,18 +249,17 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 26.10.2003,2003,Perugia,Udinese,3,3
 26.10.2003,2003,Reggina,Ancona,0,0
 26.10.2003,2003,Sampdoria,AC Milan,0,3
-25.10.2003,2003,ACN Siena,Lecce,2,1
 25.10.2003,2003,Empoli,Chievo,0,1
+25.10.2003,2003,Siena,Lecce,2,1
 19.10.2003,2003,AC Milan,Lazio,1,0
 19.10.2003,2003,AS Roma,Parma,2,0
 19.10.2003,2003,Bologna,Perugia,2,2
 19.10.2003,2003,Chievo,Sampdoria,1,1
 19.10.2003,2003,Modena,Lecce,2,0
-19.10.2003,2003,Reggina,ACN Siena,2,1
+19.10.2003,2003,Reggina,Siena,2,1
 19.10.2003,2003,Udinese,Empoli,2,0
 18.10.2003,2003,Ancona,Juventus,2,3
 18.10.2003,2003,Brescia,Inter,2,2
-05.10.2003,2003,ACN Siena,AS Roma,0,0
 05.10.2003,2003,Ancona,Udinese,0,3
 05.10.2003,2003,Empoli,Modena,0,3
 05.10.2003,2003,Inter,AC Milan,1,3
@@ -269,12 +268,13 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 05.10.2003,2003,Lecce,Brescia,1,4
 05.10.2003,2003,Parma,Sampdoria,1,0
 05.10.2003,2003,Perugia,Reggina,0,0
+05.10.2003,2003,Siena,AS Roma,0,0
 28.09.2003,2003,AC Milan,Lecce,3,0
 28.09.2003,2003,AS Roma,Ancona,3,0
 28.09.2003,2003,Chievo,Perugia,4,1
 28.09.2003,2003,Empoli,Lazio,2,2
 28.09.2003,2003,Modena,Bologna,2,0
-28.09.2003,2003,Parma,ACN Siena,1,1
+28.09.2003,2003,Parma,Siena,1,1
 28.09.2003,2003,Sampdoria,Brescia,2,1
 27.09.2003,2003,Reggina,Juventus,0,2
 27.09.2003,2003,Udinese,Inter,0,0
@@ -285,15 +285,15 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 21.09.2003,2003,Lazio,Parma,2,3
 21.09.2003,2003,Lecce,Chievo,1,2
 21.09.2003,2003,Perugia,AC Milan,1,1
-20.09.2003,2003,ACN Siena,Empoli,4,0
 20.09.2003,2003,Ancona,Modena,1,1
-14.09.2003,2003,ACN Siena,Inter,0,1
+20.09.2003,2003,Siena,Empoli,4,0
 14.09.2003,2003,AS Roma,Brescia,5,0
 14.09.2003,2003,Chievo,Juventus,1,2
 14.09.2003,2003,Empoli,Reggina,1,1
 14.09.2003,2003,Lecce,Ancona,3,1
 14.09.2003,2003,Modena,Udinese,0,1
 14.09.2003,2003,Parma,Perugia,3,0
+14.09.2003,2003,Siena,Inter,0,1
 13.09.2003,2003,AC Milan,Bologna,2,1
 13.09.2003,2003,Sampdoria,Lazio,1,2
 01.09.2003,2003,Ancona,AC Milan,0,2
@@ -302,6 +302,6 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 31.08.2003,2003,Inter,Modena,2,0
 31.08.2003,2003,Juventus,Empoli,5,1
 31.08.2003,2003,Lazio,Lecce,4,1
-31.08.2003,2003,Perugia,ACN Siena,2,2
+31.08.2003,2003,Perugia,Siena,2,2
 31.08.2003,2003,Udinese,AS Roma,1,2
 30.08.2003,2003,Reggina,Sampdoria,2,2

@@ -10,7 +10,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 08.05.2004,2003,Oxford Utd,Rochdale,2,0
 08.05.2004,2003,Scunthorpe,Darlington,0,1
 08.05.2004,2003,Southend,Torquay,1,2
-08.05.2004,2003,Swansea,York,0,0
+08.05.2004,2003,Swansea,York City,0,0
 01.05.2004,2003,Boston Utd,Doncaster,0,0
 01.05.2004,2003,Bristol Rovers,Lincoln,3,1
 01.05.2004,2003,Cambridge Utd,Scunthorpe,3,2
@@ -22,10 +22,10 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 01.05.2004,2003,Rochdale,Southend,1,1
 01.05.2004,2003,Torquay,Kidderminster,1,1
 01.05.2004,2003,Yeovil,Hull,1,2
-01.05.2004,2003,York,Leyton Orient,1,2
+01.05.2004,2003,York City,Leyton Orient,1,2
 24.04.2004,2003,Bury,Bristol Rovers,0,0
 24.04.2004,2003,Cheltenham,Torquay,1,3
-24.04.2004,2003,Doncaster,York,3,1
+24.04.2004,2003,Doncaster,York City,3,1
 24.04.2004,2003,Hull,Huddersfield,0,0
 24.04.2004,2003,Kidderminster,Rochdale,0,1
 24.04.2004,2003,Leyton Orient,Boston Utd,1,3
@@ -37,7 +37,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 24.04.2004,2003,Swansea,Northampton,0,2
 20.04.2004,2003,Northampton,Huddersfield,0,1
 20.04.2004,2003,Southend,Hull,2,2
-20.04.2004,2003,York,Yeovil,1,2
+20.04.2004,2003,York City,Yeovil,1,2
 17.04.2004,2003,Boston Utd,Mansfield,1,2
 17.04.2004,2003,Bristol Rovers,Swansea,2,1
 17.04.2004,2003,Cambridge Utd,Kidderminster,0,0
@@ -49,8 +49,8 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 17.04.2004,2003,Rochdale,Leyton Orient,3,0
 17.04.2004,2003,Torquay,Doncaster,1,0
 17.04.2004,2003,Yeovil,Bury,2,1
-17.04.2004,2003,York,Cheltenham,0,2
-13.04.2004,2003,York,Bury,1,1
+17.04.2004,2003,York City,Cheltenham,0,2
+13.04.2004,2003,York City,Bury,1,1
 12.04.2004,2003,Boston Utd,Yeovil,3,2
 12.04.2004,2003,Cheltenham,Scunthorpe,2,1
 12.04.2004,2003,Doncaster,Cambridge Utd,2,0
@@ -72,10 +72,10 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 10.04.2004,2003,Scunthorpe,Rochdale,2,2
 10.04.2004,2003,Yeovil,Cheltenham,0,0
 09.04.2004,2003,Bury,Torquay,2,1
-09.04.2004,2003,Cambridge Utd,York,2,0
+09.04.2004,2003,Cambridge Utd,York City,2,0
 09.04.2004,2003,Oxford Utd,Boston Utd,0,0
 06.04.2004,2003,Mansfield,Oxford Utd,3,1
-04.04.2004,2003,York,Macclesfield,0,2
+04.04.2004,2003,York City,Macclesfield,0,2
 03.04.2004,2003,Boston Utd,Darlington,1,0
 03.04.2004,2003,Cheltenham,Bristol Rovers,1,2
 03.04.2004,2003,Doncaster,Bury,3,1
@@ -91,7 +91,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 30.03.2004,2003,Macclesfield,Lincoln,0,0
 30.03.2004,2003,Mansfield,Torquay,2,1
 30.03.2004,2003,Rochdale,Doncaster,1,1
-27.03.2004,2003,Bristol Rovers,York,3,0
+27.03.2004,2003,Bristol Rovers,York City,3,0
 27.03.2004,2003,Bury,Boston Utd,1,3
 27.03.2004,2003,Cambridge Utd,Cheltenham,2,1
 27.03.2004,2003,Carlisle,Southend,1,2
@@ -135,17 +135,17 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 13.03.2004,2003,Rochdale,Bury,0,0
 13.03.2004,2003,Southend,Swansea,1,1
 13.03.2004,2003,Yeovil,Bristol Rovers,4,0
-13.03.2004,2003,York,Torquay,0,0
+13.03.2004,2003,York City,Torquay,0,0
 09.03.2004,2003,Darlington,Cheltenham,2,1
 09.03.2004,2003,Carlisle,Huddersfield,1,0
 09.03.2004,2003,Swansea,Rochdale,1,1
-09.03.2004,2003,York,Scunthorpe,1,3
+09.03.2004,2003,York City,Scunthorpe,1,3
 06.03.2004,2003,Boston Utd,Rochdale,2,0
 06.03.2004,2003,Bristol Rovers,Southend,1,1
 06.03.2004,2003,Bury,Leyton Orient,1,1
 06.03.2004,2003,Cambridge Utd,Northampton,0,1
 06.03.2004,2003,Cheltenham,Lincoln,3,2
-06.03.2004,2003,Kidderminster,York,4,1
+06.03.2004,2003,Kidderminster,York City,4,1
 06.03.2004,2003,Macclesfield,Darlington,0,1
 06.03.2004,2003,Mansfield,Hull,1,0
 06.03.2004,2003,Oxford Utd,Huddersfield,0,1
@@ -153,7 +153,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 06.03.2004,2003,Torquay,Carlisle,4,1
 05.03.2004,2003,Swansea,Doncaster,1,1
 03.03.2004,2003,Boston Utd,Southend,0,2
-03.03.2004,2003,Oxford Utd,York,0,0
+03.03.2004,2003,Oxford Utd,York City,0,0
 02.03.2004,2003,Cambridge Utd,Swansea,0,1
 02.03.2004,2003,Huddersfield,Yeovil,3,1
 02.03.2004,2003,Kidderminster,Northampton,2,1
@@ -170,7 +170,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 24.02.2004,2003,Swansea,Leyton Orient,2,1
 24.02.2004,2003,Bury,Southend,1,1
 24.02.2004,2003,Torquay,Scunthorpe,1,0
-21.02.2004,2003,Boston Utd,York,2,0
+21.02.2004,2003,Boston Utd,York City,2,0
 21.02.2004,2003,Cambridge Utd,Bristol Rovers,3,1
 21.02.2004,2003,Darlington,Yeovil,3,2
 21.02.2004,2003,Huddersfield,Lincoln,2,1
@@ -185,7 +185,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 18.02.2004,2003,Boston Utd,Swansea,1,1
 17.02.2004,2003,Bristol Rovers,Huddersfield,1,1
 17.02.2004,2003,Cambridge Utd,Carlisle,2,2
-17.02.2004,2003,York,Lincoln,1,4
+17.02.2004,2003,York City,Lincoln,1,4
 17.02.2004,2003,Darlington,Northampton,1,2
 14.02.2004,2003,Bristol Rovers,Darlington,0,3
 14.02.2004,2003,Bury,Cambridge Utd,1,0
@@ -197,12 +197,12 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 14.02.2004,2003,Southend,Kidderminster,3,0
 14.02.2004,2003,Torquay,Huddersfield,0,1
 14.02.2004,2003,Yeovil,Oxford Utd,1,0
-14.02.2004,2003,York,Mansfield,1,2
+14.02.2004,2003,York City,Mansfield,1,2
 11.02.2004,2003,Oxford Utd,Scunthorpe,3,2
 10.02.2004,2003,Kidderminster,Cheltenham,0,0
 07.02.2004,2003,Carlisle,Bury,2,1
 07.02.2004,2003,Huddersfield,Darlington,0,2
-07.02.2004,2003,Hull,York,2,1
+07.02.2004,2003,Hull,York City,2,1
 07.02.2004,2003,Kidderminster,Yeovil,0,1
 07.02.2004,2003,Leyton Orient,Oxford Utd,1,0
 07.02.2004,2003,Lincoln,Boston Utd,1,1
@@ -219,8 +219,8 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 31.01.2004,2003,Yeovil,Macclesfield,2,2
 30.01.2004,2003,Doncaster,Northampton,1,0
 27.01.2004,2003,Scunthorpe,Mansfield,0,0
-27.01.2004,2003,Southend,York,0,0
-25.01.2004,2003,York,Huddersfield,0,2
+27.01.2004,2003,Southend,York City,0,0
+25.01.2004,2003,York City,Huddersfield,0,2
 24.01.2004,2003,Bristol Rovers,Carlisle,1,0
 24.01.2004,2003,Bury,Kidderminster,0,0
 24.01.2004,2003,Cambridge Utd,Rochdale,0,0
@@ -236,7 +236,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 17.01.2004,2003,Leyton Orient,Mansfield,3,1
 17.01.2004,2003,Lincoln,Torquay,1,3
 17.01.2004,2003,Macclesfield,Cambridge Utd,0,1
-17.01.2004,2003,Northampton,York,2,1
+17.01.2004,2003,Northampton,York City,2,1
 17.01.2004,2003,Rochdale,Bristol Rovers,2,2
 17.01.2004,2003,Scunthorpe,Bury,0,0
 17.01.2004,2003,Southend,Doncaster,0,2
@@ -253,7 +253,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 10.01.2004,2003,Oxford Utd,Lincoln,0,0
 10.01.2004,2003,Torquay,Northampton,3,1
 10.01.2004,2003,Yeovil,Rochdale,1,0
-10.01.2004,2003,York,Carlisle,2,0
+10.01.2004,2003,York City,Carlisle,2,0
 09.01.2004,2003,Cheltenham,Southend,1,1
 06.01.2004,2003,Swansea,Oxford Utd,0,0
 03.01.2004,2003,Carlisle,Boston Utd,2,1
@@ -270,7 +270,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 28.12.2003,2003,Lincoln,Cambridge Utd,2,2
 28.12.2003,2003,Macclesfield,Mansfield,1,1
 28.12.2003,2003,Northampton,Cheltenham,1,0
-28.12.2003,2003,Rochdale,York,1,2
+28.12.2003,2003,Rochdale,York City,1,2
 28.12.2003,2003,Scunthorpe,Boston Utd,0,1
 28.12.2003,2003,Southend,Oxford Utd,0,1
 28.12.2003,2003,Swansea,Yeovil,3,2
@@ -285,8 +285,8 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 26.12.2003,2003,Oxford Utd,Leyton Orient,2,1
 26.12.2003,2003,Torquay,Swansea,0,0
 26.12.2003,2003,Yeovil,Kidderminster,1,2
-26.12.2003,2003,York,Hull,0,2
-21.12.2003,2003,York,Kidderminster,1,0
+26.12.2003,2003,York City,Hull,0,2
+21.12.2003,2003,York City,Kidderminster,1,0
 20.12.2003,2003,Carlisle,Torquay,2,0
 20.12.2003,2003,Darlington,Macclesfield,0,1
 20.12.2003,2003,Huddersfield,Oxford Utd,1,1
@@ -308,8 +308,8 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 13.12.2003,2003,Oxford Utd,Carlisle,2,1
 13.12.2003,2003,Scunthorpe,Hull,1,1
 13.12.2003,2003,Swansea,Southend,2,3
-13.12.2003,2003,Torquay,York,1,1
-06.12.2003,2003,Darlington,York,3,0
+13.12.2003,2003,Torquay,York City,1,1
+06.12.2003,2003,Darlington,York City,3,0
 06.12.2003,2003,Hull,Bury,2,0
 29.11.2003,2003,Boston Utd,Kidderminster,2,2
 29.11.2003,2003,Bristol Rovers,Hull,2,1
@@ -322,13 +322,13 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 29.11.2003,2003,Rochdale,Oxford Utd,1,2
 29.11.2003,2003,Torquay,Southend,3,0
 29.11.2003,2003,Yeovil,Lincoln,3,1
-29.11.2003,2003,York,Swansea,0,0
+29.11.2003,2003,York City,Swansea,0,0
 22.11.2003,2003,Bury,Northampton,1,0
 22.11.2003,2003,Cheltenham,Carlisle,2,1
 22.11.2003,2003,Doncaster,Boston Utd,3,0
 22.11.2003,2003,Hull,Yeovil,0,0
 22.11.2003,2003,Kidderminster,Torquay,1,2
-22.11.2003,2003,Leyton Orient,York,2,2
+22.11.2003,2003,Leyton Orient,York City,2,2
 22.11.2003,2003,Lincoln,Bristol Rovers,3,1
 22.11.2003,2003,Mansfield,Huddersfield,3,3
 22.11.2003,2003,Oxford Utd,Macclesfield,3,1
@@ -346,9 +346,9 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 15.11.2003,2003,Rochdale,Kidderminster,0,1
 15.11.2003,2003,Torquay,Cheltenham,3,1
 15.11.2003,2003,Yeovil,Southend,4,0
-15.11.2003,2003,York,Doncaster,1,0
+15.11.2003,2003,York City,Doncaster,1,0
 01.11.2003,2003,Bury,Yeovil,2,1
-01.11.2003,2003,Cheltenham,York,1,1
+01.11.2003,2003,Cheltenham,York City,1,1
 01.11.2003,2003,Doncaster,Torquay,1,0
 01.11.2003,2003,Hull,Macclesfield,2,2
 01.11.2003,2003,Kidderminster,Cambridge Utd,2,2
@@ -370,7 +370,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 25.10.2003,2003,Mansfield,Cheltenham,4,0
 25.10.2003,2003,Oxford Utd,Bristol Rovers,0,0
 25.10.2003,2003,Rochdale,Swansea,0,1
-25.10.2003,2003,Scunthorpe,York,0,0
+25.10.2003,2003,Scunthorpe,York City,0,0
 21.10.2003,2003,Bristol Rovers,Leyton Orient,1,1
 21.10.2003,2003,Bury,Hull,0,0
 21.10.2003,2003,Carlisle,Scunthorpe,1,4
@@ -382,7 +382,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 21.10.2003,2003,Swansea,Cambridge Utd,0,2
 21.10.2003,2003,Torquay,Mansfield,1,0
 21.10.2003,2003,Yeovil,Huddersfield,2,1
-21.10.2003,2003,York,Oxford Utd,2,2
+21.10.2003,2003,York City,Oxford Utd,2,2
 18.10.2003,2003,Bristol Rovers,Cambridge Utd,0,2
 18.10.2003,2003,Bury,Oxford Utd,0,4
 18.10.2003,2003,Carlisle,Macclesfield,0,1
@@ -393,7 +393,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 18.10.2003,2003,Swansea,Kidderminster,0,0
 18.10.2003,2003,Torquay,Hull,1,1
 18.10.2003,2003,Yeovil,Darlington,1,0
-18.10.2003,2003,York,Boston Utd,1,1
+18.10.2003,2003,York City,Boston Utd,1,1
 17.10.2003,2003,Northampton,Scunthorpe,1,1
 12.10.2003,2003,Hull,Carlisle,2,1
 11.10.2003,2003,Boston Utd,Cheltenham,3,1
@@ -403,7 +403,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 11.10.2003,2003,Kidderminster,Southend,1,2
 11.10.2003,2003,Leyton Orient,Swansea,1,2
 11.10.2003,2003,Macclesfield,Doncaster,1,3
-11.10.2003,2003,Mansfield,York,2,0
+11.10.2003,2003,Mansfield,York City,2,0
 11.10.2003,2003,Oxford Utd,Yeovil,1,0
 11.10.2003,2003,Rochdale,Northampton,1,1
 11.10.2003,2003,Scunthorpe,Lincoln,1,3
@@ -418,10 +418,10 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 04.10.2003,2003,Southend,Huddersfield,1,2
 04.10.2003,2003,Swansea,Lincoln,2,2
 04.10.2003,2003,Torquay,Bury,3,1
-04.10.2003,2003,York,Cambridge Utd,2,0
+04.10.2003,2003,York City,Cambridge Utd,2,0
 01.10.2003,2003,Oxford Utd,Torquay,1,0
 30.09.2003,2003,Bristol Rovers,Mansfield,1,3
-30.09.2003,2003,Bury,York,2,0
+30.09.2003,2003,Bury,York City,2,0
 30.09.2003,2003,Cambridge Utd,Doncaster,3,3
 30.09.2003,2003,Carlisle,Leyton Orient,0,1
 30.09.2003,2003,Darlington,Southend,0,0
@@ -439,7 +439,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 27.09.2003,2003,Huddersfield,Leyton Orient,3,0
 27.09.2003,2003,Hull,Kidderminster,6,1
 27.09.2003,2003,Lincoln,Rochdale,1,1
-27.09.2003,2003,Macclesfield,York,0,0
+27.09.2003,2003,Macclesfield,York City,0,0
 27.09.2003,2003,Oxford Utd,Northampton,3,0
 27.09.2003,2003,Scunthorpe,Southend,1,1
 27.09.2003,2003,Yeovil,Torquay,0,2
@@ -454,7 +454,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 20.09.2003,2003,Southend,Carlisle,2,2
 20.09.2003,2003,Swansea,Huddersfield,2,0
 20.09.2003,2003,Torquay,Darlington,2,2
-20.09.2003,2003,York,Bristol Rovers,2,1
+20.09.2003,2003,York City,Bristol Rovers,2,1
 17.09.2003,2003,Boston Utd,Cambridge Utd,1,2
 16.09.2003,2003,Cheltenham,Oxford Utd,0,0
 16.09.2003,2003,Doncaster,Yeovil,0,1
@@ -466,7 +466,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 16.09.2003,2003,Southend,Lincoln,0,2
 16.09.2003,2003,Swansea,Macclesfield,3,0
 16.09.2003,2003,Torquay,Bristol Rovers,2,1
-16.09.2003,2003,York,Darlington,1,1
+16.09.2003,2003,York City,Darlington,1,1
 13.09.2003,2003,Bristol Rovers,Boston Utd,2,0
 13.09.2003,2003,Bury,Cheltenham,1,1
 13.09.2003,2003,Cambridge Utd,Torquay,1,1
@@ -478,7 +478,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 13.09.2003,2003,Macclesfield,Kidderminster,1,1
 13.09.2003,2003,Oxford Utd,Mansfield,1,1
 13.09.2003,2003,Scunthorpe,Swansea,2,2
-13.09.2003,2003,Yeovil,York,3,0
+13.09.2003,2003,Yeovil,York City,3,0
 08.09.2003,2003,Doncaster,Hull,0,0
 06.09.2003,2003,Boston Utd,Scunthorpe,1,1
 06.09.2003,2003,Bristol Rovers,Kidderminster,1,0
@@ -488,7 +488,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 06.09.2003,2003,Oxford Utd,Southend,2,0
 06.09.2003,2003,Torquay,Leyton Orient,2,1
 06.09.2003,2003,Yeovil,Swansea,2,0
-06.09.2003,2003,York,Rochdale,1,2
+06.09.2003,2003,York City,Rochdale,1,2
 05.09.2003,2003,Cambridge Utd,Lincoln,0,0
 05.09.2003,2003,Cheltenham,Northampton,4,3
 30.08.2003,2003,Carlisle,Cambridge Utd,0,0
@@ -496,7 +496,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 30.08.2003,2003,Hull,Boston Utd,2,1
 30.08.2003,2003,Kidderminster,Oxford Utd,1,1
 30.08.2003,2003,Leyton Orient,Cheltenham,1,4
-30.08.2003,2003,Lincoln,York,3,0
+30.08.2003,2003,Lincoln,York City,3,0
 30.08.2003,2003,Macclesfield,Yeovil,4,1
 30.08.2003,2003,Northampton,Doncaster,1,0
 30.08.2003,2003,Rochdale,Darlington,4,2
@@ -504,7 +504,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 30.08.2003,2003,Southend,Bury,1,0
 30.08.2003,2003,Swansea,Mansfield,4,1
 26.08.2003,2003,Mansfield,Scunthorpe,5,0
-26.08.2003,2003,York,Southend,2,0
+26.08.2003,2003,York City,Southend,2,0
 25.08.2003,2003,Boston Utd,Carlisle,1,0
 25.08.2003,2003,Bristol Rovers,Macclesfield,2,2
 25.08.2003,2003,Bury,Lincoln,2,1
@@ -516,7 +516,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 25.08.2003,2003,Torquay,Rochdale,1,3
 25.08.2003,2003,Yeovil,Northampton,0,2
 23.08.2003,2003,Carlisle,Bristol Rovers,0,2
-23.08.2003,2003,Huddersfield,York,0,1
+23.08.2003,2003,Huddersfield,York City,0,1
 23.08.2003,2003,Hull,Cheltenham,3,3
 23.08.2003,2003,Kidderminster,Bury,0,2
 23.08.2003,2003,Leyton Orient,Yeovil,2,0
@@ -538,8 +538,8 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 16.08.2003,2003,Oxford Utd,Hull,2,1
 16.08.2003,2003,Torquay,Lincoln,1,0
 16.08.2003,2003,Yeovil,Carlisle,3,0
-16.08.2003,2003,York,Northampton,1,0
-09.08.2003,2003,Carlisle,York,1,2
+16.08.2003,2003,York City,Northampton,1,0
+09.08.2003,2003,Carlisle,York City,1,2
 09.08.2003,2003,Huddersfield,Cambridge Utd,2,2
 09.08.2003,2003,Hull,Darlington,4,1
 09.08.2003,2003,Kidderminster,Mansfield,2,1

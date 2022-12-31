@@ -1,343 +1,307 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-29.04.2016,2015,Achilles 29,Venlo,1,3
-29.04.2016,2015,Almere City,Jong PSV,7,0
-29.04.2016,2015,FC Emmen,Sittard,1,2
-29.04.2016,2015,G.A. Eagles,Breda,4,1
-29.04.2016,2015,Jong Ajax,Den Bosch,3,1
-29.04.2016,2015,Oss,FC Volendam,1,2
-29.04.2016,2015,Sparta Rotterdam,Dordrecht,2,3
-29.04.2016,2015,Telstar,Helmond,1,0
-29.04.2016,2015,Waalwijk,Maastricht,1,3
-22.04.2016,2015,Breda,Almere City,1,1
-22.04.2016,2015,Den Bosch,Waalwijk,1,1
-22.04.2016,2015,Dordrecht,Achilles 29,3,3
-22.04.2016,2015,FC Volendam,Jong Ajax,1,1
-22.04.2016,2015,Helmond,Oss,4,0
-22.04.2016,2015,Jong PSV,Eindhoven FC,2,0
-22.04.2016,2015,Maastricht,Sparta Rotterdam,1,3
-22.04.2016,2015,Sittard,G.A. Eagles,0,1
-22.04.2016,2015,Venlo,FC Emmen,1,0
-15.04.2016,2015,Breda,Jong PSV,5,2
-15.04.2016,2015,Den Bosch,Almere City,1,2
-15.04.2016,2015,Eindhoven FC,Achilles 29,0,1
-15.04.2016,2015,FC Volendam,Sparta Rotterdam,2,0
-15.04.2016,2015,Helmond,G.A. Eagles,0,4
-15.04.2016,2015,Jong Ajax,Waalwijk,0,0
-15.04.2016,2015,Maastricht,FC Emmen,4,1
-15.04.2016,2015,Oss,Telstar,3,3
-15.04.2016,2015,Venlo,Sittard,4,1
-11.04.2016,2015,Achilles 29,Helmond,1,2
-11.04.2016,2015,Almere City,Dordrecht,3,0
-11.04.2016,2015,FC Emmen,Eindhoven FC,4,2
-11.04.2016,2015,G.A. Eagles,FC Volendam,3,2
-11.04.2016,2015,Jong PSV,Den Bosch,2,1
-11.04.2016,2015,Sittard,Maastricht,1,2
-11.04.2016,2015,Sparta Rotterdam,Jong Ajax,3,1
-11.04.2016,2015,Telstar,Breda,1,4
-11.04.2016,2015,Waalwijk,Oss,3,2
-08.04.2016,2015,Breda,Waalwijk,1,1
-08.04.2016,2015,Den Bosch,Telstar,5,0
-08.04.2016,2015,Dordrecht,Jong PSV,4,0
-08.04.2016,2015,Eindhoven FC,G.A. Eagles,0,0
-08.04.2016,2015,FC Volendam,Achilles 29,0,0
-08.04.2016,2015,Helmond,Sparta Rotterdam,1,1
-08.04.2016,2015,Jong Ajax,FC Emmen,2,0
-08.04.2016,2015,Maastricht,Venlo,1,3
-08.04.2016,2015,Oss,Almere City,1,2
-04.04.2016,2015,Jong PSV,Oss,3,1
-01.04.2016,2015,Achilles 29,Telstar,1,3
-01.04.2016,2015,Almere City,G.A. Eagles,3,4
-01.04.2016,2015,Dordrecht,Helmond,0,2
-01.04.2016,2015,FC Emmen,FC Volendam,1,0
-01.04.2016,2015,Sittard,Jong Ajax,1,2
-01.04.2016,2015,Sparta Rotterdam,Breda,1,1
-01.04.2016,2015,Venlo,Den Bosch,2,1
-01.04.2016,2015,Waalwijk,Eindhoven FC,1,2
-20.03.2016,2015,Achilles 29,Maastricht,1,2
-18.03.2016,2015,Den Bosch,Breda,3,6
-18.03.2016,2015,Eindhoven FC,Venlo,2,0
-18.03.2016,2015,G.A. Eagles,Oss,5,0
-18.03.2016,2015,Helmond,Almere City,0,2
-18.03.2016,2015,Jong Ajax,Jong PSV,1,2
-18.03.2016,2015,Sparta Rotterdam,Sittard,1,1
-18.03.2016,2015,Telstar,Dordrecht,3,0
-18.03.2016,2015,Waalwijk,FC Volendam,2,1
-14.03.2016,2015,Almere City,Sparta Rotterdam,1,0
-14.03.2016,2015,Dordrecht,G.A. Eagles,1,1
-14.03.2016,2015,FC Emmen,Achilles 29,3,1
-14.03.2016,2015,FC Volendam,Telstar,3,0
-14.03.2016,2015,Jong PSV,Helmond,3,1
-14.03.2016,2015,Maastricht,Jong Ajax,0,0
-14.03.2016,2015,Oss,Den Bosch,3,1
-14.03.2016,2015,Sittard,Eindhoven FC,2,1
-14.03.2016,2015,Venlo,Waalwijk,4,3
-11.03.2016,2015,Achilles 29,Almere City,1,3
-11.03.2016,2015,Breda,Oss,5,0
-11.03.2016,2015,Den Bosch,Dordrecht,2,0
-11.03.2016,2015,Eindhoven FC,FC Volendam,1,0
-11.03.2016,2015,G.A. Eagles,Maastricht,0,0
-11.03.2016,2015,Jong Ajax,Venlo,2,2
-11.03.2016,2015,Sparta Rotterdam,FC Emmen,3,2
-11.03.2016,2015,Telstar,Jong PSV,1,1
-11.03.2016,2015,Waalwijk,Sittard,1,1
-07.03.2016,2015,Jong PSV,Sittard,0,1
-06.03.2016,2015,FC Volendam,Maastricht,0,1
-04.03.2016,2015,Almere City,Jong Ajax,2,1
-04.03.2016,2015,Breda,Achilles 29,3,1
-04.03.2016,2015,Dordrecht,Waalwijk,1,2
-04.03.2016,2015,G.A. Eagles,FC Emmen,0,0
-04.03.2016,2015,Helmond,Eindhoven FC,1,2
-04.03.2016,2015,Oss,Sparta Rotterdam,1,2
-04.03.2016,2015,Telstar,Venlo,2,2
-29.02.2016,2015,Jong Ajax,Dordrecht,4,1
-28.02.2016,2015,Maastricht,Den Bosch,1,0
-28.02.2016,2015,Sparta Rotterdam,G.A. Eagles,3,1
-26.02.2016,2015,Achilles 29,Jong PSV,3,2
-26.02.2016,2015,Eindhoven FC,Telstar,2,1
-26.02.2016,2015,FC Emmen,Almere City,5,6
-26.02.2016,2015,Sittard,Oss,3,0
-26.02.2016,2015,Venlo,Breda,4,3
-26.02.2016,2015,Waalwijk,Helmond,2,2
-19.02.2016,2015,Almere City,FC Volendam,2,2
-19.02.2016,2015,Breda,Sittard,5,0
-19.02.2016,2015,Den Bosch,Eindhoven FC,3,1
-19.02.2016,2015,Dordrecht,Maastricht,1,0
-19.02.2016,2015,G.A. Eagles,Waalwijk,1,0
-19.02.2016,2015,Helmond,Venlo,1,4
-19.02.2016,2015,Jong PSV,FC Emmen,0,0
-19.02.2016,2015,Oss,Jong Ajax,1,2
-19.02.2016,2015,Telstar,Sparta Rotterdam,1,3
-15.02.2016,2015,Den Bosch,Achilles 29,1,2
-15.02.2016,2015,Eindhoven FC,Oss,4,0
-15.02.2016,2015,FC Emmen,Breda,1,0
-15.02.2016,2015,FC Volendam,Helmond,2,1
-15.02.2016,2015,Jong Ajax,G.A. Eagles,2,2
-15.02.2016,2015,Maastricht,Almere City,0,0
-15.02.2016,2015,Sittard,Telstar,0,3
-15.02.2016,2015,Sparta Rotterdam,Jong PSV,1,0
-15.02.2016,2015,Venlo,Dordrecht,3,0
-12.02.2016,2015,Achilles 29,Sparta Rotterdam,0,3
-12.02.2016,2015,Almere City,Eindhoven FC,1,2
-12.02.2016,2015,Breda,Maastricht,1,1
-12.02.2016,2015,Dordrecht,Sittard,1,3
-12.02.2016,2015,G.A. Eagles,Venlo,0,3
-12.02.2016,2015,Helmond,Den Bosch,0,0
-12.02.2016,2015,Jong PSV,FC Volendam,2,2
-12.02.2016,2015,Telstar,Jong Ajax,4,2
-12.02.2016,2015,Waalwijk,FC Emmen,0,1
-08.02.2016,2015,G.A. Eagles,Den Bosch,0,0
-07.02.2016,2015,Sparta Rotterdam,Venlo,3,1
-05.02.2016,2015,Almere City,Waalwijk,3,1
-05.02.2016,2015,Dordrecht,Breda,0,2
-05.02.2016,2015,Eindhoven FC,Jong Ajax,2,1
-05.02.2016,2015,FC Volendam,Sittard,1,0
-05.02.2016,2015,Helmond,FC Emmen,3,2
-05.02.2016,2015,Oss,Achilles 29,1,1
-05.02.2016,2015,Telstar,Maastricht,4,0
-01.02.2016,2015,Jong PSV,Waalwijk,3,1
-01.02.2016,2015,Sittard,Helmond,3,0
-31.01.2016,2015,Achilles 29,G.A. Eagles,1,0
-31.01.2016,2015,Den Bosch,Sparta Rotterdam,1,2
-29.01.2016,2015,Breda,Helmond,1,0
-29.01.2016,2015,FC Emmen,Telstar,1,0
-29.01.2016,2015,Maastricht,Eindhoven FC,0,2
-29.01.2016,2015,Oss,Dordrecht,2,3
-29.01.2016,2015,Sittard,Almere City,0,2
-29.01.2016,2015,Venlo,FC Volendam,3,0
-25.01.2016,2015,Jong Ajax,Breda,2,1
-25.01.2016,2015,Achilles 29,Sittard,3,0
-22.01.2016,2015,Almere City,Telstar,0,2
-22.01.2016,2015,Eindhoven FC,Sparta Rotterdam,1,1
-22.01.2016,2015,FC Emmen,Den Bosch,1,0
-22.01.2016,2015,FC Volendam,Dordrecht,2,2
-22.01.2016,2015,Maastricht,Oss,4,2
-22.01.2016,2015,Venlo,Jong PSV,1,2
-22.01.2016,2015,Waalwijk,Achilles 29,1,1
-18.01.2016,2015,Breda,Eindhoven FC,3,1
-18.01.2016,2015,Den Bosch,FC Volendam,0,0
-18.01.2016,2015,Dordrecht,FC Emmen,0,2
-18.01.2016,2015,Helmond,Jong Ajax,2,3
-18.01.2016,2015,Jong PSV,Maastricht,2,0
-18.01.2016,2015,Oss,Venlo,2,1
-18.01.2016,2015,Sparta Rotterdam,Waalwijk,5,2
-18.01.2016,2015,Telstar,G.A. Eagles,1,2
-15.01.2016,2015,Eindhoven FC,Dordrecht,1,1
-15.01.2016,2015,FC Emmen,Oss,0,2
-15.01.2016,2015,FC Volendam,Breda,1,2
-15.01.2016,2015,G.A. Eagles,Jong PSV,1,2
-15.01.2016,2015,Jong Ajax,Achilles 29,3,1
-15.01.2016,2015,Maastricht,Helmond,1,4
-15.01.2016,2015,Sittard,Den Bosch,1,1
-15.01.2016,2015,Venlo,Almere City,4,0
-15.01.2016,2015,Waalwijk,Telstar,2,1
-21.12.2015,2015,Jong Ajax,FC Volendam,2,0
-19.12.2015,2015,Achilles 29,Dordrecht,2,1
-18.12.2015,2015,Almere City,Breda,0,1
-18.12.2015,2015,Eindhoven FC,Jong PSV,2,0
-18.12.2015,2015,FC Emmen,Venlo,1,4
-18.12.2015,2015,G.A. Eagles,Sittard,0,2
-18.12.2015,2015,Oss,Helmond,2,2
-18.12.2015,2015,Sparta Rotterdam,Maastricht,6,0
-18.12.2015,2015,Waalwijk,Den Bosch,1,1
-11.12.2015,2015,Breda,G.A. Eagles,0,1
-11.12.2015,2015,Den Bosch,Jong Ajax,3,0
-11.12.2015,2015,Dordrecht,Sparta Rotterdam,0,3
-11.12.2015,2015,FC Volendam,Oss,1,1
-11.12.2015,2015,Helmond,Telstar,4,1
-11.12.2015,2015,Jong PSV,Almere City,3,4
-11.12.2015,2015,Maastricht,Waalwijk,6,2
-11.12.2015,2015,Sittard,FC Emmen,2,2
-11.12.2015,2015,Venlo,Achilles 29,3,0
-07.12.2015,2015,Jong PSV,Breda,0,3
-04.12.2015,2015,Achilles 29,Eindhoven FC,2,1
-04.12.2015,2015,Almere City,Den Bosch,1,1
-04.12.2015,2015,FC Emmen,Maastricht,2,3
-04.12.2015,2015,G.A. Eagles,Helmond,1,1
-04.12.2015,2015,Sittard,Venlo,0,5
-04.12.2015,2015,Sparta Rotterdam,FC Volendam,3,1
-04.12.2015,2015,Telstar,Oss,1,1
-04.12.2015,2015,Waalwijk,Jong Ajax,3,5
-30.11.2015,2015,Breda,Telstar,2,1
-30.11.2015,2015,Den Bosch,Jong PSV,0,0
-30.11.2015,2015,Dordrecht,Almere City,3,1
-30.11.2015,2015,Eindhoven FC,FC Emmen,1,1
-30.11.2015,2015,FC Volendam,G.A. Eagles,1,0
-30.11.2015,2015,Helmond,Achilles 29,2,2
-30.11.2015,2015,Jong Ajax,Sparta Rotterdam,1,1
-30.11.2015,2015,Maastricht,Sittard,1,3
-30.11.2015,2015,Oss,Waalwijk,0,0
-27.11.2015,2015,Achilles 29,FC Volendam,0,0
-27.11.2015,2015,Almere City,Oss,0,1
-27.11.2015,2015,FC Emmen,Jong Ajax,4,2
-27.11.2015,2015,G.A. Eagles,Eindhoven FC,1,2
-27.11.2015,2015,Jong PSV,Dordrecht,1,4
-27.11.2015,2015,Sparta Rotterdam,Helmond,2,1
-27.11.2015,2015,Telstar,Den Bosch,1,0
-27.11.2015,2015,Venlo,Maastricht,3,0
-27.11.2015,2015,Waalwijk,Breda,2,0
-23.11.2015,2015,Jong PSV,Jong Ajax,3,3
-20.11.2015,2015,Almere City,Helmond,2,2
-20.11.2015,2015,Breda,Den Bosch,3,0
-20.11.2015,2015,Dordrecht,Telstar,2,2
-20.11.2015,2015,FC Volendam,Waalwijk,3,0
-20.11.2015,2015,Maastricht,Achilles 29,1,1
-20.11.2015,2015,Oss,G.A. Eagles,3,0
-20.11.2015,2015,Sittard,Sparta Rotterdam,1,4
-20.11.2015,2015,Venlo,Eindhoven FC,1,0
-08.11.2015,2015,Den Bosch,Oss,4,2
-06.11.2015,2015,Achilles 29,FC Emmen,1,2
-06.11.2015,2015,Eindhoven FC,Sittard,3,1
-06.11.2015,2015,G.A. Eagles,Dordrecht,3,0
-06.11.2015,2015,Helmond,Jong PSV,4,2
-06.11.2015,2015,Jong Ajax,Maastricht,0,1
-06.11.2015,2015,Sparta Rotterdam,Almere City,3,2
-06.11.2015,2015,Telstar,FC Volendam,1,1
-06.11.2015,2015,Waalwijk,Venlo,2,1
-02.11.2015,2015,Jong PSV,Telstar,4,3
-01.11.2015,2015,FC Emmen,Sparta Rotterdam,1,3
-30.10.2015,2015,Almere City,Achilles 29,2,1
-30.10.2015,2015,Dordrecht,Den Bosch,1,2
-30.10.2015,2015,FC Volendam,Eindhoven FC,1,2
-30.10.2015,2015,Maastricht,G.A. Eagles,1,2
-30.10.2015,2015,Oss,Breda,1,6
-30.10.2015,2015,Sittard,Waalwijk,1,0
-30.10.2015,2015,Venlo,Jong Ajax,3,0
-23.10.2015,2015,Breda,Sparta Rotterdam,4,0
-23.10.2015,2015,Den Bosch,Venlo,0,1
-23.10.2015,2015,Eindhoven FC,Waalwijk,1,0
-23.10.2015,2015,FC Volendam,FC Emmen,0,2
-23.10.2015,2015,G.A. Eagles,Almere City,4,1
-23.10.2015,2015,Helmond,Dordrecht,1,2
-23.10.2015,2015,Jong Ajax,Sittard,3,0
-23.10.2015,2015,Oss,Jong PSV,0,0
-23.10.2015,2015,Telstar,Achilles 29,3,0
-19.10.2015,2015,Jong Ajax,Almere City,2,2
-18.10.2015,2015,Achilles 29,Breda,1,2
-18.10.2015,2015,Maastricht,FC Volendam,3,1
-18.10.2015,2015,Sparta Rotterdam,Oss,3,1
-16.10.2015,2015,Eindhoven FC,Helmond,1,4
-16.10.2015,2015,FC Emmen,G.A. Eagles,4,1
-16.10.2015,2015,Sittard,Jong PSV,1,1
-16.10.2015,2015,Venlo,Telstar,1,2
-16.10.2015,2015,Waalwijk,Dordrecht,0,1
-02.10.2015,2015,Almere City,FC Emmen,4,0
-02.10.2015,2015,Breda,Venlo,0,1
-02.10.2015,2015,Den Bosch,Maastricht,2,2
-02.10.2015,2015,Dordrecht,Jong Ajax,0,1
-02.10.2015,2015,G.A. Eagles,Sparta Rotterdam,2,0
-02.10.2015,2015,Helmond,Waalwijk,1,0
-02.10.2015,2015,Jong PSV,Achilles 29,1,1
-02.10.2015,2015,Oss,Sittard,4,0
-02.10.2015,2015,Telstar,Eindhoven FC,1,2
-28.09.2015,2015,Jong Ajax,Oss,2,2
-27.09.2015,2015,Eindhoven FC,Den Bosch,0,0
-27.09.2015,2015,Sittard,Breda,1,2
-27.09.2015,2015,Venlo,Helmond,4,1
-27.09.2015,2015,Waalwijk,G.A. Eagles,0,2
-25.09.2015,2015,FC Emmen,Jong PSV,1,1
-25.09.2015,2015,FC Volendam,Almere City,3,1
-25.09.2015,2015,Maastricht,Dordrecht,2,2
-25.09.2015,2015,Sparta Rotterdam,Telstar,2,1
-20.09.2015,2015,Achilles 29,Den Bosch,0,1
-18.09.2015,2015,Almere City,Maastricht,0,3
-18.09.2015,2015,Breda,FC Emmen,2,2
-18.09.2015,2015,Dordrecht,Venlo,0,0
-18.09.2015,2015,G.A. Eagles,Jong Ajax,2,0
-18.09.2015,2015,Helmond,FC Volendam,0,2
-18.09.2015,2015,Jong PSV,Sparta Rotterdam,0,3
-18.09.2015,2015,Oss,Eindhoven FC,0,4
-18.09.2015,2015,Telstar,Sittard,3,0
-14.09.2015,2015,Jong Ajax,Telstar,4,1
-13.09.2015,2015,Maastricht,Breda,1,1
-11.09.2015,2015,Den Bosch,Helmond,2,1
-11.09.2015,2015,Eindhoven FC,Almere City,3,2
-11.09.2015,2015,FC Emmen,Waalwijk,6,1
-11.09.2015,2015,FC Volendam,Jong PSV,3,0
-11.09.2015,2015,Sittard,Dordrecht,0,5
-11.09.2015,2015,Sparta Rotterdam,Achilles 29,3,0
-11.09.2015,2015,Venlo,G.A. Eagles,2,1
-30.08.2015,2015,G.A. Eagles,Achilles 29,3,2
-30.08.2015,2015,Sparta Rotterdam,Den Bosch,5,2
-29.08.2015,2015,Waalwijk,Jong PSV,1,2
-28.08.2015,2015,Almere City,Sittard,0,3
-28.08.2015,2015,Dordrecht,Oss,1,0
-28.08.2015,2015,Eindhoven FC,Maastricht,4,1
-28.08.2015,2015,FC Volendam,Venlo,1,1
-28.08.2015,2015,Helmond,Breda,1,1
-28.08.2015,2015,Telstar,FC Emmen,2,1
-24.08.2015,2015,Achilles 29,Oss,1,0
-24.08.2015,2015,Breda,Dordrecht,7,0
-24.08.2015,2015,Den Bosch,G.A. Eagles,2,4
-24.08.2015,2015,FC Emmen,Helmond,0,1
-24.08.2015,2015,Jong Ajax,Eindhoven FC,0,0
-24.08.2015,2015,Maastricht,Telstar,1,0
-24.08.2015,2015,Sittard,FC Volendam,0,6
-24.08.2015,2015,Venlo,Sparta Rotterdam,1,1
-24.08.2015,2015,Waalwijk,Almere City,3,1
-21.08.2015,2015,Achilles 29,Waalwijk,0,0
-21.08.2015,2015,Breda,Jong Ajax,3,0
-21.08.2015,2015,Den Bosch,FC Emmen,3,0
-21.08.2015,2015,Dordrecht,FC Volendam,1,3
-21.08.2015,2015,Helmond,Sittard,0,2
-21.08.2015,2015,Jong PSV,Venlo,1,5
-21.08.2015,2015,Oss,Maastricht,1,3
-21.08.2015,2015,Sparta Rotterdam,Eindhoven FC,3,0
-21.08.2015,2015,Telstar,Almere City,2,2
-17.08.2015,2015,Jong Ajax,Helmond,1,1
-16.08.2015,2015,G.A. Eagles,Telstar,5,0
-14.08.2015,2015,Eindhoven FC,Breda,2,1
-14.08.2015,2015,FC Emmen,Dordrecht,1,0
-14.08.2015,2015,FC Volendam,Den Bosch,2,0
-14.08.2015,2015,Maastricht,Jong PSV,2,3
-14.08.2015,2015,Sittard,Achilles 29,2,4
-14.08.2015,2015,Venlo,Oss,1,2
-14.08.2015,2015,Waalwijk,Sparta Rotterdam,1,1
-10.08.2015,2015,Jong PSV,G.A. Eagles,1,0
-10.08.2015,2015,Telstar,Waalwijk,1,1
-07.08.2015,2015,Achilles 29,Jong Ajax,2,1
-07.08.2015,2015,Almere City,Venlo,3,3
-07.08.2015,2015,Breda,FC Volendam,1,4
-07.08.2015,2015,Den Bosch,Sittard,2,2
-07.08.2015,2015,Dordrecht,Eindhoven FC,3,1
-07.08.2015,2015,Helmond,Maastricht,1,0
-07.08.2015,2015,Oss,FC Emmen,0,3
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+08.05.2016,2015,Cambuur,Excelsior,0,2,3.72,3.87,1.87
+08.05.2016,2015,Graafschap,Ajax,1,1,20.61,8.30,1.13
+08.05.2016,2015,Den Haag,Heerenveen,1,1,2.14,3.68,3.12
+08.05.2016,2015,Feyenoord,Nijmegen,1,0,1.46,4.76,5.98
+08.05.2016,2015,Groningen,Heracles,2,1,1.71,3.97,4.45
+08.05.2016,2015,Roda,Willem II,2,3,2.65,3.52,2.51
+08.05.2016,2015,Twente,Vitesse,2,2,3.30,3.74,2.05
+08.05.2016,2015,Utrecht,AZ Alkmaar,1,3,2.13,3.92,2.97
+08.05.2016,2015,Zwolle,PSV,1,3,7.08,5.34,1.37
+01.05.2016,2015,Ajax,Twente,4,0,1.16,7.64,14.87
+01.05.2016,2015,AZ Alkmaar,Graafschap,4,1,1.28,6.10,8.60
+01.05.2016,2015,Excelsior,Zwolle,2,2,2.91,3.55,2.30
+01.05.2016,2015,Heerenveen,Groningen,1,2,2.19,3.55,3.10
+01.05.2016,2015,Heracles,Den Haag,1,1,2.11,3.59,3.25
+01.05.2016,2015,Nijmegen,Roda,1,2,1.95,3.57,3.73
+01.05.2016,2015,PSV,Cambuur,6,2,1.04,14.46,36.94
+01.05.2016,2015,Vitesse,Utrecht,1,3,2.60,3.53,2.55
+01.05.2016,2015,Willem II,Feyenoord,0,1,3.43,3.55,2.04
+21.04.2016,2015,Cambuur,Willem II,1,1,2.74,3.44,2.47
+21.04.2016,2015,Den Haag,AZ Alkmaar,1,2,3.24,3.70,2.07
+20.04.2016,2015,Heerenveen,Ajax,0,2,5.79,4.32,1.53
+20.04.2016,2015,Heracles,Feyenoord,2,2,3.44,3.49,2.06
+20.04.2016,2015,Twente,Excelsior,2,0,1.81,3.86,4.01
+20.04.2016,2015,Utrecht,Graafschap,0,2,1.49,4.50,5.82
+20.04.2016,2015,Zwolle,Nijmegen,2,0,2.01,3.59,3.50
+19.04.2016,2015,Groningen,Roda,1,0,2.23,3.37,3.17
+19.04.2016,2015,PSV,Vitesse,2,0,1.32,5.29,8.83
+17.04.2016,2015,Ajax,Utrecht,2,2,1.43,4.52,7.06
+17.04.2016,2015,Excelsior,Heerenveen,1,1,3.09,3.57,2.19
+17.04.2016,2015,Nijmegen,Cambuur,2,1,1.67,3.91,4.86
+17.04.2016,2015,Willem II,Den Haag,0,2,2.38,3.36,2.90
+16.04.2016,2015,AZ Alkmaar,Zwolle,5,1,1.59,4.29,5.06
+16.04.2016,2015,Feyenoord,Groningen,1,1,1.28,5.56,10.18
+16.04.2016,2015,Roda,PSV,0,3,7.39,4.84,1.39
+16.04.2016,2015,Vitesse,Heracles,1,1,1.62,4.02,5.15
+15.04.2016,2015,Graafschap,Twente,1,1,2.47,3.60,2.62
+10.04.2016,2015,Groningen,Graafschap,3,1,1.76,3.76,4.43
+10.04.2016,2015,Heerenveen,AZ Alkmaar,4,2,3.14,3.76,2.10
+10.04.2016,2015,Twente,Feyenoord,0,1,3.61,3.70,1.95
+10.04.2016,2015,Utrecht,Nijmegen,3,1,1.51,4.12,6.40
+09.04.2016,2015,Cambuur,Ajax,0,1,9.66,5.54,1.29
+09.04.2016,2015,Excelsior,Heracles,1,3,2.52,3.36,2.73
+09.04.2016,2015,PSV,Willem II,2,0,1.19,6.74,13.67
+09.04.2016,2015,Vitesse,Den Haag,2,2,1.76,3.71,4.46
+08.04.2016,2015,Zwolle,Roda,3,1,1.77,3.78,4.31
+03.04.2016,2015,Ajax,Zwolle,3,0,1.25,5.84,11.23
+03.04.2016,2015,Den Haag,Groningen,0,1,1.86,3.62,4.01
+03.04.2016,2015,Nijmegen,Vitesse,2,1,3.49,3.33,2.10
+03.04.2016,2015,Roda,Heerenveen,1,2,2.11,3.50,3.34
+02.04.2016,2015,AZ Alkmaar,PSV,2,4,3.67,3.83,1.90
+02.04.2016,2015,Graafschap,Cambuur,2,2,2.01,3.57,3.51
+02.04.2016,2015,Feyenoord,Excelsior,3,0,1.25,5.90,11.25
+02.04.2016,2015,Heracles,Utrecht,1,1,3.20,3.45,2.17
+02.04.2016,2015,Willem II,Twente,2,3,2.47,3.38,2.76
+20.03.2016,2015,Den Haag,Nijmegen,1,0,1.77,3.60,4.57
+20.03.2016,2015,Groningen,Vitesse,0,3,3.13,3.39,2.23
+20.03.2016,2015,PSV,Ajax,0,2,1.98,3.49,3.77
+20.03.2016,2015,Twente,AZ Alkmaar,2,2,2.89,3.60,2.29
+19.03.2016,2015,Cambuur,Roda,0,1,2.61,3.38,2.62
+19.03.2016,2015,Feyenoord,Graafschap,3,1,1.25,5.88,11.00
+19.03.2016,2015,Heerenveen,Heracles,0,1,1.84,3.75,3.99
+19.03.2016,2015,Zwolle,Willem II,4,1,1.95,3.51,3.75
+18.03.2016,2015,Utrecht,Excelsior,2,1,1.35,5.00,8.19
+13.03.2016,2015,Ajax,Nijmegen,2,2,1.24,5.88,12.19
+13.03.2016,2015,Heracles,Cambuur,3,1,1.89,3.71,3.81
+13.03.2016,2015,Utrecht,Den Haag,2,2,1.59,4.07,5.42
+13.03.2016,2015,Vitesse,Feyenoord,0,2,2.50,3.39,2.72
+12.03.2016,2015,Excelsior,Groningen,2,1,2.60,3.40,2.61
+12.03.2016,2015,PSV,Heerenveen,1,1,1.21,6.69,11.86
+12.03.2016,2015,Twente,Zwolle,2,1,1.86,3.78,3.84
+12.03.2016,2015,Willem II,AZ Alkmaar,0,2,3.06,3.40,2.27
+11.03.2016,2015,Graafschap,Roda,3,0,2.85,3.41,2.39
+06.03.2016,2015,AZ Alkmaar,Excelsior,2,0,1.37,5.10,7.67
+06.03.2016,2015,Feyenoord,Cambuur,3,1,1.28,5.78,10.57
+06.03.2016,2015,Nijmegen,Heracles,1,0,2.17,3.46,3.22
+06.03.2016,2015,Roda,Vitesse,1,2,3.11,3.32,2.28
+06.03.2016,2015,Willem II,Ajax,0,4,5.31,3.71,1.67
+05.03.2016,2015,Groningen,PSV,0,3,6.65,4.33,1.48
+05.03.2016,2015,Heerenveen,Utrecht,0,4,2.51,3.58,2.60
+05.03.2016,2015,Zwolle,Graafschap,2,1,1.65,4.02,4.86
+04.03.2016,2015,Den Haag,Twente,2,1,2.55,3.43,2.67
+28.02.2016,2015,Ajax,AZ Alkmaar,4,1,1.74,3.88,4.38
+28.02.2016,2015,Graafschap,Heerenveen,0,1,3.24,3.55,2.12
+28.02.2016,2015,Heracles,Roda,0,5,2.02,3.42,3.65
+28.02.2016,2015,Utrecht,Feyenoord,1,2,2.39,3.46,2.85
+27.02.2016,2015,Cambuur,Zwolle,1,0,2.62,3.55,2.52
+27.02.2016,2015,PSV,Den Haag,2,0,1.24,6.12,10.90
+27.02.2016,2015,Twente,Groningen,2,0,1.87,3.71,3.92
+27.02.2016,2015,Vitesse,Willem II,0,1,1.53,4.09,6.25
+26.02.2016,2015,Excelsior,Nijmegen,2,0,2.38,3.40,2.89
+21.02.2016,2015,Ajax,Excelsior,3,0,1.19,6.65,14.29
+21.02.2016,2015,Graafschap,Vitesse,2,2,6.23,4.22,1.51
+21.02.2016,2015,Feyenoord,Roda,1,1,1.44,4.55,6.98
+21.02.2016,2015,Utrecht,Willem II,2,1,1.72,3.74,4.74
+20.02.2016,2015,AZ Alkmaar,Groningen,4,1,1.48,4.51,6.17
+20.02.2016,2015,Heerenveen,Nijmegen,1,1,1.83,3.66,4.14
+20.02.2016,2015,PSV,Heracles,2,0,1.25,6.16,10.37
+20.02.2016,2015,Twente,Cambuur,3,0,1.49,4.42,6.08
+19.02.2016,2015,Den Haag,Zwolle,0,2,2.06,3.51,3.39
+14.02.2016,2015,Excelsior,Den Haag,2,4,2.82,3.30,2.47
+14.02.2016,2015,Groningen,Ajax,1,2,4.83,3.63,1.74
+14.02.2016,2015,Nijmegen,PSV,0,3,6.43,4.20,1.50
+14.02.2016,2015,Zwolle,Feyenoord,3,1,3.34,3.50,2.10
+13.02.2016,2015,Heracles,AZ Alkmaar,3,6,3.09,3.32,2.30
+13.02.2016,2015,Roda,Twente,0,1,2.63,3.39,2.59
+13.02.2016,2015,Vitesse,Heerenveen,3,0,1.65,4.00,4.88
+13.02.2016,2015,Willem II,Graafschap,0,0,1.64,3.75,5.45
+12.02.2016,2015,Cambuur,Utrecht,0,2,4.20,3.72,1.81
+07.02.2016,2015,Ajax,Feyenoord,2,1,1.72,3.65,4.89
+07.02.2016,2015,Graafschap,Nijmegen,1,1,2.62,3.40,2.59
+07.02.2016,2015,Groningen,Cambuur,2,0,1.70,3.87,4.69
+07.02.2016,2015,Utrecht,PSV,0,2,3.20,3.53,2.14
+06.02.2016,2015,AZ Alkmaar,Vitesse,1,0,2.32,3.39,2.96
+06.02.2016,2015,Den Haag,Roda,2,2,1.68,3.65,5.15
+06.02.2016,2015,Heerenveen,Twente,1,3,1.92,3.74,3.68
+06.02.2016,2015,Heracles,Zwolle,2,0,2.11,3.54,3.28
+05.02.2016,2015,Excelsior,Willem II,0,0,2.51,3.33,2.75
+31.01.2016,2015,Cambuur,Heerenveen,0,1,3.05,3.59,2.19
+31.01.2016,2015,Feyenoord,Den Haag,0,2,1.54,4.33,5.61
+31.01.2016,2015,Roda,Ajax,2,2,6.04,4.11,1.53
+31.01.2016,2015,Twente,Utrecht,3,1,2.70,3.50,2.46
+30.01.2016,2015,Nijmegen,AZ Alkmaar,0,3,2.68,3.44,2.52
+30.01.2016,2015,PSV,Graafschap,4,2,1.09,10.08,21.32
+30.01.2016,2015,Vitesse,Excelsior,0,0,1.34,5.25,8.15
+30.01.2016,2015,Zwolle,Groningen,1,3,1.81,3.73,4.16
+29.01.2016,2015,Willem II,Heracles,0,0,1.93,3.59,3.77
+28.01.2016,2015,Feyenoord,Heerenveen,1,2,1.42,4.91,6.71
+28.01.2016,2015,Roda,Utrecht,1,0,3.49,3.54,2.04
+27.01.2016,2015,AZ Alkmaar,Cambuur,3,1,1.45,4.64,6.47
+27.01.2016,2015,Graafschap,Den Haag,3,1,3.09,3.45,2.23
+27.01.2016,2015,Excelsior,PSV,1,3,8.13,5.26,1.34
+27.01.2016,2015,Nijmegen,Twente,2,0,2.06,3.59,3.36
+27.01.2016,2015,Vitesse,Zwolle,1,1,1.46,4.56,6.29
+26.01.2016,2015,Ajax,Heracles,0,0,1.28,5.62,10.27
+26.01.2016,2015,Willem II,Groningen,1,1,2.02,3.47,3.59
+24.01.2016,2015,AZ Alkmaar,Feyenoord,4,2,3.65,3.68,1.94
+24.01.2016,2015,Den Haag,Cambuur,2,1,1.66,3.87,5.03
+24.01.2016,2015,PSV,Twente,4,2,1.24,6.26,10.65
+24.01.2016,2015,Utrecht,Zwolle,1,0,1.73,3.78,4.63
+23.01.2016,2015,Ajax,Vitesse,1,0,1.74,3.79,4.53
+23.01.2016,2015,Excelsior,Roda,0,1,2.03,3.52,3.54
+23.01.2016,2015,Heerenveen,Willem II,3,1,1.97,3.52,3.72
+23.01.2016,2015,Heracles,Graafschap,2,1,1.59,4.11,5.33
+22.01.2016,2015,Groningen,Nijmegen,0,0,2.06,3.48,3.46
+17.01.2016,2015,Den Haag,Ajax,0,1,4.59,3.72,1.75
+17.01.2016,2015,Feyenoord,PSV,0,2,2.53,3.36,2.75
+17.01.2016,2015,Groningen,Utrecht,1,4,2.50,3.32,2.78
+17.01.2016,2015,Nijmegen,Willem II,1,0,2.42,3.38,2.86
+16.01.2016,2015,Cambuur,Vitesse,0,2,3.98,3.77,1.85
+16.01.2016,2015,Graafschap,Excelsior,2,0,2.37,3.54,2.83
+16.01.2016,2015,Roda,AZ Alkmaar,0,1,3.20,3.51,2.16
+16.01.2016,2015,Zwolle,Heerenveen,5,2,2.17,3.52,3.20
+15.01.2016,2015,Twente,Heracles,4,0,2.28,3.58,2.96
+20.12.2015,2015,Ajax,Graafschap,2,1,1.10,9.79,21.55
+20.12.2015,2015,Excelsior,Cambuur,1,4,1.99,3.63,3.54
+20.12.2015,2015,Heerenveen,Den Haag,0,4,1.90,3.65,3.85
+20.12.2015,2015,Nijmegen,Feyenoord,3,1,4.48,3.76,1.76
+20.12.2015,2015,Willem II,Roda,3,2,1.70,3.72,4.94
+19.12.2015,2015,AZ Alkmaar,Utrecht,2,2,2.31,3.56,2.89
+19.12.2015,2015,Heracles,Groningen,2,1,2.05,3.55,3.40
+19.12.2015,2015,PSV,Zwolle,3,2,1.20,6.90,12.48
+18.12.2015,2015,Vitesse,Twente,5,1,1.44,4.74,6.41
+13.12.2015,2015,Groningen,Feyenoord,1,1,4.68,3.82,1.70
+13.12.2015,2015,Heracles,Vitesse,1,1,3.11,3.60,2.17
+13.12.2015,2015,Utrecht,Ajax,1,0,4.29,3.76,1.78
+13.12.2015,2015,Zwolle,AZ Alkmaar,2,1,2.37,3.60,2.76
+12.12.2015,2015,Cambuur,Nijmegen,3,1,2.90,3.40,2.36
+12.12.2015,2015,Den Haag,Willem II,1,1,2.18,3.41,3.24
+12.12.2015,2015,PSV,Roda,1,1,1.11,9.21,19.31
+12.12.2015,2015,Twente,Graafschap,2,1,1.77,3.92,4.14
+11.12.2015,2015,Heerenveen,Excelsior,2,1,1.74,3.88,4.43
+06.12.2015,2015,Feyenoord,Heracles,3,0,1.29,5.66,9.43
+06.12.2015,2015,Nijmegen,Zwolle,2,2,1.87,3.67,3.94
+06.12.2015,2015,Roda,Groningen,0,0,2.88,3.41,2.38
+06.12.2015,2015,Willem II,Cambuur,3,0,1.73,3.79,4.52
+05.12.2015,2015,Ajax,Heerenveen,5,2,1.28,5.78,9.59
+05.12.2015,2015,Graafschap,Utrecht,0,1,3.60,3.65,1.98
+05.12.2015,2015,Excelsior,Twente,1,1,2.07,3.62,3.31
+05.12.2015,2015,Vitesse,PSV,0,1,3.47,3.62,2.02
+04.12.2015,2015,AZ Alkmaar,Den Haag,0,1,1.74,3.99,4.28
+29.11.2015,2015,Groningen,Den Haag,2,1,2.12,3.50,3.32
+29.11.2015,2015,PSV,AZ Alkmaar,3,0,1.33,5.44,7.90
+29.11.2015,2015,Utrecht,Heracles,4,2,1.98,3.68,3.54
+29.11.2015,2015,Vitesse,Nijmegen,1,0,1.64,4.07,4.91
+29.11.2015,2015,Zwolle,Ajax,0,2,4.38,3.80,1.76
+28.11.2015,2015,Excelsior,Feyenoord,2,4,6.34,4.39,1.48
+28.11.2015,2015,Heerenveen,Roda,3,0,1.56,4.14,5.66
+28.11.2015,2015,Twente,Willem II,1,3,2.18,3.54,3.14
+27.11.2015,2015,Cambuur,Graafschap,2,3,1.82,3.76,4.09
+22.11.2015,2015,Den Haag,Vitesse,2,2,3.36,3.52,2.09
+22.11.2015,2015,Feyenoord,Twente,5,0,1.31,5.44,8.91
+22.11.2015,2015,Heracles,Excelsior,0,0,1.66,4.03,4.65
+22.11.2015,2015,Nijmegen,Utrecht,1,0,2.30,3.43,3.00
+21.11.2015,2015,Ajax,Cambuur,5,1,1.16,7.28,15.39
+21.11.2015,2015,AZ Alkmaar,Heerenveen,3,1,1.74,3.95,4.33
+21.11.2015,2015,Graafschap,Groningen,1,2,2.90,3.46,2.33
+21.11.2015,2015,Roda,Zwolle,0,5,2.85,3.40,2.40
+21.11.2015,2015,Willem II,PSV,2,2,6.78,4.62,1.43
+08.11.2015,2015,Cambuur,Groningen,2,2,2.66,3.43,2.54
+08.11.2015,2015,Feyenoord,Ajax,1,1,2.43,3.33,2.88
+08.11.2015,2015,PSV,Utrecht,3,1,1.29,5.73,9.00
+08.11.2015,2015,Vitesse,AZ Alkmaar,0,2,1.55,4.42,5.31
+07.11.2015,2015,Nijmegen,Graafschap,2,0,1.39,4.74,7.58
+07.11.2015,2015,Twente,Heerenveen,1,4,2.14,3.62,3.16
+07.11.2015,2015,Willem II,Excelsior,2,3,1.80,3.63,4.33
+07.11.2015,2015,Zwolle,Heracles,1,1,2.21,3.55,3.06
+06.11.2015,2015,Roda,Den Haag,1,1,2.48,3.35,2.77
+01.11.2015,2015,AZ Alkmaar,Nijmegen,2,4,1.76,3.77,4.40
+01.11.2015,2015,Den Haag,Feyenoord,1,0,4.90,3.99,1.65
+01.11.2015,2015,Heerenveen,Cambuur,2,0,1.73,3.83,4.48
+01.11.2015,2015,Utrecht,Twente,4,2,1.84,3.69,4.07
+31.10.2015,2015,Ajax,Roda,6,0,1.20,6.54,14.09
+31.10.2015,2015,Graafschap,PSV,3,6,9.94,5.71,1.28
+31.10.2015,2015,Excelsior,Vitesse,0,3,4.69,3.90,1.69
+31.10.2015,2015,Groningen,Zwolle,2,0,2.01,3.60,3.48
+30.10.2015,2015,Heracles,Willem II,2,1,1.84,3.70,4.06
+25.10.2015,2015,Cambuur,Den Haag,1,1,2.42,3.52,2.74
+25.10.2015,2015,Feyenoord,AZ Alkmaar,3,1,1.44,4.57,6.70
+25.10.2015,2015,Nijmegen,Groningen,1,1,2.14,3.46,3.27
+25.10.2015,2015,Vitesse,Ajax,1,3,2.40,3.44,2.81
+24.10.2015,2015,Graafschap,Heracles,0,1,3.12,3.58,2.16
+24.10.2015,2015,Roda,Excelsior,1,2,1.86,3.67,3.98
+24.10.2015,2015,Twente,PSV,1,3,4.61,4.09,1.67
+24.10.2015,2015,Willem II,Heerenveen,2,2,2.18,3.43,3.21
+23.10.2015,2015,Zwolle,Utrecht,1,2,2.35,3.53,2.84
+18.10.2015,2015,Den Haag,Graafschap,1,1,1.56,4.10,5.62
+18.10.2015,2015,Heerenveen,Feyenoord,2,5,4.11,3.62,1.85
+18.10.2015,2015,Twente,Nijmegen,1,0,1.92,3.61,3.78
+18.10.2015,2015,Zwolle,Vitesse,1,5,3.08,3.55,2.19
+17.10.2015,2015,Cambuur,AZ Alkmaar,1,1,3.03,3.57,2.22
+17.10.2015,2015,Groningen,Willem II,2,1,1.86,3.57,4.14
+17.10.2015,2015,Heracles,Ajax,0,2,4.13,3.71,1.82
+17.10.2015,2015,PSV,Excelsior,1,1,1.16,7.64,15.07
+17.10.2015,2015,Utrecht,Roda,1,1,1.62,4.06,5.12
+04.10.2015,2015,Ajax,PSV,1,2,1.90,3.73,3.79
+04.10.2015,2015,AZ Alkmaar,Twente,3,1,2.04,3.69,3.31
+04.10.2015,2015,Graafschap,Feyenoord,1,2,7.79,4.93,1.37
+04.10.2015,2015,Vitesse,Groningen,5,0,1.53,4.24,5.77
+03.10.2015,2015,Excelsior,Utrecht,1,0,3.23,3.52,2.14
+03.10.2015,2015,Nijmegen,Den Haag,4,1,2.12,3.46,3.31
+03.10.2015,2015,Roda,Cambuur,1,1,1.97,3.62,3.57
+03.10.2015,2015,Willem II,Zwolle,0,1,2.22,3.48,3.07
+02.10.2015,2015,Heracles,Heerenveen,2,0,2.04,3.69,3.30
+27.09.2015,2015,Graafschap,Willem II,2,2,3.21,3.45,2.16
+27.09.2015,2015,Den Haag,Excelsior,3,3,1.74,3.75,4.50
+27.09.2015,2015,Feyenoord,Zwolle,2,0,1.40,4.74,7.33
+27.09.2015,2015,Twente,Roda,2,1,1.69,3.91,4.61
+26.09.2015,2015,Ajax,Groningen,2,0,1.34,4.99,8.56
+26.09.2015,2015,AZ Alkmaar,Heracles,3,1,2.03,3.68,3.34
+26.09.2015,2015,Heerenveen,Vitesse,0,0,2.81,3.51,2.37
+26.09.2015,2015,PSV,Nijmegen,2,1,1.23,6.07,11.43
+26.09.2015,2015,Utrecht,Cambuur,3,3,1.55,4.23,5.45
+20.09.2015,2015,Excelsior,Ajax,0,2,6.78,4.54,1.44
+20.09.2015,2015,Groningen,AZ Alkmaar,2,0,2.00,3.61,3.49
+20.09.2015,2015,Roda,Feyenoord,1,1,5.26,4.00,1.61
+20.09.2015,2015,Vitesse,Graafschap,3,0,1.22,6.39,11.18
+19.09.2015,2015,Cambuur,Twente,0,0,3.07,3.59,2.17
+19.09.2015,2015,Heracles,PSV,2,1,4.65,4.07,1.67
+19.09.2015,2015,Willem II,Utrecht,3,1,2.56,3.42,2.62
+19.09.2015,2015,Zwolle,Den Haag,2,1,1.97,3.69,3.50
+18.09.2015,2015,Nijmegen,Heerenveen,2,0,2.42,3.46,2.76
+13.09.2015,2015,Den Haag,Heracles,0,1,2.27,3.60,2.91
+13.09.2015,2015,Feyenoord,Willem II,1,0,1.38,4.73,7.60
+13.09.2015,2015,Groningen,Heerenveen,3,1,2.15,3.57,3.15
+13.09.2015,2015,Utrecht,Vitesse,2,1,2.71,3.45,2.46
+12.09.2015,2015,Cambuur,PSV,0,6,6.48,4.68,1.44
+12.09.2015,2015,Graafschap,AZ Alkmaar,1,3,3.68,3.69,1.92
+12.09.2015,2015,Roda,Nijmegen,0,0,2.18,3.47,3.14
+12.09.2015,2015,Twente,Ajax,2,2,4.35,3.80,1.75
+12.09.2015,2015,Zwolle,Excelsior,3,0,1.78,3.81,4.17
+30.08.2015,2015,Ajax,Den Haag,4,0,1.36,4.90,8.04
+30.08.2015,2015,AZ Alkmaar,Roda,0,1,1.59,4.12,5.29
+30.08.2015,2015,PSV,Feyenoord,3,1,1.80,3.77,4.12
+30.08.2015,2015,Vitesse,Cambuur,4,1,1.40,4.80,6.98
+29.08.2015,2015,Excelsior,Graafschap,3,0,1.69,3.89,4.66
+29.08.2015,2015,Heerenveen,Zwolle,1,1,1.75,3.84,4.28
+29.08.2015,2015,Heracles,Twente,2,0,2.38,3.56,2.75
+29.08.2015,2015,Utrecht,Groningen,2,0,2.04,3.56,3.42
+28.08.2015,2015,Willem II,Nijmegen,0,1,1.87,3.52,4.05
+23.08.2015,2015,AZ Alkmaar,Willem II,0,0,2.01,3.61,3.44
+23.08.2015,2015,Den Haag,Utrecht,1,1,2.19,3.52,3.07
+23.08.2015,2015,Feyenoord,Vitesse,2,0,1.65,4.08,4.73
+23.08.2015,2015,Nijmegen,Ajax,0,2,4.76,3.89,1.68
+23.08.2015,2015,Zwolle,Twente,2,1,2.45,3.51,2.68
+22.08.2015,2015,Cambuur,Heracles,1,6,2.14,3.65,3.11
+22.08.2015,2015,Heerenveen,PSV,1,1,4.17,3.90,1.77
+22.08.2015,2015,Roda,Graafschap,1,0,1.74,3.85,4.34
+21.08.2015,2015,Groningen,Excelsior,2,0,1.65,3.96,4.82
+16.08.2015,2015,Cambuur,Feyenoord,0,2,3.72,3.68,1.90
+16.08.2015,2015,Heracles,Nijmegen,3,0,2.18,3.56,3.07
+16.08.2015,2015,PSV,Groningen,2,0,1.28,5.64,9.89
+16.08.2015,2015,Utrecht,Heerenveen,1,1,2.02,3.71,3.33
+15.08.2015,2015,Ajax,Willem II,3,0,1.33,5.06,8.63
+15.08.2015,2015,Graafschap,Zwolle,0,3,2.61,3.52,2.53
+15.08.2015,2015,Excelsior,AZ Alkmaar,2,2,2.80,3.44,2.40
+15.08.2015,2015,Twente,Den Haag,1,4,1.73,3.84,4.44
+14.08.2015,2015,Vitesse,Roda,3,0,1.43,4.67,6.71
+12.08.2015,2015,Groningen,Twente,1,1,2.49,3.46,2.67
+12.08.2015,2015,Nijmegen,Excelsior,1,0,1.81,3.77,4.06
+12.08.2015,2015,Zwolle,Cambuur,2,2,2.00,3.57,3.49
+11.08.2015,2015,Den Haag,PSV,2,2,5.63,4.30,1.53
+11.08.2015,2015,Heerenveen,Graafschap,3,1,1.50,4.41,5.82
+09.08.2015,2015,AZ Alkmaar,Ajax,0,3,3.39,3.61,2.04
+09.08.2015,2015,Willem II,Vitesse,1,1,2.82,3.55,2.37
+08.08.2015,2015,Feyenoord,Utrecht,3,2,1.41,4.74,6.82
+08.08.2015,2015,Roda,Heracles,3,1,2.26,3.51,2.97

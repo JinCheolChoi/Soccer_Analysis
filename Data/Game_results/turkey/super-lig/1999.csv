@@ -6,20 +6,20 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 21.05.2000,1999,Galatasaray,Istanbulspor AS,1,1
 20.05.2000,1999,Adanaspor AS,Gaziantepspor,3,0
 20.05.2000,1999,Fenerbahce,Denizlispor,2,1
-20.05.2000,1999,Goztepe,FK Vanspor,2,1
+20.05.2000,1999,Goztepe,Vanspor AS,2,1
 19.05.2000,1999,Samsunspor,Genclerbirligi,1,2
 14.05.2000,1999,Besiktas,Fenerbahce,1,3
 13.05.2000,1999,Denizlispor,Goztepe,2,0
 13.05.2000,1999,Trabzonspor,Samsunspor,3,2
 12.05.2000,1999,Altay,Galatasaray,1,0
-12.05.2000,1999,FK Vanspor,Bursaspor,3,1
 12.05.2000,1999,Gaziantepspor,Ankaragucu,2,2
 12.05.2000,1999,Genclerbirligi,Erzurumspor,5,0
 12.05.2000,1999,Istanbulspor AS,Adanaspor AS,3,2
 12.05.2000,1999,Kocaelispor,Antalyaspor,1,1
+12.05.2000,1999,Vanspor AS,Bursaspor,3,1
 07.05.2000,1999,Adanaspor AS,Altay,1,0
 07.05.2000,1999,Ankaragucu,Istanbulspor AS,2,2
-07.05.2000,1999,Antalyaspor,FK Vanspor,4,1
+07.05.2000,1999,Antalyaspor,Vanspor AS,4,1
 07.05.2000,1999,Galatasaray,Kocaelispor,5,0
 07.05.2000,1999,Samsunspor,Erzurumspor,2,1
 06.05.2000,1999,Bursaspor,Denizlispor,4,1
@@ -31,23 +31,23 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 30.04.2000,1999,Samsunspor,Gaziantepspor,0,2
 29.04.2000,1999,Altay,Ankaragucu,0,0
 29.04.2000,1999,Denizlispor,Antalyaspor,4,0
-29.04.2000,1999,FK Vanspor,Galatasaray,1,3
 29.04.2000,1999,Istanbulspor AS,Trabzonspor,5,1
 29.04.2000,1999,Kocaelispor,Adanaspor AS,0,0
+29.04.2000,1999,Vanspor AS,Galatasaray,1,3
 28.04.2000,1999,Besiktas,Bursaspor,5,1
 23.04.2000,1999,Galatasaray,Denizlispor,2,2
 23.04.2000,1999,Gaziantepspor,Istanbulspor AS,1,0
 23.04.2000,1999,Goztepe,Erzurumspor,1,4
 23.04.2000,1999,Kocaelispor,Ankaragucu,4,1
-22.04.2000,1999,Adanaspor AS,FK Vanspor,2,0
+22.04.2000,1999,Adanaspor AS,Vanspor AS,2,0
 22.04.2000,1999,Antalyaspor,Besiktas,2,2
 22.04.2000,1999,Bursaspor,Genclerbirligi,2,5
 22.04.2000,1999,Trabzonspor,Altay,2,1
 21.04.2000,1999,Fenerbahce,Samsunspor,1,0
 16.04.2000,1999,Erzurumspor,Bursaspor,4,1
 16.04.2000,1999,Fenerbahce,Goztepe,2,3
-16.04.2000,1999,FK Vanspor,Ankaragucu,2,3
 16.04.2000,1999,Samsunspor,Istanbulspor AS,1,0
+16.04.2000,1999,Vanspor AS,Ankaragucu,2,3
 15.04.2000,1999,Altay,Gaziantepspor,1,3
 15.04.2000,1999,Denizlispor,Adanaspor AS,4,2
 15.04.2000,1999,Genclerbirligi,Antalyaspor,4,1
@@ -56,7 +56,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 09.04.2000,1999,Ankaragucu,Denizlispor,3,1
 09.04.2000,1999,Antalyaspor,Erzurumspor,1,2
 09.04.2000,1999,Galatasaray,Genclerbirligi,6,0
-09.04.2000,1999,Trabzonspor,FK Vanspor,4,2
+09.04.2000,1999,Trabzonspor,Vanspor AS,4,2
 08.04.2000,1999,Adanaspor AS,Besiktas,1,3
 08.04.2000,1999,Goztepe,Samsunspor,1,2
 08.04.2000,1999,Istanbulspor AS,Altay,1,0
@@ -68,8 +68,8 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 02.04.2000,1999,Samsunspor,Altay,1,0
 01.04.2000,1999,Erzurumspor,Galatasaray,0,0
 01.04.2000,1999,Fenerbahce,Antalyaspor,1,0
-01.04.2000,1999,FK Vanspor,Gaziantepspor,1,2
 01.04.2000,1999,Goztepe,Bursaspor,0,1
+01.04.2000,1999,Vanspor AS,Gaziantepspor,1,2
 31.03.2000,1999,Denizlispor,Trabzonspor,0,2
 26.03.2000,1999,Ankaragucu,Genclerbirligi,0,0
 26.03.2000,1999,Antalyaspor,Goztepe,1,0
@@ -77,13 +77,13 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 26.03.2000,1999,Kocaelispor,Altay,2,1
 25.03.2000,1999,Adanaspor AS,Erzurumspor,2,0
 25.03.2000,1999,Bursaspor,Samsunspor,2,2
-25.03.2000,1999,Istanbulspor AS,FK Vanspor,0,0
+25.03.2000,1999,Istanbulspor AS,Vanspor AS,0,0
 25.03.2000,1999,Trabzonspor,Besiktas,1,2
 24.03.2000,1999,Gaziantepspor,Denizlispor,0,0
 19.03.2000,1999,Denizlispor,Istanbulspor AS,3,1
-19.03.2000,1999,FK Vanspor,Altay,1,1
 19.03.2000,1999,Genclerbirligi,Trabzonspor,0,1
 19.03.2000,1999,Goztepe,Galatasaray,0,2
+19.03.2000,1999,Vanspor AS,Altay,1,1
 18.03.2000,1999,Besiktas,Gaziantepspor,1,0
 18.03.2000,1999,Bursaspor,Antalyaspor,4,2
 18.03.2000,1999,Erzurumspor,Ankaragucu,2,1
@@ -96,21 +96,21 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 11.03.2000,1999,Altay,Denizlispor,1,0
 11.03.2000,1999,Ankaragucu,Fenerbahce,1,1
 11.03.2000,1999,Gaziantepspor,Genclerbirligi,2,1
-11.03.2000,1999,Kocaelispor,FK Vanspor,6,1
+11.03.2000,1999,Kocaelispor,Vanspor AS,6,1
 10.03.2000,1999,Trabzonspor,Erzurumspor,2,0
 05.03.2000,1999,Antalyaspor,Galatasaray,1,3
 05.03.2000,1999,Bursaspor,Adanaspor AS,3,1
 05.03.2000,1999,Goztepe,Ankaragucu,2,0
-05.03.2000,1999,Samsunspor,FK Vanspor,5,1
+05.03.2000,1999,Samsunspor,Vanspor AS,5,1
 04.03.2000,1999,Erzurumspor,Gaziantepspor,1,1
 04.03.2000,1999,Fenerbahce,Trabzonspor,2,1
 04.03.2000,1999,Genclerbirligi,Istanbulspor AS,1,1
 04.03.2000,1999,Kocaelispor,Denizlispor,1,0
 03.03.2000,1999,Besiktas,Altay,3,0
 27.02.2000,1999,Altay,Genclerbirligi,0,2
-27.02.2000,1999,FK Vanspor,Denizlispor,2,3
 27.02.2000,1999,Gaziantepspor,Fenerbahce,5,1
 27.02.2000,1999,Istanbulspor AS,Erzurumspor,1,1
+27.02.2000,1999,Vanspor AS,Denizlispor,2,3
 26.02.2000,1999,Adanaspor AS,Antalyaspor,1,2
 26.02.2000,1999,Ankaragucu,Bursaspor,2,1
 26.02.2000,1999,Kocaelispor,Besiktas,1,2
@@ -124,26 +124,26 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 19.02.2000,1999,Fenerbahce,Istanbulspor AS,1,0
 19.02.2000,1999,Samsunspor,Denizlispor,6,2
 19.02.2000,1999,Kocaelispor,Genclerbirligi,0,0
-18.02.2000,1999,Besiktas,FK Vanspor,2,1
+18.02.2000,1999,Besiktas,Vanspor AS,2,1
 13.02.2000,1999,Ankaragucu,Galatasaray,0,2
 13.02.2000,1999,Istanbulspor AS,Goztepe,3,0
 12.02.2000,1999,Adanaspor AS,Samsunspor,0,1
 12.02.2000,1999,Altay,Fenerbahce,2,3
-12.02.2000,1999,FK Vanspor,Genclerbirligi,2,5
 12.02.2000,1999,Gaziantepspor,Bursaspor,1,1
 12.02.2000,1999,Kocaelispor,Erzurumspor,4,0
 12.02.2000,1999,Trabzonspor,Antalyaspor,2,0
+12.02.2000,1999,Vanspor AS,Genclerbirligi,2,5
 11.02.2000,1999,Denizlispor,Besiktas,0,2
 06.02.2000,1999,Adanaspor AS,Ankaragucu,2,2
 06.02.2000,1999,Antalyaspor,Gaziantepspor,0,0
-06.02.2000,1999,Erzurumspor,FK Vanspor,2,0
+06.02.2000,1999,Erzurumspor,Vanspor AS,2,0
 06.02.2000,1999,Galatasaray,Trabzonspor,2,0
 06.02.2000,1999,Goztepe,Altay,0,1
 05.02.2000,1999,Bursaspor,Istanbulspor AS,1,0
 05.02.2000,1999,Genclerbirligi,Denizlispor,3,1
 05.02.2000,1999,Kocaelispor,Fenerbahce,1,1
 04.02.2000,1999,Samsunspor,Besiktas,0,2
-02.02.2000,1999,FK Vanspor,Goztepe,1,0
+02.02.2000,1999,Vanspor AS,Goztepe,1,0
 30.01.2000,1999,Altay,Bursaspor,1,2
 30.01.2000,1999,Denizlispor,Erzurumspor,2,1
 30.01.2000,1999,Gaziantepspor,Galatasaray,0,1
@@ -152,7 +152,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 29.01.2000,1999,Besiktas,Genclerbirligi,4,0
 29.01.2000,1999,Istanbulspor AS,Antalyaspor,0,0
 29.01.2000,1999,Kocaelispor,Goztepe,2,0
-28.01.2000,1999,FK Vanspor,Fenerbahce,1,2
+28.01.2000,1999,Vanspor AS,Fenerbahce,1,2
 23.01.2000,1999,Altay,Antalyaspor,2,0
 23.01.2000,1999,Besiktas,Erzurumspor,2,0
 23.01.2000,1999,Genclerbirligi,Samsunspor,1,0
@@ -167,13 +167,13 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 16.01.2000,1999,Goztepe,Denizlispor,2,4
 15.01.2000,1999,Ankaragucu,Gaziantepspor,1,1
 15.01.2000,1999,Antalyaspor,Kocaelispor,3,0
-15.01.2000,1999,Bursaspor,FK Vanspor,3,2
+15.01.2000,1999,Bursaspor,Vanspor AS,3,2
 15.01.2000,1999,Galatasaray,Altay,3,1
 14.01.2000,1999,Samsunspor,Trabzonspor,0,0
-09.01.2000,1999,FK Vanspor,Antalyaspor,2,4
 09.01.2000,1999,Istanbulspor AS,Ankaragucu,2,6
 09.01.2000,1999,Kocaelispor,Galatasaray,1,2
 09.01.2000,1999,Trabzonspor,Gaziantepspor,0,0
+09.01.2000,1999,Vanspor AS,Antalyaspor,2,4
 08.01.2000,1999,Altay,Adanaspor AS,2,1
 08.01.2000,1999,Denizlispor,Bursaspor,1,3
 08.01.2000,1999,Erzurumspor,Samsunspor,1,0
@@ -181,7 +181,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 07.01.2000,1999,Besiktas,Goztepe,2,1
 26.12.1999,1999,Ankaragucu,Altay,3,0
 26.12.1999,1999,Antalyaspor,Denizlispor,2,2
-26.12.1999,1999,Galatasaray,FK Vanspor,2,1
+26.12.1999,1999,Galatasaray,Vanspor AS,2,1
 26.12.1999,1999,Gaziantepspor,Samsunspor,5,2
 26.12.1999,1999,Goztepe,Genclerbirligi,3,2
 26.12.1999,1999,Trabzonspor,Istanbulspor AS,1,1
@@ -192,13 +192,13 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 19.12.1999,1999,Altay,Trabzonspor,3,1
 19.12.1999,1999,Besiktas,Antalyaspor,4,0
 19.12.1999,1999,Erzurumspor,Goztepe,0,0
-19.12.1999,1999,FK Vanspor,Adanaspor AS,0,2
 19.12.1999,1999,Genclerbirligi,Bursaspor,1,0
 19.12.1999,1999,Istanbulspor AS,Gaziantepspor,1,1
+19.12.1999,1999,Vanspor AS,Adanaspor AS,0,2
 18.12.1999,1999,Ankaragucu,Kocaelispor,3,2
 18.12.1999,1999,Denizlispor,Galatasaray,2,4
 17.12.1999,1999,Samsunspor,Fenerbahce,1,1
-12.12.1999,1999,Ankaragucu,FK Vanspor,1,0
+12.12.1999,1999,Ankaragucu,Vanspor AS,1,0
 12.12.1999,1999,Antalyaspor,Genclerbirligi,2,1
 12.12.1999,1999,Bursaspor,Erzurumspor,4,2
 12.12.1999,1999,Galatasaray,Besiktas,1,0
@@ -212,14 +212,14 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 05.12.1999,1999,Denizlispor,Ankaragucu,1,1
 05.12.1999,1999,Erzurumspor,Antalyaspor,4,0
 05.12.1999,1999,Fenerbahce,Bursaspor,2,2
-05.12.1999,1999,FK Vanspor,Trabzonspor,2,2
 05.12.1999,1999,Samsunspor,Goztepe,4,0
+05.12.1999,1999,Vanspor AS,Trabzonspor,2,2
 04.12.1999,1999,Besiktas,Adanaspor AS,0,1
 03.12.1999,1999,Genclerbirligi,Galatasaray,1,1
 28.11.1999,1999,Altay,Samsunspor,2,1
 28.11.1999,1999,Bursaspor,Goztepe,1,2
 28.11.1999,1999,Galatasaray,Erzurumspor,4,1
-28.11.1999,1999,Gaziantepspor,FK Vanspor,1,3
+28.11.1999,1999,Gaziantepspor,Vanspor AS,1,3
 28.11.1999,1999,Istanbulspor AS,Kocaelispor,4,1
 28.11.1999,1999,Trabzonspor,Denizlispor,1,1
 27.11.1999,1999,Adanaspor AS,Genclerbirligi,1,2
@@ -228,12 +228,12 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 21.11.1999,1999,Altay,Kocaelispor,0,1
 21.11.1999,1999,Besiktas,Trabzonspor,1,1
 21.11.1999,1999,Erzurumspor,Adanaspor AS,4,1
-21.11.1999,1999,FK Vanspor,Istanbulspor AS,1,1
 21.11.1999,1999,Genclerbirligi,Ankaragucu,1,2
 21.11.1999,1999,Samsunspor,Bursaspor,1,0
+21.11.1999,1999,Vanspor AS,Istanbulspor AS,1,1
 20.11.1999,1999,Goztepe,Antalyaspor,1,2
 19.11.1999,1999,Denizlispor,Gaziantepspor,1,0
-31.10.1999,1999,Altay,FK Vanspor,2,0
+31.10.1999,1999,Altay,Vanspor AS,2,0
 31.10.1999,1999,Antalyaspor,Bursaspor,1,1
 31.10.1999,1999,Gaziantepspor,Besiktas,0,0
 31.10.1999,1999,Istanbulspor AS,Denizlispor,1,1
@@ -245,24 +245,24 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 24.10.1999,1999,Denizlispor,Altay,2,1
 24.10.1999,1999,Erzurumspor,Trabzonspor,2,1
 24.10.1999,1999,Fenerbahce,Ankaragucu,1,1
-24.10.1999,1999,FK Vanspor,Kocaelispor,5,0
 24.10.1999,1999,Genclerbirligi,Gaziantepspor,0,1
 24.10.1999,1999,Goztepe,Adanaspor AS,0,1
 24.10.1999,1999,Samsunspor,Antalyaspor,0,1
+24.10.1999,1999,Vanspor AS,Kocaelispor,5,0
 23.10.1999,1999,Besiktas,Istanbulspor AS,3,0
 22.10.1999,1999,Bursaspor,Galatasaray,0,0
 17.10.1999,1999,Denizlispor,Kocaelispor,3,1
 17.10.1999,1999,Adanaspor AS,Bursaspor,1,1
 17.10.1999,1999,Altay,Besiktas,2,2
-17.10.1999,1999,FK Vanspor,Samsunspor,0,0
 17.10.1999,1999,Gaziantepspor,Erzurumspor,6,0
 17.10.1999,1999,Istanbulspor AS,Genclerbirligi,3,1
+17.10.1999,1999,Vanspor AS,Samsunspor,0,0
 16.10.1999,1999,Ankaragucu,Goztepe,1,2
 16.10.1999,1999,Trabzonspor,Fenerbahce,2,0
 15.10.1999,1999,Galatasaray,Antalyaspor,2,0
 26.09.1999,1999,Antalyaspor,Adanaspor AS,2,2
 26.09.1999,1999,Bursaspor,Ankaragucu,3,1
-26.09.1999,1999,Denizlispor,FK Vanspor,1,0
+26.09.1999,1999,Denizlispor,Vanspor AS,1,0
 26.09.1999,1999,Erzurumspor,Istanbulspor AS,0,0
 26.09.1999,1999,Fenerbahce,Gaziantepspor,0,0
 26.09.1999,1999,Genclerbirligi,Altay,0,0
@@ -272,9 +272,9 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 19.09.1999,1999,Altay,Erzurumspor,3,0
 19.09.1999,1999,Ankaragucu,Antalyaspor,1,3
 19.09.1999,1999,Denizlispor,Samsunspor,4,1
-19.09.1999,1999,FK Vanspor,Besiktas,0,6
 19.09.1999,1999,Gaziantepspor,Goztepe,2,1
 19.09.1999,1999,Istanbulspor AS,Fenerbahce,1,4
+19.09.1999,1999,Vanspor AS,Besiktas,0,6
 18.09.1999,1999,Genclerbirligi,Kocaelispor,0,4
 18.09.1999,1999,Trabzonspor,Bursaspor,2,0
 17.09.1999,1999,Adanaspor AS,Galatasaray,3,4
@@ -282,7 +282,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 12.09.1999,1999,Bursaspor,Gaziantepspor,0,1
 12.09.1999,1999,Erzurumspor,Kocaelispor,3,3
 12.09.1999,1999,Fenerbahce,Altay,3,1
-12.09.1999,1999,Genclerbirligi,FK Vanspor,1,1
+12.09.1999,1999,Genclerbirligi,Vanspor AS,1,1
 12.09.1999,1999,Goztepe,Istanbulspor AS,2,0
 12.09.1999,1999,Samsunspor,Adanaspor AS,2,1
 11.09.1999,1999,Galatasaray,Ankaragucu,5,0
@@ -290,9 +290,9 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 15.08.1999,1999,Ankaragucu,Adanaspor AS,0,0
 15.08.1999,1999,Besiktas,Samsunspor,4,0
 15.08.1999,1999,Denizlispor,Genclerbirligi,1,3
-15.08.1999,1999,FK Vanspor,Erzurumspor,0,2
 15.08.1999,1999,Gaziantepspor,Antalyaspor,1,2
 15.08.1999,1999,Trabzonspor,Galatasaray,1,2
+15.08.1999,1999,Vanspor AS,Erzurumspor,0,2
 14.08.1999,1999,Fenerbahce,Kocaelispor,1,1
 14.08.1999,1999,Istanbulspor AS,Bursaspor,1,0
 13.08.1999,1999,Altay,Goztepe,0,0
@@ -300,7 +300,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 08.08.1999,1999,Antalyaspor,Istanbulspor AS,0,3
 08.08.1999,1999,Bursaspor,Altay,1,4
 08.08.1999,1999,Erzurumspor,Denizlispor,0,1
-08.08.1999,1999,Fenerbahce,FK Vanspor,3,0
+08.08.1999,1999,Fenerbahce,Vanspor AS,3,0
 08.08.1999,1999,Goztepe,Kocaelispor,0,0
 07.08.1999,1999,Genclerbirligi,Besiktas,1,0
 07.08.1999,1999,Samsunspor,Ankaragucu,2,0

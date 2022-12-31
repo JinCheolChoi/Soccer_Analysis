@@ -1,0 +1,553 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+30.04.,2021,AFC Wimbledon,Accrington,3,4,3.34,3.77,2.01
+30.04.,2021,Bolton,Fleetwood,4,2,2.12,3.54,3.25
+30.04.,2021,Burton,Wycombe,1,2,4.86,4.16,1.62
+30.04.,2021,Cambridge Utd,Cheltenham,2,2,3.42,3.67,2.01
+30.04.,2021,Gillingham,Rotherham,0,2,5.38,3.79,1.63
+30.04.,2021,Ipswich,Charlton,4,0,1.80,3.71,4.19
+30.04.,2021,Lincoln,Crewe,2,1,1.62,4.18,4.88
+30.04.,2021,Morecambe,Sunderland,0,1,4.91,3.99,1.64
+30.04.,2021,Oxford Utd,Doncaster,1,1,1.36,5.50,7.04
+30.04.,2021,Plymouth,MK Dons,0,5,2.87,3.46,2.35
+30.04.,2021,Sheffield Wed,Portsmouth,4,1,1.46,4.37,6.54
+30.04.,2021,Shrewsbury,Wigan,0,3,4.26,3.36,1.89
+26.04.,2021,Sunderland,Rotherham,1,1,2.59,3.21,2.73
+26.04.,2021,Fleetwood,Sheffield Wed,2,3,6.19,4.00,1.53
+26.04.,2021,Portsmouth,Wigan,3,2,3.04,3.23,2.35
+23.04.,2021,Accrington,Lincoln,2,1,2.08,3.60,3.28
+23.04.,2021,Charlton,Shrewsbury,2,0,2.33,3.25,3.08
+23.04.,2021,Cheltenham,Bolton,1,2,2.74,3.54,2.41
+23.04.,2021,Crewe,Ipswich,1,1,5.74,3.90,1.58
+23.04.,2021,Doncaster,Burton,2,0,3.00,3.41,2.29
+23.04.,2021,Fleetwood,AFC Wimbledon,1,1,2.20,3.19,3.40
+23.04.,2021,MK Dons,Morecambe,2,0,1.54,4.09,5.87
+23.04.,2021,Portsmouth,Gillingham,3,1,1.79,3.54,4.51
+23.04.,2021,Rotherham,Oxford Utd,2,1,1.87,3.63,3.95
+23.04.,2021,Sunderland,Cambridge Utd,5,1,1.29,5.50,9.58
+23.04.,2021,Wigan,Plymouth,1,1,1.92,3.24,4.29
+23.04.,2021,Wycombe,Sheffield Wed,1,0,2.85,3.33,2.43
+19.04.,2021,Burton,Rotherham,2,0,5.26,3.88,1.62
+19.04.,2021,Cambridge Utd,Charlton,0,2,4.49,3.76,1.75
+19.04.,2021,Ipswich,Wigan,2,2,2.69,2.90,2.89
+19.04.,2021,Oxford Utd,MK Dons,1,0,2.21,3.34,3.20
+19.04.,2021,Sheffield Wed,Crewe,1,0,1.20,6.56,13.46
+18.04.,2021,AFC Wimbledon,Wycombe,1,1,3.73,3.48,1.97
+18.04.,2021,Bolton,Accrington,3,1,2.12,3.50,3.29
+18.04.,2021,Gillingham,Fleetwood,0,0,2.33,3.10,3.19
+18.04.,2021,Lincoln,Cheltenham,3,0,2.26,3.52,2.98
+18.04.,2021,Morecambe,Portsmouth,1,1,3.13,3.41,2.22
+18.04.,2021,Plymouth,Sunderland,0,0,2.77,3.21,2.55
+18.04.,2021,Shrewsbury,Doncaster,3,3,1.59,3.80,5.93
+16.04.,2021,MK Dons,Sheffield Wed,2,3,2.58,3.12,2.82
+16.04.,2021,Rotherham,Ipswich,1,0,2.20,3.10,3.53
+16.04.,2021,Wigan,Cambridge Utd,1,2,1.31,5.02,10.00
+15.04.,2021,Accrington,Burton,0,0,1.83,3.79,3.96
+15.04.,2021,Charlton,Morecambe,2,3,1.81,3.69,4.18
+15.04.,2021,Cheltenham,Gillingham,2,2,2.18,3.26,3.36
+15.04.,2021,Crewe,AFC Wimbledon,3,1,3.60,3.17,2.13
+15.04.,2021,Doncaster,Bolton,1,2,4.18,3.62,1.83
+15.04.,2021,Fleetwood,Oxford Utd,2,3,4.41,3.77,1.76
+15.04.,2021,Portsmouth,Lincoln,3,2,1.62,3.86,5.31
+15.04.,2021,Sunderland,Shrewsbury,3,2,1.65,3.51,5.81
+15.04.,2021,Wycombe,Plymouth,2,0,2.01,3.53,3.57
+12.04.,2021,Portsmouth,Rotherham,3,0,3.07,3.24,2.33
+12.04.,2021,Burton,Wigan,0,0,5.47,3.81,1.61
+09.04.,2021,AFC Wimbledon,MK Dons,1,1,3.89,3.26,2.02
+09.04.,2021,Bolton,Sheffield Wed,1,1,3.63,3.39,2.04
+09.04.,2021,Burton,Plymouth,0,0,3.18,3.48,2.17
+09.04.,2021,Cambridge Utd,Morecambe,2,1,2.82,3.26,2.49
+09.04.,2021,Cheltenham,Portsmouth,1,0,2.96,3.31,2.37
+09.04.,2021,Doncaster,Crewe,2,0,2.47,3.22,2.89
+09.04.,2021,Fleetwood,Accrington,1,2,2.74,3.25,2.56
+09.04.,2021,Gillingham,Wycombe,1,1,4.61,3.68,1.73
+09.04.,2021,Lincoln,Wigan,1,3,4.44,3.34,1.86
+09.04.,2021,Oxford Utd,Sunderland,1,2,2.58,3.35,2.67
+09.04.,2021,Rotherham,Charlton,0,1,1.51,4.17,6.19
+09.04.,2021,Shrewsbury,Ipswich,1,1,3.30,3.04,2.32
+05.04.,2021,Bolton,Portsmouth,1,1,2.41,3.19,2.99
+05.04.,2021,MK Dons,Crewe,2,1,1.31,5.05,9.95
+05.04.,2021,Morecambe,Oxford Utd,2,1,3.65,3.69,1.93
+05.04.,2021,Fleetwood,Lincoln,1,1,2.65,3.23,2.65
+05.04.,2021,Cambridge Utd,Wycombe,1,4,4.46,3.64,1.78
+05.04.,2021,Wigan,Accrington,3,0,1.56,3.93,5.93
+05.04.,2021,AFC Wimbledon,Charlton,1,1,3.04,3.12,2.41
+02.04.,2021,Accrington,Cheltenham,4,4,2.08,3.54,3.33
+02.04.,2021,Charlton,Lincoln,1,2,2.06,3.41,3.52
+02.04.,2021,Crewe,Fleetwood,1,3,2.71,3.19,2.62
+02.04.,2021,Ipswich,Cambridge Utd,0,1,1.36,4.60,9.23
+02.04.,2021,MK Dons,Shrewsbury,2,0,1.91,3.11,4.57
+02.04.,2021,Morecambe,Burton,3,0,2.96,3.35,2.33
+02.04.,2021,Plymouth,Oxford Utd,1,0,2.30,3.57,2.88
+02.04.,2021,Sheffield Wed,AFC Wimbledon,2,1,1.35,4.80,8.74
+02.04.,2021,Sunderland,Gillingham,1,0,1.41,4.45,7.71
+02.04.,2021,Wigan,Bolton,1,1,1.97,3.22,4.11
+02.04.,2021,Wycombe,Doncaster,2,0,1.32,5.36,8.63
+26.03.,2021,Accrington,Gillingham,1,2,1.81,3.50,4.43
+26.03.,2021,AFC Wimbledon,Cambridge Utd,0,1,2.26,3.18,3.28
+26.03.,2021,Doncaster,Charlton,0,1,4.04,3.39,1.93
+26.03.,2021,Ipswich,Plymouth,1,0,1.74,3.61,4.70
+26.03.,2021,Sheffield Wed,Cheltenham,4,1,1.45,4.30,7.21
+26.03.,2021,Shrewsbury,Lincoln,1,0,2.11,3.21,3.64
+22.03.,2021,Plymouth,Cheltenham,2,0,1.76,3.61,4.57
+19.03.,2021,Cambridge Utd,MK Dons,0,1,4.23,3.43,1.87
+19.03.,2021,Charlton,Burton,2,0,2.10,3.34,3.48
+19.03.,2021,Cheltenham,AFC Wimbledon,3,1,2.01,3.32,3.82
+19.03.,2021,Crewe,Bolton,0,1,5.07,3.91,1.64
+19.03.,2021,Fleetwood,Doncaster,0,0,2.09,3.24,3.63
+19.03.,2021,Gillingham,Sheffield Wed,0,0,6.47,4.02,1.52
+19.03.,2021,Lincoln,Sunderland,0,0,3.46,3.37,2.09
+19.03.,2021,Oxford Utd,Ipswich,1,1,2.82,3.12,2.57
+19.03.,2021,Plymouth,Accrington,4,0,1.95,3.58,3.71
+19.03.,2021,Portsmouth,Wycombe,0,0,2.36,3.23,3.03
+19.03.,2021,Rotherham,Shrewsbury,0,3,1.80,3.31,4.89
+19.03.,2021,Wigan,Morecambe,4,1,1.50,4.07,6.71
+15.03.,2021,Wycombe,Fleetwood,1,0,1.47,4.41,6.58
+15.03.,2021,Shrewsbury,Morecambe,5,0,1.80,3.33,4.83
+15.03.,2021,Charlton,Gillingham,1,0,1.77,3.46,4.83
+15.03.,2021,Plymouth,Portsmouth,1,0,2.54,3.15,2.84
+15.03.,2021,Rotherham,Lincoln,2,1,1.43,4.45,7.19
+15.03.,2021,Crewe,Wigan,0,2,5.57,3.67,1.64
+15.03.,2021,Sheffield Wed,Accrington,1,1,1.50,4.26,6.04
+12.03.,2021,Accrington,Charlton,2,1,2.31,3.23,3.15
+12.03.,2021,AFC Wimbledon,Lincoln,0,2,2.87,3.17,2.51
+12.03.,2021,Bolton,Plymouth,0,1,2.03,3.50,3.52
+12.03.,2021,Burton,Fleetwood,3,2,1.88,3.49,4.13
+12.03.,2021,Doncaster,Gillingham,0,1,2.95,2.96,2.60
+12.03.,2021,Ipswich,Portsmouth,0,0,2.05,3.20,3.84
+12.03.,2021,MK Dons,Wigan,1,1,2.41,3.06,3.12
+12.03.,2021,Morecambe,Cheltenham,1,3,2.74,3.12,2.65
+12.03.,2021,Sheffield Wed,Cambridge Utd,6,0,1.41,4.54,7.56
+12.03.,2021,Shrewsbury,Oxford Utd,1,2,2.98,3.19,2.42
+12.03.,2021,Sunderland,Crewe,2,0,1.33,5.10,8.95
+12.03.,2021,Wycombe,Rotherham,0,0,2.99,3.22,2.40
+08.03.,2021,Crewe,Portsmouth,1,3,5.10,3.92,1.64
+08.03.,2021,Ipswich,Lincoln,2,0,1.58,3.92,5.83
+08.03.,2021,Plymouth,AFC Wimbledon,2,0,1.65,3.79,5.20
+08.03.,2021,Sunderland,Fleetwood,3,1,1.47,4.25,6.86
+08.03.,2021,MK Dons,Cheltenham,3,1,1.83,3.45,4.43
+08.03.,2021,Bolton,Morecambe,1,1,1.57,4.03,5.71
+05.03.,2021,Cambridge Utd,Shrewsbury,0,0,2.63,2.94,2.92
+05.03.,2021,Charlton,Sunderland,0,0,3.03,3.22,2.37
+05.03.,2021,Cheltenham,Doncaster,4,0,1.56,3.97,5.93
+05.03.,2021,Crewe,Wycombe,1,3,4.05,3.75,1.83
+05.03.,2021,Fleetwood,Ipswich,0,2,4.29,3.33,1.90
+05.03.,2021,Gillingham,Bolton,0,3,3.71,3.32,2.04
+05.03.,2021,Lincoln,Sheffield Wed,3,1,3.69,3.35,2.04
+05.03.,2021,Oxford Utd,Burton,4,1,1.62,4.14,4.91
+05.03.,2021,Plymouth,Morecambe,2,0,1.69,3.83,4.83
+05.03.,2021,Portsmouth,Accrington,4,0,1.87,3.58,4.02
+05.03.,2021,Rotherham,MK Dons,1,2,1.92,3.55,3.88
+05.03.,2021,Wigan,AFC Wimbledon,1,0,1.51,3.97,6.73
+01.03.,2021,Wigan,Fleetwood,2,0,1.54,3.93,6.22
+01.03.,2021,Portsmouth,Oxford Utd,3,2,2.22,3.38,3.16
+01.03.,2021,Sheffield Wed,Burton,5,2,1.63,3.82,5.44
+01.03.,2021,Wycombe,Cambridge Utd,3,0,1.72,3.76,4.72
+01.03.,2021,Shrewsbury,Rotherham,0,0,3.85,3.05,2.12
+26.02.,2021,Accrington,Wycombe,3,2,2.54,3.40,2.67
+26.02.,2021,AFC Wimbledon,Doncaster,2,2,1.68,3.64,5.22
+26.02.,2021,Burton,Shrewsbury,0,2,2.28,3.12,3.32
+26.02.,2021,Cheltenham,Crewe,1,2,1.67,3.85,4.94
+26.02.,2021,Lincoln,Gillingham,0,2,1.61,3.86,5.57
+26.02.,2021,MK Dons,Bolton,2,0,2.13,3.31,3.46
+26.02.,2021,Morecambe,Ipswich,1,1,3.94,3.26,2.00
+26.02.,2021,Oxford Utd,Cambridge Utd,4,2,1.56,4.21,5.57
+26.02.,2021,Plymouth,Rotherham,0,1,3.56,3.38,2.07
+26.02.,2021,Portsmouth,Fleetwood,3,3,1.70,3.63,5.04
+26.02.,2021,Sheffield Wed,Charlton,2,0,1.72,3.57,4.99
+26.02.,2021,Wigan,Sunderland,0,3,1.92,3.32,4.17
+22.02.,2021,Bolton,Lincoln,3,1,2.01,3.54,3.56
+22.02.,2021,Cambridge Utd,Plymouth,2,0,3.38,3.43,2.12
+22.02.,2021,Charlton,MK Dons,0,2,2.74,3.19,2.61
+22.02.,2021,Crewe,Oxford Utd,0,1,4.87,4.26,1.61
+22.02.,2021,Doncaster,Accrington,2,0,4.57,3.73,1.74
+22.02.,2021,Gillingham,AFC Wimbledon,0,0,2.47,3.04,3.05
+22.02.,2021,Ipswich,Cheltenham,0,0,1.61,3.69,5.93
+22.02.,2021,Rotherham,Morecambe,2,0,1.38,4.70,7.86
+22.02.,2021,Shrewsbury,Portsmouth,1,2,2.97,2.90,2.62
+22.02.,2021,Sunderland,Burton,1,1,1.74,3.83,4.45
+22.02.,2021,Wycombe,Wigan,1,3,2.87,3.19,2.49
+19.02.,2021,Bolton,AFC Wimbledon,4,0,1.62,3.84,5.40
+19.02.,2021,Cambridge Utd,Accrington,2,0,2.68,3.20,2.65
+19.02.,2021,Charlton,Oxford Utd,0,4,2.61,3.29,2.66
+19.02.,2021,Doncaster,Sheffield Wed,1,3,6.98,4.30,1.46
+19.02.,2021,Gillingham,Plymouth,0,2,3.34,3.43,2.12
+19.02.,2021,Ipswich,Burton,3,0,1.79,3.39,4.79
+19.02.,2021,Sunderland,MK Dons,1,2,2.15,3.31,3.41
+19.02.,2021,Wycombe,Cheltenham,5,5,1.84,3.69,4.07
+18.02.,2021,Rotherham,Wigan,1,1,2.00,3.24,3.92
+15.02.,2021,Wigan,Crewe,2,0,1.33,5.13,8.69
+15.02.,2021,Burton,Bolton,3,1,2.71,3.23,2.61
+15.02.,2021,Lincoln,Doncaster,0,1,1.53,4.20,5.93
+13.02.,2021,Sheffield Wed,Rotherham,0,2,3.00,3.12,2.44
+12.02.,2021,Accrington,Crewe,4,1,1.59,4.19,5.17
+12.02.,2021,AFC Wimbledon,Sunderland,1,1,3.38,3.31,2.15
+12.02.,2021,Burton,Cambridge Utd,2,2,2.05,3.41,3.59
+12.02.,2021,Cheltenham,Fleetwood,2,0,2.25,3.22,3.27
+12.02.,2021,Lincoln,Wycombe,1,1,2.74,3.32,2.51
+12.02.,2021,MK Dons,Ipswich,0,0,2.60,3.07,2.85
+12.02.,2021,Morecambe,Gillingham,1,1,2.02,3.39,3.68
+12.02.,2021,Oxford Utd,Bolton,2,3,2.06,3.45,3.51
+12.02.,2021,Plymouth,Shrewsbury,1,0,2.04,3.38,3.64
+12.02.,2021,Portsmouth,Doncaster,4,0,1.42,4.44,7.67
+12.02.,2021,Wigan,Charlton,2,1,1.94,3.33,4.08
+08.02.,2021,Accrington,Oxford Utd,2,0,2.94,3.63,2.25
+08.02.,2021,AFC Wimbledon,Rotherham,0,1,5.50,3.63,1.66
+08.02.,2021,Bolton,Charlton,2,1,2.26,3.26,3.20
+08.02.,2021,Cheltenham,Sunderland,2,1,3.20,3.39,2.20
+08.02.,2021,Crewe,Plymouth,1,4,2.76,3.59,2.37
+08.02.,2021,Doncaster,Ipswich,0,1,4.74,3.65,1.73
+08.02.,2021,Fleetwood,MK Dons,1,1,3.11,3.36,2.26
+08.02.,2021,Gillingham,Cambridge Utd,1,0,2.45,3.12,3.01
+08.02.,2021,Lincoln,Morecambe,2,1,1.84,3.65,4.10
+08.02.,2021,Portsmouth,Burton,2,1,2.01,3.33,3.82
+08.02.,2021,Sheffield Wed,Wigan,1,0,2.60,3.02,2.87
+08.02.,2021,Wycombe,Shrewsbury,0,0,1.98,3.25,4.09
+05.02.,2021,Burton,Sheffield Wed,0,2,3.23,3.34,2.21
+05.02.,2021,Charlton,AFC Wimbledon,3,2,1.75,3.59,4.73
+05.02.,2021,Ipswich,Gillingham,1,0,1.44,4.39,7.14
+05.02.,2021,MK Dons,Lincoln,2,1,1.94,3.53,3.81
+05.02.,2021,Morecambe,Bolton,1,1,3.37,3.38,2.13
+05.02.,2021,Oxford Utd,Portsmouth,3,2,2.17,3.32,3.34
+05.02.,2021,Rotherham,Accrington,1,0,1.41,4.77,7.00
+05.02.,2021,Shrewsbury,Fleetwood,1,1,2.14,3.07,3.71
+05.02.,2021,Sunderland,Doncaster,1,2,1.27,5.63,10.59
+01.02.,2021,Bolton,Cambridge Utd,2,0,1.79,3.63,4.35
+01.02.,2021,Doncaster,Rotherham,0,5,8.80,4.80,1.35
+01.02.,2021,Sheffield Wed,Morecambe,2,0,1.53,4.03,6.22
+01.02.,2021,Gillingham,Crewe,1,0,2.61,3.24,2.71
+01.02.,2021,Wigan,Oxford Utd,1,1,2.10,3.35,3.48
+01.02.,2021,AFC Wimbledon,Cheltenham,2,2,2.37,3.16,3.08
+31.01.,2021,Portsmouth,Charlton,1,2,2.09,3.19,3.67
+29.01.,2021,Accrington,Morecambe,2,2,1.95,3.52,3.77
+29.01.,2021,AFC Wimbledon,Shrewsbury,1,1,2.60,3.01,2.90
+29.01.,2021,Bolton,Sunderland,6,0,3.26,3.46,2.15
+29.01.,2021,Cheltenham,Wigan,0,0,3.73,3.40,2.00
+29.01.,2021,Crewe,Rotherham,0,2,6.67,4.39,1.45
+29.01.,2021,Doncaster,Plymouth,1,3,3.70,3.51,1.97
+29.01.,2021,Fleetwood,Cambridge Utd,1,1,2.14,3.26,3.45
+29.01.,2021,Gillingham,Oxford Utd,2,7,4.02,3.67,1.85
+29.01.,2021,Lincoln,Burton,1,2,2.14,3.37,3.37
+29.01.,2021,Sheffield Wed,Ipswich,1,0,2.20,3.22,3.38
+29.01.,2021,Wycombe,MK Dons,0,1,2.42,3.38,2.81
+25.01.,2021,AFC Wimbledon,Ipswich,0,2,3.74,3.27,2.05
+25.01.,2021,Fleetwood,Plymouth,3,3,2.82,3.29,2.47
+25.01.,2021,Gillingham,Shrewsbury,0,0,3.48,3.10,2.21
+25.01.,2021,Burton,MK Dons,0,1,2.43,3.38,2.81
+22.01.,2021,Burton,AFC Wimbledon,1,1,2.03,3.46,3.56
+22.01.,2021,Cambridge Utd,Crewe,1,0,1.95,3.51,3.75
+22.01.,2021,Charlton,Fleetwood,2,0,1.73,3.68,4.69
+22.01.,2021,Ipswich,Accrington,2,1,1.67,3.84,4.93
+22.01.,2021,MK Dons,Doncaster,0,1,1.35,4.87,8.38
+22.01.,2021,Morecambe,Wycombe,3,2,3.27,3.43,2.16
+22.01.,2021,Oxford Utd,Sheffield Wed,3,2,2.48,3.22,2.86
+22.01.,2021,Plymouth,Lincoln,1,2,2.13,3.36,3.41
+22.01.,2021,Rotherham,Cheltenham,1,0,1.41,4.64,7.09
+22.01.,2021,Shrewsbury,Bolton,0,1,2.18,3.26,3.36
+22.01.,2021,Sunderland,Portsmouth,1,0,1.97,3.42,3.84
+22.01.,2021,Wigan,Gillingham,3,2,1.35,4.88,8.82
+18.01.,2021,Cambridge Utd,Doncaster,3,1,1.68,3.68,5.01
+18.01.,2021,AFC Wimbledon,Portsmouth,0,0,3.38,3.27,2.16
+18.01.,2021,Morecambe,Wigan,1,2,5.29,3.69,1.66
+15.01.,2021,Accrington,Sunderland,1,1,3.81,3.68,1.90
+15.01.,2021,AFC Wimbledon,Morecambe,0,0,2.06,3.48,3.44
+15.01.,2021,Bolton,Ipswich,2,0,3.30,3.33,2.18
+15.01.,2021,Cheltenham,Charlton,1,1,2.95,3.24,2.42
+15.01.,2021,Crewe,Shrewsbury,0,0,3.53,3.35,2.08
+15.01.,2021,Doncaster,Wigan,1,2,7.67,4.68,1.39
+15.01.,2021,Fleetwood,Rotherham,1,0,5.75,3.93,1.58
+15.01.,2021,Gillingham,Burton,1,3,3.33,3.34,2.16
+15.01.,2021,Lincoln,Cambridge Utd,0,1,1.79,3.67,4.35
+15.01.,2021,Portsmouth,MK Dons,1,2,2.15,3.40,3.27
+15.01.,2021,Sheffield Wed,Plymouth,4,2,2.08,3.51,3.38
+15.01.,2021,Wycombe,Oxford Utd,2,0,2.46,3.46,2.72
+12.01.,2021,Crewe,Charlton,2,1,3.82,3.53,1.93
+11.01.,2021,Bolton,Wycombe,0,2,2.77,3.36,2.47
+11.01.,2021,Sunderland,Lincoln,1,3,1.57,4.18,5.22
+11.01.,2021,MK Dons,AFC Wimbledon,1,0,1.84,3.61,4.08
+08.01.,2021,Accrington,MK Dons,1,1,2.82,3.45,2.39
+08.01.,2021,Cheltenham,Burton,1,1,2.62,3.21,2.70
+08.01.,2021,Lincoln,Oxford Utd,2,0,2.70,3.40,2.51
+08.01.,2021,Wycombe,Sunderland,3,3,2.65,3.39,2.56
+08.01.,2021,Gillingham,Ipswich,0,4,4.43,3.55,1.80
+08.01.,2021,Doncaster,Fleetwood,0,1,3.08,3.24,2.33
+03.01.,2021,Cambridge Utd,Portsmouth,0,0,3.45,3.38,2.09
+02.01.,2021,Morecambe,Doncaster,4,3,1.75,3.71,4.52
+02.01.,2021,Shrewsbury,Sheffield Wed,1,0,2.77,3.10,2.65
+01.01.,2021,Burton,Crewe,4,1,1.87,3.57,4.05
+01.01.,2021,Charlton,Wycombe,0,1,2.18,3.49,3.12
+01.01.,2021,MK Dons,Gillingham,0,0,1.51,4.28,5.92
+01.01.,2021,Oxford Utd,Cheltenham,1,1,1.53,4.27,5.63
+01.01.,2021,Rotherham,Bolton,2,1,1.41,4.69,7.10
+30.12.2021,2021,Sunderland,Sheffield Wed,5,0,2.21,3.33,3.22
+29.12.2021,2021,Ipswich,Wycombe,1,0,2.07,3.45,3.48
+29.12.2021,2021,Morecambe,Crewe,1,2,2.45,3.46,2.76
+29.12.2021,2021,Oxford Utd,AFC Wimbledon,3,0,1.71,3.92,4.48
+29.12.2021,2021,Shrewsbury,Accrington,0,0,2.12,3.39,3.40
+27.12.2021,2021,Doncaster,Sunderland,0,3,7.89,4.95,1.36
+26.12.2021,2021,Accrington,Rotherham,1,0,5.89,4.30,1.52
+26.12.2021,2021,Cheltenham,Plymouth,0,2,3.07,3.60,2.17
+26.12.2021,2021,Fleetwood,Shrewsbury,0,3,2.81,3.00,2.66
+26.12.2021,2021,Lincoln,MK Dons,2,3,2.50,3.37,2.73
+18.12.2021,2021,Cambridge Utd,Rotherham,0,1,5.87,4.19,1.53
+18.12.2021,2021,Ipswich,Sunderland,1,1,2.61,3.23,2.70
+18.12.2021,2021,Morecambe,Fleetwood,0,0,2.53,3.35,2.72
+18.12.2021,2021,Oxford Utd,Wigan,2,3,2.90,3.27,2.44
+18.12.2021,2021,Plymouth,Charlton,1,0,2.29,3.53,2.91
+18.12.2021,2021,Shrewsbury,Cheltenham,3,1,2.28,3.33,3.09
+11.12.2021,2021,Accrington,Bolton,1,0,2.80,3.52,2.37
+11.12.2021,2021,Charlton,Cambridge Utd,2,0,1.59,4.01,5.45
+11.12.2021,2021,Cheltenham,Lincoln,2,2,2.34,3.40,2.93
+11.12.2021,2021,Crewe,Sheffield Wed,0,2,3.85,3.69,1.88
+11.12.2021,2021,Doncaster,Shrewsbury,1,0,3.32,3.21,2.22
+11.12.2021,2021,Fleetwood,Gillingham,2,1,1.75,3.77,4.41
+11.12.2021,2021,MK Dons,Oxford Utd,1,2,2.80,3.34,2.46
+11.12.2021,2021,Portsmouth,Morecambe,2,0,1.49,4.41,6.02
+11.12.2021,2021,Rotherham,Burton,3,1,1.44,4.49,6.71
+11.12.2021,2021,Sunderland,Plymouth,2,1,1.89,3.66,3.85
+11.12.2021,2021,Wigan,Ipswich,1,1,2.04,3.35,3.66
+11.12.2021,2021,Wycombe,AFC Wimbledon,2,2,1.82,3.73,4.12
+08.12.2021,2021,MK Dons,Plymouth,1,1,2.18,3.51,3.13
+08.12.2021,2021,Wigan,Shrewsbury,2,1,1.65,3.60,5.49
+07.12.2021,2021,Accrington,AFC Wimbledon,0,2,2.49,3.35,2.74
+07.12.2021,2021,Charlton,Ipswich,2,0,2.47,3.17,2.93
+07.12.2021,2021,Cheltenham,Cambridge Utd,0,5,1.99,3.52,3.64
+07.12.2021,2021,Crewe,Lincoln,2,0,3.13,3.47,2.20
+07.12.2021,2021,Doncaster,Oxford Utd,1,2,5.76,4.32,1.52
+07.12.2021,2021,Fleetwood,Bolton,3,0,3.77,3.49,1.96
+07.12.2021,2021,Portsmouth,Sheffield Wed,0,0,2.23,3.39,3.12
+07.12.2021,2021,Rotherham,Gillingham,5,1,1.23,6.06,12.22
+07.12.2021,2021,Sunderland,Morecambe,5,0,1.40,4.69,7.42
+07.12.2021,2021,Wycombe,Burton,2,1,2.31,3.39,2.99
+04.12.2021,2021,Accrington,Fleetwood,5,1,2.34,3.49,2.86
+04.12.2021,2021,Sunderland,Oxford Utd,1,1,2.03,3.53,3.47
+28.11.2021,2021,Ipswich,Crewe,2,1,1.36,4.84,7.99
+27.11.2021,2021,AFC Wimbledon,Fleetwood,2,2,2.00,3.53,3.54
+27.11.2021,2021,Bolton,Cheltenham,2,2,2.06,3.45,3.45
+27.11.2021,2021,Burton,Doncaster,2,0,1.73,3.59,4.82
+27.11.2021,2021,Cambridge Utd,Sunderland,1,2,4.32,3.79,1.76
+27.11.2021,2021,Gillingham,Portsmouth,0,1,4.14,3.58,1.85
+27.11.2021,2021,Lincoln,Accrington,0,1,2.01,3.52,3.54
+27.11.2021,2021,Morecambe,MK Dons,0,4,3.72,3.56,1.95
+27.11.2021,2021,Oxford Utd,Rotherham,0,0,4.02,3.72,1.83
+27.11.2021,2021,Plymouth,Wigan,1,2,2.56,3.29,2.71
+27.11.2021,2021,Sheffield Wed,Wycombe,2,2,2.15,3.54,3.18
+27.11.2021,2021,Shrewsbury,Charlton,1,0,3.13,3.26,2.28
+23.11.2021,2021,AFC Wimbledon,Crewe,3,2,1.86,3.61,4.00
+23.11.2021,2021,Bolton,Doncaster,3,0,1.55,4.11,5.75
+23.11.2021,2021,Burton,Accrington,4,0,2.04,3.44,3.52
+23.11.2021,2021,Cambridge Utd,Wigan,2,2,3.94,3.49,1.91
+23.11.2021,2021,Gillingham,Cheltenham,0,2,3.06,3.27,2.31
+23.11.2021,2021,Ipswich,Rotherham,0,2,2.70,3.21,2.61
+23.11.2021,2021,Lincoln,Portsmouth,0,3,2.46,3.29,2.83
+23.11.2021,2021,Morecambe,Charlton,2,2,3.88,3.61,1.89
+23.11.2021,2021,Oxford Utd,Fleetwood,3,1,1.79,3.91,3.98
+23.11.2021,2021,Plymouth,Wycombe,0,3,2.21,3.60,3.00
+23.11.2021,2021,Sheffield Wed,MK Dons,2,1,2.30,3.28,3.09
+23.11.2021,2021,Shrewsbury,Sunderland,1,1,3.54,3.28,2.11
+20.11.2021,2021,Accrington,Sheffield Wed,2,3,3.30,3.44,2.12
+20.11.2021,2021,Charlton,Plymouth,2,0,2.29,3.44,2.96
+20.11.2021,2021,Cheltenham,Shrewsbury,2,1,2.48,3.16,2.90
+20.11.2021,2021,Crewe,Gillingham,2,0,2.00,3.52,3.58
+20.11.2021,2021,Doncaster,Lincoln,0,0,3.40,3.37,2.11
+20.11.2021,2021,Fleetwood,Morecambe,1,2,2.15,3.45,3.26
+20.11.2021,2021,MK Dons,Burton,1,0,1.87,3.60,4.02
+20.11.2021,2021,Portsmouth,AFC Wimbledon,2,1,1.82,3.54,4.36
+20.11.2021,2021,Rotherham,Cambridge Utd,3,1,1.38,4.79,7.90
+20.11.2021,2021,Sunderland,Ipswich,2,0,2.29,3.36,3.04
+20.11.2021,2021,Wycombe,Bolton,1,0,2.05,3.44,3.50
+13.11.2021,2021,Accrington,Plymouth,1,4,3.30,3.55,2.08
+13.11.2021,2021,Burton,Charlton,0,1,2.71,3.29,2.54
+13.11.2021,2021,Ipswich,Oxford Utd,0,0,2.15,3.40,3.29
+13.11.2021,2021,MK Dons,Cambridge Utd,4,1,1.66,3.71,5.16
+13.11.2021,2021,Sheffield Wed,Gillingham,1,1,1.64,3.95,4.94
+13.11.2021,2021,Wycombe,Portsmouth,0,1,2.16,3.40,3.26
+12.11.2021,2021,Bolton,Crewe,2,0,1.59,4.17,5.13
+02.11.2021,2021,Charlton,Rotherham,1,1,3.76,3.55,1.94
+02.11.2021,2021,Crewe,Doncaster,1,1,2.20,3.37,3.20
+02.11.2021,2021,Morecambe,Cambridge Utd,0,2,2.16,3.38,3.27
+02.11.2021,2021,Portsmouth,Cheltenham,1,1,1.74,3.64,4.62
+02.11.2021,2021,Fleetwood,Wigan,2,3,3.72,3.27,2.04
+02.11.2021,2021,Sheffield Wed,Sunderland,3,0,2.77,3.30,2.50
+02.11.2021,2021,Wycombe,Ipswich,1,4,2.41,3.18,3.00
+30.10.2021,2021,Cambridge Utd,AFC Wimbledon,1,0,2.74,3.31,2.50
+30.10.2021,2021,Charlton,Doncaster,4,0,1.75,3.63,4.61
+30.10.2021,2021,Cheltenham,Sheffield Wed,2,2,3.08,3.28,2.30
+30.10.2021,2021,Crewe,MK Dons,1,4,3.42,3.59,2.03
+30.10.2021,2021,Fleetwood,Wycombe,3,3,3.35,3.16,2.22
+30.10.2021,2021,Gillingham,Accrington,0,0,2.39,3.38,2.86
+30.10.2021,2021,Lincoln,Shrewsbury,1,1,2.22,3.18,3.37
+30.10.2021,2021,Oxford Utd,Morecambe,3,1,1.50,4.38,5.82
+30.10.2021,2021,Plymouth,Ipswich,2,1,2.62,3.32,2.60
+30.10.2021,2021,Portsmouth,Bolton,1,0,2.07,3.40,3.48
+30.10.2021,2021,Rotherham,Sunderland,5,1,2.04,3.45,3.51
+30.10.2021,2021,Wigan,Burton,2,0,1.73,3.57,4.88
+26.10.2021,2021,Wigan,Lincoln,1,2,1.78,3.51,4.60
+26.10.2021,2021,Doncaster,Cambridge Utd,1,1,2.29,3.21,3.16
+23.10.2021,2021,Accrington,Portsmouth,2,2,3.14,3.39,2.23
+23.10.2021,2021,AFC Wimbledon,Wigan,0,2,3.47,3.31,2.12
+23.10.2021,2021,Bolton,Gillingham,2,2,1.68,3.75,5.02
+23.10.2021,2021,Burton,Oxford Utd,1,3,2.88,3.27,2.43
+23.10.2021,2021,Doncaster,Cheltenham,3,2,2.93,3.08,2.51
+23.10.2021,2021,Ipswich,Fleetwood,2,1,1.67,3.80,4.97
+23.10.2021,2021,MK Dons,Rotherham,0,3,3.01,3.28,2.34
+23.10.2021,2021,Morecambe,Plymouth,1,1,3.54,3.62,1.98
+23.10.2021,2021,Sheffield Wed,Lincoln,1,1,1.88,3.54,4.07
+23.10.2021,2021,Shrewsbury,Cambridge Utd,4,1,2.11,3.23,3.60
+23.10.2021,2021,Sunderland,Charlton,0,1,1.55,4.14,5.59
+23.10.2021,2021,Wycombe,Crewe,2,1,1.48,4.30,6.42
+19.10.2021,2021,Cambridge Utd,Sheffield Wed,1,1,3.76,3.38,1.99
+19.10.2021,2021,Charlton,Accrington,2,3,1.92,3.53,3.88
+19.10.2021,2021,Cheltenham,Morecambe,3,1,2.05,3.45,3.54
+19.10.2021,2021,Crewe,Sunderland,0,4,4.46,3.72,1.75
+19.10.2021,2021,Fleetwood,Burton,0,1,2.12,3.40,3.36
+19.10.2021,2021,Gillingham,Doncaster,1,0,2.23,3.17,3.38
+19.10.2021,2021,Lincoln,AFC Wimbledon,0,1,2.17,3.36,3.30
+19.10.2021,2021,Oxford Utd,Shrewsbury,2,0,1.78,3.54,4.55
+19.10.2021,2021,Plymouth,Bolton,3,0,2.04,3.51,3.50
+19.10.2021,2021,Portsmouth,Ipswich,0,4,2.31,3.19,3.16
+19.10.2021,2021,Rotherham,Wycombe,0,0,1.83,3.62,4.20
+19.10.2021,2021,Wigan,MK Dons,1,2,2.11,3.35,3.43
+16.10.2021,2021,AFC Wimbledon,Sheffield Wed,2,2,2.91,3.19,2.45
+16.10.2021,2021,Bolton,Wigan,0,4,2.90,3.17,2.48
+16.10.2021,2021,Cambridge Utd,Ipswich,2,2,3.58,3.31,2.07
+16.10.2021,2021,Cheltenham,Accrington,1,0,2.28,3.32,3.09
+16.10.2021,2021,Doncaster,Wycombe,0,2,3.93,3.34,1.96
+16.10.2021,2021,Fleetwood,Crewe,3,0,2.03,3.45,3.54
+16.10.2021,2021,Gillingham,Sunderland,1,2,4.52,3.63,1.76
+16.10.2021,2021,Lincoln,Charlton,2,1,2.41,3.26,2.91
+16.10.2021,2021,Oxford Utd,Plymouth,1,3,1.93,3.55,3.83
+16.10.2021,2021,Rotherham,Portsmouth,4,1,1.78,3.55,4.58
+16.10.2021,2021,Shrewsbury,MK Dons,1,0,3.32,3.43,2.13
+15.10.2021,2021,Burton,Morecambe,3,2,2.18,3.32,3.27
+09.10.2021,2021,Ipswich,Shrewsbury,2,1,1.85,3.35,4.46
+09.10.2021,2021,Plymouth,Burton,2,1,2.10,3.47,3.34
+09.10.2021,2021,Sheffield Wed,Bolton,1,0,2.31,3.31,3.04
+09.10.2021,2021,Wycombe,Gillingham,2,0,1.52,4.16,5.98
+02.10.2021,2021,Accrington,Ipswich,2,1,3.58,3.36,2.05
+02.10.2021,2021,AFC Wimbledon,Burton,1,1,2.28,3.35,3.07
+02.10.2021,2021,Bolton,Shrewsbury,2,1,1.78,3.57,4.53
+02.10.2021,2021,Cheltenham,Rotherham,0,2,5.20,3.87,1.64
+02.10.2021,2021,Crewe,Cambridge Utd,2,2,2.34,3.31,2.99
+02.10.2021,2021,Doncaster,MK Dons,2,1,4.79,3.77,1.70
+02.10.2021,2021,Fleetwood,Charlton,1,2,2.47,3.19,2.89
+02.10.2021,2021,Gillingham,Wigan,0,2,4.36,3.71,1.77
+02.10.2021,2021,Lincoln,Plymouth,2,2,2.18,3.41,3.17
+02.10.2021,2021,Portsmouth,Sunderland,4,0,2.64,3.34,2.57
+02.10.2021,2021,Sheffield Wed,Oxford Utd,1,2,2.11,3.38,3.39
+02.10.2021,2021,Wycombe,Morecambe,4,3,1.61,3.92,5.40
+28.09.2021,2021,Burton,Portsmouth,2,1,3.02,3.13,2.42
+28.09.2021,2021,Cambridge Utd,Gillingham,0,2,1.98,3.47,3.70
+28.09.2021,2021,Charlton,Bolton,1,4,2.95,3.28,2.38
+28.09.2021,2021,Ipswich,Doncaster,6,0,1.62,3.71,5.74
+28.09.2021,2021,MK Dons,Fleetwood,3,3,1.66,3.79,5.08
+28.09.2021,2021,Morecambe,Lincoln,2,0,3.05,3.31,2.30
+28.09.2021,2021,Oxford Utd,Accrington,5,1,1.83,3.74,4.05
+28.09.2021,2021,Plymouth,Crewe,1,1,1.81,3.68,4.19
+28.09.2021,2021,Rotherham,AFC Wimbledon,3,0,1.54,4.11,5.88
+28.09.2021,2021,Shrewsbury,Wycombe,1,2,3.53,3.19,2.14
+28.09.2021,2021,Sunderland,Cheltenham,5,0,1.57,4.01,5.70
+28.09.2021,2021,Wigan,Sheffield Wed,1,2,2.18,3.21,3.42
+25.09.2021,2021,Burton,Lincoln,1,2,2.50,3.31,2.75
+25.09.2021,2021,Cambridge Utd,Fleetwood,2,2,2.92,3.21,2.42
+25.09.2021,2021,Charlton,Portsmouth,2,2,2.75,3.16,2.61
+25.09.2021,2021,Ipswich,Sheffield Wed,1,1,2.86,3.11,2.55
+25.09.2021,2021,MK Dons,Wycombe,1,0,2.28,3.37,3.05
+25.09.2021,2021,Morecambe,Accrington,3,3,2.47,3.31,2.79
+25.09.2021,2021,Oxford Utd,Gillingham,1,1,1.58,4.04,5.51
+25.09.2021,2021,Plymouth,Doncaster,2,1,1.70,3.81,4.69
+25.09.2021,2021,Rotherham,Crewe,1,1,1.54,4.21,5.78
+25.09.2021,2021,Shrewsbury,AFC Wimbledon,2,1,2.56,3.21,2.75
+25.09.2021,2021,Sunderland,Bolton,1,0,1.88,3.64,3.92
+25.09.2021,2021,Wigan,Cheltenham,2,0,1.74,3.63,4.74
+21.09.2021,2021,Crewe,Morecambe,1,3,2.09,3.32,3.53
+21.09.2021,2021,Gillingham,Charlton,1,1,3.08,3.22,2.33
+21.09.2021,2021,Portsmouth,Plymouth,2,2,1.98,3.42,3.79
+18.09.2021,2021,Accrington,Wigan,1,4,3.16,3.25,2.27
+18.09.2021,2021,AFC Wimbledon,Plymouth,0,1,2.36,3.29,2.97
+18.09.2021,2021,Bolton,Rotherham,0,2,2.88,3.27,2.44
+18.09.2021,2021,Cheltenham,Oxford Utd,1,0,2.74,3.23,2.58
+18.09.2021,2021,Crewe,Burton,2,0,2.40,3.23,2.96
+18.09.2021,2021,Doncaster,Morecambe,1,0,2.28,3.29,3.13
+18.09.2021,2021,Fleetwood,Sunderland,2,2,3.71,3.19,2.08
+18.09.2021,2021,Gillingham,MK Dons,1,4,3.25,3.58,2.10
+18.09.2021,2021,Lincoln,Ipswich,0,1,2.24,3.33,3.15
+18.09.2021,2021,Portsmouth,Cambridge Utd,1,2,1.59,3.94,5.68
+18.09.2021,2021,Sheffield Wed,Shrewsbury,1,1,1.76,3.37,5.03
+18.09.2021,2021,Wycombe,Charlton,2,1,1.91,3.50,3.94
+14.09.2021,2021,Lincoln,Rotherham,1,1,2.95,3.32,2.36
+11.09.2021,2021,Burton,Gillingham,1,1,2.12,3.34,3.42
+11.09.2021,2021,Cambridge Utd,Lincoln,1,5,3.31,3.39,2.14
+11.09.2021,2021,Charlton,Cheltenham,1,2,2.02,3.28,3.80
+11.09.2021,2021,Ipswich,Bolton,2,5,2.21,3.25,3.31
+11.09.2021,2021,MK Dons,Portsmouth,1,0,2.45,3.21,2.90
+11.09.2021,2021,Morecambe,AFC Wimbledon,3,4,2.95,3.29,2.39
+11.09.2021,2021,Oxford Utd,Wycombe,0,0,2.33,3.40,2.94
+11.09.2021,2021,Plymouth,Sheffield Wed,3,0,3.09,3.29,2.29
+11.09.2021,2021,Rotherham,Fleetwood,2,4,1.65,3.67,5.45
+11.09.2021,2021,Shrewsbury,Crewe,1,1,2.34,3.15,3.14
+11.09.2021,2021,Sunderland,Accrington,2,1,1.73,3.62,4.81
+11.09.2021,2021,Wigan,Doncaster,2,1,1.59,3.87,5.74
+06.09.2021,2021,Bolton,Burton,0,0,2.15,3.43,3.20
+04.09.2021,2021,Accrington,Shrewsbury,1,0,2.11,3.30,3.48
+04.09.2021,2021,AFC Wimbledon,Oxford Utd,3,1,2.82,3.26,2.49
+04.09.2021,2021,Cheltenham,MK Dons,1,1,2.24,3.32,3.16
+28.08.2021,2021,Cambridge Utd,Bolton,1,0,2.95,3.35,2.35
+28.08.2021,2021,Charlton,Crewe,2,0,1.91,3.47,4.00
+28.08.2021,2021,Ipswich,AFC Wimbledon,2,2,1.95,3.38,3.94
+28.08.2021,2021,MK Dons,Accrington,2,0,1.93,3.66,3.66
+28.08.2021,2021,Morecambe,Sheffield Wed,1,0,4.48,3.36,1.85
+28.08.2021,2021,Oxford Utd,Lincoln,3,1,1.97,3.53,3.67
+28.08.2021,2021,Plymouth,Fleetwood,1,1,2.15,3.34,3.37
+28.08.2021,2021,Rotherham,Doncaster,2,0,1.51,4.11,6.45
+28.08.2021,2021,Shrewsbury,Gillingham,2,1,2.25,3.17,3.32
+28.08.2021,2021,Sunderland,Wycombe,3,1,1.87,3.49,4.16
+28.08.2021,2021,Wigan,Portsmouth,1,0,2.42,3.20,2.98
+27.08.2021,2021,Burton,Cheltenham,1,1,2.67,3.14,2.68
+21.08.2021,2021,Bolton,Oxford Utd,2,1,2.57,3.40,2.62
+21.08.2021,2021,Cambridge Utd,Burton,3,0,2.94,3.18,2.44
+21.08.2021,2021,Charlton,Wigan,0,2,2.47,3.22,2.89
+21.08.2021,2021,Crewe,Accrington,0,1,2.45,3.41,2.75
+21.08.2021,2021,Doncaster,Portsmouth,0,0,3.35,3.25,2.19
+21.08.2021,2021,Fleetwood,Cheltenham,3,2,2.68,2.99,2.79
+21.08.2021,2021,Gillingham,Morecambe,2,1,2.44,3.27,2.88
+21.08.2021,2021,Ipswich,MK Dons,2,2,1.86,3.56,4.09
+21.08.2021,2021,Rotherham,Sheffield Wed,0,2,2.26,3.12,3.31
+21.08.2021,2021,Shrewsbury,Plymouth,0,3,2.43,3.21,2.94
+21.08.2021,2021,Sunderland,AFC Wimbledon,1,0,1.72,3.61,4.90
+21.08.2021,2021,Wycombe,Lincoln,1,0,2.26,3.33,3.13
+17.08.2021,2021,Accrington,Doncaster,1,0,1.94,3.53,3.76
+17.08.2021,2021,AFC Wimbledon,Gillingham,1,1,2.11,3.18,3.65
+17.08.2021,2021,Burton,Sunderland,1,0,3.38,3.20,2.21
+17.08.2021,2021,Cheltenham,Ipswich,2,1,2.61,3.08,2.81
+17.08.2021,2021,Lincoln,Bolton,0,1,2.02,3.49,3.54
+17.08.2021,2021,MK Dons,Charlton,2,1,2.57,3.37,2.65
+17.08.2021,2021,Morecambe,Rotherham,0,1,3.66,3.38,2.03
+17.08.2021,2021,Oxford Utd,Crewe,1,0,1.71,3.70,4.80
+17.08.2021,2021,Plymouth,Cambridge Utd,1,1,1.77,3.67,4.39
+17.08.2021,2021,Portsmouth,Shrewsbury,1,0,1.62,3.75,5.51
+17.08.2021,2021,Sheffield Wed,Fleetwood,1,0,1.92,3.24,4.29
+17.08.2021,2021,Wigan,Wycombe,1,1,2.43,3.25,2.91
+14.08.2021,2021,Accrington,Cambridge Utd,2,1,1.80,3.72,4.18
+14.08.2021,2021,AFC Wimbledon,Bolton,3,3,2.37,3.36,2.91
+14.08.2021,2021,Burton,Ipswich,2,1,2.77,3.17,2.57
+14.08.2021,2021,Cheltenham,Wycombe,1,3,2.53,3.07,2.93
+14.08.2021,2021,Lincoln,Fleetwood,2,1,2.07,3.26,3.66
+14.08.2021,2021,MK Dons,Sunderland,1,2,2.99,3.29,2.35
+14.08.2021,2021,Morecambe,Shrewsbury,2,0,2.59,3.11,2.79
+14.08.2021,2021,Oxford Utd,Charlton,2,1,2.42,3.07,3.06
+14.08.2021,2021,Plymouth,Gillingham,1,0,2.22,3.53,3.04
+14.08.2021,2021,Portsmouth,Crewe,2,0,1.80,3.56,4.39
+14.08.2021,2021,Sheffield Wed,Doncaster,2,0,1.68,3.68,5.15
+14.08.2021,2021,Wigan,Rotherham,1,0,2.88,3.38,2.38
+07.08.2021,2021,Bolton,MK Dons,3,3,2.19,3.44,3.17
+07.08.2021,2021,Cambridge Utd,Oxford Utd,1,1,3.57,3.43,2.04
+07.08.2021,2021,Charlton,Sheffield Wed,0,0,2.51,3.20,2.83
+07.08.2021,2021,Crewe,Cheltenham,1,1,2.28,3.07,3.32
+07.08.2021,2021,Doncaster,AFC Wimbledon,1,2,2.39,3.31,2.91
+07.08.2021,2021,Fleetwood,Portsmouth,0,1,2.91,3.14,2.48
+07.08.2021,2021,Gillingham,Lincoln,1,1,2.95,3.20,2.42
+07.08.2021,2021,Ipswich,Morecambe,2,2,1.57,3.93,5.81
+07.08.2021,2021,Rotherham,Plymouth,2,0,1.62,4.03,5.15
+07.08.2021,2021,Shrewsbury,Burton,0,1,2.31,3.17,3.22
+07.08.2021,2021,Sunderland,Wigan,2,1,2.15,3.32,3.38
+07.08.2021,2021,Wycombe,Accrington,2,1,2.03,3.37,3.67

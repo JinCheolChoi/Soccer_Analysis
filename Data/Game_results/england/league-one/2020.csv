@@ -1,495 +1,553 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-17.04.,2020,AFC Wimbledon,Swindon,4,1
-17.04.,2020,Blackpool,Sunderland,1,0
-17.04.,2020,Bristol Rovers,Lincoln,0,1
-17.04.,2020,Burton,Plymouth,1,1
-17.04.,2020,Charlton,Ipswich,0,0
-17.04.,2020,Hull,Fleetwood,2,1
-17.04.,2020,MK Dons,Portsmouth,1,0
-17.04.,2020,Oxford Utd,Gillingham,3,2
-17.04.,2020,Rochdale,Accrington,3,1
-17.04.,2020,Shrewsbury,Doncaster,0,2
-17.04.,2020,Wigan,Crewe,2,0
-16.04.,2020,Peterborough,Northampton,3,1
-13.04.,2020,Lincoln,MK Dons,4,0
-13.04.,2020,Rochdale,Swindon,2,1
-13.04.,2020,Wigan,Sunderland,2,1
-13.04.,2020,Crewe,Portsmouth,0,0
-13.04.,2020,Blackpool,Accrington,0,0
-13.04.,2020,Doncaster,Burton,0,3
-13.04.,2020,Oxford Utd,Shrewsbury,4,1
-13.04.,2020,AFC Wimbledon,Ipswich,3,0
-10.04.,2020,Accrington,AFC Wimbledon,1,5
-10.04.,2020,Crewe,Oxford Utd,0,6
-10.04.,2020,Doncaster,Wigan,1,4
-10.04.,2020,Fleetwood,Rochdale,1,0
-10.04.,2020,Gillingham,Shrewsbury,0,0
-10.04.,2020,Ipswich,MK Dons,0,0
-10.04.,2020,Lincoln,Blackpool,2,2
-10.04.,2020,Northampton,Bristol Rovers,1,1
-10.04.,2020,Plymouth,Hull,0,3
-10.04.,2020,Portsmouth,Burton,1,2
-10.04.,2020,Sunderland,Charlton,1,2
-10.04.,2020,Swindon,Peterborough,0,3
-05.04.,2020,AFC Wimbledon,Fleetwood,0,1
-05.04.,2020,Blackpool,Gillingham,4,1
-05.04.,2020,Bristol Rovers,Doncaster,2,1
-05.04.,2020,Burton,Swindon,2,1
-05.04.,2020,Hull,Northampton,3,0
-05.04.,2020,MK Dons,Crewe,0,2
-05.04.,2020,Oxford Utd,Accrington,1,2
-05.04.,2020,Peterborough,Sunderland,1,1
-05.04.,2020,Rochdale,Ipswich,0,0
-05.04.,2020,Shrewsbury,Plymouth,3,0
-05.04.,2020,Wigan,Portsmouth,0,1
-02.04.,2020,Accrington,Burton,0,0
-02.04.,2020,Crewe,Hull,1,2
-02.04.,2020,Doncaster,Charlton,0,1
-02.04.,2020,Fleetwood,Peterborough,0,1
-02.04.,2020,Ipswich,Bristol Rovers,2,1
-02.04.,2020,Northampton,Shrewsbury,1,0
-02.04.,2020,Plymouth,AFC Wimbledon,1,0
-02.04.,2020,Portsmouth,Rochdale,2,1
-02.04.,2020,Sunderland,Oxford Utd,3,1
-02.04.,2020,Swindon,Blackpool,0,2
-31.03.,2020,Gillingham,Wigan,1,0
-27.03.,2020,AFC Wimbledon,Northampton,1,0
-27.03.,2020,Blackpool,Plymouth,2,2
-27.03.,2020,Bristol Rovers,Sunderland,0,1
-27.03.,2020,Hull,Gillingham,1,1
-27.03.,2020,MK Dons,Doncaster,1,0
-27.03.,2020,Peterborough,Accrington,7,0
-27.03.,2020,Shrewsbury,Portsmouth,1,2
-27.03.,2020,Wigan,Ipswich,0,0
-26.03.,2020,Oxford Utd,Lincoln,2,1
-23.03.,2020,Blackpool,Peterborough,3,1
-23.03.,2020,Bristol Rovers,Swindon,0,1
-23.03.,2020,Burton,Shrewsbury,1,2
-23.03.,2020,Northampton,Oxford Utd,1,0
-20.03.,2020,Accrington,Wigan,3,1
-20.03.,2020,AFC Wimbledon,Charlton,2,2
-20.03.,2020,Burton,MK Dons,1,2
-20.03.,2020,Fleetwood,Swindon,0,2
-20.03.,2020,Gillingham,Doncaster,2,2
-20.03.,2020,Northampton,Crewe,0,1
-20.03.,2020,Oxford Utd,Blackpool,0,2
-20.03.,2020,Plymouth,Bristol Rovers,2,0
-20.03.,2020,Portsmouth,Ipswich,2,1
-20.03.,2020,Rochdale,Peterborough,3,3
-20.03.,2020,Shrewsbury,Hull,1,1
-20.03.,2020,Sunderland,Lincoln,1,1
-17.03.,2020,Accrington,Sunderland,0,2
-16.03.,2020,Peterborough,Portsmouth,1,0
-16.03.,2020,Blackpool,Burton,1,1
-16.03.,2020,MK Dons,Plymouth,2,1
-16.03.,2020,Fleetwood,Ipswich,2,0
-16.03.,2020,Charlton,Bristol Rovers,3,2
-16.03.,2020,AFC Wimbledon,Wigan,1,1
-16.03.,2020,Lincoln,Gillingham,0,3
-16.03.,2020,Oxford Utd,Doncaster,3,0
-13.03.,2020,Blackpool,Fleetwood,0,0
-13.03.,2020,Bristol Rovers,AFC Wimbledon,0,0
-13.03.,2020,Charlton,Shrewsbury,1,1
-13.03.,2020,Crewe,Burton,0,3
-13.03.,2020,Doncaster,Northampton,0,0
-13.03.,2020,Hull,Oxford Utd,2,0
-13.03.,2020,Ipswich,Plymouth,1,0
-13.03.,2020,Lincoln,Rochdale,1,2
-13.03.,2020,MK Dons,Accrington,3,2
-13.03.,2020,Swindon,Gillingham,1,3
-09.03.,2020,AFC Wimbledon,Burton,0,1
-09.03.,2020,Bristol Rovers,Accrington,4,1
-09.03.,2020,Charlton,Northampton,2,1
-09.03.,2020,Crewe,Doncaster,1,0
-09.03.,2020,Fleetwood,Gillingham,1,0
-09.03.,2020,Ipswich,Lincoln,1,1
-09.03.,2020,MK Dons,Blackpool,0,1
-09.03.,2020,Peterborough,Hull,1,3
-09.03.,2020,Plymouth,Wigan,0,2
-09.03.,2020,Portsmouth,Sunderland,0,2
-09.03.,2020,Rochdale,Shrewsbury,0,2
-09.03.,2020,Swindon,Oxford Utd,1,2
-06.03.,2020,Accrington,Swindon,2,1
-06.03.,2020,Blackpool,AFC Wimbledon,1,1
-06.03.,2020,Burton,Peterborough,2,1
-06.03.,2020,Doncaster,Plymouth,2,1
-06.03.,2020,Gillingham,Ipswich,3,1
-06.03.,2020,Hull,Bristol Rovers,2,0
-06.03.,2020,Lincoln,Crewe,3,0
-06.03.,2020,Northampton,Portsmouth,4,1
-06.03.,2020,Oxford Utd,Charlton,0,0
-06.03.,2020,Shrewsbury,Fleetwood,0,2
-06.03.,2020,Sunderland,Rochdale,2,0
-06.03.,2020,Wigan,MK Dons,3,0
-02.03.,2020,Accrington,Ipswich,1,2
-02.03.,2020,Blackpool,Crewe,1,1
-02.03.,2020,Burton,Bristol Rovers,1,0
-02.03.,2020,Doncaster,Portsmouth,2,1
-02.03.,2020,Gillingham,MK Dons,3,2
-02.03.,2020,Hull,Rochdale,2,0
-02.03.,2020,Lincoln,Fleetwood,1,2
-02.03.,2020,Northampton,Plymouth,2,0
-02.03.,2020,Oxford Utd,Peterborough,0,0
-02.03.,2020,Shrewsbury,AFC Wimbledon,1,1
-02.03.,2020,Sunderland,Swindon,1,0
-02.03.,2020,Wigan,Charlton,0,1
-27.02.,2020,AFC Wimbledon,Hull,0,3
-27.02.,2020,Bristol Rovers,Shrewsbury,2,1
-27.02.,2020,Charlton,Blackpool,0,3
-27.02.,2020,Crewe,Sunderland,2,2
-27.02.,2020,Fleetwood,Accrington,1,1
-27.02.,2020,Ipswich,Doncaster,2,1
-27.02.,2020,MK Dons,Oxford Utd,1,1
-27.02.,2020,Peterborough,Wigan,2,1
-27.02.,2020,Plymouth,Lincoln,4,3
-27.02.,2020,Portsmouth,Gillingham,1,1
-27.02.,2020,Rochdale,Burton,0,2
-27.02.,2020,Swindon,Northampton,2,1
-23.02.,2020,AFC Wimbledon,Gillingham,1,0
-23.02.,2020,Bristol Rovers,Wigan,1,2
-23.02.,2020,Charlton,Burton,1,2
-23.02.,2020,Crewe,Accrington,2,0
-23.02.,2020,Hull,Ipswich,0,1
-23.02.,2020,Lincoln,Swindon,2,2
-23.02.,2020,Northampton,Rochdale,0,0
-23.02.,2020,Oxford Utd,Portsmouth,0,1
-23.02.,2020,Plymouth,Peterborough,0,3
-23.02.,2020,Shrewsbury,MK Dons,4,2
-23.02.,2020,Sunderland,Fleetwood,2,0
-20.02.,2020,Accrington,Shrewsbury,1,1
-20.02.,2020,Burton,Sunderland,0,3
-20.02.,2020,Doncaster,Hull,3,3
-20.02.,2020,Fleetwood,Charlton,1,1
-20.02.,2020,Gillingham,Bristol Rovers,2,0
-20.02.,2020,Ipswich,Oxford Utd,0,0
-20.02.,2020,MK Dons,Northampton,4,3
-20.02.,2020,Peterborough,AFC Wimbledon,3,0
-20.02.,2020,Portsmouth,Blackpool,0,1
-20.02.,2020,Rochdale,Plymouth,0,0
-20.02.,2020,Swindon,Crewe,2,1
-20.02.,2020,Wigan,Lincoln,1,2
-17.02.,2020,Wigan,Hull,0,5
-17.02.,2020,Doncaster,Accrington,0,1
-16.02.,2020,Bristol Rovers,Portsmouth,3,1
-16.02.,2020,Blackpool,Rochdale,1,0
-16.02.,2020,Gillingham,Peterborough,1,3
-16.02.,2020,Ipswich,Northampton,0,0
-14.02.,2020,Lincoln,Accrington,2,2
-14.02.,2020,Oxford Utd,Wigan,2,1
-13.02.,2020,Charlton,Gillingham,2,3
-13.02.,2020,Hull,MK Dons,0,1
-13.02.,2020,Northampton,Burton,0,2
-13.02.,2020,Plymouth,Fleetwood,1,0
-13.02.,2020,Sunderland,Doncaster,4,1
-09.02.,2020,Northampton,Wigan,0,1
-09.02.,2020,Rochdale,MK Dons,1,4
-09.02.,2020,Fleetwood,Doncaster,3,1
-09.02.,2020,Hull,Lincoln,0,0
-09.02.,2020,Portsmouth,Swindon,2,0
-09.02.,2020,Bristol Rovers,Oxford Utd,0,2
-09.02.,2020,Peterborough,Ipswich,2,1
-09.02.,2020,Shrewsbury,Sunderland,2,1
-09.02.,2020,Accrington,Plymouth,0,1
-06.02.,2020,Accrington,Northampton,0,0
-06.02.,2020,Burton,Hull,1,0
-06.02.,2020,Doncaster,Oxford Utd,3,2
-06.02.,2020,Fleetwood,Bristol Rovers,0,0
-06.02.,2020,Ipswich,Blackpool,2,0
-06.02.,2020,MK Dons,Sunderland,2,2
-06.02.,2020,Peterborough,Crewe,2,0
-06.02.,2020,Portsmouth,Plymouth,2,2
-06.02.,2020,Rochdale,Charlton,0,2
-06.02.,2020,Swindon,Shrewsbury,0,1
-06.02.,2020,Wigan,AFC Wimbledon,2,3
-05.02.,2020,Gillingham,Lincoln,0,3
-02.02.,2020,Charlton,Portsmouth,1,3
-02.02.,2020,Blackpool,Northampton,2,0
-02.02.,2020,Shrewsbury,Crewe,0,1
-02.02.,2020,Swindon,Wigan,1,0
-02.02.,2020,Accrington,Bristol Rovers,6,1
-30.01.,2020,AFC Wimbledon,MK Dons,0,2
-30.01.,2020,Bristol Rovers,Rochdale,1,2
-30.01.,2020,Crewe,Ipswich,1,1
-30.01.,2020,Hull,Swindon,1,0
-30.01.,2020,Lincoln,Doncaster,0,1
-30.01.,2020,Oxford Utd,Fleetwood,1,0
-30.01.,2020,Plymouth,Accrington,2,2
-30.01.,2020,Shrewsbury,Peterborough,2,0
-30.01.,2020,Sunderland,Gillingham,2,2
-26.01.,2020,Accrington,Hull,2,0
-26.01.,2020,Doncaster,AFC Wimbledon,2,0
-26.01.,2020,Fleetwood,Northampton,0,0
-26.01.,2020,Gillingham,Crewe,4,1
-26.01.,2020,Ipswich,Sunderland,0,1
-26.01.,2020,MK Dons,Charlton,0,1
-26.01.,2020,Peterborough,Bristol Rovers,0,0
-26.01.,2020,Portsmouth,Lincoln,0,1
-26.01.,2020,Rochdale,Oxford Utd,3,4
-26.01.,2020,Swindon,Plymouth,0,2
-26.01.,2020,Wigan,Blackpool,0,5
-23.01.,2020,Charlton,Swindon,2,2
-23.01.,2020,Crewe,AFC Wimbledon,1,1
-23.01.,2020,Gillingham,Rochdale,2,2
-23.01.,2020,Ipswich,Peterborough,0,1
-23.01.,2020,Lincoln,Northampton,2,1
-23.01.,2020,Oxford Utd,Bristol Rovers,2,0
-23.01.,2020,Portsmouth,Hull,0,4
-23.01.,2020,Sunderland,Shrewsbury,1,0
-23.01.,2020,Wigan,Fleetwood,0,0
-19.01.,2020,Crewe,Bristol Rovers,3,2
-19.01.,2020,Doncaster,Rochdale,1,0
-19.01.,2020,MK Dons,Fleetwood,3,1
-19.01.,2020,Portsmouth,AFC Wimbledon,4,0
-19.01.,2020,Sunderland,Plymouth,1,2
-19.01.,2020,Peterborough,Charlton,2,1
-19.01.,2020,Hull,Accrington,3,0
-16.01.,2020,Accrington,Gillingham,0,1
-16.01.,2020,AFC Wimbledon,Sunderland,0,3
-16.01.,2020,Bristol Rovers,Charlton,0,1
-16.01.,2020,Burton,Ipswich,0,1
-16.01.,2020,Fleetwood,Portsmouth,0,1
-16.01.,2020,Hull,Blackpool,1,1
-16.01.,2020,Peterborough,MK Dons,3,0
-16.01.,2020,Plymouth,Crewe,1,1
-16.01.,2020,Rochdale,Wigan,3,3
-16.01.,2020,Swindon,Doncaster,1,2
-12.01.,2020,Charlton,Rochdale,4,4
-09.01.,2020,Gillingham,Burton,0,1
-09.01.,2020,Ipswich,Swindon,2,3
-09.01.,2020,Lincoln,Peterborough,1,1
-09.01.,2020,Rochdale,Crewe,3,3
-09.01.,2020,Sunderland,Hull,1,1
-08.01.,2020,Charlton,Accrington,0,2
-02.01.,2020,AFC Wimbledon,Lincoln,1,2
-02.01.,2020,Bristol Rovers,Blackpool,2,1
-02.01.,2020,Burton,Oxford Utd,1,5
-02.01.,2020,Hull,Charlton,2,0
-02.01.,2020,Northampton,Sunderland,0,0
-02.01.,2020,Plymouth,Gillingham,1,0
-29.12.2020,2020,Burton,Wigan,3,4
-29.12.2020,2020,Northampton,Gillingham,3,1
-29.12.2020,2020,Plymouth,Oxford Utd,2,3
-29.12.2020,2020,Shrewsbury,Blackpool,1,0
-29.12.2020,2020,Swindon,MK Dons,1,4
-26.12.2020,2020,Charlton,Plymouth,2,2
-26.12.2020,2020,Crewe,Fleetwood,1,1
-26.12.2020,2020,Lincoln,Burton,5,1
-26.12.2020,2020,MK Dons,Bristol Rovers,2,0
-26.12.2020,2020,Oxford Utd,AFC Wimbledon,2,0
-26.12.2020,2020,Wigan,Shrewsbury,1,1
-22.12.2020,2020,Doncaster,Shrewsbury,0,1
-19.12.2020,2020,Accrington,Blackpool,0,0
-19.12.2020,2020,AFC Wimbledon,Crewe,1,2
-19.12.2020,2020,Burton,Doncaster,1,3
-19.12.2020,2020,Fleetwood,Wigan,1,1
-19.12.2020,2020,Northampton,Lincoln,0,4
-19.12.2020,2020,Plymouth,MK Dons,1,0
-19.12.2020,2020,Rochdale,Gillingham,1,4
-19.12.2020,2020,Swindon,Charlton,2,2
-18.12.2020,2020,Hull,Portsmouth,0,2
-15.12.2020,2020,Blackpool,Hull,3,2
-15.12.2020,2020,Crewe,Plymouth,2,1
-15.12.2020,2020,Doncaster,Swindon,2,1
-15.12.2020,2020,Gillingham,Accrington,0,2
-15.12.2020,2020,Ipswich,Burton,2,1
-15.12.2020,2020,Lincoln,Shrewsbury,0,1
-15.12.2020,2020,MK Dons,Peterborough,1,1
-15.12.2020,2020,Oxford Utd,Northampton,4,0
-15.12.2020,2020,Portsmouth,Fleetwood,0,0
-15.12.2020,2020,Sunderland,AFC Wimbledon,1,1
-15.12.2020,2020,Wigan,Rochdale,0,5
-12.12.2020,2020,Blackpool,Oxford Utd,0,0
-12.12.2020,2020,Bristol Rovers,Plymouth,3,0
-12.12.2020,2020,Charlton,AFC Wimbledon,5,2
-12.12.2020,2020,Crewe,Northampton,2,1
-12.12.2020,2020,Doncaster,Gillingham,2,1
-12.12.2020,2020,Hull,Shrewsbury,0,1
-12.12.2020,2020,Ipswich,Portsmouth,0,2
-12.12.2020,2020,Lincoln,Sunderland,0,4
-12.12.2020,2020,MK Dons,Burton,1,1
-12.12.2020,2020,Peterborough,Rochdale,4,1
-12.12.2020,2020,Swindon,Fleetwood,0,1
-12.12.2020,2020,Wigan,Accrington,4,3
-05.12.2020,2020,Accrington,MK Dons,2,1
-05.12.2020,2020,AFC Wimbledon,Bristol Rovers,2,4
-05.12.2020,2020,Burton,Crewe,1,1
-05.12.2020,2020,Fleetwood,Blackpool,0,1
-05.12.2020,2020,Gillingham,Swindon,2,0
-05.12.2020,2020,Northampton,Doncaster,0,2
-05.12.2020,2020,Oxford Utd,Hull,1,1
-05.12.2020,2020,Plymouth,Ipswich,1,2
-05.12.2020,2020,Portsmouth,Peterborough,2,0
-05.12.2020,2020,Rochdale,Lincoln,0,2
-05.12.2020,2020,Shrewsbury,Charlton,1,1
-05.12.2020,2020,Sunderland,Wigan,0,1
-02.12.2020,2020,AFC Wimbledon,Peterborough,2,1
-02.12.2020,2020,Bristol Rovers,Gillingham,0,2
-02.12.2020,2020,Charlton,MK Dons,0,1
-02.12.2020,2020,Hull,Doncaster,2,1
-02.12.2020,2020,Shrewsbury,Accrington,2,2
-01.12.2020,2020,Blackpool,Portsmouth,1,0
-01.12.2020,2020,Crewe,Swindon,4,2
-01.12.2020,2020,Lincoln,Wigan,2,1
-01.12.2020,2020,Northampton,Fleetwood,1,0
-01.12.2020,2020,Oxford Utd,Ipswich,0,0
-01.12.2020,2020,Plymouth,Rochdale,0,4
-01.12.2020,2020,Sunderland,Burton,1,1
-28.11.2020,2020,Oxford Utd,Swindon,1,2
-28.11.2020,2020,Ipswich,Charlton,0,2
-27.11.2020,2020,Fleetwood,Sunderland,1,1
-24.11.2020,2020,Accrington,Crewe,1,0
-24.11.2020,2020,Burton,Charlton,4,2
-24.11.2020,2020,Doncaster,Blackpool,3,2
-24.11.2020,2020,Gillingham,AFC Wimbledon,2,1
-24.11.2020,2020,Ipswich,Hull,0,3
-24.11.2020,2020,MK Dons,Shrewsbury,2,2
-24.11.2020,2020,Peterborough,Plymouth,1,0
-24.11.2020,2020,Portsmouth,Oxford Utd,1,1
-24.11.2020,2020,Rochdale,Northampton,1,1
-24.11.2020,2020,Swindon,Lincoln,0,1
-24.11.2020,2020,Wigan,Bristol Rovers,0,0
-21.11.2020,2020,Accrington,Lincoln,0,0
-21.11.2020,2020,Burton,Northampton,1,3
-21.11.2020,2020,Doncaster,Sunderland,1,1
-21.11.2020,2020,Fleetwood,Plymouth,5,1
-21.11.2020,2020,Gillingham,Charlton,1,1
-21.11.2020,2020,Ipswich,Shrewsbury,2,1
-21.11.2020,2020,MK Dons,Hull,1,3
-21.11.2020,2020,Peterborough,Blackpool,1,2
-21.11.2020,2020,Portsmouth,Crewe,4,1
-21.11.2020,2020,Rochdale,AFC Wimbledon,0,1
-21.11.2020,2020,Swindon,Bristol Rovers,1,0
-21.11.2020,2020,Wigan,Oxford Utd,1,2
-17.11.2020,2020,Swindon,Accrington,0,3
-17.11.2020,2020,Oxford Utd,Crewe,0,2
-16.11.2020,2020,Plymouth,Portsmouth,2,2
-14.11.2020,2020,Bristol Rovers,Fleetwood,1,4
-14.11.2020,2020,Crewe,Peterborough,2,0
-14.11.2020,2020,Hull,Burton,2,0
-14.11.2020,2020,Northampton,Accrington,0,1
-14.11.2020,2020,Shrewsbury,Swindon,3,3
-14.11.2020,2020,Sunderland,MK Dons,1,2
-03.11.2020,2020,AFC Wimbledon,Doncaster,2,2
-03.11.2020,2020,Blackpool,Wigan,1,0
-03.11.2020,2020,Bristol Rovers,Peterborough,0,2
-03.11.2020,2020,Charlton,Fleetwood,3,2
-03.11.2020,2020,Crewe,Gillingham,0,1
-03.11.2020,2020,Lincoln,Portsmouth,1,3
-03.11.2020,2020,Northampton,MK Dons,0,0
-03.11.2020,2020,Oxford Utd,Rochdale,3,1
-03.11.2020,2020,Plymouth,Swindon,4,2
-03.11.2020,2020,Shrewsbury,Burton,1,1
-03.11.2020,2020,Sunderland,Ipswich,2,1
-31.10.2020,2020,Burton,Blackpool,1,2
-31.10.2020,2020,Doncaster,Lincoln,1,0
-31.10.2020,2020,Fleetwood,Oxford Utd,2,0
-31.10.2020,2020,Gillingham,Sunderland,0,2
-31.10.2020,2020,Ipswich,Crewe,1,0
-31.10.2020,2020,MK Dons,AFC Wimbledon,1,1
-31.10.2020,2020,Peterborough,Shrewsbury,5,1
-31.10.2020,2020,Portsmouth,Charlton,0,2
-31.10.2020,2020,Rochdale,Bristol Rovers,1,1
-31.10.2020,2020,Swindon,Hull,2,1
-31.10.2020,2020,Wigan,Northampton,2,3
-27.10.2020,2020,AFC Wimbledon,Blackpool,1,0
-27.10.2020,2020,Bristol Rovers,Hull,1,3
-27.10.2020,2020,Charlton,Oxford Utd,2,0
-27.10.2020,2020,Crewe,Lincoln,0,1
-27.10.2020,2020,Fleetwood,Shrewsbury,1,0
-27.10.2020,2020,Ipswich,Gillingham,1,0
-27.10.2020,2020,MK Dons,Wigan,2,0
-27.10.2020,2020,Peterborough,Burton,2,2
-27.10.2020,2020,Plymouth,Doncaster,2,1
-27.10.2020,2020,Portsmouth,Northampton,4,0
-27.10.2020,2020,Rochdale,Sunderland,2,2
-24.10.2020,2020,Blackpool,MK Dons,1,0
-24.10.2020,2020,Burton,AFC Wimbledon,1,1
-24.10.2020,2020,Doncaster,Crewe,1,2
-24.10.2020,2020,Gillingham,Fleetwood,0,2
-24.10.2020,2020,Hull,Peterborough,1,2
-24.10.2020,2020,Lincoln,Ipswich,1,0
-24.10.2020,2020,Northampton,Charlton,0,2
-24.10.2020,2020,Shrewsbury,Rochdale,1,2
-24.10.2020,2020,Sunderland,Portsmouth,1,3
-24.10.2020,2020,Wigan,Plymouth,1,1
-20.10.2020,2020,Accrington,Fleetwood,1,0
-20.10.2020,2020,Blackpool,Charlton,0,1
-20.10.2020,2020,Burton,Rochdale,0,1
-20.10.2020,2020,Doncaster,Ipswich,4,1
-20.10.2020,2020,Gillingham,Portsmouth,0,2
-20.10.2020,2020,Hull,AFC Wimbledon,1,0
-20.10.2020,2020,Lincoln,Plymouth,2,0
-20.10.2020,2020,Northampton,Swindon,2,1
-20.10.2020,2020,Oxford Utd,MK Dons,3,2
-20.10.2020,2020,Shrewsbury,Bristol Rovers,0,1
-20.10.2020,2020,Sunderland,Crewe,1,0
-20.10.2020,2020,Wigan,Peterborough,0,1
-17.10.2020,2020,AFC Wimbledon,Shrewsbury,0,1
-17.10.2020,2020,Bristol Rovers,Burton,1,1
-17.10.2020,2020,Charlton,Wigan,1,0
-17.10.2020,2020,Crewe,Blackpool,1,1
-17.10.2020,2020,Fleetwood,Lincoln,0,0
-17.10.2020,2020,Ipswich,Accrington,2,0
-17.10.2020,2020,MK Dons,Gillingham,2,0
-17.10.2020,2020,Peterborough,Oxford Utd,2,0
-17.10.2020,2020,Plymouth,Northampton,2,1
-17.10.2020,2020,Portsmouth,Doncaster,0,1
-17.10.2020,2020,Rochdale,Hull,0,3
-17.10.2020,2020,Swindon,Sunderland,0,2
-10.10.2020,2020,Blackpool,Ipswich,1,4
-10.10.2020,2020,Accrington,Rochdale,2,1
-10.10.2020,2020,Crewe,Wigan,3,0
-10.10.2020,2020,Gillingham,Oxford Utd,3,1
-10.10.2020,2020,Lincoln,Bristol Rovers,1,2
-10.10.2020,2020,Northampton,Peterborough,0,2
-10.10.2020,2020,Plymouth,Burton,2,0
-10.10.2020,2020,Portsmouth,MK Dons,2,1
-10.10.2020,2020,Swindon,AFC Wimbledon,0,1
-09.10.2020,2020,Fleetwood,Hull,4,1
-03.10.2020,2020,AFC Wimbledon,Accrington,1,2
-03.10.2020,2020,Blackpool,Lincoln,2,3
-03.10.2020,2020,Bristol Rovers,Northampton,2,0
-03.10.2020,2020,Burton,Portsmouth,2,4
-03.10.2020,2020,Charlton,Sunderland,0,0
-03.10.2020,2020,Hull,Plymouth,1,0
-03.10.2020,2020,MK Dons,Ipswich,1,1
-03.10.2020,2020,Peterborough,Swindon,3,1
-03.10.2020,2020,Rochdale,Fleetwood,2,1
-03.10.2020,2020,Shrewsbury,Gillingham,1,1
-03.10.2020,2020,Wigan,Doncaster,1,0
-27.09.2020,2020,Lincoln,Charlton,2,0
-26.09.2020,2020,Accrington,Oxford Utd,1,4
-26.09.2020,2020,Crewe,MK Dons,2,0
-26.09.2020,2020,Doncaster,Bristol Rovers,4,1
-26.09.2020,2020,Fleetwood,AFC Wimbledon,0,1
-26.09.2020,2020,Gillingham,Blackpool,2,0
-26.09.2020,2020,Ipswich,Rochdale,2,0
-26.09.2020,2020,Northampton,Hull,0,2
-26.09.2020,2020,Plymouth,Shrewsbury,1,1
-26.09.2020,2020,Portsmouth,Wigan,1,2
-26.09.2020,2020,Sunderland,Peterborough,1,0
-26.09.2020,2020,Swindon,Burton,4,2
-20.09.2020,2020,Rochdale,Portsmouth,0,0
-19.09.2020,2020,AFC Wimbledon,Plymouth,4,4
-19.09.2020,2020,Blackpool,Swindon,2,0
-19.09.2020,2020,Bristol Rovers,Ipswich,0,2
-19.09.2020,2020,Burton,Accrington,2,1
-19.09.2020,2020,Charlton,Doncaster,1,3
-19.09.2020,2020,Hull,Crewe,1,0
-19.09.2020,2020,MK Dons,Lincoln,1,2
-19.09.2020,2020,Oxford Utd,Sunderland,0,2
-19.09.2020,2020,Peterborough,Fleetwood,2,1
-19.09.2020,2020,Shrewsbury,Northampton,1,2
-19.09.2020,2020,Wigan,Gillingham,2,3
-13.09.2020,2020,Ipswich,Wigan,2,0
-12.09.2020,2020,Accrington,Peterborough,2,0
-12.09.2020,2020,Crewe,Charlton,0,2
-12.09.2020,2020,Doncaster,MK Dons,1,1
-12.09.2020,2020,Fleetwood,Burton,2,1
-12.09.2020,2020,Gillingham,Hull,0,2
-12.09.2020,2020,Lincoln,Oxford Utd,2,0
-12.09.2020,2020,Northampton,AFC Wimbledon,2,2
-12.09.2020,2020,Plymouth,Blackpool,1,0
-12.09.2020,2020,Portsmouth,Shrewsbury,0,0
-12.09.2020,2020,Sunderland,Bristol Rovers,1,1
-12.09.2020,2020,Swindon,Rochdale,3,1
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+09.05.2021,2020,Blackpool,Bristol Rovers,1,0,1.68,3.92,4.80
+09.05.2021,2020,Charlton,Hull,1,0,2.30,3.60,2.87
+09.05.2021,2020,Crewe,Shrewsbury,3,2,2.19,3.44,3.20
+09.05.2021,2020,Doncaster,Peterborough,1,4,3.29,3.81,2.02
+09.05.2021,2020,Gillingham,Plymouth,1,0,1.83,3.89,3.88
+09.05.2021,2020,Ipswich,Fleetwood,3,1,2.51,3.25,2.82
+09.05.2021,2020,Lincoln,AFC Wimbledon,0,0,1.95,3.70,3.59
+09.05.2021,2020,MK Dons,Rochdale,0,3,1.69,4.04,4.52
+09.05.2021,2020,Oxford Utd,Burton,4,0,1.54,4.39,5.47
+09.05.2021,2020,Portsmouth,Accrington,0,1,1.55,4.26,5.43
+09.05.2021,2020,Sunderland,Northampton,1,1,1.45,4.44,6.75
+09.05.2021,2020,Wigan,Swindon,3,4,1.72,3.98,4.39
+04.05.2021,2020,Charlton,Lincoln,3,1,1.99,3.43,3.67
+04.05.2021,2020,Blackpool,Doncaster,2,0,1.62,3.82,5.41
+04.05.2021,2020,Shrewsbury,Ipswich,0,0,2.64,3.00,2.84
+01.05.2021,2020,Accrington,Charlton,1,1,3.62,3.60,1.97
+01.05.2021,2020,AFC Wimbledon,Portsmouth,1,3,2.87,3.35,2.41
+01.05.2021,2020,Bristol Rovers,Crewe,0,1,3.12,3.53,2.19
+01.05.2021,2020,Burton,Gillingham,1,1,2.38,3.44,2.85
+01.05.2021,2020,Fleetwood,MK Dons,1,1,3.11,3.44,2.23
+01.05.2021,2020,Hull,Wigan,3,1,1.72,3.61,4.92
+01.05.2021,2020,Northampton,Blackpool,0,3,3.53,3.07,2.21
+01.05.2021,2020,Peterborough,Lincoln,3,3,2.00,3.48,3.63
+01.05.2021,2020,Plymouth,Sunderland,1,3,6.11,4.16,1.52
+01.05.2021,2020,Rochdale,Doncaster,1,2,1.85,3.66,4.03
+01.05.2021,2020,Shrewsbury,Oxford Utd,2,3,4.46,3.48,1.81
+01.05.2021,2020,Swindon,Ipswich,1,2,3.28,3.34,2.19
+27.04.2021,2020,Burton,Fleetwood,5,2,2.67,3.05,2.76
+27.04.2021,2020,Charlton,Crewe,2,2,1.60,3.94,5.35
+27.04.2021,2020,AFC Wimbledon,Rochdale,3,3,2.05,3.43,3.52
+27.04.2021,2020,Shrewsbury,Lincoln,0,1,4.34,3.33,1.88
+27.04.2021,2020,Accrington,Portsmouth,3,3,3.47,3.54,2.02
+27.04.2021,2020,Peterborough,Doncaster,2,2,1.43,4.48,7.22
+27.04.2021,2020,Sunderland,Blackpool,0,1,2.21,3.10,3.46
+24.04.2021,2020,Blackpool,Shrewsbury,0,1,1.88,3.25,4.52
+24.04.2021,2020,Charlton,Peterborough,0,1,2.93,3.17,2.48
+24.04.2021,2020,Crewe,Rochdale,1,1,2.81,3.25,2.48
+24.04.2021,2020,Doncaster,Fleetwood,0,1,2.81,3.18,2.55
+24.04.2021,2020,Gillingham,Northampton,2,2,2.12,3.24,3.54
+24.04.2021,2020,Ipswich,AFC Wimbledon,0,0,2.96,3.10,2.48
+24.04.2021,2020,Lincoln,Hull,1,2,3.21,3.23,2.28
+24.04.2021,2020,MK Dons,Swindon,5,0,1.59,4.08,5.37
+24.04.2021,2020,Oxford Utd,Plymouth,3,1,1.52,4.27,5.82
+24.04.2021,2020,Portsmouth,Bristol Rovers,1,0,1.55,4.08,5.81
+24.04.2021,2020,Sunderland,Accrington,3,3,1.57,3.98,5.71
+24.04.2021,2020,Wigan,Burton,1,1,2.15,3.29,3.39
+20.04.2021,2020,Accrington,Doncaster,2,1,2.59,3.36,2.66
+20.04.2021,2020,AFC Wimbledon,Oxford Utd,2,1,2.97,3.42,2.32
+20.04.2021,2020,Bristol Rovers,MK Dons,0,2,2.69,3.38,2.53
+20.04.2021,2020,Burton,Lincoln,0,1,3.03,3.29,2.34
+20.04.2021,2020,Fleetwood,Crewe,0,2,2.23,3.29,3.25
+20.04.2021,2020,Hull,Sunderland,2,2,2.17,3.21,3.45
+20.04.2021,2020,Northampton,Ipswich,3,0,3.16,2.98,2.44
+20.04.2021,2020,Peterborough,Gillingham,0,1,1.54,4.14,5.83
+20.04.2021,2020,Plymouth,Charlton,0,6,4.17,3.74,1.80
+20.04.2021,2020,Rochdale,Blackpool,1,0,3.70,3.24,2.07
+20.04.2021,2020,Shrewsbury,Wigan,1,2,2.75,2.87,2.86
+20.04.2021,2020,Swindon,Portsmouth,3,1,4.84,3.81,1.68
+17.04.2021,2020,AFC Wimbledon,Swindon,4,1,1.91,3.46,3.97
+17.04.2021,2020,Blackpool,Sunderland,1,0,2.88,3.04,2.59
+17.04.2021,2020,Bristol Rovers,Lincoln,0,1,3.35,3.36,2.14
+17.04.2021,2020,Burton,Plymouth,1,1,2.04,3.50,3.51
+17.04.2021,2020,Charlton,Ipswich,0,0,2.03,3.26,3.80
+17.04.2021,2020,Hull,Fleetwood,2,1,1.57,3.72,6.31
+17.04.2021,2020,MK Dons,Portsmouth,1,0,3.38,3.32,2.16
+17.04.2021,2020,Oxford Utd,Gillingham,3,2,1.88,3.66,3.89
+17.04.2021,2020,Rochdale,Accrington,3,1,2.58,3.38,2.65
+17.04.2021,2020,Shrewsbury,Doncaster,0,2,2.22,3.21,3.31
+17.04.2021,2020,Wigan,Crewe,2,0,2.25,3.40,3.11
+16.04.2021,2020,Peterborough,Northampton,3,1,1.48,4.07,7.08
+13.04.2021,2020,Lincoln,MK Dons,4,0,2.32,3.46,2.90
+13.04.2021,2020,Rochdale,Swindon,2,1,2.32,3.20,3.11
+13.04.2021,2020,Wigan,Sunderland,2,1,4.39,3.47,1.82
+13.04.2021,2020,Crewe,Portsmouth,0,0,3.16,3.32,2.23
+13.04.2021,2020,Blackpool,Accrington,0,0,1.72,3.75,4.65
+13.04.2021,2020,Doncaster,Burton,0,3,2.42,3.20,2.95
+13.04.2021,2020,Oxford Utd,Shrewsbury,4,1,1.92,3.28,4.17
+13.04.2021,2020,AFC Wimbledon,Ipswich,3,0,2.94,3.01,2.57
+10.04.2021,2020,Accrington,AFC Wimbledon,1,5,2.12,3.40,3.40
+10.04.2021,2020,Crewe,Oxford Utd,0,6,2.39,3.37,2.91
+10.04.2021,2020,Doncaster,Wigan,1,4,2.18,3.31,3.32
+10.04.2021,2020,Fleetwood,Rochdale,1,0,2.03,3.28,3.80
+10.04.2021,2020,Gillingham,Shrewsbury,0,0,2.28,3.14,3.28
+10.04.2021,2020,Ipswich,MK Dons,0,0,2.59,3.14,2.81
+10.04.2021,2020,Lincoln,Blackpool,2,2,2.73,3.23,2.60
+10.04.2021,2020,Northampton,Bristol Rovers,1,1,2.92,3.05,2.57
+10.04.2021,2020,Plymouth,Hull,0,3,5.34,4.07,1.59
+10.04.2021,2020,Portsmouth,Burton,1,2,1.90,3.34,4.24
+10.04.2021,2020,Sunderland,Charlton,1,2,1.88,3.36,4.29
+10.04.2021,2020,Swindon,Peterborough,0,3,4.96,3.59,1.72
+05.04.2021,2020,AFC Wimbledon,Fleetwood,0,1,2.97,3.11,2.46
+05.04.2021,2020,Blackpool,Gillingham,4,1,2.06,3.34,3.59
+05.04.2021,2020,Bristol Rovers,Doncaster,2,1,2.47,3.32,2.80
+05.04.2021,2020,Burton,Swindon,2,1,2.17,3.25,3.40
+05.04.2021,2020,Hull,Northampton,3,0,1.49,3.98,7.04
+05.04.2021,2020,MK Dons,Crewe,0,2,2.39,3.48,2.79
+05.04.2021,2020,Oxford Utd,Accrington,1,2,1.82,3.61,4.22
+05.04.2021,2020,Peterborough,Sunderland,1,1,2.46,3.15,2.94
+05.04.2021,2020,Rochdale,Ipswich,0,0,3.70,3.22,2.08
+05.04.2021,2020,Shrewsbury,Plymouth,3,0,2.34,3.08,3.21
+05.04.2021,2020,Wigan,Portsmouth,0,1,3.83,3.40,1.97
+02.04.2021,2020,Accrington,Burton,0,0,2.72,3.30,2.55
+02.04.2021,2020,Crewe,Hull,1,2,3.19,3.27,2.25
+02.04.2021,2020,Doncaster,Charlton,0,1,2.83,3.27,2.49
+02.04.2021,2020,Fleetwood,Peterborough,0,1,3.59,3.11,2.16
+02.04.2021,2020,Ipswich,Bristol Rovers,2,1,1.90,3.36,4.15
+02.04.2021,2020,Northampton,Shrewsbury,1,0,2.88,2.85,2.73
+02.04.2021,2020,Plymouth,AFC Wimbledon,1,0,2.13,3.34,3.38
+02.04.2021,2020,Portsmouth,Rochdale,2,1,1.62,3.75,5.63
+02.04.2021,2020,Sunderland,Oxford Utd,3,1,1.80,3.57,4.39
+02.04.2021,2020,Swindon,Blackpool,0,2,3.60,3.29,2.08
+31.03.2021,2020,Gillingham,Wigan,1,0,2.03,3.36,3.68
+27.03.2021,2020,AFC Wimbledon,Northampton,1,0,2.66,2.94,2.87
+27.03.2021,2020,Blackpool,Plymouth,2,2,1.73,3.75,4.60
+27.03.2021,2020,Bristol Rovers,Sunderland,0,1,4.29,3.42,1.87
+27.03.2021,2020,Hull,Gillingham,1,1,1.71,3.63,5.02
+27.03.2021,2020,MK Dons,Doncaster,1,0,2.09,3.49,3.40
+27.03.2021,2020,Peterborough,Accrington,7,0,1.67,3.72,5.09
+27.03.2021,2020,Shrewsbury,Portsmouth,1,2,3.58,3.11,2.17
+27.03.2021,2020,Wigan,Ipswich,0,0,3.43,3.12,2.23
+26.03.2021,2020,Oxford Utd,Lincoln,2,1,2.54,3.18,2.81
+23.03.2021,2020,Blackpool,Peterborough,3,1,2.80,3.15,2.58
+23.03.2021,2020,Bristol Rovers,Swindon,0,1,2.02,3.44,3.61
+23.03.2021,2020,Burton,Shrewsbury,1,2,2.29,3.11,3.28
+23.03.2021,2020,Northampton,Oxford Utd,1,0,3.62,3.06,2.18
+20.03.2021,2020,Accrington,Wigan,3,1,2.17,3.28,3.35
+20.03.2021,2020,AFC Wimbledon,Charlton,2,2,4.05,3.46,1.89
+20.03.2021,2020,Burton,MK Dons,1,2,2.93,3.36,2.35
+20.03.2021,2020,Fleetwood,Swindon,0,2,1.65,3.58,5.59
+20.03.2021,2020,Gillingham,Doncaster,2,2,2.25,3.40,3.05
+20.03.2021,2020,Northampton,Crewe,0,1,3.22,3.21,2.26
+20.03.2021,2020,Oxford Utd,Blackpool,0,2,2.44,3.15,2.97
+20.03.2021,2020,Plymouth,Bristol Rovers,2,0,2.31,3.53,2.86
+20.03.2021,2020,Portsmouth,Ipswich,2,1,2.09,3.15,3.76
+20.03.2021,2020,Rochdale,Peterborough,3,3,4.70,3.58,1.75
+20.03.2021,2020,Shrewsbury,Hull,1,1,4.59,3.33,1.83
+20.03.2021,2020,Sunderland,Lincoln,1,1,1.98,3.29,3.94
+17.03.2021,2020,Accrington,Sunderland,0,2,3.83,3.43,1.95
+16.03.2021,2020,Peterborough,Portsmouth,1,0,2.08,3.21,3.67
+16.03.2021,2020,Blackpool,Burton,1,1,2.02,3.20,3.92
+16.03.2021,2020,MK Dons,Plymouth,2,1,1.84,3.77,3.96
+16.03.2021,2020,Fleetwood,Ipswich,2,0,2.49,2.89,3.13
+16.03.2021,2020,Charlton,Bristol Rovers,3,2,2.00,3.45,3.66
+16.03.2021,2020,AFC Wimbledon,Wigan,1,1,2.58,3.23,2.74
+16.03.2021,2020,Lincoln,Gillingham,0,3,2.01,3.40,3.68
+16.03.2021,2020,Oxford Utd,Doncaster,3,0,1.98,3.44,3.75
+13.03.2021,2020,Blackpool,Fleetwood,0,0,2.34,3.13,3.17
+13.03.2021,2020,Bristol Rovers,AFC Wimbledon,0,0,1.97,3.43,3.79
+13.03.2021,2020,Charlton,Shrewsbury,1,1,1.93,3.18,4.36
+13.03.2021,2020,Crewe,Burton,0,3,1.94,3.45,3.92
+13.03.2021,2020,Doncaster,Northampton,0,0,2.11,3.19,3.67
+13.03.2021,2020,Hull,Oxford Utd,2,0,1.86,3.47,4.28
+13.03.2021,2020,Ipswich,Plymouth,1,0,2.04,3.39,3.65
+13.03.2021,2020,Lincoln,Rochdale,1,2,1.56,3.98,5.87
+13.03.2021,2020,MK Dons,Accrington,3,2,2.01,3.53,3.56
+13.03.2021,2020,Swindon,Gillingham,1,3,3.21,3.40,2.18
+09.03.2021,2020,AFC Wimbledon,Burton,0,1,2.70,3.28,2.59
+09.03.2021,2020,Bristol Rovers,Accrington,4,1,2.69,3.37,2.53
+09.03.2021,2020,Charlton,Northampton,2,1,1.95,3.34,3.99
+09.03.2021,2020,Crewe,Doncaster,1,0,2.17,3.46,3.20
+09.03.2021,2020,Fleetwood,Gillingham,1,0,2.22,3.19,3.35
+09.03.2021,2020,Ipswich,Lincoln,1,1,2.74,3.15,2.64
+09.03.2021,2020,MK Dons,Blackpool,0,1,2.66,3.30,2.62
+09.03.2021,2020,Peterborough,Hull,1,3,2.54,3.14,2.86
+09.03.2021,2020,Plymouth,Wigan,0,2,1.95,3.69,3.63
+09.03.2021,2020,Portsmouth,Sunderland,0,2,2.45,3.23,2.91
+09.03.2021,2020,Rochdale,Shrewsbury,0,2,3.41,3.08,2.25
+09.03.2021,2020,Swindon,Oxford Utd,1,2,3.80,3.48,1.96
+06.03.2021,2020,Accrington,Swindon,2,1,1.78,3.57,4.54
+06.03.2021,2020,Blackpool,AFC Wimbledon,1,1,1.69,3.64,5.17
+06.03.2021,2020,Burton,Peterborough,2,1,4.02,3.39,1.93
+06.03.2021,2020,Doncaster,Plymouth,2,1,1.83,3.70,4.13
+06.03.2021,2020,Gillingham,Ipswich,3,1,3.11,3.11,2.40
+06.03.2021,2020,Hull,Bristol Rovers,2,0,1.57,3.96,5.84
+06.03.2021,2020,Lincoln,Crewe,3,0,2.26,3.38,3.09
+06.03.2021,2020,Northampton,Portsmouth,4,1,3.95,3.34,1.97
+06.03.2021,2020,Oxford Utd,Charlton,0,0,2.51,3.15,2.90
+06.03.2021,2020,Shrewsbury,Fleetwood,0,2,2.73,3.01,2.76
+06.03.2021,2020,Sunderland,Rochdale,2,0,1.42,4.50,7.22
+06.03.2021,2020,Wigan,MK Dons,3,0,3.62,3.59,1.98
+02.03.2021,2020,Accrington,Ipswich,1,2,2.49,3.17,2.91
+02.03.2021,2020,Blackpool,Crewe,1,1,2.21,3.26,3.32
+02.03.2021,2020,Burton,Bristol Rovers,1,0,2.33,3.39,2.94
+02.03.2021,2020,Doncaster,Portsmouth,2,1,2.86,3.28,2.46
+02.03.2021,2020,Gillingham,MK Dons,3,2,2.85,3.40,2.40
+02.03.2021,2020,Hull,Rochdale,2,0,1.35,4.79,8.75
+02.03.2021,2020,Lincoln,Fleetwood,1,2,2.08,3.29,3.61
+02.03.2021,2020,Northampton,Plymouth,2,0,2.57,3.35,2.65
+02.03.2021,2020,Oxford Utd,Peterborough,0,0,2.78,3.21,2.57
+02.03.2021,2020,Shrewsbury,AFC Wimbledon,1,1,2.02,3.25,3.90
+02.03.2021,2020,Sunderland,Swindon,1,0,1.47,4.40,6.39
+02.03.2021,2020,Wigan,Charlton,0,1,3.56,3.47,2.03
+27.02.2021,2020,AFC Wimbledon,Hull,0,3,4.61,3.61,1.76
+27.02.2021,2020,Bristol Rovers,Shrewsbury,2,1,3.00,3.22,2.40
+27.02.2021,2020,Charlton,Blackpool,0,3,2.50,3.29,2.80
+27.02.2021,2020,Crewe,Sunderland,2,2,3.13,3.29,2.28
+27.02.2021,2020,Fleetwood,Accrington,1,1,2.68,3.02,2.80
+27.02.2021,2020,Ipswich,Doncaster,2,1,2.45,3.19,2.95
+27.02.2021,2020,MK Dons,Oxford Utd,1,1,2.65,3.43,2.53
+27.02.2021,2020,Peterborough,Wigan,2,1,1.42,4.44,7.48
+27.02.2021,2020,Plymouth,Lincoln,4,3,3.32,3.49,2.11
+27.02.2021,2020,Portsmouth,Gillingham,1,1,1.70,3.67,5.06
+27.02.2021,2020,Rochdale,Burton,0,2,2.96,3.44,2.31
+27.02.2021,2020,Swindon,Northampton,2,1,2.77,3.23,2.56
+23.02.2021,2020,AFC Wimbledon,Gillingham,1,0,2.81,3.35,2.46
+23.02.2021,2020,Bristol Rovers,Wigan,1,2,2.07,3.54,3.38
+23.02.2021,2020,Charlton,Burton,1,2,1.86,3.46,4.27
+23.02.2021,2020,Crewe,Accrington,2,0,2.34,3.44,2.92
+23.02.2021,2020,Hull,Ipswich,0,1,1.80,3.46,4.55
+23.02.2021,2020,Lincoln,Swindon,2,2,1.53,4.06,6.22
+23.02.2021,2020,Northampton,Rochdale,0,0,2.09,3.48,3.40
+23.02.2021,2020,Oxford Utd,Portsmouth,0,1,2.78,3.33,2.49
+23.02.2021,2020,Plymouth,Peterborough,0,3,3.23,3.46,2.16
+23.02.2021,2020,Shrewsbury,MK Dons,4,2,2.77,3.12,2.64
+23.02.2021,2020,Sunderland,Fleetwood,2,0,1.86,3.36,4.43
+20.02.2021,2020,Accrington,Shrewsbury,1,1,2.42,3.14,3.04
+20.02.2021,2020,Burton,Sunderland,0,3,4.08,3.41,1.91
+20.02.2021,2020,Doncaster,Hull,3,3,3.64,3.30,2.07
+20.02.2021,2020,Fleetwood,Charlton,1,1,2.86,3.19,2.51
+20.02.2021,2020,Gillingham,Bristol Rovers,2,0,2.12,3.36,3.42
+20.02.2021,2020,Ipswich,Oxford Utd,0,0,2.90,3.20,2.46
+20.02.2021,2020,MK Dons,Northampton,4,3,1.78,3.57,4.59
+20.02.2021,2020,Peterborough,AFC Wimbledon,3,0,1.67,3.76,5.12
+20.02.2021,2020,Portsmouth,Blackpool,0,1,2.00,3.42,3.69
+20.02.2021,2020,Rochdale,Plymouth,0,0,3.38,3.62,2.05
+20.02.2021,2020,Swindon,Crewe,2,1,3.77,3.55,1.95
+20.02.2021,2020,Wigan,Lincoln,1,2,5.40,3.76,1.64
+17.02.2021,2020,Wigan,Hull,0,5,5.66,3.89,1.59
+17.02.2021,2020,Doncaster,Accrington,0,1,2.38,3.33,2.94
+16.02.2021,2020,Bristol Rovers,Portsmouth,3,1,4.60,3.77,1.72
+16.02.2021,2020,Blackpool,Rochdale,1,0,1.58,3.93,5.71
+16.02.2021,2020,Gillingham,Peterborough,1,3,3.63,3.36,2.04
+16.02.2021,2020,Ipswich,Northampton,0,0,1.81,3.28,4.90
+14.02.2021,2020,Lincoln,Accrington,2,2,1.97,3.55,3.68
+14.02.2021,2020,Oxford Utd,Wigan,2,1,1.69,3.59,5.17
+13.02.2021,2020,Charlton,Gillingham,2,3,1.92,3.49,3.96
+13.02.2021,2020,Hull,MK Dons,0,1,2.03,3.32,3.78
+13.02.2021,2020,Northampton,Burton,0,2,2.75,3.22,2.58
+13.02.2021,2020,Plymouth,Fleetwood,1,0,2.65,3.28,2.64
+13.02.2021,2020,Sunderland,Doncaster,4,1,1.83,3.51,4.32
+09.02.2021,2020,Northampton,Wigan,0,1,2.26,3.31,3.18
+09.02.2021,2020,Rochdale,MK Dons,1,4,4.04,3.81,1.81
+09.02.2021,2020,Fleetwood,Doncaster,3,1,2.51,3.09,2.95
+09.02.2021,2020,Hull,Lincoln,0,0,2.44,3.19,2.95
+09.02.2021,2020,Portsmouth,Swindon,2,0,1.45,4.47,6.77
+09.02.2021,2020,Bristol Rovers,Oxford Utd,0,2,4.20,3.77,1.79
+09.02.2021,2020,Peterborough,Ipswich,2,1,2.30,3.20,3.18
+09.02.2021,2020,Shrewsbury,Sunderland,2,1,3.56,3.10,2.18
+09.02.2021,2020,Accrington,Plymouth,0,1,2.05,3.71,3.28
+06.02.2021,2020,Accrington,Northampton,0,0,1.73,3.78,4.56
+06.02.2021,2020,Burton,Hull,1,0,5.25,3.97,1.62
+06.02.2021,2020,Doncaster,Oxford Utd,3,2,2.85,3.15,2.55
+06.02.2021,2020,Fleetwood,Bristol Rovers,0,0,1.87,3.61,4.02
+06.02.2021,2020,Ipswich,Blackpool,2,0,2.61,3.11,2.81
+06.02.2021,2020,MK Dons,Sunderland,2,2,3.12,3.19,2.35
+06.02.2021,2020,Peterborough,Crewe,2,0,2.19,3.34,3.28
+06.02.2021,2020,Portsmouth,Plymouth,2,2,1.79,3.71,4.29
+06.02.2021,2020,Rochdale,Charlton,0,2,3.96,3.76,1.85
+06.02.2021,2020,Swindon,Shrewsbury,0,1,3.47,3.26,2.15
+06.02.2021,2020,Wigan,AFC Wimbledon,2,3,2.70,3.26,2.60
+05.02.2021,2020,Gillingham,Lincoln,0,3,4.00,3.50,1.90
+02.02.2021,2020,Charlton,Portsmouth,1,3,2.81,3.27,2.53
+02.02.2021,2020,Blackpool,Northampton,2,0,1.76,3.42,5.00
+02.02.2021,2020,Shrewsbury,Crewe,0,1,2.72,3.14,2.66
+02.02.2021,2020,Swindon,Wigan,1,0,2.56,3.24,2.76
+02.02.2021,2020,Accrington,Bristol Rovers,6,1,1.98,3.62,3.57
+30.01.2021,2020,AFC Wimbledon,MK Dons,0,2,3.51,3.37,2.09
+30.01.2021,2020,Bristol Rovers,Rochdale,1,2,1.99,3.71,3.46
+30.01.2021,2020,Crewe,Ipswich,1,1,2.29,3.21,3.21
+30.01.2021,2020,Hull,Swindon,1,0,1.42,4.58,7.10
+30.01.2021,2020,Lincoln,Doncaster,0,1,2.12,3.29,3.50
+30.01.2021,2020,Oxford Utd,Fleetwood,1,0,2.30,3.10,3.30
+30.01.2021,2020,Plymouth,Accrington,2,2,2.17,3.65,3.07
+30.01.2021,2020,Shrewsbury,Peterborough,2,0,3.09,3.11,2.40
+30.01.2021,2020,Sunderland,Gillingham,2,2,1.66,3.68,5.45
+26.01.2021,2020,Accrington,Hull,2,0,3.92,3.70,1.86
+26.01.2021,2020,Doncaster,AFC Wimbledon,2,0,1.90,3.38,4.21
+26.01.2021,2020,Fleetwood,Northampton,0,0,1.80,3.44,4.66
+26.01.2021,2020,Gillingham,Crewe,4,1,2.92,3.43,2.34
+26.01.2021,2020,Ipswich,Sunderland,0,1,3.36,3.07,2.29
+26.01.2021,2020,MK Dons,Charlton,0,1,2.45,3.35,2.83
+26.01.2021,2020,Peterborough,Bristol Rovers,0,0,1.62,4.04,5.07
+26.01.2021,2020,Portsmouth,Lincoln,0,1,2.23,3.26,3.29
+26.01.2021,2020,Rochdale,Oxford Utd,3,4,3.94,3.76,1.85
+26.01.2021,2020,Swindon,Plymouth,0,2,2.71,3.63,2.40
+26.01.2021,2020,Wigan,Blackpool,0,5,3.85,3.52,1.94
+23.01.2021,2020,Charlton,Swindon,2,2,1.73,3.85,4.50
+23.01.2021,2020,Crewe,AFC Wimbledon,1,1,1.71,3.85,4.66
+23.01.2021,2020,Gillingham,Rochdale,2,2,1.89,3.56,3.98
+23.01.2021,2020,Ipswich,Peterborough,0,1,3.39,3.26,2.18
+23.01.2021,2020,Lincoln,Northampton,2,1,1.54,4.16,5.95
+23.01.2021,2020,Oxford Utd,Bristol Rovers,2,0,1.74,3.72,4.60
+23.01.2021,2020,Portsmouth,Hull,0,4,2.40,3.21,3.00
+23.01.2021,2020,Sunderland,Shrewsbury,1,0,1.77,3.38,5.02
+23.01.2021,2020,Wigan,Fleetwood,0,0,3.52,3.53,2.02
+19.01.2021,2020,Crewe,Bristol Rovers,3,2,1.64,4.05,4.97
+19.01.2021,2020,Doncaster,Rochdale,1,0,1.74,3.89,4.37
+19.01.2021,2020,MK Dons,Fleetwood,3,1,2.36,3.23,3.06
+19.01.2021,2020,Portsmouth,AFC Wimbledon,4,0,1.53,4.12,6.16
+19.01.2021,2020,Sunderland,Plymouth,1,2,1.67,3.76,5.15
+19.01.2021,2020,Peterborough,Charlton,2,1,2.14,3.34,3.39
+19.01.2021,2020,Hull,Accrington,3,0,1.83,3.55,4.29
+16.01.2021,2020,Accrington,Gillingham,0,1,1.87,3.57,4.09
+16.01.2021,2020,AFC Wimbledon,Sunderland,0,3,4.25,3.41,1.88
+16.01.2021,2020,Bristol Rovers,Charlton,0,1,3.20,3.63,2.12
+16.01.2021,2020,Burton,Ipswich,0,1,3.38,3.37,2.14
+16.01.2021,2020,Fleetwood,Portsmouth,0,1,3.22,3.26,2.26
+16.01.2021,2020,Hull,Blackpool,1,1,2.09,3.31,3.62
+16.01.2021,2020,Peterborough,MK Dons,3,0,2.23,3.42,3.13
+16.01.2021,2020,Plymouth,Crewe,1,1,3.04,3.66,2.18
+16.01.2021,2020,Rochdale,Wigan,3,3,2.33,3.37,2.99
+16.01.2021,2020,Swindon,Doncaster,1,2,2.98,3.34,2.35
+12.01.2021,2020,Charlton,Rochdale,4,4,1.72,3.76,4.62
+09.01.2021,2020,Gillingham,Burton,0,1,2.28,3.46,3.00
+09.01.2021,2020,Ipswich,Swindon,2,3,2.02,3.49,3.59
+09.01.2021,2020,Lincoln,Peterborough,1,1,2.65,3.34,2.61
+09.01.2021,2020,Rochdale,Crewe,3,3,4.77,3.67,1.73
+09.01.2021,2020,Sunderland,Hull,1,1,2.34,3.21,3.11
+08.01.2021,2020,Charlton,Accrington,0,2,2.32,3.44,2.95
+02.01.2021,2020,AFC Wimbledon,Lincoln,1,2,4.48,3.72,1.76
+02.01.2021,2020,Bristol Rovers,Blackpool,2,1,3.55,3.53,2.02
+02.01.2021,2020,Burton,Oxford Utd,1,5,3.40,3.52,2.08
+02.01.2021,2020,Hull,Charlton,2,0,2.10,3.39,3.45
+02.01.2021,2020,Northampton,Sunderland,0,0,5.44,3.65,1.65
+02.01.2021,2020,Plymouth,Gillingham,1,0,1.97,3.64,3.59
+29.12.2020,2020,Burton,Wigan,3,4,2.07,3.42,3.50
+29.12.2020,2020,Northampton,Gillingham,3,1,2.70,3.21,2.64
+29.12.2020,2020,Plymouth,Oxford Utd,2,3,2.40,3.45,2.83
+29.12.2020,2020,Shrewsbury,Blackpool,1,0,2.99,3.12,2.47
+29.12.2020,2020,Swindon,MK Dons,1,4,3.38,3.23,2.20
+26.12.2020,2020,Charlton,Plymouth,2,2,1.95,3.75,3.51
+26.12.2020,2020,Crewe,Fleetwood,1,1,2.32,3.27,3.08
+26.12.2020,2020,Lincoln,Burton,5,1,1.72,3.78,4.65
+26.12.2020,2020,MK Dons,Bristol Rovers,2,0,1.83,3.65,4.15
+26.12.2020,2020,Oxford Utd,AFC Wimbledon,2,0,1.69,3.73,4.91
+26.12.2020,2020,Wigan,Shrewsbury,1,1,3.28,3.20,2.26
+22.12.2020,2020,Doncaster,Shrewsbury,0,1,2.12,3.39,3.40
+19.12.2020,2020,Accrington,Blackpool,0,0,3.38,3.44,2.11
+19.12.2020,2020,AFC Wimbledon,Crewe,1,2,3.73,3.55,1.95
+19.12.2020,2020,Burton,Doncaster,1,3,3.22,3.42,2.19
+19.12.2020,2020,Fleetwood,Wigan,1,1,1.57,3.96,5.79
+19.12.2020,2020,Northampton,Lincoln,0,4,4.42,3.57,1.80
+19.12.2020,2020,Plymouth,MK Dons,1,0,2.93,3.68,2.24
+19.12.2020,2020,Rochdale,Gillingham,1,4,2.59,3.30,2.70
+19.12.2020,2020,Swindon,Charlton,2,2,3.34,3.48,2.12
+18.12.2020,2020,Hull,Portsmouth,0,2,2.62,3.26,2.67
+15.12.2020,2020,Blackpool,Hull,3,2,2.29,3.31,3.10
+15.12.2020,2020,Crewe,Plymouth,2,1,1.70,4.09,4.35
+15.12.2020,2020,Doncaster,Swindon,2,1,1.64,3.93,5.06
+15.12.2020,2020,Gillingham,Accrington,0,2,3.07,3.40,2.26
+15.12.2020,2020,Ipswich,Burton,2,1,2.15,3.44,3.31
+15.12.2020,2020,Lincoln,Shrewsbury,0,1,2.05,3.30,3.73
+15.12.2020,2020,MK Dons,Peterborough,1,1,2.38,3.31,2.96
+15.12.2020,2020,Oxford Utd,Northampton,4,0,1.58,4.05,5.47
+15.12.2020,2020,Portsmouth,Fleetwood,0,0,1.83,3.60,4.26
+15.12.2020,2020,Sunderland,AFC Wimbledon,1,1,1.61,3.81,5.56
+15.12.2020,2020,Wigan,Rochdale,0,5,2.56,3.27,2.75
+12.12.2020,2020,Blackpool,Oxford Utd,0,0,2.06,3.36,3.59
+12.12.2020,2020,Bristol Rovers,Plymouth,3,0,2.51,3.44,2.69
+12.12.2020,2020,Charlton,AFC Wimbledon,5,2,1.96,3.44,3.86
+12.12.2020,2020,Crewe,Northampton,2,1,1.57,4.12,5.49
+12.12.2020,2020,Doncaster,Gillingham,2,1,1.90,3.42,4.15
+12.12.2020,2020,Hull,Shrewsbury,0,1,1.63,3.86,5.27
+12.12.2020,2020,Ipswich,Portsmouth,0,2,3.66,3.44,2.01
+12.12.2020,2020,Lincoln,Sunderland,0,4,2.92,3.12,2.52
+12.12.2020,2020,MK Dons,Burton,1,1,1.79,3.71,4.27
+12.12.2020,2020,Peterborough,Rochdale,4,1,1.60,4.03,5.30
+12.12.2020,2020,Swindon,Fleetwood,0,1,3.75,3.52,1.97
+12.12.2020,2020,Wigan,Accrington,4,3,4.13,3.51,1.87
+05.12.2020,2020,Accrington,MK Dons,2,1,2.80,3.23,2.53
+05.12.2020,2020,AFC Wimbledon,Bristol Rovers,2,4,2.51,3.28,2.81
+05.12.2020,2020,Burton,Crewe,1,1,3.38,3.56,2.07
+05.12.2020,2020,Fleetwood,Blackpool,0,1,2.73,3.12,2.66
+05.12.2020,2020,Gillingham,Swindon,2,0,2.12,3.55,3.27
+05.12.2020,2020,Northampton,Doncaster,0,2,3.60,3.30,2.08
+05.12.2020,2020,Oxford Utd,Hull,1,1,3.11,3.44,2.22
+05.12.2020,2020,Plymouth,Ipswich,1,2,2.23,3.37,3.16
+05.12.2020,2020,Portsmouth,Peterborough,2,0,2.04,3.48,3.53
+05.12.2020,2020,Rochdale,Lincoln,0,2,3.60,3.39,2.05
+05.12.2020,2020,Shrewsbury,Charlton,1,1,2.82,3.25,2.50
+05.12.2020,2020,Sunderland,Wigan,0,1,1.39,4.56,8.31
+02.12.2020,2020,AFC Wimbledon,Peterborough,2,1,3.74,3.45,1.99
+02.12.2020,2020,Bristol Rovers,Gillingham,0,2,2.36,3.28,3.03
+02.12.2020,2020,Charlton,MK Dons,0,1,2.56,3.20,2.81
+02.12.2020,2020,Hull,Doncaster,2,1,2.30,3.23,3.14
+02.12.2020,2020,Shrewsbury,Accrington,2,2,2.60,3.32,2.65
+01.12.2020,2020,Blackpool,Portsmouth,1,0,2.83,3.21,2.53
+01.12.2020,2020,Crewe,Swindon,4,2,1.85,3.72,4.02
+01.12.2020,2020,Lincoln,Wigan,2,1,1.54,4.08,5.90
+01.12.2020,2020,Northampton,Fleetwood,1,0,4.05,3.50,1.90
+01.12.2020,2020,Oxford Utd,Ipswich,0,0,2.08,3.40,3.50
+01.12.2020,2020,Plymouth,Rochdale,0,4,1.95,3.82,3.49
+01.12.2020,2020,Sunderland,Burton,1,1,1.60,3.95,5.52
+28.11.2020,2020,Oxford Utd,Swindon,1,2,2.01,3.52,3.57
+28.11.2020,2020,Ipswich,Charlton,0,2,2.89,3.17,2.51
+27.11.2020,2020,Fleetwood,Sunderland,1,1,2.87,3.08,2.57
+24.11.2020,2020,Accrington,Crewe,1,0,3.03,3.41,2.28
+24.11.2020,2020,Burton,Charlton,4,2,3.61,3.39,2.06
+24.11.2020,2020,Doncaster,Blackpool,3,2,2.31,3.26,3.10
+24.11.2020,2020,Gillingham,AFC Wimbledon,2,1,2.53,3.21,2.82
+24.11.2020,2020,Ipswich,Hull,0,3,3.17,3.23,2.30
+24.11.2020,2020,MK Dons,Shrewsbury,2,2,2.00,3.40,3.77
+24.11.2020,2020,Peterborough,Plymouth,1,0,1.85,3.89,3.82
+24.11.2020,2020,Portsmouth,Oxford Utd,1,1,1.95,3.57,3.72
+24.11.2020,2020,Rochdale,Northampton,1,1,2.32,3.47,2.93
+24.11.2020,2020,Swindon,Lincoln,0,1,3.73,3.54,1.96
+24.11.2020,2020,Wigan,Bristol Rovers,0,0,2.96,3.17,2.46
+21.11.2020,2020,Accrington,Lincoln,0,0,2.84,3.31,2.46
+21.11.2020,2020,Burton,Northampton,1,3,2.09,3.48,3.39
+21.11.2020,2020,Doncaster,Sunderland,1,1,2.98,3.24,2.40
+21.11.2020,2020,Fleetwood,Plymouth,5,1,2.24,3.41,3.11
+21.11.2020,2020,Gillingham,Charlton,1,1,3.54,3.39,2.07
+21.11.2020,2020,Ipswich,Shrewsbury,2,1,2.14,3.33,3.39
+21.11.2020,2020,MK Dons,Hull,1,3,2.82,3.20,2.53
+21.11.2020,2020,Peterborough,Blackpool,1,2,2.22,3.25,3.29
+21.11.2020,2020,Portsmouth,Crewe,4,1,2.16,3.45,3.26
+21.11.2020,2020,Rochdale,AFC Wimbledon,0,1,2.48,3.30,2.83
+21.11.2020,2020,Swindon,Bristol Rovers,1,0,2.30,3.33,3.08
+21.11.2020,2020,Wigan,Oxford Utd,1,2,3.77,3.51,1.96
+17.11.2020,2020,Swindon,Accrington,0,3,2.43,3.38,2.83
+17.11.2020,2020,Oxford Utd,Crewe,0,2,2.35,3.35,2.95
+16.11.2020,2020,Plymouth,Portsmouth,2,2,3.34,3.69,2.03
+14.11.2020,2020,Bristol Rovers,Fleetwood,1,4,3.30,3.29,2.21
+14.11.2020,2020,Crewe,Peterborough,2,0,3.04,3.55,2.21
+14.11.2020,2020,Hull,Burton,2,0,1.49,4.35,6.16
+14.11.2020,2020,Northampton,Accrington,0,1,2.63,3.20,2.73
+14.11.2020,2020,Shrewsbury,Swindon,3,3,2.19,3.30,3.31
+14.11.2020,2020,Sunderland,MK Dons,1,2,1.74,3.57,4.84
+03.11.2020,2020,AFC Wimbledon,Doncaster,2,2,3.44,3.44,2.08
+03.11.2020,2020,Blackpool,Wigan,1,0,1.55,4.01,6.00
+03.11.2020,2020,Bristol Rovers,Peterborough,0,2,4.26,3.62,1.82
+03.11.2020,2020,Charlton,Fleetwood,3,2,2.57,3.11,2.85
+03.11.2020,2020,Crewe,Gillingham,0,1,1.89,3.60,3.95
+03.11.2020,2020,Lincoln,Portsmouth,1,3,2.91,3.44,2.34
+03.11.2020,2020,Northampton,MK Dons,0,0,3.89,3.49,1.94
+03.11.2020,2020,Oxford Utd,Rochdale,3,1,1.76,3.73,4.47
+03.11.2020,2020,Plymouth,Swindon,4,2,2.01,3.68,3.44
+03.11.2020,2020,Shrewsbury,Burton,1,1,2.35,3.19,3.11
+03.11.2020,2020,Sunderland,Ipswich,2,1,1.81,3.47,4.51
+31.10.2020,2020,Burton,Blackpool,1,2,2.84,3.33,2.44
+31.10.2020,2020,Doncaster,Lincoln,1,0,2.53,3.23,2.80
+31.10.2020,2020,Fleetwood,Oxford Utd,2,0,2.43,3.23,2.93
+31.10.2020,2020,Gillingham,Sunderland,0,2,5.09,3.59,1.71
+31.10.2020,2020,Ipswich,Crewe,1,0,2.17,3.44,3.25
+31.10.2020,2020,MK Dons,AFC Wimbledon,1,1,1.87,3.50,4.15
+31.10.2020,2020,Peterborough,Shrewsbury,5,1,1.69,3.63,5.25
+31.10.2020,2020,Portsmouth,Charlton,0,2,1.73,3.69,4.69
+31.10.2020,2020,Rochdale,Bristol Rovers,1,1,2.61,3.29,2.68
+31.10.2020,2020,Swindon,Hull,2,1,3.69,3.70,1.93
+31.10.2020,2020,Wigan,Northampton,2,3,2.88,3.29,2.45
+27.10.2020,2020,AFC Wimbledon,Blackpool,1,0,3.22,3.06,2.35
+27.10.2020,2020,Bristol Rovers,Hull,1,3,3.73,3.34,2.02
+27.10.2020,2020,Charlton,Oxford Utd,2,0,2.75,3.32,2.52
+27.10.2020,2020,Crewe,Lincoln,0,1,2.80,3.30,2.49
+27.10.2020,2020,Fleetwood,Shrewsbury,1,0,2.23,3.28,3.24
+27.10.2020,2020,Ipswich,Gillingham,1,0,1.82,3.49,4.40
+27.10.2020,2020,MK Dons,Wigan,2,0,1.73,3.72,4.60
+27.10.2020,2020,Peterborough,Burton,2,2,1.62,3.95,5.20
+27.10.2020,2020,Plymouth,Doncaster,2,1,3.18,3.45,2.19
+27.10.2020,2020,Portsmouth,Northampton,4,0,1.38,4.82,7.84
+27.10.2020,2020,Rochdale,Sunderland,2,2,5.69,3.82,1.61
+24.10.2020,2020,Blackpool,MK Dons,1,0,2.50,3.22,2.85
+24.10.2020,2020,Burton,AFC Wimbledon,1,1,2.67,3.30,2.59
+24.10.2020,2020,Doncaster,Crewe,1,2,1.91,3.54,3.94
+24.10.2020,2020,Gillingham,Fleetwood,0,2,3.17,3.27,2.28
+24.10.2020,2020,Hull,Peterborough,1,2,2.85,3.33,2.43
+24.10.2020,2020,Lincoln,Ipswich,1,0,2.31,3.22,3.13
+24.10.2020,2020,Northampton,Charlton,0,2,3.28,3.35,2.18
+24.10.2020,2020,Shrewsbury,Rochdale,1,2,2.00,3.38,3.78
+24.10.2020,2020,Sunderland,Portsmouth,1,3,2.10,3.15,3.76
+24.10.2020,2020,Wigan,Plymouth,1,1,2.31,3.47,2.94
+20.10.2020,2020,Accrington,Fleetwood,1,0,2.82,3.22,2.53
+20.10.2020,2020,Blackpool,Charlton,0,1,2.09,3.35,3.53
+20.10.2020,2020,Burton,Rochdale,0,1,2.11,3.42,3.39
+20.10.2020,2020,Doncaster,Ipswich,4,1,2.43,3.17,2.99
+20.10.2020,2020,Gillingham,Portsmouth,0,2,4.51,3.68,1.76
+20.10.2020,2020,Hull,AFC Wimbledon,1,0,1.79,3.64,4.43
+20.10.2020,2020,Lincoln,Plymouth,2,0,2.08,3.39,3.51
+20.10.2020,2020,Northampton,Swindon,2,1,3.07,3.28,2.32
+20.10.2020,2020,Oxford Utd,MK Dons,3,2,2.47,3.31,2.81
+20.10.2020,2020,Shrewsbury,Bristol Rovers,0,1,2.38,3.09,3.14
+20.10.2020,2020,Sunderland,Crewe,1,0,1.78,3.59,4.53
+20.10.2020,2020,Wigan,Peterborough,0,1,3.93,3.47,1.93
+17.10.2020,2020,AFC Wimbledon,Shrewsbury,0,1,2.81,3.06,2.64
+17.10.2020,2020,Bristol Rovers,Burton,1,1,2.27,3.36,3.08
+17.10.2020,2020,Charlton,Wigan,1,0,2.08,3.49,3.40
+17.10.2020,2020,Crewe,Blackpool,1,1,2.44,3.39,2.80
+17.10.2020,2020,Fleetwood,Lincoln,0,0,2.32,3.37,3.00
+17.10.2020,2020,Ipswich,Accrington,2,0,1.85,3.54,4.22
+17.10.2020,2020,MK Dons,Gillingham,2,0,1.92,3.50,3.94
+17.10.2020,2020,Peterborough,Oxford Utd,2,0,1.93,3.69,3.68
+17.10.2020,2020,Plymouth,Northampton,2,1,1.73,3.93,4.36
+17.10.2020,2020,Portsmouth,Doncaster,0,1,2.04,3.44,3.59
+17.10.2020,2020,Rochdale,Hull,0,3,4.03,3.68,1.85
+17.10.2020,2020,Swindon,Sunderland,0,2,4.51,3.62,1.78
+10.10.2020,2020,Blackpool,Ipswich,1,4,2.39,3.26,2.97
+10.10.2020,2020,Accrington,Rochdale,2,1,2.15,3.34,3.35
+10.10.2020,2020,Crewe,Wigan,3,0,2.06,3.61,3.37
+10.10.2020,2020,Gillingham,Oxford Utd,3,1,3.02,3.34,2.32
+10.10.2020,2020,Lincoln,Bristol Rovers,1,2,1.74,3.68,4.66
+10.10.2020,2020,Northampton,Peterborough,0,2,4.87,3.76,1.69
+10.10.2020,2020,Plymouth,Burton,2,0,1.95,3.81,3.49
+10.10.2020,2020,Portsmouth,MK Dons,2,1,1.64,3.86,5.20
+10.10.2020,2020,Swindon,AFC Wimbledon,0,1,2.27,3.39,3.06
+09.10.2020,2020,Fleetwood,Hull,4,1,3.03,3.42,2.27
+03.10.2020,2020,AFC Wimbledon,Accrington,1,2,2.38,3.33,2.93
+03.10.2020,2020,Blackpool,Lincoln,2,3,2.10,3.33,3.50
+03.10.2020,2020,Bristol Rovers,Northampton,2,0,2.78,3.21,2.54
+03.10.2020,2020,Burton,Portsmouth,2,4,3.79,3.55,1.94
+03.10.2020,2020,Charlton,Sunderland,0,0,3.55,3.40,2.06
+03.10.2020,2020,Hull,Plymouth,1,0,1.84,3.78,3.96
+03.10.2020,2020,MK Dons,Ipswich,1,1,3.47,3.31,2.12
+03.10.2020,2020,Peterborough,Swindon,3,1,1.82,3.69,4.13
+03.10.2020,2020,Rochdale,Fleetwood,2,1,3.93,3.64,1.88
+03.10.2020,2020,Shrewsbury,Gillingham,1,1,2.21,3.28,3.31
+03.10.2020,2020,Wigan,Doncaster,1,0,3.04,3.42,2.27
+27.09.2020,2020,Lincoln,Charlton,2,0,2.41,3.22,2.96
+26.09.2020,2020,Accrington,Oxford Utd,1,4,2.78,3.23,2.55
+26.09.2020,2020,Crewe,MK Dons,2,0,2.42,3.38,2.84
+26.09.2020,2020,Doncaster,Bristol Rovers,4,1,1.77,3.61,4.53
+26.09.2020,2020,Fleetwood,AFC Wimbledon,0,1,1.78,3.73,4.30
+26.09.2020,2020,Gillingham,Blackpool,2,0,3.53,3.40,2.06
+26.09.2020,2020,Ipswich,Rochdale,2,0,1.46,4.30,6.93
+26.09.2020,2020,Northampton,Hull,0,2,3.43,3.56,2.05
+26.09.2020,2020,Plymouth,Shrewsbury,1,1,2.44,3.37,2.81
+26.09.2020,2020,Portsmouth,Wigan,1,2,1.61,3.96,5.29
+26.09.2020,2020,Sunderland,Peterborough,1,0,2.04,3.23,3.82
+26.09.2020,2020,Swindon,Burton,4,2,2.22,3.44,3.10
+20.09.2020,2020,Rochdale,Portsmouth,0,0,4.85,3.85,1.68
+19.09.2020,2020,AFC Wimbledon,Plymouth,4,4,2.58,3.34,2.67
+19.09.2020,2020,Blackpool,Swindon,2,0,2.09,3.32,3.55
+19.09.2020,2020,Bristol Rovers,Ipswich,0,2,3.50,3.27,2.12
+19.09.2020,2020,Burton,Accrington,2,1,2.40,3.34,2.90
+19.09.2020,2020,Charlton,Doncaster,1,3,2.40,3.41,2.85
+19.09.2020,2020,Hull,Crewe,1,0,1.92,3.64,3.76
+19.09.2020,2020,MK Dons,Lincoln,1,2,2.46,3.23,2.90
+19.09.2020,2020,Oxford Utd,Sunderland,0,2,3.16,3.19,2.32
+19.09.2020,2020,Peterborough,Fleetwood,2,1,2.29,3.30,3.10
+19.09.2020,2020,Shrewsbury,Northampton,1,2,1.90,3.51,3.99
+19.09.2020,2020,Wigan,Gillingham,2,3,2.30,3.35,3.05
+13.09.2020,2020,Ipswich,Wigan,2,0,1.72,3.69,4.78
+12.09.2020,2020,Accrington,Peterborough,2,0,3.34,3.54,2.08
+12.09.2020,2020,Crewe,Charlton,0,2,2.63,3.39,2.58
+12.09.2020,2020,Doncaster,MK Dons,1,1,2.09,3.24,3.64
+12.09.2020,2020,Fleetwood,Burton,2,1,1.97,3.46,3.77
+12.09.2020,2020,Gillingham,Hull,0,2,2.54,3.29,2.73
+12.09.2020,2020,Lincoln,Oxford Utd,2,0,2.95,3.19,2.43
+12.09.2020,2020,Northampton,AFC Wimbledon,2,2,2.31,3.31,3.05
+12.09.2020,2020,Plymouth,Blackpool,1,0,2.79,3.45,2.42
+12.09.2020,2020,Portsmouth,Shrewsbury,0,0,1.80,3.40,4.66
+12.09.2020,2020,Sunderland,Bristol Rovers,1,1,1.62,3.72,5.70
+12.09.2020,2020,Swindon,Rochdale,3,1,1.95,3.56,3.72

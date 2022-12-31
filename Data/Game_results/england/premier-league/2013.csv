@@ -1,381 +1,381 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-11.05.2014,2013,Cardiff,Chelsea,1,2
-11.05.2014,2013,Fulham,Crystal Palace,2,2
-11.05.2014,2013,Hull,Everton,0,2
-11.05.2014,2013,Liverpool,Newcastle,2,1
-11.05.2014,2013,Manchester City,West Ham,2,0
-11.05.2014,2013,Norwich,Arsenal,0,2
-11.05.2014,2013,Southampton,Manchester Utd,1,1
-11.05.2014,2013,Sunderland,Swansea,1,3
-11.05.2014,2013,Tottenham,Aston Villa,3,0
-11.05.2014,2013,West Brom,Stoke,1,2
-07.05.2014,2013,Manchester City,Aston Villa,4,0
-07.05.2014,2013,Sunderland,West Brom,2,0
-06.05.2014,2013,Manchester Utd,Hull,3,1
-05.05.2014,2013,Crystal Palace,Liverpool,3,3
-04.05.2014,2013,Arsenal,West Brom,1,0
-04.05.2014,2013,Chelsea,Norwich,0,0
-03.05.2014,2013,Aston Villa,Hull,3,1
-03.05.2014,2013,Everton,Manchester City,2,3
-03.05.2014,2013,Manchester Utd,Sunderland,0,1
-03.05.2014,2013,Newcastle,Cardiff,3,0
-03.05.2014,2013,Stoke,Fulham,4,1
-03.05.2014,2013,Swansea,Southampton,0,1
-03.05.2014,2013,West Ham,Tottenham,2,0
-28.04.2014,2013,Arsenal,Newcastle,3,0
-27.04.2014,2013,Crystal Palace,Manchester City,0,2
-27.04.2014,2013,Liverpool,Chelsea,0,2
-27.04.2014,2013,Sunderland,Cardiff,4,0
-26.04.2014,2013,Fulham,Hull,2,2
-26.04.2014,2013,Manchester Utd,Norwich,4,0
-26.04.2014,2013,Southampton,Everton,2,0
-26.04.2014,2013,Stoke,Tottenham,0,1
-26.04.2014,2013,Swansea,Aston Villa,4,1
-26.04.2014,2013,West Brom,West Ham,1,0
-21.04.2014,2013,Manchester City,West Brom,3,1
-20.04.2014,2013,Everton,Manchester Utd,2,0
-20.04.2014,2013,Hull,Arsenal,0,3
-20.04.2014,2013,Norwich,Liverpool,2,3
-19.04.2014,2013,Aston Villa,Southampton,0,0
-19.04.2014,2013,Cardiff,Stoke,1,1
-19.04.2014,2013,Chelsea,Sunderland,1,2
-19.04.2014,2013,Newcastle,Swansea,1,2
-19.04.2014,2013,Tottenham,Fulham,3,1
-19.04.2014,2013,West Ham,Crystal Palace,0,1
-16.04.2014,2013,Everton,Crystal Palace,2,3
-16.04.2014,2013,Manchester City,Sunderland,2,2
-15.04.2014,2013,Arsenal,West Ham,3,1
-13.04.2014,2013,Liverpool,Manchester City,3,2
-13.04.2014,2013,Swansea,Chelsea,0,1
-12.04.2014,2013,Crystal Palace,Aston Villa,1,0
-12.04.2014,2013,Fulham,Norwich,1,0
-12.04.2014,2013,Southampton,Cardiff,0,1
-12.04.2014,2013,Stoke,Newcastle,1,0
-12.04.2014,2013,Sunderland,Everton,0,1
-12.04.2014,2013,West Brom,Tottenham,3,3
-07.04.2014,2013,Tottenham,Sunderland,5,1
-06.04.2014,2013,Everton,Arsenal,3,0
-06.04.2014,2013,West Ham,Liverpool,1,2
-05.04.2014,2013,Aston Villa,Fulham,1,2
-05.04.2014,2013,Cardiff,Crystal Palace,0,3
-05.04.2014,2013,Chelsea,Stoke,3,0
-05.04.2014,2013,Hull,Swansea,1,0
-05.04.2014,2013,Manchester City,Southampton,4,1
-05.04.2014,2013,Newcastle,Manchester Utd,0,4
-05.04.2014,2013,Norwich,West Brom,0,1
-31.03.2014,2013,Sunderland,West Ham,1,2
-30.03.2014,2013,Fulham,Everton,1,3
-30.03.2014,2013,Liverpool,Tottenham,4,0
-29.03.2014,2013,Arsenal,Manchester City,1,1
-29.03.2014,2013,Crystal Palace,Chelsea,1,0
-29.03.2014,2013,Manchester Utd,Aston Villa,4,1
-29.03.2014,2013,Southampton,Newcastle,4,0
-29.03.2014,2013,Stoke,Hull,1,0
-29.03.2014,2013,Swansea,Norwich,3,0
-29.03.2014,2013,West Brom,Cardiff,3,3
-26.03.2014,2013,Liverpool,Sunderland,2,1
-26.03.2014,2013,West Ham,Hull,2,1
-25.03.2014,2013,Arsenal,Swansea,2,2
-25.03.2014,2013,Newcastle,Everton,0,3
-25.03.2014,2013,Manchester Utd,Manchester City,0,3
-23.03.2014,2013,Aston Villa,Stoke,1,4
-23.03.2014,2013,Tottenham,Southampton,3,2
-22.03.2014,2013,Cardiff,Liverpool,3,6
-22.03.2014,2013,Chelsea,Arsenal,6,0
-22.03.2014,2013,Everton,Swansea,3,2
-22.03.2014,2013,Hull,West Brom,2,0
-22.03.2014,2013,Manchester City,Fulham,5,0
-22.03.2014,2013,Newcastle,Crystal Palace,1,0
-22.03.2014,2013,Norwich,Sunderland,2,0
-22.03.2014,2013,West Ham,Manchester Utd,0,2
-16.03.2014,2013,Manchester Utd,Liverpool,0,3
-16.03.2014,2013,Tottenham,Arsenal,0,1
-15.03.2014,2013,Aston Villa,Chelsea,1,0
-15.03.2014,2013,Everton,Cardiff,2,1
-15.03.2014,2013,Fulham,Newcastle,1,0
-15.03.2014,2013,Hull,Manchester City,0,2
-15.03.2014,2013,Southampton,Norwich,4,2
-15.03.2014,2013,Stoke,West Ham,3,1
-15.03.2014,2013,Sunderland,Crystal Palace,0,0
-15.03.2014,2013,Swansea,West Brom,1,2
-08.03.2014,2013,Cardiff,Fulham,3,1
-08.03.2014,2013,Chelsea,Tottenham,4,0
-08.03.2014,2013,Crystal Palace,Southampton,0,1
-08.03.2014,2013,Norwich,Stoke,1,1
-08.03.2014,2013,West Brom,Manchester Utd,0,3
-02.03.2014,2013,Aston Villa,Norwich,4,1
-02.03.2014,2013,Swansea,Crystal Palace,1,1
-02.03.2014,2013,Tottenham,Cardiff,1,0
-01.03.2014,2013,Everton,West Ham,1,0
-01.03.2014,2013,Fulham,Chelsea,1,3
-01.03.2014,2013,Hull,Newcastle,1,4
-01.03.2014,2013,Southampton,Liverpool,0,3
-01.03.2014,2013,Stoke,Arsenal,1,0
-23.02.2014,2013,Liverpool,Swansea,4,3
-23.02.2014,2013,Newcastle,Aston Villa,1,0
-23.02.2014,2013,Norwich,Tottenham,1,0
-22.02.2014,2013,Arsenal,Sunderland,4,1
-22.02.2014,2013,Cardiff,Hull,0,4
-22.02.2014,2013,Chelsea,Everton,1,0
-22.02.2014,2013,Crystal Palace,Manchester Utd,0,2
-22.02.2014,2013,Manchester City,Stoke,1,0
-22.02.2014,2013,West Brom,Fulham,1,1
-22.02.2014,2013,West Ham,Southampton,3,1
-12.02.2014,2013,Arsenal,Manchester Utd,0,0
-12.02.2014,2013,Fulham,Liverpool,2,3
-12.02.2014,2013,Newcastle,Tottenham,0,4
-12.02.2014,2013,Stoke,Swansea,1,1
-11.02.2014,2013,Cardiff,Aston Villa,0,0
-11.02.2014,2013,Hull,Southampton,0,1
-11.02.2014,2013,West Brom,Chelsea,1,1
-11.02.2014,2013,West Ham,Norwich,2,0
-09.02.2014,2013,Manchester Utd,Fulham,2,2
-09.02.2014,2013,Tottenham,Everton,1,0
-08.02.2014,2013,Aston Villa,West Ham,0,2
-08.02.2014,2013,Chelsea,Newcastle,3,0
-08.02.2014,2013,Crystal Palace,West Brom,3,1
-08.02.2014,2013,Liverpool,Arsenal,5,1
-08.02.2014,2013,Norwich,Manchester City,0,0
-08.02.2014,2013,Southampton,Stoke,2,2
-08.02.2014,2013,Sunderland,Hull,0,2
-08.02.2014,2013,Swansea,Cardiff,3,0
-03.02.2014,2013,Manchester City,Chelsea,0,1
-02.02.2014,2013,Arsenal,Crystal Palace,2,0
-02.02.2014,2013,West Brom,Liverpool,1,1
-01.02.2014,2013,Cardiff,Norwich,2,1
-01.02.2014,2013,Everton,Aston Villa,2,1
-01.02.2014,2013,Fulham,Southampton,0,3
-01.02.2014,2013,Hull,Tottenham,1,1
-01.02.2014,2013,Newcastle,Sunderland,0,3
-01.02.2014,2013,Stoke,Manchester Utd,2,1
-01.02.2014,2013,West Ham,Swansea,2,0
-29.01.2014,2013,Aston Villa,West Brom,4,3
-29.01.2014,2013,Chelsea,West Ham,0,0
-29.01.2014,2013,Sunderland,Stoke,1,0
-29.01.2014,2013,Tottenham,Manchester City,1,5
-28.01.2014,2013,Crystal Palace,Hull,1,0
-28.01.2014,2013,Liverpool,Everton,4,0
-28.01.2014,2013,Manchester Utd,Cardiff,2,0
-28.01.2014,2013,Norwich,Newcastle,0,0
-28.01.2014,2013,Southampton,Arsenal,2,2
-28.01.2014,2013,Swansea,Fulham,2,0
-20.01.2014,2013,West Brom,Everton,1,1
-19.01.2014,2013,Chelsea,Manchester Utd,3,1
-19.01.2014,2013,Swansea,Tottenham,1,3
-18.01.2014,2013,Arsenal,Fulham,2,0
-18.01.2014,2013,Crystal Palace,Stoke,1,0
-18.01.2014,2013,Liverpool,Aston Villa,2,2
-18.01.2014,2013,Manchester City,Cardiff,4,2
-18.01.2014,2013,Norwich,Hull,1,0
-18.01.2014,2013,Sunderland,Southampton,2,2
-18.01.2014,2013,West Ham,Newcastle,1,3
-13.01.2014,2013,Aston Villa,Arsenal,1,2
-12.01.2014,2013,Newcastle,Manchester City,0,2
-12.01.2014,2013,Stoke,Liverpool,3,5
-11.01.2014,2013,Cardiff,West Ham,0,2
-11.01.2014,2013,Everton,Norwich,2,0
-11.01.2014,2013,Fulham,Sunderland,1,4
-11.01.2014,2013,Hull,Chelsea,0,2
-11.01.2014,2013,Manchester Utd,Swansea,2,0
-11.01.2014,2013,Southampton,West Brom,1,0
-11.01.2014,2013,Tottenham,Crystal Palace,2,0
-01.01.2014,2013,Arsenal,Cardiff,2,0
-01.01.2014,2013,Crystal Palace,Norwich,1,1
-01.01.2014,2013,Fulham,West Ham,2,1
-01.01.2014,2013,Liverpool,Hull,2,0
-01.01.2014,2013,Manchester Utd,Tottenham,1,2
-01.01.2014,2013,Southampton,Chelsea,0,3
-01.01.2014,2013,Stoke,Everton,1,1
-01.01.2014,2013,Sunderland,Aston Villa,0,1
-01.01.2014,2013,Swansea,Manchester City,2,3
-01.01.2014,2013,West Brom,Newcastle,1,0
-29.12.2013,2013,Chelsea,Liverpool,2,1
-29.12.2013,2013,Everton,Southampton,2,1
-29.12.2013,2013,Newcastle,Arsenal,0,1
-29.12.2013,2013,Tottenham,Stoke,3,0
-28.12.2013,2013,Aston Villa,Swansea,1,1
-28.12.2013,2013,Cardiff,Sunderland,2,2
-28.12.2013,2013,Hull,Fulham,6,0
-28.12.2013,2013,Manchester City,Crystal Palace,1,0
-28.12.2013,2013,Norwich,Manchester Utd,0,1
-28.12.2013,2013,West Ham,West Brom,3,3
-26.12.2013,2013,Aston Villa,Crystal Palace,0,1
-26.12.2013,2013,Cardiff,Southampton,0,3
-26.12.2013,2013,Chelsea,Swansea,1,0
-26.12.2013,2013,Everton,Sunderland,0,1
-26.12.2013,2013,Hull,Manchester Utd,2,3
-26.12.2013,2013,Manchester City,Liverpool,2,1
-26.12.2013,2013,Newcastle,Stoke,5,1
-26.12.2013,2013,Norwich,Fulham,1,2
-26.12.2013,2013,Tottenham,West Brom,1,1
-26.12.2013,2013,West Ham,Arsenal,1,3
-23.12.2013,2013,Arsenal,Chelsea,0,0
-22.12.2013,2013,Southampton,Tottenham,2,3
-22.12.2013,2013,Swansea,Everton,1,2
-21.12.2013,2013,Crystal Palace,Newcastle,0,3
-21.12.2013,2013,Fulham,Manchester City,2,4
-21.12.2013,2013,Liverpool,Cardiff,3,1
-21.12.2013,2013,Manchester Utd,West Ham,3,1
-21.12.2013,2013,Stoke,Aston Villa,2,1
-21.12.2013,2013,Sunderland,Norwich,0,0
-21.12.2013,2013,West Brom,Hull,1,1
-15.12.2013,2013,Aston Villa,Manchester Utd,0,3
-15.12.2013,2013,Norwich,Swansea,1,1
-15.12.2013,2013,Tottenham,Liverpool,0,5
-14.12.2013,2013,Cardiff,West Brom,1,0
-14.12.2013,2013,Chelsea,Crystal Palace,2,1
-14.12.2013,2013,Everton,Fulham,4,1
-14.12.2013,2013,Hull,Stoke,0,0
-14.12.2013,2013,Manchester City,Arsenal,6,3
-14.12.2013,2013,Newcastle,Southampton,1,1
-14.12.2013,2013,West Ham,Sunderland,0,0
-09.12.2013,2013,Swansea,Hull,1,1
-08.12.2013,2013,Arsenal,Everton,1,1
-08.12.2013,2013,Fulham,Aston Villa,2,0
-07.12.2013,2013,Crystal Palace,Cardiff,2,0
-07.12.2013,2013,Liverpool,West Ham,4,1
-07.12.2013,2013,Manchester Utd,Newcastle,0,1
-07.12.2013,2013,Southampton,Manchester City,1,1
-07.12.2013,2013,Stoke,Chelsea,3,2
-07.12.2013,2013,Sunderland,Tottenham,1,2
-07.12.2013,2013,West Brom,Norwich,0,2
-04.12.2013,2013,Arsenal,Hull,2,0
-04.12.2013,2013,Fulham,Tottenham,1,2
-04.12.2013,2013,Liverpool,Norwich,5,1
-04.12.2013,2013,Manchester Utd,Everton,0,1
-04.12.2013,2013,Southampton,Aston Villa,2,3
-04.12.2013,2013,Stoke,Cardiff,0,0
-04.12.2013,2013,Sunderland,Chelsea,3,4
-04.12.2013,2013,Swansea,Newcastle,3,0
-04.12.2013,2013,West Brom,Manchester City,2,3
-03.12.2013,2013,Crystal Palace,West Ham,1,0
-01.12.2013,2013,Chelsea,Southampton,3,1
-01.12.2013,2013,Hull,Liverpool,3,1
-01.12.2013,2013,Manchester City,Swansea,3,0
-01.12.2013,2013,Tottenham,Manchester Utd,2,2
-30.11.2013,2013,Aston Villa,Sunderland,0,0
-30.11.2013,2013,Cardiff,Arsenal,0,3
-30.11.2013,2013,Everton,Stoke,4,0
-30.11.2013,2013,Newcastle,West Brom,2,1
-30.11.2013,2013,Norwich,Crystal Palace,1,0
-30.11.2013,2013,West Ham,Fulham,3,0
-25.11.2013,2013,West Brom,Aston Villa,2,2
-24.11.2013,2013,Cardiff,Manchester Utd,2,2
-24.11.2013,2013,Manchester City,Tottenham,6,0
-23.11.2013,2013,Arsenal,Southampton,2,0
-23.11.2013,2013,Everton,Liverpool,3,3
-23.11.2013,2013,Fulham,Swansea,1,2
-23.11.2013,2013,Hull,Crystal Palace,0,1
-23.11.2013,2013,Newcastle,Norwich,2,1
-23.11.2013,2013,Stoke,Sunderland,2,0
-23.11.2013,2013,West Ham,Chelsea,0,3
-10.11.2013,2013,Manchester Utd,Arsenal,1,0
-10.11.2013,2013,Sunderland,Manchester City,1,0
-10.11.2013,2013,Swansea,Stoke,3,3
-10.11.2013,2013,Tottenham,Newcastle,0,1
-09.11.2013,2013,Aston Villa,Cardiff,2,0
-09.11.2013,2013,Chelsea,West Brom,2,2
-09.11.2013,2013,Crystal Palace,Everton,0,0
-09.11.2013,2013,Liverpool,Fulham,4,0
-09.11.2013,2013,Norwich,West Ham,3,1
-09.11.2013,2013,Southampton,Hull,4,1
-03.11.2013,2013,Cardiff,Swansea,1,0
-03.11.2013,2013,Everton,Tottenham,0,0
-02.11.2013,2013,Arsenal,Liverpool,2,0
-02.11.2013,2013,Fulham,Manchester Utd,1,3
-02.11.2013,2013,Hull,Sunderland,1,0
-02.11.2013,2013,Manchester City,Norwich,7,0
-02.11.2013,2013,Newcastle,Chelsea,2,0
-02.11.2013,2013,Stoke,Southampton,1,1
-02.11.2013,2013,West Brom,Crystal Palace,2,0
-02.11.2013,2013,West Ham,Aston Villa,0,0
-27.10.2013,2013,Chelsea,Manchester City,2,1
-27.10.2013,2013,Sunderland,Newcastle,2,1
-27.10.2013,2013,Swansea,West Ham,0,0
-27.10.2013,2013,Tottenham,Hull,1,0
-26.10.2013,2013,Aston Villa,Everton,0,2
-26.10.2013,2013,Crystal Palace,Arsenal,0,2
-26.10.2013,2013,Liverpool,West Brom,4,1
-26.10.2013,2013,Manchester Utd,Stoke,3,2
-26.10.2013,2013,Norwich,Cardiff,0,0
-26.10.2013,2013,Southampton,Fulham,2,0
-21.10.2013,2013,Crystal Palace,Fulham,1,4
-20.10.2013,2013,Aston Villa,Tottenham,0,2
-19.10.2013,2013,Arsenal,Norwich,4,1
-19.10.2013,2013,Chelsea,Cardiff,4,1
-19.10.2013,2013,Everton,Hull,2,1
-19.10.2013,2013,Manchester Utd,Southampton,1,1
-19.10.2013,2013,Newcastle,Liverpool,2,2
-19.10.2013,2013,Stoke,West Brom,0,0
-19.10.2013,2013,Swansea,Sunderland,4,0
-19.10.2013,2013,West Ham,Manchester City,1,3
-06.10.2013,2013,Norwich,Chelsea,1,3
-06.10.2013,2013,Southampton,Swansea,2,0
-06.10.2013,2013,Tottenham,West Ham,0,3
-06.10.2013,2013,West Brom,Arsenal,1,1
-05.10.2013,2013,Cardiff,Newcastle,1,2
-05.10.2013,2013,Fulham,Stoke,1,0
-05.10.2013,2013,Hull,Aston Villa,0,0
-05.10.2013,2013,Liverpool,Crystal Palace,3,1
-05.10.2013,2013,Manchester City,Everton,3,1
-05.10.2013,2013,Sunderland,Manchester Utd,1,2
-30.09.2013,2013,Everton,Newcastle,3,2
-29.09.2013,2013,Stoke,Norwich,0,1
-29.09.2013,2013,Sunderland,Liverpool,1,3
-28.09.2013,2013,Aston Villa,Manchester City,3,2
-28.09.2013,2013,Fulham,Cardiff,1,2
-28.09.2013,2013,Hull,West Ham,1,0
-28.09.2013,2013,Manchester Utd,West Brom,1,2
-28.09.2013,2013,Southampton,Crystal Palace,2,0
-28.09.2013,2013,Swansea,Arsenal,1,2
-28.09.2013,2013,Tottenham,Chelsea,1,1
-22.09.2013,2013,Arsenal,Stoke,3,1
-22.09.2013,2013,Cardiff,Tottenham,0,1
-22.09.2013,2013,Crystal Palace,Swansea,0,2
-22.09.2013,2013,Manchester City,Manchester Utd,4,1
-21.09.2013,2013,Chelsea,Fulham,2,0
-21.09.2013,2013,Liverpool,Southampton,0,1
-21.09.2013,2013,Newcastle,Hull,2,3
-21.09.2013,2013,Norwich,Aston Villa,0,1
-21.09.2013,2013,West Brom,Sunderland,3,0
-21.09.2013,2013,West Ham,Everton,2,3
-16.09.2013,2013,Swansea,Liverpool,2,2
-15.09.2013,2013,Southampton,West Ham,0,0
-14.09.2013,2013,Aston Villa,Newcastle,1,2
-14.09.2013,2013,Everton,Chelsea,1,0
-14.09.2013,2013,Fulham,West Brom,1,1
-14.09.2013,2013,Hull,Cardiff,1,1
-14.09.2013,2013,Manchester Utd,Crystal Palace,2,0
-14.09.2013,2013,Stoke,Manchester City,0,0
-14.09.2013,2013,Sunderland,Arsenal,1,3
-14.09.2013,2013,Tottenham,Norwich,2,0
-01.09.2013,2013,Arsenal,Tottenham,1,0
-01.09.2013,2013,Liverpool,Manchester Utd,1,0
-01.09.2013,2013,West Brom,Swansea,0,2
-31.08.2013,2013,Cardiff,Everton,0,0
-31.08.2013,2013,Crystal Palace,Sunderland,3,1
-31.08.2013,2013,Manchester City,Hull,2,0
-31.08.2013,2013,Newcastle,Fulham,1,0
-31.08.2013,2013,Norwich,Southampton,1,0
-31.08.2013,2013,West Ham,Stoke,0,1
-26.08.2013,2013,Manchester Utd,Chelsea,0,0
-25.08.2013,2013,Cardiff,Manchester City,3,2
-25.08.2013,2013,Tottenham,Swansea,1,0
-24.08.2013,2013,Aston Villa,Liverpool,0,1
-24.08.2013,2013,Everton,West Brom,0,0
-24.08.2013,2013,Fulham,Arsenal,1,3
-24.08.2013,2013,Hull,Norwich,1,0
-24.08.2013,2013,Newcastle,West Ham,0,0
-24.08.2013,2013,Southampton,Sunderland,1,1
-24.08.2013,2013,Stoke,Crystal Palace,2,1
-21.08.2013,2013,Chelsea,Aston Villa,2,1
-19.08.2013,2013,Manchester City,Newcastle,4,0
-18.08.2013,2013,Chelsea,Hull,2,0
-18.08.2013,2013,Crystal Palace,Tottenham,0,1
-17.08.2013,2013,Arsenal,Aston Villa,1,3
-17.08.2013,2013,Liverpool,Stoke,1,0
-17.08.2013,2013,Norwich,Everton,2,2
-17.08.2013,2013,Sunderland,Fulham,0,1
-17.08.2013,2013,Swansea,Manchester Utd,1,4
-17.08.2013,2013,West Brom,Southampton,0,1
-17.08.2013,2013,West Ham,Cardiff,2,0
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+11.05.2014,2013,Cardiff,Chelsea,1,2,7.82,4.93,1.40
+11.05.2014,2013,Fulham,Crystal Palace,2,2,2.59,3.45,2.69
+11.05.2014,2013,Hull,Everton,0,2,3.72,3.48,2.04
+11.05.2014,2013,Liverpool,Newcastle,2,1,1.18,7.84,13.84
+11.05.2014,2013,Manchester City,West Ham,2,0,1.16,8.50,13.96
+11.05.2014,2013,Norwich,Arsenal,0,2,4.97,3.94,1.69
+11.05.2014,2013,Southampton,Manchester Utd,1,1,2.75,3.65,2.43
+11.05.2014,2013,Sunderland,Swansea,1,3,2.25,3.40,3.21
+11.05.2014,2013,Tottenham,Aston Villa,3,0,1.48,4.39,6.91
+11.05.2014,2013,West Brom,Stoke,1,2,2.18,3.46,3.31
+07.05.2014,2013,Manchester City,Aston Villa,4,0,1.15,8.67,15.49
+07.05.2014,2013,Sunderland,West Brom,2,0,2.04,3.08,4.30
+06.05.2014,2013,Manchester Utd,Hull,3,1,1.42,4.80,7.24
+05.05.2014,2013,Crystal Palace,Liverpool,3,3,8.11,5.34,1.36
+04.05.2014,2013,Arsenal,West Brom,1,0,1.37,5.09,8.29
+04.05.2014,2013,Chelsea,Norwich,0,0,1.20,7.02,13.80
+03.05.2014,2013,Aston Villa,Hull,3,1,2.55,3.03,3.10
+03.05.2014,2013,Everton,Manchester City,2,3,4.71,4.11,1.70
+03.05.2014,2013,Manchester Utd,Sunderland,0,1,1.41,5.00,7.35
+03.05.2014,2013,Newcastle,Cardiff,3,0,1.92,3.66,3.93
+03.05.2014,2013,Stoke,Fulham,4,1,2.27,3.44,3.17
+03.05.2014,2013,Swansea,Southampton,0,1,2.37,3.37,3.06
+03.05.2014,2013,West Ham,Tottenham,2,0,3.81,3.65,1.97
+28.04.2014,2013,Arsenal,Newcastle,3,0,1.22,6.59,12.46
+27.04.2014,2013,Crystal Palace,Manchester City,0,2,7.75,4.91,1.40
+27.04.2014,2013,Liverpool,Chelsea,0,2,1.67,3.96,5.11
+27.04.2014,2013,Sunderland,Cardiff,4,0,1.77,3.80,4.58
+26.04.2014,2013,Fulham,Hull,2,2,2.33,3.34,3.15
+26.04.2014,2013,Manchester Utd,Norwich,4,0,1.30,5.67,9.76
+26.04.2014,2013,Southampton,Everton,2,0,2.78,3.44,2.52
+26.04.2014,2013,Stoke,Tottenham,0,1,3.44,3.41,2.17
+26.04.2014,2013,Swansea,Aston Villa,4,1,1.68,3.75,5.47
+26.04.2014,2013,West Brom,West Ham,1,0,1.86,3.64,4.29
+21.04.2014,2013,Manchester City,West Brom,3,1,1.21,7.01,12.42
+20.04.2014,2013,Everton,Manchester Utd,2,0,2.56,3.44,2.74
+20.04.2014,2013,Hull,Arsenal,0,3,4.83,3.66,1.76
+20.04.2014,2013,Norwich,Liverpool,2,3,6.77,4.84,1.44
+19.04.2014,2013,Aston Villa,Southampton,0,0,3.24,3.31,2.30
+19.04.2014,2013,Cardiff,Stoke,1,1,2.35,3.35,3.09
+19.04.2014,2013,Chelsea,Sunderland,1,2,1.20,6.98,14.39
+19.04.2014,2013,Newcastle,Swansea,1,2,2.86,3.36,2.51
+19.04.2014,2013,Tottenham,Fulham,3,1,1.50,4.57,6.24
+19.04.2014,2013,West Ham,Crystal Palace,0,1,2.23,3.26,3.43
+16.04.2014,2013,Everton,Crystal Palace,2,3,1.36,4.92,8.91
+16.04.2014,2013,Manchester City,Sunderland,2,2,1.13,9.15,17.95
+15.04.2014,2013,Arsenal,West Ham,3,1,1.35,5.13,8.97
+13.04.2014,2013,Liverpool,Manchester City,3,2,2.26,3.54,3.11
+13.04.2014,2013,Swansea,Chelsea,0,1,4.76,3.53,1.79
+12.04.2014,2013,Crystal Palace,Aston Villa,1,0,2.14,3.18,3.77
+12.04.2014,2013,Fulham,Norwich,1,0,2.13,3.43,3.50
+12.04.2014,2013,Southampton,Cardiff,0,1,1.43,4.60,7.75
+12.04.2014,2013,Stoke,Newcastle,1,0,2.01,3.40,3.91
+12.04.2014,2013,Sunderland,Everton,0,1,4.47,3.56,1.84
+12.04.2014,2013,West Brom,Tottenham,3,3,3.05,3.44,2.33
+07.04.2014,2013,Tottenham,Sunderland,5,1,1.56,4.09,6.18
+06.04.2014,2013,Everton,Arsenal,3,0,2.46,3.39,2.88
+06.04.2014,2013,West Ham,Liverpool,1,2,7.94,5.11,1.38
+05.04.2014,2013,Aston Villa,Fulham,1,2,2.14,3.33,3.60
+05.04.2014,2013,Cardiff,Crystal Palace,0,3,2.34,3.26,3.21
+05.04.2014,2013,Chelsea,Stoke,3,0,1.28,5.50,11.67
+05.04.2014,2013,Hull,Swansea,1,0,2.82,3.14,2.69
+05.04.2014,2013,Manchester City,Southampton,4,1,1.34,5.37,8.78
+05.04.2014,2013,Newcastle,Manchester Utd,0,4,3.77,3.52,2.02
+05.04.2014,2013,Norwich,West Brom,0,1,2.34,3.28,3.17
+31.03.2014,2013,Sunderland,West Ham,1,2,1.97,3.47,3.97
+30.03.2014,2013,Fulham,Everton,1,3,4.80,3.70,1.76
+30.03.2014,2013,Liverpool,Tottenham,4,0,1.40,5.00,7.61
+29.03.2014,2013,Arsenal,Manchester City,1,1,3.62,3.58,2.03
+29.03.2014,2013,Crystal Palace,Chelsea,1,0,9.23,4.52,1.39
+29.03.2014,2013,Manchester Utd,Aston Villa,4,1,1.42,4.68,7.88
+29.03.2014,2013,Southampton,Newcastle,4,0,1.65,3.83,5.68
+29.03.2014,2013,Stoke,Hull,1,0,2.33,3.16,3.32
+29.03.2014,2013,Swansea,Norwich,3,0,1.68,3.74,5.44
+29.03.2014,2013,West Brom,Cardiff,3,3,1.90,3.54,4.25
+26.03.2014,2013,Liverpool,Sunderland,2,1,1.16,8.22,16.20
+26.03.2014,2013,West Ham,Hull,2,1,2.31,3.27,3.25
+25.03.2014,2013,Arsenal,Swansea,2,2,1.54,4.18,6.44
+25.03.2014,2013,Newcastle,Everton,0,3,3.24,3.31,2.29
+25.03.2014,2013,Manchester Utd,Manchester City,0,3,3.21,3.42,2.26
+23.03.2014,2013,Aston Villa,Stoke,1,4,2.15,3.21,3.68
+23.03.2014,2013,Tottenham,Southampton,3,2,2.15,3.35,3.55
+22.03.2014,2013,Cardiff,Liverpool,3,6,9.03,5.28,1.34
+22.03.2014,2013,Chelsea,Arsenal,6,0,1.83,3.50,4.64
+22.03.2014,2013,Everton,Swansea,3,2,1.72,3.65,5.27
+22.03.2014,2013,Hull,West Brom,2,0,2.25,3.20,3.47
+22.03.2014,2013,Manchester City,Fulham,5,0,1.15,8.74,17.06
+22.03.2014,2013,Newcastle,Crystal Palace,1,0,1.99,3.32,4.12
+22.03.2014,2013,Norwich,Sunderland,2,0,2.27,3.23,3.36
+22.03.2014,2013,West Ham,Manchester Utd,0,2,4.51,3.70,1.80
+16.03.2014,2013,Manchester Utd,Liverpool,0,3,2.48,3.43,2.83
+16.03.2014,2013,Tottenham,Arsenal,0,1,3.25,3.38,2.25
+15.03.2014,2013,Aston Villa,Chelsea,1,0,6.79,4.11,1.52
+15.03.2014,2013,Everton,Cardiff,2,1,1.32,5.15,10.08
+15.03.2014,2013,Fulham,Newcastle,1,0,2.74,3.36,2.59
+15.03.2014,2013,Hull,Manchester City,0,2,6.08,4.13,1.56
+15.03.2014,2013,Southampton,Norwich,4,2,1.57,3.91,6.48
+15.03.2014,2013,Stoke,West Ham,3,1,2.27,3.19,3.41
+15.03.2014,2013,Sunderland,Crystal Palace,0,0,2.17,3.24,3.60
+15.03.2014,2013,Swansea,West Brom,1,2,1.94,3.41,4.19
+08.03.2014,2013,Cardiff,Fulham,3,1,2.28,3.35,3.28
+08.03.2014,2013,Chelsea,Tottenham,4,0,1.54,4.04,6.83
+08.03.2014,2013,Crystal Palace,Southampton,0,1,3.61,3.26,2.16
+08.03.2014,2013,Norwich,Stoke,1,1,2.23,3.20,3.51
+08.03.2014,2013,West Brom,Manchester Utd,0,3,4.57,3.54,1.84
+02.03.2014,2013,Aston Villa,Norwich,4,1,2.18,3.30,3.49
+02.03.2014,2013,Swansea,Crystal Palace,1,1,1.79,3.49,4.91
+02.03.2014,2013,Tottenham,Cardiff,1,0,1.34,5.00,9.82
+01.03.2014,2013,Everton,West Ham,1,0,1.49,4.21,7.15
+01.03.2014,2013,Fulham,Chelsea,1,3,7.48,4.49,1.45
+01.03.2014,2013,Hull,Newcastle,1,4,2.28,3.20,3.36
+01.03.2014,2013,Southampton,Liverpool,0,3,3.65,3.51,2.04
+01.03.2014,2013,Stoke,Arsenal,1,0,5.20,3.60,1.73
+23.02.2014,2013,Liverpool,Swansea,4,3,1.28,5.70,10.76
+23.02.2014,2013,Newcastle,Aston Villa,1,0,1.96,3.42,4.01
+23.02.2014,2013,Norwich,Tottenham,1,0,3.74,3.44,2.03
+22.02.2014,2013,Arsenal,Sunderland,4,1,1.33,5.07,9.86
+22.02.2014,2013,Cardiff,Hull,0,4,2.88,3.08,2.66
+22.02.2014,2013,Chelsea,Everton,1,0,1.59,3.88,6.30
+22.02.2014,2013,Crystal Palace,Manchester Utd,0,2,6.12,3.89,1.59
+22.02.2014,2013,Manchester City,Stoke,1,0,1.17,7.61,16.03
+22.02.2014,2013,West Brom,Fulham,1,1,1.74,3.75,4.87
+22.02.2014,2013,West Ham,Southampton,3,1,3.42,3.34,2.20
+12.02.2014,2013,Arsenal,Manchester Utd,0,0,2.31,3.29,3.21
+12.02.2014,2013,Fulham,Liverpool,2,3,7.76,5.02,1.39
+12.02.2014,2013,Newcastle,Tottenham,0,4,2.98,3.34,2.40
+12.02.2014,2013,Stoke,Swansea,1,1,2.73,3.09,2.77
+11.02.2014,2013,Cardiff,Aston Villa,0,0,2.64,3.28,2.74
+11.02.2014,2013,Hull,Southampton,0,1,2.83,3.18,2.61
+11.02.2014,2013,West Brom,Chelsea,1,1,7.13,4.27,1.48
+11.02.2014,2013,West Ham,Norwich,2,0,2.14,3.33,3.53
+09.02.2014,2013,Manchester Utd,Fulham,2,2,1.17,7.63,16.78
+09.02.2014,2013,Tottenham,Everton,1,0,2.17,3.33,3.46
+08.02.2014,2013,Aston Villa,West Ham,0,2,2.09,3.33,3.72
+08.02.2014,2013,Chelsea,Newcastle,3,0,1.23,6.17,13.58
+08.02.2014,2013,Crystal Palace,West Brom,3,1,2.54,3.16,2.95
+08.02.2014,2013,Liverpool,Arsenal,5,1,2.22,3.49,3.21
+08.02.2014,2013,Norwich,Manchester City,0,0,8.15,5.06,1.38
+08.02.2014,2013,Southampton,Stoke,2,2,1.52,4.03,7.13
+08.02.2014,2013,Sunderland,Hull,0,2,2.29,3.19,3.38
+08.02.2014,2013,Swansea,Cardiff,3,0,1.88,3.47,4.37
+03.02.2014,2013,Manchester City,Chelsea,0,1,2.03,3.43,3.82
+02.02.2014,2013,Arsenal,Crystal Palace,2,0,1.22,6.20,14.15
+02.02.2014,2013,West Brom,Liverpool,1,1,5.40,4.12,1.61
+01.02.2014,2013,Cardiff,Norwich,2,1,2.14,3.31,3.61
+01.02.2014,2013,Everton,Aston Villa,2,1,1.55,4.05,6.36
+01.02.2014,2013,Fulham,Southampton,0,3,3.46,3.35,2.16
+01.02.2014,2013,Hull,Tottenham,1,1,3.72,3.39,2.06
+01.02.2014,2013,Newcastle,Sunderland,0,3,1.96,3.40,4.09
+01.02.2014,2013,Stoke,Manchester Utd,2,1,7.36,4.35,1.47
+01.02.2014,2013,West Ham,Swansea,2,0,2.79,3.28,2.60
+29.01.2014,2013,Aston Villa,West Brom,4,3,2.59,3.15,2.89
+29.01.2014,2013,Chelsea,West Ham,0,0,1.17,7.38,16.28
+29.01.2014,2013,Sunderland,Stoke,1,0,2.01,3.35,3.95
+29.01.2014,2013,Tottenham,Manchester City,1,5,4.00,3.70,1.90
+28.01.2014,2013,Crystal Palace,Hull,1,0,2.46,3.08,3.15
+28.01.2014,2013,Liverpool,Everton,4,0,1.78,3.74,4.55
+28.01.2014,2013,Manchester Utd,Cardiff,2,0,1.21,6.45,14.47
+28.01.2014,2013,Norwich,Newcastle,0,0,2.58,3.28,2.81
+28.01.2014,2013,Southampton,Arsenal,2,2,3.97,3.48,1.96
+28.01.2014,2013,Swansea,Fulham,2,0,1.69,3.72,5.33
+20.01.2014,2013,West Brom,Everton,1,1,3.89,3.45,2.00
+19.01.2014,2013,Chelsea,Manchester Utd,3,1,1.68,3.79,5.33
+19.01.2014,2013,Swansea,Tottenham,1,3,3.06,3.34,2.35
+18.01.2014,2013,Arsenal,Fulham,2,0,1.20,6.94,14.00
+18.01.2014,2013,Crystal Palace,Stoke,1,0,2.23,3.22,3.45
+18.01.2014,2013,Liverpool,Aston Villa,2,2,1.20,6.89,13.64
+18.01.2014,2013,Manchester City,Cardiff,4,2,1.11,10.37,22.50
+18.01.2014,2013,Norwich,Hull,1,0,2.49,3.21,2.98
+18.01.2014,2013,Sunderland,Southampton,2,2,2.95,3.26,2.48
+18.01.2014,2013,West Ham,Newcastle,1,3,2.95,3.32,2.43
+13.01.2014,2013,Aston Villa,Arsenal,1,2,6.91,4.43,1.48
+12.01.2014,2013,Newcastle,Manchester City,0,2,5.68,4.13,1.58
+12.01.2014,2013,Stoke,Liverpool,3,5,6.55,4.30,1.51
+11.01.2014,2013,Cardiff,West Ham,0,2,2.01,3.44,3.86
+11.01.2014,2013,Everton,Norwich,2,0,1.36,4.90,9.41
+11.01.2014,2013,Fulham,Sunderland,1,4,2.15,3.27,3.61
+11.01.2014,2013,Hull,Chelsea,0,2,6.02,3.80,1.62
+11.01.2014,2013,Manchester Utd,Swansea,2,0,1.56,3.98,6.42
+11.01.2014,2013,Southampton,West Brom,1,0,1.81,3.59,4.59
+11.01.2014,2013,Tottenham,Crystal Palace,2,0,1.40,4.76,8.27
+01.01.2014,2013,Arsenal,Cardiff,2,0,1.25,6.06,11.99
+01.01.2014,2013,Crystal Palace,Norwich,1,1,2.31,3.22,3.28
+01.01.2014,2013,Fulham,West Ham,2,1,2.32,3.31,3.14
+01.01.2014,2013,Liverpool,Hull,2,0,1.30,5.41,10.07
+01.01.2014,2013,Manchester Utd,Tottenham,1,2,1.66,3.95,5.22
+01.01.2014,2013,Southampton,Chelsea,0,3,3.79,3.37,2.05
+01.01.2014,2013,Stoke,Everton,1,1,4.42,3.52,1.85
+01.01.2014,2013,Sunderland,Aston Villa,0,1,2.09,3.34,3.68
+01.01.2014,2013,Swansea,Manchester City,2,3,5.48,3.89,1.65
+01.01.2014,2013,West Brom,Newcastle,1,0,2.36,3.38,3.02
+29.12.2013,2013,Chelsea,Liverpool,2,1,2.21,3.35,3.34
+29.12.2013,2013,Everton,Southampton,2,1,1.93,3.45,4.18
+29.12.2013,2013,Newcastle,Arsenal,0,1,3.28,3.33,2.25
+29.12.2013,2013,Tottenham,Stoke,3,0,1.44,4.38,7.86
+28.12.2013,2013,Aston Villa,Swansea,1,1,2.92,3.24,2.51
+28.12.2013,2013,Cardiff,Sunderland,2,2,2.38,3.23,3.12
+28.12.2013,2013,Hull,Fulham,6,0,2.02,3.32,3.98
+28.12.2013,2013,Manchester City,Crystal Palace,1,0,1.13,8.78,19.93
+28.12.2013,2013,Norwich,Manchester Utd,0,1,5.33,3.84,1.66
+28.12.2013,2013,West Ham,West Brom,3,3,2.54,3.24,2.89
+26.12.2013,2013,Aston Villa,Crystal Palace,0,1,1.92,3.35,4.35
+26.12.2013,2013,Cardiff,Southampton,0,3,3.16,3.33,2.33
+26.12.2013,2013,Chelsea,Swansea,1,0,1.32,5.25,9.81
+26.12.2013,2013,Everton,Sunderland,0,1,1.34,5.17,9.45
+26.12.2013,2013,Hull,Manchester Utd,2,3,5.83,3.78,1.63
+26.12.2013,2013,Manchester City,Liverpool,2,1,1.79,3.87,4.32
+26.12.2013,2013,Newcastle,Stoke,5,1,1.72,3.57,5.31
+26.12.2013,2013,Norwich,Fulham,1,2,1.94,3.47,4.13
+26.12.2013,2013,Tottenham,West Brom,1,1,1.55,4.12,6.22
+26.12.2013,2013,West Ham,Arsenal,1,3,5.93,4.16,1.56
+23.12.2013,2013,Arsenal,Chelsea,0,0,2.48,3.26,2.94
+22.12.2013,2013,Southampton,Tottenham,2,3,2.51,3.30,2.84
+22.12.2013,2013,Swansea,Everton,1,2,3.26,3.33,2.26
+21.12.2013,2013,Crystal Palace,Newcastle,0,3,3.08,3.27,2.39
+21.12.2013,2013,Fulham,Manchester City,2,4,7.90,5.11,1.38
+21.12.2013,2013,Liverpool,Cardiff,3,1,1.19,7.08,15.56
+21.12.2013,2013,Manchester Utd,West Ham,3,1,1.30,5.51,9.99
+21.12.2013,2013,Stoke,Aston Villa,2,1,2.01,3.27,4.03
+21.12.2013,2013,Sunderland,Norwich,0,0,2.12,3.31,3.60
+21.12.2013,2013,West Brom,Hull,1,1,1.97,3.29,4.19
+15.12.2013,2013,Aston Villa,Manchester Utd,0,3,5.08,3.74,1.71
+15.12.2013,2013,Norwich,Swansea,1,1,2.86,3.29,2.52
+15.12.2013,2013,Tottenham,Liverpool,0,5,2.37,3.35,3.04
+14.12.2013,2013,Cardiff,West Brom,1,0,2.73,3.29,2.63
+14.12.2013,2013,Chelsea,Crystal Palace,2,1,1.18,7.36,16.36
+14.12.2013,2013,Everton,Fulham,4,1,1.38,4.86,8.69
+14.12.2013,2013,Hull,Stoke,0,0,2.24,3.14,3.53
+14.12.2013,2013,Manchester City,Arsenal,6,3,1.72,3.96,4.70
+14.12.2013,2013,Newcastle,Southampton,1,1,2.30,3.32,3.21
+14.12.2013,2013,West Ham,Sunderland,0,0,1.96,3.44,4.03
+09.12.2013,2013,Swansea,Hull,1,1,1.68,3.65,5.52
+08.12.2013,2013,Arsenal,Everton,1,1,1.66,3.81,5.42
+08.12.2013,2013,Fulham,Aston Villa,2,0,2.60,3.31,2.74
+07.12.2013,2013,Crystal Palace,Cardiff,2,0,2.47,3.18,3.02
+07.12.2013,2013,Liverpool,West Ham,4,1,1.31,5.43,9.47
+07.12.2013,2013,Manchester Utd,Newcastle,0,1,1.47,4.43,7.18
+07.12.2013,2013,Southampton,Manchester City,1,1,4.99,3.82,1.70
+07.12.2013,2013,Stoke,Chelsea,3,2,6.31,3.97,1.57
+07.12.2013,2013,Sunderland,Tottenham,1,2,3.69,3.38,2.08
+07.12.2013,2013,West Brom,Norwich,0,2,1.70,3.74,5.12
+04.12.2013,2013,Arsenal,Hull,2,0,1.26,5.78,11.99
+04.12.2013,2013,Fulham,Tottenham,1,2,5.89,3.83,1.62
+04.12.2013,2013,Liverpool,Norwich,5,1,1.26,6.00,11.51
+04.12.2013,2013,Manchester Utd,Everton,0,1,1.77,3.69,4.67
+04.12.2013,2013,Southampton,Aston Villa,2,3,1.69,3.67,5.44
+04.12.2013,2013,Stoke,Cardiff,0,0,2.21,3.23,3.48
+04.12.2013,2013,Sunderland,Chelsea,3,4,6.33,4.22,1.53
+04.12.2013,2013,Swansea,Newcastle,3,0,2.19,3.39,3.35
+04.12.2013,2013,West Brom,Manchester City,2,3,6.39,4.39,1.50
+03.12.2013,2013,Crystal Palace,West Ham,1,0,3.12,3.25,2.36
+01.12.2013,2013,Chelsea,Southampton,3,1,1.56,4.06,6.03
+01.12.2013,2013,Hull,Liverpool,3,1,6.00,3.90,1.60
+01.12.2013,2013,Manchester City,Swansea,3,0,1.25,5.92,12.11
+01.12.2013,2013,Tottenham,Manchester Utd,2,2,2.74,3.26,2.64
+30.11.2013,2013,Aston Villa,Sunderland,0,0,1.81,3.55,4.67
+30.11.2013,2013,Cardiff,Arsenal,0,3,6.39,4.09,1.55
+30.11.2013,2013,Everton,Stoke,4,0,1.52,4.03,6.88
+30.11.2013,2013,Newcastle,West Brom,2,1,1.96,3.48,3.94
+30.11.2013,2013,Norwich,Crystal Palace,1,0,1.97,3.42,3.97
+30.11.2013,2013,West Ham,Fulham,3,0,1.73,3.75,4.97
+25.11.2013,2013,West Brom,Aston Villa,2,2,2.14,3.26,3.64
+24.11.2013,2013,Cardiff,Manchester Utd,2,2,5.20,3.72,1.69
+24.11.2013,2013,Manchester City,Tottenham,6,0,1.65,3.86,5.44
+23.11.2013,2013,Arsenal,Southampton,2,0,1.58,4.02,6.12
+23.11.2013,2013,Everton,Liverpool,3,3,2.83,3.28,2.55
+23.11.2013,2013,Fulham,Swansea,1,2,3.26,3.36,2.25
+23.11.2013,2013,Hull,Crystal Palace,0,1,1.89,3.38,4.47
+23.11.2013,2013,Newcastle,Norwich,2,1,1.74,3.73,4.85
+23.11.2013,2013,Stoke,Sunderland,2,0,2.08,3.22,3.88
+23.11.2013,2013,West Ham,Chelsea,0,3,5.84,3.84,1.62
+10.11.2013,2013,Manchester Utd,Arsenal,1,0,2.27,3.34,3.23
+10.11.2013,2013,Sunderland,Manchester City,1,0,7.13,4.56,1.44
+10.11.2013,2013,Swansea,Stoke,3,3,1.93,3.38,4.23
+10.11.2013,2013,Tottenham,Newcastle,0,1,1.54,4.15,6.32
+09.11.2013,2013,Aston Villa,Cardiff,2,0,2.17,3.28,3.53
+09.11.2013,2013,Chelsea,West Brom,2,2,1.30,5.54,10.35
+09.11.2013,2013,Crystal Palace,Everton,0,0,5.35,3.71,1.69
+09.11.2013,2013,Liverpool,Fulham,4,0,1.21,6.82,14.12
+09.11.2013,2013,Norwich,West Ham,3,1,2.32,3.28,3.18
+09.11.2013,2013,Southampton,Hull,4,1,1.58,3.75,6.75
+03.11.2013,2013,Cardiff,Swansea,1,0,3.13,3.28,2.35
+03.11.2013,2013,Everton,Tottenham,0,0,2.33,3.29,3.18
+02.11.2013,2013,Arsenal,Liverpool,2,0,2.09,3.41,3.58
+02.11.2013,2013,Fulham,Manchester Utd,1,3,6.41,4.26,1.52
+02.11.2013,2013,Hull,Sunderland,1,0,2.24,3.24,3.40
+02.11.2013,2013,Manchester City,Norwich,7,0,1.18,7.17,15.20
+02.11.2013,2013,Newcastle,Chelsea,2,0,5.79,4.05,1.59
+02.11.2013,2013,Stoke,Southampton,1,1,3.07,3.15,2.44
+02.11.2013,2013,West Brom,Crystal Palace,2,0,1.54,4.09,6.60
+02.11.2013,2013,West Ham,Aston Villa,0,0,2.13,3.36,3.54
+27.10.2013,2013,Chelsea,Manchester City,2,1,2.24,3.30,3.30
+27.10.2013,2013,Sunderland,Newcastle,2,1,2.79,3.30,2.56
+27.10.2013,2013,Swansea,West Ham,0,0,1.73,3.71,4.95
+27.10.2013,2013,Tottenham,Hull,1,0,1.34,4.77,10.75
+26.10.2013,2013,Aston Villa,Everton,0,2,3.28,3.32,2.25
+26.10.2013,2013,Crystal Palace,Arsenal,0,2,11.46,5.50,1.29
+26.10.2013,2013,Liverpool,West Brom,4,1,1.40,4.84,7.75
+26.10.2013,2013,Manchester Utd,Stoke,3,2,1.32,5.17,10.31
+26.10.2013,2013,Norwich,Cardiff,0,0,2.05,3.37,3.74
+26.10.2013,2013,Southampton,Fulham,2,0,1.59,3.96,5.91
+21.10.2013,2013,Crystal Palace,Fulham,1,4,2.78,3.27,2.63
+20.10.2013,2013,Aston Villa,Tottenham,0,2,3.99,3.40,1.97
+19.10.2013,2013,Arsenal,Norwich,4,1,1.29,5.45,10.93
+19.10.2013,2013,Chelsea,Cardiff,4,1,1.28,5.62,11.39
+19.10.2013,2013,Everton,Hull,2,1,1.50,4.12,7.13
+19.10.2013,2013,Manchester Utd,Southampton,1,1,1.54,4.13,6.39
+19.10.2013,2013,Newcastle,Liverpool,2,2,4.14,3.74,1.86
+19.10.2013,2013,Stoke,West Brom,0,0,2.48,3.23,2.97
+19.10.2013,2013,Swansea,Sunderland,4,0,1.57,4.02,6.19
+19.10.2013,2013,West Ham,Manchester City,1,3,5.28,3.88,1.66
+06.10.2013,2013,Norwich,Chelsea,1,3,6.18,4.03,1.57
+06.10.2013,2013,Southampton,Swansea,2,0,2.16,3.30,3.57
+06.10.2013,2013,Tottenham,West Ham,0,3,1.43,4.40,8.13
+06.10.2013,2013,West Brom,Arsenal,1,1,4.89,3.83,1.72
+05.10.2013,2013,Cardiff,Newcastle,1,2,2.35,3.32,3.08
+05.10.2013,2013,Fulham,Stoke,1,0,2.50,3.19,2.97
+05.10.2013,2013,Hull,Aston Villa,0,0,2.28,3.19,3.38
+05.10.2013,2013,Liverpool,Crystal Palace,3,1,1.19,7.00,16.41
+05.10.2013,2013,Manchester City,Everton,3,1,1.60,4.02,5.74
+05.10.2013,2013,Sunderland,Manchester Utd,1,2,6.40,4.21,1.53
+30.09.2013,2013,Everton,Newcastle,3,2,1.58,4.09,5.97
+29.09.2013,2013,Stoke,Norwich,0,1,1.94,3.37,4.22
+29.09.2013,2013,Sunderland,Liverpool,1,3,5.74,3.93,1.62
+28.09.2013,2013,Aston Villa,Manchester City,3,2,6.92,4.11,1.52
+28.09.2013,2013,Fulham,Cardiff,1,2,2.06,3.31,3.78
+28.09.2013,2013,Hull,West Ham,1,0,2.27,3.18,3.40
+28.09.2013,2013,Manchester Utd,West Brom,1,2,1.30,5.43,10.59
+28.09.2013,2013,Southampton,Crystal Palace,2,0,1.44,4.38,7.88
+28.09.2013,2013,Swansea,Arsenal,1,2,3.04,3.36,2.37
+28.09.2013,2013,Tottenham,Chelsea,1,1,2.48,3.22,2.96
+22.09.2013,2013,Arsenal,Stoke,3,1,1.38,4.78,8.79
+22.09.2013,2013,Cardiff,Tottenham,0,1,4.26,3.40,1.92
+22.09.2013,2013,Crystal Palace,Swansea,0,2,3.60,3.34,2.11
+22.09.2013,2013,Manchester City,Manchester Utd,4,1,2.23,3.18,3.48
+21.09.2013,2013,Chelsea,Fulham,2,0,1.28,5.62,11.51
+21.09.2013,2013,Liverpool,Southampton,0,1,1.71,3.66,5.25
+21.09.2013,2013,Newcastle,Hull,2,3,1.79,3.48,4.92
+21.09.2013,2013,Norwich,Aston Villa,0,1,2.33,3.27,3.12
+21.09.2013,2013,West Brom,Sunderland,3,0,2.05,3.38,3.71
+21.09.2013,2013,West Ham,Everton,2,3,3.20,3.25,2.33
+16.09.2013,2013,Swansea,Liverpool,2,2,3.06,3.25,2.41
+15.09.2013,2013,Southampton,West Ham,0,0,1.71,3.67,5.32
+14.09.2013,2013,Aston Villa,Newcastle,1,2,2.07,3.39,3.71
+14.09.2013,2013,Everton,Chelsea,1,0,3.34,3.37,2.21
+14.09.2013,2013,Fulham,West Brom,1,1,2.13,3.37,3.53
+14.09.2013,2013,Hull,Cardiff,1,1,2.20,3.22,3.53
+14.09.2013,2013,Manchester Utd,Crystal Palace,2,0,1.18,7.20,16.52
+14.09.2013,2013,Stoke,Manchester City,0,0,5.48,3.71,1.67
+14.09.2013,2013,Sunderland,Arsenal,1,3,5.52,3.82,1.65
+14.09.2013,2013,Tottenham,Norwich,2,0,1.45,4.28,7.98
+01.09.2013,2013,Arsenal,Tottenham,1,0,2.11,3.39,3.59
+01.09.2013,2013,Liverpool,Manchester Utd,1,0,2.44,3.19,3.13
+01.09.2013,2013,West Brom,Swansea,0,2,2.64,3.32,2.70
+31.08.2013,2013,Cardiff,Everton,0,0,3.26,3.27,2.28
+31.08.2013,2013,Crystal Palace,Sunderland,3,1,2.43,3.24,3.02
+31.08.2013,2013,Manchester City,Hull,2,0,1.17,7.36,16.24
+31.08.2013,2013,Newcastle,Fulham,1,0,2.12,3.31,3.61
+31.08.2013,2013,Norwich,Southampton,1,0,2.84,3.27,2.51
+31.08.2013,2013,West Ham,Stoke,0,1,1.95,3.36,4.14
+26.08.2013,2013,Manchester Utd,Chelsea,0,0,2.30,3.28,3.26
+25.08.2013,2013,Cardiff,Manchester City,3,2,7.97,4.57,1.42
+25.08.2013,2013,Tottenham,Swansea,1,0,1.70,3.68,5.23
+24.08.2013,2013,Aston Villa,Liverpool,0,1,4.04,3.78,1.87
+24.08.2013,2013,Everton,West Brom,0,0,1.56,4.03,6.32
+24.08.2013,2013,Fulham,Arsenal,1,3,4.45,3.53,1.86
+24.08.2013,2013,Hull,Norwich,1,0,2.37,3.24,3.12
+24.08.2013,2013,Newcastle,West Ham,0,0,2.24,3.34,3.30
+24.08.2013,2013,Southampton,Sunderland,1,1,1.64,3.83,5.64
+24.08.2013,2013,Stoke,Crystal Palace,2,1,1.86,3.43,4.60
+21.08.2013,2013,Chelsea,Aston Villa,2,1,1.28,5.84,10.40
+19.08.2013,2013,Manchester City,Newcastle,4,0,1.27,5.82,11.38
+18.08.2013,2013,Chelsea,Hull,2,0,1.21,6.39,14.75
+18.08.2013,2013,Crystal Palace,Tottenham,0,1,5.70,3.73,1.65
+17.08.2013,2013,Arsenal,Aston Villa,1,3,1.41,4.69,7.64
+17.08.2013,2013,Liverpool,Stoke,1,0,1.40,4.50,8.86
+17.08.2013,2013,Norwich,Everton,2,2,3.46,3.25,2.19
+17.08.2013,2013,Sunderland,Fulham,0,1,2.34,3.22,3.17
+17.08.2013,2013,Swansea,Manchester Utd,1,4,3.58,3.33,2.12
+17.08.2013,2013,West Brom,Southampton,0,1,2.43,3.25,2.97
+17.08.2013,2013,West Ham,Cardiff,2,0,2.03,3.33,3.84

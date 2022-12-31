@@ -9,7 +9,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 07.05.2005,2004,Port Vale,Peterborough,1,0
 07.05.2005,2004,Sheffield Wed,Bristol City,2,3
 07.05.2005,2004,Swindon,Chesterfield,1,1
-07.05.2005,2004,Walsall,Stockport,3,0
+07.05.2005,2004,Walsall,Stockport County,3,0
 07.05.2005,2004,Wrexham,Huddersfield,0,1
 03.05.2005,2004,Wrexham,Brentford,1,2
 30.04.2005,2004,Barnsley,Colchester,1,1
@@ -21,7 +21,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 30.04.2005,2004,Hull,Sheffield Wed,1,2
 30.04.2005,2004,Luton,Brentford,4,2
 30.04.2005,2004,Peterborough,MK Dons,0,3
-30.04.2005,2004,Stockport,Wrexham,1,4
+30.04.2005,2004,Stockport County,Wrexham,1,4
 30.04.2005,2004,Torquay,Blackpool,2,0
 29.04.2005,2004,Tranmere,Port Vale,1,0
 26.04.2005,2004,Port Vale,Wrexham,0,2
@@ -33,7 +33,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 23.04.2005,2004,MK Dons,Bristol City,1,2
 23.04.2005,2004,Oldham,Torquay,1,2
 23.04.2005,2004,Port Vale,Barnsley,5,0
-23.04.2005,2004,Sheffield Wed,Stockport,0,0
+23.04.2005,2004,Sheffield Wed,Stockport County,0,0
 23.04.2005,2004,Swindon,Tranmere,2,1
 23.04.2005,2004,Walsall,Hull,3,0
 23.04.2005,2004,Wrexham,Luton,1,2
@@ -45,12 +45,12 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 16.04.2005,2004,Hull,Swindon,0,0
 16.04.2005,2004,Luton,MK Dons,1,0
 16.04.2005,2004,Peterborough,Walsall,0,2
-16.04.2005,2004,Stockport,Doncaster,2,4
+16.04.2005,2004,Stockport County,Doncaster,2,4
 16.04.2005,2004,Torquay,Port Vale,1,0
 16.04.2005,2004,Tranmere,Blackpool,0,0
 15.04.2005,2004,Hartlepool,Sheffield Wed,3,0
 13.04.2005,2004,Swindon,Bristol City,0,0
-12.04.2005,2004,Stockport,Blackpool,0,1
+12.04.2005,2004,Stockport County,Blackpool,0,1
 12.04.2005,2004,Brentford,Tranmere,1,0
 10.04.2005,2004,Bradford City,Hull,0,2
 09.04.2005,2004,Blackpool,Peterborough,0,1
@@ -62,7 +62,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 09.04.2005,2004,Port Vale,Chesterfield,1,0
 09.04.2005,2004,Swindon,Walsall,1,2
 09.04.2005,2004,Torquay,MK Dons,1,0
-08.04.2005,2004,Tranmere,Stockport,1,0
+08.04.2005,2004,Tranmere,Stockport County,1,0
 05.04.2005,2004,Barnsley,Wrexham,2,2
 05.04.2005,2004,Bristol City,Bournemouth,0,2
 05.04.2005,2004,Hartlepool,Peterborough,2,2
@@ -74,7 +74,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 02.04.2005,2004,MK Dons,Oldham,1,1
 02.04.2005,2004,Peterborough,Huddersfield,1,2
 02.04.2005,2004,Sheffield Wed,Tranmere,1,2
-02.04.2005,2004,Stockport,Brentford,1,2
+02.04.2005,2004,Stockport County,Brentford,1,2
 02.04.2005,2004,Walsall,Torquay,1,1
 02.04.2005,2004,Wrexham,Bournemouth,1,2
 01.04.2005,2004,Doncaster,Colchester,1,1
@@ -82,7 +82,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 28.03.2005,2004,Barnsley,Walsall,3,2
 28.03.2005,2004,Blackpool,Hartlepool,2,2
 28.03.2005,2004,Bournemouth,MK Dons,0,1
-28.03.2005,2004,Bradford City,Stockport,3,1
+28.03.2005,2004,Bradford City,Stockport County,3,1
 28.03.2005,2004,Brentford,Peterborough,0,0
 28.03.2005,2004,Colchester,Chesterfield,1,0
 28.03.2005,2004,Oldham,Hull,1,0
@@ -104,7 +104,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 19.03.2005,2004,Bradford City,Hartlepool,1,2
 19.03.2005,2004,Brentford,Chesterfield,2,2
 19.03.2005,2004,Colchester,Sheffield Wed,1,1
-19.03.2005,2004,Huddersfield,Stockport,5,3
+19.03.2005,2004,Huddersfield,Stockport County,5,3
 19.03.2005,2004,Oldham,Luton,2,2
 19.03.2005,2004,Port Vale,Walsall,2,0
 19.03.2005,2004,Swindon,Wrexham,4,2
@@ -120,7 +120,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 12.03.2005,2004,MK Dons,Port Vale,1,1
 12.03.2005,2004,Peterborough,Bradford City,2,2
 12.03.2005,2004,Sheffield Wed,Blackpool,3,2
-12.03.2005,2004,Stockport,Colchester,1,2
+12.03.2005,2004,Stockport County,Colchester,1,2
 12.03.2005,2004,Walsall,Bournemouth,1,2
 12.03.2005,2004,Wrexham,Oldham,1,0
 08.03.2005,2004,Bournemouth,Blackpool,2,3
@@ -132,7 +132,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 05.03.2005,2004,Colchester,Brentford,0,1
 05.03.2005,2004,Hartlepool,Wrexham,4,6
 05.03.2005,2004,Luton,Bristol City,5,0
-05.03.2005,2004,MK Dons,Stockport,2,1
+05.03.2005,2004,MK Dons,Stockport County,2,1
 05.03.2005,2004,Oldham,Port Vale,3,0
 05.03.2005,2004,Peterborough,Barnsley,1,3
 05.03.2005,2004,Swindon,Bournemouth,0,3
@@ -147,7 +147,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 26.02.2005,2004,Huddersfield,Oldham,2,1
 26.02.2005,2004,Hull,Colchester,2,0
 26.02.2005,2004,Port Vale,Luton,3,1
-26.02.2005,2004,Stockport,Hartlepool,1,0
+26.02.2005,2004,Stockport County,Hartlepool,1,0
 26.02.2005,2004,Walsall,Bradford City,1,1
 26.02.2005,2004,Wrexham,MK Dons,0,0
 23.02.2005,2004,Sheffield Wed,Peterborough,2,1
@@ -159,7 +159,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 22.02.2005,2004,Hartlepool,Brentford,3,1
 22.02.2005,2004,Luton,Walsall,1,0
 22.02.2005,2004,MK Dons,Hull,1,1
-22.02.2005,2004,Stockport,Chesterfield,1,2
+22.02.2005,2004,Stockport County,Chesterfield,1,2
 22.02.2005,2004,Tranmere,Huddersfield,3,0
 22.02.2005,2004,Wrexham,Colchester,2,2
 19.02.2005,2004,Barnsley,Bournemouth,0,1
@@ -168,7 +168,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 19.02.2005,2004,Colchester,Bristol City,0,2
 19.02.2005,2004,Huddersfield,Blackpool,1,0
 19.02.2005,2004,Hull,Wrexham,2,1
-19.02.2005,2004,Oldham,Stockport,1,2
+19.02.2005,2004,Oldham,Stockport County,1,2
 19.02.2005,2004,Peterborough,Doncaster,0,2
 19.02.2005,2004,Port Vale,Hartlepool,0,1
 19.02.2005,2004,Torquay,Swindon,2,2
@@ -181,7 +181,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 12.02.2005,2004,Luton,Hull,1,0
 12.02.2005,2004,MK Dons,Huddersfield,2,1
 12.02.2005,2004,Sheffield Wed,Bradford City,1,2
-12.02.2005,2004,Stockport,Port Vale,1,2
+12.02.2005,2004,Stockport County,Port Vale,1,2
 12.02.2005,2004,Swindon,Barnsley,2,1
 12.02.2005,2004,Tranmere,Colchester,1,1
 12.02.2005,2004,Wrexham,Torquay,1,1
@@ -196,16 +196,16 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 05.02.2005,2004,Huddersfield,Luton,1,1
 05.02.2005,2004,Hull,Bristol City,1,1
 05.02.2005,2004,Oldham,Swindon,1,2
-05.02.2005,2004,Peterborough,Stockport,2,1
+05.02.2005,2004,Peterborough,Stockport County,2,1
 05.02.2005,2004,Port Vale,Bournemouth,2,1
 05.02.2005,2004,Torquay,Doncaster,2,1
 05.02.2005,2004,Walsall,Wrexham,2,2
 01.02.2005,2004,Chesterfield,Hull,1,1
-01.02.2005,2004,Stockport,Bournemouth,2,2
+01.02.2005,2004,Stockport County,Bournemouth,2,2
 31.01.2005,2004,Barnsley,Bradford City,2,2
 29.01.2005,2004,Luton,Tranmere,1,1
 29.01.2005,2004,MK Dons,Sheffield Wed,2,2
-29.01.2005,2004,Swindon,Stockport,3,0
+29.01.2005,2004,Swindon,Stockport County,3,0
 29.01.2005,2004,Walsall,Huddersfield,4,3
 29.01.2005,2004,Wrexham,Doncaster,0,0
 28.01.2005,2004,Bristol City,Chesterfield,2,3
@@ -220,14 +220,14 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 22.01.2005,2004,Hartlepool,Bristol City,2,1
 22.01.2005,2004,Huddersfield,Bournemouth,3,2
 22.01.2005,2004,Peterborough,Oldham,1,2
-22.01.2005,2004,Stockport,Barnsley,2,2
+22.01.2005,2004,Stockport County,Barnsley,2,2
 22.01.2005,2004,Tranmere,Walsall,2,1
 21.01.2005,2004,Sheffield Wed,Port Vale,1,0
 15.01.2005,2004,Barnsley,Huddersfield,4,2
 15.01.2005,2004,Bournemouth,Sheffield Wed,1,1
 15.01.2005,2004,Bristol City,Bradford City,0,0
 15.01.2005,2004,Hull,Peterborough,2,2
-15.01.2005,2004,Luton,Stockport,3,0
+15.01.2005,2004,Luton,Stockport County,3,0
 15.01.2005,2004,MK Dons,Colchester,2,0
 15.01.2005,2004,Oldham,Doncaster,1,2
 15.01.2005,2004,Port Vale,Brentford,0,1
@@ -250,7 +250,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 03.01.2005,2004,Huddersfield,Bristol City,2,2
 03.01.2005,2004,Peterborough,Luton,2,2
 03.01.2005,2004,Sheffield Wed,Wrexham,4,0
-03.01.2005,2004,Stockport,Hull,1,3
+03.01.2005,2004,Stockport County,Hull,1,3
 03.01.2005,2004,Tranmere,Torquay,4,1
 01.01.2005,2004,Barnsley,Hartlepool,0,0
 01.01.2005,2004,Bournemouth,Brentford,3,2
@@ -261,11 +261,11 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 01.01.2005,2004,Oldham,Tranmere,2,2
 01.01.2005,2004,Port Vale,Bradford City,0,1
 01.01.2005,2004,Swindon,Colchester,0,3
-01.01.2005,2004,Torquay,Stockport,1,2
+01.01.2005,2004,Torquay,Stockport County,1,2
 01.01.2005,2004,Walsall,Doncaster,1,1
 01.01.2005,2004,Wrexham,Blackpool,1,2
 29.12.2004,2004,Hull,Doncaster,2,1
-28.12.2004,2004,Barnsley,Stockport,3,3
+28.12.2004,2004,Barnsley,Stockport County,3,3
 28.12.2004,2004,Bournemouth,Huddersfield,2,2
 28.12.2004,2004,Bristol City,Hartlepool,0,0
 28.12.2004,2004,Luton,Colchester,2,2
@@ -285,7 +285,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 26.12.2004,2004,Huddersfield,Port Vale,2,1
 26.12.2004,2004,Peterborough,Swindon,0,2
 26.12.2004,2004,Sheffield Wed,Walsall,3,2
-26.12.2004,2004,Stockport,Bristol City,1,2
+26.12.2004,2004,Stockport County,Bristol City,1,2
 26.12.2004,2004,Tranmere,Barnsley,1,1
 19.12.2004,2004,Doncaster,Sheffield Wed,0,4
 18.12.2004,2004,Barnsley,Peterborough,4,0
@@ -296,13 +296,13 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 18.12.2004,2004,Huddersfield,Bradford City,0,1
 18.12.2004,2004,Hull,Tranmere,6,1
 18.12.2004,2004,Port Vale,Oldham,3,1
-18.12.2004,2004,Stockport,MK Dons,3,1
+18.12.2004,2004,Stockport County,MK Dons,3,1
 18.12.2004,2004,Walsall,Blackpool,3,2
 18.12.2004,2004,Wrexham,Hartlepool,1,5
 11.12.2004,2004,Blackpool,Bristol City,1,1
 11.12.2004,2004,Bradford City,Walsall,1,1
 11.12.2004,2004,Colchester,Hull,1,2
-11.12.2004,2004,Hartlepool,Stockport,3,1
+11.12.2004,2004,Hartlepool,Stockport County,3,1
 11.12.2004,2004,Luton,Port Vale,1,0
 11.12.2004,2004,MK Dons,Wrexham,3,0
 11.12.2004,2004,Oldham,Huddersfield,2,1
@@ -322,7 +322,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 07.12.2004,2004,Oldham,Chesterfield,4,1
 07.12.2004,2004,Port Vale,Tranmere,3,1
 07.12.2004,2004,Walsall,Hartlepool,2,1
-07.12.2004,2004,Wrexham,Stockport,2,1
+07.12.2004,2004,Wrexham,Stockport County,2,1
 27.11.2004,2004,Barnsley,Blackpool,1,0
 27.11.2004,2004,Bradford City,Oldham,1,3
 27.11.2004,2004,Bristol City,Sheffield Wed,1,4
@@ -332,7 +332,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 27.11.2004,2004,Hull,Brentford,2,0
 27.11.2004,2004,Luton,Doncaster,1,1
 27.11.2004,2004,Peterborough,Port Vale,4,0
-27.11.2004,2004,Stockport,Walsall,0,1
+27.11.2004,2004,Stockport County,Walsall,0,1
 27.11.2004,2004,Torquay,Colchester,1,3
 27.11.2004,2004,Tranmere,MK Dons,2,0
 23.11.2004,2004,Torquay,Wrexham,1,0
@@ -340,7 +340,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 20.11.2004,2004,Bournemouth,Chesterfield,0,0
 20.11.2004,2004,Brentford,Bradford City,1,2
 20.11.2004,2004,Colchester,Huddersfield,0,0
-20.11.2004,2004,Doncaster,Stockport,3,1
+20.11.2004,2004,Doncaster,Stockport County,3,1
 20.11.2004,2004,MK Dons,Luton,1,4
 20.11.2004,2004,Oldham,Barnsley,3,2
 20.11.2004,2004,Port Vale,Torquay,1,2
@@ -359,7 +359,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 06.11.2004,2004,Hull,Walsall,3,1
 06.11.2004,2004,Luton,Wrexham,5,1
 06.11.2004,2004,Peterborough,Bournemouth,0,1
-06.11.2004,2004,Stockport,Sheffield Wed,0,3
+06.11.2004,2004,Stockport County,Sheffield Wed,0,3
 06.11.2004,2004,Torquay,Oldham,2,0
 06.11.2004,2004,Tranmere,Swindon,2,1
 30.10.2004,2004,Blackpool,Huddersfield,1,1
@@ -370,7 +370,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 30.10.2004,2004,Luton,Bradford City,4,0
 30.10.2004,2004,MK Dons,Walsall,1,1
 30.10.2004,2004,Sheffield Wed,Chesterfield,2,2
-30.10.2004,2004,Stockport,Oldham,1,2
+30.10.2004,2004,Stockport County,Oldham,1,2
 30.10.2004,2004,Swindon,Torquay,3,3
 30.10.2004,2004,Tranmere,Brentford,1,0
 30.10.2004,2004,Wrexham,Hull,2,2
@@ -385,10 +385,10 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 23.10.2004,2004,Hull,Luton,3,0
 23.10.2004,2004,Oldham,Bournemouth,1,2
 23.10.2004,2004,Peterborough,Hartlepool,3,0
-23.10.2004,2004,Port Vale,Stockport,0,0
+23.10.2004,2004,Port Vale,Stockport County,0,0
 23.10.2004,2004,Walsall,Bristol City,1,2
 20.10.2004,2004,Barnsley,Doncaster,1,3
-20.10.2004,2004,Chesterfield,Stockport,4,0
+20.10.2004,2004,Chesterfield,Stockport County,4,0
 20.10.2004,2004,Hull,MK Dons,3,2
 19.10.2004,2004,Bradford City,Blackpool,2,1
 19.10.2004,2004,Brentford,Hartlepool,2,1
@@ -407,7 +407,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 16.10.2004,2004,Hartlepool,Chesterfield,3,2
 16.10.2004,2004,Luton,Huddersfield,1,2
 16.10.2004,2004,MK Dons,Brentford,0,0
-16.10.2004,2004,Stockport,Peterborough,1,0
+16.10.2004,2004,Stockport County,Peterborough,1,0
 16.10.2004,2004,Swindon,Oldham,1,0
 16.10.2004,2004,Tranmere,Bradford City,4,5
 16.10.2004,2004,Wrexham,Walsall,1,1
@@ -416,7 +416,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 09.10.2004,2004,Barnsley,Brentford,0,0
 09.10.2004,2004,Torquay,Huddersfield,2,1
 09.10.2004,2004,Walsall,Colchester,2,1
-08.10.2004,2004,Bournemouth,Stockport,2,1
+08.10.2004,2004,Bournemouth,Stockport County,2,1
 08.10.2004,2004,Luton,Hartlepool,3,0
 08.10.2004,2004,MK Dons,Bradford City,1,2
 08.10.2004,2004,Port Vale,Doncaster,2,0
@@ -430,12 +430,12 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 02.10.2004,2004,Huddersfield,Walsall,3,1
 02.10.2004,2004,Peterborough,Torquay,1,1
 02.10.2004,2004,Sheffield Wed,MK Dons,1,1
-02.10.2004,2004,Stockport,Swindon,3,3
+02.10.2004,2004,Stockport County,Swindon,3,3
 02.10.2004,2004,Tranmere,Luton,1,1
 25.09.2004,2004,Barnsley,Chesterfield,1,0
 25.09.2004,2004,Bournemouth,Doncaster,5,0
 25.09.2004,2004,Bristol City,Huddersfield,3,3
-25.09.2004,2004,Hull,Stockport,0,0
+25.09.2004,2004,Hull,Stockport County,0,0
 25.09.2004,2004,Luton,Peterborough,2,1
 25.09.2004,2004,MK Dons,Hartlepool,4,2
 25.09.2004,2004,Oldham,Colchester,1,1
@@ -454,12 +454,12 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 18.09.2004,2004,Huddersfield,Barnsley,0,2
 18.09.2004,2004,Peterborough,Hull,2,3
 18.09.2004,2004,Sheffield Wed,Bournemouth,0,1
-18.09.2004,2004,Stockport,Luton,1,3
+18.09.2004,2004,Stockport County,Luton,1,3
 18.09.2004,2004,Tranmere,Wrexham,1,1
 14.09.2004,2004,Tranmere,Oldham,2,0
 11.09.2004,2004,Barnsley,Tranmere,0,0
 11.09.2004,2004,Bournemouth,Colchester,1,3
-11.09.2004,2004,Bristol City,Stockport,5,0
+11.09.2004,2004,Bristol City,Stockport County,5,0
 11.09.2004,2004,Hull,Blackpool,2,1
 11.09.2004,2004,Luton,Chesterfield,1,0
 11.09.2004,2004,MK Dons,Doncaster,0,1
@@ -478,7 +478,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 04.09.2004,2004,Hartlepool,Barnsley,1,1
 04.09.2004,2004,Peterborough,Bristol City,0,1
 04.09.2004,2004,Sheffield Wed,Luton,0,0
-04.09.2004,2004,Stockport,Torquay,0,2
+04.09.2004,2004,Stockport County,Torquay,0,2
 31.08.2004,2004,Chesterfield,Port Vale,1,0
 31.08.2004,2004,Hull,Bradford City,0,1
 30.08.2004,2004,Bristol City,Brentford,4,1
@@ -488,14 +488,14 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 30.08.2004,2004,MK Dons,Torquay,1,0
 30.08.2004,2004,Peterborough,Blackpool,0,0
 30.08.2004,2004,Sheffield Wed,Oldham,1,1
-30.08.2004,2004,Stockport,Tranmere,1,1
+30.08.2004,2004,Stockport County,Tranmere,1,1
 30.08.2004,2004,Walsall,Swindon,3,2
 30.08.2004,2004,Wrexham,Barnsley,2,1
 28.08.2004,2004,Barnsley,Hull,1,2
 28.08.2004,2004,Blackpool,Luton,1,3
 28.08.2004,2004,Bournemouth,Wrexham,1,0
 28.08.2004,2004,Bradford City,Chesterfield,2,3
-28.08.2004,2004,Brentford,Stockport,3,0
+28.08.2004,2004,Brentford,Stockport County,3,0
 28.08.2004,2004,Colchester,Doncaster,4,1
 28.08.2004,2004,Huddersfield,Peterborough,2,1
 28.08.2004,2004,Oldham,MK Dons,3,0
@@ -512,12 +512,12 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 21.08.2004,2004,MK Dons,Bournemouth,1,3
 21.08.2004,2004,Peterborough,Brentford,3,0
 21.08.2004,2004,Sheffield Wed,Huddersfield,1,0
-21.08.2004,2004,Stockport,Bradford City,0,1
+21.08.2004,2004,Stockport County,Bradford City,0,1
 21.08.2004,2004,Walsall,Barnsley,2,2
 21.08.2004,2004,Wrexham,Port Vale,1,1
 16.08.2004,2004,Huddersfield,Hartlepool,0,2
 14.08.2004,2004,Barnsley,Luton,3,4
-14.08.2004,2004,Blackpool,Stockport,0,4
+14.08.2004,2004,Blackpool,Stockport County,0,4
 14.08.2004,2004,Bournemouth,Bristol City,2,2
 14.08.2004,2004,Bradford City,Doncaster,2,0
 14.08.2004,2004,Brentford,Wrexham,1,0
@@ -533,7 +533,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 10.08.2004,2004,Bournemouth,Walsall,2,2
 10.08.2004,2004,Bradford City,Peterborough,2,2
 10.08.2004,2004,Brentford,Doncaster,4,3
-10.08.2004,2004,Colchester,Stockport,3,2
+10.08.2004,2004,Colchester,Stockport County,3,2
 10.08.2004,2004,Huddersfield,Chesterfield,0,0
 10.08.2004,2004,Oldham,Wrexham,2,3
 10.08.2004,2004,Port Vale,MK Dons,3,2
@@ -548,6 +548,6 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 07.08.2004,2004,MK Dons,Barnsley,1,1
 07.08.2004,2004,Peterborough,Tranmere,1,0
 07.08.2004,2004,Sheffield Wed,Colchester,0,3
-07.08.2004,2004,Stockport,Huddersfield,2,3
+07.08.2004,2004,Stockport County,Huddersfield,2,3
 07.08.2004,2004,Walsall,Port Vale,3,2
 07.08.2004,2004,Wrexham,Swindon,2,1

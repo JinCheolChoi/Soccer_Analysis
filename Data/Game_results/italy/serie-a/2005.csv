@@ -1,6 +1,5 @@
 Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 14.05.2006,2005,AC Milan,AS Roma,2,1
-14.05.2006,2005,ACN Siena,Livorno,0,0
 14.05.2006,2005,Cagliari,Inter,2,2
 14.05.2006,2005,Chievo,Fiorentina,0,2
 14.05.2006,2005,Empoli,Ascoli,1,2
@@ -8,19 +7,19 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 14.05.2006,2005,Palermo,ACR Messina,1,0
 14.05.2006,2005,Reggina,Juventus,0,2
 14.05.2006,2005,Sampdoria,Lecce,1,3
+14.05.2006,2005,Siena,Livorno,0,0
 14.05.2006,2005,Treviso,Udinese,2,1
 07.05.2006,2005,ACR Messina,Empoli,0,3 AWA.
 07.05.2006,2005,Ascoli,Lazio,1,4
 07.05.2006,2005,AS Roma,Treviso,1,0
 07.05.2006,2005,Fiorentina,Reggina,5,2
-07.05.2006,2005,Inter,ACN Siena,1,1
+07.05.2006,2005,Inter,Siena,1,1
 07.05.2006,2005,Juventus,Palermo,2,1
 07.05.2006,2005,Lecce,Chievo,0,0
 07.05.2006,2005,Livorno,Sampdoria,0,0
 07.05.2006,2005,Parma,AC Milan,2,3
 07.05.2006,2005,Udinese,Cagliari,2,0
 30.04.2006,2005,AC Milan,Livorno,2,0
-30.04.2006,2005,ACN Siena,Juventus,0,3
 30.04.2006,2005,Cagliari,Parma,3,1
 30.04.2006,2005,Chievo,AS Roma,4,4
 30.04.2006,2005,Empoli,Inter,1,0
@@ -28,6 +27,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 30.04.2006,2005,Palermo,Fiorentina,1,0
 30.04.2006,2005,Reggina,ACR Messina,3,0
 30.04.2006,2005,Sampdoria,Udinese,1,1
+30.04.2006,2005,Siena,Juventus,0,3
 30.04.2006,2005,Treviso,Ascoli,2,2
 22.04.2006,2005,ACR Messina,AC Milan,1,3
 22.04.2006,2005,Ascoli,Cagliari,2,2
@@ -37,11 +37,11 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 22.04.2006,2005,Juventus,Lazio,1,1
 22.04.2006,2005,Lecce,Treviso,1,1
 22.04.2006,2005,Livorno,Palermo,3,1
-22.04.2006,2005,Parma,ACN Siena,1,1
+22.04.2006,2005,Parma,Siena,1,1
 22.04.2006,2005,Udinese,Chievo,1,1
 15.04.2006,2005,Cagliari,Juventus,1,1
 15.04.2006,2005,Chievo,ACR Messina,2,0
-15.04.2006,2005,Empoli,ACN Siena,2,1
+15.04.2006,2005,Empoli,Siena,2,1
 15.04.2006,2005,Lazio,Livorno,3,1
 15.04.2006,2005,Lecce,Udinese,1,2
 15.04.2006,2005,Palermo,AS Roma,3,3
@@ -50,38 +50,38 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 15.04.2006,2005,Treviso,Fiorentina,1,3
 14.04.2006,2005,AC Milan,Inter,1,0
 09.04.2006,2005,AC Milan,Chievo,4,1
-09.04.2006,2005,ACN Siena,Lazio,2,3
 09.04.2006,2005,ACR Messina,Treviso,3,1
 09.04.2006,2005,AS Roma,Lecce,3,1
 09.04.2006,2005,Cagliari,Palermo,1,1
 09.04.2006,2005,Empoli,Sampdoria,2,1
 09.04.2006,2005,Juventus,Fiorentina,1,1
 09.04.2006,2005,Parma,Reggina,4,0
+09.04.2006,2005,Siena,Lazio,2,3
 08.04.2006,2005,Ascoli,Inter,1,2
 08.04.2006,2005,Livorno,Udinese,0,2
 02.04.2006,2005,Chievo,Livorno,2,1
 02.04.2006,2005,Fiorentina,AS Roma,1,1
 02.04.2006,2005,Lazio,Empoli,3,3
 02.04.2006,2005,Palermo,Ascoli,1,1
-02.04.2006,2005,Reggina,ACN Siena,1,1
+02.04.2006,2005,Reggina,Siena,1,1
 02.04.2006,2005,Sampdoria,Cagliari,1,1
 02.04.2006,2005,Udinese,Parma,2,0
 01.04.2006,2005,Inter,ACR Messina,3,0
 01.04.2006,2005,Lecce,AC Milan,1,0
 01.04.2006,2005,Treviso,Juventus,0,0
-26.03.2006,2005,ACN Siena,Lecce,1,2
 26.03.2006,2005,ACR Messina,Udinese,1,1
 26.03.2006,2005,Ascoli,Chievo,2,2
 26.03.2006,2005,Cagliari,Reggina,0,2
 26.03.2006,2005,Empoli,Livorno,2,1
 26.03.2006,2005,Lazio,Sampdoria,2,0
 26.03.2006,2005,Palermo,Treviso,1,0
+26.03.2006,2005,Siena,Lecce,1,2
 25.03.2006,2005,AC Milan,Fiorentina,3,1
 25.03.2006,2005,Juventus,AS Roma,1,1
 25.03.2006,2005,Parma,Inter,1,0
 22.03.2006,2005,Cagliari,Fiorentina,0,0
 19.03.2006,2005,AS Roma,ACR Messina,2,1
-19.03.2006,2005,Chievo,ACN Siena,4,1
+19.03.2006,2005,Chievo,Siena,4,1
 19.03.2006,2005,Fiorentina,Ascoli,3,1
 19.03.2006,2005,Inter,Lazio,3,1
 19.03.2006,2005,Lecce,Parma,1,2
@@ -97,19 +97,18 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 12.03.2006,2005,Lazio,Reggina,3,1
 12.03.2006,2005,Palermo,Udinese,2,0
 12.03.2006,2005,Parma,Livorno,2,1
-11.03.2006,2005,ACN Siena,Treviso,1,0
 11.03.2006,2005,Inter,Sampdoria,1,0
+11.03.2006,2005,Siena,Treviso,1,0
 05.03.2006,2005,ACR Messina,Parma,0,1
 05.03.2006,2005,AS Roma,Inter,1,1
 05.03.2006,2005,Chievo,Lazio,2,2
-05.03.2006,2005,Fiorentina,ACN Siena,2,1
+05.03.2006,2005,Fiorentina,Siena,2,1
 05.03.2006,2005,Lecce,Palermo,2,0
 05.03.2006,2005,Livorno,Cagliari,0,1
 05.03.2006,2005,Treviso,Reggina,0,1
 05.03.2006,2005,Udinese,Ascoli,1,1
 04.03.2006,2005,AC Milan,Empoli,3,0
 04.03.2006,2005,Sampdoria,Juventus,0,1
-26.02.2006,2005,ACN Siena,Sampdoria,1,0
 26.02.2006,2005,Ascoli,ACR Messina,1,0
 26.02.2006,2005,Cagliari,Chievo,2,2
 26.02.2006,2005,Empoli,Treviso,1,1
@@ -117,6 +116,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 26.02.2006,2005,Juventus,Lecce,3,1
 26.02.2006,2005,Lazio,AS Roma,0,2
 26.02.2006,2005,Palermo,AC Milan,0,2
+26.02.2006,2005,Siena,Sampdoria,1,0
 25.02.2006,2005,Parma,Fiorentina,2,4
 25.02.2006,2005,Reggina,Livorno,1,1
 19.02.2006,2005,AS Roma,Empoli,1,0
@@ -125,11 +125,10 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 19.02.2006,2005,Lecce,Reggina,0,0
 19.02.2006,2005,Sampdoria,Ascoli,1,2
 19.02.2006,2005,Treviso,Parma,0,1
-19.02.2006,2005,Udinese,ACN Siena,1,2
+19.02.2006,2005,Udinese,Siena,1,2
 18.02.2006,2005,AC Milan,Cagliari,1,0
 18.02.2006,2005,ACR Messina,Juventus,2,2
 18.02.2006,2005,Livorno,Inter,0,0
-12.02.2006,2005,ACN Siena,AS Roma,0,2
 12.02.2006,2005,Cagliari,Lecce,0,0
 12.02.2006,2005,Empoli,Palermo,0,1
 12.02.2006,2005,Inter,Juventus,1,2
@@ -137,10 +136,11 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 12.02.2006,2005,Parma,Ascoli,0,0
 12.02.2006,2005,Reggina,AC Milan,1,4
 12.02.2006,2005,Sampdoria,ACR Messina,4,2
+12.02.2006,2005,Siena,AS Roma,0,2
 11.02.2006,2005,Lazio,Udinese,1,1
 11.02.2006,2005,Treviso,Chievo,1,2
 08.02.2006,2005,AC Milan,Treviso,5,0
-08.02.2006,2005,ACR Messina,ACN Siena,0,0
+08.02.2006,2005,ACR Messina,Siena,0,0
 08.02.2006,2005,Ascoli,Livorno,0,0
 08.02.2006,2005,AS Roma,Cagliari,4,3
 08.02.2006,2005,Chievo,Sampdoria,1,1
@@ -157,8 +157,8 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 05.02.2006,2005,Livorno,ACR Messina,2,2
 05.02.2006,2005,Reggina,Palermo,2,2
 05.02.2006,2005,Sampdoria,Treviso,1,1
-04.02.2006,2005,ACN Siena,Ascoli,1,1
 04.02.2006,2005,Parma,AS Roma,0,3
+04.02.2006,2005,Siena,Ascoli,1,1
 29.01.2006,2005,ACR Messina,Cagliari,1,0
 29.01.2006,2005,Ascoli,Juventus,1,3
 29.01.2006,2005,AS Roma,Livorno,3,0
@@ -168,21 +168,21 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 29.01.2006,2005,Treviso,Lazio,0,1
 29.01.2006,2005,Udinese,Fiorentina,0,0
 28.01.2006,2005,AC Milan,Sampdoria,1,1
-28.01.2006,2005,Palermo,ACN Siena,1,3
-22.01.2006,2005,ACN Siena,AC Milan,0,3
+28.01.2006,2005,Palermo,Siena,1,3
 22.01.2006,2005,Ascoli,Lecce,2,0
 22.01.2006,2005,Fiorentina,ACR Messina,2,0
 22.01.2006,2005,Juventus,Empoli,2,1
 22.01.2006,2005,Livorno,Treviso,1,1
 22.01.2006,2005,Parma,Chievo,2,1
 22.01.2006,2005,Reggina,Sampdoria,2,1
+22.01.2006,2005,Siena,AC Milan,0,3
 22.01.2006,2005,Udinese,AS Roma,1,4
 21.01.2006,2005,Inter,Palermo,3,0
 21.01.2006,2005,Lazio,Cagliari,1,1
 18.01.2006,2005,AC Milan,Ascoli,1,0
 18.01.2006,2005,ACR Messina,Lazio,1,1
 18.01.2006,2005,AS Roma,Reggina,3,1
-18.01.2006,2005,Cagliari,ACN Siena,1,0
+18.01.2006,2005,Cagliari,Siena,1,0
 18.01.2006,2005,Chievo,Juventus,1,1
 18.01.2006,2005,Empoli,Udinese,1,1
 18.01.2006,2005,Lecce,Livorno,0,0
@@ -194,18 +194,18 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 15.01.2006,2005,Fiorentina,Chievo,2,1
 15.01.2006,2005,Inter,Cagliari,3,2
 15.01.2006,2005,Juventus,Reggina,1,0
-15.01.2006,2005,Livorno,ACN Siena,2,2
+15.01.2006,2005,Livorno,Siena,2,2
 15.01.2006,2005,Parma,Lazio,1,1
 15.01.2006,2005,Udinese,Treviso,2,2
 14.01.2006,2005,ACR Messina,Palermo,0,0
 14.01.2006,2005,Lecce,Sampdoria,0,3
 08.01.2006,2005,AC Milan,Parma,4,3
-08.01.2006,2005,ACN Siena,Inter,0,0
 08.01.2006,2005,Cagliari,Udinese,2,1
 08.01.2006,2005,Chievo,Lecce,3,1
 08.01.2006,2005,Empoli,ACR Messina,1,3
 08.01.2006,2005,Lazio,Ascoli,4,1
 08.01.2006,2005,Sampdoria,Livorno,0,2
+08.01.2006,2005,Siena,Inter,0,0
 08.01.2006,2005,Treviso,AS Roma,0,1
 07.01.2006,2005,Palermo,Juventus,1,2
 07.01.2006,2005,Reggina,Fiorentina,1,1
@@ -214,19 +214,19 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 21.12.2005,2005,AS Roma,Chievo,4,0
 21.12.2005,2005,Fiorentina,Palermo,1,0
 21.12.2005,2005,Inter,Empoli,4,1
-21.12.2005,2005,Juventus,ACN Siena,2,0
+21.12.2005,2005,Juventus,Siena,2,0
 21.12.2005,2005,Lecce,Lazio,0,0
 21.12.2005,2005,Livorno,AC Milan,0,3
 21.12.2005,2005,Parma,Cagliari,1,0
 21.12.2005,2005,Udinese,Sampdoria,2,0
 18.12.2005,2005,AC Milan,ACR Messina,4,0
-18.12.2005,2005,ACN Siena,Parma,2,2
 18.12.2005,2005,Cagliari,Ascoli,2,1
 18.12.2005,2005,Chievo,Udinese,2,0
 18.12.2005,2005,Empoli,Fiorentina,1,1
 18.12.2005,2005,Palermo,Livorno,0,2
 18.12.2005,2005,Reggina,Inter,0,4
 18.12.2005,2005,Sampdoria,AS Roma,1,1
+18.12.2005,2005,Siena,Parma,2,2
 17.12.2005,2005,Lazio,Juventus,1,1
 17.12.2005,2005,Treviso,Lecce,2,1
 11.12.2005,2005,ACR Messina,Chievo,2,0
@@ -237,10 +237,10 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 11.12.2005,2005,Livorno,Lazio,2,1
 11.12.2005,2005,Parma,Sampdoria,1,1
 11.12.2005,2005,Udinese,Lecce,1,2
-10.12.2005,2005,ACN Siena,Empoli,1,0
 10.12.2005,2005,Fiorentina,Treviso,1,0
+10.12.2005,2005,Siena,Empoli,1,0
 04.12.2005,2005,Fiorentina,Juventus,1,2
-04.12.2005,2005,Lazio,ACN Siena,3,2
+04.12.2005,2005,Lazio,Siena,3,2
 04.12.2005,2005,Lecce,AS Roma,2,2
 04.12.2005,2005,Palermo,Cagliari,2,2
 04.12.2005,2005,Reggina,Parma,2,1
@@ -249,7 +249,6 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 04.12.2005,2005,Udinese,Livorno,0,2
 03.12.2005,2005,Chievo,AC Milan,2,1
 03.12.2005,2005,Inter,Ascoli,1,0
-27.11.2005,2005,ACN Siena,Reggina,0,0
 27.11.2005,2005,ACR Messina,Inter,1,2
 27.11.2005,2005,Ascoli,Palermo,1,1
 27.11.2005,2005,AS Roma,Fiorentina,1,1
@@ -257,12 +256,13 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 27.11.2005,2005,Empoli,Lazio,2,3
 27.11.2005,2005,Juventus,Treviso,3,1
 27.11.2005,2005,Parma,Udinese,1,2
+27.11.2005,2005,Siena,Reggina,0,0
 26.11.2005,2005,AC Milan,Lecce,2,1
 26.11.2005,2005,Livorno,Chievo,0,0
 20.11.2005,2005,Chievo,Ascoli,1,1
 20.11.2005,2005,Fiorentina,AC Milan,3,1
 20.11.2005,2005,Inter,Parma,2,0
-20.11.2005,2005,Lecce,ACN Siena,3,0
+20.11.2005,2005,Lecce,Siena,3,0
 20.11.2005,2005,Livorno,Empoli,2,0
 20.11.2005,2005,Reggina,Cagliari,3,1
 20.11.2005,2005,Sampdoria,Lazio,2,0
@@ -270,13 +270,13 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 19.11.2005,2005,AS Roma,Juventus,1,4
 19.11.2005,2005,Udinese,ACR Messina,1,0
 06.11.2005,2005,AC Milan,Udinese,5,1
-06.11.2005,2005,ACN Siena,Chievo,0,1
 06.11.2005,2005,ACR Messina,AS Roma,0,2
 06.11.2005,2005,Ascoli,Fiorentina,0,2
 06.11.2005,2005,Cagliari,Treviso,0,0
 06.11.2005,2005,Juventus,Livorno,3,0
 06.11.2005,2005,Palermo,Sampdoria,0,2
 06.11.2005,2005,Parma,Lecce,2,0
+06.11.2005,2005,Siena,Chievo,0,1
 05.11.2005,2005,Empoli,Reggina,3,0
 05.11.2005,2005,Lazio,Inter,0,0
 30.10.2005,2005,AS Roma,Ascoli,2,1
@@ -285,11 +285,10 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 30.10.2005,2005,Lecce,ACR Messina,0,2
 30.10.2005,2005,Livorno,Parma,2,0
 30.10.2005,2005,Reggina,Lazio,1,0
-30.10.2005,2005,Treviso,ACN Siena,0,1
+30.10.2005,2005,Treviso,Siena,0,1
 30.10.2005,2005,Udinese,Palermo,0,0
 29.10.2005,2005,AC Milan,Juventus,3,1
 29.10.2005,2005,Sampdoria,Inter,2,2
-26.10.2005,2005,ACN Siena,Fiorentina,0,2
 26.10.2005,2005,Ascoli,Udinese,1,1
 26.10.2005,2005,Cagliari,Livorno,1,1
 26.10.2005,2005,Empoli,AC Milan,1,3
@@ -299,12 +298,13 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 26.10.2005,2005,Palermo,Lecce,3,0
 26.10.2005,2005,Parma,ACR Messina,1,1
 26.10.2005,2005,Reggina,Treviso,1,2
+26.10.2005,2005,Siena,Fiorentina,0,2
 23.10.2005,2005,AC Milan,Palermo,2,1
 23.10.2005,2005,AS Roma,Lazio,1,1
 23.10.2005,2005,Chievo,Cagliari,2,1
 23.10.2005,2005,Lecce,Juventus,0,3
 23.10.2005,2005,Livorno,Reggina,1,0
-23.10.2005,2005,Sampdoria,ACN Siena,3,3
+23.10.2005,2005,Sampdoria,Siena,3,3
 23.10.2005,2005,Treviso,Empoli,1,2
 23.10.2005,2005,Udinese,Inter,0,1
 22.10.2005,2005,ACR Messina,Ascoli,1,1
@@ -317,31 +317,31 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 16.10.2005,2005,Palermo,Chievo,2,2
 16.10.2005,2005,Parma,Treviso,1,1
 16.10.2005,2005,Reggina,Lecce,2,0
-15.10.2005,2005,ACN Siena,Udinese,2,3
 15.10.2005,2005,Juventus,ACR Messina,1,0
+15.10.2005,2005,Siena,Udinese,2,3
 02.10.2005,2005,AC Milan,Reggina,2,1
 02.10.2005,2005,ACR Messina,Sampdoria,1,4
 02.10.2005,2005,Ascoli,Parma,3,1
-02.10.2005,2005,AS Roma,ACN Siena,2,3
+02.10.2005,2005,AS Roma,Siena,2,3
 02.10.2005,2005,Fiorentina,Livorno,3,2
 02.10.2005,2005,Juventus,Inter,2,0
 02.10.2005,2005,Lecce,Cagliari,3,0
 02.10.2005,2005,Palermo,Empoli,2,2
 01.10.2005,2005,Chievo,Treviso,0,0
 01.10.2005,2005,Udinese,Lazio,3,0
-25.09.2005,2005,ACN Siena,ACR Messina,4,2
 25.09.2005,2005,Cagliari,AS Roma,0,0
 25.09.2005,2005,Empoli,Lecce,1,0
 25.09.2005,2005,Inter,Fiorentina,1,0
 25.09.2005,2005,Lazio,Palermo,4,2
 25.09.2005,2005,Livorno,Ascoli,2,0
 25.09.2005,2005,Sampdoria,Chievo,1,2
+25.09.2005,2005,Siena,ACR Messina,4,2
 25.09.2005,2005,Treviso,AC Milan,0,2
 24.09.2005,2005,Parma,Juventus,1,2
 24.09.2005,2005,Reggina,Udinese,2,0
 21.09.2005,2005,AC Milan,Lazio,2,0
 21.09.2005,2005,ACR Messina,Livorno,0,0
-21.09.2005,2005,Ascoli,ACN Siena,1,1
+21.09.2005,2005,Ascoli,Siena,1,1
 21.09.2005,2005,AS Roma,Parma,4,1
 21.09.2005,2005,Chievo,Inter,0,1
 21.09.2005,2005,Empoli,Cagliari,3,1
@@ -349,7 +349,6 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 21.09.2005,2005,Palermo,Reggina,1,0
 21.09.2005,2005,Treviso,Sampdoria,0,2
 21.09.2005,2005,Udinese,Juventus,0,1
-18.09.2005,2005,ACN Siena,Palermo,1,2
 18.09.2005,2005,Cagliari,ACR Messina,1,1
 18.09.2005,2005,Fiorentina,Udinese,4,2
 18.09.2005,2005,Juventus,Ascoli,2,1
@@ -357,6 +356,7 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 18.09.2005,2005,Livorno,AS Roma,0,0
 18.09.2005,2005,Reggina,Chievo,1,3
 18.09.2005,2005,Sampdoria,AC Milan,2,1
+18.09.2005,2005,Siena,Palermo,1,2
 17.09.2005,2005,Inter,Lecce,3,0
 17.09.2005,2005,Parma,Empoli,1,0
 11.09.2005,2005,ACR Messina,Fiorentina,2,2
@@ -367,15 +367,15 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
 11.09.2005,2005,Lecce,Ascoli,0,0
 11.09.2005,2005,Sampdoria,Reggina,3,2
 11.09.2005,2005,Treviso,Livorno,0,1
-10.09.2005,2005,AC Milan,ACN Siena,3,1
+10.09.2005,2005,AC Milan,Siena,3,1
 10.09.2005,2005,Palermo,Inter,3,2
-28.08.2005,2005,ACN Siena,Cagliari,2,1
 28.08.2005,2005,Ascoli,AC Milan,1,1
 28.08.2005,2005,Inter,Treviso,3,0
 28.08.2005,2005,Juventus,Chievo,1,0
 28.08.2005,2005,Lazio,ACR Messina,1,0
 28.08.2005,2005,Parma,Palermo,1,1
 28.08.2005,2005,Reggina,AS Roma,0,3
+28.08.2005,2005,Siena,Cagliari,2,1
 28.08.2005,2005,Udinese,Empoli,1,0
 27.08.2005,2005,Fiorentina,Sampdoria,2,1
 27.08.2005,2005,Livorno,Lecce,2,1

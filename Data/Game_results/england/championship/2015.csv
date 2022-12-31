@@ -1,553 +1,553 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-07.05.2016,2015,Blackburn,Reading,3,1
-07.05.2016,2015,Cardiff,Birmingham,1,1
-07.05.2016,2015,Charlton,Burnley,0,3
-07.05.2016,2015,Derby,Ipswich,0,1
-07.05.2016,2015,Fulham,Bolton,1,0
-07.05.2016,2015,Huddersfield,Brentford,1,5
-07.05.2016,2015,Hull,Rotherham,5,1
-07.05.2016,2015,Middlesbrough,Brighton,1,1
-07.05.2016,2015,MK Dons,Nottingham,1,2
-07.05.2016,2015,Preston,Leeds,1,1
-07.05.2016,2015,QPR,Bristol City,1,0
-07.05.2016,2015,Wolves,Sheffield Wed,2,1
-02.05.2016,2015,Brighton,Derby,1,1
-02.05.2016,2015,Burnley,QPR,1,0
-30.04.2016,2015,Bolton,Hull,1,0
-30.04.2016,2015,Brentford,Fulham,3,0
-30.04.2016,2015,Bristol City,Huddersfield,4,0
-30.04.2016,2015,Ipswich,MK Dons,3,2
-30.04.2016,2015,Leeds,Charlton,1,2
-30.04.2016,2015,Nottingham,Wolves,1,1
-30.04.2016,2015,Reading,Preston,1,2
-30.04.2016,2015,Rotherham,Blackburn,0,1
-30.04.2016,2015,Sheffield Wed,Cardiff,3,0
-29.04.2016,2015,Birmingham,Middlesbrough,2,2
-26.04.2016,2015,Hull,Brentford,2,0
-23.04.2016,2015,Blackburn,Bristol City,2,2
-23.04.2016,2015,Cardiff,Bolton,2,1
-23.04.2016,2015,Charlton,Brighton,1,3
-23.04.2016,2015,Derby,Sheffield Wed,1,1
-23.04.2016,2015,Fulham,Nottingham,1,3
-23.04.2016,2015,Huddersfield,Birmingham,1,1
-23.04.2016,2015,Hull,Leeds,2,2
-23.04.2016,2015,Middlesbrough,Ipswich,0,0
-23.04.2016,2015,MK Dons,Brentford,1,4
-23.04.2016,2015,QPR,Reading,1,1
-23.04.2016,2015,Wolves,Rotherham,0,0
-22.04.2016,2015,Preston,Burnley,0,1
-19.04.2016,2015,Birmingham,Preston,2,2
-19.04.2016,2015,Bolton,Charlton,0,0
-19.04.2016,2015,Brentford,Cardiff,2,1
-19.04.2016,2015,Brighton,QPR,4,0
-19.04.2016,2015,Bristol City,Derby,2,3
-19.04.2016,2015,Burnley,Middlesbrough,1,1
-19.04.2016,2015,Ipswich,Fulham,1,1
-19.04.2016,2015,Leeds,Wolves,2,1
-19.04.2016,2015,Nottingham,Blackburn,1,1
-19.04.2016,2015,Reading,Hull,1,2
-19.04.2016,2015,Rotherham,Huddersfield,1,1
-19.04.2016,2015,Sheffield Wed,MK Dons,0,0
-16.04.2016,2015,Birmingham,Burnley,1,2
-16.04.2016,2015,Blackburn,Huddersfield,0,2
-16.04.2016,2015,Bolton,Middlesbrough,1,2
-16.04.2016,2015,Brentford,Bristol City,1,1
-16.04.2016,2015,Cardiff,QPR,0,0
-16.04.2016,2015,Charlton,Derby,0,1
-16.04.2016,2015,Leeds,Reading,3,2
-16.04.2016,2015,Preston,MK Dons,1,1
-16.04.2016,2015,Rotherham,Nottingham,0,0
-16.04.2016,2015,Sheffield Wed,Ipswich,1,1
-15.04.2016,2015,Brighton,Fulham,5,0
-15.04.2016,2015,Hull,Wolves,2,1
-12.04.2016,2015,Birmingham,Leeds,1,2
-12.04.2016,2015,Middlesbrough,Reading,2,1
-11.04.2016,2015,Nottingham,Brighton,1,2
-09.04.2016,2015,Bristol City,Sheffield Wed,4,1
-09.04.2016,2015,Burnley,Leeds,1,0
-09.04.2016,2015,Derby,Bolton,4,1
-09.04.2016,2015,Fulham,Cardiff,2,1
-09.04.2016,2015,Huddersfield,Hull,2,2
-09.04.2016,2015,Ipswich,Brentford,1,3
-09.04.2016,2015,Middlesbrough,Preston,1,0
-09.04.2016,2015,MK Dons,Rotherham,0,4
-09.04.2016,2015,QPR,Charlton,2,1
-09.04.2016,2015,Reading,Birmingham,0,2
-09.04.2016,2015,Wolves,Blackburn,0,0
-05.04.2016,2015,Birmingham,Brighton,1,2
-05.04.2016,2015,Brentford,Bolton,3,1
-05.04.2016,2015,Bristol City,Rotherham,1,1
-05.04.2016,2015,Burnley,Cardiff,0,0
-05.04.2016,2015,Derby,Hull,4,0
-05.04.2016,2015,Ipswich,Charlton,0,0
-05.04.2016,2015,Leeds,QPR,1,1
-05.04.2016,2015,Middlesbrough,Huddersfield,3,0
-05.04.2016,2015,MK Dons,Wolves,1,2
-05.04.2016,2015,Preston,Fulham,1,2
-05.04.2016,2015,Reading,Nottingham,2,1
-05.04.2016,2015,Sheffield Wed,Blackburn,2,1
-02.04.2016,2015,Blackburn,Preston,1,2
-02.04.2016,2015,Bolton,Reading,0,1
-02.04.2016,2015,Brighton,Burnley,2,2
-02.04.2016,2015,Cardiff,Derby,2,1
-02.04.2016,2015,Charlton,Birmingham,2,1
-02.04.2016,2015,Fulham,MK Dons,2,1
-02.04.2016,2015,Huddersfield,Sheffield Wed,0,1
-02.04.2016,2015,Hull,Bristol City,4,0
-02.04.2016,2015,Nottingham,Brentford,0,3
-02.04.2016,2015,Rotherham,Leeds,2,1
-02.04.2016,2015,Wolves,Ipswich,0,0
-01.04.2016,2015,QPR,Middlesbrough,2,3
-19.03.2016,2015,Birmingham,Fulham,1,1
-19.03.2016,2015,Brentford,Blackburn,0,1
-19.03.2016,2015,Bristol City,Bolton,6,0
-19.03.2016,2015,Burnley,Wolves,1,1
-19.03.2016,2015,Derby,Nottingham,1,0
-19.03.2016,2015,Ipswich,Rotherham,0,1
-19.03.2016,2015,Leeds,Huddersfield,1,4
-19.03.2016,2015,MK Dons,Brighton,1,2
-19.03.2016,2015,Preston,QPR,1,1
-19.03.2016,2015,Reading,Cardiff,1,1
-19.03.2016,2015,Sheffield Wed,Charlton,3,0
-18.03.2016,2015,Middlesbrough,Hull,1,0
-15.03.2016,2015,Brighton,Reading,1,0
-15.03.2016,2015,Hull,Nottingham,1,1
-15.03.2016,2015,Ipswich,Blackburn,2,0
-13.03.2016,2015,Charlton,Middlesbrough,2,0
-13.03.2016,2015,Wolves,Birmingham,0,0
-12.03.2016,2015,Blackburn,Leeds,1,2
-12.03.2016,2015,Bolton,Preston,1,2
-12.03.2016,2015,Cardiff,Ipswich,1,0
-12.03.2016,2015,Fulham,Bristol City,1,2
-12.03.2016,2015,Huddersfield,Burnley,1,3
-12.03.2016,2015,Hull,MK Dons,1,1
-12.03.2016,2015,Nottingham,Sheffield Wed,0,3
-12.03.2016,2015,QPR,Brentford,3,0
-12.03.2016,2015,Rotherham,Derby,3,3
-08.03.2016,2015,Blackburn,Birmingham,2,0
-08.03.2016,2015,Bolton,Ipswich,2,2
-08.03.2016,2015,Brighton,Sheffield Wed,0,0
-08.03.2016,2015,Cardiff,Leeds,0,2
-08.03.2016,2015,Charlton,MK Dons,0,0
-08.03.2016,2015,Fulham,Burnley,2,3
-08.03.2016,2015,Huddersfield,Reading,3,1
-08.03.2016,2015,Nottingham,Preston,1,0
-08.03.2016,2015,QPR,Derby,2,0
-08.03.2016,2015,Rotherham,Middlesbrough,1,0
-08.03.2016,2015,Wolves,Bristol City,2,1
-05.03.2016,2015,Brentford,Charlton,1,2
-05.03.2016,2015,Bristol City,Cardiff,0,2
-05.03.2016,2015,Burnley,Blackburn,1,0
-05.03.2016,2015,Derby,Huddersfield,2,0
-05.03.2016,2015,Ipswich,Nottingham,1,0
-05.03.2016,2015,Leeds,Bolton,2,1
-05.03.2016,2015,MK Dons,QPR,2,0
-05.03.2016,2015,Preston,Brighton,0,0
-05.03.2016,2015,Reading,Fulham,2,2
-05.03.2016,2015,Sheffield Wed,Rotherham,0,1
-04.03.2016,2015,Middlesbrough,Wolves,2,1
-03.03.2016,2015,Birmingham,Hull,1,0
-01.03.2016,2015,Blackburn,Middlesbrough,2,1
-29.02.2016,2015,Brighton,Leeds,4,0
-27.02.2016,2015,Blackburn,MK Dons,3,2
-27.02.2016,2015,Bolton,Burnley,1,2
-27.02.2016,2015,Cardiff,Preston,2,1
-27.02.2016,2015,Charlton,Reading,3,4
-27.02.2016,2015,Fulham,Middlesbrough,0,2
-27.02.2016,2015,Huddersfield,Ipswich,0,1
-27.02.2016,2015,Nottingham,Bristol City,1,2
-27.02.2016,2015,QPR,Birmingham,2,0
-27.02.2016,2015,Rotherham,Brentford,2,1
-27.02.2016,2015,Wolves,Derby,2,1
-26.02.2016,2015,Hull,Sheffield Wed,0,0
-24.02.2016,2015,Derby,Blackburn,1,0
-23.02.2016,2015,Birmingham,Bolton,1,0
-23.02.2016,2015,Brentford,Wolves,3,0
-23.02.2016,2015,Bristol City,Brighton,0,4
-23.02.2016,2015,Burnley,Nottingham,1,0
-23.02.2016,2015,Ipswich,Hull,0,1
-23.02.2016,2015,Leeds,Fulham,1,1
-23.02.2016,2015,Middlesbrough,Cardiff,3,1
-23.02.2016,2015,MK Dons,Huddersfield,1,1
-23.02.2016,2015,Preston,Charlton,2,1
-23.02.2016,2015,Reading,Rotherham,1,0
-23.02.2016,2015,Sheffield Wed,QPR,1,1
-20.02.2016,2015,Bolton,QPR,1,1
-20.02.2016,2015,Brentford,Derby,1,3
-20.02.2016,2015,Burnley,Rotherham,2,0
-20.02.2016,2015,Cardiff,Brighton,4,1
-20.02.2016,2015,Fulham,Charlton,3,0
-20.02.2016,2015,Huddersfield,Wolves,1,0
-20.02.2016,2015,MK Dons,Bristol City,0,2
-20.02.2016,2015,Preston,Sheffield Wed,1,0
-16.02.2016,2015,Blackburn,Fulham,3,0
-16.02.2016,2015,Hull,Brighton,0,0
-15.02.2016,2015,Leeds,Middlesbrough,0,0
-13.02.2016,2015,Blackburn,Hull,0,2
-13.02.2016,2015,Brighton,Bolton,3,2
-13.02.2016,2015,Bristol City,Ipswich,2,1
-13.02.2016,2015,Charlton,Cardiff,0,0
-13.02.2016,2015,Derby,MK Dons,0,1
-13.02.2016,2015,Nottingham,Huddersfield,0,2
-13.02.2016,2015,QPR,Fulham,1,3
-13.02.2016,2015,Reading,Burnley,0,0
-13.02.2016,2015,Rotherham,Birmingham,0,0
-13.02.2016,2015,Sheffield Wed,Brentford,4,0
-13.02.2016,2015,Wolves,Preston,1,2
-09.02.2016,2015,MK Dons,Middlesbrough,1,1
-06.02.2016,2015,Birmingham,Sheffield Wed,1,2
-06.02.2016,2015,Bolton,Rotherham,2,1
-06.02.2016,2015,Burnley,Hull,1,0
-06.02.2016,2015,Cardiff,MK Dons,0,0
-06.02.2016,2015,Charlton,Bristol City,0,1
-06.02.2016,2015,Fulham,Derby,1,1
-06.02.2016,2015,Leeds,Nottingham,0,1
-06.02.2016,2015,Middlesbrough,Blackburn,1,1
-06.02.2016,2015,Preston,Huddersfield,2,1
-06.02.2016,2015,QPR,Ipswich,1,0
-06.02.2016,2015,Reading,Wolves,0,0
-05.02.2016,2015,Brighton,Brentford,3,0
-02.02.2016,2015,Derby,Preston,0,0
-02.02.2016,2015,Ipswich,Reading,2,1
-02.02.2016,2015,Sheffield Wed,Burnley,1,1
-02.02.2016,2015,Wolves,Bolton,2,2
-30.01.2016,2015,Bristol City,Birmingham,0,0
-30.01.2016,2015,Huddersfield,Cardiff,2,3
-30.01.2016,2015,Rotherham,Charlton,1,4
-26.01.2016,2015,Brentford,Leeds,1,1
-26.01.2016,2015,Nottingham,QPR,0,0
-25.01.2016,2015,Burnley,Derby,4,1
-23.01.2016,2015,Birmingham,Ipswich,3,0
-23.01.2016,2015,Bolton,MK Dons,3,1
-23.01.2016,2015,Brighton,Huddersfield,2,1
-23.01.2016,2015,Cardiff,Rotherham,2,2
-23.01.2016,2015,Charlton,Blackburn,1,1
-23.01.2016,2015,Fulham,Hull,0,1
-23.01.2016,2015,Leeds,Bristol City,1,0
-23.01.2016,2015,Middlesbrough,Nottingham,0,1
-23.01.2016,2015,Preston,Brentford,1,3
-23.01.2016,2015,QPR,Wolves,1,1
-23.01.2016,2015,Reading,Sheffield Wed,1,1
-16.01.2016,2015,Blackburn,Brighton,0,1
-16.01.2016,2015,Bristol City,Middlesbrough,1,0
-16.01.2016,2015,Derby,Birmingham,0,3
-16.01.2016,2015,Huddersfield,Fulham,1,1
-16.01.2016,2015,Hull,Charlton,6,0
-16.01.2016,2015,Ipswich,Preston,1,1
-16.01.2016,2015,MK Dons,Reading,1,0
-16.01.2016,2015,Nottingham,Bolton,3,0
-16.01.2016,2015,Rotherham,QPR,0,3
-16.01.2016,2015,Sheffield Wed,Leeds,2,0
-16.01.2016,2015,Wolves,Cardiff,1,3
-15.01.2016,2015,Brentford,Burnley,1,3
-13.01.2016,2015,Hull,Cardiff,2,0
-12.01.2016,2015,Blackburn,QPR,1,1
-12.01.2016,2015,Brentford,Middlesbrough,0,1
-12.01.2016,2015,Bristol City,Preston,1,2
-12.01.2016,2015,Derby,Reading,1,1
-12.01.2016,2015,Huddersfield,Charlton,5,0
-12.01.2016,2015,Ipswich,Leeds,2,1
-12.01.2016,2015,MK Dons,Burnley,0,5
-12.01.2016,2015,Nottingham,Birmingham,1,1
-12.01.2016,2015,Rotherham,Brighton,2,0
-12.01.2016,2015,Sheffield Wed,Bolton,3,2
-12.01.2016,2015,Wolves,Fulham,3,2
-02.01.2016,2015,Birmingham,Brentford,2,1
-02.01.2016,2015,Bolton,Huddersfield,0,2
-02.01.2016,2015,Burnley,Ipswich,0,0
-02.01.2016,2015,Cardiff,Blackburn,1,0
-02.01.2016,2015,Charlton,Nottingham,1,1
-02.01.2016,2015,Fulham,Sheffield Wed,0,1
-02.01.2016,2015,Leeds,MK Dons,1,1
-02.01.2016,2015,Middlesbrough,Derby,2,0
-02.01.2016,2015,Preston,Rotherham,2,1
-02.01.2016,2015,Reading,Bristol City,1,0
-01.01.2016,2015,Brighton,Wolves,0,1
-01.01.2016,2015,QPR,Hull,1,2
-29.12.2015,2015,Brighton,Ipswich,0,1
-29.12.2015,2015,Cardiff,Nottingham,1,1
-29.12.2015,2015,Fulham,Rotherham,4,1
-29.12.2015,2015,Leeds,Derby,2,2
-28.12.2015,2015,Birmingham,MK Dons,1,0
-28.12.2015,2015,Bolton,Blackburn,1,0
-28.12.2015,2015,Burnley,Bristol City,4,0
-28.12.2015,2015,Charlton,Wolves,0,2
-28.12.2015,2015,Middlesbrough,Sheffield Wed,1,0
-28.12.2015,2015,Preston,Hull,1,0
-28.12.2015,2015,QPR,Huddersfield,1,1
-28.12.2015,2015,Reading,Brentford,1,2
-27.12.2015,2015,Nottingham,Leeds,1,1
-26.12.2015,2015,Brentford,Brighton,0,0
-26.12.2015,2015,Bristol City,Charlton,1,1
-26.12.2015,2015,Derby,Fulham,2,0
-26.12.2015,2015,Huddersfield,Preston,3,1
-26.12.2015,2015,Hull,Burnley,3,0
-26.12.2015,2015,Ipswich,QPR,2,1
-26.12.2015,2015,MK Dons,Cardiff,2,1
-26.12.2015,2015,Rotherham,Bolton,4,0
-26.12.2015,2015,Sheffield Wed,Birmingham,3,0
-26.12.2015,2015,Wolves,Reading,1,0
-20.12.2015,2015,Leeds,Preston,1,0
-20.12.2015,2015,Reading,Blackburn,1,0
-20.12.2015,2015,Sheffield Wed,Wolves,4,1
-19.12.2015,2015,Bolton,Fulham,2,2
-19.12.2015,2015,Brentford,Huddersfield,4,2
-19.12.2015,2015,Brighton,Middlesbrough,0,3
-19.12.2015,2015,Bristol City,QPR,1,1
-19.12.2015,2015,Burnley,Charlton,4,0
-19.12.2015,2015,Ipswich,Derby,0,1
-19.12.2015,2015,Nottingham,MK Dons,2,1
-19.12.2015,2015,Rotherham,Hull,2,0
-18.12.2015,2015,Birmingham,Cardiff,1,0
-17.12.2015,2015,Wolves,Leeds,2,3
-16.12.2015,2015,Hull,Reading,2,1
-15.12.2015,2015,Cardiff,Brentford,3,2
-15.12.2015,2015,Charlton,Bolton,2,2
-15.12.2015,2015,Derby,Bristol City,4,0
-15.12.2015,2015,Fulham,Ipswich,1,2
-15.12.2015,2015,Huddersfield,Rotherham,2,0
-15.12.2015,2015,Middlesbrough,Burnley,1,0
-15.12.2015,2015,MK Dons,Sheffield Wed,2,1
-15.12.2015,2015,Preston,Birmingham,1,1
-15.12.2015,2015,QPR,Brighton,2,2
-14.12.2015,2015,Blackburn,Nottingham,0,0
-12.12.2015,2015,Cardiff,Sheffield Wed,2,2
-12.12.2015,2015,Charlton,Leeds,0,0
-12.12.2015,2015,Derby,Brighton,2,2
-12.12.2015,2015,Fulham,Brentford,2,2
-12.12.2015,2015,Huddersfield,Bristol City,1,2
-12.12.2015,2015,Hull,Bolton,1,0
-12.12.2015,2015,Middlesbrough,Birmingham,0,0
-12.12.2015,2015,MK Dons,Ipswich,0,1
-12.12.2015,2015,Preston,Reading,1,0
-12.12.2015,2015,QPR,Burnley,0,0
-11.12.2015,2015,Blackburn,Rotherham,1,0
-11.12.2015,2015,Wolves,Nottingham,1,1
-06.12.2015,2015,Sheffield Wed,Derby,0,0
-05.12.2015,2015,Birmingham,Huddersfield,0,2
-05.12.2015,2015,Bolton,Cardiff,2,3
-05.12.2015,2015,Brentford,MK Dons,2,0
-05.12.2015,2015,Brighton,Charlton,3,2
-05.12.2015,2015,Bristol City,Blackburn,0,2
-05.12.2015,2015,Burnley,Preston,0,2
-05.12.2015,2015,Leeds,Hull,2,1
-05.12.2015,2015,Nottingham,Fulham,3,0
-05.12.2015,2015,Rotherham,Wolves,1,2
-04.12.2015,2015,Ipswich,Middlesbrough,0,2
-03.12.2015,2015,Reading,QPR,0,1
-30.11.2015,2015,Bolton,Brentford,1,1
-28.11.2015,2015,Blackburn,Sheffield Wed,2,2
-28.11.2015,2015,Brighton,Birmingham,2,1
-28.11.2015,2015,Cardiff,Burnley,2,2
-28.11.2015,2015,Charlton,Ipswich,0,3
-28.11.2015,2015,Fulham,Preston,1,1
-28.11.2015,2015,Huddersfield,Middlesbrough,0,2
-28.11.2015,2015,Nottingham,Reading,3,1
-28.11.2015,2015,QPR,Leeds,1,0
-28.11.2015,2015,Rotherham,Bristol City,3,0
-28.11.2015,2015,Wolves,MK Dons,0,0
-27.11.2015,2015,Hull,Derby,0,2
-22.11.2015,2015,Burnley,Brighton,1,1
-21.11.2015,2015,Birmingham,Charlton,0,1
-21.11.2015,2015,Brentford,Nottingham,2,1
-21.11.2015,2015,Bristol City,Hull,1,1
-21.11.2015,2015,Derby,Cardiff,2,0
-21.11.2015,2015,Ipswich,Wolves,2,2
-21.11.2015,2015,Leeds,Rotherham,0,1
-21.11.2015,2015,MK Dons,Fulham,1,1
-21.11.2015,2015,Preston,Blackburn,1,2
-21.11.2015,2015,Reading,Bolton,2,1
-21.11.2015,2015,Sheffield Wed,Huddersfield,3,1
-20.11.2015,2015,Middlesbrough,QPR,1,0
-07.11.2015,2015,Blackburn,Brentford,1,1
-07.11.2015,2015,Bolton,Bristol City,0,0
-07.11.2015,2015,Brighton,MK Dons,2,1
-07.11.2015,2015,Cardiff,Reading,2,0
-07.11.2015,2015,Charlton,Sheffield Wed,3,1
-07.11.2015,2015,Fulham,Birmingham,2,5
-07.11.2015,2015,Huddersfield,Leeds,0,3
-07.11.2015,2015,Hull,Middlesbrough,3,0
-07.11.2015,2015,QPR,Preston,0,0
-07.11.2015,2015,Rotherham,Ipswich,2,5
-07.11.2015,2015,Wolves,Burnley,0,0
-06.11.2015,2015,Nottingham,Derby,1,0
-03.11.2015,2015,Birmingham,Blackburn,0,0
-03.11.2015,2015,Brentford,Hull,0,2
-03.11.2015,2015,Bristol City,Wolves,1,0
-03.11.2015,2015,Burnley,Fulham,3,1
-03.11.2015,2015,Derby,QPR,1,0
-03.11.2015,2015,Ipswich,Bolton,2,0
-03.11.2015,2015,Leeds,Cardiff,1,0
-03.11.2015,2015,Middlesbrough,Rotherham,1,0
-03.11.2015,2015,MK Dons,Charlton,1,0
-03.11.2015,2015,Preston,Nottingham,1,0
-03.11.2015,2015,Reading,Huddersfield,2,2
-03.11.2015,2015,Sheffield Wed,Brighton,0,0
-31.10.2015,2015,Birmingham,Wolves,0,2
-31.10.2015,2015,Bristol City,Fulham,1,4
-31.10.2015,2015,Burnley,Huddersfield,2,1
-31.10.2015,2015,Derby,Rotherham,3,0
-31.10.2015,2015,Ipswich,Cardiff,0,0
-31.10.2015,2015,Middlesbrough,Charlton,3,0
-31.10.2015,2015,MK Dons,Hull,0,2
-31.10.2015,2015,Preston,Bolton,0,0
-31.10.2015,2015,Reading,Brighton,1,1
-31.10.2015,2015,Sheffield Wed,Nottingham,1,0
-30.10.2015,2015,Brentford,QPR,1,0
-29.10.2015,2015,Leeds,Blackburn,0,2
-26.10.2015,2015,Cardiff,Bristol City,0,0
-24.10.2015,2015,Blackburn,Burnley,0,1
-24.10.2015,2015,Bolton,Leeds,1,1
-24.10.2015,2015,Brighton,Preston,0,0
-24.10.2015,2015,Charlton,Brentford,0,3
-24.10.2015,2015,Fulham,Reading,4,2
-24.10.2015,2015,Huddersfield,Derby,1,2
-24.10.2015,2015,Hull,Birmingham,2,0
-24.10.2015,2015,Nottingham,Ipswich,1,1
-24.10.2015,2015,QPR,MK Dons,3,0
-24.10.2015,2015,Wolves,Middlesbrough,1,3
-23.10.2015,2015,Rotherham,Sheffield Wed,1,2
-21.10.2015,2015,Blackburn,Derby,0,0
-21.10.2015,2015,Fulham,Leeds,1,1
-21.10.2015,2015,Wolves,Brentford,0,2
-20.10.2015,2015,Bolton,Birmingham,0,1
-20.10.2015,2015,Brighton,Bristol City,2,1
-20.10.2015,2015,Cardiff,Middlesbrough,1,0
-20.10.2015,2015,Charlton,Preston,0,3
-20.10.2015,2015,Huddersfield,MK Dons,2,0
-20.10.2015,2015,Hull,Ipswich,3,0
-20.10.2015,2015,Nottingham,Burnley,1,1
-20.10.2015,2015,QPR,Sheffield Wed,0,0
-20.10.2015,2015,Rotherham,Reading,1,1
-18.10.2015,2015,Derby,Wolves,4,2
-17.10.2015,2015,Birmingham,QPR,2,1
-17.10.2015,2015,Brentford,Rotherham,2,1
-17.10.2015,2015,Burnley,Bolton,2,0
-17.10.2015,2015,Ipswich,Huddersfield,0,0
-17.10.2015,2015,Leeds,Brighton,1,2
-17.10.2015,2015,Middlesbrough,Fulham,0,0
-17.10.2015,2015,MK Dons,Blackburn,3,0
-17.10.2015,2015,Preston,Cardiff,0,0
-17.10.2015,2015,Reading,Charlton,1,0
-17.10.2015,2015,Sheffield Wed,Hull,1,1
-16.10.2015,2015,Bristol City,Nottingham,2,0
-04.10.2015,2015,Charlton,Fulham,2,2
-03.10.2015,2015,Blackburn,Ipswich,2,0
-03.10.2015,2015,Brighton,Cardiff,1,1
-03.10.2015,2015,Bristol City,MK Dons,1,1
-03.10.2015,2015,Derby,Brentford,2,0
-03.10.2015,2015,Leeds,Birmingham,0,2
-03.10.2015,2015,Nottingham,Hull,0,1
-03.10.2015,2015,QPR,Bolton,4,3
-03.10.2015,2015,Reading,Middlesbrough,2,0
-03.10.2015,2015,Sheffield Wed,Preston,3,1
-03.10.2015,2015,Wolves,Huddersfield,3,0
-02.10.2015,2015,Rotherham,Burnley,1,2
-29.09.2015,2015,Fulham,Wolves,0,3
-29.09.2015,2015,Brentford,Birmingham,0,2
-27.09.2015,2015,Middlesbrough,Leeds,3,0
-26.09.2015,2015,Birmingham,Rotherham,0,2
-26.09.2015,2015,Bolton,Brighton,2,2
-26.09.2015,2015,Brentford,Sheffield Wed,1,2
-26.09.2015,2015,Burnley,Reading,1,2
-26.09.2015,2015,Cardiff,Charlton,2,1
-26.09.2015,2015,Hull,Blackburn,1,1
-26.09.2015,2015,Ipswich,Bristol City,2,2
-26.09.2015,2015,MK Dons,Derby,1,3
-26.09.2015,2015,Preston,Wolves,1,1
-25.09.2015,2015,Fulham,QPR,4,0
-24.09.2015,2015,Huddersfield,Nottingham,1,1
-21.09.2015,2015,Derby,Burnley,0,0
-19.09.2015,2015,Blackburn,Charlton,3,0
-19.09.2015,2015,Brentford,Preston,2,1
-19.09.2015,2015,Bristol City,Reading,0,2
-19.09.2015,2015,Huddersfield,Bolton,4,1
-19.09.2015,2015,Hull,QPR,1,1
-19.09.2015,2015,MK Dons,Leeds,1,2
-19.09.2015,2015,Nottingham,Middlesbrough,1,2
-19.09.2015,2015,Rotherham,Cardiff,2,1
-19.09.2015,2015,Sheffield Wed,Fulham,3,2
-19.09.2015,2015,Wolves,Brighton,0,0
-18.09.2015,2015,Ipswich,Birmingham,1,1
-16.09.2015,2015,QPR,Blackburn,2,2
-15.09.2015,2015,Birmingham,Nottingham,0,1
-15.09.2015,2015,Bolton,Sheffield Wed,0,0
-15.09.2015,2015,Brighton,Rotherham,2,1
-15.09.2015,2015,Burnley,MK Dons,2,1
-15.09.2015,2015,Cardiff,Hull,0,2
-15.09.2015,2015,Charlton,Huddersfield,1,2
-15.09.2015,2015,Leeds,Ipswich,0,1
-15.09.2015,2015,Middlesbrough,Brentford,3,1
-15.09.2015,2015,Preston,Bristol City,1,1
-15.09.2015,2015,Reading,Derby,0,1
-13.09.2015,2015,Fulham,Blackburn,2,1
-12.09.2015,2015,Birmingham,Bristol City,4,2
-12.09.2015,2015,Bolton,Wolves,2,1
-12.09.2015,2015,Brighton,Hull,1,0
-12.09.2015,2015,Burnley,Sheffield Wed,3,1
-12.09.2015,2015,Cardiff,Huddersfield,2,0
-12.09.2015,2015,Charlton,Rotherham,1,1
-12.09.2015,2015,Leeds,Brentford,1,1
-12.09.2015,2015,Middlesbrough,MK Dons,2,0
-12.09.2015,2015,Preston,Derby,1,2
-12.09.2015,2015,QPR,Nottingham,1,2
-11.09.2015,2015,Reading,Ipswich,5,1
-29.08.2015,2015,Brentford,Reading,1,3
-29.08.2015,2015,Bristol City,Burnley,1,2
-29.08.2015,2015,Derby,Leeds,1,2
-29.08.2015,2015,Huddersfield,QPR,0,1
-29.08.2015,2015,Hull,Preston,2,0
-29.08.2015,2015,Ipswich,Brighton,2,3
-29.08.2015,2015,MK Dons,Birmingham,0,2
-29.08.2015,2015,Nottingham,Cardiff,1,2
-29.08.2015,2015,Rotherham,Fulham,1,3
-29.08.2015,2015,Sheffield Wed,Middlesbrough,1,3
-29.08.2015,2015,Wolves,Charlton,2,1
-28.08.2015,2015,Blackburn,Bolton,0,0
-22.08.2015,2015,Bolton,Nottingham,1,1
-22.08.2015,2015,Brighton,Blackburn,1,0
-22.08.2015,2015,Burnley,Brentford,1,0
-22.08.2015,2015,Cardiff,Wolves,2,0
-22.08.2015,2015,Charlton,Hull,2,1
-22.08.2015,2015,Fulham,Huddersfield,1,1
-22.08.2015,2015,Leeds,Sheffield Wed,1,1
-22.08.2015,2015,Middlesbrough,Bristol City,0,1
-22.08.2015,2015,Preston,Ipswich,1,2
-22.08.2015,2015,QPR,Rotherham,4,2
-22.08.2015,2015,Reading,MK Dons,0,0
-21.08.2015,2015,Birmingham,Derby,1,1
-19.08.2015,2015,Bristol City,Leeds,2,2
-19.08.2015,2015,Hull,Fulham,2,1
-19.08.2015,2015,Sheffield Wed,Reading,1,1
-19.08.2015,2015,Wolves,QPR,2,3
-18.08.2015,2015,Blackburn,Cardiff,1,1
-18.08.2015,2015,Derby,Middlesbrough,1,1
-18.08.2015,2015,Huddersfield,Brighton,1,1
-18.08.2015,2015,Ipswich,Burnley,2,0
-18.08.2015,2015,MK Dons,Bolton,1,0
-18.08.2015,2015,Nottingham,Charlton,0,0
-18.08.2015,2015,Rotherham,Preston,0,0
-16.08.2015,2015,Reading,Leeds,0,0
-16.08.2015,2015,Wolves,Hull,1,1
-15.08.2015,2015,Bristol City,Brentford,2,4
-15.08.2015,2015,Burnley,Birmingham,2,2
-15.08.2015,2015,Derby,Charlton,1,1
-15.08.2015,2015,Fulham,Brighton,1,2
-15.08.2015,2015,Huddersfield,Blackburn,1,1
-15.08.2015,2015,Ipswich,Sheffield Wed,2,1
-15.08.2015,2015,Middlesbrough,Bolton,3,0
-15.08.2015,2015,MK Dons,Preston,0,1
-15.08.2015,2015,Nottingham,Rotherham,2,1
-15.08.2015,2015,QPR,Cardiff,2,2
-09.08.2015,2015,Preston,Middlesbrough,0,0
-08.08.2015,2015,Birmingham,Reading,2,1
-08.08.2015,2015,Blackburn,Wolves,1,2
-08.08.2015,2015,Bolton,Derby,0,0
-08.08.2015,2015,Brentford,Ipswich,2,2
-08.08.2015,2015,Cardiff,Fulham,1,1
-08.08.2015,2015,Charlton,QPR,2,0
-08.08.2015,2015,Hull,Huddersfield,2,0
-08.08.2015,2015,Leeds,Burnley,1,1
-08.08.2015,2015,Rotherham,MK Dons,1,4
-08.08.2015,2015,Sheffield Wed,Bristol City,2,0
-07.08.2015,2015,Brighton,Nottingham,1,0
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+07.05.2016,2015,Blackburn,Reading,3,1,2.36,3.37,2.99
+07.05.2016,2015,Cardiff,Birmingham,1,1,2.03,3.49,3.62
+07.05.2016,2015,Charlton,Burnley,0,3,6.25,4.18,1.53
+07.05.2016,2015,Derby,Ipswich,0,1,1.57,4.21,5.66
+07.05.2016,2015,Fulham,Bolton,1,0,1.69,4.00,4.67
+07.05.2016,2015,Huddersfield,Brentford,1,5,2.13,3.54,3.30
+07.05.2016,2015,Hull,Rotherham,5,1,1.49,4.31,6.62
+07.05.2016,2015,Middlesbrough,Brighton,1,1,2.03,3.38,3.81
+07.05.2016,2015,MK Dons,Nottingham,1,2,2.99,3.33,2.38
+07.05.2016,2015,Preston,Leeds,1,1,2.11,3.55,3.34
+07.05.2016,2015,QPR,Bristol City,1,0,2.37,3.40,2.96
+07.05.2016,2015,Wolves,Sheffield Wed,2,1,2.29,3.38,3.10
+02.05.2016,2015,Brighton,Derby,1,1,1.74,3.73,4.73
+02.05.2016,2015,Burnley,QPR,1,0,1.42,4.44,8.22
+30.04.2016,2015,Bolton,Hull,1,0,5.26,3.88,1.66
+30.04.2016,2015,Brentford,Fulham,3,0,2.28,3.53,2.98
+30.04.2016,2015,Bristol City,Huddersfield,4,0,2.39,3.36,2.93
+30.04.2016,2015,Ipswich,MK Dons,3,2,1.84,3.55,4.35
+30.04.2016,2015,Leeds,Charlton,1,2,1.66,3.92,5.11
+30.04.2016,2015,Nottingham,Wolves,1,1,2.36,3.26,3.08
+30.04.2016,2015,Reading,Preston,1,2,2.01,3.39,3.82
+30.04.2016,2015,Rotherham,Blackburn,0,1,2.45,3.29,2.92
+30.04.2016,2015,Sheffield Wed,Cardiff,3,0,1.98,3.35,3.96
+29.04.2016,2015,Birmingham,Middlesbrough,2,2,6.26,4.01,1.56
+26.04.2016,2015,Hull,Brentford,2,0,1.61,4.02,5.44
+23.04.2016,2015,Blackburn,Bristol City,2,2,2.43,3.20,3.03
+23.04.2016,2015,Cardiff,Bolton,2,1,1.34,5.01,9.26
+23.04.2016,2015,Charlton,Brighton,1,3,8.83,4.48,1.39
+23.04.2016,2015,Derby,Sheffield Wed,1,1,2.08,3.35,3.66
+23.04.2016,2015,Fulham,Nottingham,1,3,2.17,3.37,3.35
+23.04.2016,2015,Huddersfield,Birmingham,1,1,2.07,3.40,3.57
+23.04.2016,2015,Hull,Leeds,2,2,1.50,4.16,6.82
+23.04.2016,2015,Middlesbrough,Ipswich,0,0,1.33,4.91,9.92
+23.04.2016,2015,MK Dons,Brentford,1,4,2.82,3.33,2.50
+23.04.2016,2015,QPR,Reading,1,1,2.58,3.27,2.77
+23.04.2016,2015,Wolves,Rotherham,0,0,2.29,3.30,3.20
+22.04.2016,2015,Preston,Burnley,0,1,3.95,3.42,1.97
+19.04.2016,2015,Birmingham,Preston,2,2,2.38,3.22,3.09
+19.04.2016,2015,Bolton,Charlton,0,0,2.72,3.39,2.55
+19.04.2016,2015,Brentford,Cardiff,2,1,2.93,3.33,2.44
+19.04.2016,2015,Brighton,QPR,4,0,1.46,4.29,7.46
+19.04.2016,2015,Bristol City,Derby,2,3,3.07,3.30,2.35
+19.04.2016,2015,Burnley,Middlesbrough,1,1,2.94,3.09,2.58
+19.04.2016,2015,Ipswich,Fulham,1,1,2.14,3.47,3.35
+19.04.2016,2015,Leeds,Wolves,2,1,2.50,3.20,2.93
+19.04.2016,2015,Nottingham,Blackburn,1,1,2.58,3.09,2.94
+19.04.2016,2015,Reading,Hull,1,2,3.60,3.35,2.09
+19.04.2016,2015,Rotherham,Huddersfield,1,1,2.68,3.28,2.66
+19.04.2016,2015,Sheffield Wed,MK Dons,0,0,1.38,4.83,8.22
+16.04.2016,2015,Birmingham,Burnley,1,2,3.72,3.31,2.07
+16.04.2016,2015,Blackburn,Huddersfield,0,2,2.40,3.22,3.04
+16.04.2016,2015,Bolton,Middlesbrough,1,2,8.76,4.99,1.36
+16.04.2016,2015,Brentford,Bristol City,1,1,2.50,3.32,2.84
+16.04.2016,2015,Cardiff,QPR,0,0,1.89,3.48,4.25
+16.04.2016,2015,Charlton,Derby,0,1,4.76,3.71,1.74
+16.04.2016,2015,Leeds,Reading,3,2,2.40,3.30,2.98
+16.04.2016,2015,Preston,MK Dons,1,1,1.86,3.52,4.28
+16.04.2016,2015,Rotherham,Nottingham,0,0,2.38,3.18,3.13
+16.04.2016,2015,Sheffield Wed,Ipswich,1,1,1.82,3.44,4.69
+15.04.2016,2015,Brighton,Fulham,5,0,1.56,4.14,5.93
+15.04.2016,2015,Hull,Wolves,2,1,1.52,3.97,7.05
+12.04.2016,2015,Birmingham,Leeds,1,2,1.98,3.36,3.96
+12.04.2016,2015,Middlesbrough,Reading,2,1,1.50,4.07,6.88
+11.04.2016,2015,Nottingham,Brighton,1,2,4.20,3.30,1.95
+09.04.2016,2015,Bristol City,Sheffield Wed,4,1,2.63,3.22,2.74
+09.04.2016,2015,Burnley,Leeds,1,0,1.53,4.13,6.38
+09.04.2016,2015,Derby,Bolton,4,1,1.28,5.58,10.84
+09.04.2016,2015,Fulham,Cardiff,2,1,2.53,3.30,2.80
+09.04.2016,2015,Huddersfield,Hull,2,2,3.50,3.20,2.18
+09.04.2016,2015,Ipswich,Brentford,1,3,2.15,3.35,3.43
+09.04.2016,2015,Middlesbrough,Preston,1,0,1.51,4.03,7.03
+09.04.2016,2015,MK Dons,Rotherham,0,4,2.55,3.27,2.84
+09.04.2016,2015,QPR,Charlton,2,1,1.86,3.58,4.24
+09.04.2016,2015,Reading,Birmingham,0,2,1.83,3.47,4.57
+09.04.2016,2015,Wolves,Blackburn,0,0,2.53,3.06,2.98
+05.04.2016,2015,Birmingham,Brighton,1,2,3.20,3.16,2.35
+05.04.2016,2015,Brentford,Bolton,3,1,1.52,4.28,6.23
+05.04.2016,2015,Bristol City,Rotherham,1,1,1.81,3.55,4.51
+05.04.2016,2015,Burnley,Cardiff,0,0,1.85,3.45,4.45
+05.04.2016,2015,Derby,Hull,4,0,2.82,3.10,2.65
+05.04.2016,2015,Ipswich,Charlton,0,0,1.73,3.67,4.94
+05.04.2016,2015,Leeds,QPR,1,1,2.79,3.09,2.68
+05.04.2016,2015,Middlesbrough,Huddersfield,3,0,1.62,3.78,5.76
+05.04.2016,2015,MK Dons,Wolves,1,2,2.55,3.21,2.84
+05.04.2016,2015,Preston,Fulham,1,2,2.26,3.33,3.20
+05.04.2016,2015,Reading,Nottingham,2,1,1.83,3.42,4.67
+05.04.2016,2015,Sheffield Wed,Blackburn,2,1,1.89,3.30,4.47
+02.04.2016,2015,Blackburn,Preston,1,2,2.18,3.02,3.76
+02.04.2016,2015,Bolton,Reading,0,1,3.74,3.48,2.01
+02.04.2016,2015,Brighton,Burnley,2,2,2.47,3.03,3.14
+02.04.2016,2015,Cardiff,Derby,2,1,2.83,3.16,2.60
+02.04.2016,2015,Charlton,Birmingham,2,1,3.00,3.24,2.43
+02.04.2016,2015,Fulham,MK Dons,2,1,1.84,3.69,4.21
+02.04.2016,2015,Huddersfield,Sheffield Wed,0,1,2.53,3.27,2.83
+02.04.2016,2015,Hull,Bristol City,4,0,1.70,3.58,5.41
+02.04.2016,2015,Nottingham,Brentford,0,3,2.13,3.30,3.53
+02.04.2016,2015,Rotherham,Leeds,2,1,2.34,3.22,3.16
+02.04.2016,2015,Wolves,Ipswich,0,0,2.53,3.15,2.93
+01.04.2016,2015,QPR,Middlesbrough,2,3,3.36,3.15,2.27
+19.03.2016,2015,Birmingham,Fulham,1,1,2.29,3.39,3.10
+19.03.2016,2015,Brentford,Blackburn,0,1,2.51,3.22,2.91
+19.03.2016,2015,Bristol City,Bolton,6,0,1.71,3.77,4.94
+19.03.2016,2015,Burnley,Wolves,1,1,1.60,3.85,5.98
+19.03.2016,2015,Derby,Nottingham,1,0,1.82,3.41,4.86
+19.03.2016,2015,Ipswich,Rotherham,0,1,1.75,3.64,4.86
+19.03.2016,2015,Leeds,Huddersfield,1,4,2.88,3.25,2.52
+19.03.2016,2015,MK Dons,Brighton,1,2,3.70,3.24,2.10
+19.03.2016,2015,Preston,QPR,1,1,2.37,3.12,3.20
+19.03.2016,2015,Reading,Cardiff,1,1,2.21,3.24,3.42
+19.03.2016,2015,Sheffield Wed,Charlton,3,0,1.50,4.19,6.80
+18.03.2016,2015,Middlesbrough,Hull,1,0,2.40,3.03,3.29
+15.03.2016,2015,Brighton,Reading,1,0,1.90,3.42,4.22
+15.03.2016,2015,Hull,Nottingham,1,1,1.51,3.89,7.27
+15.03.2016,2015,Ipswich,Blackburn,2,0,2.31,3.18,3.24
+13.03.2016,2015,Charlton,Middlesbrough,2,0,5.68,3.84,1.63
+13.03.2016,2015,Wolves,Birmingham,0,0,2.50,3.17,2.96
+12.03.2016,2015,Blackburn,Leeds,1,2,1.80,3.43,4.90
+12.03.2016,2015,Bolton,Preston,1,2,2.67,3.17,2.77
+12.03.2016,2015,Cardiff,Ipswich,1,0,2.10,3.31,3.59
+12.03.2016,2015,Fulham,Bristol City,1,2,2.30,3.48,3.05
+12.03.2016,2015,Huddersfield,Burnley,1,3,2.92,3.25,2.48
+12.03.2016,2015,Hull,MK Dons,1,1,1.37,4.59,9.67
+12.03.2016,2015,Nottingham,Sheffield Wed,0,3,2.96,3.11,2.56
+12.03.2016,2015,QPR,Brentford,3,0,2.22,3.33,3.31
+12.03.2016,2015,Rotherham,Derby,3,3,3.93,3.33,2.01
+08.03.2016,2015,Blackburn,Birmingham,2,0,2.20,3.21,3.46
+08.03.2016,2015,Bolton,Ipswich,2,2,2.89,3.25,2.50
+08.03.2016,2015,Brighton,Sheffield Wed,0,0,2.02,3.34,3.88
+08.03.2016,2015,Cardiff,Leeds,0,2,1.83,3.45,4.66
+08.03.2016,2015,Charlton,MK Dons,0,0,2.54,3.31,2.79
+08.03.2016,2015,Fulham,Burnley,2,3,2.99,3.35,2.38
+08.03.2016,2015,Huddersfield,Reading,3,1,2.11,3.30,3.63
+08.03.2016,2015,Nottingham,Preston,1,0,2.45,3.09,3.12
+08.03.2016,2015,QPR,Derby,2,0,3.28,3.20,2.31
+08.03.2016,2015,Rotherham,Middlesbrough,1,0,4.91,3.54,1.77
+08.03.2016,2015,Wolves,Bristol City,2,1,2.65,3.20,2.75
+05.03.2016,2015,Brentford,Charlton,1,2,1.62,4.14,5.24
+05.03.2016,2015,Bristol City,Cardiff,0,2,2.33,3.24,3.18
+05.03.2016,2015,Burnley,Blackburn,1,0,2.02,3.18,4.20
+05.03.2016,2015,Derby,Huddersfield,2,0,1.88,3.52,4.23
+05.03.2016,2015,Ipswich,Nottingham,1,0,2.20,3.20,3.53
+05.03.2016,2015,Leeds,Bolton,2,1,2.15,3.27,3.56
+05.03.2016,2015,MK Dons,QPR,2,0,2.84,3.17,2.59
+05.03.2016,2015,Preston,Brighton,0,0,3.04,3.05,2.54
+05.03.2016,2015,Reading,Fulham,2,2,1.98,3.46,3.85
+05.03.2016,2015,Sheffield Wed,Rotherham,0,1,1.76,3.58,4.91
+04.03.2016,2015,Middlesbrough,Wolves,2,1,1.55,3.90,6.62
+03.03.2016,2015,Birmingham,Hull,1,0,3.99,3.21,2.05
+01.03.2016,2015,Blackburn,Middlesbrough,2,1,3.25,3.08,2.36
+29.02.2016,2015,Brighton,Leeds,4,0,1.68,3.62,5.63
+27.02.2016,2015,Blackburn,MK Dons,3,2,1.70,3.59,5.31
+27.02.2016,2015,Bolton,Burnley,1,2,4.78,3.54,1.78
+27.02.2016,2015,Cardiff,Preston,2,1,2.30,3.18,3.26
+27.02.2016,2015,Charlton,Reading,3,4,4.26,3.42,1.90
+27.02.2016,2015,Fulham,Middlesbrough,0,2,3.22,3.32,2.26
+27.02.2016,2015,Huddersfield,Ipswich,0,1,2.16,3.34,3.42
+27.02.2016,2015,Nottingham,Bristol City,1,2,2.23,3.23,3.36
+27.02.2016,2015,QPR,Birmingham,2,0,2.37,3.20,3.14
+27.02.2016,2015,Rotherham,Brentford,2,1,2.84,3.36,2.49
+27.02.2016,2015,Wolves,Derby,2,1,3.40,3.21,2.25
+26.02.2016,2015,Hull,Sheffield Wed,0,0,1.72,3.53,5.46
+24.02.2016,2015,Derby,Blackburn,1,0,1.90,3.34,4.32
+23.02.2016,2015,Birmingham,Bolton,1,0,1.77,3.65,4.68
+23.02.2016,2015,Brentford,Wolves,3,0,2.29,3.31,3.17
+23.02.2016,2015,Bristol City,Brighton,0,4,2.56,3.17,2.85
+23.02.2016,2015,Burnley,Nottingham,1,0,1.82,3.41,4.70
+23.02.2016,2015,Ipswich,Hull,0,1,3.59,3.19,2.16
+23.02.2016,2015,Leeds,Fulham,1,1,2.47,3.28,2.88
+23.02.2016,2015,Middlesbrough,Cardiff,3,1,1.73,3.55,5.15
+23.02.2016,2015,MK Dons,Huddersfield,1,1,3.42,3.30,2.17
+23.02.2016,2015,Preston,Charlton,2,1,1.62,3.77,5.71
+23.02.2016,2015,Reading,Rotherham,1,0,1.69,3.67,5.39
+23.02.2016,2015,Sheffield Wed,QPR,1,1,2.11,3.19,3.77
+20.02.2016,2015,Bolton,QPR,1,1,2.72,3.14,2.69
+20.02.2016,2015,Brentford,Derby,1,3,2.94,3.26,2.43
+20.02.2016,2015,Burnley,Rotherham,2,0,1.55,4.05,6.02
+20.02.2016,2015,Cardiff,Brighton,4,1,2.68,3.08,2.81
+20.02.2016,2015,Fulham,Charlton,3,0,1.62,4.01,5.28
+20.02.2016,2015,Huddersfield,Wolves,1,0,1.95,3.35,4.05
+20.02.2016,2015,MK Dons,Bristol City,0,2,2.76,3.23,2.60
+20.02.2016,2015,Preston,Sheffield Wed,1,0,2.70,3.10,2.74
+16.02.2016,2015,Blackburn,Fulham,3,0,2.08,3.30,3.66
+16.02.2016,2015,Hull,Brighton,0,0,1.83,3.34,4.82
+15.02.2016,2015,Leeds,Middlesbrough,0,0,3.64,3.19,2.16
+13.02.2016,2015,Blackburn,Hull,0,2,3.17,3.04,2.45
+13.02.2016,2015,Brighton,Bolton,3,2,1.50,4.15,6.90
+13.02.2016,2015,Bristol City,Ipswich,2,1,2.24,3.29,3.33
+13.02.2016,2015,Charlton,Cardiff,0,0,3.22,3.30,2.28
+13.02.2016,2015,Derby,MK Dons,0,1,1.48,4.25,6.94
+13.02.2016,2015,Nottingham,Huddersfield,0,2,2.27,3.22,3.33
+13.02.2016,2015,QPR,Fulham,1,3,2.31,3.29,3.16
+13.02.2016,2015,Reading,Burnley,0,0,2.71,3.13,2.75
+13.02.2016,2015,Rotherham,Birmingham,0,0,2.67,3.31,2.68
+13.02.2016,2015,Sheffield Wed,Brentford,4,0,1.93,3.51,3.96
+13.02.2016,2015,Wolves,Preston,1,2,2.34,3.14,3.26
+09.02.2016,2015,MK Dons,Middlesbrough,1,1,4.73,3.50,1.80
+06.02.2016,2015,Birmingham,Sheffield Wed,1,2,2.61,3.15,2.83
+06.02.2016,2015,Bolton,Rotherham,2,1,2.33,3.34,3.09
+06.02.2016,2015,Burnley,Hull,1,0,2.81,3.12,2.63
+06.02.2016,2015,Cardiff,MK Dons,0,0,1.87,3.51,4.32
+06.02.2016,2015,Charlton,Bristol City,0,1,3.34,3.34,2.19
+06.02.2016,2015,Fulham,Derby,1,1,3.36,3.36,2.18
+06.02.2016,2015,Leeds,Nottingham,0,1,2.63,3.08,2.85
+06.02.2016,2015,Middlesbrough,Blackburn,1,1,1.77,3.38,5.10
+06.02.2016,2015,Preston,Huddersfield,2,1,2.43,3.13,3.09
+06.02.2016,2015,QPR,Ipswich,1,0,2.55,3.13,2.91
+06.02.2016,2015,Reading,Wolves,0,0,1.94,3.37,4.11
+05.02.2016,2015,Brighton,Brentford,3,0,2.05,3.42,3.70
+02.02.2016,2015,Derby,Preston,0,0,1.73,3.57,5.08
+02.02.2016,2015,Ipswich,Reading,2,1,2.40,3.24,3.05
+02.02.2016,2015,Sheffield Wed,Burnley,1,1,2.52,3.19,2.91
+02.02.2016,2015,Wolves,Bolton,2,2,1.69,3.81,5.08
+30.01.2016,2015,Bristol City,Birmingham,0,0,2.26,3.33,3.21
+30.01.2016,2015,Huddersfield,Cardiff,2,3,2.09,3.37,3.59
+30.01.2016,2015,Rotherham,Charlton,1,4,1.92,3.55,4.03
+26.01.2016,2015,Brentford,Leeds,1,1,2.05,3.40,3.64
+26.01.2016,2015,Nottingham,QPR,0,0,2.24,3.15,3.44
+25.01.2016,2015,Burnley,Derby,4,1,2.47,3.15,3.03
+23.01.2016,2015,Birmingham,Ipswich,3,0,2.69,3.21,2.68
+23.01.2016,2015,Bolton,MK Dons,3,1,2.49,3.26,2.86
+23.01.2016,2015,Brighton,Huddersfield,2,1,1.87,3.45,4.31
+23.01.2016,2015,Cardiff,Rotherham,2,2,1.91,3.46,4.16
+23.01.2016,2015,Charlton,Blackburn,1,1,3.82,3.31,2.04
+23.01.2016,2015,Fulham,Hull,0,1,4.27,3.55,1.86
+23.01.2016,2015,Leeds,Bristol City,1,0,2.37,3.16,3.18
+23.01.2016,2015,Middlesbrough,Nottingham,0,1,1.62,3.73,6.00
+23.01.2016,2015,Preston,Brentford,1,3,2.29,3.25,3.22
+23.01.2016,2015,QPR,Wolves,1,1,2.31,3.19,3.29
+23.01.2016,2015,Reading,Sheffield Wed,1,1,2.33,3.19,3.19
+16.01.2016,2015,Blackburn,Brighton,0,1,2.38,3.11,3.24
+16.01.2016,2015,Bristol City,Middlesbrough,1,0,4.39,3.43,1.88
+16.01.2016,2015,Derby,Birmingham,0,3,1.61,3.84,5.77
+16.01.2016,2015,Huddersfield,Fulham,1,1,1.90,3.59,4.02
+16.01.2016,2015,Hull,Charlton,6,0,1.29,5.26,11.53
+16.01.2016,2015,Ipswich,Preston,1,1,1.93,3.31,4.30
+16.01.2016,2015,MK Dons,Reading,1,0,3.47,3.23,2.20
+16.01.2016,2015,Nottingham,Bolton,3,0,1.74,3.66,4.88
+16.01.2016,2015,Rotherham,QPR,0,3,2.66,3.21,2.73
+16.01.2016,2015,Sheffield Wed,Leeds,2,0,2.07,3.30,3.79
+16.01.2016,2015,Wolves,Cardiff,1,3,2.09,3.29,3.75
+15.01.2016,2015,Brentford,Burnley,1,3,2.57,3.28,2.81
+13.01.2016,2015,Hull,Cardiff,2,0,1.64,3.69,5.91
+12.01.2016,2015,Blackburn,QPR,1,1,2.05,3.13,4.10
+12.01.2016,2015,Brentford,Middlesbrough,0,1,3.27,3.28,2.27
+12.01.2016,2015,Bristol City,Preston,1,2,2.48,3.13,3.03
+12.01.2016,2015,Derby,Reading,1,1,1.65,3.76,5.69
+12.01.2016,2015,Huddersfield,Charlton,5,0,1.63,3.88,5.65
+12.01.2016,2015,Ipswich,Leeds,2,1,1.92,3.42,4.24
+12.01.2016,2015,MK Dons,Burnley,0,5,3.42,3.18,2.25
+12.01.2016,2015,Nottingham,Birmingham,1,1,2.21,3.22,3.43
+12.01.2016,2015,Rotherham,Brighton,2,0,3.50,3.35,2.15
+12.01.2016,2015,Sheffield Wed,Bolton,3,2,1.61,3.92,5.82
+12.01.2016,2015,Wolves,Fulham,3,2,2.16,3.27,3.53
+02.01.2016,2015,Birmingham,Brentford,2,1,2.72,3.29,2.61
+02.01.2016,2015,Bolton,Huddersfield,0,2,2.79,3.25,2.56
+02.01.2016,2015,Burnley,Ipswich,0,0,2.16,3.26,3.49
+02.01.2016,2015,Cardiff,Blackburn,1,0,2.59,3.07,2.89
+02.01.2016,2015,Charlton,Nottingham,1,1,3.41,3.31,2.16
+02.01.2016,2015,Fulham,Sheffield Wed,0,1,2.71,3.39,2.56
+02.01.2016,2015,Leeds,MK Dons,1,1,2.01,3.37,3.84
+02.01.2016,2015,Middlesbrough,Derby,2,0,2.34,3.10,3.25
+02.01.2016,2015,Preston,Rotherham,2,1,2.08,3.24,3.78
+02.01.2016,2015,Reading,Bristol City,1,0,1.95,3.42,3.96
+01.01.2016,2015,Brighton,Wolves,0,1,2.26,3.18,3.43
+01.01.2016,2015,QPR,Hull,1,2,3.25,3.06,2.39
+29.12.2015,2015,Brighton,Ipswich,0,1,2.35,3.18,3.18
+29.12.2015,2015,Cardiff,Nottingham,1,1,2.21,3.19,3.49
+29.12.2015,2015,Fulham,Rotherham,4,1,1.98,3.58,3.72
+29.12.2015,2015,Leeds,Derby,2,2,3.53,3.23,2.18
+28.12.2015,2015,Birmingham,MK Dons,1,0,2.13,3.37,3.47
+28.12.2015,2015,Bolton,Blackburn,1,0,3.88,3.29,2.03
+28.12.2015,2015,Burnley,Bristol City,4,0,1.90,3.45,4.21
+28.12.2015,2015,Charlton,Wolves,0,2,3.51,3.34,2.14
+28.12.2015,2015,Middlesbrough,Sheffield Wed,1,0,1.64,3.67,5.92
+28.12.2015,2015,Preston,Hull,1,0,3.35,3.14,2.29
+28.12.2015,2015,QPR,Huddersfield,1,1,2.04,3.37,3.73
+28.12.2015,2015,Reading,Brentford,1,2,2.27,3.32,3.20
+27.12.2015,2015,Nottingham,Leeds,1,1,2.13,3.20,3.68
+26.12.2015,2015,Brentford,Brighton,0,0,2.70,3.36,2.60
+26.12.2015,2015,Bristol City,Charlton,1,1,1.72,3.71,4.96
+26.12.2015,2015,Derby,Fulham,2,0,1.42,4.64,7.39
+26.12.2015,2015,Huddersfield,Preston,3,1,2.66,3.11,2.80
+26.12.2015,2015,Hull,Burnley,3,0,2.07,3.20,3.89
+26.12.2015,2015,Ipswich,QPR,2,1,2.11,3.25,3.68
+26.12.2015,2015,MK Dons,Cardiff,2,1,2.52,3.27,2.87
+26.12.2015,2015,Rotherham,Bolton,4,0,2.38,3.33,3.02
+26.12.2015,2015,Sheffield Wed,Birmingham,3,0,1.96,3.40,4.05
+26.12.2015,2015,Wolves,Reading,1,0,2.45,3.19,3.01
+20.12.2015,2015,Leeds,Preston,1,0,2.54,3.06,3.00
+20.12.2015,2015,Reading,Blackburn,1,0,2.45,3.14,3.04
+20.12.2015,2015,Sheffield Wed,Wolves,4,1,2.25,3.22,3.32
+19.12.2015,2015,Bolton,Fulham,2,2,2.38,3.42,2.95
+19.12.2015,2015,Brentford,Huddersfield,4,2,1.95,3.57,3.84
+19.12.2015,2015,Brighton,Middlesbrough,0,3,2.85,3.10,2.62
+19.12.2015,2015,Bristol City,QPR,1,1,2.42,3.27,3.05
+19.12.2015,2015,Burnley,Charlton,4,0,1.55,3.96,6.41
+19.12.2015,2015,Ipswich,Derby,0,1,3.25,3.24,2.28
+19.12.2015,2015,Nottingham,MK Dons,2,1,1.78,3.58,4.72
+19.12.2015,2015,Rotherham,Hull,2,0,4.34,3.34,1.91
+18.12.2015,2015,Birmingham,Cardiff,1,0,2.51,3.23,2.90
+17.12.2015,2015,Wolves,Leeds,2,3,1.96,3.37,4.04
+16.12.2015,2015,Hull,Reading,2,1,1.81,3.39,4.87
+15.12.2015,2015,Cardiff,Brentford,3,2,2.59,3.26,2.77
+15.12.2015,2015,Charlton,Bolton,2,2,2.46,3.24,2.97
+15.12.2015,2015,Derby,Bristol City,4,0,1.59,3.92,6.03
+15.12.2015,2015,Fulham,Ipswich,1,2,2.75,3.43,2.52
+15.12.2015,2015,Huddersfield,Rotherham,2,0,1.99,3.41,3.93
+15.12.2015,2015,Middlesbrough,Burnley,1,0,1.96,3.24,4.27
+15.12.2015,2015,MK Dons,Sheffield Wed,2,1,3.18,3.20,2.35
+15.12.2015,2015,Preston,Birmingham,1,1,2.10,3.18,3.82
+15.12.2015,2015,QPR,Brighton,2,2,2.68,3.11,2.79
+14.12.2015,2015,Blackburn,Nottingham,0,0,2.25,3.18,3.40
+12.12.2015,2015,Cardiff,Sheffield Wed,2,2,2.71,3.13,2.76
+12.12.2015,2015,Charlton,Leeds,0,0,2.93,3.12,2.57
+12.12.2015,2015,Derby,Brighton,2,2,1.93,3.40,4.20
+12.12.2015,2015,Fulham,Brentford,2,2,2.73,3.49,2.51
+12.12.2015,2015,Huddersfield,Bristol City,1,2,2.17,3.36,3.42
+12.12.2015,2015,Hull,Bolton,1,0,1.45,4.30,7.85
+12.12.2015,2015,Middlesbrough,Birmingham,0,0,1.51,4.17,6.75
+12.12.2015,2015,MK Dons,Ipswich,0,1,3.34,3.31,2.22
+12.12.2015,2015,Preston,Reading,1,0,2.45,3.09,3.14
+12.12.2015,2015,QPR,Burnley,0,0,2.54,3.13,2.94
+11.12.2015,2015,Blackburn,Rotherham,1,0,1.64,3.86,5.59
+11.12.2015,2015,Wolves,Nottingham,1,1,2.20,3.22,3.50
+06.12.2015,2015,Sheffield Wed,Derby,0,0,3.32,3.24,2.26
+05.12.2015,2015,Birmingham,Huddersfield,0,2,2.31,3.27,3.18
+05.12.2015,2015,Bolton,Cardiff,2,3,2.68,3.24,2.68
+05.12.2015,2015,Brentford,MK Dons,2,0,1.79,3.62,4.57
+05.12.2015,2015,Brighton,Charlton,3,2,1.49,4.22,6.98
+05.12.2015,2015,Bristol City,Blackburn,0,2,2.63,3.24,2.73
+05.12.2015,2015,Burnley,Preston,0,2,2.05,3.19,3.97
+05.12.2015,2015,Leeds,Hull,2,1,3.84,3.20,2.09
+05.12.2015,2015,Nottingham,Fulham,3,0,2.01,3.53,3.67
+05.12.2015,2015,Rotherham,Wolves,1,2,3.40,3.30,2.20
+04.12.2015,2015,Ipswich,Middlesbrough,0,2,2.88,3.20,2.55
+03.12.2015,2015,Reading,QPR,0,1,2.10,3.26,3.68
+30.11.2015,2015,Bolton,Brentford,1,1,2.69,3.36,2.63
+28.11.2015,2015,Blackburn,Sheffield Wed,2,2,2.22,3.24,3.39
+28.11.2015,2015,Brighton,Birmingham,2,1,1.79,3.52,4.73
+28.11.2015,2015,Cardiff,Burnley,2,2,2.91,3.16,2.53
+28.11.2015,2015,Charlton,Ipswich,0,3,3.59,3.40,2.08
+28.11.2015,2015,Fulham,Preston,1,1,2.45,3.26,2.95
+28.11.2015,2015,Huddersfield,Middlesbrough,0,2,4.14,3.45,1.91
+28.11.2015,2015,Nottingham,Reading,3,1,2.73,3.26,2.62
+28.11.2015,2015,QPR,Leeds,1,0,2.07,3.31,3.71
+28.11.2015,2015,Rotherham,Bristol City,3,0,3.22,3.32,2.26
+28.11.2015,2015,Wolves,MK Dons,0,0,1.75,3.67,4.73
+27.11.2015,2015,Hull,Derby,0,2,2.30,3.23,3.27
+22.11.2015,2015,Burnley,Brighton,1,1,2.49,3.09,3.08
+21.11.2015,2015,Birmingham,Charlton,0,1,1.72,3.66,4.94
+21.11.2015,2015,Brentford,Nottingham,2,1,2.38,3.36,2.96
+21.11.2015,2015,Bristol City,Hull,1,1,3.05,3.21,2.43
+21.11.2015,2015,Derby,Cardiff,2,0,1.56,3.94,6.31
+21.11.2015,2015,Ipswich,Wolves,2,2,2.31,3.27,3.17
+21.11.2015,2015,Leeds,Rotherham,0,1,1.83,3.51,4.49
+21.11.2015,2015,MK Dons,Fulham,1,1,2.47,3.42,2.79
+21.11.2015,2015,Preston,Blackburn,1,2,2.85,3.05,2.65
+21.11.2015,2015,Reading,Bolton,2,1,1.57,3.96,6.15
+21.11.2015,2015,Sheffield Wed,Huddersfield,3,1,2.04,3.37,3.75
+20.11.2015,2015,Middlesbrough,QPR,1,0,1.61,3.80,5.97
+07.11.2015,2015,Blackburn,Brentford,1,1,1.95,3.50,3.88
+07.11.2015,2015,Bolton,Bristol City,0,0,2.97,3.29,2.41
+07.11.2015,2015,Brighton,MK Dons,2,1,1.61,3.83,5.88
+07.11.2015,2015,Cardiff,Reading,2,0,3.07,3.17,2.44
+07.11.2015,2015,Charlton,Sheffield Wed,3,1,4.46,3.55,1.83
+07.11.2015,2015,Fulham,Birmingham,2,5,2.22,3.45,3.19
+07.11.2015,2015,Huddersfield,Leeds,0,3,2.56,3.17,2.91
+07.11.2015,2015,Hull,Middlesbrough,3,0,2.55,3.07,2.96
+07.11.2015,2015,QPR,Preston,0,0,2.15,3.26,3.55
+07.11.2015,2015,Rotherham,Ipswich,2,5,3.22,3.29,2.28
+07.11.2015,2015,Wolves,Burnley,0,0,2.63,3.17,2.76
+06.11.2015,2015,Nottingham,Derby,1,0,3.56,3.33,2.12
+03.11.2015,2015,Birmingham,Blackburn,0,0,2.83,3.24,2.54
+03.11.2015,2015,Brentford,Hull,0,2,3.04,3.23,2.40
+03.11.2015,2015,Bristol City,Wolves,1,0,2.36,3.40,2.96
+03.11.2015,2015,Burnley,Fulham,3,1,1.88,3.58,4.14
+03.11.2015,2015,Derby,QPR,1,0,1.66,3.84,5.32
+03.11.2015,2015,Ipswich,Bolton,2,0,1.82,3.59,4.42
+03.11.2015,2015,Leeds,Cardiff,1,0,2.33,3.25,3.15
+03.11.2015,2015,Middlesbrough,Rotherham,1,0,1.36,4.88,9.22
+03.11.2015,2015,MK Dons,Charlton,1,0,2.00,3.44,3.81
+03.11.2015,2015,Preston,Nottingham,1,0,2.16,3.25,3.53
+03.11.2015,2015,Reading,Huddersfield,2,2,1.66,3.78,5.41
+03.11.2015,2015,Sheffield Wed,Brighton,0,0,2.43,3.16,3.09
+31.10.2015,2015,Birmingham,Wolves,0,2,2.58,3.23,2.81
+31.10.2015,2015,Bristol City,Fulham,1,4,2.05,3.62,3.42
+31.10.2015,2015,Burnley,Huddersfield,2,1,1.83,3.52,4.46
+31.10.2015,2015,Derby,Rotherham,3,0,1.44,4.54,7.05
+31.10.2015,2015,Ipswich,Cardiff,0,0,2.06,3.33,3.71
+31.10.2015,2015,Middlesbrough,Charlton,3,0,1.46,4.33,7.15
+31.10.2015,2015,MK Dons,Hull,0,2,3.59,3.35,2.08
+31.10.2015,2015,Preston,Bolton,0,0,1.98,3.40,3.93
+31.10.2015,2015,Reading,Brighton,1,1,2.35,3.20,3.12
+31.10.2015,2015,Sheffield Wed,Nottingham,1,0,2.07,3.39,3.60
+30.10.2015,2015,Brentford,QPR,1,0,2.41,3.40,2.91
+29.10.2015,2015,Leeds,Blackburn,0,2,2.86,3.23,2.57
+26.10.2015,2015,Cardiff,Bristol City,0,0,2.51,3.28,2.87
+24.10.2015,2015,Blackburn,Burnley,0,1,2.61,3.19,2.80
+24.10.2015,2015,Bolton,Leeds,1,1,2.54,3.28,2.79
+24.10.2015,2015,Brighton,Preston,0,0,1.94,3.38,4.11
+24.10.2015,2015,Charlton,Brentford,0,3,2.82,3.35,2.47
+24.10.2015,2015,Fulham,Reading,4,2,3.65,3.44,2.03
+24.10.2015,2015,Huddersfield,Derby,1,2,3.59,3.44,2.05
+24.10.2015,2015,Hull,Birmingham,2,0,1.78,3.54,4.67
+24.10.2015,2015,Nottingham,Ipswich,1,1,2.39,3.32,2.96
+24.10.2015,2015,QPR,MK Dons,3,0,2.07,3.47,3.50
+24.10.2015,2015,Wolves,Middlesbrough,1,3,3.21,3.28,2.29
+23.10.2015,2015,Rotherham,Sheffield Wed,1,2,3.01,3.29,2.40
+21.10.2015,2015,Blackburn,Derby,0,0,3.15,3.40,2.25
+21.10.2015,2015,Fulham,Leeds,1,1,2.19,3.43,3.24
+21.10.2015,2015,Wolves,Brentford,0,2,1.73,3.79,4.65
+20.10.2015,2015,Bolton,Birmingham,0,1,2.47,3.31,2.86
+20.10.2015,2015,Brighton,Bristol City,2,1,1.84,3.54,4.34
+20.10.2015,2015,Cardiff,Middlesbrough,1,0,3.44,3.25,2.19
+20.10.2015,2015,Charlton,Preston,0,3,2.62,3.18,2.76
+20.10.2015,2015,Huddersfield,MK Dons,2,0,2.26,3.33,3.20
+20.10.2015,2015,Hull,Ipswich,3,0,1.90,3.40,4.26
+20.10.2015,2015,Nottingham,Burnley,1,1,2.79,3.31,2.53
+20.10.2015,2015,QPR,Sheffield Wed,0,0,2.50,3.25,2.86
+20.10.2015,2015,Rotherham,Reading,1,1,4.02,3.42,1.95
+18.10.2015,2015,Derby,Wolves,4,2,1.77,3.68,4.63
+17.10.2015,2015,Birmingham,QPR,2,1,2.32,3.38,3.05
+17.10.2015,2015,Brentford,Rotherham,2,1,2.13,3.51,3.33
+17.10.2015,2015,Burnley,Bolton,2,0,1.72,3.75,4.89
+17.10.2015,2015,Ipswich,Huddersfield,0,0,1.92,3.57,3.97
+17.10.2015,2015,Leeds,Brighton,1,2,3.38,3.23,2.23
+17.10.2015,2015,Middlesbrough,Fulham,0,0,1.49,4.33,6.57
+17.10.2015,2015,MK Dons,Blackburn,3,0,2.84,3.39,2.44
+17.10.2015,2015,Preston,Cardiff,0,0,2.32,3.25,3.16
+17.10.2015,2015,Reading,Charlton,1,0,1.58,4.00,5.93
+17.10.2015,2015,Sheffield Wed,Hull,1,1,2.72,3.17,2.71
+16.10.2015,2015,Bristol City,Nottingham,2,0,2.15,3.41,3.38
+04.10.2015,2015,Charlton,Fulham,2,2,2.59,3.32,2.72
+03.10.2015,2015,Blackburn,Ipswich,2,0,2.18,3.45,3.24
+03.10.2015,2015,Brighton,Cardiff,1,1,1.89,3.42,4.24
+03.10.2015,2015,Bristol City,MK Dons,1,1,1.88,3.63,4.00
+03.10.2015,2015,Derby,Brentford,2,0,1.59,4.07,5.53
+03.10.2015,2015,Leeds,Birmingham,0,2,2.42,3.27,2.95
+03.10.2015,2015,Nottingham,Hull,0,1,2.68,3.15,2.74
+03.10.2015,2015,QPR,Bolton,4,3,2.08,3.40,3.54
+03.10.2015,2015,Reading,Middlesbrough,2,0,2.64,3.20,2.74
+03.10.2015,2015,Sheffield Wed,Preston,3,1,2.07,3.32,3.65
+03.10.2015,2015,Wolves,Huddersfield,3,0,2.03,3.42,3.68
+02.10.2015,2015,Rotherham,Burnley,1,2,3.18,3.27,2.32
+29.09.2015,2015,Fulham,Wolves,0,3,2.27,3.41,3.12
+29.09.2015,2015,Brentford,Birmingham,0,2,2.16,3.52,3.24
+27.09.2015,2015,Middlesbrough,Leeds,3,0,1.52,4.19,6.40
+26.09.2015,2015,Birmingham,Rotherham,0,2,1.96,3.52,3.84
+26.09.2015,2015,Bolton,Brighton,2,2,3.33,3.28,2.21
+26.09.2015,2015,Brentford,Sheffield Wed,1,2,2.37,3.40,2.94
+26.09.2015,2015,Burnley,Reading,1,2,2.47,3.13,3.01
+26.09.2015,2015,Cardiff,Charlton,2,1,1.92,3.40,4.13
+26.09.2015,2015,Hull,Blackburn,1,1,2.06,3.38,3.61
+26.09.2015,2015,Ipswich,Bristol City,2,2,2.03,3.56,3.57
+26.09.2015,2015,MK Dons,Derby,1,3,3.97,3.59,1.91
+26.09.2015,2015,Preston,Wolves,1,1,2.35,3.24,3.09
+25.09.2015,2015,Fulham,QPR,4,0,2.72,3.39,2.57
+24.09.2015,2015,Huddersfield,Nottingham,1,1,2.48,3.31,2.88
+21.09.2015,2015,Derby,Burnley,0,0,2.15,3.32,3.51
+19.09.2015,2015,Blackburn,Charlton,3,0,1.82,3.62,4.41
+19.09.2015,2015,Brentford,Preston,2,1,2.40,3.28,3.00
+19.09.2015,2015,Bristol City,Reading,0,2,2.54,3.36,2.72
+19.09.2015,2015,Huddersfield,Bolton,4,1,2.25,3.32,3.20
+19.09.2015,2015,Hull,QPR,1,1,1.93,3.40,4.10
+19.09.2015,2015,MK Dons,Leeds,1,2,2.45,3.26,2.91
+19.09.2015,2015,Nottingham,Middlesbrough,1,2,3.45,3.37,2.13
+19.09.2015,2015,Rotherham,Cardiff,2,1,2.87,3.22,2.54
+19.09.2015,2015,Sheffield Wed,Fulham,3,2,2.15,3.40,3.33
+19.09.2015,2015,Wolves,Brighton,0,0,2.52,3.21,2.86
+18.09.2015,2015,Ipswich,Birmingham,1,1,2.00,3.45,3.80
+16.09.2015,2015,QPR,Blackburn,2,2,2.31,3.32,3.12
+15.09.2015,2015,Birmingham,Nottingham,0,1,2.28,3.40,3.08
+15.09.2015,2015,Bolton,Sheffield Wed,0,0,2.45,3.35,2.86
+15.09.2015,2015,Brighton,Rotherham,2,1,1.65,3.71,5.69
+15.09.2015,2015,Burnley,MK Dons,2,1,1.73,3.57,4.99
+15.09.2015,2015,Cardiff,Hull,0,2,2.74,3.15,2.66
+15.09.2015,2015,Charlton,Huddersfield,1,2,2.18,3.29,3.38
+15.09.2015,2015,Leeds,Ipswich,0,1,2.65,3.24,2.68
+15.09.2015,2015,Middlesbrough,Brentford,3,1,1.53,4.26,5.83
+15.09.2015,2015,Preston,Bristol City,1,1,2.24,3.25,3.26
+15.09.2015,2015,Reading,Derby,0,1,2.40,3.29,2.96
+13.09.2015,2015,Fulham,Blackburn,2,1,2.36,3.33,3.02
+12.09.2015,2015,Birmingham,Bristol City,4,2,2.62,3.42,2.61
+12.09.2015,2015,Bolton,Wolves,2,1,2.65,3.28,2.68
+12.09.2015,2015,Brighton,Hull,1,0,2.55,3.11,2.93
+12.09.2015,2015,Burnley,Sheffield Wed,3,1,1.98,3.35,3.93
+12.09.2015,2015,Cardiff,Huddersfield,2,0,2.06,3.31,3.72
+12.09.2015,2015,Charlton,Rotherham,1,1,2.07,3.34,3.67
+12.09.2015,2015,Leeds,Brentford,1,1,2.34,3.37,3.00
+12.09.2015,2015,Middlesbrough,MK Dons,2,0,1.44,4.41,7.63
+12.09.2015,2015,Preston,Derby,1,2,2.75,3.23,2.62
+12.09.2015,2015,QPR,Nottingham,1,2,1.78,3.63,4.58
+11.09.2015,2015,Reading,Ipswich,5,1,2.14,3.26,3.61
+29.08.2015,2015,Brentford,Reading,1,3,2.31,3.28,3.17
+29.08.2015,2015,Bristol City,Burnley,1,2,2.50,3.18,2.93
+29.08.2015,2015,Derby,Leeds,1,2,1.65,3.72,5.71
+29.08.2015,2015,Huddersfield,QPR,0,1,2.41,3.38,2.90
+29.08.2015,2015,Hull,Preston,2,0,2.02,3.28,3.93
+29.08.2015,2015,Ipswich,Brighton,2,3,2.14,3.29,3.50
+29.08.2015,2015,MK Dons,Birmingham,0,2,2.18,3.39,3.32
+29.08.2015,2015,Nottingham,Cardiff,1,2,2.38,3.25,3.04
+29.08.2015,2015,Rotherham,Fulham,1,3,2.38,3.37,2.95
+29.08.2015,2015,Sheffield Wed,Middlesbrough,1,3,3.23,3.21,2.30
+29.08.2015,2015,Wolves,Charlton,2,1,1.85,3.46,4.42
+28.08.2015,2015,Blackburn,Bolton,0,0,2.08,3.41,3.58
+22.08.2015,2015,Bolton,Nottingham,1,1,2.46,3.36,2.85
+22.08.2015,2015,Brighton,Blackburn,1,0,2.05,3.27,3.81
+22.08.2015,2015,Burnley,Brentford,1,0,2.14,3.46,3.33
+22.08.2015,2015,Cardiff,Wolves,2,0,2.77,3.19,2.64
+22.08.2015,2015,Charlton,Hull,2,1,3.66,3.16,2.14
+22.08.2015,2015,Fulham,Huddersfield,1,1,2.33,3.43,2.99
+22.08.2015,2015,Leeds,Sheffield Wed,1,1,2.56,3.16,2.89
+22.08.2015,2015,Middlesbrough,Bristol City,0,1,1.59,3.91,5.88
+22.08.2015,2015,Preston,Ipswich,1,2,2.37,3.21,3.11
+22.08.2015,2015,QPR,Rotherham,4,2,1.72,3.76,4.83
+22.08.2015,2015,Reading,MK Dons,0,0,2.14,3.32,3.49
+21.08.2015,2015,Birmingham,Derby,1,1,3.03,3.33,2.36
+19.08.2015,2015,Bristol City,Leeds,2,2,1.95,3.46,3.93
+19.08.2015,2015,Hull,Fulham,2,1,1.62,3.81,5.94
+19.08.2015,2015,Sheffield Wed,Reading,1,1,2.42,3.22,3.05
+19.08.2015,2015,Wolves,QPR,2,3,2.07,3.42,3.60
+18.08.2015,2015,Blackburn,Cardiff,1,1,2.22,3.23,3.38
+18.08.2015,2015,Derby,Middlesbrough,1,1,2.69,3.28,2.65
+18.08.2015,2015,Huddersfield,Brighton,1,1,2.57,3.15,2.86
+18.08.2015,2015,Ipswich,Burnley,2,0,2.10,3.32,3.58
+18.08.2015,2015,MK Dons,Bolton,1,0,1.85,3.60,4.25
+18.08.2015,2015,Nottingham,Charlton,0,0,1.93,3.51,4.00
+18.08.2015,2015,Rotherham,Preston,0,0,2.89,3.23,2.51
+16.08.2015,2015,Reading,Leeds,0,0,1.96,3.37,4.05
+16.08.2015,2015,Wolves,Hull,1,1,2.62,3.20,2.79
+15.08.2015,2015,Bristol City,Brentford,2,4,2.53,3.44,2.70
+15.08.2015,2015,Burnley,Birmingham,2,2,1.97,3.39,3.99
+15.08.2015,2015,Derby,Charlton,1,1,1.53,4.12,6.31
+15.08.2015,2015,Fulham,Brighton,1,2,2.90,3.26,2.49
+15.08.2015,2015,Huddersfield,Blackburn,1,1,2.61,3.30,2.71
+15.08.2015,2015,Ipswich,Sheffield Wed,2,1,2.08,3.34,3.63
+15.08.2015,2015,Middlesbrough,Bolton,3,0,1.50,4.15,6.90
+15.08.2015,2015,MK Dons,Preston,0,1,2.29,3.27,3.20
+15.08.2015,2015,Nottingham,Rotherham,2,1,2.00,3.48,3.79
+15.08.2015,2015,QPR,Cardiff,2,2,2.06,3.40,3.70
+09.08.2015,2015,Preston,Middlesbrough,0,0,3.24,3.17,2.32
+08.08.2015,2015,Birmingham,Reading,2,1,2.45,3.24,2.95
+08.08.2015,2015,Blackburn,Wolves,1,2,2.57,3.27,2.76
+08.08.2015,2015,Bolton,Derby,0,0,3.84,3.50,1.96
+08.08.2015,2015,Brentford,Ipswich,2,2,2.10,3.46,3.42
+08.08.2015,2015,Cardiff,Fulham,1,1,2.20,3.37,3.28
+08.08.2015,2015,Charlton,QPR,2,0,3.18,3.31,2.27
+08.08.2015,2015,Hull,Huddersfield,2,0,1.67,3.73,5.30
+08.08.2015,2015,Leeds,Burnley,1,1,3.00,3.19,2.44
+08.08.2015,2015,Rotherham,MK Dons,1,4,2.78,3.28,2.57
+08.08.2015,2015,Sheffield Wed,Bristol City,2,0,2.20,3.30,3.34
+07.08.2015,2015,Brighton,Nottingham,1,0,2.25,3.29,3.26
