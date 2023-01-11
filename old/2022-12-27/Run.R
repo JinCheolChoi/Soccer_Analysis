@@ -14,18 +14,17 @@ rm(list=ls())
 # CODE.dir.2="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/"
 # CODE.dir.1="C:/Users/JinCheol Choi/Desktop/R/Functions/"
 # CODE.dir.2="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/"
-CODE.dir.1="C:/Users/JinCheol Choi/Desktop/R/Functions/"
-CODE.dir.2="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/"
+CODE.dir.1="C:/Users/jchoi02/Desktop/R/Functions/"
+CODE.dir.2="C:/Users/jchoi02/Desktop/R/Soccer_Analysis/"
 
-Year=2020
 Countries=c(
   "england",
   "spain",
   "italy",
   "netherlands",
   "germany",
-  "china",
-  "japan",
+  # "china",
+  # "japan",
   "turkey"
 )
 # england : "premier-league", "championship", "league-one", "league-two"
@@ -45,6 +44,7 @@ Leagues=c(
   "serie-a",
   "eerste-divisie",
   "3-liga",
+  "bundesliga",
   "super-league",
   "j1-league",
   "j2-league",
@@ -62,7 +62,7 @@ lapply(c("data.table",
          
          "profvis",
          "ggplot2",
-         "readr", # readr::parse_number
+         "readr", # readr::parse_number``
          "reshape2"), # melt() and dcast()
        checkpackages)
 
@@ -71,12 +71,13 @@ lapply(c("data.table",
 # Extract_Data_Game_Results ----
 #
 #*******************************
-Years=2020
-data.dir.1="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Data/Game_results/"
+Years=c(1998:2022)
+# data.dir.1="C:/Users/JinCheol Choi/Desktop/R/Soccer_Analysis/Data/Game_results/"
+data.dir.1="C:/Users/jchoi02/Desktop/R/Soccer_Analysis//Data/Game_results/"
+
 lapply(c("data.table",
          "rvest"), checkpackages)
 source(paste0(CODE.dir.2, "Extract_Data_Game_Results.R"))
-
 
 #********************************
 #

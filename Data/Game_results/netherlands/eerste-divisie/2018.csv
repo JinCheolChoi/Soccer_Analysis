@@ -1,381 +1,307 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-03.05.2019,2018,Den Bosch,G.A. Eagles,2,0
-03.05.2019,2018,Dordrecht,Jong Utrecht,1,2
-03.05.2019,2018,FC Volendam,Roda,1,1
-03.05.2019,2018,Helmond,Oss,0,4
-03.05.2019,2018,Jong Ajax,Almere City,8,0
-03.05.2019,2018,Jong AZ,Sparta Rotterdam,3,2
-03.05.2019,2018,Jong PSV,Telstar,2,0
-03.05.2019,2018,Maastricht,Nijmegen,1,1
-03.05.2019,2018,Twente,Cambuur,2,2
-03.05.2019,2018,Waalwijk,Eindhoven FC,3,1
-29.04.2019,2018,Jong Ajax,Twente,2,5
-26.04.2019,2018,Almere City,Jong PSV,2,1
-26.04.2019,2018,Cambuur,Maastricht,4,1
-26.04.2019,2018,Eindhoven FC,Jong AZ,0,1
-26.04.2019,2018,G.A. Eagles,Waalwijk,1,4
-26.04.2019,2018,Jong Utrecht,Helmond,1,1
-26.04.2019,2018,Nijmegen,Twente,4,0
-26.04.2019,2018,Oss,Dordrecht,1,0
-26.04.2019,2018,Roda,Den Bosch,0,2
-26.04.2019,2018,Sparta Rotterdam,Jong Ajax,2,2
-26.04.2019,2018,Telstar,FC Volendam,1,1
-22.04.2019,2018,Cambuur,Den Bosch,2,0
-22.04.2019,2018,Dordrecht,Almere City,3,2
-22.04.2019,2018,Helmond,Eindhoven FC,2,1
-22.04.2019,2018,Jong PSV,Sparta Rotterdam,2,0
-22.04.2019,2018,Jong Utrecht,FC Volendam,3,1
-22.04.2019,2018,Maastricht,Jong Ajax,1,0
-22.04.2019,2018,Nijmegen,Waalwijk,2,1
-22.04.2019,2018,Oss,G.A. Eagles,1,0
-22.04.2019,2018,Telstar,Roda,4,0
-22.04.2019,2018,Twente,Jong AZ,0,0
-19.04.2019,2018,Almere City,Telstar,2,0
-19.04.2019,2018,Den Bosch,Jong Utrecht,2,2
-19.04.2019,2018,Eindhoven FC,Cambuur,2,2
-19.04.2019,2018,FC Volendam,Nijmegen,2,3
-19.04.2019,2018,G.A. Eagles,Jong PSV,2,1
-19.04.2019,2018,Jong AZ,Maastricht,2,3
-19.04.2019,2018,Roda,Oss,1,1
-19.04.2019,2018,Sparta Rotterdam,Helmond,3,1
-19.04.2019,2018,Waalwijk,Dordrecht,4,4
-15.04.2019,2018,Jong Ajax,G.A. Eagles,5,2
-14.04.2019,2018,Sparta Rotterdam,Oss,1,4
-12.04.2019,2018,Almere City,Den Bosch,3,1
-12.04.2019,2018,Cambuur,Jong Utrecht,4,1
-12.04.2019,2018,Dordrecht,Maastricht,1,1
-12.04.2019,2018,Eindhoven FC,Roda,1,2
-12.04.2019,2018,FC Volendam,Jong PSV,0,3
-12.04.2019,2018,Jong AZ,Waalwijk,2,4
-12.04.2019,2018,Nijmegen,Helmond,3,2
-12.04.2019,2018,Twente,Telstar,1,0
-08.04.2019,2018,Jong PSV,Nijmegen,1,2
-05.04.2019,2018,Den Bosch,Sparta Rotterdam,1,1
-05.04.2019,2018,G.A. Eagles,Jong AZ,1,0
-05.04.2019,2018,Helmond,Jong Ajax,1,3
-05.04.2019,2018,Jong Utrecht,Almere City,0,2
-05.04.2019,2018,Maastricht,Eindhoven FC,1,1
-05.04.2019,2018,Oss,FC Volendam,0,0
-05.04.2019,2018,Roda,Waalwijk,0,0
-05.04.2019,2018,Telstar,Cambuur,4,2
-05.04.2019,2018,Twente,Dordrecht,0,1
-01.04.2019,2018,Almere City,Helmond,3,0
-01.04.2019,2018,Den Bosch,Jong PSV,3,1
-01.04.2019,2018,Eindhoven FC,Oss,2,1
-01.04.2019,2018,FC Volendam,Dordrecht,3,4
-01.04.2019,2018,G.A. Eagles,Telstar,2,3
-01.04.2019,2018,Jong Ajax,Cambuur,0,6
-01.04.2019,2018,Jong AZ,Nijmegen,4,0
-01.04.2019,2018,Roda,Jong Utrecht,2,1
-01.04.2019,2018,Sparta Rotterdam,Maastricht,2,0
-01.04.2019,2018,Waalwijk,Twente,4,1
-29.03.2019,2018,Cambuur,Almere City,0,1
-29.03.2019,2018,Dordrecht,G.A. Eagles,1,3
-29.03.2019,2018,Helmond,Roda,4,0
-29.03.2019,2018,Jong PSV,Waalwijk,2,1
-29.03.2019,2018,Jong Utrecht,Sparta Rotterdam,1,5
-29.03.2019,2018,Maastricht,FC Volendam,1,1
-29.03.2019,2018,Nijmegen,Jong Ajax,1,2
-29.03.2019,2018,Oss,Jong AZ,1,0
-29.03.2019,2018,Telstar,Eindhoven FC,1,1
-29.03.2019,2018,Twente,Den Bosch,1,0
-25.03.2019,2018,Almere City,Oss,3,0
-25.03.2019,2018,Jong Ajax,Jong Utrecht,3,3
-25.03.2019,2018,Jong AZ,Jong PSV,0,0
-24.03.2019,2018,G.A. Eagles,Twente,1,2
-24.03.2019,2018,Roda,Maastricht,2,2
-24.03.2019,2018,Sparta Rotterdam,Nijmegen,1,0
-22.03.2019,2018,Den Bosch,Telstar,3,4
-22.03.2019,2018,Eindhoven FC,Dordrecht,8,1
-22.03.2019,2018,FC Volendam,Cambuur,0,1
-22.03.2019,2018,Waalwijk,Helmond,2,1
-15.03.2019,2018,Almere City,Sparta Rotterdam,1,3
-15.03.2019,2018,Cambuur,Jong PSV,3,1
-15.03.2019,2018,Dordrecht,Roda,3,2
-15.03.2019,2018,Helmond,G.A. Eagles,1,1
-15.03.2019,2018,Jong Utrecht,Eindhoven FC,1,3
-15.03.2019,2018,Maastricht,Waalwijk,1,4
-15.03.2019,2018,Nijmegen,Den Bosch,5,0
-15.03.2019,2018,Oss,Jong Ajax,2,1
-15.03.2019,2018,Telstar,Jong AZ,1,0
-15.03.2019,2018,Twente,FC Volendam,5,0
-11.03.2019,2018,Jong Ajax,Jong AZ,1,1
-08.03.2019,2018,Den Bosch,Helmond,3,0
-08.03.2019,2018,Eindhoven FC,Sparta Rotterdam,0,0
-08.03.2019,2018,FC Volendam,G.A. Eagles,0,1
-08.03.2019,2018,Jong PSV,Jong Utrecht,3,1
-08.03.2019,2018,Maastricht,Almere City,1,1
-08.03.2019,2018,Nijmegen,Roda,1,0
-08.03.2019,2018,Oss,Twente,0,2
-08.03.2019,2018,Telstar,Dordrecht,1,0
-08.03.2019,2018,Waalwijk,Cambuur,0,2
-04.03.2019,2018,Jong AZ,FC Volendam,1,1
-01.03.2019,2018,Almere City,Eindhoven FC,2,0
-01.03.2019,2018,Cambuur,Oss,0,0
-01.03.2019,2018,Dordrecht,Nijmegen,2,2
-01.03.2019,2018,G.A. Eagles,Maastricht,2,0
-01.03.2019,2018,Helmond,Jong PSV,0,2
-01.03.2019,2018,Jong Ajax,Den Bosch,2,2
-01.03.2019,2018,Jong Utrecht,Telstar,0,1
-01.03.2019,2018,Roda,Twente,1,1
-01.03.2019,2018,Sparta Rotterdam,Waalwijk,2,1
-25.02.2019,2018,Jong Utrecht,Oss,1,2
-24.02.2019,2018,Sparta Rotterdam,G.A. Eagles,6,1
-22.02.2019,2018,Cambuur,Dordrecht,1,3
-22.02.2019,2018,Den Bosch,Maastricht,1,2
-22.02.2019,2018,Helmond,Jong AZ,1,3
-22.02.2019,2018,Jong PSV,Roda,2,2
-22.02.2019,2018,Nijmegen,Almere City,5,0
-22.02.2019,2018,Telstar,Jong Ajax,0,2
-22.02.2019,2018,Twente,Eindhoven FC,1,0
-22.02.2019,2018,Waalwijk,FC Volendam,3,3
-18.02.2019,2018,Jong PSV,Twente,0,2
-15.02.2019,2018,Dordrecht,Sparta Rotterdam,1,4
-15.02.2019,2018,Eindhoven FC,Jong Ajax,1,1
-15.02.2019,2018,FC Volendam,Helmond,1,0
-15.02.2019,2018,G.A. Eagles,Nijmegen,4,4
-15.02.2019,2018,Jong AZ,Den Bosch,0,0
-15.02.2019,2018,Maastricht,Jong Utrecht,4,2
-15.02.2019,2018,Oss,Telstar,1,0
-15.02.2019,2018,Roda,Cambuur,1,0
-15.02.2019,2018,Waalwijk,Almere City,0,1
-11.02.2019,2018,Jong Ajax,Roda,5,1
-11.02.2019,2018,Jong Utrecht,G.A. Eagles,2,4
-08.02.2019,2018,Almere City,Jong AZ,2,0
-08.02.2019,2018,Cambuur,Nijmegen,1,1
-08.02.2019,2018,Den Bosch,FC Volendam,1,1
-08.02.2019,2018,Eindhoven FC,Jong PSV,1,2
-08.02.2019,2018,Helmond,Dordrecht,1,2
-08.02.2019,2018,Oss,Maastricht,1,3
-08.02.2019,2018,Sparta Rotterdam,Twente,0,3
-08.02.2019,2018,Telstar,Waalwijk,0,3
-04.02.2019,2018,Jong AZ,Cambuur,2,1
-04.02.2019,2018,Jong PSV,Oss,3,1
-01.02.2019,2018,Dordrecht,Jong Ajax,3,3
-01.02.2019,2018,FC Volendam,Sparta Rotterdam,2,2
-01.02.2019,2018,G.A. Eagles,Eindhoven FC,0,1
-01.02.2019,2018,Maastricht,Telstar,2,0
-01.02.2019,2018,Nijmegen,Jong Utrecht,4,1
-01.02.2019,2018,Roda,Almere City,1,2
-01.02.2019,2018,Twente,Helmond,4,1
-01.02.2019,2018,Waalwijk,Den Bosch,2,1
-28.01.2019,2018,Cambuur,G.A. Eagles,1,1
-28.01.2019,2018,Dordrecht,Jong PSV,1,3
-28.01.2019,2018,Jong Ajax,FC Volendam,1,3
-28.01.2019,2018,Jong Utrecht,Waalwijk,1,2
-26.01.2019,2018,Almere City,Twente,1,3
-25.01.2019,2018,Eindhoven FC,Den Bosch,2,0
-25.01.2019,2018,Maastricht,Helmond,3,0
-25.01.2019,2018,Oss,Nijmegen,1,1
-25.01.2019,2018,Roda,Jong AZ,6,2
-25.01.2019,2018,Telstar,Sparta Rotterdam,1,1
-21.01.2019,2018,Jong PSV,Maastricht,2,2
-18.01.2019,2018,Den Bosch,Oss,3,0
-18.01.2019,2018,FC Volendam,Eindhoven FC,1,3
-18.01.2019,2018,G.A. Eagles,Almere City,2,1
-18.01.2019,2018,Helmond,Cambuur,0,1
-18.01.2019,2018,Jong AZ,Dordrecht,0,1
-18.01.2019,2018,Nijmegen,Telstar,1,1
-18.01.2019,2018,Sparta Rotterdam,Roda,2,2
-18.01.2019,2018,Twente,Jong Utrecht,1,0
-18.01.2019,2018,Waalwijk,Jong Ajax,4,1
-13.01.2019,2018,Almere City,FC Volendam,0,2
-13.01.2019,2018,Cambuur,Sparta Rotterdam,3,3
-13.01.2019,2018,Dordrecht,Den Bosch,2,6
-13.01.2019,2018,Eindhoven FC,Nijmegen,3,2
-13.01.2019,2018,Jong Ajax,Jong PSV,2,2
-13.01.2019,2018,Jong Utrecht,Jong AZ,1,3
-13.01.2019,2018,Maastricht,Twente,0,2
-13.01.2019,2018,Oss,Waalwijk,1,2
-13.01.2019,2018,Roda,G.A. Eagles,3,1
-13.01.2019,2018,Telstar,Helmond,1,1
-23.12.2018,2018,Maastricht,Cambuur,1,2
-22.12.2018,2018,Den Bosch,Roda,2,0
-21.12.2018,2018,Dordrecht,Oss,0,1
-21.12.2018,2018,FC Volendam,Telstar,1,0
-21.12.2018,2018,Helmond,Jong Utrecht,2,0
-21.12.2018,2018,Jong Ajax,Sparta Rotterdam,2,0
-21.12.2018,2018,Jong AZ,Eindhoven FC,1,2
-21.12.2018,2018,Jong PSV,Almere City,5,2
-21.12.2018,2018,Twente,Nijmegen,2,0
-21.12.2018,2018,Waalwijk,G.A. Eagles,1,3
-14.12.2018,2018,Almere City,Jong Ajax,2,3
-14.12.2018,2018,Cambuur,Twente,0,1
-14.12.2018,2018,Eindhoven FC,Waalwijk,1,3
-14.12.2018,2018,G.A. Eagles,Den Bosch,0,0
-14.12.2018,2018,Jong Utrecht,Dordrecht,4,1
-14.12.2018,2018,Nijmegen,Maastricht,0,1
-14.12.2018,2018,Oss,Helmond,1,1
-14.12.2018,2018,Roda,FC Volendam,2,1
-14.12.2018,2018,Sparta Rotterdam,Jong AZ,5,0
-14.12.2018,2018,Telstar,Jong PSV,2,4
-10.12.2018,2018,Jong AZ,Telstar,0,2
-10.12.2018,2018,Jong PSV,Cambuur,1,2
-07.12.2018,2018,Den Bosch,Nijmegen,3,2
-07.12.2018,2018,Eindhoven FC,Jong Utrecht,0,0
-07.12.2018,2018,FC Volendam,Twente,1,2
-07.12.2018,2018,G.A. Eagles,Helmond,1,0
-07.12.2018,2018,Jong Ajax,Oss,1,0
-07.12.2018,2018,Roda,Dordrecht,2,2
-07.12.2018,2018,Sparta Rotterdam,Almere City,6,1
-07.12.2018,2018,Waalwijk,Maastricht,3,1
-03.12.2018,2018,Jong PSV,G.A. Eagles,5,1
-03.12.2018,2018,Jong Utrecht,Den Bosch,1,1
-30.11.2018,2018,Cambuur,Eindhoven FC,1,3
-30.11.2018,2018,Dordrecht,Waalwijk,2,0
-30.11.2018,2018,Helmond,Sparta Rotterdam,3,0
-30.11.2018,2018,Maastricht,Jong AZ,1,1
-30.11.2018,2018,Nijmegen,FC Volendam,5,1
-30.11.2018,2018,Oss,Roda,0,5
-30.11.2018,2018,Telstar,Almere City,1,1
-30.11.2018,2018,Twente,Jong Ajax,2,5
-26.11.2018,2018,Jong AZ,Twente,1,2
-23.11.2018,2018,Almere City,Dordrecht,1,1
-23.11.2018,2018,Den Bosch,Cambuur,1,1
-23.11.2018,2018,Eindhoven FC,Helmond,2,1
-23.11.2018,2018,FC Volendam,Jong Utrecht,2,0
-23.11.2018,2018,G.A. Eagles,Oss,0,1
-23.11.2018,2018,Jong Ajax,Maastricht,0,1
-23.11.2018,2018,Roda,Telstar,3,0
-23.11.2018,2018,Sparta Rotterdam,Jong PSV,0,0
-23.11.2018,2018,Waalwijk,Nijmegen,1,0
-20.11.2018,2018,Jong Utrecht,Jong Ajax,4,3
-18.11.2018,2018,Maastricht,Roda,2,0
-18.11.2018,2018,Nijmegen,Sparta Rotterdam,1,1
-18.11.2018,2018,Telstar,Den Bosch,1,4
-18.11.2018,2018,Twente,G.A. Eagles,0,1
-17.11.2018,2018,Cambuur,FC Volendam,1,1
-17.11.2018,2018,Dordrecht,Eindhoven FC,0,3
-17.11.2018,2018,Helmond,Waalwijk,0,2
-17.11.2018,2018,Jong PSV,Jong AZ,3,1
-17.11.2018,2018,Oss,Almere City,2,0
-09.11.2018,2018,Almere City,Cambuur,2,1
-09.11.2018,2018,Den Bosch,Twente,2,1
-09.11.2018,2018,Eindhoven FC,Telstar,1,2
-09.11.2018,2018,FC Volendam,Maastricht,3,2
-09.11.2018,2018,G.A. Eagles,Dordrecht,2,1
-09.11.2018,2018,Jong Ajax,Nijmegen,4,0
-09.11.2018,2018,Jong AZ,Oss,1,3
-09.11.2018,2018,Roda,Helmond,3,0
-09.11.2018,2018,Sparta Rotterdam,Jong Utrecht,4,2
-09.11.2018,2018,Waalwijk,Jong PSV,3,5
-05.11.2018,2018,Jong PSV,Den Bosch,0,1
-04.11.2018,2018,Nijmegen,Jong AZ,3,1
-04.11.2018,2018,Telstar,G.A. Eagles,2,1
-02.11.2018,2018,Cambuur,Jong Ajax,2,1
-02.11.2018,2018,Dordrecht,FC Volendam,1,2
-02.11.2018,2018,Helmond,Almere City,1,2
-02.11.2018,2018,Jong Utrecht,Roda,1,2
-02.11.2018,2018,Maastricht,Sparta Rotterdam,0,2
-02.11.2018,2018,Oss,Eindhoven FC,2,0
-02.11.2018,2018,Twente,Waalwijk,3,1
-26.10.2018,2018,Den Bosch,Eindhoven FC,3,1
-26.10.2018,2018,FC Volendam,Jong Ajax,3,1
-26.10.2018,2018,G.A. Eagles,Cambuur,2,0
-26.10.2018,2018,Helmond,Maastricht,1,1
-26.10.2018,2018,Jong AZ,Roda,1,1
-26.10.2018,2018,Jong PSV,Dordrecht,2,2
-26.10.2018,2018,Nijmegen,Oss,1,5
-26.10.2018,2018,Sparta Rotterdam,Telstar,3,2
-26.10.2018,2018,Twente,Almere City,1,0
-26.10.2018,2018,Waalwijk,Jong Utrecht,3,2
-22.10.2018,2018,Jong Utrecht,Twente,1,6
-19.10.2018,2018,Almere City,G.A. Eagles,0,1
-19.10.2018,2018,Cambuur,Helmond,3,1
-19.10.2018,2018,Dordrecht,Jong AZ,1,1
-19.10.2018,2018,Eindhoven FC,FC Volendam,1,1
-19.10.2018,2018,Jong Ajax,Waalwijk,2,1
-19.10.2018,2018,Maastricht,Jong PSV,2,2
-19.10.2018,2018,Oss,Den Bosch,0,1
-19.10.2018,2018,Roda,Sparta Rotterdam,1,1
-19.10.2018,2018,Telstar,Nijmegen,0,3
-15.10.2018,2018,Jong PSV,Jong Ajax,2,1
-14.10.2018,2018,G.A. Eagles,Roda,3,0
-14.10.2018,2018,Sparta Rotterdam,Cambuur,3,0
-14.10.2018,2018,Twente,Maastricht,0,1
-12.10.2018,2018,Den Bosch,Dordrecht,1,0
-12.10.2018,2018,FC Volendam,Almere City,2,2
-12.10.2018,2018,Helmond,Telstar,1,2
-12.10.2018,2018,Jong AZ,Jong Utrecht,2,2
-12.10.2018,2018,Nijmegen,Eindhoven FC,0,1
-12.10.2018,2018,Waalwijk,Oss,0,0
-05.10.2018,2018,Almere City,Nijmegen,1,0
-05.10.2018,2018,Dordrecht,Cambuur,3,1
-05.10.2018,2018,Eindhoven FC,Twente,1,1
-05.10.2018,2018,FC Volendam,Waalwijk,1,0
-05.10.2018,2018,G.A. Eagles,Sparta Rotterdam,2,2
-05.10.2018,2018,Jong Ajax,Telstar,3,0
-05.10.2018,2018,Jong AZ,Helmond,2,2
-05.10.2018,2018,Maastricht,Den Bosch,0,3
-05.10.2018,2018,Oss,Jong Utrecht,2,1
-05.10.2018,2018,Roda,Jong PSV,2,3
-01.10.2018,2018,Jong Utrecht,Maastricht,0,0
-30.09.2018,2018,Twente,Jong PSV,2,1
-28.09.2018,2018,Almere City,Waalwijk,2,1
-28.09.2018,2018,Cambuur,Roda,0,1
-28.09.2018,2018,Den Bosch,Jong AZ,3,1
-28.09.2018,2018,Helmond,FC Volendam,2,2
-28.09.2018,2018,Jong Ajax,Eindhoven FC,0,3
-28.09.2018,2018,Nijmegen,G.A. Eagles,1,1
-28.09.2018,2018,Sparta Rotterdam,Dordrecht,3,2
-28.09.2018,2018,Telstar,Oss,1,0
-21.09.2018,2018,Den Bosch,Almere City,1,4
-21.09.2018,2018,G.A. Eagles,Jong Ajax,2,1
-21.09.2018,2018,Helmond,Nijmegen,2,3
-21.09.2018,2018,Jong PSV,FC Volendam,1,0
-21.09.2018,2018,Jong Utrecht,Cambuur,0,0
-21.09.2018,2018,Maastricht,Dordrecht,2,1
-21.09.2018,2018,Oss,Sparta Rotterdam,0,0
-21.09.2018,2018,Roda,Eindhoven FC,0,0
-21.09.2018,2018,Telstar,Twente,1,3
-21.09.2018,2018,Waalwijk,Jong AZ,2,2
-17.09.2018,2018,Jong Ajax,Helmond,2,0
-16.09.2018,2018,Sparta Rotterdam,Den Bosch,2,0
-14.09.2018,2018,Almere City,Jong Utrecht,3,1
-14.09.2018,2018,Cambuur,Telstar,2,0
-14.09.2018,2018,Dordrecht,Twente,0,2
-14.09.2018,2018,Eindhoven FC,Maastricht,0,1
-14.09.2018,2018,FC Volendam,Oss,0,0
-14.09.2018,2018,Jong AZ,G.A. Eagles,3,2
-14.09.2018,2018,Nijmegen,Jong PSV,4,4
-14.09.2018,2018,Waalwijk,Roda,0,1
-10.09.2018,2018,Jong AZ,Jong Ajax,0,1
-08.09.2018,2018,Roda,Nijmegen,2,3
-08.09.2018,2018,Twente,Oss,1,2
-07.09.2018,2018,Almere City,Maastricht,2,2
-07.09.2018,2018,Cambuur,Waalwijk,2,0
-07.09.2018,2018,Dordrecht,Telstar,1,4
-07.09.2018,2018,G.A. Eagles,FC Volendam,3,0
-07.09.2018,2018,Helmond,Den Bosch,0,2
-07.09.2018,2018,Jong Utrecht,Jong PSV,3,2
-07.09.2018,2018,Sparta Rotterdam,Eindhoven FC,2,0
-31.08.2018,2018,Den Bosch,Jong Ajax,1,1
-31.08.2018,2018,Eindhoven FC,Almere City,0,2
-31.08.2018,2018,FC Volendam,Jong AZ,1,1
-31.08.2018,2018,Jong PSV,Helmond,1,1
-31.08.2018,2018,Maastricht,G.A. Eagles,1,2
-31.08.2018,2018,Nijmegen,Dordrecht,1,0
-31.08.2018,2018,Oss,Cambuur,1,3
-31.08.2018,2018,Telstar,Jong Utrecht,2,0
-31.08.2018,2018,Twente,Roda,3,1
-31.08.2018,2018,Waalwijk,Sparta Rotterdam,0,1
-27.08.2018,2018,Jong Utrecht,Nijmegen,1,2
-24.08.2018,2018,Almere City,Roda,1,2
-24.08.2018,2018,Cambuur,Jong AZ,2,1
-24.08.2018,2018,Den Bosch,Waalwijk,2,3
-24.08.2018,2018,Eindhoven FC,G.A. Eagles,1,2
-24.08.2018,2018,Helmond,Twente,2,2
-24.08.2018,2018,Jong Ajax,Dordrecht,5,2
-24.08.2018,2018,Oss,Jong PSV,4,1
-24.08.2018,2018,Sparta Rotterdam,FC Volendam,2,0
-24.08.2018,2018,Telstar,Maastricht,0,1
-20.08.2018,2018,Jong AZ,Almere City,2,3
-17.08.2018,2018,Dordrecht,Helmond,0,0
-17.08.2018,2018,FC Volendam,Den Bosch,1,2
-17.08.2018,2018,G.A. Eagles,Jong Utrecht,5,0
-17.08.2018,2018,Jong PSV,Eindhoven FC,2,1
-17.08.2018,2018,Maastricht,Oss,0,2
-17.08.2018,2018,Nijmegen,Cambuur,2,2
-17.08.2018,2018,Roda,Jong Ajax,2,1
-17.08.2018,2018,Twente,Sparta Rotterdam,2,1
-17.08.2018,2018,Waalwijk,Telstar,1,0
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+15.05.2019,2018,Breda,Zwolle,0,0,2.67,3.66,2.42
+15.05.2019,2018,Graafschap,Ajax,1,4,25.71,11.86,1.07
+15.05.2019,2018,Den Haag,Willem II,6,2,2.94,3.79,2.19
+15.05.2019,2018,Excelsior,AZ Alkmaar,4,2,5.34,4.90,1.50
+15.05.2019,2018,FC Emmen,Groningen,1,0,3.45,3.74,2.00
+15.05.2019,2018,PSV,Heracles,3,1,1.10,10.00,21.20
+15.05.2019,2018,Sittard,Feyenoord,1,4,8.68,6.09,1.28
+15.05.2019,2018,Utrecht,Heerenveen,3,1,1.63,4.33,4.64
+15.05.2019,2018,Venlo,Vitesse,1,3,3.81,4.03,1.81
+12.05.2019,2018,Ajax,Utrecht,4,1,1.14,8.39,16.39
+12.05.2019,2018,AZ Alkmaar,PSV,1,0,3.41,3.87,1.96
+12.05.2019,2018,Feyenoord,Den Haag,0,2,1.15,8.22,14.87
+12.05.2019,2018,Groningen,Sittard,3,0,1.45,4.66,6.43
+12.05.2019,2018,Heerenveen,Breda,2,1,1.68,4.20,4.44
+12.05.2019,2018,Heracles,Excelsior,4,5,2.06,3.75,3.25
+12.05.2019,2018,Vitesse,Graafschap,6,1,1.40,4.96,6.74
+12.05.2019,2018,Willem II,FC Emmen,2,3,1.87,3.74,3.89
+12.05.2019,2018,Zwolle,Venlo,2,4,1.71,4.10,4.35
+29.04.2019,2018,Zwolle,Groningen,3,2,NA,NA,NA
+25.04.2019,2018,Den Haag,Excelsior,3,1,2.17,3.74,3.01
+25.04.2019,2018,Willem II,PSV,0,3,7.74,5.87,1.32
+24.04.2019,2018,Breda,Feyenoord,0,4,6.21,4.92,1.43
+24.04.2019,2018,Utrecht,Sittard,2,1,1.31,5.68,8.14
+23.04.2019,2018,Ajax,Vitesse,4,2,1.15,8.11,14.53
+23.04.2019,2018,AZ Alkmaar,Heracles,2,1,1.31,5.83,8.10
+23.04.2019,2018,Graafschap,FC Emmen,1,0,2.29,3.58,2.91
+23.04.2019,2018,Heerenveen,Venlo,2,2,1.81,4.03,3.84
+21.04.2019,2018,Excelsior,Willem II,1,1,2.88,3.64,2.28
+21.04.2019,2018,PSV,Den Haag,3,1,1.09,10.06,23.72
+21.04.2019,2018,Sittard,Breda,2,1,2.22,3.68,2.96
+20.04.2019,2018,FC Emmen,Utrecht,2,0,3.35,3.63,2.07
+20.04.2019,2018,Feyenoord,AZ Alkmaar,2,1,1.79,4.07,3.92
+20.04.2019,2018,Groningen,Ajax,0,1,9.62,6.11,1.26
+20.04.2019,2018,Venlo,Graafschap,4,1,2.32,3.60,2.85
+20.04.2019,2018,Vitesse,Zwolle,4,1,1.54,4.29,5.58
+19.04.2019,2018,Heracles,Heerenveen,2,1,1.84,4.11,3.68
+14.04.2019,2018,Heerenveen,Groningen,1,1,2.95,3.39,2.35
+14.04.2019,2018,PSV,Graafschap,2,1,1.08,11.35,23.38
+14.04.2019,2018,Utrecht,Vitesse,0,0,2.19,3.59,3.07
+14.04.2019,2018,Willem II,Zwolle,2,0,2.09,3.60,3.29
+13.04.2019,2018,Ajax,Excelsior,6,2,1.05,13.92,36.25
+13.04.2019,2018,AZ Alkmaar,Den Haag,2,3,1.25,6.08,10.62
+13.04.2019,2018,Feyenoord,Heracles,2,1,1.21,6.86,11.00
+13.04.2019,2018,Sittard,Venlo,1,1,2.31,3.54,2.90
+12.04.2019,2018,Breda,FC Emmen,1,1,2.18,3.61,3.08
+07.04.2019,2018,FC Emmen,Heerenveen,2,0,2.41,3.80,2.61
+07.04.2019,2018,Venlo,Feyenoord,0,3,7.01,5.07,1.38
+07.04.2019,2018,Vitesse,PSV,3,3,4.73,4.19,1.64
+07.04.2019,2018,Zwolle,Sittard,5,0,1.51,4.66,5.51
+06.04.2019,2018,Graafschap,AZ Alkmaar,1,1,5.61,4.76,1.49
+06.04.2019,2018,Den Haag,Utrecht,5,0,4.02,4.10,1.77
+06.04.2019,2018,Groningen,Excelsior,1,0,1.54,4.14,5.89
+06.04.2019,2018,Heracles,Breda,1,0,1.81,3.95,3.95
+06.04.2019,2018,Willem II,Ajax,1,4,7.94,5.94,1.31
+04.04.2019,2018,Feyenoord,Heerenveen,3,0,1.26,6.17,9.55
+04.04.2019,2018,PSV,Zwolle,4,0,1.18,7.05,13.50
+03.04.2019,2018,Excelsior,Breda,1,2,2.05,3.60,3.40
+03.04.2019,2018,FC Emmen,Ajax,2,5,20.32,9.41,1.10
+03.04.2019,2018,Sittard,Den Haag,0,0,2.17,3.85,2.95
+03.04.2019,2018,Venlo,Utrecht,2,6,4.15,3.81,1.79
+02.04.2019,2018,Groningen,Graafschap,1,0,1.59,4.14,5.24
+02.04.2019,2018,Heracles,Willem II,3,4,2.60,3.68,2.48
+02.04.2019,2018,Vitesse,AZ Alkmaar,2,2,2.88,3.69,2.26
+31.03.2019,2018,Ajax,PSV,3,1,1.64,4.21,4.72
+31.03.2019,2018,Breda,Venlo,1,1,2.39,3.39,2.87
+31.03.2019,2018,Utrecht,Feyenoord,3,2,2.83,3.74,2.27
+31.03.2019,2018,Zwolle,FC Emmen,3,0,1.58,4.23,5.25
+30.03.2019,2018,AZ Alkmaar,Groningen,1,0,1.44,4.52,6.78
+30.03.2019,2018,Graafschap,Heracles,1,2,2.33,3.78,2.72
+30.03.2019,2018,Den Haag,Vitesse,3,3,3.62,3.90,1.89
+30.03.2019,2018,Heerenveen,Excelsior,1,0,1.58,4.41,4.96
+30.03.2019,2018,Willem II,Sittard,3,2,1.55,4.71,4.97
+17.03.2019,2018,AZ Alkmaar,Ajax,1,0,4.61,4.48,1.61
+17.03.2019,2018,Excelsior,Zwolle,0,2,2.88,3.53,2.32
+17.03.2019,2018,Groningen,Den Haag,1,0,1.58,4.24,5.14
+17.03.2019,2018,Venlo,PSV,0,1,10.90,6.18,1.24
+16.03.2019,2018,Breda,Utrecht,0,4,4.60,3.89,1.71
+16.03.2019,2018,Feyenoord,Willem II,2,3,1.27,5.81,10.08
+16.03.2019,2018,Heerenveen,Graafschap,0,3,1.51,4.65,5.44
+16.03.2019,2018,Heracles,Vitesse,3,2,2.99,3.76,2.17
+15.03.2019,2018,Sittard,FC Emmen,3,1,2.14,3.67,3.12
+13.03.2019,2018,Ajax,Zwolle,2,1,1.08,11.59,21.35
+10.03.2019,2018,Ajax,Sittard,4,0,1.03,17.79,42.22
+10.03.2019,2018,FC Emmen,Heracles,1,1,2.83,3.57,2.34
+10.03.2019,2018,Vitesse,Feyenoord,1,1,3.04,3.54,2.23
+10.03.2019,2018,Zwolle,AZ Alkmaar,0,0,3.91,3.73,1.87
+09.03.2019,2018,Den Haag,Heerenveen,2,3,2.33,3.68,2.77
+09.03.2019,2018,PSV,Breda,2,0,1.10,9.84,21.38
+09.03.2019,2018,Venlo,Excelsior,1,0,2.09,3.52,3.37
+09.03.2019,2018,Willem II,Graafschap,3,2,1.68,4.06,4.61
+08.03.2019,2018,Utrecht,Groningen,0,0,1.78,3.88,4.16
+03.03.2019,2018,AZ Alkmaar,Sittard,4,2,1.14,8.45,16.09
+03.03.2019,2018,Feyenoord,FC Emmen,4,0,1.12,8.82,18.16
+03.03.2019,2018,Groningen,Venlo,3,2,1.61,3.87,5.51
+03.03.2019,2018,Heerenveen,Willem II,4,2,1.90,3.71,3.76
+02.03.2019,2018,Excelsior,PSV,0,2,11.10,6.71,1.22
+02.03.2019,2018,Heracles,Utrecht,1,5,2.75,3.59,2.39
+02.03.2019,2018,Vitesse,Breda,4,1,1.39,4.63,7.82
+01.03.2019,2018,Graafschap,Den Haag,1,1,2.20,3.61,3.03
+24.02.2019,2018,Den Haag,Ajax,1,5,14.29,8.91,1.14
+24.02.2019,2018,FC Emmen,Vitesse,0,3,3.29,3.44,2.14
+24.02.2019,2018,PSV,Feyenoord,1,1,1.54,4.51,5.34
+24.02.2019,2018,Willem II,AZ Alkmaar,2,1,5.04,4.17,1.61
+23.02.2019,2018,Breda,Groningen,0,0,3.33,3.38,2.14
+23.02.2019,2018,Sittard,Heerenveen,2,4,2.76,3.70,2.33
+23.02.2019,2018,Utrecht,Excelsior,0,0,1.43,4.59,6.93
+23.02.2019,2018,Zwolle,Graafschap,0,3,1.62,4.05,5.15
+22.02.2019,2018,Venlo,Heracles,0,1,2.71,3.57,2.43
+17.02.2019,2018,Ajax,Breda,5,0,1.05,13.68,34.96
+17.02.2019,2018,Graafschap,Utrecht,0,1,3.91,3.88,1.83
+17.02.2019,2018,Excelsior,FC Emmen,2,1,2.13,3.66,3.15
+17.02.2019,2018,Groningen,Feyenoord,1,0,4.88,4.07,1.64
+16.02.2019,2018,AZ Alkmaar,Venlo,3,0,1.21,6.41,12.50
+16.02.2019,2018,Heerenveen,PSV,2,2,8.01,5.29,1.34
+16.02.2019,2018,Heracles,Sittard,6,0,1.59,4.40,4.88
+16.02.2019,2018,Vitesse,Willem II,3,2,1.70,3.77,4.83
+15.02.2019,2018,Den Haag,Zwolle,1,0,2.50,3.52,2.65
+10.02.2019,2018,FC Emmen,Den Haag,3,2,2.66,3.51,2.51
+10.02.2019,2018,Groningen,Vitesse,2,1,2.37,3.38,2.91
+10.02.2019,2018,Sittard,Excelsior,4,1,1.93,3.69,3.69
+10.02.2019,2018,Utrecht,PSV,2,2,5.87,4.23,1.53
+09.02.2019,2018,Feyenoord,Graafschap,4,0,1.11,9.10,20.56
+09.02.2019,2018,Heerenveen,Zwolle,1,1,2.15,3.53,3.20
+09.02.2019,2018,Heracles,Ajax,1,0,13.34,7.80,1.17
+09.02.2019,2018,Venlo,Willem II,2,1,2.41,3.25,2.97
+08.02.2019,2018,Breda,AZ Alkmaar,0,3,6.01,4.40,1.50
+03.02.2019,2018,Den Haag,Heracles,2,0,2.14,3.66,3.13
+03.02.2019,2018,Excelsior,Feyenoord,2,1,10.18,6.88,1.22
+03.02.2019,2018,PSV,Sittard,5,0,1.12,8.86,18.60
+03.02.2019,2018,Zwolle,Utrecht,4,3,2.73,3.52,2.42
+02.02.2019,2018,Ajax,Venlo,6,0,1.06,11.90,29.36
+02.02.2019,2018,AZ Alkmaar,FC Emmen,5,0,1.25,6.20,10.09
+02.02.2019,2018,Vitesse,Heerenveen,2,2,1.77,3.77,4.40
+02.02.2019,2018,Willem II,Groningen,1,2,2.64,3.25,2.67
+01.02.2019,2018,Graafschap,Breda,3,0,2.39,3.43,2.84
+27.01.2019,2018,Feyenoord,Ajax,6,2,4.01,4.04,1.78
+27.01.2019,2018,Heerenveen,AZ Alkmaar,0,2,3.77,4.01,1.83
+27.01.2019,2018,Sittard,Vitesse,2,1,3.77,3.82,1.88
+27.01.2019,2018,Utrecht,Willem II,0,1,1.41,4.64,7.44
+26.01.2019,2018,Excelsior,Graafschap,2,0,2.06,3.64,3.35
+26.01.2019,2018,Heracles,Zwolle,0,2,2.07,3.84,3.17
+26.01.2019,2018,PSV,Groningen,2,1,1.17,7.30,14.78
+26.01.2019,2018,Venlo,FC Emmen,2,3,2.06,3.42,3.55
+25.01.2019,2018,Breda,Den Haag,1,1,2.63,3.41,2.58
+20.01.2019,2018,Ajax,Heerenveen,4,4,1.06,12.44,27.70
+20.01.2019,2018,Graafschap,Sittard,5,1,3.06,3.73,2.15
+20.01.2019,2018,FC Emmen,PSV,2,2,11.88,6.73,1.21
+20.01.2019,2018,Willem II,Breda,2,0,2.38,3.15,3.10
+19.01.2019,2018,AZ Alkmaar,Utrecht,3,0,1.77,4.00,4.07
+19.01.2019,2018,Den Haag,Venlo,2,4,2.05,3.36,3.66
+19.01.2019,2018,Groningen,Heracles,3,0,2.13,3.65,3.14
+19.01.2019,2018,Zwolle,Feyenoord,3,1,6.35,5.05,1.42
+18.01.2019,2018,Vitesse,Excelsior,3,2,1.32,5.59,8.07
+23.12.2018,2018,Graafschap,Vitesse,2,2,5.77,4.34,1.53
+23.12.2018,2018,Den Haag,Feyenoord,2,2,6.45,4.80,1.43
+23.12.2018,2018,FC Emmen,Willem II,0,2,2.43,3.46,2.77
+23.12.2018,2018,Utrecht,Ajax,1,3,7.88,5.35,1.34
+22.12.2018,2018,Breda,Heerenveen,4,2,2.76,3.41,2.47
+22.12.2018,2018,Excelsior,Heracles,0,3,2.97,3.77,2.18
+22.12.2018,2018,PSV,AZ Alkmaar,3,1,1.35,5.36,7.48
+22.12.2018,2018,Sittard,Groningen,0,0,2.19,3.55,3.11
+21.12.2018,2018,Venlo,Zwolle,2,0,2.72,3.42,2.50
+16.12.2018,2018,Ajax,Graafschap,8,0,1.03,17.51,46.54
+16.12.2018,2018,Feyenoord,Sittard,0,2,1.24,6.26,10.44
+16.12.2018,2018,Groningen,FC Emmen,1,2,1.64,3.86,5.19
+16.12.2018,2018,Heerenveen,Utrecht,2,3,2.98,3.52,2.27
+15.12.2018,2018,AZ Alkmaar,Excelsior,2,1,1.20,6.93,11.93
+15.12.2018,2018,Heracles,PSV,0,4,7.55,5.41,1.34
+15.12.2018,2018,Vitesse,Venlo,2,1,1.39,4.53,8.08
+15.12.2018,2018,Zwolle,Breda,0,0,1.62,3.93,5.26
+14.12.2018,2018,Willem II,Den Haag,0,3,2.21,3.42,3.19
+09.12.2018,2018,Breda,Vitesse,2,1,5.25,3.98,1.62
+09.12.2018,2018,FC Emmen,Feyenoord,1,4,7.07,4.64,1.42
+09.12.2018,2018,Utrecht,Heracles,3,1,1.59,4.18,5.20
+09.12.2018,2018,Venlo,Groningen,0,0,3.02,3.40,2.30
+08.12.2018,2018,Den Haag,Graafschap,0,0,1.50,4.53,5.91
+08.12.2018,2018,Willem II,Heerenveen,1,5,2.15,3.56,3.18
+08.12.2018,2018,Zwolle,Ajax,1,4,12.23,7.28,1.19
+07.12.2018,2018,PSV,Excelsior,6,0,1.07,11.42,25.56
+07.12.2018,2018,Sittard,AZ Alkmaar,0,3,3.90,4.12,1.78
+06.12.2018,2018,Feyenoord,Venlo,4,1,1.19,6.87,13.97
+02.12.2018,2018,Ajax,Den Haag,5,1,1.06,12.12,32.48
+02.12.2018,2018,Feyenoord,PSV,2,1,2.87,3.50,2.34
+02.12.2018,2018,Groningen,Breda,5,2,1.53,4.27,5.79
+02.12.2018,2018,Heracles,Venlo,4,1,1.72,3.99,4.45
+01.12.2018,2018,AZ Alkmaar,Willem II,0,2,1.35,5.37,7.40
+01.12.2018,2018,Graafschap,Zwolle,0,2,3.45,3.71,1.99
+01.12.2018,2018,Heerenveen,Sittard,3,1,2.27,3.46,3.00
+01.12.2018,2018,Vitesse,FC Emmen,1,1,1.40,4.75,7.50
+30.11.2018,2018,Excelsior,Utrecht,3,3,5.26,4.53,1.55
+25.11.2018,2018,FC Emmen,Excelsior,1,2,2.01,3.56,3.52
+25.11.2018,2018,Feyenoord,Groningen,1,0,1.31,5.30,9.70
+25.11.2018,2018,Utrecht,Graafschap,5,0,1.23,6.26,11.34
+25.11.2018,2018,Venlo,AZ Alkmaar,2,2,3.89,3.70,1.87
+25.11.2018,2018,Willem II,Vitesse,1,3,3.28,3.46,2.15
+24.11.2018,2018,Breda,Ajax,0,3,18.60,8.77,1.12
+24.11.2018,2018,PSV,Heerenveen,3,0,1.16,7.38,14.96
+24.11.2018,2018,Sittard,Heracles,3,0,2.17,3.67,3.08
+24.11.2018,2018,Zwolle,Den Haag,2,3,1.83,3.67,4.14
+11.11.2018,2018,Den Haag,AZ Alkmaar,0,1,3.94,3.83,1.83
+11.11.2018,2018,Excelsior,Ajax,1,7,19.62,9.18,1.11
+11.11.2018,2018,Groningen,Heerenveen,2,0,2.18,3.62,3.08
+11.11.2018,2018,Heracles,Feyenoord,0,2,4.42,4.05,1.71
+10.11.2018,2018,Graafschap,PSV,1,4,13.41,7.22,1.18
+10.11.2018,2018,FC Emmen,Breda,2,0,1.89,3.71,3.85
+10.11.2018,2018,Venlo,Sittard,3,2,2.36,3.40,2.93
+10.11.2018,2018,Vitesse,Utrecht,2,1,2.25,3.41,3.11
+09.11.2018,2018,Zwolle,Willem II,2,3,1.94,3.64,3.71
+04.11.2018,2018,Heerenveen,FC Emmen,1,1,1.60,4.12,5.27
+04.11.2018,2018,Sittard,Zwolle,3,0,2.70,3.60,2.43
+04.11.2018,2018,Utrecht,Den Haag,3,0,1.48,4.56,6.05
+03.11.2018,2018,Ajax,Willem II,2,0,1.07,11.68,28.96
+03.11.2018,2018,AZ Alkmaar,Graafschap,1,0,1.19,7.42,11.89
+03.11.2018,2018,Breda,Heracles,2,1,2.82,3.54,2.36
+03.11.2018,2018,PSV,Vitesse,1,0,1.35,5.13,8.02
+02.11.2018,2018,Excelsior,Groningen,2,4,2.60,3.48,2.59
+28.10.2018,2018,Ajax,Feyenoord,3,0,1.35,5.31,7.85
+28.10.2018,2018,AZ Alkmaar,Heerenveen,2,3,1.53,4.64,5.28
+28.10.2018,2018,Vitesse,Sittard,2,1,1.45,4.58,6.41
+28.10.2018,2018,Willem II,Utrecht,0,1,2.96,3.40,2.35
+27.10.2018,2018,Graafschap,Excelsior,4,1,2.58,3.61,2.51
+27.10.2018,2018,Den Haag,Breda,1,1,1.77,3.84,4.28
+27.10.2018,2018,Groningen,PSV,1,2,8.27,4.96,1.35
+27.10.2018,2018,Zwolle,Heracles,1,1,2.19,3.66,3.06
+26.10.2018,2018,FC Emmen,Venlo,1,1,2.85,3.38,2.41
+21.10.2018,2018,Breda,Willem II,2,2,2.96,3.32,2.39
+21.10.2018,2018,Feyenoord,Zwolle,3,0,1.27,5.81,10.39
+21.10.2018,2018,Heracles,Groningen,4,1,2.02,3.64,3.50
+21.10.2018,2018,Sittard,Graafschap,3,1,1.58,4.34,5.12
+21.10.2018,2018,Venlo,Den Haag,2,0,2.43,3.30,2.89
+20.10.2018,2018,Excelsior,Vitesse,2,0,3.85,3.81,1.87
+20.10.2018,2018,Heerenveen,Ajax,0,4,9.72,6.33,1.24
+20.10.2018,2018,PSV,FC Emmen,6,0,1.09,10.06,22.86
+20.10.2018,2018,Utrecht,AZ Alkmaar,2,1,2.42,3.67,2.66
+07.10.2018,2018,Ajax,AZ Alkmaar,5,0,1.25,6.20,9.60
+07.10.2018,2018,FC Emmen,Sittard,3,3,2.38,3.46,2.87
+07.10.2018,2018,Vitesse,Heracles,4,0,1.75,4.07,4.14
+07.10.2018,2018,Willem II,Feyenoord,1,1,5.76,4.46,1.52
+06.10.2018,2018,Graafschap,Heerenveen,0,5,3.08,3.51,2.20
+06.10.2018,2018,Den Haag,Groningen,1,0,2.10,3.55,3.33
+06.10.2018,2018,PSV,Venlo,4,0,1.18,6.76,14.47
+06.10.2018,2018,Zwolle,Excelsior,2,0,1.82,3.74,4.06
+05.10.2018,2018,Utrecht,Breda,2,1,1.51,4.11,6.32
+30.09.2018,2018,AZ Alkmaar,Zwolle,2,2,1.30,5.60,8.49
+30.09.2018,2018,Graafschap,Willem II,2,1,3.54,3.82,1.95
+30.09.2018,2018,Feyenoord,Vitesse,2,1,1.49,4.41,6.16
+30.09.2018,2018,Groningen,Utrecht,1,1,2.85,3.50,2.38
+30.09.2018,2018,Heracles,FC Emmen,2,1,1.52,4.61,5.37
+29.09.2018,2018,Breda,PSV,0,2,10.46,6.36,1.24
+29.09.2018,2018,Excelsior,Venlo,1,0,2.32,3.34,2.99
+29.09.2018,2018,Heerenveen,Den Haag,1,1,2.11,3.60,3.21
+29.09.2018,2018,Sittard,Ajax,0,2,11.55,7.09,1.20
+23.09.2018,2018,FC Emmen,Zwolle,0,1,2.91,3.48,2.33
+23.09.2018,2018,Feyenoord,Utrecht,1,0,1.40,5.00,7.10
+23.09.2018,2018,Groningen,AZ Alkmaar,1,3,3.50,3.76,1.98
+23.09.2018,2018,PSV,Ajax,3,0,2.61,3.62,2.50
+22.09.2018,2018,Excelsior,Heerenveen,3,3,2.89,3.53,2.34
+22.09.2018,2018,Sittard,Willem II,4,4,2.47,3.49,2.73
+22.09.2018,2018,Venlo,Breda,3,0,2.03,3.42,3.69
+22.09.2018,2018,Vitesse,Den Haag,1,1,1.48,4.51,6.15
+21.09.2018,2018,Heracles,Graafschap,4,0,1.51,4.59,5.67
+16.09.2018,2018,AZ Alkmaar,Feyenoord,1,1,2.71,3.75,2.35
+16.09.2018,2018,Breda,Sittard,2,3,2.38,3.42,2.91
+16.09.2018,2018,Heerenveen,Heracles,3,5,1.86,3.79,3.94
+16.09.2018,2018,Utrecht,FC Emmen,1,2,1.42,4.69,7.07
+16.09.2018,2018,Zwolle,Vitesse,0,2,2.96,3.61,2.24
+15.09.2018,2018,Ajax,Groningen,3,0,1.12,8.88,20.40
+15.09.2018,2018,Graafschap,Venlo,1,2,2.48,3.37,2.76
+15.09.2018,2018,Den Haag,PSV,0,7,6.07,4.74,1.46
+15.09.2018,2018,Willem II,Excelsior,2,2,1.66,4.04,4.72
+02.09.2018,2018,Feyenoord,Breda,4,2,1.16,7.50,15.80
+02.09.2018,2018,Groningen,Zwolle,0,1,1.91,3.81,3.65
+02.09.2018,2018,Heracles,AZ Alkmaar,3,2,4.18,4.21,1.73
+02.09.2018,2018,Vitesse,Ajax,0,4,5.74,4.54,1.51
+01.09.2018,2018,Excelsior,Den Haag,2,4,2.68,3.45,2.54
+01.09.2018,2018,PSV,Willem II,6,1,1.23,6.19,11.44
+01.09.2018,2018,Sittard,Utrecht,1,1,3.49,3.74,1.99
+01.09.2018,2018,Venlo,Heerenveen,1,1,2.98,3.40,2.32
+31.08.2018,2018,FC Emmen,Graafschap,1,1,2.22,3.61,3.03
+26.08.2018,2018,AZ Alkmaar,Vitesse,0,0,1.79,4.07,3.96
+26.08.2018,2018,Heerenveen,Feyenoord,3,5,4.18,3.90,1.77
+26.08.2018,2018,Utrecht,Venlo,1,1,1.49,4.34,6.26
+26.08.2018,2018,Willem II,Heracles,5,0,2.14,3.63,3.13
+25.08.2018,2018,Ajax,FC Emmen,5,0,1.08,11.06,26.90
+25.08.2018,2018,Breda,Excelsior,0,2,1.96,3.60,3.66
+25.08.2018,2018,Graafschap,Groningen,0,1,2.57,3.55,2.59
+25.08.2018,2018,Zwolle,PSV,1,2,6.65,5.00,1.42
+24.08.2018,2018,Den Haag,Sittard,3,1,1.89,3.62,3.89
+19.08.2018,2018,FC Emmen,AZ Alkmaar,1,4,6.28,4.80,1.45
+19.08.2018,2018,Feyenoord,Excelsior,3,0,1.20,6.65,13.08
+19.08.2018,2018,Heerenveen,Vitesse,1,1,2.60,3.41,2.64
+19.08.2018,2018,Utrecht,Zwolle,2,0,1.78,3.86,4.19
+18.08.2018,2018,Breda,Graafschap,3,0,2.28,3.50,2.96
+18.08.2018,2018,Heracles,Den Haag,4,2,1.89,3.87,3.70
+18.08.2018,2018,Sittard,PSV,1,2,10.94,6.20,1.24
+18.08.2018,2018,Venlo,Ajax,0,1,12.08,6.19,1.23
+17.08.2018,2018,Groningen,Willem II,0,1,1.80,3.81,4.17
+12.08.2018,2018,AZ Alkmaar,Breda,5,0,1.32,5.43,8.60
+12.08.2018,2018,Graafschap,Feyenoord,2,0,7.04,4.92,1.40
+12.08.2018,2018,Den Haag,FC Emmen,1,2,1.76,3.84,4.32
+12.08.2018,2018,Vitesse,Groningen,5,1,1.85,3.67,4.08
+11.08.2018,2018,Ajax,Heracles,1,1,1.12,9.14,19.46
+11.08.2018,2018,Excelsior,Sittard,1,1,2.32,3.41,2.98
+11.08.2018,2018,PSV,Utrecht,4,0,1.36,4.99,7.93
+11.08.2018,2018,Willem II,Venlo,0,1,2.21,3.43,3.16
+10.08.2018,2018,Zwolle,Heerenveen,2,3,2.75,3.56,2.41

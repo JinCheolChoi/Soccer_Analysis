@@ -1,0 +1,135 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+Today,2022,Cambuur,FC Volendam,0,3,1.89,3.73,3.83
+Today,2022,Nijmegen,Ajax,1,1,5.35,4.54,1.54
+Today,2022,Utrecht,Feyenoord,1,1,3.56,3.75,1.95
+Yesterday,2022,AZ Alkmaar,Vitesse,1,1,1.54,4.36,5.47
+Yesterday,2022,PSV,Sparta Rotterdam,0,0,1.25,6.01,10.76
+Yesterday,2022,Sittard,G.A. Eagles,0,2,2.32,3.46,2.94
+Yesterday,2022,Waalwijk,Heerenveen,0,0,2.81,3.43,2.42
+06.01.,2022,Twente,FC Emmen,2,0,1.43,4.48,7.06
+13.11.2022,2022,Feyenoord,Excelsior,5,1,1.12,9.48,16.50
+13.11.2022,2022,G.A. Eagles,Vitesse,2,2,2.16,3.59,3.12
+13.11.2022,2022,Groningen,Sittard,2,3,1.96,3.52,3.76
+13.11.2022,2022,Heerenveen,Cambuur,2,1,1.71,3.73,4.86
+13.11.2022,2022,Nijmegen,Waalwijk,6,1,2.11,3.56,3.29
+12.11.2022,2022,FC Emmen,Ajax,3,3,9.68,5.55,1.29
+12.11.2022,2022,FC Volendam,Utrecht,0,4,3.57,4.05,1.88
+12.11.2022,2022,PSV,AZ Alkmaar,0,1,1.48,4.61,6.00
+11.11.2022,2022,Sparta Rotterdam,Twente,1,1,2.88,3.33,2.43
+10.11.2022,2022,Feyenoord,Cambuur,1,0,1.14,8.19,16.43
+09.11.2022,2022,Ajax,Vitesse,2,2,1.15,8.52,14.32
+06.11.2022,2022,Ajax,PSV,1,2,1.99,3.92,3.32
+06.11.2022,2022,FC Volendam,Feyenoord,0,2,6.87,5.57,1.36
+06.11.2022,2022,Twente,G.A. Eagles,1,1,1.44,4.65,6.61
+06.11.2022,2022,Utrecht,Groningen,2,1,1.52,4.32,5.92
+06.11.2022,2022,Waalwijk,AZ Alkmaar,3,1,3.49,3.63,2.01
+05.11.2022,2022,Excelsior,Heerenveen,0,1,3.44,3.82,1.97
+05.11.2022,2022,Sittard,FC Emmen,0,1,2.37,3.32,2.97
+05.11.2022,2022,Vitesse,Sparta Rotterdam,0,4,2.05,3.41,3.60
+04.11.2022,2022,Cambuur,Nijmegen,0,1,2.49,3.36,2.78
+30.10.2022,2022,AZ Alkmaar,FC Volendam,2,1,1.20,7.14,11.66
+30.10.2022,2022,FC Emmen,Groningen,0,0,2.26,3.42,3.08
+30.10.2022,2022,PSV,Nijmegen,3,0,1.20,6.99,12.83
+30.10.2022,2022,Twente,Waalwijk,3,0,1.41,4.89,6.95
+29.10.2022,2022,G.A. Eagles,Excelsior,3,1,1.58,4.34,5.13
+29.10.2022,2022,Heerenveen,Utrecht,1,2,2.30,3.47,2.95
+29.10.2022,2022,Sparta Rotterdam,Sittard,3,1,1.89,3.69,3.85
+23.10.2022,2022,Cambuur,Twente,0,1,4.34,3.79,1.76
+23.10.2022,2022,Excelsior,AZ Alkmaar,2,1,7.12,5.18,1.38
+23.10.2022,2022,FC Volendam,Heerenveen,1,3,3.43,3.77,2.00
+23.10.2022,2022,Groningen,PSV,4,2,10.53,5.76,1.27
+23.10.2022,2022,Nijmegen,G.A. Eagles,3,3,2.04,3.34,3.70
+23.10.2022,2022,Utrecht,Sparta Rotterdam,3,1,1.96,3.52,3.78
+22.10.2022,2022,Feyenoord,Sittard,1,1,1.20,7.27,11.63
+22.10.2022,2022,Vitesse,FC Emmen,2,1,1.73,3.73,4.67
+22.10.2022,2022,Waalwijk,Ajax,1,4,8.25,6.08,1.30
+16.10.2022,2022,Ajax,Excelsior,7,1,1.06,13.08,27.46
+16.10.2022,2022,AZ Alkmaar,Feyenoord,1,3,2.38,3.58,2.78
+16.10.2022,2022,PSV,Utrecht,6,1,1.28,5.84,9.20
+16.10.2022,2022,Sparta Rotterdam,Nijmegen,2,0,2.35,3.24,3.08
+16.10.2022,2022,Twente,Groningen,3,0,1.39,4.88,7.60
+15.10.2022,2022,Cambuur,Vitesse,0,3,2.76,3.48,2.43
+15.10.2022,2022,G.A. Eagles,Heerenveen,1,1,2.71,3.21,2.64
+15.10.2022,2022,Sittard,Waalwijk,0,0,2.31,3.72,2.80
+14.10.2022,2022,FC Emmen,FC Volendam,1,1,1.91,3.79,3.67
+09.10.2022,2022,Feyenoord,Twente,2,0,1.81,3.80,4.06
+09.10.2022,2022,G.A. Eagles,Cambuur,0,0,2.17,3.61,3.10
+09.10.2022,2022,Heerenveen,PSV,0,1,5.01,4.14,1.62
+09.10.2022,2022,Utrecht,AZ Alkmaar,1,2,2.83,3.55,2.35
+09.10.2022,2022,Vitesse,Sittard,1,2,1.62,4.23,4.88
+08.10.2022,2022,FC Volendam,Ajax,2,4,15.21,9.23,1.13
+08.10.2022,2022,Nijmegen,Excelsior,1,1,1.54,4.37,5.38
+08.10.2022,2022,Sparta Rotterdam,FC Emmen,3,1,2.14,3.24,3.51
+07.10.2022,2022,Groningen,Waalwijk,2,3,2.12,3.50,3.32
+02.10.2022,2022,Excelsior,Utrecht,0,1,4.97,4.47,1.58
+02.10.2022,2022,FC Emmen,Heerenveen,0,0,2.77,3.33,2.52
+02.10.2022,2022,Nijmegen,Feyenoord,1,1,4.82,4.10,1.64
+02.10.2022,2022,Sittard,FC Volendam,2,0,1.91,4.09,3.44
+02.10.2022,2022,Waalwijk,Sparta Rotterdam,2,2,1.88,3.53,4.10
+01.10.2022,2022,Ajax,G.A. Eagles,1,1,1.08,11.31,25.32
+01.10.2022,2022,Cambuur,PSV,3,0,11.13,6.90,1.21
+01.10.2022,2022,Groningen,AZ Alkmaar,1,4,4.84,3.64,1.73
+01.10.2022,2022,Twente,Vitesse,3,0,1.71,3.83,4.65
+18.09.2022,2022,AZ Alkmaar,Ajax,2,1,4.60,3.98,1.69
+18.09.2022,2022,G.A. Eagles,FC Emmen,2,0,2.37,3.39,2.93
+18.09.2022,2022,Heerenveen,Twente,2,1,3.07,3.33,2.32
+18.09.2022,2022,PSV,Feyenoord,4,3,1.87,3.94,3.69
+17.09.2022,2022,Sittard,Excelsior,1,0,1.60,4.42,4.85
+17.09.2022,2022,Sparta Rotterdam,Groningen,2,1,2.25,3.31,3.21
+17.09.2022,2022,Vitesse,FC Volendam,1,1,1.35,5.53,7.44
+17.09.2022,2022,Waalwijk,Cambuur,5,1,2.26,3.57,2.98
+16.09.2022,2022,Utrecht,Nijmegen,0,0,1.71,3.92,4.55
+11.09.2022,2022,AZ Alkmaar,Twente,1,1,2.02,3.50,3.62
+11.09.2022,2022,Cambuur,Groningen,0,1,1.95,3.62,3.73
+11.09.2022,2022,Feyenoord,Sparta Rotterdam,3,0,1.28,5.84,9.60
+11.09.2022,2022,PSV,Waalwijk,1,0,1.19,7.39,12.52
+11.09.2022,2022,Utrecht,Vitesse,1,0,2.02,3.71,3.42
+10.09.2022,2022,Ajax,Heerenveen,5,0,1.19,7.16,13.03
+10.09.2022,2022,Excelsior,FC Emmen,2,1,3.21,3.69,2.11
+10.09.2022,2022,Nijmegen,Sittard,1,1,1.81,3.83,4.05
+09.09.2022,2022,FC Volendam,G.A. Eagles,2,3,2.36,3.63,2.77
+04.09.2022,2022,FC Emmen,AZ Alkmaar,0,3,3.93,3.53,1.93
+04.09.2022,2022,Groningen,Vitesse,0,1,2.47,3.32,2.84
+04.09.2022,2022,Heerenveen,Nijmegen,0,0,1.72,3.76,4.76
+04.09.2022,2022,Waalwijk,Excelsior,5,2,1.75,4.03,4.21
+03.09.2022,2022,Ajax,Cambuur,4,0,1.08,11.65,22.40
+03.09.2022,2022,G.A. Eagles,Feyenoord,3,4,8.90,5.41,1.31
+03.09.2022,2022,Sparta Rotterdam,FC Volendam,4,0,1.69,3.98,4.63
+03.09.2022,2022,Twente,PSV,2,1,4.41,3.91,1.73
+02.09.2022,2022,Sittard,Utrecht,3,4,3.23,3.77,2.07
+01.09.2022,2022,AZ Alkmaar,Nijmegen,1,1,1.59,4.10,5.39
+31.08.2022,2022,PSV,FC Volendam,7,1,1.08,11.77,21.29
+31.08.2022,2022,Twente,Excelsior,4,0,1.26,6.06,9.94
+28.08.2022,2022,Cambuur,AZ Alkmaar,0,1,4.46,3.90,1.73
+28.08.2022,2022,Excelsior,PSV,1,6,9.95,6.75,1.24
+28.08.2022,2022,FC Volendam,Twente,1,0,5.54,4.45,1.53
+28.08.2022,2022,Utrecht,Ajax,0,2,6.32,5.13,1.41
+27.08.2022,2022,Feyenoord,FC Emmen,4,0,1.28,5.76,9.67
+27.08.2022,2022,G.A. Eagles,Sparta Rotterdam,0,1,2.51,3.23,2.88
+27.08.2022,2022,Heerenveen,Sittard,2,1,1.61,4.05,5.24
+27.08.2022,2022,Vitesse,Waalwijk,2,2,1.80,3.71,4.26
+26.08.2022,2022,Nijmegen,Groningen,1,1,2.05,3.51,3.51
+21.08.2022,2022,Groningen,G.A. Eagles,1,0,1.91,3.53,3.95
+21.08.2022,2022,Sparta Rotterdam,Ajax,0,1,11.29,6.18,1.24
+21.08.2022,2022,Waalwijk,Feyenoord,0,1,6.93,5.07,1.39
+20.08.2022,2022,FC Emmen,Utrecht,3,2,2.75,3.40,2.49
+20.08.2022,2022,Sittard,Cambuur,1,4,2.27,3.65,2.91
+20.08.2022,2022,Vitesse,Heerenveen,0,4,2.21,3.40,3.21
+14.08.2022,2022,Ajax,Groningen,6,1,1.14,8.57,15.03
+14.08.2022,2022,FC Volendam,Nijmegen,1,4,2.92,3.73,2.25
+14.08.2022,2022,Sparta Rotterdam,AZ Alkmaar,2,3,4.00,3.52,1.91
+14.08.2022,2022,Twente,Sittard,3,0,1.43,4.62,6.92
+13.08.2022,2022,FC Emmen,Waalwijk,1,1,1.90,3.57,3.99
+13.08.2022,2022,Feyenoord,Heerenveen,0,0,1.35,5.40,7.65
+13.08.2022,2022,G.A. Eagles,PSV,2,5,6.39,4.60,1.46
+13.08.2022,2022,Utrecht,Cambuur,0,0,1.53,4.51,5.49
+12.08.2022,2022,Excelsior,Vitesse,3,1,3.80,4.04,1.81
+07.08.2022,2022,AZ Alkmaar,G.A. Eagles,2,0,1.38,4.73,8.30
+07.08.2022,2022,Groningen,FC Volendam,2,2,1.57,4.30,5.31
+07.08.2022,2022,Nijmegen,Twente,0,1,3.14,3.40,2.23
+07.08.2022,2022,Vitesse,Feyenoord,2,5,3.61,3.71,1.96
+06.08.2022,2022,Cambuur,Excelsior,0,2,1.87,4.00,3.69
+06.08.2022,2022,PSV,FC Emmen,4,1,1.18,7.35,14.22
+06.08.2022,2022,Sittard,Ajax,2,3,10.48,6.55,1.23
+06.08.2022,2022,Waalwijk,Utrecht,2,2,3.79,3.69,1.91
+05.08.2022,2022,Heerenveen,Sparta Rotterdam,0,0,1.88,3.52,4.14

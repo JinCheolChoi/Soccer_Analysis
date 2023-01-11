@@ -1,309 +1,381 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-Yesterday,2020,Alaves,Huesca,1,0
-Yesterday,2020,Atl. Madrid,Eibar,5,0
-Yesterday,2020,Betis,Valencia,2,2
-Yesterday,2020,Cadiz CF,Celta Vigo,0,0
-Yesterday,2020,Getafe,Real Madrid,0,0
-Yesterday,2020,Levante,Villarreal,1,5
-Yesterday,2020,Osasuna,Elche,2,0
-Yesterday,2020,Real Sociedad,Sevilla,1,2
-12.04.,2020,Celta Vigo,Sevilla,3,4
-11.04.,2020,Betis,Atl. Madrid,1,1
-11.04.,2020,Valencia,Real Sociedad,2,2
-11.04.,2020,Valladolid,Granada CF,1,2
-11.04.,2020,Villarreal,Osasuna,1,2
-10.04.,2020,Ath Bilbao,Alaves,0,0
-10.04.,2020,Eibar,Levante,0,1
-10.04.,2020,Getafe,Cadiz CF,0,1
-10.04.,2020,Real Madrid,Barcelona,2,1
-09.04.,2020,Huesca,Elche,3,1
-07.04.,2020,Real Sociedad,Ath Bilbao,1,1
-05.04.,2020,Barcelona,Valladolid,1,0
-04.04.,2020,Alaves,Celta Vigo,1,3
-04.04.,2020,Cadiz CF,Valencia,2,1
-04.04.,2020,Elche,Betis,1,1
-04.04.,2020,Sevilla,Atl. Madrid,1,0
-03.04.,2020,Granada CF,Villarreal,0,3
-03.04.,2020,Osasuna,Getafe,0,0
-03.04.,2020,Real Madrid,Eibar,2,0
-02.04.,2020,Levante,Huesca,0,2
-21.03.,2020,Atl. Madrid,Alaves,1,0
-21.03.,2020,Getafe,Elche,1,1
-21.03.,2020,Real Sociedad,Barcelona,1,6
-21.03.,2020,Valencia,Granada CF,2,1
-21.03.,2020,Villarreal,Cadiz CF,2,1
-20.03.,2020,Ath Bilbao,Eibar,1,1
-20.03.,2020,Celta Vigo,Real Madrid,1,3
-20.03.,2020,Huesca,Osasuna,0,0
-20.03.,2020,Valladolid,Sevilla,1,1
-19.03.,2020,Betis,Levante,2,0
-17.03.,2020,Sevilla,Elche,2,0
-15.03.,2020,Barcelona,Huesca,4,1
-14.03.,2020,Celta Vigo,Ath Bilbao,0,0
-14.03.,2020,Eibar,Villarreal,1,3
-14.03.,2020,Granada CF,Real Sociedad,1,0
-14.03.,2020,Sevilla,Betis,1,0
-13.03.,2020,Alaves,Cadiz CF,1,1
-13.03.,2020,Getafe,Atl. Madrid,0,0
-13.03.,2020,Osasuna,Valladolid,0,0
-13.03.,2020,Real Madrid,Elche,2,1
-12.03.,2020,Levante,Valencia,1,0
-10.03.,2020,Atl. Madrid,Ath Bilbao,2,1
-08.03.,2020,Betis,Alaves,3,2
-07.03.,2020,Ath Bilbao,Granada CF,2,1
-07.03.,2020,Atl. Madrid,Real Madrid,1,1
-07.03.,2020,Huesca,Celta Vigo,3,4
-07.03.,2020,Real Sociedad,Levante,1,0
-06.03.,2020,Cadiz CF,Eibar,1,0
-06.03.,2020,Elche,Sevilla,2,1
-06.03.,2020,Osasuna,Barcelona,0,2
-06.03.,2020,Valladolid,Getafe,2,1
-05.03.,2020,Valencia,Villarreal,2,1
-01.03.,2020,Real Madrid,Real Sociedad,1,1
-28.02.,2020,Cadiz CF,Betis,0,1
-28.02.,2020,Celta Vigo,Valladolid,1,1
-28.02.,2020,Granada CF,Elche,2,1
-28.02.,2020,Villarreal,Atl. Madrid,0,2
-27.02.,2020,Alaves,Osasuna,0,1
-27.02.,2020,Eibar,Huesca,1,1
-27.02.,2020,Getafe,Valencia,3,0
-27.02.,2020,Sevilla,Barcelona,0,2
-26.02.,2020,Levante,Ath Bilbao,1,1
-24.02.,2020,Barcelona,Elche,3,0
-22.02.,2020,Osasuna,Sevilla,0,2
-21.02.,2020,Ath Bilbao,Villarreal,1,1
-21.02.,2020,Barcelona,Cadiz CF,1,1
-21.02.,2020,Huesca,Granada CF,3,2
-21.02.,2020,Real Sociedad,Alaves,4,0
-20.02.,2020,Atl. Madrid,Levante,0,2
-20.02.,2020,Elche,Eibar,1,0
-20.02.,2020,Valencia,Celta Vigo,2,0
-20.02.,2020,Valladolid,Real Madrid,0,1
-19.02.,2020,Betis,Getafe,1,0
-17.02.,2020,Levante,Atl. Madrid,1,1
-15.02.,2020,Cadiz CF,Ath Bilbao,0,4
-14.02.,2020,Getafe,Real Sociedad,0,1
-14.02.,2020,Levante,Osasuna,0,1
-14.02.,2020,Real Madrid,Valencia,2,0
-14.02.,2020,Villarreal,Betis,1,2
-13.02.,2020,Barcelona,Alaves,5,1
-13.02.,2020,Eibar,Valladolid,1,1
-13.02.,2020,Granada CF,Atl. Madrid,1,2
-13.02.,2020,Sevilla,Huesca,1,0
-12.02.,2020,Celta Vigo,Elche,3,1
-09.02.,2020,Real Madrid,Getafe,2,0
-08.02.,2020,Atl. Madrid,Celta Vigo,2,2
-07.02.,2020,Ath Bilbao,Valencia,1,1
-07.02.,2020,Betis,Barcelona,2,3
-07.02.,2020,Osasuna,Eibar,2,1
-07.02.,2020,Real Sociedad,Cadiz CF,4,1
-06.02.,2020,Elche,Villarreal,2,2
-06.02.,2020,Huesca,Real Madrid,1,2
-06.02.,2020,Levante,Granada CF,2,2
-06.02.,2020,Sevilla,Getafe,3,0
-05.02.,2020,Alaves,Valladolid,1,0
-01.02.,2020,Betis,Osasuna,1,0
-31.01.,2020,Barcelona,Ath Bilbao,2,1
-31.01.,2020,Cadiz CF,Atl. Madrid,2,4
-31.01.,2020,Getafe,Alaves,0,0
-31.01.,2020,Granada CF,Celta Vigo,0,0
-30.01.,2020,Eibar,Sevilla,0,2
-30.01.,2020,Real Madrid,Levante,1,2
-30.01.,2020,Valencia,Elche,1,0
-30.01.,2020,Villarreal,Real Sociedad,1,1
-29.01.,2020,Valladolid,Huesca,1,3
-25.01.,2020,Ath Bilbao,Getafe,5,1
-24.01.,2020,Atl. Madrid,Valencia,3,1
-24.01.,2020,Celta Vigo,Eibar,1,1
-24.01.,2020,Elche,Barcelona,0,2
-24.01.,2020,Osasuna,Granada CF,3,1
-23.01.,2020,Alaves,Real Madrid,1,4
-23.01.,2020,Huesca,Villarreal,0,0
-23.01.,2020,Real Sociedad,Betis,2,2
-23.01.,2020,Sevilla,Cadiz CF,3,0
-22.01.,2020,Levante,Valladolid,2,2
-21.01.,2020,Eibar,Atl. Madrid,1,2
-21.01.,2020,Valencia,Osasuna,1,1
-20.01.,2020,Betis,Celta Vigo,2,1
-20.01.,2020,Getafe,Huesca,1,0
-20.01.,2020,Villarreal,Granada CF,2,2
-19.01.,2020,Alaves,Sevilla,1,2
-19.01.,2020,Cadiz CF,Levante,2,2
-19.01.,2020,Valladolid,Elche,2,2
-12.01.,2020,Granada CF,Osasuna,2,0
-12.01.,2020,Atl. Madrid,Sevilla,2,0
-11.01.,2020,Elche,Getafe,1,3
-11.01.,2020,Huesca,Betis,0,2
-10.01.,2020,Cadiz CF,Alaves,3,1
-10.01.,2020,Levante,Eibar,2,1
-10.01.,2020,Valladolid,Valencia,0,1
-09.01.,2020,Granada CF,Barcelona,0,4
-09.01.,2020,Osasuna,Real Madrid,0,0
-09.01.,2020,Sevilla,Real Sociedad,3,2
-08.01.,2020,Celta Vigo,Villarreal,0,4
-06.01.,2020,Ath Bilbao,Barcelona,2,3
-04.01.,2020,Valencia,Cadiz CF,1,1
-03.01.,2020,Alaves,Atl. Madrid,1,2
-03.01.,2020,Ath Bilbao,Elche,1,0
-03.01.,2020,Eibar,Granada CF,2,0
-03.01.,2020,Huesca,Barcelona,0,1
-03.01.,2020,Real Sociedad,Osasuna,1,1
-02.01.,2020,Betis,Sevilla,1,1
-02.01.,2020,Getafe,Valladolid,0,1
-02.01.,2020,Real Madrid,Celta Vigo,2,0
-02.01.,2020,Villarreal,Levante,2,1
-31.12.2020,2020,Ath Bilbao,Real Sociedad,0,1
-31.12.2020,2020,Osasuna,Alaves,1,1
-30.12.2020,2020,Atl. Madrid,Getafe,1,0
-30.12.2020,2020,Celta Vigo,Huesca,2,1
-30.12.2020,2020,Elche,Real Madrid,1,1
-30.12.2020,2020,Granada CF,Valencia,2,1
-29.12.2020,2020,Barcelona,Eibar,1,1
-29.12.2020,2020,Cadiz CF,Valladolid,0,0
-29.12.2020,2020,Levante,Betis,4,3
-29.12.2020,2020,Sevilla,Villarreal,2,0
-23.12.2020,2020,Alaves,Eibar,2,1
-23.12.2020,2020,Betis,Cadiz CF,1,0
-23.12.2020,2020,Getafe,Celta Vigo,1,1
-23.12.2020,2020,Real Madrid,Granada CF,2,0
-22.12.2020,2020,Elche,Osasuna,2,2
-22.12.2020,2020,Huesca,Levante,1,1
-22.12.2020,2020,Real Sociedad,Atl. Madrid,0,2
-22.12.2020,2020,Valencia,Sevilla,0,1
-22.12.2020,2020,Valladolid,Barcelona,0,3
-22.12.2020,2020,Villarreal,Ath Bilbao,1,1
-20.12.2020,2020,Cadiz CF,Getafe,0,2
-20.12.2020,2020,Celta Vigo,Alaves,2,0
-20.12.2020,2020,Eibar,Real Madrid,1,3
-20.12.2020,2020,Granada CF,Betis,2,0
-19.12.2020,2020,Atl. Madrid,Elche,3,1
-19.12.2020,2020,Barcelona,Valencia,2,2
-19.12.2020,2020,Levante,Real Sociedad,2,1
-19.12.2020,2020,Osasuna,Villarreal,1,3
-19.12.2020,2020,Sevilla,Valladolid,1,1
-18.12.2020,2020,Ath Bilbao,Huesca,2,0
-16.12.2020,2020,Barcelona,Real Sociedad,2,1
-15.12.2020,2020,Real Madrid,Ath Bilbao,3,1
-14.12.2020,2020,Celta Vigo,Cadiz CF,4,0
-13.12.2020,2020,Barcelona,Levante,1,0
-13.12.2020,2020,Betis,Villarreal,1,1
-13.12.2020,2020,Elche,Granada CF,0,1
-13.12.2020,2020,Real Sociedad,Eibar,1,1
-12.12.2020,2020,Getafe,Sevilla,0,1
-12.12.2020,2020,Huesca,Alaves,1,0
-12.12.2020,2020,Real Madrid,Atl. Madrid,2,0
-12.12.2020,2020,Valencia,Ath Bilbao,2,2
-11.12.2020,2020,Valladolid,Osasuna,3,2
-07.12.2020,2020,Eibar,Valencia,0,0
-06.12.2020,2020,Alaves,Real Sociedad,0,0
-06.12.2020,2020,Granada CF,Huesca,3,3
-06.12.2020,2020,Osasuna,Betis,0,2
-06.12.2020,2020,Villarreal,Elche,0,0
-05.12.2020,2020,Atl. Madrid,Valladolid,2,0
-05.12.2020,2020,Cadiz CF,Barcelona,2,1
-05.12.2020,2020,Levante,Getafe,3,0
-05.12.2020,2020,Sevilla,Real Madrid,0,1
-04.12.2020,2020,Ath Bilbao,Celta Vigo,0,2
-30.11.2020,2020,Betis,Eibar,0,2
-29.11.2020,2020,Barcelona,Osasuna,4,0
-29.11.2020,2020,Celta Vigo,Granada CF,3,1
-29.11.2020,2020,Getafe,Ath Bilbao,1,1
-29.11.2020,2020,Real Sociedad,Villarreal,1,1
-28.11.2020,2020,Elche,Cadiz CF,1,1
-28.11.2020,2020,Huesca,Sevilla,0,1
-28.11.2020,2020,Real Madrid,Alaves,1,2
-28.11.2020,2020,Valencia,Atl. Madrid,0,1
-27.11.2020,2020,Valladolid,Levante,1,1
-23.11.2020,2020,Ath Bilbao,Betis,4,0
-22.11.2020,2020,Alaves,Valencia,2,2
-22.11.2020,2020,Cadiz CF,Real Sociedad,0,1
-22.11.2020,2020,Eibar,Getafe,0,0
-22.11.2020,2020,Granada CF,Valladolid,1,3
-21.11.2020,2020,Atl. Madrid,Barcelona,1,0
-21.11.2020,2020,Levante,Elche,1,1
-21.11.2020,2020,Sevilla,Celta Vigo,4,2
-21.11.2020,2020,Villarreal,Real Madrid,1,1
-20.11.2020,2020,Osasuna,Huesca,1,1
-08.11.2020,2020,Getafe,Villarreal,1,3
-08.11.2020,2020,Levante,Alaves,1,1
-08.11.2020,2020,Real Sociedad,Granada CF,2,0
-08.11.2020,2020,Valencia,Real Madrid,4,1
-08.11.2020,2020,Valladolid,Ath Bilbao,2,1
-07.11.2020,2020,Atl. Madrid,Cadiz CF,4,0
-07.11.2020,2020,Barcelona,Betis,5,2
-07.11.2020,2020,Huesca,Eibar,1,1
-07.11.2020,2020,Sevilla,Osasuna,1,0
-06.11.2020,2020,Elche,Celta Vigo,1,1
-02.11.2020,2020,Villarreal,Valladolid,2,0
-01.11.2020,2020,Betis,Elche,3,1
-01.11.2020,2020,Celta Vigo,Real Sociedad,1,4
-01.11.2020,2020,Granada CF,Levante,1,1
-01.11.2020,2020,Valencia,Getafe,2,2
-31.10.2020,2020,Alaves,Barcelona,1,1
-31.10.2020,2020,Ath Bilbao,Sevilla,2,1
-31.10.2020,2020,Osasuna,Atl. Madrid,1,3
-31.10.2020,2020,Real Madrid,Huesca,4,1
-30.10.2020,2020,Eibar,Cadiz CF,0,2
-26.10.2020,2020,Levante,Celta Vigo,1,1
-25.10.2020,2020,Cadiz CF,Villarreal,0,0
-25.10.2020,2020,Getafe,Granada CF,0,1
-25.10.2020,2020,Real Sociedad,Huesca,4,1
-25.10.2020,2020,Valladolid,Alaves,0,2
-24.10.2020,2020,Atl. Madrid,Betis,2,0
-24.10.2020,2020,Barcelona,Real Madrid,1,3
-24.10.2020,2020,Osasuna,Ath Bilbao,1,0
-24.10.2020,2020,Sevilla,Eibar,0,1
-23.10.2020,2020,Elche,Valencia,2,1
-18.10.2020,2020,Alaves,Elche,0,2
-18.10.2020,2020,Ath Bilbao,Levante,2,0
-18.10.2020,2020,Betis,Real Sociedad,0,3
-18.10.2020,2020,Eibar,Osasuna,0,0
-18.10.2020,2020,Huesca,Valladolid,2,2
-18.10.2020,2020,Villarreal,Valencia,2,1
-17.10.2020,2020,Celta Vigo,Atl. Madrid,0,2
-17.10.2020,2020,Getafe,Barcelona,1,0
-17.10.2020,2020,Granada CF,Sevilla,1,0
-17.10.2020,2020,Real Madrid,Cadiz CF,0,1
-04.10.2020,2020,Alaves,Ath Bilbao,1,0
-04.10.2020,2020,Barcelona,Sevilla,1,1
-04.10.2020,2020,Cadiz CF,Granada CF,1,1
-04.10.2020,2020,Levante,Real Madrid,0,2
-04.10.2020,2020,Osasuna,Celta Vigo,2,0
-03.10.2020,2020,Atl. Madrid,Villarreal,0,0
-03.10.2020,2020,Elche,Huesca,0,0
-03.10.2020,2020,Real Sociedad,Getafe,3,0
-03.10.2020,2020,Valencia,Betis,0,2
-03.10.2020,2020,Valladolid,Eibar,1,2
-01.10.2020,2020,Ath Bilbao,Cadiz CF,0,1
-01.10.2020,2020,Celta Vigo,Barcelona,0,3
-01.10.2020,2020,Sevilla,Levante,1,0
-30.09.2020,2020,Eibar,Elche,0,1
-30.09.2020,2020,Huesca,Atl. Madrid,0,0
-30.09.2020,2020,Real Madrid,Valladolid,1,0
-30.09.2020,2020,Villarreal,Alaves,3,1
-29.09.2020,2020,Getafe,Betis,3,0
-29.09.2020,2020,Real Sociedad,Valencia,0,1
-27.09.2020,2020,Atl. Madrid,Granada CF,6,1
-27.09.2020,2020,Barcelona,Villarreal,4,0
-27.09.2020,2020,Cadiz CF,Sevilla,1,3
-27.09.2020,2020,Eibar,Ath Bilbao,1,2
-27.09.2020,2020,Osasuna,Levante,1,3
-27.09.2020,2020,Valladolid,Celta Vigo,1,1
-26.09.2020,2020,Alaves,Getafe,0,0
-26.09.2020,2020,Betis,Real Madrid,2,3
-26.09.2020,2020,Elche,Real Sociedad,0,3
-26.09.2020,2020,Valencia,Huesca,1,1
-20.09.2020,2020,Betis,Valladolid,2,0
-20.09.2020,2020,Granada CF,Alaves,2,1
-20.09.2020,2020,Huesca,Cadiz CF,0,2
-20.09.2020,2020,Real Sociedad,Real Madrid,0,0
-19.09.2020,2020,Celta Vigo,Valencia,2,1
-19.09.2020,2020,Getafe,Osasuna,1,0
-19.09.2020,2020,Villarreal,Eibar,2,1
-13.09.2020,2020,Alaves,Betis,0,1
-13.09.2020,2020,Valencia,Levante,4,2
-13.09.2020,2020,Valladolid,Real Sociedad,1,1
-13.09.2020,2020,Villarreal,Huesca,1,1
-12.09.2020,2020,Cadiz CF,Osasuna,0,2
-12.09.2020,2020,Eibar,Celta Vigo,0,0
-12.09.2020,2020,Granada CF,Ath Bilbao,2,0
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+23.05.2021,2020,Granada CF,Getafe,0,0,2.98,3.26,2.47
+23.05.2021,2020,Sevilla,Alaves,1,0,1.36,5.29,8.41
+22.05.2021,2020,Celta Vigo,Betis,2,3,3.30,3.68,2.13
+22.05.2021,2020,Eibar,Barcelona,0,1,5.06,4.65,1.58
+22.05.2021,2020,Elche,Ath Bilbao,2,0,2.06,3.58,3.56
+22.05.2021,2020,Huesca,Valencia,0,0,1.75,3.88,4.62
+22.05.2021,2020,Osasuna,Real Sociedad,0,1,5.87,4.47,1.53
+22.05.2021,2020,Real Madrid,Villarreal,2,1,1.56,4.56,5.37
+22.05.2021,2020,Valladolid,Atl. Madrid,1,2,9.34,5.65,1.31
+21.05.2021,2020,Levante,Cadiz CF,2,2,1.70,4.17,4.60
+16.05.2021,2020,Alaves,Granada CF,4,2,1.81,3.45,4.85
+16.05.2021,2020,Ath Bilbao,Real Madrid,0,1,5.49,4.32,1.58
+16.05.2021,2020,Atl. Madrid,Osasuna,2,1,1.22,6.42,14.18
+16.05.2021,2020,Barcelona,Celta Vigo,1,2,1.21,7.15,11.80
+16.05.2021,2020,Betis,Huesca,1,0,2.06,3.45,3.69
+16.05.2021,2020,Cadiz CF,Elche,1,3,3.48,3.24,2.21
+16.05.2021,2020,Getafe,Levante,2,1,1.63,3.78,5.92
+16.05.2021,2020,Real Sociedad,Valladolid,4,1,1.47,4.37,7.25
+16.05.2021,2020,Valencia,Eibar,4,1,2.29,3.43,3.15
+16.05.2021,2020,Villarreal,Sevilla,4,0,2.21,3.66,3.12
+13.05.2021,2020,Eibar,Betis,1,1,2.83,3.27,2.59
+13.05.2021,2020,Granada CF,Real Madrid,1,4,7.84,5.25,1.37
+13.05.2021,2020,Valladolid,Villarreal,0,2,4.42,3.74,1.81
+12.05.2021,2020,Atl. Madrid,Real Sociedad,2,1,1.64,3.78,5.82
+12.05.2021,2020,Celta Vigo,Getafe,1,0,2.80,2.98,2.83
+12.05.2021,2020,Huesca,Ath Bilbao,1,0,2.59,3.18,2.90
+12.05.2021,2020,Sevilla,Valencia,1,0,1.61,4.13,5.48
+11.05.2021,2020,Elche,Alaves,0,2,2.97,2.87,2.77
+11.05.2021,2020,Levante,Barcelona,3,3,14.01,8.06,1.17
+11.05.2021,2020,Osasuna,Cadiz CF,3,2,1.78,3.64,4.76
+10.05.2021,2020,Betis,Granada CF,2,1,1.79,3.70,4.59
+09.05.2021,2020,Getafe,Eibar,0,1,2.12,3.10,3.96
+09.05.2021,2020,Real Madrid,Sevilla,2,2,1.87,3.87,3.97
+09.05.2021,2020,Valencia,Valladolid,3,0,2.13,3.23,3.76
+09.05.2021,2020,Villarreal,Celta Vigo,2,4,1.64,4.15,5.17
+08.05.2021,2020,Alaves,Levante,2,2,2.13,3.30,3.64
+08.05.2021,2020,Ath Bilbao,Osasuna,2,2,1.73,3.68,5.14
+08.05.2021,2020,Barcelona,Atl. Madrid,0,0,1.74,3.90,4.63
+08.05.2021,2020,Cadiz CF,Huesca,2,1,4.14,3.21,2.04
+07.05.2021,2020,Real Sociedad,Elche,2,0,1.43,4.39,8.48
+03.05.2021,2020,Sevilla,Ath Bilbao,0,1,1.58,3.94,6.26
+02.05.2021,2020,Granada CF,Cadiz CF,0,1,1.83,3.35,5.00
+02.05.2021,2020,Valencia,Barcelona,2,3,9.02,5.95,1.30
+02.05.2021,2020,Valladolid,Betis,1,1,3.66,3.40,2.09
+02.05.2021,2020,Villarreal,Getafe,1,0,2.03,3.23,4.10
+01.05.2021,2020,Eibar,Alaves,3,0,2.38,3.13,3.27
+01.05.2021,2020,Elche,Atl. Madrid,0,1,8.35,4.26,1.44
+01.05.2021,2020,Huesca,Real Sociedad,1,0,3.58,3.34,2.15
+01.05.2021,2020,Real Madrid,Osasuna,2,0,1.34,5.28,9.06
+30.04.2021,2020,Celta Vigo,Levante,2,0,1.79,3.74,4.52
+29.04.2021,2020,Barcelona,Granada CF,1,2,1.13,9.42,18.68
+28.04.2021,2020,Ath Bilbao,Valladolid,2,2,1.86,3.34,4.78
+26.04.2021,2020,Eibar,Real Sociedad,0,1,4.05,3.50,1.95
+25.04.2021,2020,Ath Bilbao,Atl. Madrid,2,1,4.85,3.42,1.83
+25.04.2021,2020,Celta Vigo,Osasuna,2,1,1.79,3.66,4.68
+25.04.2021,2020,Huesca,Getafe,0,2,2.93,2.88,2.83
+25.04.2021,2020,Sevilla,Granada CF,2,1,1.45,4.60,7.27
+25.04.2021,2020,Villarreal,Barcelona,1,2,4.66,4.27,1.68
+24.04.2021,2020,Elche,Levante,1,0,2.81,3.27,2.61
+24.04.2021,2020,Real Madrid,Betis,0,0,1.50,4.48,6.37
+24.04.2021,2020,Valencia,Alaves,1,1,2.05,3.45,3.76
+24.04.2021,2020,Valladolid,Cadiz CF,1,1,1.74,3.52,5.34
+22.04.2021,2020,Atl. Madrid,Huesca,2,0,1.35,4.80,10.08
+22.04.2021,2020,Barcelona,Getafe,5,2,1.21,6.79,14.32
+22.04.2021,2020,Granada CF,Eibar,4,1,2.33,3.13,3.37
+22.04.2021,2020,Real Sociedad,Celta Vigo,2,1,1.83,3.72,4.32
+21.04.2021,2020,Alaves,Villarreal,2,1,5.13,3.93,1.68
+21.04.2021,2020,Betis,Ath Bilbao,0,0,1.92,3.55,4.13
+21.04.2021,2020,Cadiz CF,Real Madrid,0,3,7.93,4.88,1.39
+21.04.2021,2020,Elche,Valladolid,1,1,3.21,2.94,2.54
+21.04.2021,2020,Levante,Sevilla,0,1,6.97,4.73,1.44
+21.04.2021,2020,Osasuna,Valencia,3,1,2.61,3.10,2.96
+18.04.2021,2020,Alaves,Huesca,1,0,2.73,3.03,2.88
+18.04.2021,2020,Atl. Madrid,Eibar,5,0,1.40,4.36,9.76
+18.04.2021,2020,Betis,Valencia,2,2,1.84,3.80,4.21
+18.04.2021,2020,Cadiz CF,Celta Vigo,0,0,3.83,3.41,2.03
+18.04.2021,2020,Getafe,Real Madrid,0,0,3.98,3.48,1.98
+18.04.2021,2020,Levante,Villarreal,1,5,4.79,4.00,1.70
+18.04.2021,2020,Osasuna,Elche,2,0,1.97,3.18,4.50
+18.04.2021,2020,Real Sociedad,Sevilla,1,2,2.69,3.22,2.77
+12.04.2021,2020,Celta Vigo,Sevilla,3,4,3.71,3.39,2.08
+11.04.2021,2020,Betis,Atl. Madrid,1,1,3.53,3.21,2.22
+11.04.2021,2020,Valencia,Real Sociedad,2,2,3.03,3.31,2.42
+11.04.2021,2020,Valladolid,Granada CF,1,2,2.21,3.19,3.54
+11.04.2021,2020,Villarreal,Osasuna,1,2,1.75,3.44,5.38
+10.04.2021,2020,Ath Bilbao,Alaves,0,0,1.98,3.21,4.37
+10.04.2021,2020,Eibar,Levante,0,1,2.38,3.38,3.02
+10.04.2021,2020,Getafe,Cadiz CF,0,1,1.84,3.17,5.34
+10.04.2021,2020,Real Madrid,Barcelona,2,1,2.75,3.76,2.40
+09.04.2021,2020,Huesca,Elche,3,1,2.15,3.11,3.87
+07.04.2021,2020,Real Sociedad,Ath Bilbao,1,1,2.53,3.00,3.17
+05.04.2021,2020,Barcelona,Valladolid,1,0,1.13,9.27,20.49
+04.04.2021,2020,Alaves,Celta Vigo,1,3,3.18,3.16,2.42
+04.04.2021,2020,Cadiz CF,Valencia,2,1,3.72,3.22,2.15
+04.04.2021,2020,Elche,Betis,1,1,4.69,3.62,1.80
+04.04.2021,2020,Sevilla,Atl. Madrid,1,0,2.96,2.92,2.74
+03.04.2021,2020,Granada CF,Villarreal,0,3,4.33,3.42,1.92
+03.04.2021,2020,Osasuna,Getafe,0,0,2.54,2.78,3.42
+03.04.2021,2020,Real Madrid,Eibar,2,0,1.37,5.14,8.31
+02.04.2021,2020,Levante,Huesca,0,2,2.40,3.37,3.01
+21.03.2021,2020,Atl. Madrid,Alaves,1,0,1.34,4.94,10.26
+21.03.2021,2020,Getafe,Elche,1,1,1.96,2.97,4.99
+21.03.2021,2020,Real Sociedad,Barcelona,1,6,4.44,4.09,1.74
+21.03.2021,2020,Valencia,Granada CF,2,1,2.08,3.27,3.85
+21.03.2021,2020,Villarreal,Cadiz CF,2,1,1.43,4.38,8.49
+20.03.2021,2020,Ath Bilbao,Eibar,1,1,1.74,3.52,5.37
+20.03.2021,2020,Celta Vigo,Real Madrid,1,3,5.01,4.02,1.67
+20.03.2021,2020,Huesca,Osasuna,0,0,2.46,3.11,3.16
+20.03.2021,2020,Valladolid,Sevilla,1,1,4.30,3.32,1.96
+19.03.2021,2020,Betis,Levante,2,0,1.75,3.85,4.65
+17.03.2021,2020,Sevilla,Elche,2,0,1.44,4.25,8.35
+15.03.2021,2020,Barcelona,Huesca,4,1,1.13,8.83,18.50
+14.03.2021,2020,Celta Vigo,Ath Bilbao,0,0,2.67,3.12,2.86
+14.03.2021,2020,Eibar,Villarreal,1,3,3.38,3.34,2.22
+14.03.2021,2020,Granada CF,Real Sociedad,1,0,5.62,3.90,1.64
+14.03.2021,2020,Sevilla,Betis,1,0,1.84,3.55,4.55
+13.03.2021,2020,Alaves,Cadiz CF,1,1,2.18,2.98,3.96
+13.03.2021,2020,Getafe,Atl. Madrid,0,0,5.27,3.22,1.84
+13.03.2021,2020,Osasuna,Valladolid,0,0,2.19,3.10,3.77
+13.03.2021,2020,Real Madrid,Elche,2,1,1.21,6.53,14.51
+12.03.2021,2020,Levante,Valencia,1,0,2.33,3.34,3.16
+10.03.2021,2020,Atl. Madrid,Ath Bilbao,2,1,1.95,3.17,4.59
+08.03.2021,2020,Betis,Alaves,3,2,1.73,3.55,5.40
+07.03.2021,2020,Ath Bilbao,Granada CF,2,1,1.99,3.25,4.26
+07.03.2021,2020,Atl. Madrid,Real Madrid,1,1,3.02,3.08,2.57
+07.03.2021,2020,Huesca,Celta Vigo,3,4,3.05,3.17,2.49
+07.03.2021,2020,Real Sociedad,Levante,1,0,1.36,5.16,8.38
+06.03.2021,2020,Cadiz CF,Eibar,1,0,3.58,3.19,2.21
+06.03.2021,2020,Elche,Sevilla,2,1,5.51,3.59,1.71
+06.03.2021,2020,Osasuna,Barcelona,0,2,7.23,4.73,1.43
+06.03.2021,2020,Valladolid,Getafe,2,1,3.12,2.82,2.70
+05.03.2021,2020,Valencia,Villarreal,2,1,4.19,3.52,1.92
+01.03.2021,2020,Real Madrid,Real Sociedad,1,1,2.04,3.48,3.76
+28.02.2021,2020,Cadiz CF,Betis,0,1,4.17,3.47,1.93
+28.02.2021,2020,Celta Vigo,Valladolid,1,1,1.89,3.46,4.36
+28.02.2021,2020,Granada CF,Elche,2,1,2.01,3.16,4.32
+28.02.2021,2020,Villarreal,Atl. Madrid,0,2,3.33,2.93,2.47
+27.02.2021,2020,Alaves,Osasuna,0,1,2.84,2.94,2.83
+27.02.2021,2020,Eibar,Huesca,1,1,2.30,3.12,3.43
+27.02.2021,2020,Getafe,Valencia,3,0,2.33,2.94,3.63
+27.02.2021,2020,Sevilla,Barcelona,0,2,3.23,3.50,2.21
+26.02.2021,2020,Levante,Ath Bilbao,1,1,3.73,3.38,2.08
+24.02.2021,2020,Barcelona,Elche,3,0,1.13,9.03,19.40
+22.02.2021,2020,Osasuna,Sevilla,0,2,4.06,3.17,2.06
+21.02.2021,2020,Ath Bilbao,Villarreal,1,1,2.56,3.13,2.98
+21.02.2021,2020,Barcelona,Cadiz CF,1,1,1.11,10.13,22.86
+21.02.2021,2020,Huesca,Granada CF,3,2,2.12,3.16,3.86
+21.02.2021,2020,Real Sociedad,Alaves,4,0,1.53,3.99,6.93
+20.02.2021,2020,Atl. Madrid,Levante,0,2,1.44,4.35,8.27
+20.02.2021,2020,Elche,Eibar,1,0,3.98,3.28,2.04
+20.02.2021,2020,Valencia,Celta Vigo,2,0,2.44,3.28,3.02
+20.02.2021,2020,Valladolid,Real Madrid,0,1,6.07,4.12,1.56
+19.02.2021,2020,Betis,Getafe,1,0,2.21,3.03,3.83
+17.02.2021,2020,Levante,Atl. Madrid,1,1,4.92,3.48,1.79
+15.02.2021,2020,Cadiz CF,Ath Bilbao,0,4,5.08,3.26,1.84
+14.02.2021,2020,Getafe,Real Sociedad,0,1,4.37,3.28,1.95
+14.02.2021,2020,Levante,Osasuna,0,1,2.73,3.04,2.85
+14.02.2021,2020,Real Madrid,Valencia,2,0,1.36,5.24,8.22
+14.02.2021,2020,Villarreal,Betis,1,2,1.90,3.48,4.29
+13.02.2021,2020,Barcelona,Alaves,5,1,1.29,6.06,9.59
+13.02.2021,2020,Eibar,Valladolid,1,1,1.90,3.44,4.35
+13.02.2021,2020,Granada CF,Atl. Madrid,1,2,5.46,3.37,1.77
+13.02.2021,2020,Sevilla,Huesca,1,0,1.57,3.85,6.62
+12.02.2021,2020,Celta Vigo,Elche,3,1,1.48,4.17,7.52
+09.02.2021,2020,Real Madrid,Getafe,2,0,1.62,3.82,5.98
+08.02.2021,2020,Atl. Madrid,Celta Vigo,2,2,1.81,3.19,5.60
+07.02.2021,2020,Ath Bilbao,Valencia,1,1,2.39,3.12,3.24
+07.02.2021,2020,Betis,Barcelona,2,3,5.64,4.58,1.54
+07.02.2021,2020,Osasuna,Eibar,2,1,2.68,2.98,2.98
+07.02.2021,2020,Real Sociedad,Cadiz CF,4,1,1.37,4.63,9.80
+06.02.2021,2020,Elche,Villarreal,2,2,7.63,4.44,1.45
+06.02.2021,2020,Huesca,Real Madrid,1,2,6.53,4.20,1.53
+06.02.2021,2020,Levante,Granada CF,2,2,1.89,3.50,4.31
+06.02.2021,2020,Sevilla,Getafe,3,0,1.77,3.38,5.50
+05.02.2021,2020,Alaves,Valladolid,1,0,2.41,3.02,3.33
+01.02.2021,2020,Betis,Osasuna,1,0,1.86,3.55,4.39
+31.01.2021,2020,Barcelona,Ath Bilbao,2,1,1.47,4.70,6.52
+31.01.2021,2020,Cadiz CF,Atl. Madrid,2,4,6.72,3.45,1.65
+31.01.2021,2020,Getafe,Alaves,0,0,2.14,3.01,4.07
+31.01.2021,2020,Granada CF,Celta Vigo,0,0,2.91,3.20,2.57
+30.01.2021,2020,Eibar,Sevilla,0,2,4.15,3.37,1.97
+30.01.2021,2020,Real Madrid,Levante,1,2,1.32,5.88,8.61
+30.01.2021,2020,Valencia,Elche,1,0,1.75,3.58,5.13
+30.01.2021,2020,Villarreal,Real Sociedad,1,1,2.46,3.08,3.16
+29.01.2021,2020,Valladolid,Huesca,1,3,2.14,3.10,3.95
+25.01.2021,2020,Ath Bilbao,Getafe,5,1,2.31,2.88,3.78
+24.01.2021,2020,Atl. Madrid,Valencia,3,1,1.47,4.29,7.60
+24.01.2021,2020,Celta Vigo,Eibar,1,1,2.19,3.20,3.59
+24.01.2021,2020,Elche,Barcelona,0,2,9.56,5.58,1.31
+24.01.2021,2020,Osasuna,Granada CF,3,1,2.66,2.88,3.10
+23.01.2021,2020,Alaves,Real Madrid,1,4,7.21,4.64,1.44
+23.01.2021,2020,Huesca,Villarreal,0,0,4.34,3.35,1.93
+23.01.2021,2020,Real Sociedad,Betis,2,2,1.78,3.77,4.53
+23.01.2021,2020,Sevilla,Cadiz CF,3,0,1.40,4.31,9.88
+22.01.2021,2020,Levante,Valladolid,2,2,2.15,3.38,3.53
+21.01.2021,2020,Eibar,Atl. Madrid,1,2,5.45,3.36,1.77
+21.01.2021,2020,Valencia,Osasuna,1,1,2.05,3.43,3.74
+20.01.2021,2020,Betis,Celta Vigo,2,1,2.10,3.49,3.55
+20.01.2021,2020,Getafe,Huesca,1,0,1.83,3.29,5.13
+20.01.2021,2020,Villarreal,Granada CF,2,2,1.71,3.50,5.73
+19.01.2021,2020,Alaves,Sevilla,1,2,4.68,3.34,1.89
+19.01.2021,2020,Cadiz CF,Levante,2,2,2.94,3.08,2.64
+19.01.2021,2020,Valladolid,Elche,2,2,1.72,3.59,5.42
+12.01.2021,2020,Granada CF,Osasuna,2,0,2.29,3.08,3.51
+12.01.2021,2020,Atl. Madrid,Sevilla,2,0,2.11,3.02,4.12
+11.01.2021,2020,Elche,Getafe,1,3,4.37,2.91,2.12
+11.01.2021,2020,Huesca,Betis,0,2,2.89,3.27,2.54
+10.01.2021,2020,Cadiz CF,Alaves,3,1,2.68,2.86,3.09
+10.01.2021,2020,Levante,Eibar,2,1,2.24,3.34,3.31
+10.01.2021,2020,Valladolid,Valencia,0,1,2.77,3.16,2.72
+09.01.2021,2020,Granada CF,Barcelona,0,4,7.17,5.28,1.39
+09.01.2021,2020,Osasuna,Real Madrid,0,0,7.47,4.70,1.43
+09.01.2021,2020,Sevilla,Real Sociedad,3,2,2.03,3.15,4.26
+08.01.2021,2020,Celta Vigo,Villarreal,0,4,3.65,3.22,2.17
+06.01.2021,2020,Ath Bilbao,Barcelona,2,3,5.16,4.23,1.62
+04.01.2021,2020,Valencia,Cadiz CF,1,1,1.90,3.40,4.42
+03.01.2021,2020,Alaves,Atl. Madrid,1,2,7.36,3.82,1.54
+03.01.2021,2020,Ath Bilbao,Elche,1,0,1.62,3.75,6.14
+03.01.2021,2020,Eibar,Granada CF,2,0,2.40,3.09,3.24
+03.01.2021,2020,Huesca,Barcelona,0,1,8.65,5.74,1.32
+03.01.2021,2020,Real Sociedad,Osasuna,1,1,1.61,3.85,5.94
+02.01.2021,2020,Betis,Sevilla,1,1,3.75,3.41,2.06
+02.01.2021,2020,Getafe,Valladolid,0,1,1.93,3.04,5.06
+02.01.2021,2020,Real Madrid,Celta Vigo,2,0,1.57,4.36,5.57
+02.01.2021,2020,Villarreal,Levante,2,1,1.54,4.39,5.97
+31.12.2020,2020,Ath Bilbao,Real Sociedad,0,1,3.13,2.96,2.56
+31.12.2020,2020,Osasuna,Alaves,1,1,2.31,3.14,3.38
+30.12.2020,2020,Atl. Madrid,Getafe,1,0,1.56,3.62,7.70
+30.12.2020,2020,Celta Vigo,Huesca,2,1,1.76,3.60,4.97
+30.12.2020,2020,Elche,Real Madrid,1,1,9.93,6.46,1.26
+30.12.2020,2020,Granada CF,Valencia,2,1,2.32,3.23,3.26
+29.12.2020,2020,Barcelona,Eibar,1,1,1.30,5.63,9.95
+29.12.2020,2020,Cadiz CF,Valladolid,0,0,3.08,2.88,2.68
+29.12.2020,2020,Levante,Betis,4,3,2.60,3.44,2.69
+29.12.2020,2020,Sevilla,Villarreal,2,0,2.26,3.24,3.41
+23.12.2020,2020,Alaves,Eibar,2,1,2.94,2.90,2.76
+23.12.2020,2020,Betis,Cadiz CF,1,0,1.82,3.43,4.80
+23.12.2020,2020,Getafe,Celta Vigo,1,1,2.91,2.92,2.79
+23.12.2020,2020,Real Madrid,Granada CF,2,0,1.29,5.91,9.78
+22.12.2020,2020,Elche,Osasuna,2,2,3.11,2.99,2.57
+22.12.2020,2020,Huesca,Levante,1,1,2.45,3.25,3.03
+22.12.2020,2020,Real Sociedad,Atl. Madrid,0,2,3.01,3.02,2.60
+22.12.2020,2020,Valencia,Sevilla,0,1,3.74,3.45,2.04
+22.12.2020,2020,Valladolid,Barcelona,0,3,6.75,4.97,1.43
+22.12.2020,2020,Villarreal,Ath Bilbao,1,1,2.08,3.26,3.87
+20.12.2020,2020,Cadiz CF,Getafe,0,2,3.58,2.80,2.43
+20.12.2020,2020,Celta Vigo,Alaves,2,0,1.69,3.72,5.47
+20.12.2020,2020,Eibar,Real Madrid,1,3,6.53,4.44,1.49
+20.12.2020,2020,Granada CF,Betis,2,0,2.41,3.29,3.03
+19.12.2020,2020,Atl. Madrid,Elche,3,1,1.19,6.66,18.04
+19.12.2020,2020,Barcelona,Valencia,2,2,1.27,6.37,9.76
+19.12.2020,2020,Levante,Real Sociedad,2,1,3.30,3.37,2.24
+19.12.2020,2020,Osasuna,Villarreal,1,3,3.80,3.30,2.08
+19.12.2020,2020,Sevilla,Valladolid,1,1,1.45,4.39,7.96
+18.12.2020,2020,Ath Bilbao,Huesca,2,0,1.91,3.29,4.57
+16.12.2020,2020,Barcelona,Real Sociedad,2,1,1.69,4.19,4.62
+15.12.2020,2020,Real Madrid,Ath Bilbao,3,1,1.59,3.93,6.07
+14.12.2020,2020,Celta Vigo,Cadiz CF,4,0,1.67,3.74,5.57
+13.12.2020,2020,Barcelona,Levante,1,0,1.25,6.83,9.92
+13.12.2020,2020,Betis,Villarreal,1,1,3.15,3.55,2.24
+13.12.2020,2020,Elche,Granada CF,0,1,3.52,3.11,2.27
+13.12.2020,2020,Real Sociedad,Eibar,1,1,1.82,3.38,4.98
+12.12.2020,2020,Getafe,Sevilla,0,1,3.58,3.15,2.22
+12.12.2020,2020,Huesca,Alaves,1,0,2.06,3.37,3.77
+12.12.2020,2020,Real Madrid,Atl. Madrid,2,0,2.43,3.24,3.07
+12.12.2020,2020,Valencia,Ath Bilbao,2,2,3.01,3.13,2.55
+11.12.2020,2020,Valladolid,Osasuna,3,2,2.56,2.98,3.13
+07.12.2020,2020,Eibar,Valencia,0,0,2.51,3.11,3.08
+06.12.2020,2020,Alaves,Real Sociedad,0,0,4.17,3.57,1.90
+06.12.2020,2020,Granada CF,Huesca,3,3,2.54,2.98,3.14
+06.12.2020,2020,Osasuna,Betis,0,2,2.54,3.20,2.95
+06.12.2020,2020,Villarreal,Elche,0,0,1.33,5.26,9.73
+05.12.2020,2020,Atl. Madrid,Valladolid,2,0,1.40,4.55,8.97
+05.12.2020,2020,Cadiz CF,Barcelona,2,1,11.94,6.42,1.24
+05.12.2020,2020,Levante,Getafe,3,0,2.82,3.01,2.79
+05.12.2020,2020,Sevilla,Real Madrid,0,1,2.66,3.36,2.68
+04.12.2020,2020,Ath Bilbao,Celta Vigo,0,2,2.32,3.20,3.30
+30.11.2020,2020,Betis,Eibar,0,2,1.78,3.60,4.81
+29.11.2020,2020,Barcelona,Osasuna,4,0,1.24,6.78,10.98
+29.11.2020,2020,Celta Vigo,Granada CF,3,1,1.97,3.35,4.16
+29.11.2020,2020,Getafe,Ath Bilbao,1,1,2.76,2.74,3.13
+29.11.2020,2020,Real Sociedad,Villarreal,1,1,2.46,3.17,3.09
+28.11.2020,2020,Elche,Cadiz CF,1,1,2.86,2.80,2.95
+28.11.2020,2020,Huesca,Sevilla,0,1,4.06,3.43,1.96
+28.11.2020,2020,Real Madrid,Alaves,1,2,1.31,5.58,9.81
+28.11.2020,2020,Valencia,Atl. Madrid,0,1,5.08,3.70,1.73
+27.11.2020,2020,Valladolid,Levante,1,1,2.47,3.26,2.99
+23.11.2020,2020,Ath Bilbao,Betis,4,0,2.07,3.29,3.84
+22.11.2020,2020,Alaves,Valencia,2,2,2.63,3.20,2.84
+22.11.2020,2020,Cadiz CF,Real Sociedad,0,1,6.02,3.68,1.64
+22.11.2020,2020,Eibar,Getafe,0,0,3.54,2.88,2.41
+22.11.2020,2020,Granada CF,Valladolid,1,3,2.15,3.10,3.87
+21.11.2020,2020,Atl. Madrid,Barcelona,1,0,2.79,3.39,2.55
+21.11.2020,2020,Levante,Elche,1,1,1.48,4.48,6.77
+21.11.2020,2020,Sevilla,Celta Vigo,4,2,1.73,3.63,5.22
+21.11.2020,2020,Villarreal,Real Madrid,1,1,2.58,3.54,2.66
+20.11.2020,2020,Osasuna,Huesca,1,1,2.44,3.05,3.23
+08.11.2020,2020,Getafe,Villarreal,1,3,3.48,3.12,2.28
+08.11.2020,2020,Levante,Alaves,1,1,2.11,3.47,3.52
+08.11.2020,2020,Real Sociedad,Granada CF,2,0,1.15,7.84,18.40
+08.11.2020,2020,Valencia,Real Madrid,4,1,6.71,5.15,1.42
+08.11.2020,2020,Valladolid,Ath Bilbao,2,1,3.85,2.95,2.24
+07.11.2020,2020,Atl. Madrid,Cadiz CF,4,0,1.39,4.41,10.22
+07.11.2020,2020,Barcelona,Betis,5,2,1.48,4.96,5.93
+07.11.2020,2020,Huesca,Eibar,1,1,2.27,3.11,3.52
+07.11.2020,2020,Sevilla,Osasuna,1,0,1.48,4.29,7.24
+06.11.2020,2020,Elche,Celta Vigo,1,1,4.94,3.49,1.80
+02.11.2020,2020,Villarreal,Valladolid,2,0,1.62,3.89,5.80
+01.11.2020,2020,Betis,Elche,3,1,1.46,4.45,7.10
+01.11.2020,2020,Celta Vigo,Real Sociedad,1,4,3.34,3.18,2.30
+01.11.2020,2020,Granada CF,Levante,1,1,2.38,3.20,3.17
+01.11.2020,2020,Valencia,Getafe,2,2,3.06,2.93,2.64
+31.10.2020,2020,Alaves,Barcelona,1,1,8.21,5.47,1.35
+31.10.2020,2020,Ath Bilbao,Sevilla,2,1,3.37,3.01,2.40
+31.10.2020,2020,Osasuna,Atl. Madrid,1,3,5.10,3.43,1.79
+31.10.2020,2020,Real Madrid,Huesca,4,1,1.33,5.32,9.53
+30.10.2020,2020,Eibar,Cadiz CF,0,2,2.55,2.76,3.42
+26.10.2020,2020,Levante,Celta Vigo,1,1,2.48,3.30,2.91
+25.10.2020,2020,Cadiz CF,Villarreal,0,0,3.70,3.32,2.09
+25.10.2020,2020,Getafe,Granada CF,0,1,1.99,2.99,4.67
+25.10.2020,2020,Real Sociedad,Huesca,4,1,1.82,3.46,4.83
+25.10.2020,2020,Valladolid,Alaves,0,2,2.47,2.90,3.35
+24.10.2020,2020,Atl. Madrid,Betis,2,0,1.65,3.77,5.64
+24.10.2020,2020,Barcelona,Real Madrid,1,3,1.88,3.84,3.91
+24.10.2020,2020,Osasuna,Ath Bilbao,1,0,3.24,2.96,2.50
+24.10.2020,2020,Sevilla,Eibar,0,1,1.60,3.76,6.39
+23.10.2020,2020,Elche,Valencia,2,1,3.39,3.18,2.28
+18.10.2020,2020,Alaves,Elche,0,2,1.83,3.26,5.10
+18.10.2020,2020,Ath Bilbao,Levante,2,0,2.09,3.40,3.66
+18.10.2020,2020,Betis,Real Sociedad,0,3,2.80,3.30,2.58
+18.10.2020,2020,Eibar,Osasuna,0,0,2.86,2.81,2.93
+18.10.2020,2020,Huesca,Valladolid,2,2,2.14,2.97,4.09
+18.10.2020,2020,Villarreal,Valencia,2,1,1.64,4.14,5.25
+17.10.2020,2020,Celta Vigo,Atl. Madrid,0,2,4.97,3.42,1.81
+17.10.2020,2020,Getafe,Barcelona,1,0,4.98,3.73,1.72
+17.10.2020,2020,Granada CF,Sevilla,1,0,3.95,3.24,2.07
+17.10.2020,2020,Real Madrid,Cadiz CF,0,1,1.25,6.13,11.96
+04.10.2020,2020,Alaves,Ath Bilbao,1,0,3.67,2.95,2.30
+04.10.2020,2020,Barcelona,Sevilla,1,1,1.64,4.24,4.96
+04.10.2020,2020,Cadiz CF,Granada CF,1,1,3.16,2.83,2.65
+04.10.2020,2020,Levante,Real Madrid,0,2,5.93,4.58,1.52
+04.10.2020,2020,Osasuna,Celta Vigo,2,0,2.95,2.95,2.70
+03.10.2020,2020,Atl. Madrid,Villarreal,0,0,1.58,4.02,6.02
+03.10.2020,2020,Elche,Huesca,0,0,3.89,3.18,2.10
+03.10.2020,2020,Real Sociedad,Getafe,3,0,2.06,3.06,4.21
+03.10.2020,2020,Valencia,Betis,0,2,3.06,3.48,2.31
+03.10.2020,2020,Valladolid,Eibar,1,2,2.09,3.02,4.20
+01.10.2020,2020,Ath Bilbao,Cadiz CF,0,1,1.70,3.38,6.21
+01.10.2020,2020,Celta Vigo,Barcelona,0,3,6.31,4.85,1.47
+01.10.2020,2020,Sevilla,Levante,1,0,1.48,4.52,6.59
+30.09.2020,2020,Eibar,Elche,0,1,1.71,3.52,5.59
+30.09.2020,2020,Huesca,Atl. Madrid,0,0,6.89,3.85,1.55
+30.09.2020,2020,Real Madrid,Valladolid,1,0,1.22,6.46,13.24
+30.09.2020,2020,Villarreal,Alaves,3,1,1.54,4.13,6.36
+29.09.2020,2020,Getafe,Betis,3,0,2.39,2.99,3.40
+29.09.2020,2020,Real Sociedad,Valencia,0,1,1.50,4.41,6.40
+27.09.2020,2020,Atl. Madrid,Granada CF,6,1,1.41,4.33,9.24
+27.09.2020,2020,Barcelona,Villarreal,4,0,1.52,4.70,5.76
+27.09.2020,2020,Cadiz CF,Sevilla,1,3,5.63,3.46,1.72
+27.09.2020,2020,Eibar,Ath Bilbao,1,2,3.53,2.88,2.39
+27.09.2020,2020,Osasuna,Levante,1,3,2.20,3.37,3.38
+27.09.2020,2020,Valladolid,Celta Vigo,1,1,3.41,2.87,2.46
+26.09.2020,2020,Alaves,Getafe,0,0,3.57,2.76,2.47
+26.09.2020,2020,Betis,Real Madrid,2,3,4.59,3.95,1.74
+26.09.2020,2020,Elche,Real Sociedad,0,3,6.56,3.75,1.59
+26.09.2020,2020,Valencia,Huesca,1,1,2.15,3.35,3.54
+20.09.2020,2020,Betis,Valladolid,2,0,1.84,3.45,4.71
+20.09.2020,2020,Granada CF,Alaves,2,1,2.27,2.89,3.82
+20.09.2020,2020,Huesca,Cadiz CF,0,2,1.99,2.98,4.74
+20.09.2020,2020,Real Sociedad,Real Madrid,0,0,4.53,3.77,1.78
+19.09.2020,2020,Celta Vigo,Valencia,2,1,2.15,3.36,3.52
+19.09.2020,2020,Getafe,Osasuna,1,0,1.97,3.12,4.53
+19.09.2020,2020,Villarreal,Eibar,2,1,1.67,3.72,5.58
+13.09.2020,2020,Alaves,Betis,0,1,3.35,3.08,2.34
+13.09.2020,2020,Valencia,Levante,4,2,2.41,3.25,3.06
+13.09.2020,2020,Valladolid,Real Sociedad,1,1,3.04,2.89,2.67
+13.09.2020,2020,Villarreal,Huesca,1,1,1.53,4.23,6.29
+12.09.2020,2020,Cadiz CF,Osasuna,0,2,3.20,2.81,2.62
+12.09.2020,2020,Eibar,Celta Vigo,0,0,2.75,3.01,2.83
+12.09.2020,2020,Granada CF,Ath Bilbao,2,0,2.64,2.86,3.12

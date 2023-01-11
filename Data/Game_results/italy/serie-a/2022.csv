@@ -1,0 +1,151 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+13.11.,2022,AC Milan,Fiorentina,2,1,1.66,3.90,5.17
+13.11.,2022,AS Roma,Torino,1,1,1.82,3.34,4.91
+13.11.,2022,Atalanta,Inter,2,3,2.92,3.56,2.33
+13.11.,2022,Juventus,Lazio,3,0,1.88,3.32,4.52
+13.11.,2022,Monza,Salernitana,3,0,1.99,3.38,3.95
+13.11.,2022,Verona,Spezia,1,2,1.99,3.58,3.72
+12.11.,2022,Bologna,Sassuolo,3,0,2.25,3.37,3.20
+12.11.,2022,Napoli,Udinese,3,2,1.49,4.60,6.16
+12.11.,2022,Sampdoria,Lecce,0,2,2.93,2.79,2.82
+11.11.,2022,Empoli,Cremonese,2,0,2.52,3.24,2.90
+10.11.,2022,Lazio,Monza,1,0,1.70,3.70,5.11
+10.11.,2022,Verona,Juventus,0,1,5.79,3.86,1.61
+09.11.,2022,Fiorentina,Salernitana,2,1,1.54,4.19,6.02
+09.11.,2022,Inter,Bologna,6,1,1.40,4.98,7.31
+09.11.,2022,Lecce,Atalanta,2,1,3.43,3.16,2.25
+09.11.,2022,Sassuolo,AS Roma,1,1,3.31,3.50,2.16
+09.11.,2022,Torino,Sampdoria,2,0,1.66,3.50,6.01
+08.11.,2022,Cremonese,AC Milan,0,0,6.33,4.01,1.55
+08.11.,2022,Napoli,Empoli,2,0,1.27,6.04,9.87
+08.11.,2022,Spezia,Udinese,1,1,3.78,3.50,1.99
+06.11.,2022,AS Roma,Lazio,0,1,2.13,3.27,3.61
+06.11.,2022,Bologna,Torino,2,1,3.03,3.08,2.50
+06.11.,2022,Juventus,Inter,2,0,3.06,3.26,2.38
+06.11.,2022,Monza,Verona,2,0,2.16,3.42,3.35
+06.11.,2022,Sampdoria,Fiorentina,0,2,4.31,3.46,1.88
+05.11.,2022,AC Milan,Spezia,2,1,1.21,6.58,13.31
+05.11.,2022,Atalanta,Napoli,1,2,3.23,3.54,2.18
+05.11.,2022,Empoli,Sassuolo,1,0,3.16,3.52,2.20
+05.11.,2022,Salernitana,Cremonese,2,2,2.20,3.38,3.30
+04.11.,2022,Udinese,Lecce,1,1,1.64,3.76,5.62
+31.10.,2022,Monza,Bologna,1,2,2.35,3.17,3.22
+31.10.,2022,Verona,AS Roma,1,3,4.30,3.53,1.86
+30.10.,2022,Cremonese,Udinese,0,0,3.81,3.70,1.92
+30.10.,2022,Empoli,Atalanta,0,2,4.59,3.86,1.74
+30.10.,2022,Lazio,Salernitana,1,3,1.49,4.35,6.55
+30.10.,2022,Spezia,Fiorentina,1,2,4.08,3.54,1.91
+30.10.,2022,Torino,AC Milan,2,1,3.82,3.28,2.06
+29.10.,2022,Inter,Sampdoria,3,0,1.20,6.82,13.95
+29.10.,2022,Lecce,Juventus,0,1,3.78,3.16,2.12
+29.10.,2022,Napoli,Sassuolo,4,0,1.26,6.24,9.84
+24.10.,2022,Cremonese,Sampdoria,0,1,2.20,3.28,3.40
+24.10.,2022,Sassuolo,Verona,2,1,2.21,3.54,3.16
+23.10.,2022,AS Roma,Napoli,0,1,3.13,3.42,2.27
+23.10.,2022,Atalanta,Lazio,0,2,2.04,3.53,3.58
+23.10.,2022,Bologna,Lecce,2,0,2.18,3.13,3.67
+23.10.,2022,Udinese,Torino,1,2,1.97,3.34,4.11
+22.10.,2022,AC Milan,Monza,4,1,1.46,4.45,7.01
+22.10.,2022,Fiorentina,Inter,3,4,3.31,3.39,2.20
+22.10.,2022,Salernitana,Spezia,1,0,2.14,3.34,3.53
+21.10.,2022,Juventus,Empoli,4,0,1.36,4.99,8.35
+17.10.,2022,Lecce,Fiorentina,1,1,3.73,3.25,2.09
+17.10.,2022,Sampdoria,AS Roma,0,1,5.31,3.76,1.67
+16.10.,2022,Inter,Salernitana,2,0,1.28,5.99,9.65
+16.10.,2022,Lazio,Udinese,0,0,2.30,3.57,2.98
+16.10.,2022,Napoli,Bologna,3,2,1.24,5.98,11.91
+16.10.,2022,Spezia,Cremonese,2,2,2.45,3.17,3.03
+16.10.,2022,Verona,AC Milan,1,2,6.35,4.25,1.51
+15.10.,2022,Atalanta,Sassuolo,2,1,1.63,4.02,5.24
+15.10.,2022,Empoli,Monza,1,0,2.73,3.25,2.65
+15.10.,2022,Torino,Juventus,0,1,3.03,2.96,2.61
+10.10.,2022,Fiorentina,Lazio,0,4,2.34,3.45,2.99
+09.10.,2022,AS Roma,Lecce,2,1,1.46,4.33,7.14
+09.10.,2022,Cremonese,Napoli,1,4,6.69,4.65,1.45
+09.10.,2022,Monza,Spezia,2,0,1.96,3.51,3.89
+09.10.,2022,Salernitana,Verona,2,1,2.50,3.29,2.86
+09.10.,2022,Torino,Empoli,1,1,1.66,3.90,5.17
+09.10.,2022,Udinese,Atalanta,2,2,2.42,3.41,2.90
+08.10.,2022,AC Milan,Juventus,2,0,2.14,3.24,3.65
+08.10.,2022,Bologna,Sampdoria,1,1,2.08,3.28,3.75
+08.10.,2022,Sassuolo,Inter,1,2,4.28,3.98,1.77
+03.10.,2022,Verona,Udinese,1,2,3.42,3.44,2.13
+02.10.,2022,Atalanta,Fiorentina,1,0,2.08,3.42,3.58
+02.10.,2022,Juventus,Bologna,3,0,1.51,4.14,6.65
+02.10.,2022,Lazio,Spezia,4,0,1.41,4.90,7.16
+02.10.,2022,Lecce,Cremonese,1,1,2.05,3.40,3.71
+02.10.,2022,Sampdoria,Monza,0,3,2.47,3.19,2.99
+02.10.,2022,Sassuolo,Salernitana,5,0,2.08,3.56,3.45
+01.10.,2022,Empoli,AC Milan,1,3,5.66,4.16,1.57
+01.10.,2022,Inter,AS Roma,1,2,2.07,3.44,3.62
+01.10.,2022,Napoli,Torino,3,1,1.62,3.81,5.75
+18.09.,2022,AC Milan,Napoli,1,2,2.30,3.19,3.28
+18.09.,2022,AS Roma,Atalanta,0,1,2.12,3.41,3.52
+18.09.,2022,Cremonese,Lazio,0,4,4.02,3.71,1.88
+18.09.,2022,Fiorentina,Verona,2,0,1.83,3.65,4.36
+18.09.,2022,Monza,Juventus,1,0,4.22,3.63,1.85
+18.09.,2022,Udinese,Inter,3,1,3.68,3.60,1.99
+17.09.,2022,Bologna,Empoli,0,1,2.13,3.44,3.43
+17.09.,2022,Spezia,Sampdoria,2,1,2.60,3.16,2.85
+17.09.,2022,Torino,Sassuolo,0,1,1.82,3.53,4.51
+16.09.,2022,Salernitana,Lecce,1,2,2.24,3.26,3.37
+12.09.,2022,Empoli,AS Roma,1,2,4.98,3.80,1.71
+11.09.,2022,Atalanta,Cremonese,1,1,1.37,5.06,8.15
+11.09.,2022,Bologna,Fiorentina,2,1,3.33,3.34,2.22
+11.09.,2022,Juventus,Salernitana,2,2,1.53,4.09,6.64
+11.09.,2022,Lazio,Verona,2,0,1.62,4.18,5.16
+11.09.,2022,Lecce,Monza,1,1,2.45,3.21,3.03
+11.09.,2022,Sassuolo,Udinese,1,3,2.67,3.42,2.63
+10.09.,2022,Inter,Torino,1,0,1.55,4.32,5.81
+10.09.,2022,Napoli,Spezia,1,0,1.28,5.91,9.90
+10.09.,2022,Sampdoria,AC Milan,1,2,6.76,4.33,1.49
+05.09.,2022,Monza,Atalanta,0,2,4.25,3.81,1.81
+05.09.,2022,Salernitana,Empoli,2,2,2.34,3.32,3.10
+05.09.,2022,Torino,Lecce,1,0,1.70,3.64,5.41
+04.09.,2022,Cremonese,Sassuolo,0,0,2.70,3.48,2.56
+04.09.,2022,Spezia,Bologna,2,2,3.14,3.23,2.38
+04.09.,2022,Udinese,AS Roma,4,0,3.84,3.40,2.03
+04.09.,2022,Verona,Sampdoria,2,1,2.24,3.32,3.34
+03.09.,2022,AC Milan,Inter,3,2,2.70,3.21,2.73
+03.09.,2022,Fiorentina,Juventus,1,1,3.02,3.09,2.54
+03.09.,2022,Lazio,Napoli,1,2,2.76,3.45,2.52
+01.09.,2022,Atalanta,Torino,3,1,1.87,3.65,4.19
+01.09.,2022,Bologna,Salernitana,1,1,2.10,3.38,3.58
+31.08.,2022,Empoli,Verona,1,1,2.71,3.26,2.68
+31.08.,2022,Juventus,Spezia,2,0,1.29,5.53,10.87
+31.08.,2022,Napoli,Lecce,1,1,1.28,5.87,10.69
+31.08.,2022,Sampdoria,Lazio,1,1,4.11,3.65,1.88
+31.08.,2022,Udinese,Fiorentina,1,0,2.33,3.39,3.06
+30.08.,2022,AS Roma,Monza,3,0,1.33,5.41,9.07
+30.08.,2022,Inter,Cremonese,3,1,1.15,8.13,16.80
+30.08.,2022,Sassuolo,AC Milan,0,0,5.06,4.17,1.63
+28.08.,2022,Fiorentina,Napoli,0,0,3.29,3.52,2.16
+28.08.,2022,Lecce,Empoli,1,1,2.27,3.35,3.18
+28.08.,2022,Salernitana,Sampdoria,4,0,2.43,3.18,3.08
+28.08.,2022,Verona,Atalanta,0,1,3.85,3.87,1.88
+27.08.,2022,AC Milan,Bologna,2,0,1.33,5.38,8.88
+27.08.,2022,Cremonese,Torino,1,2,3.63,3.37,2.10
+27.08.,2022,Juventus,AS Roma,1,1,2.46,3.10,3.11
+27.08.,2022,Spezia,Sassuolo,2,2,3.14,3.53,2.23
+26.08.,2022,Lazio,Inter,3,1,3.95,3.70,1.89
+26.08.,2022,Monza,Udinese,1,2,3.05,3.47,2.31
+22.08.,2022,AS Roma,Cremonese,1,0,1.23,6.49,12.02
+22.08.,2022,Sampdoria,Juventus,0,0,5.41,3.85,1.66
+21.08.,2022,Atalanta,AC Milan,1,1,2.87,3.49,2.41
+21.08.,2022,Bologna,Verona,1,1,2.07,3.47,3.58
+21.08.,2022,Empoli,Fiorentina,0,0,3.19,3.59,2.19
+21.08.,2022,Napoli,Monza,4,0,1.29,6.02,9.54
+20.08.,2022,Inter,Spezia,3,0,1.12,9.23,19.60
+20.08.,2022,Sassuolo,Lecce,1,0,1.81,4.07,3.97
+20.08.,2022,Torino,Lazio,0,0,2.87,3.34,2.49
+20.08.,2022,Udinese,Salernitana,0,0,1.66,4.05,4.95
+15.08.,2022,Juventus,Sassuolo,3,0,1.47,4.75,6.32
+15.08.,2022,Verona,Napoli,2,5,3.69,3.60,1.99
+14.08.,2022,Fiorentina,Cremonese,3,2,1.58,4.19,5.59
+14.08.,2022,Lazio,Bologna,2,1,1.69,4.01,4.75
+14.08.,2022,Salernitana,AS Roma,0,1,6.72,4.59,1.46
+14.08.,2022,Spezia,Empoli,1,0,2.42,3.41,2.90
+13.08.,2022,AC Milan,Udinese,4,2,1.46,4.55,6.69
+13.08.,2022,Lecce,Inter,1,2,8.55,5.38,1.34
+13.08.,2022,Monza,Torino,1,2,2.55,3.19,2.89
+13.08.,2022,Sampdoria,Atalanta,0,2,5.29,4.02,1.63

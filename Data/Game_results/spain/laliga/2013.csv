@@ -1,381 +1,381 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-18.05.2014,2013,Almeria,Ath Bilbao,0,0
-18.05.2014,2013,Osasuna,Betis,2,1
-18.05.2014,2013,Rayo Vallecano,Getafe,1,2
-18.05.2014,2013,Real Sociedad,Villarreal,1,2
-18.05.2014,2013,Sevilla,Elche,3,1
-18.05.2014,2013,Valladolid,Granada CF,0,1
-17.05.2014,2013,Barcelona,Atl. Madrid,1,1
-17.05.2014,2013,Real Madrid,Espanyol,3,1
-17.05.2014,2013,Valencia,Celta Vigo,2,1
-16.05.2014,2013,Malaga,Levante,1,0
-11.05.2014,2013,Ath Bilbao,Real Sociedad,1,1
-11.05.2014,2013,Atl. Madrid,Malaga,1,1
-11.05.2014,2013,Betis,Valladolid,4,3
-11.05.2014,2013,Celta Vigo,Real Madrid,2,0
-11.05.2014,2013,Elche,Barcelona,0,0
-11.05.2014,2013,Espanyol,Osasuna,1,1
-11.05.2014,2013,Getafe,Sevilla,1,0
-11.05.2014,2013,Granada CF,Almeria,0,2
-10.05.2014,2013,Levante,Valencia,2,0
-10.05.2014,2013,Villarreal,Rayo Vallecano,4,0
-07.05.2014,2013,Valladolid,Real Madrid,1,1
-05.05.2014,2013,Real Sociedad,Granada CF,1,1
-04.05.2014,2013,Almeria,Betis,3,2
-04.05.2014,2013,Levante,Atl. Madrid,2,0
-04.05.2014,2013,Real Madrid,Valencia,2,2
-04.05.2014,2013,Sevilla,Villarreal,0,0
-03.05.2014,2013,Barcelona,Getafe,2,2
-03.05.2014,2013,Malaga,Elche,0,1
-03.05.2014,2013,Osasuna,Celta Vigo,0,2
-03.05.2014,2013,Valladolid,Espanyol,1,0
-02.05.2014,2013,Rayo Vallecano,Ath Bilbao,0,3
-28.04.2014,2013,Celta Vigo,Valladolid,4,1
-27.04.2014,2013,Ath Bilbao,Sevilla,3,1
-27.04.2014,2013,Espanyol,Almeria,1,2
-27.04.2014,2013,Valencia,Atl. Madrid,0,1
-27.04.2014,2013,Villarreal,Barcelona,2,3
-26.04.2014,2013,Betis,Real Sociedad,0,1
-26.04.2014,2013,Getafe,Malaga,1,0
-26.04.2014,2013,Granada CF,Rayo Vallecano,0,3
-26.04.2014,2013,Real Madrid,Osasuna,4,0
-25.04.2014,2013,Elche,Levante,1,1
-21.04.2014,2013,Malaga,Villarreal,2,0
-20.04.2014,2013,Almeria,Celta Vigo,2,4
-20.04.2014,2013,Barcelona,Ath Bilbao,2,1
-20.04.2014,2013,Rayo Vallecano,Betis,3,1
-20.04.2014,2013,Sevilla,Granada CF,4,0
-19.04.2014,2013,Levante,Getafe,0,0
-19.04.2014,2013,Osasuna,Valencia,1,1
-19.04.2014,2013,Real Sociedad,Espanyol,2,1
-18.04.2014,2013,Atl. Madrid,Elche,2,0
-14.04.2014,2013,Ath Bilbao,Malaga,3,0
-13.04.2014,2013,Betis,Sevilla,0,2
-13.04.2014,2013,Espanyol,Rayo Vallecano,2,2
-13.04.2014,2013,Getafe,Atl. Madrid,0,2
-13.04.2014,2013,Valencia,Elche,2,1
-12.04.2014,2013,Celta Vigo,Real Sociedad,2,2
-12.04.2014,2013,Granada CF,Barcelona,1,0
-12.04.2014,2013,Real Madrid,Almeria,4,0
-12.04.2014,2013,Villarreal,Levante,1,0
-11.04.2014,2013,Osasuna,Valladolid,0,0
-07.04.2014,2013,Levante,Ath Bilbao,1,2
-06.04.2014,2013,Elche,Getafe,1,0
-06.04.2014,2013,Malaga,Granada CF,4,1
-06.04.2014,2013,Sevilla,Espanyol,4,1
-06.04.2014,2013,Valladolid,Valencia,0,0
-05.04.2014,2013,Atl. Madrid,Villarreal,1,0
-05.04.2014,2013,Barcelona,Betis,3,1
-05.04.2014,2013,Rayo Vallecano,Celta Vigo,3,0
-05.04.2014,2013,Real Sociedad,Real Madrid,0,4
-04.04.2014,2013,Almeria,Osasuna,1,2
-31.03.2014,2013,Betis,Malaga,1,2
-31.03.2014,2013,Granada CF,Levante,0,2
-30.03.2014,2013,Osasuna,Real Sociedad,1,1
-30.03.2014,2013,Valencia,Getafe,1,3
-30.03.2014,2013,Valladolid,Almeria,1,0
-30.03.2014,2013,Villarreal,Elche,1,1
-29.03.2014,2013,Ath Bilbao,Atl. Madrid,1,2
-29.03.2014,2013,Celta Vigo,Sevilla,1,0
-29.03.2014,2013,Espanyol,Barcelona,0,1
-29.03.2014,2013,Real Madrid,Rayo Vallecano,5,0
-27.03.2014,2013,Almeria,Valencia,2,2
-27.03.2014,2013,Getafe,Villarreal,0,1
-27.03.2014,2013,Levante,Betis,1,3
-27.03.2014,2013,Real Sociedad,Valladolid,1,0
-26.03.2014,2013,Atl. Madrid,Granada CF,1,0
-26.03.2014,2013,Barcelona,Celta Vigo,3,0
-26.03.2014,2013,Rayo Vallecano,Osasuna,1,0
-26.03.2014,2013,Sevilla,Real Madrid,2,1
-25.03.2014,2013,Elche,Ath Bilbao,0,0
-25.03.2014,2013,Malaga,Espanyol,1,2
-24.03.2014,2013,Almeria,Real Sociedad,4,3
-23.03.2014,2013,Betis,Atl. Madrid,0,2
-23.03.2014,2013,Osasuna,Sevilla,1,2
-23.03.2014,2013,Real Madrid,Barcelona,3,4
-23.03.2014,2013,Valencia,Villarreal,2,1
-22.03.2014,2013,Ath Bilbao,Getafe,1,0
-22.03.2014,2013,Espanyol,Levante,0,0
-22.03.2014,2013,Granada CF,Elche,1,0
-22.03.2014,2013,Valladolid,Rayo Vallecano,1,1
-21.03.2014,2013,Celta Vigo,Malaga,0,2
-17.03.2014,2013,Villarreal,Ath Bilbao,1,1
-16.03.2014,2013,Barcelona,Osasuna,7,0
-16.03.2014,2013,Elche,Betis,0,0
-16.03.2014,2013,Real Sociedad,Valencia,1,0
-16.03.2014,2013,Sevilla,Valladolid,4,1
-15.03.2014,2013,Atl. Madrid,Espanyol,1,0
-15.03.2014,2013,Levante,Celta Vigo,0,1
-15.03.2014,2013,Malaga,Real Madrid,0,1
-15.03.2014,2013,Rayo Vallecano,Almeria,3,1
-14.03.2014,2013,Getafe,Granada CF,3,3
-10.03.2014,2013,Osasuna,Malaga,0,2
-10.03.2014,2013,Real Sociedad,Rayo Vallecano,2,3
-09.03.2014,2013,Almeria,Sevilla,1,3
-09.03.2014,2013,Espanyol,Elche,3,1
-09.03.2014,2013,Real Madrid,Levante,3,0
-09.03.2014,2013,Valencia,Ath Bilbao,1,1
-08.03.2014,2013,Betis,Getafe,2,0
-08.03.2014,2013,Celta Vigo,Atl. Madrid,0,2
-08.03.2014,2013,Granada CF,Villarreal,2,0
-08.03.2014,2013,Valladolid,Barcelona,1,0
-02.03.2014,2013,Atl. Madrid,Real Madrid,2,2
-02.03.2014,2013,Barcelona,Almeria,4,1
-02.03.2014,2013,Rayo Vallecano,Valencia,1,0
-02.03.2014,2013,Sevilla,Real Sociedad,1,0
-02.03.2014,2013,Villarreal,Betis,1,1
-01.03.2014,2013,Elche,Celta Vigo,1,0
-01.03.2014,2013,Getafe,Espanyol,0,0
-01.03.2014,2013,Levante,Osasuna,2,0
-01.03.2014,2013,Malaga,Valladolid,1,1
-28.02.2014,2013,Ath Bilbao,Granada CF,4,0
-24.02.2014,2013,Espanyol,Villarreal,1,2
-23.02.2014,2013,Betis,Ath Bilbao,0,2
-23.02.2014,2013,Osasuna,Atl. Madrid,3,0
-23.02.2014,2013,Rayo Vallecano,Sevilla,0,1
-23.02.2014,2013,Valencia,Granada CF,2,1
-22.02.2014,2013,Almeria,Malaga,0,0
-22.02.2014,2013,Celta Vigo,Getafe,1,1
-22.02.2014,2013,Real Madrid,Elche,3,0
-22.02.2014,2013,Real Sociedad,Barcelona,3,1
-21.02.2014,2013,Valladolid,Levante,1,1
-17.02.2014,2013,Malaga,Real Sociedad,0,1
-16.02.2014,2013,Ath Bilbao,Espanyol,1,2
-16.02.2014,2013,Getafe,Real Madrid,0,3
-16.02.2014,2013,Granada CF,Betis,1,0
-16.02.2014,2013,Sevilla,Valencia,0,0
-15.02.2014,2013,Atl. Madrid,Valladolid,3,0
-15.02.2014,2013,Barcelona,Rayo Vallecano,6,0
-15.02.2014,2013,Levante,Almeria,1,0
-15.02.2014,2013,Villarreal,Celta Vigo,0,2
-14.02.2014,2013,Elche,Osasuna,0,0
-10.02.2014,2013,Celta Vigo,Ath Bilbao,0,0
-09.02.2014,2013,Osasuna,Getafe,2,0
-09.02.2014,2013,Real Sociedad,Levante,0,0
-09.02.2014,2013,Sevilla,Barcelona,1,4
-09.02.2014,2013,Valladolid,Elche,2,2
-08.02.2014,2013,Almeria,Atl. Madrid,2,0
-08.02.2014,2013,Rayo Vallecano,Malaga,4,1
-08.02.2014,2013,Real Madrid,Villarreal,4,2
-08.02.2014,2013,Valencia,Betis,5,0
-07.02.2014,2013,Espanyol,Granada CF,1,0
-03.02.2014,2013,Villarreal,Osasuna,3,1
-02.02.2014,2013,Ath Bilbao,Real Madrid,1,1
-02.02.2014,2013,Atl. Madrid,Real Sociedad,4,0
-02.02.2014,2013,Betis,Espanyol,2,0
-02.02.2014,2013,Elche,Almeria,1,0
-01.02.2014,2013,Barcelona,Valencia,2,3
-01.02.2014,2013,Getafe,Valladolid,0,0
-01.02.2014,2013,Levante,Rayo Vallecano,0,0
-01.02.2014,2013,Malaga,Sevilla,3,2
-31.01.2014,2013,Granada CF,Celta Vigo,1,2
-27.01.2014,2013,Real Sociedad,Elche,4,0
-26.01.2014,2013,Almeria,Getafe,1,0
-26.01.2014,2013,Barcelona,Malaga,3,0
-26.01.2014,2013,Osasuna,Ath Bilbao,1,5
-26.01.2014,2013,Rayo Vallecano,Atl. Madrid,2,4
-25.01.2014,2013,Real Madrid,Granada CF,2,0
-25.01.2014,2013,Sevilla,Levante,2,3
-25.01.2014,2013,Valencia,Espanyol,2,2
-25.01.2014,2013,Valladolid,Villarreal,1,0
-24.01.2014,2013,Celta Vigo,Betis,4,2
-20.01.2014,2013,Ath Bilbao,Valladolid,4,2
-19.01.2014,2013,Atl. Madrid,Sevilla,1,1
-19.01.2014,2013,Getafe,Real Sociedad,2,2
-19.01.2014,2013,Levante,Barcelona,1,1
-19.01.2014,2013,Villarreal,Almeria,2,0
-18.01.2014,2013,Betis,Real Madrid,0,5
-18.01.2014,2013,Elche,Rayo Vallecano,2,0
-18.01.2014,2013,Espanyol,Celta Vigo,1,0
-18.01.2014,2013,Granada CF,Osasuna,0,0
-17.01.2014,2013,Malaga,Valencia,0,0
-13.01.2014,2013,Villarreal,Real Sociedad,5,1
-12.01.2014,2013,Betis,Osasuna,1,2
-12.01.2014,2013,Espanyol,Real Madrid,0,1
-12.01.2014,2013,Getafe,Rayo Vallecano,0,1
-12.01.2014,2013,Levante,Malaga,1,0
-11.01.2014,2013,Ath Bilbao,Almeria,6,1
-11.01.2014,2013,Atl. Madrid,Barcelona,0,0
-11.01.2014,2013,Celta Vigo,Valencia,2,1
-11.01.2014,2013,Elche,Sevilla,1,1
-10.01.2014,2013,Granada CF,Valladolid,4,0
-06.01.2014,2013,Rayo Vallecano,Villarreal,2,5
-06.01.2014,2013,Real Madrid,Celta Vigo,3,0
-05.01.2014,2013,Barcelona,Elche,4,0
-05.01.2014,2013,Osasuna,Espanyol,1,0
-05.01.2014,2013,Real Sociedad,Ath Bilbao,2,0
-05.01.2014,2013,Sevilla,Getafe,3,0
-04.01.2014,2013,Almeria,Granada CF,3,0
-04.01.2014,2013,Malaga,Atl. Madrid,0,1
-04.01.2014,2013,Valencia,Levante,2,0
-04.01.2014,2013,Valladolid,Betis,0,0
-22.12.2013,2013,Ath Bilbao,Rayo Vallecano,2,1
-22.12.2013,2013,Celta Vigo,Osasuna,1,1
-22.12.2013,2013,Espanyol,Valladolid,4,2
-22.12.2013,2013,Getafe,Barcelona,2,5
-22.12.2013,2013,Valencia,Real Madrid,2,3
-21.12.2013,2013,Atl. Madrid,Levante,3,2
-21.12.2013,2013,Betis,Almeria,0,1
-21.12.2013,2013,Granada CF,Real Sociedad,1,3
-21.12.2013,2013,Villarreal,Sevilla,1,2
-20.12.2013,2013,Elche,Malaga,0,1
-16.12.2013,2013,Valladolid,Celta Vigo,3,0
-15.12.2013,2013,Almeria,Espanyol,0,0
-15.12.2013,2013,Atl. Madrid,Valencia,3,0
-15.12.2013,2013,Real Sociedad,Betis,5,1
-15.12.2013,2013,Sevilla,Ath Bilbao,1,1
-14.12.2013,2013,Barcelona,Villarreal,2,1
-14.12.2013,2013,Malaga,Getafe,1,0
-14.12.2013,2013,Osasuna,Real Madrid,2,2
-14.12.2013,2013,Rayo Vallecano,Granada CF,0,2
-13.12.2013,2013,Levante,Elche,2,1
-01.12.2013,2013,Ath Bilbao,Barcelona,1,0
-01.12.2013,2013,Betis,Rayo Vallecano,2,2
-01.12.2013,2013,Granada CF,Sevilla,1,2
-01.12.2013,2013,Valencia,Osasuna,3,0
-30.11.2013,2013,Celta Vigo,Almeria,3,1
-30.11.2013,2013,Elche,Atl. Madrid,0,2
-30.11.2013,2013,Espanyol,Real Sociedad,1,2
-30.11.2013,2013,Real Madrid,Valladolid,4,0
-29.11.2013,2013,Getafe,Levante,1,0
-29.11.2013,2013,Villarreal,Malaga,1,1
-25.11.2013,2013,Malaga,Ath Bilbao,1,2
-24.11.2013,2013,Elche,Valencia,2,1
-24.11.2013,2013,Levante,Villarreal,0,3
-24.11.2013,2013,Rayo Vallecano,Espanyol,1,4
-24.11.2013,2013,Sevilla,Betis,4,0
-23.11.2013,2013,Almeria,Real Madrid,0,5
-23.11.2013,2013,Atl. Madrid,Getafe,7,0
-23.11.2013,2013,Barcelona,Granada CF,4,0
-23.11.2013,2013,Real Sociedad,Celta Vigo,4,3
-22.11.2013,2013,Valladolid,Osasuna,0,1
-10.11.2013,2013,Betis,Barcelona,1,4
-10.11.2013,2013,Espanyol,Sevilla,1,3
-10.11.2013,2013,Valencia,Valladolid,2,2
-10.11.2013,2013,Villarreal,Atl. Madrid,1,1
-09.11.2013,2013,Ath Bilbao,Levante,2,1
-09.11.2013,2013,Celta Vigo,Rayo Vallecano,0,2
-09.11.2013,2013,Getafe,Elche,1,1
-09.11.2013,2013,Real Madrid,Real Sociedad,5,1
-08.11.2013,2013,Granada CF,Malaga,3,1
-08.11.2013,2013,Osasuna,Almeria,0,1
-04.11.2013,2013,Elche,Villarreal,0,1
-03.11.2013,2013,Atl. Madrid,Ath Bilbao,2,0
-03.11.2013,2013,Getafe,Valencia,0,1
-03.11.2013,2013,Levante,Granada CF,0,1
-03.11.2013,2013,Malaga,Betis,3,2
-02.11.2013,2013,Almeria,Valladolid,1,0
-02.11.2013,2013,Rayo Vallecano,Real Madrid,2,3
-02.11.2013,2013,Real Sociedad,Osasuna,5,0
-02.11.2013,2013,Sevilla,Celta Vigo,0,1
-01.11.2013,2013,Barcelona,Espanyol,1,0
-31.10.2013,2013,Ath Bilbao,Elche,2,2
-31.10.2013,2013,Betis,Levante,0,0
-31.10.2013,2013,Granada CF,Atl. Madrid,1,2
-31.10.2013,2013,Villarreal,Getafe,0,2
-30.10.2013,2013,Osasuna,Rayo Vallecano,3,1
-30.10.2013,2013,Real Madrid,Sevilla,7,3
-30.10.2013,2013,Valencia,Almeria,1,2
-30.10.2013,2013,Valladolid,Real Sociedad,2,2
-29.10.2013,2013,Celta Vigo,Barcelona,0,3
-29.10.2013,2013,Espanyol,Malaga,0,0
-28.10.2013,2013,Getafe,Ath Bilbao,0,1
-27.10.2013,2013,Atl. Madrid,Betis,5,0
-27.10.2013,2013,Real Sociedad,Almeria,3,0
-27.10.2013,2013,Sevilla,Osasuna,2,1
-27.10.2013,2013,Villarreal,Valencia,4,1
-26.10.2013,2013,Barcelona,Real Madrid,2,1
-26.10.2013,2013,Elche,Granada CF,0,1
-26.10.2013,2013,Levante,Espanyol,3,0
-26.10.2013,2013,Malaga,Celta Vigo,0,5
-25.10.2013,2013,Rayo Vallecano,Valladolid,0,3
-21.10.2013,2013,Ath Bilbao,Villarreal,2,0
-21.10.2013,2013,Celta Vigo,Levante,0,1
-20.10.2013,2013,Almeria,Rayo Vallecano,0,1
-20.10.2013,2013,Betis,Elche,1,2
-20.10.2013,2013,Granada CF,Getafe,0,2
-20.10.2013,2013,Valladolid,Sevilla,2,2
-19.10.2013,2013,Espanyol,Atl. Madrid,1,0
-19.10.2013,2013,Osasuna,Barcelona,0,0
-19.10.2013,2013,Real Madrid,Malaga,2,0
-19.10.2013,2013,Valencia,Real Sociedad,1,2
-06.10.2013,2013,Ath Bilbao,Valencia,1,1
-06.10.2013,2013,Atl. Madrid,Celta Vigo,2,1
-06.10.2013,2013,Getafe,Betis,3,1
-06.10.2013,2013,Sevilla,Almeria,2,1
-05.10.2013,2013,Barcelona,Valladolid,4,1
-05.10.2013,2013,Elche,Espanyol,2,1
-05.10.2013,2013,Levante,Real Madrid,2,3
-05.10.2013,2013,Rayo Vallecano,Real Sociedad,1,0
-04.10.2013,2013,Malaga,Osasuna,0,1
-04.10.2013,2013,Villarreal,Granada CF,3,0
-30.09.2013,2013,Granada CF,Ath Bilbao,2,0
-29.09.2013,2013,Betis,Villarreal,1,0
-29.09.2013,2013,Celta Vigo,Elche,0,1
-29.09.2013,2013,Espanyol,Getafe,0,2
-29.09.2013,2013,Osasuna,Levante,0,1
-28.09.2013,2013,Almeria,Barcelona,0,2
-28.09.2013,2013,Real Madrid,Atl. Madrid,0,1
-28.09.2013,2013,Real Sociedad,Sevilla,1,1
-28.09.2013,2013,Valencia,Rayo Vallecano,1,0
-27.09.2013,2013,Valladolid,Malaga,2,2
-26.09.2013,2013,Ath Bilbao,Betis,2,1
-26.09.2013,2013,Getafe,Celta Vigo,2,0
-26.09.2013,2013,Villarreal,Espanyol,2,1
-25.09.2013,2013,Elche,Real Madrid,1,2
-25.09.2013,2013,Granada CF,Valencia,0,1
-25.09.2013,2013,Sevilla,Rayo Vallecano,4,1
-24.09.2013,2013,Atl. Madrid,Osasuna,2,1
-24.09.2013,2013,Barcelona,Real Sociedad,4,1
-24.09.2013,2013,Levante,Valladolid,1,1
-24.09.2013,2013,Malaga,Almeria,2,0
-23.09.2013,2013,Espanyol,Ath Bilbao,3,2
-22.09.2013,2013,Betis,Granada CF,0,0
-22.09.2013,2013,Celta Vigo,Villarreal,0,0
-22.09.2013,2013,Real Madrid,Getafe,4,1
-22.09.2013,2013,Valencia,Sevilla,3,1
-21.09.2013,2013,Almeria,Levante,2,2
-21.09.2013,2013,Rayo Vallecano,Barcelona,0,4
-21.09.2013,2013,Real Sociedad,Malaga,0,0
-21.09.2013,2013,Valladolid,Atl. Madrid,0,2
-20.09.2013,2013,Osasuna,Elche,2,1
-16.09.2013,2013,Ath Bilbao,Celta Vigo,3,2
-16.09.2013,2013,Elche,Valladolid,0,0
-15.09.2013,2013,Betis,Valencia,3,1
-15.09.2013,2013,Getafe,Osasuna,2,1
-15.09.2013,2013,Granada CF,Espanyol,0,1
-15.09.2013,2013,Malaga,Rayo Vallecano,5,0
-14.09.2013,2013,Atl. Madrid,Almeria,4,2
-14.09.2013,2013,Barcelona,Sevilla,3,2
-14.09.2013,2013,Levante,Real Sociedad,0,0
-14.09.2013,2013,Villarreal,Real Madrid,2,2
-01.09.2013,2013,Espanyol,Betis,0,0
-01.09.2013,2013,Real Madrid,Ath Bilbao,3,1
-01.09.2013,2013,Real Sociedad,Atl. Madrid,1,2
-01.09.2013,2013,Sevilla,Malaga,2,2
-01.09.2013,2013,Valencia,Barcelona,2,3
-31.08.2013,2013,Celta Vigo,Granada CF,1,1
-31.08.2013,2013,Osasuna,Villarreal,0,3
-31.08.2013,2013,Valladolid,Getafe,1,0
-30.08.2013,2013,Almeria,Elche,2,2
-30.08.2013,2013,Rayo Vallecano,Levante,1,2
-26.08.2013,2013,Granada CF,Real Madrid,0,1
-25.08.2013,2013,Atl. Madrid,Rayo Vallecano,5,0
-25.08.2013,2013,Betis,Celta Vigo,1,2
-25.08.2013,2013,Levante,Sevilla,0,0
-25.08.2013,2013,Malaga,Barcelona,0,1
-24.08.2013,2013,Elche,Real Sociedad,1,1
-24.08.2013,2013,Espanyol,Valencia,3,1
-24.08.2013,2013,Villarreal,Valladolid,2,1
-23.08.2013,2013,Ath Bilbao,Osasuna,2,0
-23.08.2013,2013,Getafe,Almeria,2,2
-19.08.2013,2013,Almeria,Villarreal,2,3
-19.08.2013,2013,Celta Vigo,Espanyol,2,2
-19.08.2013,2013,Rayo Vallecano,Elche,3,0
-18.08.2013,2013,Barcelona,Levante,7,0
-18.08.2013,2013,Osasuna,Granada CF,1,2
-18.08.2013,2013,Real Madrid,Betis,2,1
-18.08.2013,2013,Sevilla,Atl. Madrid,1,3
-17.08.2013,2013,Real Sociedad,Getafe,2,0
-17.08.2013,2013,Valencia,Malaga,1,0
-17.08.2013,2013,Valladolid,Ath Bilbao,1,2
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+18.05.2014,2013,Almeria,Ath Bilbao,0,0,2.49,3.33,2.84
+18.05.2014,2013,Osasuna,Betis,2,1,1.37,5.09,7.52
+18.05.2014,2013,Rayo Vallecano,Getafe,1,2,3.17,3.17,2.36
+18.05.2014,2013,Real Sociedad,Villarreal,1,2,2.10,3.55,3.35
+18.05.2014,2013,Sevilla,Elche,3,1,1.93,3.46,4.07
+18.05.2014,2013,Valladolid,Granada CF,0,1,2.19,3.33,3.36
+17.05.2014,2013,Barcelona,Atl. Madrid,1,1,1.80,3.78,4.44
+17.05.2014,2013,Real Madrid,Espanyol,3,1,1.22,7.01,11.57
+17.05.2014,2013,Valencia,Celta Vigo,2,1,1.73,3.88,4.57
+16.05.2014,2013,Malaga,Levante,1,0,1.97,3.46,3.91
+11.05.2014,2013,Ath Bilbao,Real Sociedad,1,1,1.83,3.76,4.15
+11.05.2014,2013,Atl. Madrid,Malaga,1,1,1.20,6.45,15.06
+11.05.2014,2013,Betis,Valladolid,4,3,3.46,3.78,2.00
+11.05.2014,2013,Celta Vigo,Real Madrid,2,0,5.19,4.78,1.53
+11.05.2014,2013,Elche,Barcelona,0,0,12.15,6.72,1.22
+11.05.2014,2013,Espanyol,Osasuna,1,1,2.31,2.87,3.59
+11.05.2014,2013,Getafe,Sevilla,1,0,1.73,3.91,4.53
+11.05.2014,2013,Granada CF,Almeria,0,2,1.78,3.70,4.44
+10.05.2014,2013,Levante,Valencia,2,0,3.57,3.42,2.08
+10.05.2014,2013,Villarreal,Rayo Vallecano,4,0,1.62,4.22,4.96
+07.05.2014,2013,Valladolid,Real Madrid,1,1,10.94,6.75,1.23
+05.05.2014,2013,Real Sociedad,Granada CF,1,1,1.65,3.94,5.22
+04.05.2014,2013,Almeria,Betis,3,2,1.52,4.41,5.89
+04.05.2014,2013,Levante,Atl. Madrid,2,0,13.37,5.70,1.24
+04.05.2014,2013,Real Madrid,Valencia,2,2,1.12,9.37,18.50
+04.05.2014,2013,Sevilla,Villarreal,0,0,1.94,3.66,3.83
+03.05.2014,2013,Barcelona,Getafe,2,2,1.05,14.97,32.09
+03.05.2014,2013,Malaga,Elche,0,1,2.07,3.30,3.72
+03.05.2014,2013,Osasuna,Celta Vigo,0,2,1.97,3.56,3.73
+03.05.2014,2013,Valladolid,Espanyol,1,0,1.99,3.43,3.89
+02.05.2014,2013,Rayo Vallecano,Ath Bilbao,0,3,3.57,3.68,1.99
+28.04.2014,2013,Celta Vigo,Valladolid,4,1,1.81,3.59,4.50
+27.04.2014,2013,Ath Bilbao,Sevilla,3,1,1.83,3.64,4.34
+27.04.2014,2013,Espanyol,Almeria,1,2,1.64,3.89,5.38
+27.04.2014,2013,Valencia,Atl. Madrid,0,1,5.45,3.80,1.65
+27.04.2014,2013,Villarreal,Barcelona,2,3,6.60,4.72,1.44
+26.04.2014,2013,Betis,Real Sociedad,0,1,3.80,3.64,1.93
+26.04.2014,2013,Getafe,Malaga,1,0,2.14,3.29,3.53
+26.04.2014,2013,Granada CF,Rayo Vallecano,0,3,2.31,3.33,3.11
+26.04.2014,2013,Real Madrid,Osasuna,4,0,1.07,12.71,25.26
+25.04.2014,2013,Elche,Levante,1,1,1.66,3.62,5.70
+21.04.2014,2013,Malaga,Villarreal,2,0,2.72,3.24,2.64
+20.04.2014,2013,Almeria,Celta Vigo,2,4,2.70,3.24,2.66
+20.04.2014,2013,Barcelona,Ath Bilbao,2,1,1.30,6.06,8.61
+20.04.2014,2013,Rayo Vallecano,Betis,3,1,1.84,3.69,4.16
+20.04.2014,2013,Sevilla,Granada CF,4,0,1.36,4.90,8.79
+19.04.2014,2013,Levante,Getafe,0,0,2.47,3.14,3.00
+19.04.2014,2013,Osasuna,Valencia,1,1,2.52,3.34,2.76
+19.04.2014,2013,Real Sociedad,Espanyol,2,1,1.77,3.63,4.62
+18.04.2014,2013,Atl. Madrid,Elche,2,0,1.18,6.79,18.21
+14.04.2014,2013,Ath Bilbao,Malaga,3,0,1.39,4.68,8.11
+13.04.2014,2013,Betis,Sevilla,0,2,3.32,3.49,2.13
+13.04.2014,2013,Espanyol,Rayo Vallecano,2,2,1.79,3.63,4.50
+13.04.2014,2013,Getafe,Atl. Madrid,0,2,8.56,4.35,1.41
+13.04.2014,2013,Valencia,Elche,2,1,1.57,3.87,6.33
+12.04.2014,2013,Celta Vigo,Real Sociedad,2,2,2.38,3.32,2.99
+12.04.2014,2013,Granada CF,Barcelona,1,0,10.63,6.40,1.24
+12.04.2014,2013,Real Madrid,Almeria,4,0,1.05,14.54,30.76
+12.04.2014,2013,Villarreal,Levante,1,0,1.45,4.20,8.17
+11.04.2014,2013,Osasuna,Valladolid,0,0,2.07,3.32,3.69
+07.04.2014,2013,Levante,Ath Bilbao,1,2,4.51,3.45,1.82
+06.04.2014,2013,Elche,Getafe,1,0,2.17,3.15,3.63
+06.04.2014,2013,Malaga,Granada CF,4,1,2.03,3.28,3.85
+06.04.2014,2013,Sevilla,Espanyol,4,1,1.58,3.94,5.98
+06.04.2014,2013,Valladolid,Valencia,0,0,2.71,3.31,2.59
+05.04.2014,2013,Atl. Madrid,Villarreal,1,0,1.50,4.03,7.25
+05.04.2014,2013,Barcelona,Betis,3,1,1.05,13.78,28.83
+05.04.2014,2013,Rayo Vallecano,Celta Vigo,3,0,2.27,3.37,3.16
+05.04.2014,2013,Real Sociedad,Real Madrid,0,4,5.55,4.40,1.55
+04.04.2014,2013,Almeria,Osasuna,1,2,2.28,3.18,3.29
+31.03.2014,2013,Betis,Malaga,1,2,2.06,3.34,3.63
+31.03.2014,2013,Granada CF,Levante,0,2,1.81,3.38,4.75
+30.03.2014,2013,Osasuna,Real Sociedad,1,1,2.82,3.28,2.49
+30.03.2014,2013,Valencia,Getafe,1,3,1.38,4.58,8.58
+30.03.2014,2013,Valladolid,Almeria,1,0,1.92,3.33,4.21
+30.03.2014,2013,Villarreal,Elche,1,1,1.58,3.82,6.05
+29.03.2014,2013,Ath Bilbao,Atl. Madrid,1,2,3.19,3.23,2.32
+29.03.2014,2013,Celta Vigo,Sevilla,1,0,2.70,3.34,2.60
+29.03.2014,2013,Espanyol,Barcelona,0,1,8.39,5.17,1.35
+29.03.2014,2013,Real Madrid,Rayo Vallecano,5,0,1.06,14.23,29.90
+27.03.2014,2013,Almeria,Valencia,2,2,3.94,3.54,1.93
+27.03.2014,2013,Getafe,Villarreal,0,1,3.28,3.37,2.21
+27.03.2014,2013,Levante,Betis,1,3,2.59,3.26,2.76
+27.03.2014,2013,Real Sociedad,Valladolid,1,0,1.47,4.32,6.97
+26.03.2014,2013,Atl. Madrid,Granada CF,1,0,1.21,6.20,15.32
+26.03.2014,2013,Barcelona,Celta Vigo,3,0,1.05,14.51,34.54
+26.03.2014,2013,Rayo Vallecano,Osasuna,1,0,1.85,3.49,4.41
+26.03.2014,2013,Sevilla,Real Madrid,2,1,5.26,4.36,1.58
+25.03.2014,2013,Elche,Ath Bilbao,0,0,4.16,3.44,1.91
+25.03.2014,2013,Malaga,Espanyol,1,2,2.48,3.18,2.96
+24.03.2014,2013,Almeria,Real Sociedad,4,3,3.74,3.48,2.00
+23.03.2014,2013,Betis,Atl. Madrid,0,2,7.35,4.27,1.46
+23.03.2014,2013,Osasuna,Sevilla,1,2,3.01,3.31,2.37
+23.03.2014,2013,Real Madrid,Barcelona,3,4,2.07,3.70,3.37
+23.03.2014,2013,Valencia,Villarreal,2,1,2.10,3.39,3.52
+22.03.2014,2013,Ath Bilbao,Getafe,1,0,1.32,5.16,9.39
+22.03.2014,2013,Espanyol,Levante,0,0,1.57,3.75,6.75
+22.03.2014,2013,Granada CF,Elche,1,0,1.84,3.44,4.59
+22.03.2014,2013,Valladolid,Rayo Vallecano,1,1,2.37,3.33,3.00
+21.03.2014,2013,Celta Vigo,Malaga,0,2,2.02,3.32,3.88
+17.03.2014,2013,Villarreal,Ath Bilbao,1,1,2.13,3.35,3.47
+16.03.2014,2013,Barcelona,Osasuna,7,0,1.05,14.31,33.62
+16.03.2014,2013,Elche,Betis,0,0,2.48,3.23,2.91
+16.03.2014,2013,Real Sociedad,Valencia,1,0,2.09,3.42,3.49
+16.03.2014,2013,Sevilla,Valladolid,4,1,1.38,4.76,8.39
+15.03.2014,2013,Atl. Madrid,Espanyol,1,0,1.34,4.92,9.87
+15.03.2014,2013,Levante,Celta Vigo,0,1,2.49,3.16,2.96
+15.03.2014,2013,Malaga,Real Madrid,0,1,11.33,5.83,1.26
+15.03.2014,2013,Rayo Vallecano,Almeria,3,1,1.79,3.55,4.66
+14.03.2014,2013,Getafe,Granada CF,3,3,2.16,3.22,3.59
+10.03.2014,2013,Osasuna,Malaga,0,2,2.31,3.18,3.25
+10.03.2014,2013,Real Sociedad,Rayo Vallecano,2,3,1.44,4.57,7.02
+09.03.2014,2013,Almeria,Sevilla,1,3,3.61,3.41,2.07
+09.03.2014,2013,Espanyol,Elche,3,1,1.74,3.45,5.20
+09.03.2014,2013,Real Madrid,Levante,3,0,1.06,13.57,31.38
+09.03.2014,2013,Valencia,Ath Bilbao,1,1,2.19,3.42,3.26
+08.03.2014,2013,Betis,Getafe,2,0,1.83,3.49,4.51
+08.03.2014,2013,Celta Vigo,Atl. Madrid,0,2,4.24,3.44,1.88
+08.03.2014,2013,Granada CF,Villarreal,2,0,3.25,3.30,2.25
+08.03.2014,2013,Valladolid,Barcelona,1,0,13.47,6.60,1.21
+02.03.2014,2013,Atl. Madrid,Real Madrid,2,2,3.19,3.39,2.24
+02.03.2014,2013,Barcelona,Almeria,4,1,1.05,15.00,37.58
+02.03.2014,2013,Rayo Vallecano,Valencia,1,0,3.20,3.50,2.19
+02.03.2014,2013,Sevilla,Real Sociedad,1,0,1.90,3.66,3.90
+02.03.2014,2013,Villarreal,Betis,1,1,1.38,4.73,8.11
+01.03.2014,2013,Elche,Celta Vigo,1,0,2.48,3.17,2.97
+01.03.2014,2013,Getafe,Espanyol,0,0,2.62,3.18,2.78
+01.03.2014,2013,Levante,Osasuna,2,0,2.36,3.15,3.21
+01.03.2014,2013,Malaga,Valladolid,1,1,1.85,3.41,4.48
+28.02.2014,2013,Ath Bilbao,Granada CF,4,0,1.38,4.72,8.61
+24.02.2014,2013,Espanyol,Villarreal,1,2,2.45,3.20,3.01
+23.02.2014,2013,Betis,Ath Bilbao,0,2,3.30,3.39,2.18
+23.02.2014,2013,Osasuna,Atl. Madrid,3,0,6.81,3.95,1.53
+23.02.2014,2013,Rayo Vallecano,Sevilla,0,1,3.21,3.53,2.17
+23.02.2014,2013,Valencia,Granada CF,2,1,1.48,4.22,7.10
+22.02.2014,2013,Almeria,Malaga,0,0,2.62,3.18,2.78
+22.02.2014,2013,Celta Vigo,Getafe,1,1,1.73,3.62,4.97
+22.02.2014,2013,Real Madrid,Elche,3,0,1.08,11.45,27.17
+22.02.2014,2013,Real Sociedad,Barcelona,3,1,7.95,5.15,1.36
+21.02.2014,2013,Valladolid,Levante,1,1,2.13,3.20,3.68
+17.02.2014,2013,Malaga,Real Sociedad,0,1,2.49,3.41,2.80
+16.02.2014,2013,Ath Bilbao,Espanyol,1,2,1.64,3.79,5.49
+16.02.2014,2013,Getafe,Real Madrid,0,3,12.67,6.08,1.23
+16.02.2014,2013,Granada CF,Betis,1,0,2.26,3.26,3.28
+16.02.2014,2013,Sevilla,Valencia,0,0,2.01,3.58,3.55
+15.02.2014,2013,Atl. Madrid,Valladolid,3,0,1.19,6.61,16.78
+15.02.2014,2013,Barcelona,Rayo Vallecano,6,0,1.06,13.14,32.71
+15.02.2014,2013,Levante,Almeria,1,0,2.11,3.23,3.69
+15.02.2014,2013,Villarreal,Celta Vigo,0,2,1.63,3.86,5.53
+14.02.2014,2013,Elche,Osasuna,0,0,2.19,3.19,3.52
+10.02.2014,2013,Celta Vigo,Ath Bilbao,0,0,3.21,3.37,2.23
+09.02.2014,2013,Osasuna,Getafe,2,0,2.10,3.23,3.70
+09.02.2014,2013,Real Sociedad,Levante,0,0,1.49,4.19,6.81
+09.02.2014,2013,Sevilla,Barcelona,1,4,6.07,4.35,1.51
+09.02.2014,2013,Valladolid,Elche,2,2,2.15,3.14,3.68
+08.02.2014,2013,Almeria,Atl. Madrid,2,0,9.02,4.78,1.36
+08.02.2014,2013,Rayo Vallecano,Malaga,4,1,2.33,3.36,3.06
+08.02.2014,2013,Real Madrid,Villarreal,4,2,1.30,5.56,9.67
+08.02.2014,2013,Valencia,Betis,5,0,1.49,4.28,6.72
+07.02.2014,2013,Espanyol,Granada CF,1,0,1.80,3.45,4.79
+03.02.2014,2013,Villarreal,Osasuna,3,1,1.41,4.51,8.15
+02.02.2014,2013,Ath Bilbao,Real Madrid,1,1,5.16,4.20,1.60
+02.02.2014,2013,Atl. Madrid,Real Sociedad,4,0,1.31,5.14,9.88
+02.02.2014,2013,Betis,Espanyol,2,0,2.25,3.32,3.20
+02.02.2014,2013,Elche,Almeria,1,0,1.92,3.36,4.26
+01.02.2014,2013,Barcelona,Valencia,2,3,1.13,8.83,19.62
+01.02.2014,2013,Getafe,Valladolid,0,0,1.96,3.38,4.05
+01.02.2014,2013,Levante,Rayo Vallecano,0,0,2.27,3.35,3.19
+01.02.2014,2013,Malaga,Sevilla,3,2,2.98,3.35,2.37
+31.01.2014,2013,Granada CF,Celta Vigo,1,2,2.14,3.36,3.42
+27.01.2014,2013,Real Sociedad,Elche,4,0,1.51,4.18,6.60
+26.01.2014,2013,Almeria,Getafe,1,0,2.38,3.25,3.03
+26.01.2014,2013,Barcelona,Malaga,3,0,1.08,11.30,28.50
+26.01.2014,2013,Osasuna,Ath Bilbao,1,5,3.37,3.28,2.20
+26.01.2014,2013,Rayo Vallecano,Atl. Madrid,2,4,8.44,4.84,1.37
+25.01.2014,2013,Real Madrid,Granada CF,2,0,1.06,13.01,28.34
+25.01.2014,2013,Sevilla,Levante,2,3,1.34,4.96,9.01
+25.01.2014,2013,Valencia,Espanyol,2,2,1.65,3.82,5.38
+25.01.2014,2013,Valladolid,Villarreal,1,0,4.06,3.48,1.91
+24.01.2014,2013,Celta Vigo,Betis,4,2,2.04,3.40,3.71
+20.01.2014,2013,Ath Bilbao,Valladolid,4,2,1.35,4.90,9.21
+19.01.2014,2013,Atl. Madrid,Sevilla,1,1,1.33,5.12,9.43
+19.01.2014,2013,Getafe,Real Sociedad,2,2,3.28,3.38,2.21
+19.01.2014,2013,Levante,Barcelona,1,1,16.59,7.69,1.16
+19.01.2014,2013,Villarreal,Almeria,2,0,1.28,5.44,11.23
+18.01.2014,2013,Betis,Real Madrid,0,5,10.64,6.32,1.25
+18.01.2014,2013,Elche,Rayo Vallecano,2,0,2.32,3.26,3.15
+18.01.2014,2013,Espanyol,Celta Vigo,1,0,1.91,3.40,4.21
+18.01.2014,2013,Granada CF,Osasuna,0,0,1.93,3.32,4.25
+17.01.2014,2013,Malaga,Valencia,0,0,2.71,3.23,2.64
+13.01.2014,2013,Villarreal,Real Sociedad,5,1,1.95,3.53,3.84
+12.01.2014,2013,Betis,Osasuna,1,2,1.82,3.53,4.50
+12.01.2014,2013,Espanyol,Real Madrid,0,1,8.48,5.16,1.34
+12.01.2014,2013,Getafe,Rayo Vallecano,0,1,2.18,3.40,3.30
+12.01.2014,2013,Levante,Malaga,1,0,2.67,3.19,2.72
+11.01.2014,2013,Ath Bilbao,Almeria,6,1,1.36,4.84,8.75
+11.01.2014,2013,Atl. Madrid,Barcelona,0,0,3.00,3.35,2.38
+11.01.2014,2013,Celta Vigo,Valencia,2,1,3.09,3.35,2.31
+11.01.2014,2013,Elche,Sevilla,1,1,3.83,3.43,1.99
+10.01.2014,2013,Granada CF,Valladolid,4,0,1.99,3.30,4.01
+06.01.2014,2013,Rayo Vallecano,Villarreal,2,5,3.37,3.39,2.15
+06.01.2014,2013,Real Madrid,Celta Vigo,3,0,1.07,12.69,28.44
+05.01.2014,2013,Barcelona,Elche,4,0,1.07,12.60,27.44
+05.01.2014,2013,Osasuna,Espanyol,1,0,2.37,3.17,3.15
+05.01.2014,2013,Real Sociedad,Ath Bilbao,2,0,2.15,3.41,3.36
+05.01.2014,2013,Sevilla,Getafe,3,0,1.56,4.08,5.89
+04.01.2014,2013,Almeria,Granada CF,3,0,2.54,3.23,2.82
+04.01.2014,2013,Malaga,Atl. Madrid,0,1,6.33,4.05,1.53
+04.01.2014,2013,Valencia,Levante,2,0,1.45,4.41,7.42
+04.01.2014,2013,Valladolid,Betis,0,0,2.54,3.28,2.80
+22.12.2013,2013,Ath Bilbao,Rayo Vallecano,2,1,1.48,4.37,6.66
+22.12.2013,2013,Celta Vigo,Osasuna,1,1,1.90,3.50,4.08
+22.12.2013,2013,Espanyol,Valladolid,4,2,1.77,3.49,4.88
+22.12.2013,2013,Getafe,Barcelona,2,5,8.52,4.99,1.36
+22.12.2013,2013,Valencia,Real Madrid,2,3,5.36,4.17,1.59
+21.12.2013,2013,Atl. Madrid,Levante,3,2,1.13,8.16,20.18
+21.12.2013,2013,Betis,Almeria,0,1,1.67,3.75,5.25
+21.12.2013,2013,Granada CF,Real Sociedad,1,3,2.64,3.26,2.69
+21.12.2013,2013,Villarreal,Sevilla,1,2,1.85,3.58,4.29
+20.12.2013,2013,Elche,Malaga,0,1,2.48,3.21,2.92
+16.12.2013,2013,Valladolid,Celta Vigo,3,0,2.41,3.25,3.00
+15.12.2013,2013,Almeria,Espanyol,0,0,2.73,3.24,2.62
+15.12.2013,2013,Atl. Madrid,Valencia,3,0,1.35,5.00,9.06
+15.12.2013,2013,Real Sociedad,Betis,5,1,1.79,3.66,4.46
+15.12.2013,2013,Sevilla,Ath Bilbao,1,1,2.01,3.52,3.68
+14.12.2013,2013,Barcelona,Villarreal,2,1,1.28,5.87,10.13
+14.12.2013,2013,Malaga,Getafe,1,0,1.98,3.41,3.86
+14.12.2013,2013,Osasuna,Real Madrid,2,2,12.03,6.30,1.23
+14.12.2013,2013,Rayo Vallecano,Granada CF,0,2,2.13,3.35,3.49
+13.12.2013,2013,Levante,Elche,2,1,2.32,3.15,3.25
+01.12.2013,2013,Ath Bilbao,Barcelona,1,0,5.90,4.27,1.54
+01.12.2013,2013,Betis,Rayo Vallecano,2,2,1.94,3.49,3.93
+01.12.2013,2013,Granada CF,Sevilla,1,2,2.91,3.26,2.44
+01.12.2013,2013,Valencia,Osasuna,3,0,1.44,4.43,7.47
+30.11.2013,2013,Celta Vigo,Almeria,3,1,1.76,3.56,4.89
+30.11.2013,2013,Elche,Atl. Madrid,0,2,7.42,4.12,1.48
+30.11.2013,2013,Espanyol,Real Sociedad,1,2,2.13,3.38,3.46
+30.11.2013,2013,Real Madrid,Valladolid,4,0,1.11,9.31,21.49
+29.11.2013,2013,Getafe,Levante,1,0,1.86,3.40,4.43
+29.11.2013,2013,Villarreal,Malaga,1,1,1.44,4.43,7.67
+25.11.2013,2013,Malaga,Ath Bilbao,1,2,2.53,3.29,2.80
+24.11.2013,2013,Elche,Valencia,2,1,3.13,3.25,2.33
+24.11.2013,2013,Levante,Villarreal,0,3,3.31,3.25,2.25
+24.11.2013,2013,Rayo Vallecano,Espanyol,1,4,2.17,3.32,3.42
+24.11.2013,2013,Sevilla,Betis,4,0,1.68,3.85,4.93
+23.11.2013,2013,Almeria,Real Madrid,0,5,10.08,5.90,1.28
+23.11.2013,2013,Atl. Madrid,Getafe,7,0,1.24,5.95,13.23
+23.11.2013,2013,Barcelona,Granada CF,4,0,1.15,7.74,17.52
+23.11.2013,2013,Real Sociedad,Celta Vigo,4,3,1.75,3.70,4.66
+22.11.2013,2013,Valladolid,Osasuna,0,1,1.95,3.42,4.04
+10.11.2013,2013,Betis,Barcelona,1,4,10.42,6.08,1.26
+10.11.2013,2013,Espanyol,Sevilla,1,3,2.36,3.30,3.04
+10.11.2013,2013,Valencia,Valladolid,2,2,1.45,4.35,7.47
+10.11.2013,2013,Villarreal,Atl. Madrid,1,1,3.60,3.36,2.08
+09.11.2013,2013,Ath Bilbao,Levante,2,1,1.61,3.85,5.80
+09.11.2013,2013,Celta Vigo,Rayo Vallecano,0,2,1.93,3.52,3.94
+09.11.2013,2013,Getafe,Elche,1,1,2.03,3.30,3.82
+09.11.2013,2013,Real Madrid,Real Sociedad,5,1,1.19,7.32,12.53
+08.11.2013,2013,Granada CF,Malaga,3,1,2.30,3.24,3.19
+08.11.2013,2013,Osasuna,Almeria,0,1,2.07,3.29,3.71
+04.11.2013,2013,Elche,Villarreal,0,1,2.96,3.24,2.44
+03.11.2013,2013,Atl. Madrid,Ath Bilbao,2,0,1.35,4.84,9.04
+03.11.2013,2013,Getafe,Valencia,0,1,2.63,3.31,2.68
+03.11.2013,2013,Levante,Granada CF,0,1,2.14,3.25,3.57
+03.11.2013,2013,Malaga,Betis,3,2,2.06,3.41,3.59
+02.11.2013,2013,Almeria,Valladolid,1,0,2.16,3.34,3.40
+02.11.2013,2013,Rayo Vallecano,Real Madrid,2,3,10.65,5.95,1.26
+02.11.2013,2013,Real Sociedad,Osasuna,5,0,1.67,3.80,5.20
+02.11.2013,2013,Sevilla,Celta Vigo,0,1,1.55,4.19,5.87
+01.11.2013,2013,Barcelona,Espanyol,1,0,1.09,10.52,23.14
+31.10.2013,2013,Ath Bilbao,Elche,2,2,1.63,3.76,5.57
+31.10.2013,2013,Betis,Levante,0,0,1.83,3.52,4.38
+31.10.2013,2013,Granada CF,Atl. Madrid,1,2,7.48,4.16,1.46
+31.10.2013,2013,Villarreal,Getafe,0,2,1.49,4.18,6.86
+30.10.2013,2013,Osasuna,Rayo Vallecano,3,1,2.32,3.25,3.15
+30.10.2013,2013,Real Madrid,Sevilla,7,3,1.21,6.80,13.05
+30.10.2013,2013,Valencia,Almeria,1,2,1.41,4.69,7.54
+30.10.2013,2013,Valladolid,Real Sociedad,2,2,2.70,3.29,2.61
+29.10.2013,2013,Celta Vigo,Barcelona,0,3,7.96,5.24,1.36
+29.10.2013,2013,Espanyol,Malaga,0,0,1.82,3.51,4.51
+28.10.2013,2013,Getafe,Ath Bilbao,0,1,2.61,3.32,2.69
+27.10.2013,2013,Atl. Madrid,Betis,5,0,1.25,5.70,11.82
+27.10.2013,2013,Real Sociedad,Almeria,3,0,1.55,4.01,6.20
+27.10.2013,2013,Sevilla,Osasuna,2,1,1.47,4.26,7.06
+27.10.2013,2013,Villarreal,Valencia,4,1,1.97,3.47,3.83
+26.10.2013,2013,Barcelona,Real Madrid,2,1,1.70,4.25,4.39
+26.10.2013,2013,Elche,Granada CF,0,1,1.96,3.36,4.04
+26.10.2013,2013,Levante,Espanyol,3,0,2.53,3.22,2.85
+26.10.2013,2013,Malaga,Celta Vigo,0,5,1.84,3.55,4.34
+25.10.2013,2013,Rayo Vallecano,Valladolid,0,3,2.00,3.44,3.75
+21.10.2013,2013,Ath Bilbao,Villarreal,2,0,2.49,3.28,2.86
+21.10.2013,2013,Celta Vigo,Levante,0,1,2.03,3.37,3.73
+20.10.2013,2013,Almeria,Rayo Vallecano,0,1,1.99,3.53,3.68
+20.10.2013,2013,Betis,Elche,1,2,1.87,3.45,4.29
+20.10.2013,2013,Granada CF,Getafe,0,2,2.14,3.32,3.48
+20.10.2013,2013,Valladolid,Sevilla,2,2,2.70,3.33,2.60
+19.10.2013,2013,Espanyol,Atl. Madrid,1,0,5.00,3.59,1.73
+19.10.2013,2013,Osasuna,Barcelona,0,0,10.90,5.60,1.28
+19.10.2013,2013,Real Madrid,Malaga,2,0,1.18,7.28,13.76
+19.10.2013,2013,Valencia,Real Sociedad,1,2,1.92,3.54,3.98
+06.10.2013,2013,Ath Bilbao,Valencia,1,1,2.03,3.45,3.65
+06.10.2013,2013,Atl. Madrid,Celta Vigo,2,1,1.20,6.52,14.43
+06.10.2013,2013,Getafe,Betis,3,1,2.54,3.25,2.82
+06.10.2013,2013,Sevilla,Almeria,2,1,1.49,4.39,6.33
+05.10.2013,2013,Barcelona,Valladolid,4,1,1.12,9.10,21.76
+05.10.2013,2013,Elche,Espanyol,2,1,2.45,3.22,2.96
+05.10.2013,2013,Levante,Real Madrid,2,3,8.47,5.13,1.35
+05.10.2013,2013,Rayo Vallecano,Real Sociedad,1,0,2.82,3.40,2.45
+04.10.2013,2013,Malaga,Osasuna,0,1,1.59,3.87,6.00
+04.10.2013,2013,Villarreal,Granada CF,3,0,1.47,4.24,7.24
+30.09.2013,2013,Granada CF,Ath Bilbao,2,0,3.01,3.32,2.37
+29.09.2013,2013,Betis,Villarreal,1,0,2.58,3.34,2.71
+29.09.2013,2013,Celta Vigo,Elche,0,1,1.98,3.36,3.97
+29.09.2013,2013,Espanyol,Getafe,0,2,1.65,3.67,5.67
+29.09.2013,2013,Osasuna,Levante,0,1,2.09,3.26,3.68
+28.09.2013,2013,Almeria,Barcelona,0,2,15.13,7.53,1.17
+28.09.2013,2013,Real Madrid,Atl. Madrid,0,1,1.76,3.70,4.71
+28.09.2013,2013,Real Sociedad,Sevilla,1,1,2.14,3.38,3.41
+28.09.2013,2013,Valencia,Rayo Vallecano,1,0,1.33,5.32,8.51
+27.09.2013,2013,Valladolid,Malaga,2,2,2.82,3.24,2.53
+26.09.2013,2013,Ath Bilbao,Betis,2,1,1.87,3.54,4.14
+26.09.2013,2013,Getafe,Celta Vigo,2,0,2.15,3.31,3.46
+26.09.2013,2013,Villarreal,Espanyol,2,1,1.57,3.91,6.27
+25.09.2013,2013,Elche,Real Madrid,1,2,10.66,5.75,1.27
+25.09.2013,2013,Granada CF,Valencia,0,1,3.18,3.33,2.26
+25.09.2013,2013,Sevilla,Rayo Vallecano,4,1,1.37,5.04,7.87
+24.09.2013,2013,Atl. Madrid,Osasuna,2,1,1.20,6.54,14.49
+24.09.2013,2013,Barcelona,Real Sociedad,4,1,1.10,10.31,20.20
+24.09.2013,2013,Levante,Valladolid,1,1,2.16,3.21,3.52
+24.09.2013,2013,Malaga,Almeria,2,0,1.73,3.74,4.78
+23.09.2013,2013,Espanyol,Ath Bilbao,3,2,2.32,3.25,3.10
+22.09.2013,2013,Betis,Granada CF,0,0,1.70,3.60,5.30
+22.09.2013,2013,Celta Vigo,Villarreal,0,0,2.81,3.41,2.44
+22.09.2013,2013,Real Madrid,Getafe,4,1,1.10,9.74,21.97
+22.09.2013,2013,Valencia,Sevilla,3,1,2.13,3.39,3.44
+21.09.2013,2013,Almeria,Levante,2,2,1.88,3.46,4.29
+21.09.2013,2013,Rayo Vallecano,Barcelona,0,4,15.12,7.35,1.18
+21.09.2013,2013,Real Sociedad,Malaga,0,0,1.85,3.59,4.24
+21.09.2013,2013,Valladolid,Atl. Madrid,0,2,5.74,3.78,1.62
+20.09.2013,2013,Osasuna,Elche,2,1,2.03,3.34,3.79
+16.09.2013,2013,Ath Bilbao,Celta Vigo,3,2,1.68,3.83,5.08
+16.09.2013,2013,Elche,Valladolid,0,0,2.16,3.26,3.52
+15.09.2013,2013,Betis,Valencia,3,1,2.83,3.32,2.49
+15.09.2013,2013,Getafe,Osasuna,2,1,2.10,3.28,3.63
+15.09.2013,2013,Granada CF,Espanyol,0,1,2.38,3.23,3.08
+15.09.2013,2013,Malaga,Rayo Vallecano,5,0,1.78,3.68,4.57
+14.09.2013,2013,Atl. Madrid,Almeria,4,2,1.26,5.59,11.79
+14.09.2013,2013,Barcelona,Sevilla,3,2,1.14,8.28,18.83
+14.09.2013,2013,Levante,Real Sociedad,0,0,3.17,3.29,2.29
+14.09.2013,2013,Villarreal,Real Madrid,2,2,4.81,3.93,1.70
+01.09.2013,2013,Espanyol,Betis,0,0,2.05,3.39,3.63
+01.09.2013,2013,Real Madrid,Ath Bilbao,3,1,1.17,7.68,13.85
+01.09.2013,2013,Real Sociedad,Atl. Madrid,1,2,3.13,3.34,2.28
+01.09.2013,2013,Sevilla,Malaga,2,2,1.70,3.62,4.90
+01.09.2013,2013,Valencia,Barcelona,2,3,6.15,4.20,1.53
+31.08.2013,2013,Celta Vigo,Granada CF,1,1,2.11,3.32,3.55
+31.08.2013,2013,Osasuna,Villarreal,0,3,2.67,3.27,2.66
+31.08.2013,2013,Valladolid,Getafe,1,0,2.16,3.29,3.49
+30.08.2013,2013,Almeria,Elche,2,2,1.90,3.52,4.07
+30.08.2013,2013,Rayo Vallecano,Levante,1,2,1.92,3.46,4.05
+26.08.2013,2013,Granada CF,Real Madrid,0,1,8.26,5.14,1.35
+25.08.2013,2013,Atl. Madrid,Rayo Vallecano,5,0,1.35,4.85,9.29
+25.08.2013,2013,Betis,Celta Vigo,1,2,1.78,3.60,4.58
+25.08.2013,2013,Levante,Sevilla,0,0,3.44,3.34,2.15
+25.08.2013,2013,Malaga,Barcelona,0,1,10.07,5.60,1.29
+24.08.2013,2013,Elche,Real Sociedad,1,1,3.09,3.29,2.33
+24.08.2013,2013,Espanyol,Valencia,3,1,3.03,3.29,2.37
+24.08.2013,2013,Villarreal,Valladolid,2,1,1.66,3.70,5.40
+23.08.2013,2013,Ath Bilbao,Osasuna,2,0,1.79,3.54,4.67
+23.08.2013,2013,Getafe,Almeria,2,2,1.88,3.50,4.23
+19.08.2013,2013,Almeria,Villarreal,2,3,2.80,3.23,2.56
+19.08.2013,2013,Celta Vigo,Espanyol,2,2,2.45,3.16,3.01
+19.08.2013,2013,Rayo Vallecano,Elche,3,0,2.11,3.29,3.57
+18.08.2013,2013,Barcelona,Levante,7,0,1.08,11.54,25.25
+18.08.2013,2013,Osasuna,Granada CF,1,2,2.05,3.30,3.78
+18.08.2013,2013,Real Madrid,Betis,2,1,1.12,9.00,18.02
+18.08.2013,2013,Sevilla,Atl. Madrid,1,3,2.77,3.24,2.57
+17.08.2013,2013,Real Sociedad,Getafe,2,0,1.68,3.73,5.17
+17.08.2013,2013,Valencia,Malaga,1,0,1.41,4.52,7.92
+17.08.2013,2013,Valladolid,Ath Bilbao,1,2,2.70,3.22,2.66

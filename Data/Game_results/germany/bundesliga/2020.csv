@@ -1,0 +1,307 @@
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+22.05.2021,2020,FC Koln,Schalke,1,0,1.37,5.61,7.06
+22.05.2021,2020,Bayern Munich,Augsburg,5,2,1.13,9.53,16.58
+22.05.2021,2020,Dortmund,Bayer Leverkusen,3,1,1.55,4.77,5.17
+22.05.2021,2020,Eintracht Frankfurt,Freiburg,3,1,2.05,4.25,3.08
+22.05.2021,2020,Hoffenheim,Hertha Berlin,2,1,1.68,4.35,4.49
+22.05.2021,2020,Union Berlin,RB Leipzig,2,1,3.67,3.91,1.93
+22.05.2021,2020,Stuttgart,Arminia Bielefeld,0,2,2.28,3.84,2.87
+22.05.2021,2020,Werder Bremen,B. Monchengladbach,2,4,3.15,3.87,2.12
+22.05.2021,2020,Wolfsburg,Mainz,2,3,1.82,4.04,4.00
+16.05.2021,2020,Mainz,Dortmund,1,3,6.81,5.53,1.39
+16.05.2021,2020,RB Leipzig,Wolfsburg,2,2,2.02,3.55,3.69
+15.05.2021,2020,Arminia Bielefeld,Hoffenheim,1,1,2.47,3.79,2.64
+15.05.2021,2020,Augsburg,Werder Bremen,2,0,2.50,3.18,3.00
+15.05.2021,2020,Bayer Leverkusen,Union Berlin,1,1,1.95,3.64,3.87
+15.05.2021,2020,B. Monchengladbach,Stuttgart,1,2,1.50,4.99,5.61
+15.05.2021,2020,Freiburg,Bayern Munich,2,2,8.90,6.70,1.27
+15.05.2021,2020,Hertha Berlin,FC Koln,0,0,2.94,3.21,2.54
+15.05.2021,2020,Schalke,Eintracht Frankfurt,4,3,11.73,6.82,1.22
+12.05.2021,2020,Schalke,Hertha Berlin,1,2,6.09,4.29,1.54
+09.05.2021,2020,FC Koln,Freiburg,1,4,1.95,3.69,3.79
+09.05.2021,2020,Eintracht Frankfurt,Mainz,1,1,1.92,3.98,3.65
+09.05.2021,2020,Hertha Berlin,Arminia Bielefeld,0,0,1.87,3.57,4.28
+08.05.2021,2020,Bayern Munich,B. Monchengladbach,6,0,1.41,5.44,6.44
+08.05.2021,2020,Dortmund,RB Leipzig,3,2,2.28,3.70,2.97
+08.05.2021,2020,Hoffenheim,Schalke,4,2,1.29,5.90,9.66
+08.05.2021,2020,Werder Bremen,Bayer Leverkusen,0,0,3.87,3.61,1.96
+08.05.2021,2020,Wolfsburg,Union Berlin,3,0,1.81,3.60,4.60
+07.05.2021,2020,Stuttgart,Augsburg,2,1,2.14,3.46,3.43
+06.05.2021,2020,Hertha Berlin,Freiburg,3,0,2.30,3.23,3.29
+03.05.2021,2020,Mainz,Hertha Berlin,1,1,2.41,3.26,3.08
+25.04.2021,2020,B. Monchengladbach,Arminia Bielefeld,5,0,1.64,3.92,5.52
+25.04.2021,2020,RB Leipzig,Stuttgart,2,0,1.37,5.22,8.03
+24.04.2021,2020,Bayer Leverkusen,Eintracht Frankfurt,3,1,2.18,3.80,3.07
+24.04.2021,2020,Freiburg,Hoffenheim,1,1,3.07,3.70,2.22
+24.04.2021,2020,Mainz,Bayern Munich,2,1,10.15,6.57,1.25
+24.04.2021,2020,Union Berlin,Werder Bremen,3,1,2.03,3.36,3.90
+24.04.2021,2020,Wolfsburg,Dortmund,0,2,3.25,3.95,2.06
+23.04.2021,2020,Augsburg,FC Koln,2,3,2.87,3.29,2.53
+21.04.2021,2020,Dortmund,Union Berlin,2,0,1.50,4.60,6.13
+21.04.2021,2020,Hoffenheim,B. Monchengladbach,3,2,2.68,3.63,2.52
+21.04.2021,2020,Stuttgart,Wolfsburg,1,3,4.01,4.22,1.79
+21.04.2021,2020,Werder Bremen,Mainz,0,1,3.21,3.27,2.32
+20.04.2021,2020,FC Koln,RB Leipzig,2,1,5.77,4.24,1.56
+20.04.2021,2020,Arminia Bielefeld,Schalke,1,0,1.89,3.57,4.22
+20.04.2021,2020,Bayern Munich,Bayer Leverkusen,2,0,1.53,4.69,5.60
+20.04.2021,2020,Eintracht Frankfurt,Augsburg,2,0,1.31,5.78,9.02
+18.04.2021,2020,Dortmund,Werder Bremen,4,1,1.31,5.66,9.24
+17.04.2021,2020,Augsburg,Arminia Bielefeld,0,0,2.36,3.31,3.11
+17.04.2021,2020,Bayer Leverkusen,FC Koln,3,0,1.64,3.95,5.38
+17.04.2021,2020,B. Monchengladbach,Eintracht Frankfurt,4,0,2.35,3.88,2.75
+17.04.2021,2020,Freiburg,Schalke,4,0,1.66,3.91,5.34
+17.04.2021,2020,Union Berlin,Stuttgart,2,1,2.15,3.39,3.48
+17.04.2021,2020,Wolfsburg,Bayern Munich,2,3,3.80,3.89,1.90
+16.04.2021,2020,RB Leipzig,Hoffenheim,0,0,1.37,5.17,7.91
+12.04.2021,2020,Hoffenheim,Bayer Leverkusen,0,0,2.81,3.72,2.37
+11.04.2021,2020,FC Koln,Mainz,2,3,2.94,3.24,2.51
+11.04.2021,2020,Schalke,Augsburg,1,0,2.84,3.32,2.54
+10.04.2021,2020,Bayern Munich,Union Berlin,1,1,1.82,3.74,4.34
+10.04.2021,2020,Eintracht Frankfurt,Wolfsburg,4,3,2.48,3.52,2.79
+10.04.2021,2020,Hertha Berlin,B. Monchengladbach,2,2,3.20,3.51,2.22
+10.04.2021,2020,Stuttgart,Dortmund,2,3,4.09,4.13,1.79
+10.04.2021,2020,Werder Bremen,RB Leipzig,1,4,9.20,5.15,1.34
+09.04.2021,2020,Arminia Bielefeld,Freiburg,1,0,2.68,3.21,2.77
+04.04.2021,2020,Union Berlin,Hertha Berlin,1,1,2.57,3.21,2.90
+04.04.2021,2020,Stuttgart,Werder Bremen,1,0,1.93,3.65,3.93
+03.04.2021,2020,Augsburg,Hoffenheim,2,1,3.67,3.61,2.01
+03.04.2021,2020,Bayer Leverkusen,Schalke,2,1,1.29,5.76,9.94
+03.04.2021,2020,B. Monchengladbach,Freiburg,2,1,1.73,3.96,4.64
+03.04.2021,2020,Dortmund,Eintracht Frankfurt,1,2,1.74,4.17,4.33
+03.04.2021,2020,Mainz,Arminia Bielefeld,1,1,1.82,3.65,4.47
+03.04.2021,2020,RB Leipzig,Bayern Munich,0,1,2.68,3.61,2.53
+03.04.2021,2020,Wolfsburg,FC Koln,1,0,1.64,3.94,5.48
+21.03.2021,2020,Freiburg,Augsburg,2,0,1.84,3.52,4.56
+21.03.2021,2020,Hertha Berlin,Bayer Leverkusen,3,0,3.47,3.61,2.08
+21.03.2021,2020,Hoffenheim,Mainz,1,2,1.93,3.73,3.83
+20.03.2021,2020,FC Koln,Dortmund,2,2,6.53,4.70,1.46
+20.03.2021,2020,Bayern Munich,Stuttgart,4,0,1.24,6.94,10.26
+20.03.2021,2020,Eintracht Frankfurt,Union Berlin,5,2,1.93,3.69,3.86
+20.03.2021,2020,Schalke,B. Monchengladbach,0,3,7.19,4.75,1.43
+20.03.2021,2020,Werder Bremen,Wolfsburg,1,2,4.64,3.57,1.81
+19.03.2021,2020,Arminia Bielefeld,RB Leipzig,0,1,8.49,4.89,1.38
+14.03.2021,2020,Bayer Leverkusen,Arminia Bielefeld,1,2,1.41,4.89,7.49
+14.03.2021,2020,RB Leipzig,Eintracht Frankfurt,1,1,1.65,4.11,5.06
+14.03.2021,2020,Stuttgart,Hoffenheim,2,0,2.52,3.67,2.67
+13.03.2021,2020,Dortmund,Hertha Berlin,2,0,1.50,4.41,6.44
+13.03.2021,2020,Mainz,Freiburg,1,0,2.35,3.23,3.21
+13.03.2021,2020,Union Berlin,FC Koln,2,1,2.02,3.25,4.07
+13.03.2021,2020,Werder Bremen,Bayern Munich,1,3,12.34,7.17,1.21
+13.03.2021,2020,Wolfsburg,Schalke,5,0,1.41,4.72,7.61
+12.03.2021,2020,Augsburg,B. Monchengladbach,3,1,4.64,4.01,1.72
+10.03.2021,2020,Arminia Bielefeld,Werder Bremen,0,2,3.62,3.21,2.18
+07.03.2021,2020,FC Koln,Werder Bremen,1,1,3.15,3.16,2.41
+07.03.2021,2020,Arminia Bielefeld,Union Berlin,0,0,3.94,3.41,2.01
+06.03.2021,2020,Bayern Munich,Dortmund,4,2,1.55,4.69,5.19
+06.03.2021,2020,B. Monchengladbach,Bayer Leverkusen,0,1,2.52,3.58,2.70
+06.03.2021,2020,Eintracht Frankfurt,Stuttgart,1,1,1.83,4.02,3.97
+06.03.2021,2020,Freiburg,RB Leipzig,0,3,5.03,3.99,1.67
+06.03.2021,2020,Hertha Berlin,Augsburg,2,1,2.12,3.29,3.71
+06.03.2021,2020,Hoffenheim,Wolfsburg,2,1,2.67,3.48,2.61
+05.03.2021,2020,Schalke,Mainz,0,0,3.30,3.49,2.19
+28.02.2021,2020,Bayer Leverkusen,Freiburg,1,2,1.77,3.90,4.44
+28.02.2021,2020,Mainz,Augsburg,0,1,2.06,3.40,3.75
+28.02.2021,2020,Union Berlin,Hoffenheim,1,1,2.68,3.32,2.68
+27.02.2021,2020,Bayern Munich,FC Koln,5,1,1.21,7.20,12.50
+27.02.2021,2020,Dortmund,Arminia Bielefeld,3,0,1.24,6.43,12.17
+27.02.2021,2020,RB Leipzig,B. Monchengladbach,3,2,1.58,4.23,5.62
+27.02.2021,2020,Stuttgart,Schalke,5,1,1.55,4.53,5.60
+27.02.2021,2020,Wolfsburg,Hertha Berlin,2,0,1.84,3.72,4.25
+26.02.2021,2020,Werder Bremen,Eintracht Frankfurt,2,1,4.30,3.81,1.81
+21.02.2021,2020,Augsburg,Bayer Leverkusen,1,1,5.54,4.28,1.58
+21.02.2021,2020,Hertha Berlin,RB Leipzig,0,3,5.71,4.39,1.55
+21.02.2021,2020,Hoffenheim,Werder Bremen,4,0,2.23,3.52,3.17
+20.02.2021,2020,FC Koln,Stuttgart,0,1,3.71,3.56,2.00
+20.02.2021,2020,B. Monchengladbach,Mainz,1,2,1.72,3.70,5.13
+20.02.2021,2020,Eintracht Frankfurt,Bayern Munich,2,1,3.91,4.21,1.81
+20.02.2021,2020,Freiburg,Union Berlin,0,1,2.41,3.19,3.14
+20.02.2021,2020,Schalke,Dortmund,0,4,9.91,5.74,1.29
+19.02.2021,2020,Arminia Bielefeld,Wolfsburg,0,3,5.88,3.96,1.60
+15.02.2021,2020,Bayern Munich,Arminia Bielefeld,3,3,1.16,7.83,16.52
+14.02.2021,2020,Eintracht Frankfurt,FC Koln,2,0,1.59,4.07,5.74
+14.02.2021,2020,Wolfsburg,B. Monchengladbach,0,0,2.48,3.28,2.93
+13.02.2021,2020,Bayer Leverkusen,Mainz,2,2,1.49,4.48,6.59
+13.02.2021,2020,Dortmund,Hoffenheim,2,2,1.45,4.84,6.56
+13.02.2021,2020,Union Berlin,Schalke,0,0,1.74,3.61,5.13
+13.02.2021,2020,Stuttgart,Hertha Berlin,1,1,2.20,3.51,3.25
+13.02.2021,2020,Werder Bremen,Freiburg,0,0,2.60,3.20,2.85
+12.02.2021,2020,RB Leipzig,Augsburg,2,1,1.22,6.58,13.57
+07.02.2021,2020,Hoffenheim,Eintracht Frankfurt,1,3,2.84,3.73,2.34
+06.02.2021,2020,Augsburg,Wolfsburg,0,2,5.05,3.69,1.73
+06.02.2021,2020,Bayer Leverkusen,Stuttgart,5,2,1.83,3.99,3.98
+06.02.2021,2020,B. Monchengladbach,FC Koln,1,2,1.57,4.13,5.89
+06.02.2021,2020,Freiburg,Dortmund,2,1,5.12,4.47,1.59
+06.02.2021,2020,Mainz,Union Berlin,1,0,3.02,3.21,2.47
+06.02.2021,2020,Schalke,RB Leipzig,0,3,9.26,5.19,1.34
+05.02.2021,2020,Hertha Berlin,Bayern Munich,0,1,9.48,6.33,1.28
+31.01.2021,2020,FC Koln,Arminia Bielefeld,3,1,2.29,3.11,3.44
+31.01.2021,2020,Wolfsburg,Freiburg,3,0,2.01,3.54,3.73
+30.01.2021,2020,Bayern Munich,Hoffenheim,4,1,1.22,7.27,10.97
+30.01.2021,2020,Dortmund,Augsburg,3,1,1.22,6.85,11.51
+30.01.2021,2020,Eintracht Frankfurt,Hertha Berlin,3,1,1.72,3.98,4.59
+30.01.2021,2020,RB Leipzig,Bayer Leverkusen,1,0,1.94,3.62,3.91
+30.01.2021,2020,Union Berlin,B. Monchengladbach,1,1,3.51,3.52,2.08
+30.01.2021,2020,Werder Bremen,Schalke,1,1,2.11,3.45,3.55
+29.01.2021,2020,Stuttgart,Mainz,2,0,1.62,4.24,5.10
+24.01.2021,2020,Hoffenheim,FC Koln,3,0,1.75,3.80,4.69
+24.01.2021,2020,Schalke,Bayern Munich,0,4,14.00,8.17,1.17
+23.01.2021,2020,Arminia Bielefeld,Eintracht Frankfurt,1,5,4.47,3.84,1.78
+23.01.2021,2020,Augsburg,Union Berlin,2,1,3.46,3.35,2.18
+23.01.2021,2020,Bayer Leverkusen,Wolfsburg,0,1,2.05,3.65,3.49
+23.01.2021,2020,Freiburg,Stuttgart,2,1,3.07,3.56,2.28
+23.01.2021,2020,Hertha Berlin,Werder Bremen,1,4,2.17,3.28,3.56
+23.01.2021,2020,Mainz,RB Leipzig,3,2,8.00,4.80,1.40
+22.01.2021,2020,B. Monchengladbach,Dortmund,4,2,3.35,3.81,2.04
+20.01.2021,2020,Arminia Bielefeld,Stuttgart,3,0,4.11,3.79,1.85
+20.01.2021,2020,Augsburg,Bayern Munich,0,1,13.86,8.07,1.17
+20.01.2021,2020,Freiburg,Eintracht Frankfurt,2,2,2.85,3.52,2.43
+20.01.2021,2020,RB Leipzig,Union Berlin,1,0,1.54,4.20,6.22
+20.01.2021,2020,Schalke,FC Koln,1,2,2.94,3.20,2.54
+19.01.2021,2020,Bayer Leverkusen,Dortmund,2,1,3.37,3.84,2.03
+19.01.2021,2020,B. Monchengladbach,Werder Bremen,1,0,1.57,4.14,5.72
+19.01.2021,2020,Hertha Berlin,Hoffenheim,0,3,2.40,3.47,2.91
+19.01.2021,2020,Mainz,Wolfsburg,0,2,4.21,3.89,1.81
+17.01.2021,2020,Bayern Munich,Freiburg,2,1,1.23,6.91,10.94
+17.01.2021,2020,Eintracht Frankfurt,Schalke,3,1,1.51,4.62,6.00
+16.01.2021,2020,FC Koln,Hertha Berlin,0,0,3.21,3.19,2.37
+16.01.2021,2020,Dortmund,Mainz,1,1,1.20,7.32,13.48
+16.01.2021,2020,Hoffenheim,Arminia Bielefeld,0,0,1.74,3.81,4.77
+16.01.2021,2020,Stuttgart,B. Monchengladbach,2,2,2.77,3.70,2.41
+16.01.2021,2020,Werder Bremen,Augsburg,2,0,2.13,3.30,3.68
+16.01.2021,2020,Wolfsburg,RB Leipzig,2,2,4.06,3.76,1.88
+15.01.2021,2020,Union Berlin,Bayer Leverkusen,1,0,3.03,3.35,2.38
+10.01.2021,2020,Arminia Bielefeld,Hertha Berlin,1,0,4.24,3.57,1.88
+10.01.2021,2020,Augsburg,Stuttgart,1,4,4.03,3.82,1.86
+09.01.2021,2020,Bayer Leverkusen,Werder Bremen,1,1,1.52,4.31,6.42
+09.01.2021,2020,Freiburg,FC Koln,5,0,2.06,3.45,3.67
+09.01.2021,2020,Mainz,Eintracht Frankfurt,0,2,3.73,3.75,1.95
+09.01.2021,2020,RB Leipzig,Dortmund,1,3,2.45,3.53,2.81
+09.01.2021,2020,Schalke,Hoffenheim,4,0,4.19,4.07,1.77
+09.01.2021,2020,Union Berlin,Wolfsburg,2,2,3.09,3.28,2.38
+08.01.2021,2020,B. Monchengladbach,Bayern Munich,3,2,4.85,4.69,1.59
+03.01.2021,2020,Bayern Munich,Mainz,5,2,1.09,11.04,23.62
+03.01.2021,2020,Dortmund,Wolfsburg,2,0,1.52,4.59,5.81
+02.01.2021,2020,FC Koln,Augsburg,0,1,2.23,3.36,3.30
+02.01.2021,2020,Arminia Bielefeld,B. Monchengladbach,0,1,5.56,3.93,1.63
+02.01.2021,2020,Eintracht Frankfurt,Bayer Leverkusen,2,1,3.22,3.81,2.10
+02.01.2021,2020,Hertha Berlin,Schalke,3,0,1.69,3.89,4.99
+02.01.2021,2020,Hoffenheim,Freiburg,1,3,2.12,3.69,3.29
+02.01.2021,2020,Stuttgart,RB Leipzig,0,1,4.36,3.96,1.78
+02.01.2021,2020,Werder Bremen,Union Berlin,0,2,3.02,3.19,2.49
+20.12.2020,2020,Freiburg,Hertha Berlin,4,1,2.63,3.34,2.73
+20.12.2020,2020,Wolfsburg,Stuttgart,1,0,2.66,3.59,2.53
+19.12.2020,2020,Augsburg,Eintracht Frankfurt,0,2,3.76,3.76,1.94
+19.12.2020,2020,Bayer Leverkusen,Bayern Munich,1,2,3.48,4.14,1.93
+19.12.2020,2020,B. Monchengladbach,Hoffenheim,1,2,1.85,4.17,3.75
+19.12.2020,2020,Mainz,Werder Bremen,0,1,2.38,3.29,3.10
+19.12.2020,2020,RB Leipzig,FC Koln,0,0,1.37,4.97,8.36
+19.12.2020,2020,Schalke,Arminia Bielefeld,0,1,2.31,3.21,3.29
+18.12.2020,2020,Union Berlin,Dortmund,2,1,4.79,3.95,1.71
+16.12.2020,2020,FC Koln,Bayer Leverkusen,0,4,5.09,4.36,1.61
+16.12.2020,2020,Arminia Bielefeld,Augsburg,0,1,2.66,3.24,2.75
+16.12.2020,2020,Bayern Munich,Wolfsburg,2,1,1.33,5.78,8.16
+16.12.2020,2020,Hoffenheim,RB Leipzig,0,1,4.48,4.56,1.65
+16.12.2020,2020,Schalke,Freiburg,0,2,3.26,3.47,2.21
+15.12.2020,2020,Eintracht Frankfurt,B. Monchengladbach,3,3,2.71,3.73,2.44
+15.12.2020,2020,Hertha Berlin,Mainz,0,0,1.92,3.73,3.88
+15.12.2020,2020,Stuttgart,Union Berlin,2,2,1.97,3.60,3.78
+15.12.2020,2020,Werder Bremen,Dortmund,1,2,6.08,4.64,1.49
+13.12.2020,2020,Augsburg,Schalke,2,2,2.14,3.48,3.43
+13.12.2020,2020,Bayer Leverkusen,Hoffenheim,4,1,1.76,4.28,4.05
+12.12.2020,2020,B. Monchengladbach,Hertha Berlin,1,1,2.17,3.57,3.25
+12.12.2020,2020,Dortmund,Stuttgart,1,5,1.46,4.78,6.60
+12.12.2020,2020,Freiburg,Arminia Bielefeld,2,0,1.77,3.82,4.49
+12.12.2020,2020,Mainz,FC Koln,0,1,2.46,3.44,2.85
+12.12.2020,2020,RB Leipzig,Werder Bremen,2,0,1.35,5.09,9.06
+12.12.2020,2020,Union Berlin,Bayern Munich,1,1,8.38,5.95,1.32
+11.12.2020,2020,Wolfsburg,Eintracht Frankfurt,2,1,2.44,3.52,2.85
+07.12.2020,2020,Hoffenheim,Augsburg,3,1,1.78,3.97,4.29
+06.12.2020,2020,Schalke,Bayer Leverkusen,0,3,6.12,4.54,1.51
+06.12.2020,2020,Werder Bremen,Stuttgart,1,2,2.86,3.45,2.45
+05.12.2020,2020,FC Koln,Wolfsburg,2,2,3.70,3.54,2.01
+05.12.2020,2020,Arminia Bielefeld,Mainz,2,1,3.07,3.44,2.32
+05.12.2020,2020,Bayern Munich,RB Leipzig,3,3,1.63,4.48,4.76
+05.12.2020,2020,Eintracht Frankfurt,Dortmund,1,1,3.48,3.95,1.97
+05.12.2020,2020,Freiburg,B. Monchengladbach,2,2,3.48,3.81,2.01
+04.12.2020,2020,Hertha Berlin,Union Berlin,3,1,2.75,3.23,2.67
+29.11.2020,2020,Bayer Leverkusen,Hertha Berlin,0,0,1.91,3.81,3.82
+29.11.2020,2020,Mainz,Hoffenheim,1,1,2.99,4.00,2.16
+28.11.2020,2020,Augsburg,Freiburg,1,1,2.43,3.35,2.97
+28.11.2020,2020,B. Monchengladbach,Schalke,4,1,1.37,5.17,7.98
+28.11.2020,2020,Dortmund,FC Koln,1,2,1.22,6.82,12.79
+28.11.2020,2020,RB Leipzig,Arminia Bielefeld,2,1,1.24,6.24,12.33
+28.11.2020,2020,Union Berlin,Eintracht Frankfurt,3,3,2.37,3.48,2.96
+28.11.2020,2020,Stuttgart,Bayern Munich,1,3,9.09,6.69,1.27
+27.11.2020,2020,Wolfsburg,Werder Bremen,5,3,1.91,3.63,4.03
+22.11.2020,2020,FC Koln,Union Berlin,1,2,3.10,3.29,2.38
+22.11.2020,2020,Freiburg,Mainz,1,3,1.91,3.80,3.83
+21.11.2020,2020,Arminia Bielefeld,Bayer Leverkusen,1,2,6.02,4.44,1.52
+21.11.2020,2020,Bayern Munich,Werder Bremen,1,1,1.14,8.90,16.66
+21.11.2020,2020,B. Monchengladbach,Augsburg,1,1,1.52,4.52,5.86
+21.11.2020,2020,Eintracht Frankfurt,RB Leipzig,1,1,4.06,4.14,1.79
+21.11.2020,2020,Hertha Berlin,Dortmund,2,5,5.14,4.44,1.59
+21.11.2020,2020,Hoffenheim,Stuttgart,3,3,2.24,3.92,2.88
+21.11.2020,2020,Schalke,Wolfsburg,0,2,3.77,3.66,1.96
+08.11.2020,2020,Bayer Leverkusen,B. Monchengladbach,4,3,2.79,3.52,2.48
+08.11.2020,2020,Wolfsburg,Hoffenheim,2,1,2.13,3.72,3.24
+07.11.2020,2020,Augsburg,Hertha Berlin,0,3,2.98,3.54,2.33
+07.11.2020,2020,Dortmund,Bayern Munich,2,3,3.11,4.06,2.08
+07.11.2020,2020,Mainz,Schalke,2,2,2.33,3.47,3.04
+07.11.2020,2020,RB Leipzig,Freiburg,3,0,1.39,4.99,7.91
+07.11.2020,2020,Union Berlin,Arminia Bielefeld,5,0,1.82,3.60,4.58
+07.11.2020,2020,Stuttgart,Eintracht Frankfurt,2,2,2.64,3.58,2.57
+06.11.2020,2020,Werder Bremen,FC Koln,1,1,2.69,3.33,2.67
+02.11.2020,2020,Hoffenheim,Union Berlin,1,3,1.93,3.79,3.78
+01.11.2020,2020,Freiburg,Bayer Leverkusen,2,4,3.53,3.58,2.06
+01.11.2020,2020,Hertha Berlin,Wolfsburg,1,1,2.45,3.37,2.91
+31.10.2020,2020,FC Koln,Bayern Munich,1,2,9.83,6.66,1.26
+31.10.2020,2020,Arminia Bielefeld,Dortmund,0,2,8.69,5.25,1.34
+31.10.2020,2020,Augsburg,Mainz,3,1,2.35,3.42,3.03
+31.10.2020,2020,B. Monchengladbach,RB Leipzig,1,0,2.76,3.59,2.45
+31.10.2020,2020,Eintracht Frankfurt,Werder Bremen,1,1,1.78,3.96,4.26
+30.10.2020,2020,Schalke,Stuttgart,1,1,3.10,3.59,2.25
+26.10.2020,2020,Bayer Leverkusen,Augsburg,3,1,1.55,4.27,5.94
+25.10.2020,2020,Werder Bremen,Hoffenheim,1,1,2.68,3.66,2.50
+25.10.2020,2020,Wolfsburg,Arminia Bielefeld,2,1,1.63,4.02,5.48
+24.10.2020,2020,Bayern Munich,Eintracht Frankfurt,5,0,1.17,8.31,13.46
+24.10.2020,2020,Dortmund,Schalke,3,0,1.19,7.19,15.13
+24.10.2020,2020,Mainz,B. Monchengladbach,2,3,3.76,3.75,1.94
+24.10.2020,2020,RB Leipzig,Hertha Berlin,2,1,1.53,4.52,5.79
+24.10.2020,2020,Union Berlin,Freiburg,1,1,2.17,3.36,3.45
+23.10.2020,2020,Stuttgart,FC Koln,1,1,1.92,3.98,3.61
+18.10.2020,2020,FC Koln,Eintracht Frankfurt,1,1,2.89,3.69,2.32
+18.10.2020,2020,Schalke,Union Berlin,1,1,3.12,3.28,2.36
+17.10.2020,2020,Arminia Bielefeld,Bayern Munich,1,4,15.98,8.84,1.15
+17.10.2020,2020,Augsburg,RB Leipzig,0,2,5.86,4.55,1.52
+17.10.2020,2020,B. Monchengladbach,Wolfsburg,1,1,1.77,3.98,4.32
+17.10.2020,2020,Freiburg,Werder Bremen,1,1,2.12,3.60,3.36
+17.10.2020,2020,Hertha Berlin,Stuttgart,0,2,2.00,3.88,3.44
+17.10.2020,2020,Hoffenheim,Dortmund,0,1,4.06,4.20,1.77
+17.10.2020,2020,Mainz,Bayer Leverkusen,0,1,5.37,4.44,1.57
+04.10.2020,2020,Bayern Munich,Hertha Berlin,4,3,1.17,8.19,14.13
+04.10.2020,2020,Wolfsburg,Augsburg,0,0,1.94,3.65,3.90
+03.10.2020,2020,FC Koln,B. Monchengladbach,1,3,3.94,3.98,1.85
+03.10.2020,2020,Dortmund,Freiburg,4,0,1.38,5.23,7.65
+03.10.2020,2020,Eintracht Frankfurt,Hoffenheim,2,1,2.73,3.83,2.37
+03.10.2020,2020,RB Leipzig,Schalke,4,0,1.29,5.89,9.67
+03.10.2020,2020,Stuttgart,Bayer Leverkusen,1,1,3.08,3.71,2.22
+03.10.2020,2020,Werder Bremen,Arminia Bielefeld,1,0,2.14,3.51,3.36
+02.10.2020,2020,Union Berlin,Mainz,4,0,2.08,3.57,3.47
+27.09.2020,2020,Freiburg,Wolfsburg,1,1,2.85,3.38,2.48
+27.09.2020,2020,Hoffenheim,Bayern Munich,4,1,10.51,7.55,1.22
+26.09.2020,2020,Arminia Bielefeld,FC Koln,1,0,2.45,3.47,2.85
+26.09.2020,2020,Augsburg,Dortmund,2,0,6.63,4.56,1.48
+26.09.2020,2020,Bayer Leverkusen,RB Leipzig,1,1,3.14,3.69,2.17
+26.09.2020,2020,B. Monchengladbach,Union Berlin,1,1,1.46,4.59,6.95
+26.09.2020,2020,Mainz,Stuttgart,1,4,2.46,3.62,2.74
+26.09.2020,2020,Schalke,Werder Bremen,1,3,2.64,3.31,2.73
+25.09.2020,2020,Hertha Berlin,Eintracht Frankfurt,1,3,2.30,3.74,2.89
+20.09.2020,2020,RB Leipzig,Mainz,3,1,1.38,5.35,7.21
+20.09.2020,2020,Wolfsburg,Bayer Leverkusen,0,0,3.06,3.56,2.29
+19.09.2020,2020,FC Koln,Hoffenheim,2,3,2.59,3.52,2.66
+19.09.2020,2020,Dortmund,B. Monchengladbach,3,0,1.64,4.10,5.17
+19.09.2020,2020,Eintracht Frankfurt,Arminia Bielefeld,1,1,1.74,4.05,4.44
+19.09.2020,2020,Union Berlin,Augsburg,1,3,2.33,3.24,3.22
+19.09.2020,2020,Stuttgart,Freiburg,2,3,2.14,3.69,3.23
+19.09.2020,2020,Werder Bremen,Hertha Berlin,1,4,2.55,3.41,2.77
+18.09.2020,2020,Bayern Munich,Schalke,8,0,1.11,10.97,19.93

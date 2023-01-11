@@ -1,381 +1,381 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-31.05.2015,2014,AS Roma,Palermo,1,2
-31.05.2015,2014,Cagliari,Udinese,4,3
-31.05.2015,2014,Fiorentina,Chievo,3,0
-31.05.2015,2014,Inter,Empoli,4,3
-31.05.2015,2014,Napoli,Lazio,2,4
-31.05.2015,2014,Sampdoria,Parma,2,2
-31.05.2015,2014,Sassuolo,Genoa,3,1
-31.05.2015,2014,Torino,Cesena,5,0
-30.05.2015,2014,Atalanta,AC Milan,1,3
-30.05.2015,2014,Verona,Juventus,2,2
-25.05.2015,2014,Lazio,AS Roma,1,2
-24.05.2015,2014,AC Milan,Torino,3,0
-24.05.2015,2014,Cesena,Cagliari,0,1
-24.05.2015,2014,Chievo,Atalanta,1,1
-24.05.2015,2014,Empoli,Sampdoria,1,1
-24.05.2015,2014,Palermo,Fiorentina,2,3
-24.05.2015,2014,Parma,Verona,2,2
-24.05.2015,2014,Udinese,Sassuolo,0,1
-23.05.2015,2014,Genoa,Inter,3,2
-23.05.2015,2014,Juventus,Napoli,3,1
-18.05.2015,2014,Fiorentina,Parma,3,0
-18.05.2015,2014,Napoli,Cesena,3,2
-17.05.2015,2014,AS Roma,Udinese,2,1
-17.05.2015,2014,Atalanta,Genoa,1,4
-17.05.2015,2014,Cagliari,Palermo,0,1
-17.05.2015,2014,Sassuolo,AC Milan,3,2
-17.05.2015,2014,Torino,Chievo,2,0
-17.05.2015,2014,Verona,Empoli,2,1
-16.05.2015,2014,Inter,Juventus,1,2
-16.05.2015,2014,Sampdoria,Lazio,0,1
-11.05.2015,2014,Genoa,Torino,5,1
-10.05.2015,2014,Cesena,Sassuolo,2,3
-10.05.2015,2014,Chievo,Verona,2,2
-10.05.2015,2014,Empoli,Fiorentina,2,3
-10.05.2015,2014,Lazio,Inter,1,2
-10.05.2015,2014,Palermo,Atalanta,2,3
-10.05.2015,2014,Parma,Napoli,2,2
-10.05.2015,2014,Udinese,Sampdoria,1,4
-09.05.2015,2014,AC Milan,AS Roma,2,1
-09.05.2015,2014,Juventus,Cagliari,1,1
-06.05.2015,2014,Torino,Empoli,0,1
-04.05.2015,2014,Cagliari,Parma,4,0
-03.05.2015,2014,AS Roma,Genoa,2,0
-03.05.2015,2014,Atalanta,Lazio,1,1
-03.05.2015,2014,Fiorentina,Cesena,3,1
-03.05.2015,2014,Inter,Chievo,0,0
-03.05.2015,2014,Napoli,AC Milan,3,0
-03.05.2015,2014,Verona,Udinese,0,1
-02.05.2015,2014,Sampdoria,Juventus,0,1
-02.05.2015,2014,Sassuolo,Palermo,0,0
-30.04.2015,2014,Empoli,Napoli,4,2
-29.04.2015,2014,AC Milan,Genoa,1,3
-29.04.2015,2014,Cesena,Atalanta,2,2
-29.04.2015,2014,Chievo,Cagliari,1,0
-29.04.2015,2014,Juventus,Fiorentina,3,2
-29.04.2015,2014,Lazio,Parma,4,0
-29.04.2015,2014,Palermo,Torino,2,2
-29.04.2015,2014,Sampdoria,Verona,1,1
-29.04.2015,2014,Sassuolo,AS Roma,0,3
-28.04.2015,2014,Udinese,Inter,1,2
-26.04.2015,2014,Atalanta,Empoli,2,2
-26.04.2015,2014,Fiorentina,Cagliari,1,3
-26.04.2015,2014,Genoa,Cesena,3,1
-26.04.2015,2014,Lazio,Chievo,1,1
-26.04.2015,2014,Napoli,Sampdoria,4,2
-26.04.2015,2014,Parma,Palermo,1,0
-26.04.2015,2014,Torino,Juventus,2,1
-26.04.2015,2014,Verona,Sassuolo,3,2
-25.04.2015,2014,Inter,AS Roma,2,1
-25.04.2015,2014,Udinese,AC Milan,2,1
-20.04.2015,2014,Fiorentina,Verona,0,1
-19.04.2015,2014,AS Roma,Atalanta,1,1
-19.04.2015,2014,Cagliari,Napoli,0,3
-19.04.2015,2014,Chievo,Udinese,1,1
-19.04.2015,2014,Empoli,Parma,2,2
-19.04.2015,2014,Inter,AC Milan,0,0
-19.04.2015,2014,Palermo,Genoa,2,1
-19.04.2015,2014,Sassuolo,Torino,1,1
-18.04.2015,2014,Juventus,Lazio,2,0
-18.04.2015,2014,Sampdoria,Cesena,0,0
-15.04.2015,2014,Genoa,Parma,2,0
-12.04.2015,2014,AC Milan,Sampdoria,1,1
-12.04.2015,2014,Atalanta,Sassuolo,2,1
-12.04.2015,2014,Cesena,Chievo,0,1
-12.04.2015,2014,Lazio,Empoli,4,0
-12.04.2015,2014,Napoli,Fiorentina,3,0
-12.04.2015,2014,Torino,AS Roma,1,1
-12.04.2015,2014,Udinese,Palermo,1,3
-11.04.2015,2014,Genoa,Cagliari,2,0
-11.04.2015,2014,Parma,Juventus,1,0
-11.04.2015,2014,Verona,Inter,0,3
-08.04.2015,2014,Parma,Udinese,1,0
-04.04.2015,2014,AS Roma,Napoli,1,0
-04.04.2015,2014,Atalanta,Torino,1,2
-04.04.2015,2014,Cagliari,Lazio,1,3
-04.04.2015,2014,Fiorentina,Sampdoria,2,0
-04.04.2015,2014,Genoa,Udinese,1,1
-04.04.2015,2014,Inter,Parma,1,1
-04.04.2015,2014,Juventus,Empoli,2,0
-04.04.2015,2014,Palermo,AC Milan,1,2
-04.04.2015,2014,Sassuolo,Chievo,1,0
-04.04.2015,2014,Verona,Cesena,3,3
-22.03.2015,2014,Cesena,AS Roma,0,1
-22.03.2015,2014,Empoli,Sassuolo,3,1
-22.03.2015,2014,Juventus,Genoa,1,0
-22.03.2015,2014,Lazio,Verona,2,0
-22.03.2015,2014,Napoli,Atalanta,1,1
-22.03.2015,2014,Parma,Torino,0,2
-22.03.2015,2014,Sampdoria,Inter,1,0
-22.03.2015,2014,Udinese,Fiorentina,2,2
-21.03.2015,2014,AC Milan,Cagliari,3,1
-21.03.2015,2014,Chievo,Palermo,1,0
-16.03.2015,2014,AS Roma,Sampdoria,0,2
-16.03.2015,2014,Fiorentina,AC Milan,2,1
-16.03.2015,2014,Torino,Lazio,0,2
-15.03.2015,2014,Atalanta,Udinese,0,0
-15.03.2015,2014,Genoa,Chievo,0,2
-15.03.2015,2014,Inter,Cesena,1,1
-15.03.2015,2014,Sassuolo,Parma,4,1
-15.03.2015,2014,Verona,Napoli,2,0
-14.03.2015,2014,Cagliari,Empoli,1,1
-14.03.2015,2014,Palermo,Juventus,0,1
-09.03.2015,2014,Juventus,Sassuolo,1,0
-09.03.2015,2014,Lazio,Fiorentina,4,0
-08.03.2015,2014,Cesena,Palermo,0,0
-08.03.2015,2014,Chievo,AS Roma,0,0
-08.03.2015,2014,Empoli,Genoa,1,1
-08.03.2015,2014,Napoli,Inter,2,2
-08.03.2015,2014,Parma,Atalanta,0,0
-08.03.2015,2014,Udinese,Torino,3,2
-07.03.2015,2014,AC Milan,Verona,2,2
-07.03.2015,2014,Sampdoria,Cagliari,2,0
-02.03.2015,2014,AS Roma,Juventus,1,1
-01.03.2015,2014,Atalanta,Sampdoria,1,2
-01.03.2015,2014,Cagliari,Verona,1,2
-01.03.2015,2014,Cesena,Udinese,1,0
-01.03.2015,2014,Inter,Fiorentina,0,1
-01.03.2015,2014,Palermo,Empoli,0,0
-01.03.2015,2014,Sassuolo,Lazio,0,3
-01.03.2015,2014,Torino,Napoli,1,0
-28.02.2015,2014,Chievo,AC Milan,0,0
-24.02.2015,2014,Sampdoria,Genoa,1,1
-23.02.2015,2014,Cagliari,Inter,1,2
-23.02.2015,2014,Napoli,Sassuolo,2,0
-22.02.2015,2014,AC Milan,Cesena,2,0
-22.02.2015,2014,Empoli,Chievo,3,0
-22.02.2015,2014,Fiorentina,Torino,1,1
-22.02.2015,2014,Lazio,Palermo,2,1
-22.02.2015,2014,Verona,AS Roma,1,1
-20.02.2015,2014,Juventus,Atalanta,2,1
-15.02.2015,2014,AC Milan,Empoli,1,1
-15.02.2015,2014,AS Roma,Parma,0,0
-15.02.2015,2014,Atalanta,Inter,1,4
-15.02.2015,2014,Cesena,Juventus,2,2
-15.02.2015,2014,Chievo,Sampdoria,2,1
-15.02.2015,2014,Genoa,Verona,5,2
-15.02.2015,2014,Torino,Cagliari,1,1
-15.02.2015,2014,Udinese,Lazio,0,1
-14.02.2015,2014,Palermo,Napoli,3,1
-14.02.2015,2014,Sassuolo,Fiorentina,1,3
-11.02.2015,2014,Parma,Chievo,0,1
-09.02.2015,2014,Lazio,Genoa,0,1
-08.02.2015,2014,Cagliari,AS Roma,1,2
-08.02.2015,2014,Empoli,Cesena,2,0
-08.02.2015,2014,Fiorentina,Atalanta,3,2
-08.02.2015,2014,Inter,Palermo,3,0
-08.02.2015,2014,Napoli,Udinese,3,1
-08.02.2015,2014,Sampdoria,Sassuolo,1,1
-07.02.2015,2014,Juventus,AC Milan,3,1
-07.02.2015,2014,Verona,Torino,1,3
-01.02.2015,2014,AC Milan,Parma,3,1
-01.02.2015,2014,Atalanta,Cagliari,2,1
-01.02.2015,2014,Cesena,Lazio,2,1
-01.02.2015,2014,Chievo,Napoli,1,2
-01.02.2015,2014,Palermo,Verona,2,1
-01.02.2015,2014,Sassuolo,Inter,3,1
-01.02.2015,2014,Torino,Sampdoria,5,1
-01.02.2015,2014,Udinese,Juventus,0,0
-31.01.2015,2014,AS Roma,Empoli,1,1
-31.01.2015,2014,Genoa,Fiorentina,1,1
-26.01.2015,2014,Empoli,Udinese,1,2
-26.01.2015,2014,Napoli,Genoa,2,1
-25.01.2015,2014,Fiorentina,AS Roma,1,1
-25.01.2015,2014,Inter,Torino,0,1
-25.01.2015,2014,Juventus,Chievo,2,0
-25.01.2015,2014,Parma,Cesena,1,2
-25.01.2015,2014,Sampdoria,Palermo,1,1
-25.01.2015,2014,Verona,Atalanta,1,0
-24.01.2015,2014,Cagliari,Sassuolo,2,1
-24.01.2015,2014,Lazio,AC Milan,3,1
-18.01.2015,2014,AC Milan,Atalanta,0,1
-18.01.2015,2014,Cesena,Torino,2,3
-18.01.2015,2014,Chievo,Fiorentina,1,2
-18.01.2015,2014,Genoa,Sassuolo,3,3
-18.01.2015,2014,Juventus,Verona,4,0
-18.01.2015,2014,Lazio,Napoli,0,1
-18.01.2015,2014,Parma,Sampdoria,0,2
-18.01.2015,2014,Udinese,Cagliari,2,2
-17.01.2015,2014,Empoli,Inter,0,0
-17.01.2015,2014,Palermo,AS Roma,1,1
-11.01.2015,2014,AS Roma,Lazio,2,2
-11.01.2015,2014,Atalanta,Chievo,1,1
-11.01.2015,2014,Cagliari,Cesena,2,1
-11.01.2015,2014,Fiorentina,Palermo,4,3
-11.01.2015,2014,Inter,Genoa,3,1
-11.01.2015,2014,Napoli,Juventus,1,3
-11.01.2015,2014,Sampdoria,Empoli,1,0
-11.01.2015,2014,Verona,Parma,3,1
-10.01.2015,2014,Sassuolo,Udinese,1,1
-10.01.2015,2014,Torino,AC Milan,1,1
-06.01.2015,2014,AC Milan,Sassuolo,1,2
-06.01.2015,2014,Cesena,Napoli,1,4
-06.01.2015,2014,Chievo,Torino,0,0
-06.01.2015,2014,Empoli,Verona,0,0
-06.01.2015,2014,Genoa,Atalanta,2,2
-06.01.2015,2014,Juventus,Inter,1,1
-06.01.2015,2014,Palermo,Cagliari,5,0
-06.01.2015,2014,Parma,Fiorentina,1,0
-06.01.2015,2014,Udinese,AS Roma,0,1
-05.01.2015,2014,Lazio,Sampdoria,3,0
-21.12.2014,2014,Atalanta,Palermo,3,3
-21.12.2014,2014,Fiorentina,Empoli,1,1
-21.12.2014,2014,Inter,Lazio,2,2
-21.12.2014,2014,Sampdoria,Udinese,2,2
-21.12.2014,2014,Torino,Genoa,2,1
-21.12.2014,2014,Verona,Chievo,0,1
-20.12.2014,2014,AS Roma,AC Milan,0,0
-20.12.2014,2014,Sassuolo,Cesena,1,1
-18.12.2014,2014,Cagliari,Juventus,1,3
-18.12.2014,2014,Napoli,Parma,2,0
-15.12.2014,2014,Chievo,Inter,0,2
-15.12.2014,2014,Empoli,Torino,0,0
-14.12.2014,2014,AC Milan,Napoli,2,0
-14.12.2014,2014,Cesena,Fiorentina,1,4
-14.12.2014,2014,Genoa,AS Roma,0,1
-14.12.2014,2014,Juventus,Sampdoria,1,1
-14.12.2014,2014,Parma,Cagliari,0,0
-14.12.2014,2014,Udinese,Verona,1,2
-13.12.2014,2014,Lazio,Atalanta,3,0
-13.12.2014,2014,Palermo,Sassuolo,2,1
-08.12.2014,2014,Cagliari,Chievo,0,2
-08.12.2014,2014,Verona,Sampdoria,1,3
-07.12.2014,2014,Atalanta,Cesena,3,2
-07.12.2014,2014,Genoa,AC Milan,1,0
-07.12.2014,2014,Inter,Udinese,1,2
-07.12.2014,2014,Napoli,Empoli,2,2
-07.12.2014,2014,Parma,Lazio,1,2
-06.12.2014,2014,AS Roma,Sassuolo,2,2
-06.12.2014,2014,Torino,Palermo,2,2
-05.12.2014,2014,Fiorentina,Juventus,0,0
-01.12.2014,2014,Sampdoria,Napoli,1,1
-30.11.2014,2014,AC Milan,Udinese,2,0
-30.11.2014,2014,AS Roma,Inter,4,2
-30.11.2014,2014,Cagliari,Fiorentina,0,4
-30.11.2014,2014,Cesena,Genoa,0,3
-30.11.2014,2014,Empoli,Atalanta,0,0
-30.11.2014,2014,Juventus,Torino,2,1
-30.11.2014,2014,Palermo,Parma,2,1
-29.11.2014,2014,Chievo,Lazio,0,0
-29.11.2014,2014,Sassuolo,Verona,2,1
-24.11.2014,2014,Genoa,Palermo,1,1
-23.11.2014,2014,AC Milan,Inter,1,1
-23.11.2014,2014,Cesena,Sampdoria,1,1
-23.11.2014,2014,Napoli,Cagliari,3,3
-23.11.2014,2014,Parma,Empoli,0,2
-23.11.2014,2014,Torino,Sassuolo,0,1
-23.11.2014,2014,Udinese,Chievo,1,1
-23.11.2014,2014,Verona,Fiorentina,1,2
-22.11.2014,2014,Atalanta,AS Roma,1,2
-22.11.2014,2014,Lazio,Juventus,0,3
-09.11.2014,2014,AS Roma,Torino,3,0
-09.11.2014,2014,Cagliari,Genoa,1,1
-09.11.2014,2014,Chievo,Cesena,2,1
-09.11.2014,2014,Empoli,Lazio,2,1
-09.11.2014,2014,Fiorentina,Napoli,0,1
-09.11.2014,2014,Inter,Verona,2,2
-09.11.2014,2014,Juventus,Parma,7,0
-09.11.2014,2014,Palermo,Udinese,1,1
-08.11.2014,2014,Sampdoria,AC Milan,2,2
-08.11.2014,2014,Sassuolo,Atalanta,0,0
-03.11.2014,2014,Cesena,Verona,1,1
-03.11.2014,2014,Lazio,Cagliari,4,2
-02.11.2014,2014,AC Milan,Palermo,0,2
-02.11.2014,2014,Chievo,Sassuolo,0,0
-02.11.2014,2014,Sampdoria,Fiorentina,3,1
-02.11.2014,2014,Torino,Atalanta,0,0
-02.11.2014,2014,Udinese,Genoa,2,4
-01.11.2014,2014,Empoli,Juventus,0,2
-01.11.2014,2014,Napoli,AS Roma,2,0
-01.11.2014,2014,Parma,Inter,2,0
-30.10.2014,2014,Verona,Lazio,1,1
-29.10.2014,2014,AS Roma,Cesena,2,0
-29.10.2014,2014,Atalanta,Napoli,1,1
-29.10.2014,2014,Cagliari,AC Milan,1,1
-29.10.2014,2014,Fiorentina,Udinese,3,0
-29.10.2014,2014,Genoa,Juventus,1,0
-29.10.2014,2014,Inter,Sampdoria,1,0
-29.10.2014,2014,Palermo,Chievo,1,0
-29.10.2014,2014,Torino,Parma,1,0
-28.10.2014,2014,Sassuolo,Empoli,3,1
-26.10.2014,2014,AC Milan,Fiorentina,1,1
-26.10.2014,2014,Cesena,Inter,0,1
-26.10.2014,2014,Chievo,Genoa,1,2
-26.10.2014,2014,Juventus,Palermo,2,0
-26.10.2014,2014,Lazio,Torino,2,1
-26.10.2014,2014,Napoli,Verona,6,2
-26.10.2014,2014,Udinese,Atalanta,2,0
-25.10.2014,2014,Empoli,Cagliari,0,4
-25.10.2014,2014,Parma,Sassuolo,1,3
-25.10.2014,2014,Sampdoria,AS Roma,0,0
-20.10.2014,2014,Genoa,Empoli,1,1
-19.10.2014,2014,Atalanta,Parma,1,0
-19.10.2014,2014,Cagliari,Sampdoria,2,2
-19.10.2014,2014,Fiorentina,Lazio,0,2
-19.10.2014,2014,Inter,Napoli,2,2
-19.10.2014,2014,Palermo,Cesena,2,1
-19.10.2014,2014,Torino,Udinese,1,0
-19.10.2014,2014,Verona,AC Milan,1,3
-18.10.2014,2014,AS Roma,Chievo,3,0
-18.10.2014,2014,Sassuolo,Juventus,1,1
-05.10.2014,2014,Empoli,Palermo,3,0
-05.10.2014,2014,Fiorentina,Inter,3,0
-05.10.2014,2014,Juventus,AS Roma,3,2
-05.10.2014,2014,Lazio,Sassuolo,3,2
-05.10.2014,2014,Napoli,Torino,2,1
-05.10.2014,2014,Parma,Genoa,1,2
-05.10.2014,2014,Sampdoria,Atalanta,1,0
-05.10.2014,2014,Udinese,Cesena,1,1
-04.10.2014,2014,AC Milan,Chievo,2,0
-04.10.2014,2014,Verona,Cagliari,1,0
-29.09.2014,2014,Palermo,Lazio,0,4
-29.09.2014,2014,Udinese,Parma,4,2
-28.09.2014,2014,Cesena,AC Milan,1,1
-28.09.2014,2014,Chievo,Empoli,1,1
-28.09.2014,2014,Genoa,Sampdoria,0,1
-28.09.2014,2014,Inter,Cagliari,1,4
-28.09.2014,2014,Sassuolo,Napoli,0,1
-28.09.2014,2014,Torino,Fiorentina,1,1
-27.09.2014,2014,AS Roma,Verona,2,0
-27.09.2014,2014,Atalanta,Juventus,0,3
-25.09.2014,2014,Lazio,Udinese,0,1
-24.09.2014,2014,Cagliari,Torino,1,2
-24.09.2014,2014,Fiorentina,Sassuolo,0,0
-24.09.2014,2014,Inter,Atalanta,2,0
-24.09.2014,2014,Juventus,Cesena,3,0
-24.09.2014,2014,Napoli,Palermo,3,3
-24.09.2014,2014,Parma,AS Roma,1,2
-24.09.2014,2014,Sampdoria,Chievo,2,1
-24.09.2014,2014,Verona,Genoa,2,2
-23.09.2014,2014,Empoli,AC Milan,2,2
-21.09.2014,2014,AS Roma,Cagliari,2,0
-21.09.2014,2014,Atalanta,Fiorentina,0,1
-21.09.2014,2014,Chievo,Parma,2,3
-21.09.2014,2014,Genoa,Lazio,1,0
-21.09.2014,2014,Palermo,Inter,1,1
-21.09.2014,2014,Sassuolo,Sampdoria,0,0
-21.09.2014,2014,Torino,Verona,0,1
-21.09.2014,2014,Udinese,Napoli,1,0
-20.09.2014,2014,AC Milan,Juventus,0,1
-20.09.2014,2014,Cesena,Empoli,2,2
-15.09.2014,2014,Verona,Palermo,2,1
-14.09.2014,2014,Cagliari,Atalanta,1,2
-14.09.2014,2014,Fiorentina,Genoa,0,0
-14.09.2014,2014,Inter,Sassuolo,7,0
-14.09.2014,2014,Lazio,Cesena,3,0
-14.09.2014,2014,Napoli,Chievo,0,1
-14.09.2014,2014,Parma,AC Milan,4,5
-14.09.2014,2014,Sampdoria,Torino,2,0
-13.09.2014,2014,Empoli,AS Roma,0,1
-13.09.2014,2014,Juventus,Udinese,2,0
-31.08.2014,2014,AC Milan,Lazio,3,1
-31.08.2014,2014,Atalanta,Verona,0,0
-31.08.2014,2014,Cesena,Parma,1,0
-31.08.2014,2014,Genoa,Napoli,1,2
-31.08.2014,2014,Palermo,Sampdoria,1,1
-31.08.2014,2014,Sassuolo,Cagliari,1,1
-31.08.2014,2014,Torino,Inter,0,0
-31.08.2014,2014,Udinese,Empoli,2,0
-30.08.2014,2014,AS Roma,Fiorentina,2,0
-30.08.2014,2014,Chievo,Juventus,0,1
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+31.05.2015,2014,AS Roma,Palermo,1,2,1.58,4.22,5.43
+31.05.2015,2014,Cagliari,Udinese,4,3,2.00,3.66,3.61
+31.05.2015,2014,Fiorentina,Chievo,3,0,1.32,5.38,8.93
+31.05.2015,2014,Inter,Empoli,4,3,1.53,4.39,5.86
+31.05.2015,2014,Napoli,Lazio,2,4,1.91,3.61,4.01
+31.05.2015,2014,Sampdoria,Parma,2,2,1.46,4.67,6.65
+31.05.2015,2014,Sassuolo,Genoa,3,1,3.07,3.64,2.21
+31.05.2015,2014,Torino,Cesena,5,0,1.38,5.02,7.68
+30.05.2015,2014,Atalanta,AC Milan,1,3,2.74,3.42,2.53
+30.05.2015,2014,Verona,Juventus,2,2,5.21,4.09,1.63
+25.05.2015,2014,Lazio,AS Roma,1,2,2.57,2.53,3.68
+24.05.2015,2014,AC Milan,Torino,3,0,2.39,3.37,2.99
+24.05.2015,2014,Cesena,Cagliari,0,1,2.73,3.47,2.52
+24.05.2015,2014,Chievo,Atalanta,1,1,2.11,3.33,3.62
+24.05.2015,2014,Empoli,Sampdoria,1,1,2.15,3.52,3.33
+24.05.2015,2014,Palermo,Fiorentina,2,3,3.67,3.57,2.00
+24.05.2015,2014,Parma,Verona,2,2,2.39,3.56,2.85
+24.05.2015,2014,Udinese,Sassuolo,0,1,2.05,3.50,3.62
+23.05.2015,2014,Genoa,Inter,3,2,2.79,3.28,2.58
+23.05.2015,2014,Juventus,Napoli,3,1,1.23,6.55,12.24
+18.05.2015,2014,Fiorentina,Parma,3,0,1.15,8.23,17.46
+18.05.2015,2014,Napoli,Cesena,3,2,1.33,5.23,9.42
+17.05.2015,2014,AS Roma,Udinese,2,1,2.71,3.23,2.67
+17.05.2015,2014,Atalanta,Genoa,1,4,2.06,3.56,3.55
+17.05.2015,2014,Cagliari,Palermo,0,1,2.74,3.40,2.58
+17.05.2015,2014,Sassuolo,AC Milan,3,2,1.91,3.48,4.24
+17.05.2015,2014,Torino,Chievo,2,0,2.97,3.43,2.37
+17.05.2015,2014,Verona,Empoli,2,1,1.99,3.48,3.86
+16.05.2015,2014,Inter,Juventus,1,2,3.33,3.36,2.22
+16.05.2015,2014,Sampdoria,Lazio,0,1,2.46,3.25,2.98
+11.05.2015,2014,Genoa,Torino,5,1,2.46,3.30,2.92
+10.05.2015,2014,Cesena,Sassuolo,2,3,2.51,3.14,3.02
+10.05.2015,2014,Chievo,Verona,2,2,2.58,3.32,2.78
+10.05.2015,2014,Empoli,Fiorentina,2,3,1.82,3.71,4.34
+10.05.2015,2014,Lazio,Inter,1,2,2.10,3.32,3.65
+10.05.2015,2014,Palermo,Atalanta,2,3,7.80,4.87,1.39
+10.05.2015,2014,Parma,Napoli,2,2,2.53,3.24,2.89
+10.05.2015,2014,Udinese,Sampdoria,1,4,3.87,3.42,2.02
+09.05.2015,2014,AC Milan,AS Roma,2,1,1.51,4.16,6.66
+09.05.2015,2014,Juventus,Cagliari,1,1,1.83,3.63,4.42
+06.05.2015,2014,Torino,Empoli,0,1,1.63,3.95,5.48
+04.05.2015,2014,Cagliari,Parma,4,0,1.52,4.18,6.77
+03.05.2015,2014,AS Roma,Genoa,2,0,4.75,3.60,1.78
+03.05.2015,2014,Atalanta,Lazio,1,1,1.35,5.20,8.63
+03.05.2015,2014,Fiorentina,Cesena,3,1,1.41,4.55,8.28
+03.05.2015,2014,Inter,Chievo,0,0,1.43,4.65,7.64
+03.05.2015,2014,Napoli,AC Milan,3,0,2.17,3.41,3.39
+03.05.2015,2014,Verona,Udinese,0,1,4.21,3.19,2.02
+02.05.2015,2014,Sampdoria,Juventus,0,1,2.59,3.24,2.79
+02.05.2015,2014,Sassuolo,Palermo,0,0,4.53,3.67,1.81
+30.04.2015,2014,Empoli,Napoli,4,2,1.96,3.48,3.96
+29.04.2015,2014,AC Milan,Genoa,1,3,2.97,3.11,2.57
+29.04.2015,2014,Cesena,Atalanta,2,2,2.25,3.40,3.22
+29.04.2015,2014,Chievo,Cagliari,1,0,1.60,3.94,6.03
+29.04.2015,2014,Juventus,Fiorentina,3,2,1.25,5.90,12.47
+29.04.2015,2014,Lazio,Parma,4,0,2.55,3.19,2.91
+29.04.2015,2014,Palermo,Torino,2,2,1.64,3.87,5.56
+29.04.2015,2014,Sampdoria,Verona,1,1,5.56,3.80,1.66
+29.04.2015,2014,Sassuolo,AS Roma,0,3,3.56,3.32,2.14
+28.04.2015,2014,Udinese,Inter,1,2,2.56,2.89,3.20
+26.04.2015,2014,Atalanta,Empoli,2,2,1.42,4.76,7.43
+26.04.2015,2014,Fiorentina,Cagliari,1,3,1.53,4.05,6.96
+26.04.2015,2014,Genoa,Cesena,3,1,1.37,4.73,9.39
+26.04.2015,2014,Lazio,Chievo,1,1,1.46,4.51,7.19
+26.04.2015,2014,Napoli,Sampdoria,4,2,3.00,3.29,2.41
+26.04.2015,2014,Parma,Palermo,1,0,4.18,3.18,2.03
+26.04.2015,2014,Torino,Juventus,2,1,2.15,3.37,3.50
+26.04.2015,2014,Verona,Sassuolo,3,2,2.55,3.20,2.90
+25.04.2015,2014,Inter,AS Roma,2,1,3.11,3.21,2.41
+25.04.2015,2014,Udinese,AC Milan,2,1,1.49,4.41,6.65
+20.04.2015,2014,Fiorentina,Verona,0,1,1.41,4.52,8.44
+19.04.2015,2014,AS Roma,Atalanta,1,1,4.54,3.99,1.73
+19.04.2015,2014,Cagliari,Napoli,0,3,2.24,3.09,3.58
+19.04.2015,2014,Chievo,Udinese,1,1,1.56,3.97,6.47
+19.04.2015,2014,Empoli,Parma,2,2,2.27,3.25,3.36
+19.04.2015,2014,Inter,AC Milan,0,0,2.10,3.39,3.60
+19.04.2015,2014,Palermo,Genoa,2,1,3.14,3.21,2.40
+19.04.2015,2014,Sassuolo,Torino,1,1,1.95,3.33,4.28
+18.04.2015,2014,Juventus,Lazio,2,0,1.52,4.01,7.01
+18.04.2015,2014,Sampdoria,Cesena,0,0,1.68,3.71,5.49
+15.04.2015,2014,Genoa,Parma,2,0,1.94,3.42,4.15
+12.04.2015,2014,AC Milan,Sampdoria,1,1,1.93,3.38,4.23
+12.04.2015,2014,Atalanta,Sassuolo,2,1,2.79,3.06,2.74
+12.04.2015,2014,Cesena,Chievo,0,1,1.55,4.00,6.59
+12.04.2015,2014,Lazio,Empoli,4,0,1.89,3.54,4.22
+12.04.2015,2014,Napoli,Fiorentina,3,0,2.67,3.13,2.81
+12.04.2015,2014,Torino,AS Roma,1,1,2.36,3.17,3.25
+12.04.2015,2014,Udinese,Palermo,1,3,1.96,3.58,3.85
+11.04.2015,2014,Genoa,Cagliari,2,0,8.35,4.54,1.41
+11.04.2015,2014,Parma,Juventus,1,0,3.64,3.47,2.07
+11.04.2015,2014,Verona,Inter,0,3,3.05,3.09,2.52
+08.04.2015,2014,Parma,Udinese,1,0,2.30,3.28,3.28
+04.04.2015,2014,AS Roma,Napoli,1,0,2.90,3.10,2.61
+04.04.2015,2014,Atalanta,Torino,1,2,4.41,3.73,1.81
+04.04.2015,2014,Cagliari,Lazio,1,3,1.70,3.72,5.30
+04.04.2015,2014,Fiorentina,Sampdoria,2,0,1.96,3.38,4.15
+04.04.2015,2014,Genoa,Udinese,1,1,1.22,6.31,14.16
+04.04.2015,2014,Inter,Parma,1,1,1.38,4.70,9.28
+04.04.2015,2014,Juventus,Empoli,2,0,2.51,3.22,2.93
+04.04.2015,2014,Palermo,AC Milan,1,2,2.25,3.06,3.60
+04.04.2015,2014,Sassuolo,Chievo,1,0,1.86,3.50,4.46
+04.04.2015,2014,Verona,Cesena,3,3,5.55,3.65,1.69
+22.03.2015,2014,Cesena,AS Roma,0,1,1.97,3.33,4.16
+22.03.2015,2014,Empoli,Sassuolo,3,1,1.34,4.99,9.80
+22.03.2015,2014,Juventus,Genoa,1,0,1.35,4.92,9.83
+22.03.2015,2014,Lazio,Verona,2,0,1.38,4.65,9.22
+22.03.2015,2014,Napoli,Atalanta,1,1,4.89,3.50,1.79
+22.03.2015,2014,Parma,Torino,0,2,2.95,3.19,2.54
+22.03.2015,2014,Sampdoria,Inter,1,0,3.42,3.27,2.21
+22.03.2015,2014,Udinese,Fiorentina,2,2,1.79,3.78,4.47
+21.03.2015,2014,AC Milan,Cagliari,3,1,2.56,3.06,3.03
+21.03.2015,2014,Chievo,Palermo,1,0,1.59,3.87,6.32
+16.03.2015,2014,AS Roma,Sampdoria,0,2,1.89,3.52,4.32
+16.03.2015,2014,Fiorentina,AC Milan,2,1,3.44,3.21,2.26
+16.03.2015,2014,Torino,Lazio,0,2,2.23,3.16,3.51
+15.03.2015,2014,Atalanta,Udinese,0,0,1.82,3.48,4.72
+15.03.2015,2014,Genoa,Chievo,0,2,1.32,5.15,10.66
+15.03.2015,2014,Inter,Cesena,1,1,1.67,3.66,5.72
+15.03.2015,2014,Sassuolo,Parma,4,1,4.08,3.50,1.93
+15.03.2015,2014,Verona,Napoli,2,0,2.37,3.28,3.12
+14.03.2015,2014,Cagliari,Empoli,1,1,4.48,3.32,1.92
+14.03.2015,2014,Palermo,Juventus,0,1,1.20,6.72,15.20
+09.03.2015,2014,Juventus,Sassuolo,1,0,2.12,3.29,3.69
+09.03.2015,2014,Lazio,Fiorentina,4,0,3.09,3.22,2.41
+08.03.2015,2014,Cesena,Palermo,0,0,4.70,3.32,1.87
+08.03.2015,2014,Chievo,AS Roma,0,0,2.17,3.24,3.57
+08.03.2015,2014,Empoli,Genoa,1,1,1.92,3.52,4.14
+08.03.2015,2014,Napoli,Inter,2,2,3.09,3.19,2.44
+08.03.2015,2014,Parma,Atalanta,0,0,2.66,3.10,2.85
+08.03.2015,2014,Udinese,Torino,3,2,1.71,3.68,5.19
+07.03.2015,2014,AC Milan,Verona,2,2,1.86,3.52,4.41
+07.03.2015,2014,Sampdoria,Cagliari,2,0,2.90,3.14,2.63
+02.03.2015,2014,AS Roma,Juventus,1,1,2.45,3.17,3.07
+01.03.2015,2014,Atalanta,Sampdoria,1,2,1.99,3.48,3.84
+01.03.2015,2014,Cagliari,Verona,1,2,3.20,3.20,2.36
+01.03.2015,2014,Cesena,Udinese,1,0,2.15,3.33,3.54
+01.03.2015,2014,Inter,Fiorentina,0,1,2.27,3.27,3.30
+01.03.2015,2014,Palermo,Empoli,0,0,3.80,3.36,2.05
+01.03.2015,2014,Sassuolo,Lazio,0,3,3.08,3.20,2.43
+01.03.2015,2014,Torino,Napoli,1,0,3.16,3.18,2.39
+28.02.2015,2014,Chievo,AC Milan,0,0,2.52,3.08,2.99
+24.02.2015,2014,Sampdoria,Genoa,1,1,3.29,3.30,2.26
+23.02.2015,2014,Cagliari,Inter,1,2,1.45,4.40,7.45
+23.02.2015,2014,Napoli,Sassuolo,2,0,1.47,4.23,7.63
+22.02.2015,2014,AC Milan,Cesena,2,0,2.03,3.18,4.13
+22.02.2015,2014,Empoli,Chievo,3,0,1.93,3.38,4.24
+22.02.2015,2014,Fiorentina,Torino,1,1,1.65,3.77,5.63
+22.02.2015,2014,Lazio,Palermo,2,1,4.83,3.66,1.76
+22.02.2015,2014,Verona,AS Roma,1,1,1.18,7.02,17.32
+20.02.2015,2014,Juventus,Atalanta,2,1,1.85,3.47,4.57
+15.02.2015,2014,AC Milan,Empoli,1,1,1.26,5.79,12.67
+15.02.2015,2014,AS Roma,Parma,0,0,3.49,3.29,2.19
+15.02.2015,2014,Atalanta,Inter,1,4,13.07,5.69,1.26
+15.02.2015,2014,Cesena,Juventus,2,2,2.51,3.03,3.13
+15.02.2015,2014,Chievo,Sampdoria,2,1,1.88,3.46,4.35
+15.02.2015,2014,Genoa,Verona,5,2,1.81,3.50,4.74
+15.02.2015,2014,Torino,Cagliari,1,1,3.33,3.22,2.28
+15.02.2015,2014,Udinese,Lazio,0,1,3.80,3.49,2.00
+14.02.2015,2014,Palermo,Napoli,3,1,3.28,3.27,2.28
+14.02.2015,2014,Sassuolo,Fiorentina,1,3,2.57,3.14,2.92
+11.02.2015,2014,Parma,Chievo,0,1,1.55,4.00,6.53
+09.02.2015,2014,Lazio,Genoa,0,1,3.80,3.39,2.04
+08.02.2015,2014,Cagliari,AS Roma,1,2,1.56,3.89,6.61
+08.02.2015,2014,Empoli,Cesena,2,0,1.49,4.08,7.58
+08.02.2015,2014,Fiorentina,Atalanta,3,2,1.74,3.68,4.96
+08.02.2015,2014,Inter,Palermo,3,0,1.38,4.83,8.58
+08.02.2015,2014,Napoli,Udinese,3,1,1.77,3.55,4.96
+08.02.2015,2014,Sampdoria,Sassuolo,1,1,1.36,4.81,9.23
+07.02.2015,2014,Juventus,AC Milan,3,1,2.95,3.15,2.54
+07.02.2015,2014,Verona,Torino,1,3,1.61,3.87,5.91
+01.02.2015,2014,AC Milan,Parma,3,1,2.12,3.29,3.64
+01.02.2015,2014,Atalanta,Cagliari,2,1,6.99,4.02,1.53
+01.02.2015,2014,Cesena,Lazio,2,1,5.14,3.62,1.73
+01.02.2015,2014,Chievo,Napoli,1,2,1.78,3.70,4.64
+01.02.2015,2014,Palermo,Verona,2,1,3.25,3.22,2.32
+01.02.2015,2014,Sassuolo,Inter,3,1,2.12,3.16,3.82
+01.02.2015,2014,Torino,Sampdoria,5,1,8.29,4.32,1.44
+01.02.2015,2014,Udinese,Juventus,0,0,1.49,4.12,7.56
+31.01.2015,2014,AS Roma,Empoli,1,1,3.28,3.33,2.26
+31.01.2015,2014,Genoa,Fiorentina,1,1,2.02,3.30,4.02
+26.01.2015,2014,Empoli,Udinese,1,2,1.39,4.82,8.54
+26.01.2015,2014,Napoli,Genoa,2,1,2.41,3.26,3.07
+25.01.2015,2014,Fiorentina,AS Roma,1,1,1.82,3.43,4.87
+25.01.2015,2014,Inter,Torino,0,1,1.15,7.67,21.54
+25.01.2015,2014,Juventus,Chievo,2,0,1.63,3.75,5.95
+25.01.2015,2014,Parma,Cesena,1,2,2.04,3.35,3.83
+25.01.2015,2014,Sampdoria,Palermo,1,1,2.44,3.19,3.09
+25.01.2015,2014,Verona,Atalanta,1,0,2.29,3.23,3.28
+24.01.2015,2014,Cagliari,Sassuolo,2,1,1.93,3.41,4.19
+24.01.2015,2014,Lazio,AC Milan,3,1,1.59,3.81,6.46
+18.01.2015,2014,AC Milan,Atalanta,0,1,4.64,3.33,1.89
+18.01.2015,2014,Cesena,Torino,2,3,4.26,3.34,1.95
+18.01.2015,2014,Chievo,Fiorentina,1,2,2.16,3.31,3.54
+18.01.2015,2014,Genoa,Sassuolo,3,3,1.15,7.78,20.03
+18.01.2015,2014,Juventus,Verona,4,0,2.64,3.27,2.76
+18.01.2015,2014,Lazio,Napoli,0,1,2.76,3.15,2.72
+18.01.2015,2014,Parma,Sampdoria,0,2,2.03,3.33,3.84
+18.01.2015,2014,Udinese,Cagliari,2,2,3.41,3.27,2.23
+17.01.2015,2014,Empoli,Inter,0,0,3.54,3.34,2.14
+17.01.2015,2014,Palermo,AS Roma,1,1,2.16,3.25,3.65
+11.01.2015,2014,AS Roma,Lazio,2,2,2.17,3.15,3.71
+11.01.2015,2014,Atalanta,Chievo,1,1,1.62,3.76,6.03
+11.01.2015,2014,Cagliari,Cesena,2,1,1.66,3.90,5.41
+11.01.2015,2014,Fiorentina,Palermo,4,3,1.65,3.74,5.74
+11.01.2015,2014,Inter,Genoa,3,1,3.06,3.18,2.45
+11.01.2015,2014,Napoli,Juventus,1,3,2.07,3.29,3.81
+11.01.2015,2014,Sampdoria,Empoli,1,0,2.44,3.24,3.03
+11.01.2015,2014,Verona,Parma,3,1,2.06,3.27,3.91
+10.01.2015,2014,Sassuolo,Udinese,1,1,2.61,3.12,2.91
+10.01.2015,2014,Torino,AC Milan,1,1,1.60,3.94,6.00
+06.01.2015,2014,AC Milan,Sassuolo,1,2,9.41,4.93,1.36
+06.01.2015,2014,Cesena,Napoli,1,4,2.89,3.02,2.68
+06.01.2015,2014,Chievo,Torino,0,0,1.88,3.48,4.36
+06.01.2015,2014,Empoli,Verona,0,0,2.12,3.20,3.80
+06.01.2015,2014,Genoa,Atalanta,2,2,1.44,4.46,8.01
+06.01.2015,2014,Juventus,Inter,1,1,2.10,3.28,3.72
+06.01.2015,2014,Palermo,Cagliari,5,0,4.08,3.41,1.96
+06.01.2015,2014,Parma,Fiorentina,1,0,4.41,3.38,1.90
+06.01.2015,2014,Udinese,AS Roma,0,1,1.76,3.51,5.11
+05.01.2015,2014,Lazio,Sampdoria,3,0,2.44,3.17,3.08
+21.12.2014,2014,Atalanta,Palermo,3,3,1.51,4.14,6.98
+21.12.2014,2014,Fiorentina,Empoli,1,1,2.30,3.22,3.30
+21.12.2014,2014,Inter,Lazio,2,2,1.75,3.56,5.16
+21.12.2014,2014,Sampdoria,Udinese,2,2,1.94,3.38,4.24
+21.12.2014,2014,Torino,Genoa,2,1,2.33,3.21,3.25
+21.12.2014,2014,Verona,Chievo,0,1,1.71,3.77,5.10
+20.12.2014,2014,AS Roma,AC Milan,0,0,1.46,4.17,8.01
+20.12.2014,2014,Sassuolo,Cesena,1,1,8.44,4.96,1.38
+18.12.2014,2014,Cagliari,Juventus,1,3,1.34,5.24,8.99
+18.12.2014,2014,Napoli,Parma,2,0,4.04,3.28,2.02
+15.12.2014,2014,Chievo,Inter,0,2,2.58,3.14,2.89
+15.12.2014,2014,Empoli,Torino,0,0,2.81,3.24,2.61
+14.12.2014,2014,AC Milan,Napoli,2,0,7.33,4.05,1.50
+14.12.2014,2014,Cesena,Fiorentina,1,4,3.69,3.38,2.07
+14.12.2014,2014,Genoa,AS Roma,0,1,1.32,5.16,10.66
+14.12.2014,2014,Juventus,Sampdoria,1,1,2.27,3.36,3.21
+14.12.2014,2014,Parma,Cagliari,0,0,1.85,3.61,4.32
+14.12.2014,2014,Udinese,Verona,1,2,1.60,3.78,6.34
+13.12.2014,2014,Lazio,Atalanta,3,0,1.95,3.37,4.13
+13.12.2014,2014,Palermo,Sassuolo,2,1,1.81,3.53,4.68
+08.12.2014,2014,Cagliari,Chievo,0,2,2.72,3.26,2.66
+08.12.2014,2014,Verona,Sampdoria,1,3,1.62,3.62,6.46
+07.12.2014,2014,Atalanta,Cesena,3,2,2.98,3.22,2.47
+07.12.2014,2014,Genoa,AC Milan,1,0,1.58,3.82,6.52
+07.12.2014,2014,Inter,Udinese,1,2,1.38,4.76,8.93
+07.12.2014,2014,Napoli,Empoli,2,2,3.53,3.31,2.15
+07.12.2014,2014,Parma,Lazio,1,2,1.39,4.81,8.29
+06.12.2014,2014,AS Roma,Sassuolo,2,2,1.88,3.35,4.54
+06.12.2014,2014,Torino,Palermo,2,2,3.48,3.24,2.21
+05.12.2014,2014,Fiorentina,Juventus,0,0,3.50,3.25,2.19
+01.12.2014,2014,Sampdoria,Napoli,1,1,1.61,3.86,5.90
+30.11.2014,2014,AC Milan,Udinese,2,0,1.78,3.61,4.72
+30.11.2014,2014,AS Roma,Inter,4,2,3.31,3.41,2.20
+30.11.2014,2014,Cagliari,Fiorentina,0,4,3.59,3.18,2.19
+30.11.2014,2014,Cesena,Genoa,0,3,2.14,3.25,3.63
+30.11.2014,2014,Empoli,Atalanta,0,0,1.30,5.26,11.63
+30.11.2014,2014,Juventus,Torino,2,1,1.89,3.45,4.38
+30.11.2014,2014,Palermo,Parma,2,1,3.82,3.31,2.06
+29.11.2014,2014,Chievo,Lazio,0,0,2.05,3.44,3.68
+29.11.2014,2014,Sassuolo,Verona,2,1,2.19,3.26,3.47
+24.11.2014,2014,Genoa,Palermo,1,1,2.84,3.20,2.59
+23.11.2014,2014,AC Milan,Inter,1,1,4.19,3.29,1.97
+23.11.2014,2014,Cesena,Sampdoria,1,1,1.35,5.14,8.72
+23.11.2014,2014,Napoli,Cagliari,3,3,2.14,3.31,3.56
+23.11.2014,2014,Parma,Empoli,0,2,1.83,3.43,4.64
+23.11.2014,2014,Torino,Sassuolo,0,1,1.91,3.36,4.31
+23.11.2014,2014,Udinese,Chievo,1,1,3.64,3.37,2.08
+23.11.2014,2014,Verona,Fiorentina,1,2,4.79,3.45,1.81
+22.11.2014,2014,Atalanta,AS Roma,1,2,3.97,3.37,1.99
+22.11.2014,2014,Lazio,Juventus,0,3,1.58,3.84,6.31
+09.11.2014,2014,AS Roma,Torino,3,0,2.04,3.39,3.79
+09.11.2014,2014,Cagliari,Genoa,1,1,1.76,3.44,5.28
+09.11.2014,2014,Chievo,Cesena,2,1,3.74,3.37,2.05
+09.11.2014,2014,Empoli,Lazio,2,1,2.55,3.26,2.83
+09.11.2014,2014,Fiorentina,Napoli,0,1,1.48,4.37,6.84
+09.11.2014,2014,Inter,Verona,2,2,1.22,6.15,14.25
+09.11.2014,2014,Juventus,Parma,7,0,2.07,3.27,3.83
+09.11.2014,2014,Palermo,Udinese,1,1,2.59,3.26,2.80
+08.11.2014,2014,Sampdoria,AC Milan,2,2,2.06,3.33,3.75
+08.11.2014,2014,Sassuolo,Atalanta,0,0,3.16,3.17,2.38
+03.11.2014,2014,Cesena,Verona,1,1,1.65,3.89,5.31
+03.11.2014,2014,Lazio,Cagliari,4,2,1.51,4.09,6.97
+02.11.2014,2014,AC Milan,Palermo,0,2,2.39,3.22,3.11
+02.11.2014,2014,Chievo,Sassuolo,0,0,3.42,3.21,2.24
+02.11.2014,2014,Sampdoria,Fiorentina,3,1,1.87,3.36,4.54
+02.11.2014,2014,Torino,Atalanta,0,0,2.06,3.25,3.88
+02.11.2014,2014,Udinese,Genoa,2,4,8.30,4.38,1.42
+01.11.2014,2014,Empoli,Juventus,0,2,2.19,3.35,3.40
+01.11.2014,2014,Napoli,AS Roma,2,0,3.35,3.34,2.21
+01.11.2014,2014,Parma,Inter,2,0,3.58,3.43,2.08
+30.10.2014,2014,Verona,Lazio,1,1,1.17,7.04,18.16
+29.10.2014,2014,AS Roma,Cesena,2,0,4.42,3.62,1.81
+29.10.2014,2014,Atalanta,Napoli,1,1,3.41,3.39,2.16
+29.10.2014,2014,Cagliari,AC Milan,1,1,1.63,3.75,5.91
+29.10.2014,2014,Fiorentina,Udinese,3,0,8.33,4.22,1.44
+29.10.2014,2014,Genoa,Juventus,1,0,1.77,3.52,5.02
+29.10.2014,2014,Inter,Sampdoria,1,0,1.92,3.32,4.38
+29.10.2014,2014,Palermo,Chievo,1,0,1.78,3.47,4.91
+29.10.2014,2014,Torino,Parma,1,0,2.24,3.24,3.38
+28.10.2014,2014,Sassuolo,Empoli,3,1,2.12,3.35,3.57
+26.10.2014,2014,AC Milan,Fiorentina,1,1,6.19,3.73,1.61
+26.10.2014,2014,Cesena,Inter,0,1,2.51,3.13,3.00
+26.10.2014,2014,Chievo,Genoa,1,2,1.21,6.43,15.57
+26.10.2014,2014,Juventus,Palermo,2,0,1.79,3.49,4.86
+26.10.2014,2014,Lazio,Torino,2,1,1.36,4.92,8.90
+26.10.2014,2014,Napoli,Verona,6,2,2.09,3.24,3.77
+26.10.2014,2014,Udinese,Atalanta,2,0,2.01,3.44,3.80
+25.10.2014,2014,Empoli,Cagliari,0,4,1.95,3.42,4.10
+25.10.2014,2014,Parma,Sassuolo,1,3,3.60,3.34,2.11
+25.10.2014,2014,Sampdoria,AS Roma,0,0,2.13,3.24,3.64
+20.10.2014,2014,Genoa,Empoli,1,1,2.44,3.16,3.08
+19.10.2014,2014,Atalanta,Parma,1,0,2.55,3.23,2.86
+19.10.2014,2014,Cagliari,Sampdoria,2,2,2.06,3.29,3.82
+19.10.2014,2014,Fiorentina,Lazio,0,2,2.55,3.22,2.87
+19.10.2014,2014,Inter,Napoli,2,2,1.66,3.61,5.92
+19.10.2014,2014,Palermo,Cesena,2,1,2.17,3.25,3.54
+19.10.2014,2014,Torino,Udinese,1,0,3.60,3.40,2.08
+19.10.2014,2014,Verona,AC Milan,1,3,1.30,5.28,11.06
+18.10.2014,2014,AS Roma,Chievo,3,0,9.01,4.68,1.38
+18.10.2014,2014,Sassuolo,Juventus,1,1,2.32,3.19,3.27
+05.10.2014,2014,Empoli,Palermo,3,0,2.32,3.21,3.25
+05.10.2014,2014,Fiorentina,Inter,3,0,1.81,3.49,4.71
+05.10.2014,2014,Juventus,AS Roma,3,2,1.48,4.18,7.23
+05.10.2014,2014,Lazio,Sassuolo,3,2,1.62,3.81,5.96
+05.10.2014,2014,Napoli,Torino,2,1,1.92,3.42,4.24
+05.10.2014,2014,Parma,Genoa,1,2,1.91,3.36,4.38
+05.10.2014,2014,Sampdoria,Atalanta,1,0,1.50,3.99,7.59
+05.10.2014,2014,Udinese,Cesena,1,1,1.45,4.34,7.63
+04.10.2014,2014,AC Milan,Chievo,2,0,2.12,3.38,3.48
+04.10.2014,2014,Verona,Cagliari,1,0,2.92,3.17,2.54
+29.09.2014,2014,Palermo,Lazio,0,4,2.26,3.23,3.34
+29.09.2014,2014,Udinese,Parma,4,2,6.21,3.77,1.60
+28.09.2014,2014,Cesena,AC Milan,1,1,2.49,3.13,3.04
+28.09.2014,2014,Chievo,Empoli,1,1,2.89,3.07,2.63
+28.09.2014,2014,Genoa,Sampdoria,0,1,1.41,4.54,8.29
+28.09.2014,2014,Inter,Cagliari,1,4,5.14,3.75,1.70
+28.09.2014,2014,Sassuolo,Napoli,0,1,2.73,3.10,2.78
+28.09.2014,2014,Torino,Fiorentina,1,1,1.33,5.24,9.74
+27.09.2014,2014,AS Roma,Verona,2,0,7.34,4.06,1.51
+27.09.2014,2014,Atalanta,Juventus,0,3,1.79,3.52,4.83
+25.09.2014,2014,Lazio,Udinese,0,1,2.53,3.21,2.90
+24.09.2014,2014,Cagliari,Torino,1,2,1.43,4.40,8.06
+24.09.2014,2014,Fiorentina,Sassuolo,0,0,1.47,4.23,7.52
+24.09.2014,2014,Inter,Atalanta,2,0,1.14,8.01,21.51
+24.09.2014,2014,Juventus,Cesena,3,0,1.43,4.46,8.00
+24.09.2014,2014,Napoli,Palermo,3,3,3.63,3.38,2.09
+24.09.2014,2014,Parma,AS Roma,1,2,1.88,3.37,4.53
+24.09.2014,2014,Sampdoria,Chievo,2,1,2.12,3.30,3.63
+24.09.2014,2014,Verona,Genoa,2,2,4.06,3.41,1.96
+23.09.2014,2014,Empoli,AC Milan,2,2,1.31,5.36,9.88
+21.09.2014,2014,AS Roma,Cagliari,2,0,3.43,3.26,2.22
+21.09.2014,2014,Atalanta,Fiorentina,0,1,2.85,3.11,2.64
+21.09.2014,2014,Chievo,Parma,2,3,3.27,3.22,2.32
+21.09.2014,2014,Genoa,Lazio,1,0,3.86,3.35,2.02
+21.09.2014,2014,Palermo,Inter,1,1,2.69,3.25,2.69
+21.09.2014,2014,Sassuolo,Sampdoria,0,0,1.93,3.42,4.23
+21.09.2014,2014,Torino,Verona,0,1,3.37,3.28,2.22
+21.09.2014,2014,Udinese,Napoli,1,0,3.24,3.25,2.32
+20.09.2014,2014,AC Milan,Juventus,0,1,2.84,3.08,2.67
+20.09.2014,2014,Cesena,Empoli,2,2,2.08,3.30,3.74
+15.09.2014,2014,Verona,Palermo,2,1,2.19,3.36,3.36
+14.09.2014,2014,Cagliari,Atalanta,1,2,1.53,4.09,6.69
+14.09.2014,2014,Fiorentina,Genoa,0,0,1.48,4.30,7.00
+14.09.2014,2014,Inter,Sassuolo,7,0,1.35,4.81,10.02
+14.09.2014,2014,Lazio,Cesena,3,0,1.34,4.97,9.83
+14.09.2014,2014,Napoli,Chievo,0,1,2.84,3.28,2.54
+14.09.2014,2014,Parma,AC Milan,4,5,2.46,3.14,3.08
+14.09.2014,2014,Sampdoria,Torino,2,0,5.67,3.75,1.64
+13.09.2014,2014,Empoli,AS Roma,0,1,1.38,4.73,8.94
+13.09.2014,2014,Juventus,Udinese,2,0,2.06,3.28,3.85
+31.08.2014,2014,AC Milan,Lazio,3,1,2.05,3.38,3.73
+31.08.2014,2014,Atalanta,Verona,0,0,4.95,3.48,1.78
+31.08.2014,2014,Cesena,Parma,1,0,3.80,3.38,2.03
+31.08.2014,2014,Genoa,Napoli,1,2,2.22,3.21,3.44
+31.08.2014,2014,Palermo,Sampdoria,1,1,2.04,3.54,3.60
+31.08.2014,2014,Sassuolo,Cagliari,1,1,2.82,3.22,2.58
+31.08.2014,2014,Torino,Inter,0,0,1.75,3.59,4.96
+31.08.2014,2014,Udinese,Empoli,2,0,1.73,3.66,4.92
+30.08.2014,2014,AS Roma,Fiorentina,2,0,6.94,3.80,1.55
+30.08.2014,2014,Chievo,Juventus,0,1,1.58,4.22,5.43

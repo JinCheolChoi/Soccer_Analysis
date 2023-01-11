@@ -1,381 +1,307 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-07.04.2006,2005,Almere City,Dordrecht,2,4
-07.04.2006,2005,Cambuur,Den Bosch,1,0
-07.04.2006,2005,FC Emmen,Eindhoven FC,3,1
-07.04.2006,2005,Haarlem,Maastricht,0,0
-07.04.2006,2005,Helmond,Veendam,0,2
-07.04.2006,2005,Oss,FC Volendam,1,2
-07.04.2006,2005,Sittard,Excelsior,1,1
-07.04.2006,2005,Telstar,Apeldoorn,3,1
-07.04.2006,2005,Venlo,G.A. Eagles,3,0
-07.04.2006,2005,Zwolle,Graafschap,2,3
-31.03.2006,2005,Apeldoorn,Haarlem,0,1
-31.03.2006,2005,Den Bosch,Sittard,4,1
-31.03.2006,2005,Dordrecht,Helmond,0,2
-31.03.2006,2005,Eindhoven FC,Cambuur,3,3
-31.03.2006,2005,Excelsior,Venlo,3,1
-31.03.2006,2005,FC Volendam,Almere City,2,0
-31.03.2006,2005,G.A. Eagles,Telstar,2,1
-31.03.2006,2005,Graafschap,Oss,2,0
-31.03.2006,2005,Maastricht,Zwolle,2,0
-31.03.2006,2005,Veendam,FC Emmen,2,0
-26.03.2006,2005,Apeldoorn,G.A. Eagles,2,1
-24.03.2006,2005,Almere City,Graafschap,3,3
-24.03.2006,2005,Cambuur,Veendam,4,1
-24.03.2006,2005,FC Emmen,Dordrecht,2,5
-24.03.2006,2005,Helmond,FC Volendam,4,2
-24.03.2006,2005,Oss,Maastricht,3,1
-24.03.2006,2005,Sittard,Eindhoven FC,1,2
-24.03.2006,2005,Telstar,Excelsior,0,1
-24.03.2006,2005,Venlo,Den Bosch,1,0
-24.03.2006,2005,Zwolle,Haarlem,1,0
-20.03.2006,2005,Apeldoorn,Den Bosch,3,0
-20.03.2006,2005,Excelsior,Eindhoven FC,1,0
-20.03.2006,2005,G.A. Eagles,Veendam,4,0
-20.03.2006,2005,Venlo,FC Volendam,3,2
-17.03.2006,2005,Den Bosch,Telstar,1,1
-17.03.2006,2005,Dordrecht,Cambuur,1,2
-17.03.2006,2005,Eindhoven FC,Venlo,1,3
-17.03.2006,2005,Excelsior,G.A. Eagles,2,1
-17.03.2006,2005,FC Volendam,FC Emmen,5,2
-17.03.2006,2005,Graafschap,Helmond,2,2
-17.03.2006,2005,Haarlem,Oss,1,2
-17.03.2006,2005,Maastricht,Almere City,2,2
-17.03.2006,2005,Veendam,Sittard,2,2
-17.03.2006,2005,Zwolle,Apeldoorn,1,3
-13.03.2006,2005,Almere City,Haarlem,1,2
-13.03.2006,2005,Apeldoorn,Excelsior,1,1
-13.03.2006,2005,Cambuur,FC Volendam,2,1
-13.03.2006,2005,FC Emmen,Graafschap,2,2
-13.03.2006,2005,G.A. Eagles,Den Bosch,0,1
-13.03.2006,2005,Helmond,Maastricht,2,0
-13.03.2006,2005,Oss,Zwolle,2,1
-13.03.2006,2005,Sittard,Dordrecht,0,3
-13.03.2006,2005,Telstar,Eindhoven FC,0,1
-13.03.2006,2005,Venlo,Veendam,1,1
-10.03.2006,2005,Den Bosch,Excelsior,0,1
-10.03.2006,2005,Dordrecht,Venlo,5,0
-10.03.2006,2005,Eindhoven FC,G.A. Eagles,2,1
-10.03.2006,2005,FC Volendam,Sittard,2,0
-10.03.2006,2005,Graafschap,Cambuur,3,3
-10.03.2006,2005,Haarlem,Helmond,0,1
-10.03.2006,2005,Maastricht,FC Emmen,0,1
-10.03.2006,2005,Veendam,Telstar,0,2
-10.03.2006,2005,Zwolle,Almere City,2,1
-09.03.2006,2005,Oss,Apeldoorn,0,1
-03.03.2006,2005,Almere City,Oss,0,4
-03.03.2006,2005,Cambuur,Maastricht,3,0
-03.03.2006,2005,FC Emmen,Haarlem,0,2
-03.03.2006,2005,Helmond,Zwolle,2,1
-03.03.2006,2005,Sittard,Graafschap,1,2
-03.03.2006,2005,Telstar,Dordrecht,1,1
-26.02.2006,2005,FC Volendam,Telstar,0,0
-24.02.2006,2005,Almere City,Apeldoorn,1,3
-24.02.2006,2005,Dordrecht,G.A. Eagles,5,1
-24.02.2006,2005,Graafschap,Venlo,2,0
-24.02.2006,2005,Haarlem,Cambuur,0,0
-24.02.2006,2005,Oss,Helmond,2,1
-24.02.2006,2005,Veendam,Excelsior,2,1
-24.02.2006,2005,Zwolle,FC Emmen,1,0
-23.02.2006,2005,Eindhoven FC,Den Bosch,2,1
-20.02.2006,2005,Maastricht,Sittard,3,1
-20.02.2006,2005,FC Emmen,Apeldoorn,3,0
-20.02.2006,2005,Graafschap,Den Bosch,1,0
-17.02.2006,2005,Apeldoorn,Eindhoven FC,1,4
-17.02.2006,2005,Cambuur,Zwolle,0,0
-17.02.2006,2005,Den Bosch,Veendam,3,1
-17.02.2006,2005,Excelsior,Dordrecht,0,1
-17.02.2006,2005,FC Emmen,Oss,1,2
-17.02.2006,2005,G.A. Eagles,FC Volendam,1,2
-17.02.2006,2005,Helmond,Almere City,3,1
-17.02.2006,2005,Sittard,Haarlem,0,3
-17.02.2006,2005,Telstar,Graafschap,0,1
-17.02.2006,2005,Venlo,Maastricht,1,3
-13.02.2006,2005,Apeldoorn,Veendam,1,1
-13.02.2006,2005,Den Bosch,FC Volendam,1,0
-13.02.2006,2005,Eindhoven FC,Dordrecht,1,3
-13.02.2006,2005,FC Emmen,Helmond,1,1
-13.02.2006,2005,Venlo,Zwolle,1,0
-13.02.2006,2005,Maastricht,Excelsior,0,0
-12.02.2006,2005,Graafschap,G.A. Eagles,2,2
-10.02.2006,2005,Almere City,FC Emmen,3,4
-10.02.2006,2005,Dordrecht,Den Bosch,2,2
-10.02.2006,2005,FC Volendam,Excelsior,0,0
-10.02.2006,2005,Haarlem,Venlo,2,0
-10.02.2006,2005,Helmond,Apeldoorn,1,2
-10.02.2006,2005,Maastricht,Telstar,3,4
-10.02.2006,2005,Oss,Cambuur,1,0
-10.02.2006,2005,Veendam,Eindhoven FC,2,1
-10.02.2006,2005,Zwolle,Sittard,3,0
-06.02.2006,2005,Sittard,Oss,2,1
-05.02.2006,2005,Telstar,Haarlem,1,4
-03.02.2006,2005,Cambuur,Almere City,1,0
-03.02.2006,2005,Excelsior,Graafschap,4,1
-03.02.2006,2005,G.A. Eagles,Maastricht,1,1
-27.01.2006,2005,Almere City,Sittard,1,1
-27.01.2006,2005,Dordrecht,Veendam,1,2
-27.01.2006,2005,FC Volendam,Eindhoven FC,1,0
-27.01.2006,2005,Haarlem,G.A. Eagles,5,0
-27.01.2006,2005,Helmond,Cambuur,1,2
-27.01.2006,2005,Oss,Venlo,1,0
-27.01.2006,2005,Zwolle,Telstar,2,2
-23.01.2006,2005,Eindhoven FC,Graafschap,2,1
-22.01.2006,2005,G.A. Eagles,Zwolle,1,1
-20.01.2006,2005,Apeldoorn,Dordrecht,2,1
-20.01.2006,2005,Cambuur,FC Emmen,1,1
-20.01.2006,2005,Den Bosch,Maastricht,3,1
-20.01.2006,2005,Excelsior,Haarlem,1,2
-20.01.2006,2005,Sittard,Helmond,2,3
-20.01.2006,2005,Telstar,Oss,1,1
-20.01.2006,2005,Veendam,FC Volendam,2,3
-20.01.2006,2005,Venlo,Almere City,0,1
-16.01.2006,2005,Eindhoven FC,Helmond,0,0
-15.01.2006,2005,Haarlem,Den Bosch,1,1
-13.01.2006,2005,Almere City,Telstar,3,1
-13.01.2006,2005,Cambuur,Apeldoorn,2,3
-13.01.2006,2005,FC Emmen,Sittard,2,1
-13.01.2006,2005,FC Volendam,Dordrecht,1,1
-13.01.2006,2005,Graafschap,Veendam,4,2
-13.01.2006,2005,Helmond,Venlo,1,1
-13.01.2006,2005,Maastricht,Eindhoven FC,2,0
-13.01.2006,2005,Oss,G.A. Eagles,1,1
-13.01.2006,2005,Zwolle,Excelsior,0,5
-23.12.2005,2005,Den Bosch,Zwolle,2,1
-23.12.2005,2005,Dordrecht,Graafschap,0,2
-23.12.2005,2005,Excelsior,Oss,2,2
-23.12.2005,2005,G.A. Eagles,Almere City,1,4
-23.12.2005,2005,Sittard,Cambuur,1,3
-23.12.2005,2005,Telstar,Helmond,2,1
-23.12.2005,2005,Veendam,Maastricht,3,3
-23.12.2005,2005,Venlo,FC Emmen,2,0
-19.12.2005,2005,Apeldoorn,FC Volendam,0,1
-19.12.2005,2005,Eindhoven FC,Haarlem,2,4
-16.12.2005,2005,Almere City,Eindhoven FC,3,2
-16.12.2005,2005,Cambuur,G.A. Eagles,2,1
-16.12.2005,2005,FC Emmen,Excelsior,0,2
-16.12.2005,2005,Haarlem,FC Volendam,4,0
-16.12.2005,2005,Maastricht,Graafschap,1,0
-16.12.2005,2005,Oss,Veendam,0,2
-16.12.2005,2005,Sittard,Telstar,0,0
-16.12.2005,2005,Venlo,Apeldoorn,3,0
-16.12.2005,2005,Zwolle,Dordrecht,0,1
-15.12.2005,2005,Helmond,Den Bosch,4,2
-12.12.2005,2005,Apeldoorn,Graafschap,2,2
-12.12.2005,2005,Den Bosch,Cambuur,2,0
-12.12.2005,2005,Eindhoven FC,FC Emmen,2,1
-12.12.2005,2005,FC Volendam,Oss,1,2
-12.12.2005,2005,G.A. Eagles,Venlo,1,0
-09.12.2005,2005,Apeldoorn,Maastricht,2,1
-09.12.2005,2005,Den Bosch,FC Emmen,2,2
-09.12.2005,2005,Dordrecht,Oss,1,0
-09.12.2005,2005,Excelsior,Cambuur,4,0
-09.12.2005,2005,FC Volendam,Zwolle,1,1
-09.12.2005,2005,G.A. Eagles,Sittard,1,1
-09.12.2005,2005,Graafschap,Haarlem,0,0
-09.12.2005,2005,Telstar,Venlo,0,1
-09.12.2005,2005,Veendam,Almere City,2,0
-06.12.2005,2005,G.A. Eagles,FC Emmen,1,4
-06.12.2005,2005,Apeldoorn,Telstar,2,0
-06.12.2005,2005,Dordrecht,Almere City,1,1
-06.12.2005,2005,Excelsior,Sittard,3,0
-06.12.2005,2005,Graafschap,Zwolle,4,3
-06.12.2005,2005,Veendam,Helmond,1,3
-04.12.2005,2005,Oss,Den Bosch,3,3
-02.12.2005,2005,Almere City,Excelsior,1,1
-02.12.2005,2005,Cambuur,Venlo,1,1
-02.12.2005,2005,FC Emmen,Telstar,2,0
-02.12.2005,2005,Graafschap,FC Volendam,3,1
-02.12.2005,2005,Haarlem,Veendam,4,1
-02.12.2005,2005,Helmond,G.A. Eagles,3,1
-02.12.2005,2005,Maastricht,Dordrecht,2,1
-02.12.2005,2005,Sittard,Apeldoorn,2,3
-02.12.2005,2005,Zwolle,Eindhoven FC,2,1
-29.11.2005,2005,Eindhoven FC,Oss,1,2
-28.11.2005,2005,Den Bosch,Almere City,1,1
-28.11.2005,2005,Dordrecht,Haarlem,2,2
-28.11.2005,2005,Excelsior,Helmond,3,0
-28.11.2005,2005,FC Volendam,Maastricht,0,0
-28.11.2005,2005,Telstar,Cambuur,1,0
-28.11.2005,2005,Veendam,Zwolle,2,2
-28.11.2005,2005,Venlo,Sittard,1,1
-25.11.2005,2005,Maastricht,Haarlem,1,2
-21.11.2005,2005,Den Bosch,Venlo,1,1
-18.11.2005,2005,Almere City,FC Volendam,1,1
-18.11.2005,2005,Cambuur,Eindhoven FC,1,0
-18.11.2005,2005,FC Emmen,Veendam,2,1
-18.11.2005,2005,Haarlem,Apeldoorn,1,0
-18.11.2005,2005,Helmond,Dordrecht,1,0
-18.11.2005,2005,Oss,Graafschap,1,0
-18.11.2005,2005,Sittard,Den Bosch,1,2
-18.11.2005,2005,Telstar,G.A. Eagles,1,0
-18.11.2005,2005,Venlo,Excelsior,1,0
-18.11.2005,2005,Zwolle,Maastricht,4,1
-11.11.2005,2005,Dordrecht,FC Emmen,1,0
-11.11.2005,2005,Eindhoven FC,Sittard,1,1
-11.11.2005,2005,Excelsior,Telstar,4,0
-11.11.2005,2005,FC Volendam,Helmond,3,0
-11.11.2005,2005,G.A. Eagles,Apeldoorn,1,0
-11.11.2005,2005,Graafschap,Almere City,7,1
-11.11.2005,2005,Haarlem,Zwolle,1,0
-11.11.2005,2005,Veendam,Cambuur,4,1
-10.11.2005,2005,Maastricht,Oss,0,0
-06.11.2005,2005,Telstar,Den Bosch,2,0
-04.11.2005,2005,Almere City,Maastricht,1,3
-04.11.2005,2005,Apeldoorn,Zwolle,1,4
-04.11.2005,2005,Cambuur,Dordrecht,0,0
-04.11.2005,2005,FC Emmen,FC Volendam,4,1
-04.11.2005,2005,G.A. Eagles,Excelsior,1,0
-04.11.2005,2005,Helmond,Graafschap,1,2
-04.11.2005,2005,Oss,Haarlem,3,1
-04.11.2005,2005,Sittard,Veendam,1,3
-04.11.2005,2005,Venlo,Eindhoven FC,0,1
-30.10.2005,2005,Den Bosch,G.A. Eagles,0,0
-30.10.2005,2005,FC Volendam,Cambuur,2,0
-29.10.2005,2005,Veendam,Venlo,0,1
-28.10.2005,2005,Dordrecht,Sittard,6,1
-28.10.2005,2005,Eindhoven FC,Telstar,1,2
-28.10.2005,2005,Excelsior,Apeldoorn,2,1
-28.10.2005,2005,Graafschap,FC Emmen,0,1
-28.10.2005,2005,Haarlem,Almere City,3,2
-28.10.2005,2005,Maastricht,Helmond,1,1
-28.10.2005,2005,Zwolle,Oss,2,3
-24.10.2005,2005,Excelsior,Den Bosch,0,1
-21.10.2005,2005,Apeldoorn,Helmond,9,1
-21.10.2005,2005,Cambuur,Oss,1,1
-21.10.2005,2005,Den Bosch,Dordrecht,2,2
-21.10.2005,2005,Eindhoven FC,Veendam,0,1
-21.10.2005,2005,Excelsior,FC Volendam,3,1
-21.10.2005,2005,FC Emmen,Almere City,5,0
-21.10.2005,2005,G.A. Eagles,Graafschap,1,2
-21.10.2005,2005,Sittard,Zwolle,0,2
-21.10.2005,2005,Telstar,Maastricht,1,3
-21.10.2005,2005,Venlo,Haarlem,4,1
-16.10.2005,2005,FC Volendam,Den Bosch,4,2
-16.10.2005,2005,Haarlem,Telstar,2,2
-14.10.2005,2005,Almere City,Cambuur,2,0
-14.10.2005,2005,Dordrecht,Eindhoven FC,1,1
-14.10.2005,2005,Graafschap,Excelsior,1,1
-14.10.2005,2005,Helmond,FC Emmen,2,1
-14.10.2005,2005,Maastricht,G.A. Eagles,1,0
-14.10.2005,2005,Oss,Sittard,3,1
-14.10.2005,2005,Veendam,Apeldoorn,1,0
-14.10.2005,2005,Zwolle,Venlo,1,1
-07.10.2005,2005,Apeldoorn,Oss,2,2
-07.10.2005,2005,Cambuur,Graafschap,1,1
-07.10.2005,2005,Helmond,Haarlem,1,0
-07.10.2005,2005,Sittard,FC Volendam,0,1
-07.10.2005,2005,Venlo,Dordrecht,2,0
-06.10.2005,2005,Almere City,Zwolle,0,1
-06.10.2005,2005,FC Emmen,Maastricht,2,2
-06.10.2005,2005,G.A. Eagles,Eindhoven FC,2,2
-06.10.2005,2005,Telstar,Veendam,1,1
-03.10.2005,2005,Den Bosch,Apeldoorn,5,1
-03.10.2005,2005,Dordrecht,Telstar,0,0
-03.10.2005,2005,Eindhoven FC,Excelsior,0,6
-03.10.2005,2005,FC Volendam,Venlo,0,0
-03.10.2005,2005,Graafschap,Sittard,3,1
-03.10.2005,2005,Haarlem,FC Emmen,0,2
-03.10.2005,2005,Maastricht,Cambuur,1,3
-03.10.2005,2005,Oss,Almere City,1,3
-03.10.2005,2005,Veendam,G.A. Eagles,3,1
-03.10.2005,2005,Zwolle,Helmond,3,0
-30.09.2005,2005,Apeldoorn,Almere City,5,2
-30.09.2005,2005,Cambuur,Haarlem,4,0
-30.09.2005,2005,Den Bosch,Eindhoven FC,5,3
-30.09.2005,2005,Excelsior,Veendam,3,0
-30.09.2005,2005,FC Emmen,Zwolle,0,2
-30.09.2005,2005,G.A. Eagles,Dordrecht,2,1
-30.09.2005,2005,Sittard,Maastricht,1,1
-30.09.2005,2005,Telstar,FC Volendam,0,2
-30.09.2005,2005,Venlo,Graafschap,3,0
-29.09.2005,2005,Helmond,Oss,4,1
-26.09.2005,2005,Graafschap,Telstar,0,0
-25.09.2005,2005,Eindhoven FC,Apeldoorn,0,1
-25.09.2005,2005,FC Volendam,G.A. Eagles,1,2
-25.09.2005,2005,Zwolle,Cambuur,1,0
-23.09.2005,2005,Almere City,Helmond,0,1
-23.09.2005,2005,Dordrecht,Excelsior,1,0
-23.09.2005,2005,Haarlem,Sittard,1,1
-23.09.2005,2005,Maastricht,Venlo,2,0
-23.09.2005,2005,Oss,FC Emmen,1,3
-23.09.2005,2005,Veendam,Den Bosch,1,1
-16.09.2005,2005,Apeldoorn,FC Emmen,2,3
-16.09.2005,2005,Cambuur,Helmond,0,0
-16.09.2005,2005,Den Bosch,Graafschap,2,0
-16.09.2005,2005,Eindhoven FC,FC Volendam,1,2
-16.09.2005,2005,Excelsior,Maastricht,1,0
-16.09.2005,2005,G.A. Eagles,Haarlem,3,0
-16.09.2005,2005,Sittard,Almere City,2,3
-16.09.2005,2005,Telstar,Zwolle,1,3
-16.09.2005,2005,Veendam,Dordrecht,2,0
-16.09.2005,2005,Venlo,Oss,2,0
-12.09.2005,2005,Den Bosch,Haarlem,2,0
-11.09.2005,2005,Zwolle,G.A. Eagles,4,0
-09.09.2005,2005,Almere City,Venlo,0,5
-09.09.2005,2005,Dordrecht,Apeldoorn,0,1
-09.09.2005,2005,FC Emmen,Cambuur,3,0
-09.09.2005,2005,FC Volendam,Veendam,1,1
-09.09.2005,2005,Graafschap,Eindhoven FC,2,1
-09.09.2005,2005,Haarlem,Excelsior,0,0
-09.09.2005,2005,Helmond,Sittard,3,0
-09.09.2005,2005,Oss,Telstar,1,1
-08.09.2005,2005,Maastricht,Den Bosch,4,1
-05.09.2005,2005,Almere City,Veendam,1,2
-02.09.2005,2005,Apeldoorn,Cambuur,3,1
-02.09.2005,2005,Dordrecht,FC Volendam,0,1
-02.09.2005,2005,Eindhoven FC,Maastricht,1,1
-02.09.2005,2005,Excelsior,Zwolle,2,1
-02.09.2005,2005,G.A. Eagles,Oss,1,1
-02.09.2005,2005,Sittard,FC Emmen,0,2
-02.09.2005,2005,Telstar,Almere City,2,0
-02.09.2005,2005,Veendam,Graafschap,0,1
-02.09.2005,2005,Venlo,Helmond,2,1
-29.08.2005,2005,Almere City,G.A. Eagles,2,2
-29.08.2005,2005,Cambuur,Sittard,2,2
-29.08.2005,2005,FC Emmen,Venlo,1,2
-29.08.2005,2005,FC Volendam,Apeldoorn,3,1
-29.08.2005,2005,Graafschap,Dordrecht,1,1
-29.08.2005,2005,Haarlem,Eindhoven FC,0,4
-29.08.2005,2005,Helmond,Telstar,2,0
-29.08.2005,2005,Maastricht,Veendam,2,1
-29.08.2005,2005,Oss,Excelsior,0,1
-29.08.2005,2005,Zwolle,Den Bosch,0,0
-26.08.2005,2005,Apeldoorn,Sittard,3,0
-26.08.2005,2005,Den Bosch,Oss,4,0
-26.08.2005,2005,Dordrecht,Maastricht,2,1
-26.08.2005,2005,Eindhoven FC,Zwolle,5,0
-26.08.2005,2005,Excelsior,Almere City,2,1
-26.08.2005,2005,FC Volendam,Graafschap,1,0
-26.08.2005,2005,G.A. Eagles,Helmond,1,3
-26.08.2005,2005,Telstar,FC Emmen,1,3
-26.08.2005,2005,Veendam,Haarlem,1,3
-26.08.2005,2005,Venlo,Cambuur,1,1
-22.08.2005,2005,Almere City,Den Bosch,2,3
-22.08.2005,2005,Cambuur,Telstar,1,1
-22.08.2005,2005,FC Emmen,G.A. Eagles,2,2
-22.08.2005,2005,Graafschap,Apeldoorn,3,0
-22.08.2005,2005,Haarlem,Dordrecht,2,3
-22.08.2005,2005,Helmond,Excelsior,3,3
-22.08.2005,2005,Maastricht,FC Volendam,0,2
-22.08.2005,2005,Oss,Eindhoven FC,2,1
-22.08.2005,2005,Sittard,Venlo,0,2
-22.08.2005,2005,Zwolle,Veendam,2,1
-19.08.2005,2005,Apeldoorn,Venlo,0,2
-19.08.2005,2005,Den Bosch,Helmond,1,0
-19.08.2005,2005,Dordrecht,Zwolle,2,2
-19.08.2005,2005,Eindhoven FC,Almere City,2,0
-19.08.2005,2005,Excelsior,FC Emmen,3,0
-19.08.2005,2005,FC Volendam,Haarlem,5,0
-19.08.2005,2005,G.A. Eagles,Cambuur,2,2
-19.08.2005,2005,Graafschap,Maastricht,0,2
-19.08.2005,2005,Telstar,Sittard,2,2
-19.08.2005,2005,Veendam,Oss,0,0
-15.08.2005,2005,Haarlem,Graafschap,3,0
-12.08.2005,2005,Cambuur,Excelsior,0,1
-12.08.2005,2005,FC Emmen,Den Bosch,3,1
-12.08.2005,2005,Helmond,Eindhoven FC,3,1
-12.08.2005,2005,Maastricht,Apeldoorn,2,2
-12.08.2005,2005,Oss,Dordrecht,1,2
-12.08.2005,2005,Sittard,G.A. Eagles,3,2
-12.08.2005,2005,Venlo,Telstar,1,0
-12.08.2005,2005,Zwolle,FC Volendam,1,1
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+16.04.2006,2005,Breda,PSV,2,6,2.61,3.44,2.27
+16.04.2006,2005,Den Haag,Sparta Rotterdam,0,2,2.17,2.66,3.55
+16.04.2006,2005,Feyenoord,Roosendaal,2,0,1.10,7.26,14.80
+16.04.2006,2005,Heerenveen,AZ Alkmaar,2,4,2.98,3.06,2.21
+16.04.2006,2005,Roda,Heracles,2,1,1.38,4.09,6.92
+16.04.2006,2005,Twente,Groningen,1,1,2.19,3.36,2.81
+16.04.2006,2005,Utrecht,Willem II,1,4,1.20,5.47,9.79
+16.04.2006,2005,Vitesse,Nijmegen,1,1,2.25,3.34,2.73
+16.04.2006,2005,Waalwijk,Ajax,2,4,5.39,3.42,1.58
+12.04.2006,2005,Ajax,Vitesse,2,1,1.31,4.32,8.29
+12.04.2006,2005,AZ Alkmaar,Twente,0,0,1.43,3.82,6.43
+12.04.2006,2005,Groningen,Utrecht,2,1,1.96,3.33,3.31
+12.04.2006,2005,Heracles,Breda,4,2,2.82,3.24,2.23
+12.04.2006,2005,Nijmegen,Roda,0,3,2.04,3.26,3.16
+12.04.2006,2005,PSV,Feyenoord,1,1,1.88,3.30,3.63
+12.04.2006,2005,Roosendaal,Den Haag,1,2,5.19,3.64,1.55
+12.04.2006,2005,Sparta Rotterdam,Waalwijk,3,2,1.61,3.54,4.82
+12.04.2006,2005,Willem II,Heerenveen,4,3,3.67,3.44,1.83
+09.04.2006,2005,Ajax,AZ Alkmaar,1,0,2.09,3.23,3.10
+09.04.2006,2005,PSV,Groningen,1,1,1.30,4.45,8.33
+09.04.2006,2005,Twente,Den Haag,2,0,1.70,3.48,4.20
+09.04.2006,2005,Vitesse,Utrecht,1,0,2.49,3.24,2.50
+09.04.2006,2005,Willem II,Roda,2,2,2.83,3.33,2.17
+08.04.2006,2005,Breda,Nijmegen,2,1,2.28,3.28,2.71
+08.04.2006,2005,Sparta Rotterdam,Roosendaal,5,0,1.39,3.97,7.06
+08.04.2006,2005,Waalwijk,Heracles,0,2,1.80,3.37,3.86
+07.04.2006,2005,Heerenveen,Feyenoord,1,1,2.73,3.25,2.27
+04.04.2006,2005,AZ Alkmaar,Breda,3,2,1.32,4.29,7.95
+02.04.2006,2005,Feyenoord,Twente,4,2,1.35,4.12,7.56
+02.04.2006,2005,Groningen,Vitesse,2,1,1.69,3.40,4.34
+02.04.2006,2005,Roda,Ajax,2,1,3.35,3.24,1.99
+01.04.2006,2005,Den Haag,Willem II,1,1,1.70,3.49,4.23
+01.04.2006,2005,Heracles,Sparta Rotterdam,1,0,2.09,3.28,3.03
+01.04.2006,2005,Nijmegen,Heerenveen,4,1,2.27,3.29,2.70
+01.04.2006,2005,Roosendaal,PSV,1,2,9.56,5.77,1.18
+31.03.2006,2005,Utrecht,Waalwijk,3,1,1.56,3.55,5.21
+26.03.2006,2005,Ajax,Breda,1,1,1.28,4.62,8.60
+26.03.2006,2005,Feyenoord,Den Haag,0,2,1.17,5.87,11.58
+26.03.2006,2005,Utrecht,Heracles,1,0,1.48,3.71,5.94
+26.03.2006,2005,Waalwijk,AZ Alkmaar,0,1,3.96,3.44,1.77
+25.03.2006,2005,Nijmegen,Groningen,2,2,2.11,3.28,3.00
+25.03.2006,2005,Roda,Roosendaal,5,1,1.30,4.43,8.46
+25.03.2006,2005,Twente,Heerenveen,1,2,2.13,3.26,2.98
+25.03.2006,2005,Willem II,PSV,0,3,6.59,3.87,1.42
+24.03.2006,2005,Vitesse,Sparta Rotterdam,3,1,1.65,3.45,4.60
+19.03.2006,2005,AZ Alkmaar,Feyenoord,1,0,2.32,3.24,2.68
+19.03.2006,2005,Groningen,Ajax,3,2,3.21,3.27,2.01
+19.03.2006,2005,Roosendaal,Twente,1,1,5.40,3.70,1.52
+19.03.2006,2005,Sparta Rotterdam,Utrecht,0,1,2.68,3.26,2.31
+18.03.2006,2005,Den Haag,Roda,1,1,2.46,3.27,2.50
+18.03.2006,2005,Heerenveen,Waalwijk,2,1,1.70,3.41,4.33
+18.03.2006,2005,Heracles,Willem II,1,0,2.17,3.30,2.88
+18.03.2006,2005,PSV,Nijmegen,1,0,1.21,5.13,10.35
+17.03.2006,2005,Breda,Vitesse,2,2,2.21,3.27,2.82
+12.03.2006,2005,Feyenoord,Waalwijk,1,1,1.23,5.00,9.87
+12.03.2006,2005,Utrecht,Heerenveen,2,0,2.15,3.24,2.98
+12.03.2006,2005,Vitesse,Roosendaal,5,1,1.35,4.20,7.29
+12.03.2006,2005,Willem II,AZ Alkmaar,1,3,4.47,3.58,1.63
+11.03.2006,2005,Ajax,PSV,0,0,2.51,3.15,2.49
+11.03.2006,2005,Den Haag,Groningen,2,1,2.59,3.24,2.39
+11.03.2006,2005,Nijmegen,Heracles,2,0,1.59,3.56,4.97
+11.03.2006,2005,Roda,Sparta Rotterdam,1,1,1.57,3.59,5.07
+10.03.2006,2005,Twente,Breda,1,0,1.60,3.53,4.81
+05.03.2006,2005,Ajax,Sparta Rotterdam,6,0,1.25,4.83,9.18
+05.03.2006,2005,Feyenoord,Utrecht,3,0,1.45,3.74,6.29
+05.03.2006,2005,Twente,Heracles,2,0,1.63,3.44,4.80
+05.03.2006,2005,Waalwijk,Den Haag,3,0,1.75,3.39,4.03
+04.03.2006,2005,Breda,Roosendaal,2,1,1.46,3.66,6.46
+04.03.2006,2005,PSV,Heerenveen,4,1,1.35,4.14,7.76
+04.03.2006,2005,Vitesse,Roda,1,3,2.12,3.27,3.01
+04.03.2006,2005,Willem II,Groningen,5,0,2.78,3.29,2.24
+03.03.2006,2005,Nijmegen,AZ Alkmaar,0,2,3.23,3.35,1.99
+26.02.2006,2005,AZ Alkmaar,PSV,1,2,2.61,3.26,2.38
+26.02.2006,2005,Groningen,Feyenoord,1,1,3.54,3.34,1.88
+26.02.2006,2005,Heerenveen,Breda,2,1,1.57,3.58,5.03
+26.02.2006,2005,Heracles,Ajax,1,3,4.73,3.52,1.62
+26.02.2006,2005,Utrecht,Roda,2,1,1.91,3.32,3.48
+25.02.2006,2005,Den Haag,Vitesse,2,0,2.56,3.27,2.38
+25.02.2006,2005,Sparta Rotterdam,Willem II,3,2,1.97,3.36,3.28
+24.02.2006,2005,Roosendaal,Nijmegen,2,0,5.18,3.57,1.57
+24.02.2006,2005,Waalwijk,Twente,0,0,2.39,3.28,2.58
+19.02.2006,2005,Ajax,Roosendaal,6,0,1.11,6.75,11.14
+19.02.2006,2005,AZ Alkmaar,Utrecht,2,3,1.44,3.76,6.44
+19.02.2006,2005,Feyenoord,Sparta Rotterdam,4,0,1.21,5.24,9.99
+19.02.2006,2005,Heracles,Den Haag,1,3,1.81,3.34,3.85
+19.02.2006,2005,Willem II,Breda,2,0,2.34,3.25,2.65
+18.02.2006,2005,Groningen,Waalwijk,1,0,1.66,3.42,4.52
+18.02.2006,2005,Roda,Heerenveen,2,1,2.19,3.29,2.84
+17.02.2006,2005,Nijmegen,Twente,0,3,1.82,3.38,3.77
+17.02.2006,2005,Vitesse,PSV,1,3,5.23,3.55,1.56
+12.02.2006,2005,Breda,Feyenoord,3,3,5.51,3.60,1.53
+12.02.2006,2005,Den Haag,Ajax,1,2,5.20,3.65,1.54
+12.02.2006,2005,Roosendaal,Groningen,1,2,4.52,3.42,1.67
+12.02.2006,2005,Utrecht,Nijmegen,1,1,2.01,3.28,3.24
+11.02.2006,2005,Heerenveen,Vitesse,4,1,1.74,3.37,4.17
+11.02.2006,2005,PSV,Heracles,1,0,1.14,5.97,9.99
+11.02.2006,2005,Twente,Roda,1,0,2.15,3.28,2.92
+11.02.2006,2005,Waalwijk,Willem II,1,0,1.75,3.39,4.13
+10.02.2006,2005,Sparta Rotterdam,AZ Alkmaar,0,1,5.80,3.61,1.50
+08.02.2006,2005,Ajax,Willem II,1,0,1.20,5.43,9.99
+08.02.2006,2005,Den Haag,Breda,0,3,2.27,3.29,2.75
+08.02.2006,2005,Heracles,Heerenveen,1,1,2.82,3.27,2.21
+08.02.2006,2005,Nijmegen,Feyenoord,1,2,3.70,3.35,1.85
+08.02.2006,2005,Roda,Waalwijk,1,0,1.79,3.33,4.02
+08.02.2006,2005,Utrecht,PSV,1,2,4.32,3.45,1.70
+08.02.2006,2005,Vitesse,Twente,1,2,1.73,3.40,4.24
+07.02.2006,2005,Roosendaal,AZ Alkmaar,0,5,9.21,5.00,1.24
+07.02.2006,2005,Sparta Rotterdam,Groningen,1,0,2.62,3.26,2.36
+05.02.2006,2005,Feyenoord,Ajax,3,2,1.83,3.33,3.79
+05.02.2006,2005,Heerenveen,Den Haag,3,0,1.45,3.76,6.38
+05.02.2006,2005,Twente,Utrecht,3,0,2.53,3.29,2.44
+05.02.2006,2005,Waalwijk,Nijmegen,1,3,2.30,3.29,2.69
+04.02.2006,2005,AZ Alkmaar,Vitesse,1,1,1.36,4.15,7.44
+04.02.2006,2005,Breda,Sparta Rotterdam,0,0,1.86,3.31,3.68
+04.02.2006,2005,Groningen,Heracles,0,0,1.52,3.65,5.73
+04.02.2006,2005,PSV,Roda,3,2,1.24,4.98,9.67
+03.02.2006,2005,Willem II,Roosendaal,3,1,1.57,3.54,5.16
+29.01.2006,2005,Ajax,Utrecht,1,4,1.48,3.69,6.18
+29.01.2006,2005,Den Haag,PSV,0,2,8.31,4.09,1.35
+29.01.2006,2005,Groningen,Breda,3,2,1.57,3.56,5.38
+29.01.2006,2005,Heracles,Feyenoord,0,4,5.36,3.62,1.55
+29.01.2006,2005,Waalwijk,Vitesse,0,1,1.96,3.31,3.37
+28.01.2006,2005,Roosendaal,Heerenveen,0,2,4.05,3.41,1.76
+28.01.2006,2005,Sparta Rotterdam,Twente,1,0,2.48,3.29,2.51
+28.01.2006,2005,Willem II,Nijmegen,2,2,3.08,3.29,2.08
+27.01.2006,2005,Roda,AZ Alkmaar,1,4,3.31,3.30,1.99
+22.01.2006,2005,Feyenoord,Roda,0,0,1.28,4.44,9.03
+22.01.2006,2005,Nijmegen,Den Haag,5,0,1.56,3.62,5.15
+22.01.2006,2005,Twente,Ajax,2,3,3.57,3.34,1.90
+22.01.2006,2005,Utrecht,Breda,2,2,1.58,3.51,5.15
+21.01.2006,2005,AZ Alkmaar,Groningen,1,1,1.35,4.05,7.96
+21.01.2006,2005,Heerenveen,Sparta Rotterdam,0,0,1.40,3.83,7.17
+21.01.2006,2005,Roosendaal,Heracles,1,2,2.56,3.19,2.45
+21.01.2006,2005,Vitesse,Willem II,2,1,1.48,3.66,5.98
+20.01.2006,2005,PSV,Waalwijk,2,0,1.19,5.66,9.99
+18.01.2006,2005,AZ Alkmaar,Den Haag,3,1,1.16,5.82,9.99
+18.01.2006,2005,Sparta Rotterdam,Nijmegen,1,3,2.55,3.24,2.45
+15.01.2006,2005,Ajax,Nijmegen,1,1,1.31,4.29,8.67
+15.01.2006,2005,Den Haag,Utrecht,2,3,2.57,3.28,2.40
+15.01.2006,2005,Sparta Rotterdam,PSV,0,1,7.66,4.07,1.35
+15.01.2006,2005,Vitesse,Feyenoord,0,1,3.84,3.36,1.81
+15.01.2006,2005,Willem II,Twente,1,1,2.54,3.30,2.40
+14.01.2006,2005,Breda,Roda,0,4,2.20,3.27,2.85
+14.01.2006,2005,Heracles,AZ Alkmaar,0,2,5.02,3.53,1.57
+14.01.2006,2005,Waalwijk,Roosendaal,1,1,1.27,4.56,8.88
+13.01.2006,2005,Groningen,Heerenveen,2,0,2.12,3.30,2.98
+11.01.2006,2005,Breda,Waalwijk,1,2,2.26,3.27,2.75
+11.01.2006,2005,Willem II,Heracles,1,2,1.96,3.28,3.37
+30.12.2005,2005,Heerenveen,Ajax,4,2,2.94,3.33,2.12
+30.12.2005,2005,Heracles,Vitesse,3,1,2.88,3.28,2.17
+30.12.2005,2005,Roda,Groningen,1,3,1.95,3.34,3.38
+29.12.2005,2005,Feyenoord,Willem II,6,1,1.13,6.24,9.99
+29.12.2005,2005,PSV,Twente,1,1,1.15,5.78,9.99
+29.12.2005,2005,Roosendaal,Utrecht,1,2,4.29,3.43,1.69
+27.12.2005,2005,Ajax,Groningen,3,2,1.31,4.23,8.82
+27.12.2005,2005,Roda,Den Haag,3,1,1.67,3.46,4.56
+27.12.2005,2005,Vitesse,Breda,2,1,1.77,3.37,4.04
+27.12.2005,2005,Waalwijk,Heerenveen,2,2,2.20,3.29,2.87
+26.12.2005,2005,Feyenoord,AZ Alkmaar,2,0,1.81,4.31,4.33
+26.12.2005,2005,Nijmegen,PSV,0,2,5.30,3.46,1.58
+26.12.2005,2005,Twente,Roosendaal,4,1,1.38,4.06,7.16
+26.12.2005,2005,Utrecht,Sparta Rotterdam,1,1,1.53,3.63,5.45
+18.12.2005,2005,AZ Alkmaar,Waalwijk,3,0,1.35,4.11,7.54
+18.12.2005,2005,Breda,Ajax,0,2,4.28,3.46,1.72
+18.12.2005,2005,Den Haag,Feyenoord,2,1,6.44,3.73,1.46
+18.12.2005,2005,Groningen,Nijmegen,3,0,2.04,3.30,3.14
+18.12.2005,2005,Heracles,Utrecht,1,1,2.76,3.26,2.26
+17.12.2005,2005,Heerenveen,Twente,3,1,1.71,3.41,4.24
+17.12.2005,2005,PSV,Willem II,4,1,1.13,6.47,9.99
+17.12.2005,2005,Roosendaal,Roda,0,2,3.53,3.42,1.87
+16.12.2005,2005,Sparta Rotterdam,Vitesse,1,0,2.84,3.34,2.17
+14.12.2005,2005,Willem II,Utrecht,0,1,2.51,3.25,2.47
+11.12.2005,2005,Feyenoord,PSV,1,0,2.42,3.19,2.63
+11.12.2005,2005,Utrecht,Groningen,0,2,1.69,3.44,4.35
+11.12.2005,2005,Vitesse,Ajax,0,2,2.92,3.27,2.16
+11.12.2005,2005,Waalwijk,Sparta Rotterdam,3,2,1.51,3.77,5.47
+10.12.2005,2005,Breda,Heracles,2,1,1.56,3.52,5.20
+10.12.2005,2005,Den Haag,Roosendaal,3,0,1.63,3.51,4.70
+10.12.2005,2005,Heerenveen,Willem II,3,3,1.44,3.85,6.29
+10.12.2005,2005,Twente,AZ Alkmaar,1,3,3.46,3.36,1.95
+09.12.2005,2005,Roda,Nijmegen,0,1,2.13,3.29,2.98
+04.12.2005,2005,Ajax,Waalwijk,4,1,1.49,3.68,6.13
+04.12.2005,2005,Groningen,Twente,1,0,2.19,3.21,3.00
+04.12.2005,2005,Nijmegen,Vitesse,1,0,2.29,3.25,2.73
+04.12.2005,2005,Sparta Rotterdam,Den Haag,2,3,1.83,3.41,3.69
+03.12.2005,2005,AZ Alkmaar,Heerenveen,2,1,1.58,3.58,5.01
+03.12.2005,2005,PSV,Breda,3,0,1.19,5.64,8.39
+03.12.2005,2005,Roosendaal,Feyenoord,2,2,9.35,4.89,1.23
+02.12.2005,2005,Heracles,Roda,0,1,2.63,3.27,2.37
+30.11.2005,2005,Breda,Groningen,2,2,1.86,3.30,3.68
+30.11.2005,2005,Nijmegen,Willem II,2,0,1.73,3.44,4.14
+30.11.2005,2005,Twente,Sparta Rotterdam,1,0,1.62,3.50,4.78
+29.11.2005,2005,Vitesse,Waalwijk,4,2,1.91,3.28,3.57
+27.11.2005,2005,AZ Alkmaar,Roda,2,0,1.40,3.82,7.28
+27.11.2005,2005,Feyenoord,Heracles,7,1,1.22,5.10,9.58
+27.11.2005,2005,Heerenveen,Roosendaal,2,0,1.26,4.71,8.95
+27.11.2005,2005,PSV,Den Haag,3,0,1.15,6.10,9.91
+27.11.2005,2005,Utrecht,Ajax,1,0,3.02,3.30,2.10
+20.11.2005,2005,Groningen,AZ Alkmaar,0,0,3.63,3.35,1.85
+20.11.2005,2005,Heracles,Roosendaal,3,0,1.85,3.30,3.72
+20.11.2005,2005,Roda,Feyenoord,2,3,3.76,3.33,1.83
+20.11.2005,2005,Sparta Rotterdam,Heerenveen,1,2,2.75,3.30,2.25
+19.11.2005,2005,Ajax,Twente,2,0,1.45,3.82,6.23
+19.11.2005,2005,Breda,Utrecht,0,1,2.01,3.28,3.24
+19.11.2005,2005,Den Haag,Nijmegen,0,1,2.33,3.26,2.68
+19.11.2005,2005,Waalwijk,PSV,4,4,4.39,3.35,1.70
+18.11.2005,2005,Willem II,Vitesse,3,4,2.53,3.29,2.45
+06.11.2005,2005,Feyenoord,Vitesse,0,0,1.36,4.08,7.51
+06.11.2005,2005,Heerenveen,Groningen,4,0,1.82,3.36,3.80
+06.11.2005,2005,Nijmegen,Ajax,1,0,4.47,3.38,1.69
+06.11.2005,2005,Utrecht,Den Haag,1,1,1.56,3.57,5.26
+05.11.2005,2005,AZ Alkmaar,Heracles,2,2,1.16,5.87,9.92
+05.11.2005,2005,PSV,Sparta Rotterdam,3,0,1.18,5.56,9.99
+05.11.2005,2005,Roda,Breda,3,3,1.88,3.34,3.58
+05.11.2005,2005,Twente,Willem II,3,1,1.68,3.49,4.30
+04.11.2005,2005,Roosendaal,Waalwijk,1,1,4.17,3.42,1.72
+30.10.2005,2005,Groningen,Roda,1,0,2.06,3.33,3.07
+30.10.2005,2005,Nijmegen,Sparta Rotterdam,0,0,1.78,3.35,3.96
+30.10.2005,2005,Utrecht,Roosendaal,4,1,1.40,3.91,6.98
+30.10.2005,2005,Willem II,Feyenoord,1,3,4.86,3.60,1.58
+29.10.2005,2005,Den Haag,AZ Alkmaar,0,2,4.75,3.58,1.60
+29.10.2005,2005,Twente,PSV,0,1,4.56,3.48,1.64
+29.10.2005,2005,Vitesse,Heracles,5,1,1.52,3.66,5.30
+29.10.2005,2005,Waalwijk,Breda,4,1,1.99,3.29,3.28
+28.10.2005,2005,Ajax,Heerenveen,0,0,1.39,4.00,7.08
+23.10.2005,2005,AZ Alkmaar,Willem II,5,1,1.33,4.29,7.73
+23.10.2005,2005,Groningen,Den Haag,3,1,1.80,3.43,3.73
+23.10.2005,2005,Heerenveen,Utrecht,1,1,1.88,3.29,3.61
+23.10.2005,2005,PSV,Ajax,1,0,1.86,3.24,3.80
+23.10.2005,2005,Waalwijk,Feyenoord,2,1,4.08,3.40,1.74
+22.10.2005,2005,Breda,Twente,1,1,2.06,3.29,3.08
+22.10.2005,2005,Roosendaal,Vitesse,0,3,2.83,3.27,2.20
+22.10.2005,2005,Sparta Rotterdam,Roda,2,3,2.54,3.26,2.43
+21.10.2005,2005,Heracles,Nijmegen,0,2,2.26,3.31,2.73
+16.10.2005,2005,Feyenoord,Groningen,4,1,1.27,4.72,8.70
+16.10.2005,2005,Nijmegen,Roosendaal,3,1,1.64,3.46,4.65
+16.10.2005,2005,Roda,Utrecht,2,1,2.06,3.32,3.12
+16.10.2005,2005,Vitesse,Den Haag,3,1,1.76,3.42,4.01
+15.10.2005,2005,Ajax,Heracles,0,0,1.21,5.22,9.75
+15.10.2005,2005,Breda,Heerenveen,0,3,1.93,3.33,3.40
+15.10.2005,2005,PSV,AZ Alkmaar,3,0,1.84,3.34,3.72
+15.10.2005,2005,Twente,Waalwijk,2,0,1.98,3.29,3.29
+14.10.2005,2005,Willem II,Sparta Rotterdam,0,0,1.88,3.34,3.57
+02.10.2005,2005,AZ Alkmaar,Nijmegen,3,2,1.29,4.49,8.42
+02.10.2005,2005,Groningen,Willem II,2,0,2.13,3.28,2.94
+02.10.2005,2005,Heerenveen,PSV,2,3,3.94,3.38,1.78
+02.10.2005,2005,Heracles,Twente,0,4,2.48,3.20,2.55
+02.10.2005,2005,Sparta Rotterdam,Ajax,1,2,5.16,3.58,1.57
+02.10.2005,2005,Utrecht,Feyenoord,3,1,4.20,3.41,1.73
+01.10.2005,2005,Den Haag,Waalwijk,2,1,2.52,3.24,2.47
+01.10.2005,2005,Roda,Vitesse,3,2,2.18,3.26,2.90
+30.09.2005,2005,Roosendaal,Breda,1,2,2.94,3.23,2.16
+25.09.2005,2005,Breda,AZ Alkmaar,2,1,3.93,3.30,1.80
+25.09.2005,2005,Sparta Rotterdam,Heracles,2,0,2.15,3.23,3.02
+25.09.2005,2005,Twente,Feyenoord,1,3,4.30,3.44,1.73
+24.09.2005,2005,Ajax,Roda,4,1,1.27,4.66,9.18
+24.09.2005,2005,PSV,Roosendaal,2,0,1.13,6.38,9.99
+24.09.2005,2005,Vitesse,Groningen,2,0,1.84,3.31,3.75
+24.09.2005,2005,Waalwijk,Utrecht,2,3,1.81,3.35,3.91
+24.09.2005,2005,Willem II,Den Haag,1,0,1.77,3.38,4.01
+23.09.2005,2005,Heerenveen,Nijmegen,2,1,1.71,3.42,4.25
+21.09.2005,2005,Ajax,Den Haag,2,2,1.17,5.79,9.71
+18.09.2005,2005,AZ Alkmaar,Ajax,4,2,2.45,3.26,2.55
+18.09.2005,2005,Feyenoord,Heerenveen,5,1,1.40,3.95,7.02
+18.09.2005,2005,Groningen,PSV,1,0,6.42,3.71,1.46
+18.09.2005,2005,Roda,Willem II,0,2,1.70,3.40,4.42
+18.09.2005,2005,Utrecht,Vitesse,1,0,2.24,3.25,2.81
+17.09.2005,2005,Heracles,Waalwijk,0,2,2.47,3.23,2.55
+17.09.2005,2005,Nijmegen,Breda,1,1,2.14,3.30,2.96
+17.09.2005,2005,Roosendaal,Sparta Rotterdam,1,1,2.26,3.27,2.77
+16.09.2005,2005,Den Haag,Twente,0,0,2.47,3.24,2.53
+11.09.2005,2005,Breda,Den Haag,4,1,1.80,3.37,3.80
+11.09.2005,2005,Feyenoord,Nijmegen,3,0,1.23,5.02,9.32
+11.09.2005,2005,Groningen,Sparta Rotterdam,0,1,1.77,3.39,3.96
+11.09.2005,2005,Twente,Vitesse,0,1,1.87,3.28,3.66
+10.09.2005,2005,AZ Alkmaar,Roosendaal,7,0,1.22,5.04,9.50
+10.09.2005,2005,Heerenveen,Heracles,1,2,1.54,3.61,5.39
+10.09.2005,2005,PSV,Utrecht,1,0,1.22,5.15,9.42
+10.09.2005,2005,Willem II,Ajax,0,2,5.44,3.53,1.55
+09.09.2005,2005,Waalwijk,Roda,2,0,2.02,3.34,3.24
+28.08.2005,2005,Ajax,Feyenoord,1,2,1.77,3.41,4.06
+28.08.2005,2005,Heracles,Groningen,2,1,2.27,3.34,2.67
+28.08.2005,2005,Roda,PSV,0,3,4.45,3.44,1.67
+28.08.2005,2005,Roosendaal,Willem II,1,1,2.59,3.31,2.38
+28.08.2005,2005,Utrecht,Twente,1,3,2.12,3.32,2.94
+27.08.2005,2005,Nijmegen,Waalwijk,1,3,2.05,3.33,3.11
+27.08.2005,2005,Sparta Rotterdam,Breda,1,0,2.39,3.36,2.51
+27.08.2005,2005,Vitesse,AZ Alkmaar,0,5,2.57,3.35,2.35
+26.08.2005,2005,Den Haag,Heerenveen,1,0,3.10,3.36,2.04
+21.08.2005,2005,PSV,Vitesse,2,1,1.26,4.84,9.12
+21.08.2005,2005,Sparta Rotterdam,Feyenoord,1,3,6.29,3.78,1.46
+21.08.2005,2005,Utrecht,AZ Alkmaar,1,2,2.77,3.27,2.23
+21.08.2005,2005,Waalwijk,Groningen,2,1,1.94,3.31,3.37
+20.08.2005,2005,Den Haag,Heracles,1,2,1.77,3.39,3.89
+20.08.2005,2005,Heerenveen,Roda,5,4,1.86,3.32,3.62
+20.08.2005,2005,Roosendaal,Ajax,0,2,8.60,4.35,1.30
+20.08.2005,2005,Twente,Nijmegen,0,1,1.65,3.44,4.61
+19.08.2005,2005,Breda,Willem II,1,0,1.93,3.37,3.45
+14.08.2005,2005,Feyenoord,Breda,2,0,1.36,3.99,7.29
+14.08.2005,2005,Groningen,Roosendaal,1,0,1.55,3.61,5.19
+14.08.2005,2005,Nijmegen,Utrecht,0,0,2.08,3.31,2.99
+13.08.2005,2005,Heracles,PSV,1,1,8.92,4.75,1.26
+13.08.2005,2005,Roda,Twente,2,0,1.99,3.29,3.20
+13.08.2005,2005,Vitesse,Heerenveen,2,2,2.14,3.26,2.91
+13.08.2005,2005,Willem II,Waalwijk,1,2,1.82,3.36,3.64
+12.08.2005,2005,AZ Alkmaar,Sparta Rotterdam,3,0,1.34,4.01,7.93

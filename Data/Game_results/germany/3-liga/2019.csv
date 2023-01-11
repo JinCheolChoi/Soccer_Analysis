@@ -1,381 +1,381 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-04.07.,2019,Chemnitzer,Hansa Rostock,4,2
-04.07.,2019,Duisburg,Unterhaching,4,0
-04.07.,2019,Jena,Grossaspach,1,0
-04.07.,2019,Kaiserslautern,Bayern II,1,0
-04.07.,2019,Magdeburg,Preussen Munster,2,2
-04.07.,2019,Mannheim,Zwickau,0,0
-04.07.,2019,Meppen,Braunschweig,4,3
-04.07.,2019,Munich 1860,Ingolstadt,0,2
-04.07.,2019,Uerdingen,Viktoria Koln,1,1
-04.07.,2019,Wurzburger Kickers,Hallescher,2,2
-01.07.,2019,Bayern II,Duisburg,2,2
-01.07.,2019,Braunschweig,Mannheim,3,2
-01.07.,2019,Grossaspach,Munich 1860,2,4
-01.07.,2019,Hallescher,Kaiserslautern,1,1
-01.07.,2019,Hansa Rostock,Uerdingen,1,0
-01.07.,2019,Ingolstadt,Magdeburg,0,2
-01.07.,2019,Preussen Munster,Meppen,0,3
-01.07.,2019,Unterhaching,Jena,2,2
-01.07.,2019,Viktoria Koln,Wurzburger Kickers,5,1
-01.07.,2019,Zwickau,Chemnitzer,2,1
-28.06.,2019,Magdeburg,Grossaspach,0,1
-28.06.,2019,Meppen,Ingolstadt,0,2
-27.06.,2019,Duisburg,Hallescher,2,2
-27.06.,2019,Jena,Bayern II,1,2
-27.06.,2019,Kaiserslautern,Viktoria Koln,3,0
-27.06.,2019,Mannheim,Preussen Munster,0,0
-27.06.,2019,Munich 1860,Unterhaching,3,0
-27.06.,2019,Wurzburger Kickers,Hansa Rostock,3,1
-27.06.,2019,Zwickau,Braunschweig,3,2
-26.06.,2019,Uerdingen,Chemnitzer,1,1
-24.06.,2019,Bayern II,Munich 1860,2,1
-24.06.,2019,Grossaspach,Meppen,1,2
-24.06.,2019,Hallescher,Jena,5,3
-24.06.,2019,Ingolstadt,Mannheim,2,0
-24.06.,2019,Preussen Munster,Zwickau,2,1
-24.06.,2019,Unterhaching,Magdeburg,0,0
-23.06.,2019,Chemnitzer,Braunschweig,1,2
-23.06.,2019,Hansa Rostock,Kaiserslautern,1,1
-23.06.,2019,Uerdingen,Wurzburger Kickers,1,2
-23.06.,2019,Viktoria Koln,Duisburg,1,0
-21.06.,2019,Meppen,Unterhaching,3,0
-21.06.,2019,Munich 1860,Hallescher,2,1
-21.06.,2019,Zwickau,Ingolstadt,0,3
-20.06.,2019,Braunschweig,Preussen Munster,1,0
-20.06.,2019,Duisburg,Hansa Rostock,0,0
-20.06.,2019,Jena,Viktoria Koln,2,3
-20.06.,2019,Kaiserslautern,Uerdingen,4,0
-20.06.,2019,Magdeburg,Bayern II,2,2
-20.06.,2019,Mannheim,Grossaspach,3,2
-19.06.,2019,Wurzburger Kickers,Chemnitzer,3,0
-17.06.,2019,Bayern II,Meppen,5,1
-17.06.,2019,Grossaspach,Zwickau,1,0
-17.06.,2019,Hansa Rostock,Jena,4,0
-17.06.,2019,Uerdingen,Duisburg,1,1
-17.06.,2019,Unterhaching,Mannheim,0,0
-16.06.,2019,Chemnitzer,Preussen Munster,1,0
-16.06.,2019,Hallescher,Magdeburg,1,1
-16.06.,2019,Ingolstadt,Braunschweig,0,0
-16.06.,2019,Viktoria Koln,Munich 1860,2,0
-16.06.,2019,Wurzburger Kickers,Kaiserslautern,2,0
-14.06.,2019,Jena,Uerdingen,0,0
-14.06.,2019,Mannheim,Bayern II,2,3
-14.06.,2019,Zwickau,Unterhaching,3,3
-13.06.,2019,Braunschweig,Grossaspach,2,1
-13.06.,2019,Duisburg,Wurzburger Kickers,1,1
-13.06.,2019,Kaiserslautern,Chemnitzer,2,0
-13.06.,2019,Magdeburg,Viktoria Koln,2,0
-13.06.,2019,Munich 1860,Hansa Rostock,0,1
-13.06.,2019,Preussen Munster,Ingolstadt,0,0
-12.06.,2019,Meppen,Hallescher,2,3
-10.06.,2019,Chemnitzer,Ingolstadt,0,1
-10.06.,2019,Grossaspach,Preussen Munster,0,0
-10.06.,2019,Kaiserslautern,Duisburg,1,3
-10.06.,2019,Unterhaching,Braunschweig,1,3
-10.06.,2019,Wurzburger Kickers,Jena,4,2
-09.06.,2019,Bayern II,Zwickau,2,0
-09.06.,2019,Hallescher,Mannheim,3,0
-09.06.,2019,Hansa Rostock,Magdeburg,3,1
-09.06.,2019,Uerdingen,Munich 1860,1,3
-09.06.,2019,Viktoria Koln,Meppen,1,3
-07.06.,2019,Ingolstadt,Grossaspach,1,1
-07.06.,2019,Jena,Kaiserslautern,1,2
-07.06.,2019,Preussen Munster,Unterhaching,2,1
-06.06.,2019,Braunschweig,Bayern II,1,1
-06.06.,2019,Duisburg,Chemnitzer,2,1
-06.06.,2019,Mannheim,Viktoria Koln,2,1
-06.06.,2019,Meppen,Hansa Rostock,0,3
-06.06.,2019,Munich 1860,Wurzburger Kickers,1,2
-06.06.,2019,Zwickau,Hallescher,5,1
-05.06.,2019,Magdeburg,Uerdingen,1,1
-03.06.,2019,Bayern II,Preussen Munster,3,2
-03.06.,2019,Chemnitzer,Grossaspach,0,1
-03.06.,2019,Duisburg,Jena,1,1
-03.06.,2019,Hallescher,Braunschweig,0,1
-03.06.,2019,Kaiserslautern,Munich 1860,1,1
-02.06.,2019,Hansa Rostock,Mannheim,0,1
-02.06.,2019,Uerdingen,Meppen,0,0
-02.06.,2019,Unterhaching,Ingolstadt,1,2
-02.06.,2019,Viktoria Koln,Zwickau,3,0
-02.06.,2019,Wurzburger Kickers,Magdeburg,0,1
-31.05.,2019,Jena,Chemnitzer,0,1
-31.05.,2019,Munich 1860,Duisburg,3,2
-31.05.,2019,Preussen Munster,Hallescher,4,2
-30.05.,2019,Braunschweig,Viktoria Koln,4,2
-30.05.,2019,Grossaspach,Unterhaching,0,2
-30.05.,2019,Ingolstadt,Bayern II,1,2
-30.05.,2019,Magdeburg,Kaiserslautern,0,1
-30.05.,2019,Mannheim,Uerdingen,1,2
-30.05.,2019,Meppen,Wurzburger Kickers,1,3
-30.05.,2019,Zwickau,Hansa Rostock,2,2
-09.03.,2019,Hansa Rostock,Braunschweig,3,0
-08.03.,2019,Hallescher,Ingolstadt,1,1
-08.03.,2019,Uerdingen,Zwickau,4,2
-07.03.,2019,Bayern II,Grossaspach,2,0
-07.03.,2019,Chemnitzer,Unterhaching,1,0
-07.03.,2019,Jena,Munich 1860,0,3
-07.03.,2019,Kaiserslautern,Meppen,3,3
-07.03.,2019,Viktoria Koln,Preussen Munster,2,1
-07.03.,2019,Wurzburger Kickers,Mannheim,0,0
-06.03.,2019,Duisburg,Magdeburg,1,0
-02.03.,2019,Preussen Munster,Hansa Rostock,1,0
-01.03.,2019,Ingolstadt,Viktoria Koln,0,1
-01.03.,2019,Meppen,Duisburg,1,0
-29.02.,2019,Braunschweig,Uerdingen,4,1
-29.02.,2019,Grossaspach,Hallescher,1,0
-29.02.,2019,Magdeburg,Jena,6,2
-29.02.,2019,Mannheim,Kaiserslautern,1,1
-29.02.,2019,Munich 1860,Chemnitzer,4,3
-29.02.,2019,Zwickau,Wurzburger Kickers,1,2
-28.02.,2019,Unterhaching,Bayern II,0,1
-24.02.,2019,Chemnitzer,Bayern II,1,0
-23.02.,2019,Hallescher,Unterhaching,3,5
-23.02.,2019,Munich 1860,Magdeburg,1,1
-22.02.,2019,Duisburg,Mannheim,2,3
-22.02.,2019,Hansa Rostock,Ingolstadt,3,0
-22.02.,2019,Jena,Meppen,0,2
-22.02.,2019,Kaiserslautern,Zwickau,0,0
-22.02.,2019,Uerdingen,Preussen Munster,0,2
-22.02.,2019,Wurzburger Kickers,Braunschweig,3,1
-21.02.,2019,Viktoria Koln,Grossaspach,1,0
-17.02.,2019,Bayern II,Hallescher,6,1
-16.02.,2019,Mannheim,Jena,1,1
-16.02.,2019,Zwickau,Duisburg,1,0
-15.02.,2019,Braunschweig,Kaiserslautern,2,0
-15.02.,2019,Grossaspach,Hansa Rostock,0,1
-15.02.,2019,Ingolstadt,Uerdingen,0,1
-15.02.,2019,Magdeburg,Chemnitzer,1,1
-15.02.,2019,Meppen,Munich 1860,1,1
-15.02.,2019,Unterhaching,Viktoria Koln,1,1
-14.02.,2019,Preussen Munster,Wurzburger Kickers,0,0
-10.02.,2019,Jena,Zwickau,2,1
-09.02.,2019,Chemnitzer,Hallescher,3,0
-09.02.,2019,Wurzburger Kickers,Ingolstadt,3,1
-08.02.,2019,Hansa Rostock,Unterhaching,1,1
-08.02.,2019,Kaiserslautern,Preussen Munster,1,1
-08.02.,2019,Magdeburg,Meppen,0,2
-08.02.,2019,Munich 1860,Mannheim,1,1
-08.02.,2019,Uerdingen,Grossaspach,2,1
-08.02.,2019,Viktoria Koln,Bayern II,2,4
-07.02.,2019,Duisburg,Braunschweig,1,1
-03.02.,2019,Grossaspach,Wurzburger Kickers,0,6
-02.02.,2019,Mannheim,Magdeburg,1,1
-02.02.,2019,Zwickau,Munich 1860,2,2
-01.02.,2019,Bayern II,Hansa Rostock,1,0
-01.02.,2019,Braunschweig,Jena,1,1
-01.02.,2019,Ingolstadt,Kaiserslautern,2,1
-01.02.,2019,Meppen,Chemnitzer,1,2
-01.02.,2019,Preussen Munster,Duisburg,1,4
-01.02.,2019,Unterhaching,Uerdingen,1,0
-31.01.,2019,Hallescher,Viktoria Koln,3,4
-27.01.,2019,Kaiserslautern,Grossaspach,0,0
-26.01.,2019,Munich 1860,Braunschweig,4,1
-26.01.,2019,Uerdingen,Bayern II,0,3
-25.01.,2019,Chemnitzer,Viktoria Koln,2,2
-25.01.,2019,Duisburg,Ingolstadt,1,1
-25.01.,2019,Jena,Preussen Munster,1,2
-25.01.,2019,Magdeburg,Zwickau,1,2
-25.01.,2019,Meppen,Mannheim,0,1
-25.01.,2019,Wurzburger Kickers,Unterhaching,1,2
-24.01.,2019,Hansa Rostock,Hallescher,1,0
-22.12.2019,2019,Bayern II,Wurzburger Kickers,1,1
-22.12.2019,2019,Hallescher,Uerdingen,1,1
-22.12.2019,2019,Ingolstadt,Jena,5,1
-21.12.2019,2019,Braunschweig,Magdeburg,2,2
-21.12.2019,2019,Grossaspach,Duisburg,1,1
-21.12.2019,2019,Mannheim,Chemnitzer,4,3
-21.12.2019,2019,Preussen Munster,Munich 1860,0,1
-21.12.2019,2019,Unterhaching,Kaiserslautern,1,1
-21.12.2019,2019,Zwickau,Meppen,2,2
-20.12.2019,2019,Viktoria Koln,Hansa Rostock,1,5
-16.12.2019,2019,Ingolstadt,Munich 1860,2,2
-15.12.2019,2019,Grossaspach,Jena,1,2
-15.12.2019,2019,Unterhaching,Duisburg,2,2
-14.12.2019,2019,Bayern II,Kaiserslautern,1,3
-14.12.2019,2019,Braunschweig,Meppen,1,2
-14.12.2019,2019,Hallescher,Wurzburger Kickers,2,5
-14.12.2019,2019,Hansa Rostock,Chemnitzer,1,2
-14.12.2019,2019,Viktoria Koln,Uerdingen,0,1
-14.12.2019,2019,Zwickau,Mannheim,0,1
-13.12.2019,2019,Preussen Munster,Magdeburg,2,0
-09.12.2019,2019,Meppen,Preussen Munster,3,1
-08.12.2019,2019,Duisburg,Bayern II,3,2
-08.12.2019,2019,Mannheim,Braunschweig,0,0
-07.12.2019,2019,Jena,Unterhaching,0,3
-07.12.2019,2019,Kaiserslautern,Hallescher,1,0
-07.12.2019,2019,Magdeburg,Ingolstadt,0,2
-07.12.2019,2019,Munich 1860,Grossaspach,1,1
-07.12.2019,2019,Uerdingen,Hansa Rostock,4,1
-07.12.2019,2019,Wurzburger Kickers,Viktoria Koln,3,1
-06.12.2019,2019,Chemnitzer,Zwickau,2,2
-02.12.2019,2019,Braunschweig,Zwickau,3,1
-01.12.2019,2019,Ingolstadt,Meppen,1,1
-01.12.2019,2019,Unterhaching,Munich 1860,2,3
-30.11.2019,2019,Chemnitzer,Uerdingen,1,1
-30.11.2019,2019,Grossaspach,Magdeburg,1,2
-30.11.2019,2019,Hallescher,Duisburg,1,0
-30.11.2019,2019,Hansa Rostock,Wurzburger Kickers,1,0
-30.11.2019,2019,Preussen Munster,Mannheim,1,3
-30.11.2019,2019,Viktoria Koln,Kaiserslautern,2,4
-29.11.2019,2019,Bayern II,Jena,2,3
-25.11.2019,2019,Duisburg,Viktoria Koln,2,1
-24.11.2019,2019,Kaiserslautern,Hansa Rostock,2,0
-24.11.2019,2019,Munich 1860,Bayern II,1,1
-23.11.2019,2019,Braunschweig,Chemnitzer,2,1
-23.11.2019,2019,Magdeburg,Unterhaching,3,0
-23.11.2019,2019,Mannheim,Ingolstadt,0,0
-23.11.2019,2019,Meppen,Grossaspach,2,1
-23.11.2019,2019,Wurzburger Kickers,Uerdingen,1,2
-23.11.2019,2019,Zwickau,Preussen Munster,4,2
-22.11.2019,2019,Jena,Hallescher,0,3
-11.11.2019,2019,Preussen Munster,Braunschweig,1,1
-10.11.2019,2019,Bayern II,Magdeburg,2,1
-10.11.2019,2019,Chemnitzer,Wurzburger Kickers,0,0
-09.11.2019,2019,Grossaspach,Mannheim,0,3
-09.11.2019,2019,Hallescher,Munich 1860,0,1
-09.11.2019,2019,Hansa Rostock,Duisburg,1,2
-09.11.2019,2019,Ingolstadt,Zwickau,4,2
-09.11.2019,2019,Uerdingen,Kaiserslautern,0,3
-09.11.2019,2019,Unterhaching,Meppen,0,0
-08.11.2019,2019,Viktoria Koln,Jena,2,2
-04.11.2019,2019,Duisburg,Uerdingen,2,0
-03.11.2019,2019,Jena,Hansa Rostock,3,1
-03.11.2019,2019,Meppen,Bayern II,5,3
-02.11.2019,2019,Braunschweig,Ingolstadt,0,3
-02.11.2019,2019,Kaiserslautern,Wurzburger Kickers,2,3
-02.11.2019,2019,Magdeburg,Hallescher,1,0
-02.11.2019,2019,Mannheim,Unterhaching,0,3
-02.11.2019,2019,Munich 1860,Viktoria Koln,4,2
-02.11.2019,2019,Preussen Munster,Chemnitzer,3,3
-01.11.2019,2019,Zwickau,Grossaspach,0,1
-28.10.2019,2019,Bayern II,Mannheim,2,2
-27.10.2019,2019,Chemnitzer,Kaiserslautern,3,1
-27.10.2019,2019,Grossaspach,Braunschweig,1,3
-26.10.2019,2019,Hallescher,Meppen,3,3
-26.10.2019,2019,Hansa Rostock,Munich 1860,2,1
-26.10.2019,2019,Ingolstadt,Preussen Munster,3,2
-26.10.2019,2019,Uerdingen,Jena,2,0
-26.10.2019,2019,Unterhaching,Zwickau,0,0
-26.10.2019,2019,Wurzburger Kickers,Duisburg,0,2
-25.10.2019,2019,Viktoria Koln,Magdeburg,1,1
-21.10.2019,2019,Meppen,Viktoria Koln,1,1
-20.10.2019,2019,Jena,Wurzburger Kickers,1,1
-20.10.2019,2019,Zwickau,Bayern II,3,0
-19.10.2019,2019,Braunschweig,Unterhaching,0,0
-19.10.2019,2019,Ingolstadt,Chemnitzer,1,1
-19.10.2019,2019,Magdeburg,Hansa Rostock,0,1
-19.10.2019,2019,Mannheim,Hallescher,0,4
-19.10.2019,2019,Munich 1860,Uerdingen,0,1
-19.10.2019,2019,Preussen Munster,Grossaspach,1,1
-18.10.2019,2019,Duisburg,Kaiserslautern,3,1
-07.10.2019,2019,Wurzburger Kickers,Munich 1860,2,1
-06.10.2019,2019,Bayern II,Braunschweig,2,0
-06.10.2019,2019,Chemnitzer,Duisburg,3,1
-05.10.2019,2019,Grossaspach,Ingolstadt,1,5
-05.10.2019,2019,Hallescher,Zwickau,1,1
-05.10.2019,2019,Hansa Rostock,Meppen,2,1
-05.10.2019,2019,Kaiserslautern,Jena,3,1
-05.10.2019,2019,Unterhaching,Preussen Munster,2,2
-05.10.2019,2019,Viktoria Koln,Mannheim,2,2
-04.10.2019,2019,Uerdingen,Magdeburg,0,0
-02.10.2019,2019,Duisburg,Meppen,1,3
-30.09.2019,2019,Ingolstadt,Unterhaching,0,0
-29.09.2019,2019,Mannheim,Hansa Rostock,1,1
-29.09.2019,2019,Meppen,Uerdingen,1,2
-28.09.2019,2019,Braunschweig,Hallescher,1,1
-28.09.2019,2019,Grossaspach,Chemnitzer,2,0
-28.09.2019,2019,Jena,Duisburg,1,2
-28.09.2019,2019,Munich 1860,Kaiserslautern,3,1
-28.09.2019,2019,Preussen Munster,Bayern II,1,4
-28.09.2019,2019,Zwickau,Viktoria Koln,4,0
-27.09.2019,2019,Magdeburg,Wurzburger Kickers,3,0
-23.09.2019,2019,Uerdingen,Mannheim,0,3
-22.09.2019,2019,Bayern II,Ingolstadt,2,1
-22.09.2019,2019,Hansa Rostock,Zwickau,1,1
-21.09.2019,2019,Chemnitzer,Jena,3,2
-21.09.2019,2019,Duisburg,Munich 1860,2,1
-21.09.2019,2019,Hallescher,Preussen Munster,2,2
-21.09.2019,2019,Kaiserslautern,Magdeburg,1,1
-21.09.2019,2019,Unterhaching,Grossaspach,2,0
-21.09.2019,2019,Viktoria Koln,Braunschweig,0,0
-20.09.2019,2019,Wurzburger Kickers,Meppen,3,2
-16.09.2019,2019,Unterhaching,Chemnitzer,2,1
-15.09.2019,2019,Braunschweig,Hansa Rostock,1,2
-15.09.2019,2019,Ingolstadt,Hallescher,2,3
-14.09.2019,2019,Grossaspach,Bayern II,2,2
-14.09.2019,2019,Mannheim,Wurzburger Kickers,1,2
-14.09.2019,2019,Meppen,Kaiserslautern,6,1
-14.09.2019,2019,Munich 1860,Jena,3,1
-14.09.2019,2019,Preussen Munster,Viktoria Koln,2,3
-14.09.2019,2019,Zwickau,Uerdingen,1,2
-13.09.2019,2019,Magdeburg,Duisburg,1,1
-02.09.2019,2019,Jena,Magdeburg,1,1
-01.09.2019,2019,Kaiserslautern,Mannheim,1,1
-01.09.2019,2019,Uerdingen,Braunschweig,1,2
-31.08.2019,2019,Bayern II,Unterhaching,1,2
-31.08.2019,2019,Hallescher,Grossaspach,4,0
-31.08.2019,2019,Hansa Rostock,Preussen Munster,1,0
-31.08.2019,2019,Viktoria Koln,Ingolstadt,3,0
-31.08.2019,2019,Wurzburger Kickers,Zwickau,0,2
-30.08.2019,2019,Chemnitzer,Munich 1860,0,1
-26.08.2019,2019,Zwickau,Kaiserslautern,3,5
-25.08.2019,2019,Mannheim,Duisburg,4,3
-25.08.2019,2019,Unterhaching,Hallescher,0,3
-24.08.2019,2019,Bayern II,Chemnitzer,2,2
-24.08.2019,2019,Braunschweig,Wurzburger Kickers,5,2
-24.08.2019,2019,Grossaspach,Viktoria Koln,0,3
-24.08.2019,2019,Magdeburg,Munich 1860,5,1
-24.08.2019,2019,Meppen,Jena,3,0
-24.08.2019,2019,Preussen Munster,Uerdingen,1,1
-23.08.2019,2019,Ingolstadt,Hansa Rostock,2,2
-19.08.2019,2019,Hallescher,Bayern II,1,2
-18.08.2019,2019,Jena,Mannheim,1,2
-18.08.2019,2019,Kaiserslautern,Braunschweig,0,3
-17.08.2019,2019,Duisburg,Zwickau,3,1
-17.08.2019,2019,Hansa Rostock,Grossaspach,0,1
-17.08.2019,2019,Munich 1860,Meppen,0,0
-17.08.2019,2019,Uerdingen,Ingolstadt,0,3
-17.08.2019,2019,Viktoria Koln,Unterhaching,0,2
-17.08.2019,2019,Wurzburger Kickers,Preussen Munster,3,2
-16.08.2019,2019,Chemnitzer,Magdeburg,0,0
-05.08.2019,2019,Mannheim,Munich 1860,4,0
-04.08.2019,2019,Braunschweig,Duisburg,0,3
-04.08.2019,2019,Zwickau,Jena,2,0
-03.08.2019,2019,Bayern II,Viktoria Koln,2,5
-03.08.2019,2019,Grossaspach,Uerdingen,2,2
-03.08.2019,2019,Hallescher,Chemnitzer,3,1
-03.08.2019,2019,Meppen,Magdeburg,1,3
-03.08.2019,2019,Preussen Munster,Kaiserslautern,3,2
-03.08.2019,2019,Unterhaching,Hansa Rostock,1,0
-02.08.2019,2019,Ingolstadt,Wurzburger Kickers,3,0
-31.07.2019,2019,Chemnitzer,Meppen,2,4
-31.07.2019,2019,Duisburg,Preussen Munster,2,0
-31.07.2019,2019,Magdeburg,Mannheim,1,1
-31.07.2019,2019,Munich 1860,Zwickau,3,0
-31.07.2019,2019,Viktoria Koln,Hallescher,0,2
-30.07.2019,2019,Hansa Rostock,Bayern II,2,1
-30.07.2019,2019,Jena,Braunschweig,0,2
-30.07.2019,2019,Kaiserslautern,Ingolstadt,0,0
-30.07.2019,2019,Uerdingen,Unterhaching,2,2
-30.07.2019,2019,Wurzburger Kickers,Grossaspach,0,3
-28.07.2019,2019,Viktoria Koln,Chemnitzer,3,2
-28.07.2019,2019,Zwickau,Magdeburg,0,0
-27.07.2019,2019,Braunschweig,Munich 1860,2,1
-27.07.2019,2019,Grossaspach,Kaiserslautern,1,3
-27.07.2019,2019,Hallescher,Hansa Rostock,1,0
-27.07.2019,2019,Ingolstadt,Duisburg,3,2
-27.07.2019,2019,Mannheim,Meppen,0,0
-27.07.2019,2019,Preussen Munster,Jena,2,0
-27.07.2019,2019,Unterhaching,Wurzburger Kickers,5,4
-26.07.2019,2019,Bayern II,Uerdingen,2,1
-22.07.2019,2019,Jena,Ingolstadt,1,2
-21.07.2019,2019,Chemnitzer,Mannheim,1,1
-21.07.2019,2019,Uerdingen,Hallescher,1,0
-20.07.2019,2019,Duisburg,Grossaspach,4,1
-20.07.2019,2019,Hansa Rostock,Viktoria Koln,3,3
-20.07.2019,2019,Kaiserslautern,Unterhaching,1,1
-20.07.2019,2019,Magdeburg,Braunschweig,2,4
-20.07.2019,2019,Meppen,Zwickau,0,2
-20.07.2019,2019,Wurzburger Kickers,Bayern II,3,1
-19.07.2019,2019,Munich 1860,Preussen Munster,1,1
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+04.07.2020,2019,Chemnitzer,Hansa Rostock,4,2,2.95,3.68,2.12
+04.07.2020,2019,Duisburg,Unterhaching,4,0,1.47,4.37,5.85
+04.07.2020,2019,Jena,Grossaspach,1,0,2.63,3.63,2.34
+04.07.2020,2019,Kaiserslautern,Bayern II,1,0,3.58,3.95,1.81
+04.07.2020,2019,Magdeburg,Preussen Munster,2,2,1.71,3.93,4.12
+04.07.2020,2019,Mannheim,Zwickau,0,0,3.07,3.41,2.16
+04.07.2020,2019,Meppen,Braunschweig,4,3,1.90,3.89,3.32
+04.07.2020,2019,Munich 1860,Ingolstadt,0,2,2.80,3.58,2.24
+04.07.2020,2019,Uerdingen,Viktoria Koln,1,1,2.50,3.59,2.46
+04.07.2020,2019,Wurzburger Kickers,Hallescher,2,2,1.32,5.00,7.83
+01.07.2020,2019,Bayern II,Duisburg,2,2,2.13,3.83,2.86
+01.07.2020,2019,Braunschweig,Mannheim,3,2,1.77,3.91,3.81
+01.07.2020,2019,Viktoria Koln,Wurzburger Kickers,5,1,5.72,4.77,1.44
+01.07.2020,2019,Hallescher,Kaiserslautern,1,1,2.09,3.64,3.08
+01.07.2020,2019,Hansa Rostock,Uerdingen,1,0,1.59,4.05,4.88
+01.07.2020,2019,Ingolstadt,Magdeburg,0,2,1.64,3.76,4.86
+01.07.2020,2019,Preussen Munster,Meppen,0,3,1.77,3.91,3.87
+01.07.2020,2019,Grossaspach,Munich 1860,2,4,4.19,3.80,1.73
+01.07.2020,2019,Unterhaching,Jena,2,2,1.50,4.37,5.48
+01.07.2020,2019,Zwickau,Chemnitzer,2,1,2.50,3.28,2.67
+28.06.2020,2019,Magdeburg,Grossaspach,0,1,1.35,4.70,7.75
+28.06.2020,2019,Meppen,Ingolstadt,0,2,3.20,3.52,2.07
+27.06.2020,2019,Duisburg,Hallescher,2,2,2.14,3.49,3.02
+27.06.2020,2019,Jena,Bayern II,1,2,8.03,5.43,1.30
+27.06.2020,2019,Kaiserslautern,Viktoria Koln,3,0,1.97,3.65,3.35
+27.06.2020,2019,Mannheim,Preussen Munster,0,0,2.29,3.28,2.92
+27.06.2020,2019,Munich 1860,Unterhaching,3,0,1.92,3.70,3.46
+27.06.2020,2019,Wurzburger Kickers,Hansa Rostock,3,1,2.50,3.37,2.62
+27.06.2020,2019,Zwickau,Braunschweig,3,2,2.79,3.47,2.29
+26.06.2020,2019,Uerdingen,Chemnitzer,1,1,2.86,3.15,2.42
+24.06.2020,2019,Bayern II,Munich 1860,2,1,2.01,3.70,3.25
+24.06.2020,2019,Hallescher,Jena,5,3,1.31,5.26,7.91
+24.06.2020,2019,Ingolstadt,Mannheim,2,0,1.70,3.67,4.59
+24.06.2020,2019,Preussen Munster,Zwickau,2,1,2.21,3.27,3.11
+24.06.2020,2019,Grossaspach,Meppen,1,2,2.64,3.43,2.44
+24.06.2020,2019,Unterhaching,Magdeburg,0,0,3.42,3.27,2.08
+23.06.2020,2019,Chemnitzer,Braunschweig,1,2,2.52,3.25,2.67
+23.06.2020,2019,Viktoria Koln,Duisburg,1,0,3.41,3.55,1.98
+23.06.2020,2019,Hansa Rostock,Kaiserslautern,1,1,1.49,4.30,5.71
+23.06.2020,2019,Uerdingen,Wurzburger Kickers,1,2,4.92,4.08,1.58
+21.06.2020,2019,Meppen,Unterhaching,3,0,2.26,3.40,2.92
+21.06.2020,2019,Munich 1860,Hallescher,2,1,1.97,3.46,3.53
+21.06.2020,2019,Zwickau,Ingolstadt,0,3,3.51,3.48,1.98
+20.06.2020,2019,Braunschweig,Preussen Munster,1,0,1.89,3.40,3.91
+20.06.2020,2019,Duisburg,Hansa Rostock,0,0,3.17,3.38,2.14
+20.06.2020,2019,Jena,Viktoria Koln,2,3,4.94,4.42,1.54
+20.06.2020,2019,Kaiserslautern,Uerdingen,4,0,2.08,3.17,3.53
+20.06.2020,2019,Magdeburg,Bayern II,2,2,2.61,3.38,2.50
+20.06.2020,2019,Mannheim,Grossaspach,3,2,1.79,3.63,4.07
+19.06.2020,2019,Wurzburger Kickers,Chemnitzer,3,0,1.64,3.88,4.67
+17.06.2020,2019,Bayern II,Meppen,5,1,1.72,3.92,4.13
+17.06.2020,2019,Hansa Rostock,Jena,4,0,1.23,5.74,10.29
+17.06.2020,2019,Grossaspach,Zwickau,1,0,3.12,3.40,2.14
+17.06.2020,2019,Uerdingen,Duisburg,1,1,3.55,3.43,1.98
+17.06.2020,2019,Unterhaching,Mannheim,0,0,2.43,3.31,2.70
+16.06.2020,2019,Chemnitzer,Preussen Munster,1,0,2.30,3.08,3.12
+16.06.2020,2019,Viktoria Koln,Munich 1860,2,0,3.57,3.59,1.92
+16.06.2020,2019,Hallescher,Magdeburg,1,1,2.80,3.07,2.51
+16.06.2020,2019,Ingolstadt,Braunschweig,0,0,1.69,3.76,4.52
+16.06.2020,2019,Wurzburger Kickers,Kaiserslautern,2,0,1.94,3.62,3.45
+14.06.2020,2019,Jena,Uerdingen,0,0,4.05,3.82,1.75
+14.06.2020,2019,Mannheim,Bayern II,2,3,2.98,3.43,2.20
+14.06.2020,2019,Zwickau,Unterhaching,3,3,2.70,3.21,2.52
+13.06.2020,2019,Braunschweig,Grossaspach,2,1,1.54,3.98,5.58
+13.06.2020,2019,Duisburg,Wurzburger Kickers,1,1,2.52,3.42,2.55
+13.06.2020,2019,Kaiserslautern,Chemnitzer,2,0,1.87,3.43,3.96
+13.06.2020,2019,Magdeburg,Viktoria Koln,2,0,1.78,3.62,4.15
+13.06.2020,2019,Munich 1860,Hansa Rostock,0,1,2.23,3.42,2.93
+13.06.2020,2019,Preussen Munster,Ingolstadt,0,0,3.50,3.52,1.96
+12.06.2020,2019,Meppen,Hallescher,2,3,2.27,3.38,2.90
+10.06.2020,2019,Chemnitzer,Ingolstadt,0,1,3.30,3.16,2.17
+10.06.2020,2019,Kaiserslautern,Duisburg,1,3,2.36,3.09,3.03
+10.06.2020,2019,Grossaspach,Preussen Munster,0,0,2.32,3.33,2.86
+10.06.2020,2019,Unterhaching,Braunschweig,1,3,1.97,3.30,3.68
+10.06.2020,2019,Wurzburger Kickers,Jena,4,2,1.34,5.01,7.49
+09.06.2020,2019,Bayern II,Zwickau,2,0,1.53,4.25,5.26
+09.06.2020,2019,Viktoria Koln,Meppen,1,3,2.99,3.47,2.18
+09.06.2020,2019,Hallescher,Mannheim,3,0,2.42,3.34,2.72
+09.06.2020,2019,Hansa Rostock,Magdeburg,3,1,2.27,3.10,3.15
+09.06.2020,2019,Uerdingen,Munich 1860,1,3,2.41,3.14,2.87
+07.06.2020,2019,Ingolstadt,Grossaspach,1,1,1.40,4.51,6.79
+07.06.2020,2019,Jena,Kaiserslautern,1,2,6.09,4.26,1.48
+07.06.2020,2019,Preussen Munster,Unterhaching,2,1,2.71,3.30,2.44
+06.06.2020,2019,Braunschweig,Bayern II,1,1,2.96,3.46,2.19
+06.06.2020,2019,Duisburg,Chemnitzer,2,1,1.78,3.62,4.11
+06.06.2020,2019,Mannheim,Viktoria Koln,2,1,1.96,3.44,3.57
+06.06.2020,2019,Meppen,Hansa Rostock,0,3,2.48,3.29,2.68
+06.06.2020,2019,Munich 1860,Wurzburger Kickers,1,2,2.07,3.46,3.24
+06.06.2020,2019,Zwickau,Hallescher,5,1,2.66,3.28,2.50
+05.06.2020,2019,Magdeburg,Uerdingen,1,1,2.04,3.09,3.76
+03.06.2020,2019,Bayern II,Preussen Munster,3,2,1.41,4.76,6.36
+03.06.2020,2019,Chemnitzer,Grossaspach,0,1,1.51,4.13,5.63
+03.06.2020,2019,Duisburg,Jena,1,1,1.36,4.89,6.93
+03.06.2020,2019,Hallescher,Braunschweig,0,1,2.05,3.46,3.33
+03.06.2020,2019,Kaiserslautern,Munich 1860,1,1,2.60,3.18,2.61
+02.06.2020,2019,Viktoria Koln,Zwickau,3,0,2.27,3.37,2.89
+02.06.2020,2019,Hansa Rostock,Mannheim,0,1,1.96,3.35,3.65
+02.06.2020,2019,Uerdingen,Meppen,0,0,2.37,3.33,2.76
+02.06.2020,2019,Unterhaching,Ingolstadt,1,2,2.80,3.09,2.48
+02.06.2020,2019,Wurzburger Kickers,Magdeburg,0,1,2.07,3.35,3.32
+31.05.2020,2019,Jena,Chemnitzer,0,1,4.62,3.83,1.65
+31.05.2020,2019,Munich 1860,Duisburg,3,2,2.20,3.34,3.05
+31.05.2020,2019,Preussen Munster,Hallescher,4,2,2.58,3.16,2.63
+30.05.2020,2019,Braunschweig,Viktoria Koln,4,2,2.04,3.47,3.32
+30.05.2020,2019,Ingolstadt,Bayern II,1,2,2.61,3.40,2.47
+30.05.2020,2019,Magdeburg,Kaiserslautern,0,1,2.51,3.19,2.69
+30.05.2020,2019,Mannheim,Uerdingen,1,2,2.02,3.40,3.42
+30.05.2020,2019,Meppen,Wurzburger Kickers,1,3,2.17,3.28,3.16
+30.05.2020,2019,Grossaspach,Unterhaching,0,2,3.66,3.64,1.87
+30.05.2020,2019,Zwickau,Hansa Rostock,2,2,3.36,3.29,2.08
+09.03.2020,2019,Hansa Rostock,Braunschweig,3,0,2.01,3.31,3.54
+08.03.2020,2019,Hallescher,Ingolstadt,1,1,2.69,3.28,2.47
+08.03.2020,2019,Uerdingen,Zwickau,4,2,2.19,3.33,3.08
+07.03.2020,2019,Bayern II,Grossaspach,2,0,1.33,5.19,7.30
+07.03.2020,2019,Chemnitzer,Unterhaching,1,0,1.96,3.47,3.52
+07.03.2020,2019,Viktoria Koln,Preussen Munster,2,1,2.29,3.39,2.85
+07.03.2020,2019,Jena,Munich 1860,0,3,4.09,3.59,1.80
+07.03.2020,2019,Kaiserslautern,Meppen,3,3,2.13,3.36,3.17
+07.03.2020,2019,Wurzburger Kickers,Mannheim,0,0,1.86,3.71,3.65
+06.03.2020,2019,Duisburg,Magdeburg,1,0,2.13,3.38,3.16
+02.03.2020,2019,Preussen Munster,Hansa Rostock,1,0,2.99,3.22,2.29
+01.03.2020,2019,Ingolstadt,Viktoria Koln,0,1,1.66,4.02,4.33
+01.03.2020,2019,Meppen,Duisburg,1,0,2.24,3.42,2.92
+29.02.2020,2019,Braunschweig,Uerdingen,4,1,2.36,3.15,2.95
+29.02.2020,2019,Magdeburg,Jena,6,2,1.55,3.93,5.50
+29.02.2020,2019,Mannheim,Kaiserslautern,1,1,2.51,3.32,2.58
+29.02.2020,2019,Munich 1860,Chemnitzer,4,3,1.85,3.52,3.92
+29.02.2020,2019,Grossaspach,Hallescher,1,0,3.62,3.51,1.92
+29.02.2020,2019,Zwickau,Wurzburger Kickers,1,2,3.30,3.47,2.04
+28.02.2020,2019,Unterhaching,Bayern II,0,1,2.88,3.45,2.25
+24.02.2020,2019,Chemnitzer,Bayern II,1,0,2.61,3.54,2.40
+23.02.2020,2019,Hallescher,Unterhaching,3,5,2.09,3.25,3.39
+23.02.2020,2019,Munich 1860,Magdeburg,1,1,2.23,3.15,3.15
+22.02.2020,2019,Duisburg,Mannheim,2,3,1.79,3.75,3.86
+22.02.2020,2019,Hansa Rostock,Ingolstadt,3,0,2.35,3.26,2.84
+22.02.2020,2019,Jena,Meppen,0,2,3.28,3.39,2.07
+22.02.2020,2019,Kaiserslautern,Zwickau,0,0,1.61,3.92,4.92
+22.02.2020,2019,Uerdingen,Preussen Munster,0,2,1.79,3.49,4.19
+22.02.2020,2019,Wurzburger Kickers,Braunschweig,3,1,1.84,3.74,3.68
+21.02.2020,2019,Viktoria Koln,Grossaspach,1,0,1.80,3.83,3.76
+17.02.2020,2019,Bayern II,Hallescher,6,1,1.81,3.73,3.80
+16.02.2020,2019,Mannheim,Jena,1,1,1.65,3.85,4.52
+16.02.2020,2019,Zwickau,Duisburg,1,0,3.04,3.45,2.16
+15.02.2020,2019,Braunschweig,Kaiserslautern,2,0,2.87,3.18,2.39
+15.02.2020,2019,Ingolstadt,Uerdingen,0,1,1.81,3.53,4.03
+15.02.2020,2019,Magdeburg,Chemnitzer,1,1,1.72,3.56,4.54
+15.02.2020,2019,Meppen,Munich 1860,1,1,1.99,3.46,3.43
+15.02.2020,2019,Grossaspach,Hansa Rostock,0,1,3.42,3.34,2.04
+15.02.2020,2019,Unterhaching,Viktoria Koln,1,1,1.81,3.55,3.98
+14.02.2020,2019,Preussen Munster,Wurzburger Kickers,0,0,3.38,3.70,1.94
+10.02.2020,2019,Jena,Zwickau,2,1,2.81,3.35,2.33
+09.02.2020,2019,Chemnitzer,Hallescher,3,0,2.36,3.25,2.85
+09.02.2020,2019,Wurzburger Kickers,Ingolstadt,3,1,2.34,3.41,2.75
+08.02.2020,2019,Viktoria Koln,Bayern II,2,4,2.77,3.72,2.20
+08.02.2020,2019,Hansa Rostock,Unterhaching,1,1,2.04,3.12,3.68
+08.02.2020,2019,Kaiserslautern,Preussen Munster,1,1,1.50,4.24,5.50
+08.02.2020,2019,Magdeburg,Meppen,0,2,1.98,3.42,3.49
+08.02.2020,2019,Munich 1860,Mannheim,1,1,2.20,3.34,3.03
+08.02.2020,2019,Uerdingen,Grossaspach,2,1,1.77,3.55,4.24
+07.02.2020,2019,Duisburg,Braunschweig,1,1,1.67,3.92,4.38
+03.02.2020,2019,Grossaspach,Wurzburger Kickers,0,6,3.26,3.68,1.98
+02.02.2020,2019,Mannheim,Magdeburg,1,1,2.31,3.25,2.91
+02.02.2020,2019,Zwickau,Munich 1860,2,2,2.79,3.33,2.35
+01.02.2020,2019,Bayern II,Hansa Rostock,1,0,2.30,3.36,2.85
+01.02.2020,2019,Braunschweig,Jena,1,1,1.69,3.71,4.51
+01.02.2020,2019,Ingolstadt,Kaiserslautern,2,1,2.20,3.51,2.92
+01.02.2020,2019,Meppen,Chemnitzer,1,2,1.73,3.90,4.05
+01.02.2020,2019,Preussen Munster,Duisburg,1,4,3.34,3.46,2.02
+01.02.2020,2019,Unterhaching,Uerdingen,1,0,1.94,3.30,3.80
+31.01.2020,2019,Hallescher,Viktoria Koln,3,4,1.80,3.67,3.89
+27.01.2020,2019,Kaiserslautern,Grossaspach,0,0,1.37,4.77,6.98
+26.01.2020,2019,Munich 1860,Braunschweig,4,1,2.15,3.29,3.19
+26.01.2020,2019,Uerdingen,Bayern II,0,3,2.06,3.53,3.17
+25.01.2020,2019,Chemnitzer,Viktoria Koln,2,2,1.77,3.77,3.98
+25.01.2020,2019,Duisburg,Ingolstadt,1,1,2.32,3.41,2.77
+25.01.2020,2019,Jena,Preussen Munster,1,2,2.11,3.40,3.17
+25.01.2020,2019,Magdeburg,Zwickau,1,2,1.72,3.56,4.57
+25.01.2020,2019,Meppen,Mannheim,0,1,2.07,3.69,3.03
+25.01.2020,2019,Wurzburger Kickers,Unterhaching,1,2,1.89,3.64,3.58
+24.01.2020,2019,Hansa Rostock,Hallescher,1,0,2.40,3.01,2.98
+22.12.2019,2019,Bayern II,Wurzburger Kickers,1,1,2.83,3.72,2.16
+22.12.2019,2019,Hallescher,Uerdingen,1,1,1.96,3.26,3.76
+22.12.2019,2019,Ingolstadt,Jena,5,1,1.46,4.41,5.90
+21.12.2019,2019,Braunschweig,Magdeburg,2,2,2.92,3.17,2.35
+21.12.2019,2019,Mannheim,Chemnitzer,4,3,1.76,3.82,3.95
+21.12.2019,2019,Preussen Munster,Munich 1860,0,1,2.89,3.40,2.25
+21.12.2019,2019,Grossaspach,Duisburg,1,1,3.66,3.91,1.80
+21.12.2019,2019,Unterhaching,Kaiserslautern,1,1,2.89,3.45,2.23
+21.12.2019,2019,Zwickau,Meppen,2,2,2.74,3.47,2.32
+20.12.2019,2019,Viktoria Koln,Hansa Rostock,1,5,2.78,3.31,2.37
+16.12.2019,2019,Ingolstadt,Munich 1860,2,2,1.87,3.55,3.77
+15.12.2019,2019,Grossaspach,Jena,1,2,2.30,3.45,2.78
+15.12.2019,2019,Unterhaching,Duisburg,2,2,2.73,3.26,2.44
+14.12.2019,2019,Bayern II,Kaiserslautern,1,3,3.23,3.78,1.97
+14.12.2019,2019,Braunschweig,Meppen,1,2,2.46,3.37,2.63
+14.12.2019,2019,Viktoria Koln,Uerdingen,0,1,2.64,3.38,2.45
+14.12.2019,2019,Hallescher,Wurzburger Kickers,2,5,1.99,3.39,3.51
+14.12.2019,2019,Hansa Rostock,Chemnitzer,1,2,2.13,3.25,3.28
+14.12.2019,2019,Zwickau,Mannheim,0,1,2.71,3.37,2.40
+13.12.2019,2019,Preussen Munster,Magdeburg,2,0,4.52,4.04,1.63
+09.12.2019,2019,Meppen,Preussen Munster,3,1,1.61,4.21,4.50
+08.12.2019,2019,Duisburg,Bayern II,3,2,1.74,3.91,3.98
+08.12.2019,2019,Mannheim,Braunschweig,0,0,2.09,3.67,3.01
+07.12.2019,2019,Jena,Unterhaching,0,3,2.38,3.31,2.77
+07.12.2019,2019,Kaiserslautern,Hallescher,1,0,2.45,3.17,2.78
+07.12.2019,2019,Magdeburg,Ingolstadt,0,2,2.01,3.41,3.41
+07.12.2019,2019,Munich 1860,Grossaspach,1,1,1.58,4.08,4.85
+07.12.2019,2019,Uerdingen,Hansa Rostock,4,1,2.95,3.26,2.29
+07.12.2019,2019,Wurzburger Kickers,Viktoria Koln,3,1,1.84,3.70,3.71
+06.12.2019,2019,Chemnitzer,Zwickau,2,2,2.24,3.34,2.95
+02.12.2019,2019,Braunschweig,Zwickau,3,1,2.20,3.34,3.05
+01.12.2019,2019,Ingolstadt,Meppen,1,1,1.70,3.89,4.18
+01.12.2019,2019,Unterhaching,Munich 1860,2,3,2.44,3.20,2.77
+30.11.2019,2019,Chemnitzer,Uerdingen,1,1,2.02,3.45,3.35
+30.11.2019,2019,Viktoria Koln,Kaiserslautern,2,4,2.96,3.55,2.16
+30.11.2019,2019,Hallescher,Duisburg,1,0,1.89,3.63,3.59
+30.11.2019,2019,Hansa Rostock,Wurzburger Kickers,1,0,2.06,3.40,3.32
+30.11.2019,2019,Preussen Munster,Mannheim,1,3,2.97,3.55,2.16
+30.11.2019,2019,Grossaspach,Magdeburg,1,2,4.50,3.84,1.67
+29.11.2019,2019,Bayern II,Jena,2,3,1.70,3.99,4.10
+25.11.2019,2019,Duisburg,Viktoria Koln,2,1,1.71,4.02,4.02
+24.11.2019,2019,Kaiserslautern,Hansa Rostock,2,0,2.44,3.23,2.74
+24.11.2019,2019,Munich 1860,Bayern II,1,1,2.38,3.41,2.71
+23.11.2019,2019,Braunschweig,Chemnitzer,2,1,1.87,3.53,3.79
+23.11.2019,2019,Magdeburg,Unterhaching,3,0,1.83,3.46,4.05
+23.11.2019,2019,Mannheim,Ingolstadt,0,0,2.87,3.51,2.22
+23.11.2019,2019,Meppen,Grossaspach,2,1,1.51,4.37,5.19
+23.11.2019,2019,Wurzburger Kickers,Uerdingen,1,2,1.73,3.72,4.24
+23.11.2019,2019,Zwickau,Preussen Munster,4,2,1.78,3.70,4.01
+22.11.2019,2019,Jena,Hallescher,0,3,3.64,3.50,1.92
+11.11.2019,2019,Preussen Munster,Braunschweig,1,1,3.04,3.30,2.21
+10.11.2019,2019,Bayern II,Magdeburg,2,1,2.79,3.52,2.27
+10.11.2019,2019,Chemnitzer,Wurzburger Kickers,0,0,2.69,3.61,2.30
+09.11.2019,2019,Hallescher,Munich 1860,0,1,1.56,3.91,5.37
+09.11.2019,2019,Hansa Rostock,Duisburg,1,2,2.10,3.39,3.21
+09.11.2019,2019,Ingolstadt,Zwickau,4,2,1.76,3.69,4.08
+09.11.2019,2019,Grossaspach,Mannheim,0,3,2.93,3.61,2.15
+09.11.2019,2019,Uerdingen,Kaiserslautern,0,3,2.32,3.41,2.79
+09.11.2019,2019,Unterhaching,Meppen,0,0,1.93,3.62,3.50
+08.11.2019,2019,Viktoria Koln,Jena,2,2,1.73,3.81,4.15
+04.11.2019,2019,Duisburg,Uerdingen,2,0,1.87,3.66,3.63
+03.11.2019,2019,Jena,Hansa Rostock,3,1,4.02,3.50,1.83
+03.11.2019,2019,Meppen,Bayern II,5,3,1.83,3.96,3.54
+02.11.2019,2019,Braunschweig,Ingolstadt,0,3,2.28,3.30,2.93
+02.11.2019,2019,Kaiserslautern,Wurzburger Kickers,2,3,2.53,3.49,2.49
+02.11.2019,2019,Magdeburg,Hallescher,1,0,2.53,3.13,2.73
+02.11.2019,2019,Mannheim,Unterhaching,0,3,2.16,3.56,2.97
+02.11.2019,2019,Munich 1860,Viktoria Koln,4,2,2.19,3.36,3.05
+02.11.2019,2019,Preussen Munster,Chemnitzer,3,3,2.24,3.56,2.82
+01.11.2019,2019,Zwickau,Grossaspach,0,1,1.58,4.01,4.94
+28.10.2019,2019,Bayern II,Mannheim,2,2,2.50,3.70,2.42
+27.10.2019,2019,Chemnitzer,Kaiserslautern,3,1,2.43,3.44,2.64
+27.10.2019,2019,Grossaspach,Braunschweig,1,3,4.36,3.73,1.71
+26.10.2019,2019,Hallescher,Meppen,3,3,1.57,4.06,5.04
+26.10.2019,2019,Hansa Rostock,Munich 1860,2,1,1.73,3.61,4.43
+26.10.2019,2019,Ingolstadt,Preussen Munster,3,2,1.41,4.62,6.16
+26.10.2019,2019,Uerdingen,Jena,2,0,1.75,3.72,4.12
+26.10.2019,2019,Unterhaching,Zwickau,0,0,2.22,3.31,3.03
+26.10.2019,2019,Wurzburger Kickers,Duisburg,0,2,1.99,3.77,3.21
+25.10.2019,2019,Viktoria Koln,Magdeburg,1,1,3.08,3.36,2.17
+21.10.2019,2019,Meppen,Viktoria Koln,1,1,2.03,3.59,3.21
+20.10.2019,2019,Jena,Wurzburger Kickers,1,1,3.63,3.55,1.91
+20.10.2019,2019,Zwickau,Bayern II,3,0,2.30,3.49,2.77
+19.10.2019,2019,Braunschweig,Unterhaching,0,0,2.01,3.38,3.46
+19.10.2019,2019,Ingolstadt,Chemnitzer,1,1,1.51,4.26,5.26
+19.10.2019,2019,Magdeburg,Hansa Rostock,0,1,2.06,3.18,3.53
+19.10.2019,2019,Mannheim,Hallescher,0,4,2.59,3.44,2.47
+19.10.2019,2019,Munich 1860,Uerdingen,0,1,2.08,3.42,3.25
+19.10.2019,2019,Preussen Munster,Grossaspach,1,1,2.03,3.57,3.23
+18.10.2019,2019,Duisburg,Kaiserslautern,3,1,2.04,3.67,3.14
+07.10.2019,2019,Wurzburger Kickers,Munich 1860,2,1,1.81,3.63,3.92
+06.10.2019,2019,Bayern II,Braunschweig,2,0,2.20,3.57,2.88
+06.10.2019,2019,Chemnitzer,Duisburg,3,1,3.44,3.88,1.87
+05.10.2019,2019,Viktoria Koln,Mannheim,2,2,3.07,3.79,2.03
+05.10.2019,2019,Hallescher,Zwickau,1,1,1.57,3.99,5.06
+05.10.2019,2019,Hansa Rostock,Meppen,2,1,1.93,3.47,3.61
+05.10.2019,2019,Kaiserslautern,Jena,3,1,1.55,4.13,5.15
+05.10.2019,2019,Grossaspach,Ingolstadt,1,5,3.52,3.70,1.89
+05.10.2019,2019,Unterhaching,Preussen Munster,2,2,1.59,4.07,4.77
+04.10.2019,2019,Uerdingen,Magdeburg,0,0,3.33,3.41,2.05
+02.10.2019,2019,Duisburg,Meppen,1,3,1.73,3.92,4.01
+30.09.2019,2019,Ingolstadt,Unterhaching,0,0,2.03,3.40,3.40
+29.09.2019,2019,Mannheim,Hansa Rostock,1,1,2.26,3.48,2.84
+29.09.2019,2019,Meppen,Uerdingen,1,2,1.70,3.94,4.14
+28.09.2019,2019,Braunschweig,Hallescher,1,1,2.41,3.34,2.72
+28.09.2019,2019,Jena,Duisburg,1,2,4.63,4.17,1.59
+28.09.2019,2019,Munich 1860,Kaiserslautern,3,1,2.18,3.43,3.01
+28.09.2019,2019,Preussen Munster,Bayern II,1,4,2.62,3.55,2.38
+28.09.2019,2019,Grossaspach,Chemnitzer,2,0,2.00,3.49,3.37
+28.09.2019,2019,Zwickau,Viktoria Koln,4,0,2.03,3.64,3.17
+27.09.2019,2019,Magdeburg,Wurzburger Kickers,3,0,1.94,3.41,3.66
+23.09.2019,2019,Uerdingen,Mannheim,0,3,2.73,3.53,2.31
+22.09.2019,2019,Bayern II,Ingolstadt,2,1,2.72,3.59,2.29
+22.09.2019,2019,Hansa Rostock,Zwickau,1,1,1.76,3.62,4.19
+21.09.2019,2019,Chemnitzer,Jena,3,2,1.87,3.60,3.70
+21.09.2019,2019,Duisburg,Munich 1860,2,1,1.71,3.77,4.31
+21.09.2019,2019,Viktoria Koln,Braunschweig,0,0,2.70,3.18,2.52
+21.09.2019,2019,Hallescher,Preussen Munster,2,2,1.32,4.87,8.37
+21.09.2019,2019,Kaiserslautern,Magdeburg,1,1,2.54,3.29,2.59
+21.09.2019,2019,Unterhaching,Grossaspach,2,0,1.59,4.03,4.91
+20.09.2019,2019,Wurzburger Kickers,Meppen,3,2,2.01,3.48,3.36
+16.09.2019,2019,Unterhaching,Chemnitzer,2,1,1.52,4.16,5.39
+15.09.2019,2019,Braunschweig,Hansa Rostock,1,2,1.97,3.36,3.61
+15.09.2019,2019,Ingolstadt,Hallescher,2,3,2.40,3.17,2.87
+14.09.2019,2019,Mannheim,Wurzburger Kickers,1,2,2.06,3.60,3.14
+14.09.2019,2019,Meppen,Kaiserslautern,6,1,2.47,3.36,2.63
+14.09.2019,2019,Munich 1860,Jena,3,1,1.55,3.99,5.37
+14.09.2019,2019,Preussen Munster,Viktoria Koln,2,3,2.84,3.47,2.26
+14.09.2019,2019,Grossaspach,Bayern II,2,2,2.90,3.51,2.21
+14.09.2019,2019,Zwickau,Uerdingen,1,2,1.85,3.58,3.81
+13.09.2019,2019,Magdeburg,Duisburg,1,1,2.32,3.30,2.86
+02.09.2019,2019,Jena,Magdeburg,1,1,5.22,4.08,1.55
+01.09.2019,2019,Kaiserslautern,Mannheim,1,1,2.10,3.46,3.15
+01.09.2019,2019,Uerdingen,Braunschweig,1,2,3.52,3.49,1.95
+31.08.2019,2019,Bayern II,Unterhaching,1,2,2.27,3.40,2.88
+31.08.2019,2019,Viktoria Koln,Ingolstadt,3,0,3.12,3.45,2.13
+31.08.2019,2019,Hallescher,Grossaspach,4,0,1.43,4.24,6.80
+31.08.2019,2019,Hansa Rostock,Preussen Munster,1,0,1.71,3.73,4.37
+31.08.2019,2019,Wurzburger Kickers,Zwickau,0,2,1.86,3.56,3.81
+30.08.2019,2019,Chemnitzer,Munich 1860,0,1,2.86,3.30,2.32
+26.08.2019,2019,Zwickau,Kaiserslautern,3,5,2.25,3.36,2.93
+25.08.2019,2019,Mannheim,Duisburg,4,3,2.43,3.44,2.66
+25.08.2019,2019,Unterhaching,Hallescher,0,3,2.82,3.31,2.35
+24.08.2019,2019,Bayern II,Chemnitzer,2,2,1.66,3.98,4.36
+24.08.2019,2019,Braunschweig,Wurzburger Kickers,5,2,2.05,3.53,3.21
+24.08.2019,2019,Magdeburg,Munich 1860,5,1,1.86,3.49,3.87
+24.08.2019,2019,Meppen,Jena,3,0,1.59,4.04,4.92
+24.08.2019,2019,Preussen Munster,Uerdingen,1,1,2.01,3.61,3.25
+24.08.2019,2019,Grossaspach,Viktoria Koln,0,3,2.47,3.38,2.62
+23.08.2019,2019,Ingolstadt,Hansa Rostock,2,2,1.67,3.79,4.54
+19.08.2019,2019,Hallescher,Bayern II,1,2,1.87,3.57,3.77
+18.08.2019,2019,Jena,Mannheim,1,2,3.20,3.35,2.13
+18.08.2019,2019,Kaiserslautern,Braunschweig,0,3,2.40,3.13,2.89
+17.08.2019,2019,Duisburg,Zwickau,3,1,1.74,3.70,4.21
+17.08.2019,2019,Viktoria Koln,Unterhaching,0,2,2.37,3.35,2.76
+17.08.2019,2019,Hansa Rostock,Grossaspach,0,1,1.74,3.49,4.59
+17.08.2019,2019,Munich 1860,Meppen,0,0,2.04,3.43,3.34
+17.08.2019,2019,Uerdingen,Ingolstadt,0,3,3.83,3.62,1.84
+17.08.2019,2019,Wurzburger Kickers,Preussen Munster,3,2,1.73,3.69,4.30
+16.08.2019,2019,Chemnitzer,Magdeburg,0,0,4.46,3.69,1.70
+05.08.2019,2019,Mannheim,Munich 1860,4,0,2.22,3.29,3.05
+04.08.2019,2019,Braunschweig,Duisburg,0,3,1.93,3.46,3.62
+04.08.2019,2019,Zwickau,Jena,2,0,1.67,3.73,4.66
+03.08.2019,2019,Bayern II,Viktoria Koln,2,5,2.01,3.49,3.34
+03.08.2019,2019,Hallescher,Chemnitzer,3,1,1.41,4.29,7.05
+03.08.2019,2019,Meppen,Magdeburg,1,3,2.56,3.15,2.67
+03.08.2019,2019,Preussen Munster,Kaiserslautern,3,2,2.82,3.18,2.43
+03.08.2019,2019,Grossaspach,Uerdingen,2,2,2.30,3.35,2.86
+03.08.2019,2019,Unterhaching,Hansa Rostock,1,0,2.33,3.34,2.84
+02.08.2019,2019,Ingolstadt,Wurzburger Kickers,3,0,1.78,3.60,4.12
+31.07.2019,2019,Chemnitzer,Meppen,2,4,2.53,3.31,2.59
+31.07.2019,2019,Duisburg,Preussen Munster,2,0,1.92,3.58,3.53
+31.07.2019,2019,Viktoria Koln,Hallescher,0,2,3.25,3.26,2.13
+31.07.2019,2019,Magdeburg,Mannheim,1,1,2.03,3.48,3.30
+31.07.2019,2019,Munich 1860,Zwickau,3,0,2.06,3.32,3.38
+30.07.2019,2019,Hansa Rostock,Bayern II,2,1,1.95,3.48,3.52
+30.07.2019,2019,Jena,Braunschweig,0,2,3.44,3.37,2.02
+30.07.2019,2019,Kaiserslautern,Ingolstadt,0,0,2.65,3.25,2.51
+30.07.2019,2019,Uerdingen,Unterhaching,2,2,2.67,3.39,2.42
+30.07.2019,2019,Wurzburger Kickers,Grossaspach,0,3,1.46,4.38,5.96
+28.07.2019,2019,Viktoria Koln,Chemnitzer,3,2,1.77,3.48,4.31
+28.07.2019,2019,Zwickau,Magdeburg,0,0,2.77,3.11,2.49
+27.07.2019,2019,Braunschweig,Munich 1860,2,1,1.66,3.65,4.81
+27.07.2019,2019,Hallescher,Hansa Rostock,1,0,1.87,3.40,3.96
+27.07.2019,2019,Ingolstadt,Duisburg,3,2,1.67,3.78,4.56
+27.07.2019,2019,Mannheim,Meppen,0,0,1.74,3.64,4.32
+27.07.2019,2019,Preussen Munster,Jena,2,0,1.97,3.44,3.51
+27.07.2019,2019,Grossaspach,Kaiserslautern,1,3,2.91,3.21,2.34
+27.07.2019,2019,Unterhaching,Wurzburger Kickers,5,4,2.35,3.29,2.83
+26.07.2019,2019,Bayern II,Uerdingen,2,1,2.29,3.41,2.82
+22.07.2019,2019,Jena,Ingolstadt,1,2,3.40,3.45,2.00
+21.07.2019,2019,Chemnitzer,Mannheim,1,1,2.33,3.25,2.89
+21.07.2019,2019,Uerdingen,Hallescher,1,0,2.56,3.26,2.59
+20.07.2019,2019,Duisburg,Grossaspach,4,1,1.79,3.45,4.25
+20.07.2019,2019,Hansa Rostock,Viktoria Koln,3,3,1.98,3.37,3.57
+20.07.2019,2019,Kaiserslautern,Unterhaching,1,1,1.95,3.38,3.65
+20.07.2019,2019,Magdeburg,Braunschweig,2,4,2.18,3.19,3.22
+20.07.2019,2019,Meppen,Zwickau,0,2,2.16,3.29,3.18
+20.07.2019,2019,Wurzburger Kickers,Bayern II,3,1,1.87,3.50,3.81
+19.07.2019,2019,Munich 1860,Preussen Munster,1,1,2.07,3.30,3.38

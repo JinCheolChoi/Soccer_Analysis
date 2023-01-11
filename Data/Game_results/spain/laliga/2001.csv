@@ -1,381 +1,381 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-11.05.2002,2001,Espanyol,Malaga,1,2
-11.05.2002,2001,Mallorca,Valladolid,2,1
-11.05.2002,2001,Osasuna,Alaves,0,1
-11.05.2002,2001,Rayo Vallecano,Celta Vigo,1,0
-11.05.2002,2001,Real Sociedad,Las Palmas,1,1
-11.05.2002,2001,Sevilla,Villarreal,1,0
-11.05.2002,2001,Tenerife,Ath Bilbao,2,3
-11.05.2002,2001,Valencia,Betis,2,0
-11.05.2002,2001,Zaragoza,Barcelona,1,1
-10.05.2002,2001,Dep. La Coruna,Real Madrid,3,0
-05.05.2002,2001,Alaves,Rayo Vallecano,0,1
-05.05.2002,2001,Ath Bilbao,Osasuna,1,1
-05.05.2002,2001,Barcelona,Espanyol,2,0
-05.05.2002,2001,Betis,Dep. La Coruna,0,3
-05.05.2002,2001,Celta Vigo,Sevilla,1,2
-05.05.2002,2001,Las Palmas,Tenerife,0,1
-05.05.2002,2001,Malaga,Valencia,0,2
-05.05.2002,2001,Real Madrid,Mallorca,0,0
-05.05.2002,2001,Valladolid,Real Sociedad,1,3
-05.05.2002,2001,Villarreal,Zaragoza,2,1
-28.04.2002,2001,Dep. La Coruna,Malaga,2,2
-28.04.2002,2001,Mallorca,Betis,1,3
-28.04.2002,2001,Osasuna,Las Palmas,3,2
-28.04.2002,2001,Rayo Vallecano,Ath Bilbao,4,2
-28.04.2002,2001,Sevilla,Alaves,2,0
-28.04.2002,2001,Tenerife,Valladolid,1,5
-28.04.2002,2001,Zaragoza,Celta Vigo,0,1
-27.04.2002,2001,Barcelona,Villarreal,4,1
-27.04.2002,2001,Real Sociedad,Real Madrid,3,0
-27.04.2002,2001,Valencia,Espanyol,2,1
-21.04.2002,2001,Alaves,Zaragoza,2,1
-21.04.2002,2001,Ath Bilbao,Sevilla,0,1
-21.04.2002,2001,Betis,Real Sociedad,3,0
-21.04.2002,2001,Espanyol,Villarreal,3,1
-21.04.2002,2001,Malaga,Mallorca,0,0
-21.04.2002,2001,Valencia,Dep. La Coruna,1,0
-21.04.2002,2001,Valladolid,Osasuna,1,0
-20.04.2002,2001,Celta Vigo,Barcelona,2,1
-20.04.2002,2001,Las Palmas,Rayo Vallecano,0,2
-20.04.2002,2001,Real Madrid,Tenerife,4,1
-14.04.2002,2001,Barcelona,Alaves,3,2
-14.04.2002,2001,Dep. La Coruna,Espanyol,3,1
-14.04.2002,2001,Osasuna,Real Madrid,3,1
-14.04.2002,2001,Rayo Vallecano,Valladolid,1,0
-14.04.2002,2001,Real Sociedad,Malaga,2,1
-14.04.2002,2001,Sevilla,Las Palmas,1,1
-14.04.2002,2001,Tenerife,Betis,2,1
-14.04.2002,2001,Villarreal,Celta Vigo,2,1
-14.04.2002,2001,Zaragoza,Ath Bilbao,2,2
-13.04.2002,2001,Mallorca,Valencia,1,1
-07.04.2002,2001,Alaves,Villarreal,2,1
-07.04.2002,2001,Betis,Osasuna,0,0
-07.04.2002,2001,Espanyol,Celta Vigo,2,0
-07.04.2002,2001,Malaga,Tenerife,2,0
-07.04.2002,2001,Valencia,Real Sociedad,4,0
-07.04.2002,2001,Valladolid,Sevilla,1,1
-06.04.2002,2001,Ath Bilbao,Barcelona,0,2
-06.04.2002,2001,Dep. La Coruna,Mallorca,5,0
-06.04.2002,2001,Las Palmas,Zaragoza,1,1
-06.04.2002,2001,Real Madrid,Rayo Vallecano,3,1
-31.03.2002,2001,Mallorca,Espanyol,2,1
-31.03.2002,2001,Osasuna,Malaga,0,2
-31.03.2002,2001,Rayo Vallecano,Betis,0,0
-31.03.2002,2001,Villarreal,Ath Bilbao,5,2
-31.03.2002,2001,Zaragoza,Valladolid,0,0
-30.03.2002,2001,Barcelona,Las Palmas,1,1
-30.03.2002,2001,Celta Vigo,Alaves,3,1
-30.03.2002,2001,Real Sociedad,Dep. La Coruna,1,1
-30.03.2002,2001,Sevilla,Real Madrid,0,1
-30.03.2002,2001,Tenerife,Valencia,0,1
-24.03.2002,2001,Ath Bilbao,Celta Vigo,1,6
-24.03.2002,2001,Dep. La Coruna,Tenerife,3,1
-24.03.2002,2001,Espanyol,Alaves,1,2
-24.03.2002,2001,Mallorca,Real Sociedad,0,2
-24.03.2002,2001,Real Madrid,Zaragoza,3,1
-24.03.2002,2001,Valencia,Osasuna,2,1
-24.03.2002,2001,Valladolid,Barcelona,1,2
-23.03.2002,2001,Betis,Sevilla,0,0
-23.03.2002,2001,Las Palmas,Villarreal,3,2
-23.03.2002,2001,Malaga,Rayo Vallecano,0,0
-17.03.2002,2001,Alaves,Ath Bilbao,2,3
-17.03.2002,2001,Celta Vigo,Las Palmas,3,2
-17.03.2002,2001,Rayo Vallecano,Valencia,2,1
-17.03.2002,2001,Real Sociedad,Espanyol,1,0
-17.03.2002,2001,Sevilla,Malaga,0,2
-17.03.2002,2001,Tenerife,Mallorca,0,0
-17.03.2002,2001,Villarreal,Valladolid,2,2
-17.03.2002,2001,Zaragoza,Betis,1,1
-16.03.2002,2001,Barcelona,Real Madrid,1,1
-16.03.2002,2001,Osasuna,Dep. La Coruna,1,3
-10.03.2002,2001,Espanyol,Ath Bilbao,2,0
-10.03.2002,2001,Malaga,Zaragoza,2,1
-10.03.2002,2001,Mallorca,Osasuna,4,2
-10.03.2002,2001,Real Sociedad,Tenerife,0,2
-10.03.2002,2001,Valencia,Sevilla,2,0
-10.03.2002,2001,Valladolid,Celta Vigo,2,4
-09.03.2002,2001,Betis,Barcelona,2,1
-09.03.2002,2001,Dep. La Coruna,Rayo Vallecano,1,1
-09.03.2002,2001,Las Palmas,Alaves,2,1
-09.03.2002,2001,Real Madrid,Villarreal,3,0
-03.03.2002,2001,Alaves,Valladolid,3,1
-03.03.2002,2001,Ath Bilbao,Las Palmas,3,1
-03.03.2002,2001,Barcelona,Malaga,5,1
-03.03.2002,2001,Osasuna,Real Sociedad,1,1
-03.03.2002,2001,Rayo Vallecano,Mallorca,0,2
-03.03.2002,2001,Tenerife,Espanyol,1,1
-03.03.2002,2001,Zaragoza,Valencia,0,1
-02.03.2002,2001,Celta Vigo,Real Madrid,0,1
-02.03.2002,2001,Sevilla,Dep. La Coruna,0,1
-02.03.2002,2001,Villarreal,Betis,1,1
-24.02.2002,2001,Betis,Celta Vigo,4,1
-24.02.2002,2001,Espanyol,Las Palmas,3,1
-24.02.2002,2001,Malaga,Villarreal,2,1
-24.02.2002,2001,Mallorca,Sevilla,0,4
-24.02.2002,2001,Real Sociedad,Rayo Vallecano,2,2
-24.02.2002,2001,Tenerife,Osasuna,3,1
-24.02.2002,2001,Valladolid,Ath Bilbao,2,0
-23.02.2002,2001,Dep. La Coruna,Zaragoza,1,0
-23.02.2002,2001,Real Madrid,Alaves,3,1
-23.02.2002,2001,Valencia,Barcelona,2,0
-17.02.2002,2001,Alaves,Betis,0,1
-17.02.2002,2001,Celta Vigo,Malaga,0,0
-17.02.2002,2001,Las Palmas,Valladolid,1,1
-17.02.2002,2001,Osasuna,Espanyol,1,1
-17.02.2002,2001,Rayo Vallecano,Tenerife,2,0
-17.02.2002,2001,Sevilla,Real Sociedad,0,1
-17.02.2002,2001,Zaragoza,Mallorca,1,0
-16.02.2002,2001,Ath Bilbao,Real Madrid,2,1
-16.02.2002,2001,Barcelona,Dep. La Coruna,3,2
-16.02.2002,2001,Villarreal,Valencia,1,1
-10.02.2002,2001,Betis,Ath Bilbao,1,1
-10.02.2002,2001,Dep. La Coruna,Villarreal,0,0
-10.02.2002,2001,Espanyol,Valladolid,1,0
-10.02.2002,2001,Malaga,Alaves,1,0
-10.02.2002,2001,Osasuna,Rayo Vallecano,1,0
-10.02.2002,2001,Real Madrid,Las Palmas,7,0
-10.02.2002,2001,Real Sociedad,Zaragoza,3,1
-10.02.2002,2001,Tenerife,Sevilla,1,1
-09.02.2002,2001,Mallorca,Barcelona,0,0
-09.02.2002,2001,Valencia,Celta Vigo,0,0
-06.02.2002,2001,Alaves,Valencia,1,2
-06.02.2002,2001,Ath Bilbao,Malaga,3,2
-06.02.2002,2001,Barcelona,Real Sociedad,2,0
-06.02.2002,2001,Las Palmas,Betis,0,0
-06.02.2002,2001,Rayo Vallecano,Espanyol,2,2
-06.02.2002,2001,Sevilla,Osasuna,0,0
-06.02.2002,2001,Valladolid,Real Madrid,2,1
-06.02.2002,2001,Villarreal,Mallorca,2,1
-06.02.2002,2001,Zaragoza,Tenerife,1,1
-05.02.2002,2001,Celta Vigo,Dep. La Coruna,0,2
-03.02.2002,2001,Betis,Valladolid,2,0
-03.02.2002,2001,Espanyol,Real Madrid,2,1
-03.02.2002,2001,Malaga,Las Palmas,1,1
-03.02.2002,2001,Osasuna,Zaragoza,0,0
-03.02.2002,2001,Valencia,Ath Bilbao,2,1
-02.02.2002,2001,Dep. La Coruna,Alaves,0,1
-02.02.2002,2001,Mallorca,Celta Vigo,0,1
-02.02.2002,2001,Rayo Vallecano,Sevilla,2,1
-02.02.2002,2001,Real Sociedad,Villarreal,2,1
-02.02.2002,2001,Tenerife,Barcelona,0,6
-27.01.2002,2001,Alaves,Mallorca,0,4
-27.01.2002,2001,Ath Bilbao,Dep. La Coruna,1,1
-27.01.2002,2001,Barcelona,Osasuna,0,1
-27.01.2002,2001,Real Madrid,Betis,1,1
-27.01.2002,2001,Sevilla,Espanyol,3,0
-27.01.2002,2001,Valladolid,Malaga,0,0
-27.01.2002,2001,Villarreal,Tenerife,2,1
-27.01.2002,2001,Zaragoza,Rayo Vallecano,3,2
-26.01.2002,2001,Celta Vigo,Real Sociedad,3,1
-26.01.2002,2001,Las Palmas,Valencia,0,1
-23.01.2002,2001,Rayo Vallecano,Alaves,2,0
-20.01.2002,2001,Dep. La Coruna,Las Palmas,1,0
-20.01.2002,2001,Espanyol,Betis,1,1
-20.01.2002,2001,Mallorca,Ath Bilbao,3,0
-20.01.2002,2001,Osasuna,Villarreal,2,2
-20.01.2002,2001,Rayo Vallecano,Barcelona,2,1
-20.01.2002,2001,Sevilla,Zaragoza,4,2
-20.01.2002,2001,Tenerife,Celta Vigo,1,1
-20.01.2002,2001,Valencia,Valladolid,1,2
-19.01.2002,2001,Malaga,Real Madrid,1,1
-19.01.2002,2001,Real Sociedad,Alaves,1,2
-13.01.2002,2001,Alaves,Tenerife,1,0
-13.01.2002,2001,Barcelona,Sevilla,3,1
-13.01.2002,2001,Betis,Malaga,1,1
-13.01.2002,2001,Celta Vigo,Osasuna,1,1
-13.01.2002,2001,Las Palmas,Mallorca,3,1
-13.01.2002,2001,Real Madrid,Valencia,1,0
-13.01.2002,2001,Valladolid,Dep. La Coruna,3,0
-13.01.2002,2001,Zaragoza,Espanyol,0,0
-12.01.2002,2001,Ath Bilbao,Real Sociedad,2,1
-12.01.2002,2001,Villarreal,Rayo Vallecano,1,1
-06.01.2002,2001,Alaves,Osasuna,0,2
-06.01.2002,2001,Ath Bilbao,Tenerife,1,2
-06.01.2002,2001,Barcelona,Zaragoza,2,0
-06.01.2002,2001,Betis,Valencia,1,3
-06.01.2002,2001,Malaga,Espanyol,2,0
-06.01.2002,2001,Valladolid,Mallorca,2,1
-05.01.2002,2001,Celta Vigo,Rayo Vallecano,2,2
-05.01.2002,2001,Las Palmas,Real Sociedad,0,0
-05.01.2002,2001,Real Madrid,Dep. La Coruna,3,1
-05.01.2002,2001,Villarreal,Sevilla,0,2
-23.12.2001,2001,Mallorca,Real Madrid,1,1
-23.12.2001,2001,Osasuna,Ath Bilbao,0,1
-23.12.2001,2001,Zaragoza,Villarreal,3,2
-22.12.2001,2001,Dep. La Coruna,Betis,2,0
-22.12.2001,2001,Espanyol,Barcelona,2,0
-22.12.2001,2001,Real Sociedad,Valladolid,6,0
-22.12.2001,2001,Sevilla,Celta Vigo,0,1
-22.12.2001,2001,Tenerife,Las Palmas,1,3
-22.12.2001,2001,Valencia,Malaga,2,1
-16.12.2001,2001,Alaves,Sevilla,0,1
-16.12.2001,2001,Ath Bilbao,Rayo Vallecano,1,1
-16.12.2001,2001,Betis,Mallorca,1,0
-16.12.2001,2001,Celta Vigo,Zaragoza,2,0
-16.12.2001,2001,Malaga,Dep. La Coruna,1,1
-16.12.2001,2001,Valladolid,Tenerife,0,0
-16.12.2001,2001,Villarreal,Barcelona,0,1
-15.12.2001,2001,Espanyol,Valencia,2,3
-15.12.2001,2001,Las Palmas,Osasuna,1,1
-15.12.2001,2001,Real Madrid,Real Sociedad,3,1
-09.12.2001,2001,Barcelona,Celta Vigo,2,2
-09.12.2001,2001,Dep. La Coruna,Valencia,1,0
-09.12.2001,2001,Mallorca,Malaga,1,1
-09.12.2001,2001,Osasuna,Valladolid,1,0
-09.12.2001,2001,Rayo Vallecano,Las Palmas,0,0
-09.12.2001,2001,Real Sociedad,Betis,0,0
-09.12.2001,2001,Villarreal,Espanyol,1,1
-09.12.2001,2001,Zaragoza,Alaves,0,2
-08.12.2001,2001,Sevilla,Ath Bilbao,3,3
-08.12.2001,2001,Tenerife,Real Madrid,0,2
-02.12.2001,2001,Ath Bilbao,Zaragoza,2,1
-02.12.2001,2001,Betis,Tenerife,1,0
-02.12.2001,2001,Celta Vigo,Villarreal,3,1
-02.12.2001,2001,Las Palmas,Sevilla,1,0
-02.12.2001,2001,Malaga,Real Sociedad,1,0
-02.12.2001,2001,Valladolid,Rayo Vallecano,3,1
-01.12.2001,2001,Alaves,Barcelona,2,0
-01.12.2001,2001,Espanyol,Dep. La Coruna,1,0
-01.12.2001,2001,Real Madrid,Osasuna,2,1
-01.12.2001,2001,Valencia,Mallorca,1,1
-25.11.2001,2001,Celta Vigo,Espanyol,4,1
-25.11.2001,2001,Mallorca,Dep. La Coruna,4,1
-25.11.2001,2001,Osasuna,Betis,1,2
-25.11.2001,2001,Rayo Vallecano,Real Madrid,0,3
-25.11.2001,2001,Real Sociedad,Valencia,2,0
-25.11.2001,2001,Sevilla,Valladolid,4,0
-25.11.2001,2001,Tenerife,Malaga,1,0
-25.11.2001,2001,Villarreal,Alaves,1,0
-25.11.2001,2001,Zaragoza,Las Palmas,2,1
-24.11.2001,2001,Barcelona,Ath Bilbao,1,2
-18.11.2001,2001,Alaves,Celta Vigo,1,0
-18.11.2001,2001,Ath Bilbao,Villarreal,0,0
-18.11.2001,2001,Betis,Rayo Vallecano,2,0
-18.11.2001,2001,Espanyol,Mallorca,2,1
-18.11.2001,2001,Malaga,Osasuna,2,1
-18.11.2001,2001,Valencia,Tenerife,0,0
-18.11.2001,2001,Valladolid,Zaragoza,2,0
-17.11.2001,2001,Dep. La Coruna,Real Sociedad,3,1
-17.11.2001,2001,Las Palmas,Barcelona,0,0
-17.11.2001,2001,Real Madrid,Sevilla,2,1
-11.11.2001,2001,Alaves,Espanyol,2,1
-11.11.2001,2001,Barcelona,Valladolid,4,0
-11.11.2001,2001,Celta Vigo,Ath Bilbao,2,3
-11.11.2001,2001,Osasuna,Valencia,0,0
-11.11.2001,2001,Rayo Vallecano,Malaga,3,0
-11.11.2001,2001,Real Sociedad,Mallorca,1,2
-11.11.2001,2001,Tenerife,Dep. La Coruna,3,1
-11.11.2001,2001,Villarreal,Las Palmas,2,0
-11.11.2001,2001,Zaragoza,Real Madrid,2,1
-10.11.2001,2001,Sevilla,Betis,0,0
-04.11.2001,2001,Betis,Zaragoza,0,1
-04.11.2001,2001,Dep. La Coruna,Osasuna,5,1
-04.11.2001,2001,Espanyol,Real Sociedad,1,2
-04.11.2001,2001,Las Palmas,Celta Vigo,4,2
-04.11.2001,2001,Malaga,Sevilla,1,3
-04.11.2001,2001,Mallorca,Tenerife,2,0
-04.11.2001,2001,Real Madrid,Barcelona,2,0
-04.11.2001,2001,Valencia,Rayo Vallecano,2,1
-04.11.2001,2001,Valladolid,Villarreal,1,0
-03.11.2001,2001,Ath Bilbao,Alaves,2,1
-28.10.2001,2001,Alaves,Las Palmas,1,0
-28.10.2001,2001,Ath Bilbao,Espanyol,1,1
-28.10.2001,2001,Celta Vigo,Valladolid,1,1
-28.10.2001,2001,Sevilla,Valencia,1,1
-28.10.2001,2001,Zaragoza,Malaga,0,2
-27.10.2001,2001,Barcelona,Betis,3,0
-27.10.2001,2001,Osasuna,Mallorca,4,0
-27.10.2001,2001,Rayo Vallecano,Dep. La Coruna,2,1
-27.10.2001,2001,Tenerife,Real Sociedad,0,1
-27.10.2001,2001,Villarreal,Real Madrid,2,3
-21.10.2001,2001,Espanyol,Tenerife,2,0
-21.10.2001,2001,Mallorca,Rayo Vallecano,3,0
-21.10.2001,2001,Real Madrid,Celta Vigo,1,1
-21.10.2001,2001,Valencia,Zaragoza,2,0
-21.10.2001,2001,Valladolid,Alaves,1,3
-20.10.2001,2001,Betis,Villarreal,1,1
-20.10.2001,2001,Dep. La Coruna,Sevilla,1,0
-20.10.2001,2001,Las Palmas,Ath Bilbao,1,1
-20.10.2001,2001,Malaga,Barcelona,1,1
-20.10.2001,2001,Real Sociedad,Osasuna,2,1
-14.10.2001,2001,Ath Bilbao,Valladolid,1,4
-14.10.2001,2001,Barcelona,Valencia,2,2
-14.10.2001,2001,Celta Vigo,Betis,3,1
-14.10.2001,2001,Las Palmas,Espanyol,2,0
-14.10.2001,2001,Osasuna,Tenerife,0,2
-14.10.2001,2001,Rayo Vallecano,Real Sociedad,2,1
-14.10.2001,2001,Villarreal,Malaga,1,2
-13.10.2001,2001,Alaves,Real Madrid,0,0
-13.10.2001,2001,Sevilla,Mallorca,2,2
-13.10.2001,2001,Zaragoza,Dep. La Coruna,1,2
-07.10.2001,2001,Betis,Alaves,1,0
-07.10.2001,2001,Malaga,Celta Vigo,2,2
-07.10.2001,2001,Mallorca,Zaragoza,0,1
-07.10.2001,2001,Osasuna,Espanyol,1,1
-07.10.2001,2001,Real Sociedad,Sevilla,3,3
-07.10.2001,2001,Tenerife,Rayo Vallecano,3,1
-07.10.2001,2001,Valencia,Villarreal,1,0
-07.10.2001,2001,Valladolid,Las Palmas,1,0
-06.10.2001,2001,Dep. La Coruna,Barcelona,2,1
-06.10.2001,2001,Real Madrid,Ath Bilbao,2,0
-04.10.2001,2001,Celta Vigo,Valencia,1,1
-03.10.2001,2001,Alaves,Malaga,1,0
-03.10.2001,2001,Ath Bilbao,Betis,0,0
-03.10.2001,2001,Barcelona,Mallorca,3,0
-03.10.2001,2001,Las Palmas,Real Madrid,4,2
-03.10.2001,2001,Rayo Vallecano,Osasuna,0,1
-03.10.2001,2001,Sevilla,Tenerife,2,0
-03.10.2001,2001,Valladolid,Espanyol,0,1
-03.10.2001,2001,Villarreal,Dep. La Coruna,1,1
-03.10.2001,2001,Zaragoza,Real Sociedad,3,2
-30.09.2001,2001,Betis,Las Palmas,1,0
-30.09.2001,2001,Dep. La Coruna,Celta Vigo,2,2
-30.09.2001,2001,Mallorca,Villarreal,0,1
-30.09.2001,2001,Osasuna,Sevilla,1,0
-30.09.2001,2001,Tenerife,Zaragoza,0,0
-30.09.2001,2001,Valencia,Alaves,0,0
-29.09.2001,2001,Espanyol,Rayo Vallecano,3,1
-29.09.2001,2001,Malaga,Ath Bilbao,1,2
-29.09.2001,2001,Real Madrid,Valladolid,2,2
-29.09.2001,2001,Real Sociedad,Barcelona,0,2
-23.09.2001,2001,Ath Bilbao,Valencia,2,2
-23.09.2001,2001,Celta Vigo,Mallorca,2,0
-23.09.2001,2001,Sevilla,Rayo Vallecano,2,1
-23.09.2001,2001,Valladolid,Betis,0,2
-23.09.2001,2001,Zaragoza,Osasuna,0,1
-22.09.2001,2001,Alaves,Dep. La Coruna,2,3
-22.09.2001,2001,Barcelona,Tenerife,2,0
-22.09.2001,2001,Las Palmas,Malaga,0,0
-22.09.2001,2001,Real Madrid,Espanyol,5,1
-22.09.2001,2001,Villarreal,Real Sociedad,1,0
-16.09.2001,2001,Espanyol,Sevilla,2,3
-16.09.2001,2001,Malaga,Valladolid,1,2
-16.09.2001,2001,Rayo Vallecano,Zaragoza,1,2
-16.09.2001,2001,Real Sociedad,Celta Vigo,0,0
-16.09.2001,2001,Tenerife,Villarreal,2,0
-16.09.2001,2001,Valencia,Las Palmas,1,0
-15.09.2001,2001,Betis,Real Madrid,3,1
-15.09.2001,2001,Dep. La Coruna,Ath Bilbao,1,2
-15.09.2001,2001,Mallorca,Alaves,0,0
-15.09.2001,2001,Osasuna,Barcelona,0,0
-09.09.2001,2001,Alaves,Real Sociedad,2,0
-09.09.2001,2001,Barcelona,Rayo Vallecano,1,1
-09.09.2001,2001,Betis,Espanyol,2,0
-09.09.2001,2001,Celta Vigo,Tenerife,3,0
-09.09.2001,2001,Valladolid,Valencia,1,1
-09.09.2001,2001,Zaragoza,Sevilla,1,1
-08.09.2001,2001,Ath Bilbao,Mallorca,0,1
-08.09.2001,2001,Las Palmas,Dep. La Coruna,0,1
-08.09.2001,2001,Real Madrid,Malaga,1,1
-08.09.2001,2001,Villarreal,Osasuna,3,0
-26.08.2001,2001,Dep. La Coruna,Valladolid,4,0
-26.08.2001,2001,Espanyol,Zaragoza,2,1
-26.08.2001,2001,Malaga,Betis,3,2
-26.08.2001,2001,Mallorca,Las Palmas,0,3
-26.08.2001,2001,Osasuna,Celta Vigo,0,3
-26.08.2001,2001,Rayo Vallecano,Villarreal,1,2
-26.08.2001,2001,Real Sociedad,Ath Bilbao,1,3
-26.08.2001,2001,Sevilla,Barcelona,1,2
-26.08.2001,2001,Tenerife,Alaves,0,2
-25.08.2001,2001,Valencia,Real Madrid,1,0
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+11.05.2002,2001,Espanyol,Malaga,1,2,2.15,3.22,3.05
+11.05.2002,2001,Mallorca,Valladolid,2,1,1.40,4.47,5.50
+11.05.2002,2001,Osasuna,Alaves,0,1,3.20,3.57,1.82
+11.05.2002,2001,Rayo Vallecano,Celta Vigo,1,0,2.73,3.23,2.31
+11.05.2002,2001,Real Sociedad,Las Palmas,1,1,2.00,3.97,2.26
+11.05.2002,2001,Sevilla,Villarreal,1,0,1.51,3.87,4.93
+11.05.2002,2001,Tenerife,Ath Bilbao,2,3,2.03,3.63,2.65
+11.05.2002,2001,Valencia,Betis,2,0,1.69,3.53,4.13
+11.05.2002,2001,Zaragoza,Barcelona,1,1,5.50,2.73,1.71
+10.05.2002,2001,Dep. La Coruna,Real Madrid,3,0,2.48,3.08,2.82
+05.05.2002,2001,Alaves,Rayo Vallecano,0,1,1.88,2.93,3.88
+05.05.2002,2001,Ath Bilbao,Osasuna,1,1,2.21,3.48,2.46
+05.05.2002,2001,Barcelona,Espanyol,2,0,1.31,4.80,7.20
+05.05.2002,2001,Betis,Dep. La Coruna,0,3,2.45,3.03,2.88
+05.05.2002,2001,Celta Vigo,Sevilla,1,2,1.43,4.40,6.73
+05.05.2002,2001,Las Palmas,Tenerife,0,1,1.78,3.68,3.92
+05.05.2002,2001,Malaga,Valencia,0,2,3.62,3.20,2.04
+05.05.2002,2001,Real Madrid,Mallorca,0,0,1.31,5.17,7.53
+05.05.2002,2001,Valladolid,Real Sociedad,1,3,2.17,3.08,2.97
+05.05.2002,2001,Villarreal,Zaragoza,2,1,1.83,3.37,4.00
+28.04.2002,2001,Dep. La Coruna,Malaga,2,2,1.33,4.93,7.97
+28.04.2002,2001,Mallorca,Betis,1,3,2.35,3.08,2.95
+28.04.2002,2001,Osasuna,Las Palmas,3,2,1.94,3.20,3.85
+28.04.2002,2001,Rayo Vallecano,Ath Bilbao,4,2,1.98,3.30,3.65
+28.04.2002,2001,Sevilla,Alaves,2,0,2.38,2.87,3.13
+28.04.2002,2001,Tenerife,Valladolid,1,5,1.88,3.37,3.40
+28.04.2002,2001,Zaragoza,Celta Vigo,0,1,2.60,2.98,2.63
+27.04.2002,2001,Barcelona,Villarreal,4,1,1.34,4.90,7.73
+27.04.2002,2001,Real Sociedad,Real Madrid,3,0,4.14,3.72,1.73
+27.04.2002,2001,Valencia,Espanyol,2,1,1.29,5.03,8.23
+21.04.2002,2001,Alaves,Zaragoza,2,1,1.88,3.43,3.70
+21.04.2002,2001,Ath Bilbao,Sevilla,0,1,1.90,3.38,3.71
+21.04.2002,2001,Betis,Real Sociedad,3,0,1.73,3.45,4.75
+21.04.2002,2001,Espanyol,Villarreal,3,1,1.99,3.13,3.77
+21.04.2002,2001,Malaga,Mallorca,0,0,2.10,3.25,3.22
+21.04.2002,2001,Valencia,Dep. La Coruna,1,0,2.08,3.17,3.52
+21.04.2002,2001,Valladolid,Osasuna,1,0,1.98,3.10,3.78
+20.04.2002,2001,Celta Vigo,Barcelona,2,1,2.60,3.02,2.56
+20.04.2002,2001,Las Palmas,Rayo Vallecano,0,2,2.00,3.13,3.62
+20.04.2002,2001,Real Madrid,Tenerife,4,1,1.18,6.27,9.99
+14.04.2002,2001,Barcelona,Alaves,3,2,1.41,4.50,7.40
+14.04.2002,2001,Dep. La Coruna,Espanyol,3,1,1.39,4.57,7.30
+14.04.2002,2001,Osasuna,Real Madrid,3,1,5.53,3.65,1.60
+14.04.2002,2001,Rayo Vallecano,Valladolid,1,0,2.01,3.25,3.67
+14.04.2002,2001,Real Sociedad,Malaga,2,1,2.10,3.18,3.58
+14.04.2002,2001,Sevilla,Las Palmas,1,1,1.99,3.23,3.80
+14.04.2002,2001,Tenerife,Betis,2,1,2.75,2.88,2.65
+14.04.2002,2001,Villarreal,Celta Vigo,2,1,2.75,2.82,2.72
+14.04.2002,2001,Zaragoza,Ath Bilbao,2,2,2.11,3.20,3.43
+13.04.2002,2001,Mallorca,Valencia,1,1,3.08,3.10,2.33
+07.04.2002,2001,Alaves,Villarreal,2,1,1.97,2.93,4.15
+07.04.2002,2001,Betis,Osasuna,0,0,1.52,3.78,6.13
+07.04.2002,2001,Espanyol,Celta Vigo,2,0,2.75,2.83,2.72
+07.04.2002,2001,Malaga,Tenerife,2,0,1.80,3.42,4.48
+07.04.2002,2001,Valencia,Real Sociedad,4,0,1.43,4.23,7.07
+07.04.2002,2001,Valladolid,Sevilla,1,1,2.03,3.20,3.70
+06.04.2002,2001,Ath Bilbao,Barcelona,0,2,3.03,2.97,2.42
+06.04.2002,2001,Dep. La Coruna,Mallorca,5,0,1.49,4.03,6.63
+06.04.2002,2001,Las Palmas,Zaragoza,1,1,2.04,3.20,3.76
+06.04.2002,2001,Real Madrid,Rayo Vallecano,3,1,1.28,4.93,9.16
+31.03.2002,2001,Mallorca,Espanyol,2,1,1.98,3.22,3.83
+31.03.2002,2001,Osasuna,Malaga,0,2,2.33,3.03,3.15
+31.03.2002,2001,Rayo Vallecano,Betis,0,0,2.67,2.87,2.73
+31.03.2002,2001,Villarreal,Ath Bilbao,5,2,2.53,2.92,2.87
+31.03.2002,2001,Zaragoza,Valladolid,0,0,2.03,3.22,3.67
+30.03.2002,2001,Barcelona,Las Palmas,1,1,1.29,4.93,8.97
+30.03.2002,2001,Celta Vigo,Alaves,3,1,1.71,3.25,5.07
+30.03.2002,2001,Real Sociedad,Dep. La Coruna,1,1,2.93,3.03,2.42
+30.03.2002,2001,Sevilla,Real Madrid,0,1,4.17,3.35,1.86
+30.03.2002,2001,Tenerife,Valencia,0,1,3.48,3.12,2.17
+24.03.2002,2001,Ath Bilbao,Celta Vigo,1,6,2.35,2.88,3.28
+24.03.2002,2001,Dep. La Coruna,Tenerife,3,1,1.40,4.40,7.33
+24.03.2002,2001,Espanyol,Alaves,1,2,1.89,3.02,4.33
+24.03.2002,2001,Mallorca,Real Sociedad,0,2,1.91,3.27,4.01
+24.03.2002,2001,Real Madrid,Zaragoza,3,1,1.30,5.06,8.56
+24.03.2002,2001,Valencia,Osasuna,2,1,1.41,4.20,7.37
+24.03.2002,2001,Valladolid,Barcelona,1,2,3.37,2.97,2.22
+23.03.2002,2001,Betis,Sevilla,0,0,1.93,3.20,4.00
+23.03.2002,2001,Las Palmas,Villarreal,3,2,2.14,3.03,3.60
+23.03.2002,2001,Malaga,Rayo Vallecano,0,0,1.88,3.27,4.16
+17.03.2002,2001,Alaves,Ath Bilbao,2,3,2.32,2.93,3.43
+17.03.2002,2001,Celta Vigo,Las Palmas,3,2,1.51,3.83,6.53
+17.03.2002,2001,Rayo Vallecano,Valencia,2,1,3.40,3.12,2.23
+17.03.2002,2001,Real Sociedad,Espanyol,1,0,2.22,3.17,3.37
+17.03.2002,2001,Sevilla,Malaga,0,2,2.03,3.20,3.73
+17.03.2002,2001,Tenerife,Mallorca,0,0,2.35,3.12,3.08
+17.03.2002,2001,Villarreal,Valladolid,2,2,2.22,3.13,3.40
+17.03.2002,2001,Zaragoza,Betis,1,1,2.67,2.82,2.80
+16.03.2002,2001,Barcelona,Real Madrid,1,1,2.42,3.02,3.00
+16.03.2002,2001,Osasuna,Dep. La Coruna,1,3,3.07,3.12,2.35
+10.03.2002,2001,Espanyol,Ath Bilbao,2,0,2.40,3.02,3.02
+10.03.2002,2001,Malaga,Zaragoza,2,1,2.04,3.15,3.68
+10.03.2002,2001,Mallorca,Osasuna,4,2,1.88,3.37,4.03
+10.03.2002,2001,Real Sociedad,Tenerife,0,2,1.82,3.28,4.37
+10.03.2002,2001,Valencia,Sevilla,2,0,1.50,3.82,6.30
+10.03.2002,2001,Valladolid,Celta Vigo,2,4,2.43,2.97,2.93
+09.03.2002,2001,Betis,Barcelona,2,1,2.72,2.93,2.65
+09.03.2002,2001,Dep. La Coruna,Rayo Vallecano,1,1,1.46,4.03,6.90
+09.03.2002,2001,Las Palmas,Alaves,2,1,2.56,2.93,2.83
+09.03.2002,2001,Real Madrid,Villarreal,3,0,1.34,4.60,8.13
+03.03.2002,2001,Alaves,Valladolid,3,1,1.96,3.10,3.97
+03.03.2002,2001,Ath Bilbao,Las Palmas,3,1,1.64,3.53,5.30
+03.03.2002,2001,Barcelona,Malaga,5,1,1.41,4.05,7.17
+03.03.2002,2001,Osasuna,Real Sociedad,1,1,2.17,3.08,3.38
+03.03.2002,2001,Rayo Vallecano,Mallorca,0,2,2.03,3.18,3.48
+03.03.2002,2001,Tenerife,Espanyol,1,1,2.40,3.08,3.00
+03.03.2002,2001,Zaragoza,Valencia,0,1,2.78,2.95,2.53
+02.03.2002,2001,Celta Vigo,Real Madrid,0,1,2.87,2.98,2.43
+02.03.2002,2001,Sevilla,Dep. La Coruna,0,1,2.68,2.93,2.63
+02.03.2002,2001,Villarreal,Betis,1,1,2.58,2.95,2.73
+24.02.2002,2001,Betis,Celta Vigo,4,1,NA,2.93,3.25
+24.02.2002,2001,Espanyol,Las Palmas,3,1,1.79,3.42,4.23
+24.02.2002,2001,Malaga,Villarreal,2,1,2.03,3.23,3.53
+24.02.2002,2001,Mallorca,Sevilla,0,4,2.15,3.15,3.42
+24.02.2002,2001,Real Sociedad,Rayo Vallecano,2,2,1.88,3.33,4.03
+24.02.2002,2001,Tenerife,Osasuna,3,1,2.31,3.03,3.18
+24.02.2002,2001,Valladolid,Ath Bilbao,2,0,2.45,2.95,2.95
+23.02.2002,2001,Dep. La Coruna,Zaragoza,1,0,1.52,3.68,6.20
+23.02.2002,2001,Real Madrid,Alaves,3,1,1.40,4.30,6.73
+23.02.2002,2001,Valencia,Barcelona,2,0,2.39,3.02,2.93
+17.02.2002,2001,Alaves,Betis,0,1,2.13,3.12,3.58
+17.02.2002,2001,Celta Vigo,Malaga,0,0,1.55,3.78,6.23
+17.02.2002,2001,Las Palmas,Valladolid,1,1,2.23,3.15,3.40
+17.02.2002,2001,Osasuna,Espanyol,1,1,2.20,3.18,3.43
+17.02.2002,2001,Rayo Vallecano,Tenerife,2,0,1.94,3.20,4.08
+17.02.2002,2001,Sevilla,Real Sociedad,0,1,1.82,3.40,4.38
+17.02.2002,2001,Zaragoza,Mallorca,1,0,2.21,3.18,3.37
+16.02.2002,2001,Ath Bilbao,Real Madrid,2,1,3.32,3.17,2.17
+16.02.2002,2001,Barcelona,Dep. La Coruna,3,2,1.78,3.47,4.53
+16.02.2002,2001,Villarreal,Valencia,1,1,2.78,2.87,2.62
+10.02.2002,2001,Betis,Ath Bilbao,1,1,2.18,3.18,3.48
+10.02.2002,2001,Dep. La Coruna,Villarreal,0,0,1.49,3.97,6.80
+10.02.2002,2001,Espanyol,Valladolid,1,0,2.08,3.23,3.62
+10.02.2002,2001,Malaga,Alaves,1,0,2.57,2.93,2.83
+10.02.2002,2001,Osasuna,Rayo Vallecano,1,0,2.00,3.15,3.90
+10.02.2002,2001,Real Madrid,Las Palmas,7,0,1.29,4.97,9.13
+10.02.2002,2001,Real Sociedad,Zaragoza,3,1,2.10,3.25,3.55
+10.02.2002,2001,Tenerife,Sevilla,1,1,2.52,3.03,2.78
+09.02.2002,2001,Mallorca,Barcelona,0,0,3.42,3.25,2.13
+09.02.2002,2001,Valencia,Celta Vigo,0,0,1.90,3.37,4.00
+06.02.2002,2001,Alaves,Valencia,1,2,2.48,2.95,2.93
+06.02.2002,2001,Ath Bilbao,Malaga,3,2,1.85,3.27,4.37
+06.02.2002,2001,Barcelona,Real Sociedad,2,0,1.35,4.67,8.37
+06.02.2002,2001,Las Palmas,Betis,0,0,2.48,3.03,2.85
+06.02.2002,2001,Rayo Vallecano,Espanyol,2,2,2.15,3.17,3.55
+06.02.2002,2001,Sevilla,Osasuna,0,0,1.89,3.28,4.18
+06.02.2002,2001,Valladolid,Real Madrid,2,1,3.95,3.13,1.98
+06.02.2002,2001,Villarreal,Mallorca,2,1,2.20,3.20,3.40
+06.02.2002,2001,Zaragoza,Tenerife,1,1,1.78,3.40,4.63
+05.02.2002,2001,Celta Vigo,Dep. La Coruna,0,2,2.16,3.20,3.50
+03.02.2002,2001,Betis,Valladolid,2,0,1.87,3.40,4.27
+03.02.2002,2001,Espanyol,Real Madrid,2,1,4.25,3.32,1.88
+03.02.2002,2001,Malaga,Las Palmas,1,1,2.00,3.18,3.95
+03.02.2002,2001,Osasuna,Zaragoza,0,0,2.15,3.18,3.45
+03.02.2002,2001,Valencia,Ath Bilbao,2,1,1.80,3.47,4.53
+02.02.2002,2001,Dep. La Coruna,Alaves,0,1,1.61,3.81,5.53
+02.02.2002,2001,Mallorca,Celta Vigo,0,1,2.48,3.00,2.88
+02.02.2002,2001,Rayo Vallecano,Sevilla,2,1,2.35,3.12,3.03
+02.02.2002,2001,Real Sociedad,Villarreal,2,1,2.08,3.18,3.70
+02.02.2002,2001,Tenerife,Barcelona,0,6,3.87,3.22,2.00
+27.01.2002,2001,Alaves,Mallorca,0,4,1.78,3.53,4.60
+27.01.2002,2001,Ath Bilbao,Dep. La Coruna,1,1,2.47,3.05,2.88
+27.01.2002,2001,Barcelona,Osasuna,0,1,1.38,4.57,7.47
+27.01.2002,2001,Real Madrid,Betis,1,1,1.39,4.56,7.20
+27.01.2002,2001,Sevilla,Espanyol,3,0,2.01,3.27,3.67
+27.01.2002,2001,Valladolid,Malaga,0,0,1.95,3.30,3.87
+27.01.2002,2001,Villarreal,Tenerife,2,1,1.90,3.35,4.02
+27.01.2002,2001,Zaragoza,Rayo Vallecano,3,2,1.85,3.43,4.13
+26.01.2002,2001,Celta Vigo,Real Sociedad,3,1,1.53,3.78,5.93
+26.01.2002,2001,Las Palmas,Valencia,0,1,2.77,2.88,2.65
+23.01.2002,2001,Rayo Vallecano,Alaves,2,0,2.75,2.95,2.53
+20.01.2002,2001,Dep. La Coruna,Las Palmas,1,0,1.45,4.27,6.97
+20.01.2002,2001,Espanyol,Betis,1,1,2.25,3.15,3.33
+20.01.2002,2001,Mallorca,Ath Bilbao,3,0,2.62,2.95,2.70
+20.01.2002,2001,Osasuna,Villarreal,2,2,2.18,3.12,3.42
+20.01.2002,2001,Rayo Vallecano,Barcelona,2,1,4.67,3.53,1.72
+20.01.2002,2001,Sevilla,Zaragoza,4,2,2.07,3.20,3.72
+20.01.2002,2001,Tenerife,Celta Vigo,1,1,2.88,2.93,2.53
+20.01.2002,2001,Valencia,Valladolid,1,2,1.49,4.00,6.60
+19.01.2002,2001,Malaga,Real Madrid,1,1,4.20,3.38,1.86
+19.01.2002,2001,Real Sociedad,Alaves,1,2,2.48,2.98,2.87
+13.01.2002,2001,Alaves,Tenerife,1,0,1.73,3.58,5.05
+13.01.2002,2001,Barcelona,Sevilla,3,1,1.44,4.20,7.30
+13.01.2002,2001,Betis,Malaga,1,1,1.79,3.42,4.50
+13.01.2002,2001,Celta Vigo,Osasuna,1,1,1.54,3.75,6.13
+13.01.2002,2001,Las Palmas,Mallorca,3,1,2.15,3.10,3.50
+13.01.2002,2001,Real Madrid,Valencia,1,0,1.58,3.70,5.90
+13.01.2002,2001,Valladolid,Dep. La Coruna,3,0,2.87,2.97,2.52
+13.01.2002,2001,Zaragoza,Espanyol,0,0,2.04,3.17,3.75
+12.01.2002,2001,Ath Bilbao,Real Sociedad,2,1,1.84,3.37,4.40
+12.01.2002,2001,Villarreal,Rayo Vallecano,1,1,1.74,3.47,4.76
+06.01.2002,2001,Alaves,Osasuna,0,2,1.62,3.60,5.63
+06.01.2002,2001,Ath Bilbao,Tenerife,1,2,1.66,3.53,5.47
+06.01.2002,2001,Barcelona,Zaragoza,2,0,1.42,4.26,7.33
+06.01.2002,2001,Betis,Valencia,1,3,2.36,3.02,3.12
+06.01.2002,2001,Malaga,Espanyol,2,0,2.26,3.12,3.37
+06.01.2002,2001,Valladolid,Mallorca,2,1,2.25,3.05,3.37
+05.01.2002,2001,Celta Vigo,Rayo Vallecano,2,2,1.44,4.20,7.13
+05.01.2002,2001,Las Palmas,Real Sociedad,0,0,2.06,3.18,3.68
+05.01.2002,2001,Real Madrid,Dep. La Coruna,3,1,1.69,3.52,5.20
+05.01.2002,2001,Villarreal,Sevilla,0,2,2.07,3.18,3.67
+23.12.2001,2001,Mallorca,Real Madrid,1,1,4.13,3.25,1.89
+23.12.2001,2001,Osasuna,Ath Bilbao,0,1,2.73,2.95,2.61
+23.12.2001,2001,Zaragoza,Villarreal,3,2,2.07,3.18,3.65
+22.12.2001,2001,Dep. La Coruna,Betis,2,0,1.65,3.47,5.40
+22.12.2001,2001,Espanyol,Barcelona,2,0,4.23,3.30,1.88
+22.12.2001,2001,Real Sociedad,Valladolid,6,0,2.15,3.18,3.45
+22.12.2001,2001,Sevilla,Celta Vigo,0,1,2.63,2.93,2.73
+22.12.2001,2001,Tenerife,Las Palmas,1,3,2.05,3.15,3.75
+22.12.2001,2001,Valencia,Malaga,2,1,1.57,3.70,6.00
+16.12.2001,2001,Alaves,Sevilla,0,1,1.63,3.53,5.30
+16.12.2001,2001,Ath Bilbao,Rayo Vallecano,1,1,1.57,3.60,6.03
+16.12.2001,2001,Betis,Mallorca,1,0,1.83,3.27,4.25
+16.12.2001,2001,Celta Vigo,Zaragoza,2,0,1.73,3.42,4.80
+16.12.2001,2001,Malaga,Dep. La Coruna,1,1,3.20,2.95,2.32
+16.12.2001,2001,Valladolid,Tenerife,0,0,1.86,3.28,4.28
+16.12.2001,2001,Villarreal,Barcelona,0,1,3.30,2.98,2.21
+15.12.2001,2001,Espanyol,Valencia,2,3,2.77,2.85,2.68
+15.12.2001,2001,Las Palmas,Osasuna,1,1,1.91,3.17,4.05
+15.12.2001,2001,Real Madrid,Real Sociedad,3,1,1.25,5.47,9.80
+09.12.2001,2001,Barcelona,Celta Vigo,2,2,1.56,3.72,5.97
+09.12.2001,2001,Dep. La Coruna,Valencia,1,0,1.94,3.25,3.93
+09.12.2001,2001,Mallorca,Malaga,1,1,1.86,3.23,4.26
+09.12.2001,2001,Osasuna,Valladolid,1,0,2.29,3.02,3.33
+09.12.2001,2001,Rayo Vallecano,Las Palmas,0,0,2.27,3.03,3.40
+09.12.2001,2001,Real Sociedad,Betis,0,0,2.50,3.02,2.78
+09.12.2001,2001,Villarreal,Espanyol,1,1,1.86,3.28,4.17
+09.12.2001,2001,Zaragoza,Alaves,0,2,2.35,2.98,3.07
+08.12.2001,2001,Sevilla,Ath Bilbao,3,3,2.46,2.95,2.87
+08.12.2001,2001,Tenerife,Real Madrid,0,2,4.56,3.40,1.78
+02.12.2001,2001,Ath Bilbao,Zaragoza,2,1,1.94,3.27,3.93
+02.12.2001,2001,Betis,Tenerife,1,0,1.66,3.50,5.37
+02.12.2001,2001,Celta Vigo,Villarreal,3,1,1.81,3.40,4.27
+02.12.2001,2001,Las Palmas,Sevilla,1,0,2.13,3.10,3.40
+02.12.2001,2001,Malaga,Real Sociedad,1,0,1.97,3.22,3.97
+02.12.2001,2001,Valladolid,Rayo Vallecano,3,1,1.76,3.47,4.70
+01.12.2001,2001,Alaves,Barcelona,2,0,2.92,3.02,2.43
+01.12.2001,2001,Espanyol,Dep. La Coruna,1,0,2.90,2.98,2.47
+01.12.2001,2001,Real Madrid,Osasuna,2,1,1.27,5.10,9.56
+01.12.2001,2001,Valencia,Mallorca,1,1,1.60,3.62,5.90
+25.11.2001,2001,Celta Vigo,Espanyol,4,1,1.80,3.37,4.43
+25.11.2001,2001,Mallorca,Dep. La Coruna,4,1,3.00,3.00,2.38
+25.11.2001,2001,Osasuna,Betis,1,2,2.38,2.98,3.05
+25.11.2001,2001,Rayo Vallecano,Real Madrid,0,3,5.36,3.50,1.64
+25.11.2001,2001,Real Sociedad,Valencia,2,0,3.20,2.95,2.33
+25.11.2001,2001,Sevilla,Valladolid,4,0,2.10,3.08,3.58
+25.11.2001,2001,Tenerife,Malaga,1,0,2.15,3.07,3.52
+25.11.2001,2001,Villarreal,Alaves,1,0,2.31,3.05,3.20
+25.11.2001,2001,Zaragoza,Las Palmas,2,1,1.81,3.37,4.28
+24.11.2001,2001,Barcelona,Ath Bilbao,1,2,1.44,4.28,7.00
+18.11.2001,2001,Alaves,Celta Vigo,1,0,2.10,3.22,3.55
+18.11.2001,2001,Ath Bilbao,Villarreal,0,0,2.10,3.20,3.58
+18.11.2001,2001,Betis,Rayo Vallecano,2,0,1.69,3.50,5.26
+18.11.2001,2001,Espanyol,Mallorca,2,1,2.20,3.12,3.40
+18.11.2001,2001,Malaga,Osasuna,2,1,2.08,3.17,3.68
+18.11.2001,2001,Valencia,Tenerife,0,0,1.39,4.50,7.40
+18.11.2001,2001,Valladolid,Zaragoza,2,0,2.29,3.07,3.18
+17.11.2001,2001,Dep. La Coruna,Real Sociedad,3,1,1.41,4.43,7.20
+17.11.2001,2001,Las Palmas,Barcelona,0,0,3.67,3.12,2.08
+17.11.2001,2001,Real Madrid,Sevilla,2,1,1.39,4.47,7.40
+11.11.2001,2001,Alaves,Espanyol,2,1,1.84,3.30,4.42
+11.11.2001,2001,Barcelona,Valladolid,4,0,1.38,4.50,7.90
+11.11.2001,2001,Celta Vigo,Ath Bilbao,2,3,1.79,3.38,4.47
+11.11.2001,2001,Osasuna,Valencia,0,0,3.18,2.95,2.35
+11.11.2001,2001,Rayo Vallecano,Malaga,3,0,2.29,3.07,3.15
+11.11.2001,2001,Real Sociedad,Mallorca,1,2,2.26,3.02,3.35
+11.11.2001,2001,Tenerife,Dep. La Coruna,3,1,3.73,3.13,2.08
+11.11.2001,2001,Villarreal,Las Palmas,2,0,1.90,3.17,4.30
+11.11.2001,2001,Zaragoza,Real Madrid,2,1,3.82,3.18,2.03
+10.11.2001,2001,Sevilla,Betis,0,0,2.53,2.87,2.90
+04.11.2001,2001,Betis,Zaragoza,0,1,1.81,3.32,4.48
+04.11.2001,2001,Dep. La Coruna,Osasuna,5,1,1.43,4.33,7.00
+04.11.2001,2001,Espanyol,Real Sociedad,1,2,1.84,3.37,4.30
+04.11.2001,2001,Las Palmas,Celta Vigo,4,2,2.77,3.00,2.63
+04.11.2001,2001,Malaga,Sevilla,1,3,2.08,3.08,3.73
+04.11.2001,2001,Mallorca,Tenerife,2,0,1.86,3.33,4.26
+04.11.2001,2001,Real Madrid,Barcelona,2,0,2.08,3.20,3.60
+04.11.2001,2001,Valencia,Rayo Vallecano,2,1,1.37,4.63,7.53
+04.11.2001,2001,Valladolid,Villarreal,1,0,2.42,2.98,3.03
+03.11.2001,2001,Ath Bilbao,Alaves,2,1,2.38,3.03,3.08
+28.10.2001,2001,Alaves,Las Palmas,1,0,1.84,3.50,4.30
+28.10.2001,2001,Ath Bilbao,Espanyol,1,1,2.04,3.20,3.85
+28.10.2001,2001,Celta Vigo,Valladolid,1,1,1.55,3.85,6.50
+28.10.2001,2001,Sevilla,Valencia,1,1,2.75,2.95,2.65
+28.10.2001,2001,Zaragoza,Malaga,0,2,2.04,3.20,4.00
+27.10.2001,2001,Barcelona,Betis,3,0,1.58,3.80,6.50
+27.10.2001,2001,Osasuna,Mallorca,4,0,2.25,3.10,3.60
+27.10.2001,2001,Rayo Vallecano,Dep. La Coruna,2,1,3.50,3.25,2.10
+27.10.2001,2001,Tenerife,Real Sociedad,0,1,1.95,3.30,4.09
+27.10.2001,2001,Villarreal,Real Madrid,2,3,3.45,3.15,2.20
+21.10.2001,2001,Espanyol,Tenerife,2,0,2.00,3.30,4.09
+21.10.2001,2001,Mallorca,Rayo Vallecano,3,0,1.79,3.50,4.30
+21.10.2001,2001,Real Madrid,Celta Vigo,1,1,1.68,3.60,5.60
+21.10.2001,2001,Valencia,Zaragoza,2,0,1.63,3.70,5.60
+21.10.2001,2001,Valladolid,Alaves,1,3,2.45,3.00,3.00
+20.10.2001,2001,Betis,Villarreal,1,1,2.00,3.25,4.00
+20.10.2001,2001,Dep. La Coruna,Sevilla,1,0,1.47,4.70,7.20
+20.10.2001,2001,Las Palmas,Ath Bilbao,1,1,2.20,3.20,3.50
+20.10.2001,2001,Malaga,Barcelona,1,1,3.90,3.20,2.04
+20.10.2001,2001,Real Sociedad,Osasuna,2,1,2.20,3.25,3.50
+14.10.2001,2001,Ath Bilbao,Valladolid,1,4,1.89,3.30,4.30
+14.10.2001,2001,Barcelona,Valencia,2,2,1.68,3.70,5.00
+14.10.2001,2001,Celta Vigo,Betis,3,1,1.84,3.40,4.50
+14.10.2001,2001,Las Palmas,Espanyol,2,0,2.20,3.10,3.35
+14.10.2001,2001,Osasuna,Tenerife,0,2,1.95,3.25,4.00
+14.10.2001,2001,Rayo Vallecano,Real Sociedad,2,1,2.04,3.20,3.80
+14.10.2001,2001,Villarreal,Malaga,1,2,1.79,3.50,4.70
+13.10.2001,2001,Alaves,Real Madrid,0,0,3.35,3.10,2.29
+13.10.2001,2001,Sevilla,Mallorca,2,2,2.04,3.25,3.60
+13.10.2001,2001,Zaragoza,Dep. La Coruna,1,2,2.70,2.90,2.70
+07.10.2001,2001,Betis,Alaves,1,0,2.10,3.20,3.80
+07.10.2001,2001,Malaga,Celta Vigo,2,2,2.85,2.95,2.70
+07.10.2001,2001,Mallorca,Zaragoza,0,1,2.04,3.15,3.90
+07.10.2001,2001,Osasuna,Espanyol,1,1,1.95,3.25,4.09
+07.10.2001,2001,Real Sociedad,Sevilla,3,3,2.50,3.00,3.00
+07.10.2001,2001,Tenerife,Rayo Vallecano,3,1,2.04,3.15,3.90
+07.10.2001,2001,Valencia,Villarreal,1,0,1.79,3.50,4.84
+07.10.2001,2001,Valladolid,Las Palmas,1,0,2.25,3.10,3.60
+06.10.2001,2001,Dep. La Coruna,Barcelona,2,1,2.70,2.90,2.85
+06.10.2001,2001,Real Madrid,Ath Bilbao,2,0,1.49,4.00,7.00
+04.10.2001,2001,Celta Vigo,Valencia,1,1,2.15,3.10,3.85
+03.10.2001,2001,Alaves,Malaga,1,0,1.89,3.30,4.25
+03.10.2001,2001,Ath Bilbao,Betis,0,0,2.20,3.15,3.70
+03.10.2001,2001,Barcelona,Mallorca,3,0,1.49,3.30,7.50
+03.10.2001,2001,Las Palmas,Real Madrid,4,2,4.00,3.30,2.00
+03.10.2001,2001,Rayo Vallecano,Osasuna,0,1,2.10,3.20,3.70
+03.10.2001,2001,Sevilla,Tenerife,2,0,1.89,3.30,4.25
+03.10.2001,2001,Valladolid,Espanyol,0,1,2.20,3.10,3.65
+03.10.2001,2001,Villarreal,Dep. La Coruna,1,1,2.60,2.80,2.80
+03.10.2001,2001,Zaragoza,Real Sociedad,3,2,1.84,3.40,4.50
+30.09.2001,2001,Betis,Las Palmas,1,0,1.84,3.40,4.40
+30.09.2001,2001,Dep. La Coruna,Celta Vigo,2,2,1.84,3.50,4.25
+30.09.2001,2001,Mallorca,Villarreal,0,1,2.00,3.15,4.09
+30.09.2001,2001,Osasuna,Sevilla,1,0,2.25,3.10,3.60
+30.09.2001,2001,Tenerife,Zaragoza,0,0,2.35,3.10,3.20
+30.09.2001,2001,Valencia,Alaves,0,0,1.68,3.60,5.20
+29.09.2001,2001,Espanyol,Rayo Vallecano,3,1,1.95,3.20,4.09
+29.09.2001,2001,Malaga,Ath Bilbao,1,2,2.10,3.10,3.70
+29.09.2001,2001,Real Madrid,Valladolid,2,2,1.28,5.00,9.99
+29.09.2001,2001,Real Sociedad,Barcelona,0,2,4.20,3.30,1.89
+23.09.2001,2001,Ath Bilbao,Valencia,2,2,2.75,2.85,2.75
+23.09.2001,2001,Celta Vigo,Mallorca,2,0,1.89,3.40,4.25
+23.09.2001,2001,Sevilla,Rayo Vallecano,2,1,2.04,3.20,4.00
+23.09.2001,2001,Valladolid,Betis,0,2,2.15,3.10,3.75
+23.09.2001,2001,Zaragoza,Osasuna,0,1,1.68,3.60,5.20
+22.09.2001,2001,Alaves,Dep. La Coruna,2,3,2.50,2.90,2.90
+22.09.2001,2001,Barcelona,Tenerife,2,0,1.32,5.00,9.00
+22.09.2001,2001,Las Palmas,Malaga,0,0,2.20,3.10,3.65
+22.09.2001,2001,Real Madrid,Espanyol,5,1,1.32,5.00,9.00
+22.09.2001,2001,Villarreal,Real Sociedad,1,0,1.79,3.60,4.70
+16.09.2001,2001,Espanyol,Sevilla,2,3,1.84,3.40,4.50
+16.09.2001,2001,Malaga,Valladolid,1,2,1.84,3.40,4.50
+16.09.2001,2001,Rayo Vallecano,Zaragoza,1,2,2.10,3.25,3.75
+16.09.2001,2001,Real Sociedad,Celta Vigo,0,0,2.80,2.95,2.50
+16.09.2001,2001,Tenerife,Villarreal,2,0,2.70,2.90,2.60
+16.09.2001,2001,Valencia,Las Palmas,1,0,1.47,4.50,7.50
+15.09.2001,2001,Betis,Real Madrid,3,1,4.09,3.20,1.95
+15.09.2001,2001,Dep. La Coruna,Ath Bilbao,1,2,1.44,4.59,7.50
+15.09.2001,2001,Mallorca,Alaves,0,0,1.95,3.25,4.20
+15.09.2001,2001,Osasuna,Barcelona,0,0,4.30,3.40,1.89
+09.09.2001,2001,Alaves,Real Sociedad,2,0,1.84,3.40,4.40
+09.09.2001,2001,Barcelona,Rayo Vallecano,1,1,1.37,5.00,8.50
+09.09.2001,2001,Betis,Espanyol,2,0,2.40,3.00,3.00
+09.09.2001,2001,Celta Vigo,Tenerife,3,0,1.47,4.50,7.00
+09.09.2001,2001,Valladolid,Valencia,1,1,3.10,3.10,2.35
+09.09.2001,2001,Zaragoza,Sevilla,1,1,1.79,3.50,4.70
+08.09.2001,2001,Ath Bilbao,Mallorca,0,1,2.29,3.20,3.20
+08.09.2001,2001,Las Palmas,Dep. La Coruna,0,1,3.00,3.00,2.40
+08.09.2001,2001,Real Madrid,Malaga,1,1,1.32,5.00,8.50
+08.09.2001,2001,Villarreal,Osasuna,3,0,1.63,3.70,5.50
+26.08.2001,2001,Dep. La Coruna,Valladolid,4,0,1.42,4.50,7.00
+26.08.2001,2001,Espanyol,Zaragoza,2,1,2.00,3.10,3.50
+26.08.2001,2001,Malaga,Betis,3,2,1.89,3.20,4.25
+26.08.2001,2001,Mallorca,Las Palmas,0,3,1.53,3.80,6.00
+26.08.2001,2001,Osasuna,Celta Vigo,0,3,2.80,2.90,2.65
+26.08.2001,2001,Rayo Vallecano,Villarreal,1,2,2.35,3.00,3.20
+26.08.2001,2001,Real Sociedad,Ath Bilbao,1,3,2.20,3.00,3.50
+26.08.2001,2001,Sevilla,Barcelona,1,2,4.09,3.30,1.85
+26.08.2001,2001,Tenerife,Alaves,0,2,2.50,3.00,2.70
+25.08.2001,2001,Valencia,Real Madrid,1,0,2.75,2.90,2.60

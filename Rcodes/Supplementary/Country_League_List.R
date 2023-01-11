@@ -14,7 +14,8 @@ if(Country=="england"){
   All_Leagues=c("eerste-divisie")
   All_Leagues=All_Leagues[All_Leagues%in%Leagues]
 }else if(Country=="germany"){
-  All_Leagues=c("3-liga")
+  All_Leagues=c("3-liga",
+                "bundesliga")
   All_Leagues=All_Leagues[All_Leagues%in%Leagues]
 }else if(Country=="china"){
   All_Leagues=c("super-league")

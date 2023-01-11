@@ -1,343 +1,307 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-14.05.2004,2003,Den Bosch,Veendam,3,2
-14.05.2004,2003,Dordrecht,Oss,2,2
-14.05.2004,2003,FC Emmen,Telstar,4,3
-14.05.2004,2003,G.A. Eagles,Heracles,0,2
-14.05.2004,2003,Graafschap,Maastricht,1,0
-14.05.2004,2003,Haarlem,Cambuur,1,0
-14.05.2004,2003,Helmond,Excelsior,1,1
-14.05.2004,2003,Sittard,Eindhoven FC,3,4
-14.05.2004,2003,Venlo,Apeldoorn,2,4
-07.05.2004,2003,Apeldoorn,FC Emmen,3,0
-07.05.2004,2003,Cambuur,Den Bosch,1,2
-07.05.2004,2003,Eindhoven FC,Sparta Rotterdam,0,3
-07.05.2004,2003,Excelsior,Sittard,2,1
-07.05.2004,2003,Heracles,Helmond,3,3
-07.05.2004,2003,Maastricht,Venlo,2,1
-07.05.2004,2003,Oss,G.A. Eagles,1,4
-07.05.2004,2003,Telstar,Dordrecht,2,0
-07.05.2004,2003,Veendam,Graafschap,3,3
-03.05.2004,2003,Helmond,Oss,0,2
-29.04.2004,2003,Dordrecht,Apeldoorn,2,1
-29.04.2004,2003,FC Emmen,Venlo,0,2
-29.04.2004,2003,G.A. Eagles,Telstar,3,1
-29.04.2004,2003,Graafschap,Cambuur,1,1
-29.04.2004,2003,Haarlem,Eindhoven FC,2,2
-29.04.2004,2003,Maastricht,Veendam,0,0
-29.04.2004,2003,Sittard,Heracles,0,3
-29.04.2004,2003,Sparta Rotterdam,Excelsior,3,2
-23.04.2004,2003,Apeldoorn,G.A. Eagles,1,2
-23.04.2004,2003,Cambuur,Veendam,0,0
-23.04.2004,2003,Eindhoven FC,Den Bosch,0,3
-23.04.2004,2003,Excelsior,Haarlem,3,0
-23.04.2004,2003,FC Emmen,Maastricht,1,1
-23.04.2004,2003,Heracles,Sparta Rotterdam,0,1
-23.04.2004,2003,Oss,Sittard,3,1
-23.04.2004,2003,Telstar,Helmond,0,1
-23.04.2004,2003,Venlo,Dordrecht,3,0
-16.04.2004,2003,Den Bosch,Excelsior,2,2
-16.04.2004,2003,Dordrecht,FC Emmen,1,5
-16.04.2004,2003,G.A. Eagles,Venlo,2,4
-16.04.2004,2003,Graafschap,Eindhoven FC,3,0
-16.04.2004,2003,Haarlem,Heracles,0,2
-16.04.2004,2003,Helmond,Apeldoorn,3,0
-16.04.2004,2003,Maastricht,Cambuur,1,1
-16.04.2004,2003,Sittard,Telstar,1,1
-16.04.2004,2003,Sparta Rotterdam,Oss,0,0
-12.04.2004,2003,Apeldoorn,Haarlem,5,2
-12.04.2004,2003,Dordrecht,Helmond,1,2
-12.04.2004,2003,Excelsior,Cambuur,2,1
-12.04.2004,2003,FC Emmen,Sittard,2,0
-12.04.2004,2003,G.A. Eagles,Maastricht,1,0
-12.04.2004,2003,Heracles,Veendam,3,2
-12.04.2004,2003,Oss,Graafschap,0,2
-12.04.2004,2003,Telstar,Den Bosch,0,1
-12.04.2004,2003,Venlo,Sparta Rotterdam,5,2
-09.04.2004,2003,Cambuur,Heracles,2,2
-09.04.2004,2003,Den Bosch,Apeldoorn,1,2
-09.04.2004,2003,Graafschap,Telstar,4,2
-09.04.2004,2003,Haarlem,Venlo,3,1
-09.04.2004,2003,Maastricht,Eindhoven FC,2,0
-09.04.2004,2003,Sparta Rotterdam,FC Emmen,3,4
-09.04.2004,2003,Veendam,Oss,1,1
-08.04.2004,2003,Sittard,Dordrecht,0,1
-07.04.2004,2003,Helmond,G.A. Eagles,2,3
-05.04.2004,2003,Sparta Rotterdam,Sittard,1,0
-02.04.2004,2003,Apeldoorn,Sittard,1,0
-02.04.2004,2003,Dordrecht,Maastricht,0,0
-02.04.2004,2003,Eindhoven FC,Veendam,1,1
-02.04.2004,2003,Excelsior,Graafschap,2,0
-02.04.2004,2003,FC Emmen,G.A. Eagles,2,2
-02.04.2004,2003,Heracles,Den Bosch,1,2
-02.04.2004,2003,Oss,Haarlem,3,0
-02.04.2004,2003,Telstar,Sparta Rotterdam,1,1
-02.04.2004,2003,Venlo,Helmond,1,0
-28.03.2004,2003,Den Bosch,Oss,1,0
-28.03.2004,2003,Haarlem,Telstar,1,1
-26.03.2004,2003,Cambuur,Eindhoven FC,0,1
-26.03.2004,2003,G.A. Eagles,Dordrecht,5,1
-26.03.2004,2003,Graafschap,Heracles,3,1
-26.03.2004,2003,Helmond,FC Emmen,2,3
-26.03.2004,2003,Sittard,Venlo,1,4
-26.03.2004,2003,Sparta Rotterdam,Apeldoorn,4,1
-26.03.2004,2003,Veendam,Excelsior,1,4
-22.03.2004,2003,Apeldoorn,Cambuur,3,2
-22.03.2004,2003,Dordrecht,Den Bosch,1,1
-22.03.2004,2003,FC Emmen,Graafschap,0,2
-22.03.2004,2003,G.A. Eagles,Haarlem,0,0
-22.03.2004,2003,Helmond,Sparta Rotterdam,0,2
-22.03.2004,2003,Heracles,Excelsior,1,1
-22.03.2004,2003,Oss,Eindhoven FC,2,3
-22.03.2004,2003,Sittard,Maastricht,1,2
-22.03.2004,2003,Venlo,Veendam,2,2
-19.03.2004,2003,Cambuur,Venlo,0,2
-19.03.2004,2003,Den Bosch,G.A. Eagles,4,2
-19.03.2004,2003,Eindhoven FC,Telstar,1,0
-19.03.2004,2003,Excelsior,Oss,3,0
-19.03.2004,2003,Graafschap,Dordrecht,4,1
-19.03.2004,2003,Haarlem,Helmond,1,0
-19.03.2004,2003,Maastricht,Heracles,2,2
-19.03.2004,2003,Veendam,FC Emmen,1,3
-14.03.2004,2003,Apeldoorn,Graafschap,4,2
-12.03.2004,2003,Dordrecht,Sparta Rotterdam,0,0
-12.03.2004,2003,Excelsior,Eindhoven FC,3,3
-12.03.2004,2003,FC Emmen,Haarlem,1,1
-12.03.2004,2003,G.A. Eagles,Sittard,3,1
-12.03.2004,2003,Helmond,Maastricht,2,0
-12.03.2004,2003,Oss,Cambuur,1,1
-12.03.2004,2003,Telstar,Veendam,1,1
-12.03.2004,2003,Venlo,Den Bosch,2,5
-07.03.2004,2003,Haarlem,Dordrecht,0,2
-05.03.2004,2003,Cambuur,Telstar,3,3
-05.03.2004,2003,Den Bosch,FC Emmen,2,2
-05.03.2004,2003,Eindhoven FC,Heracles,0,1
-05.03.2004,2003,Graafschap,Venlo,1,1
-05.03.2004,2003,Maastricht,Excelsior,1,2
-05.03.2004,2003,Sittard,Helmond,0,2
-05.03.2004,2003,Sparta Rotterdam,G.A. Eagles,2,1
-05.03.2004,2003,Veendam,Apeldoorn,1,3
-02.03.2004,2003,G.A. Eagles,Graafschap,1,2
-02.03.2004,2003,Oss,Heracles,1,2
-01.03.2004,2003,Helmond,Den Bosch,3,3
-27.02.2004,2003,Apeldoorn,Eindhoven FC,0,0
-27.02.2004,2003,Dordrecht,Veendam,1,1
-27.02.2004,2003,FC Emmen,Cambuur,2,0
-27.02.2004,2003,Sittard,Haarlem,1,1
-27.02.2004,2003,Sparta Rotterdam,Maastricht,1,0
-27.02.2004,2003,Telstar,Excelsior,0,1
-23.02.2004,2003,Veendam,G.A. Eagles,1,1
-20.02.2004,2003,Cambuur,Dordrecht,2,0
-20.02.2004,2003,Eindhoven FC,Venlo,3,1
-20.02.2004,2003,Excelsior,Apeldoorn,3,1
-20.02.2004,2003,Graafschap,Helmond,0,1
-20.02.2004,2003,Haarlem,Sparta Rotterdam,4,3
-20.02.2004,2003,Heracles,Telstar,3,0
-19.02.2004,2003,Den Bosch,Sittard,3,1
-19.02.2004,2003,Maastricht,Oss,1,3
-17.02.2004,2003,FC Emmen,Heracles,1,3
-14.02.2004,2003,Telstar,Oss,1,3
-13.02.2004,2003,Apeldoorn,Heracles,0,1
-13.02.2004,2003,FC Emmen,Eindhoven FC,2,0
-13.02.2004,2003,G.A. Eagles,Cambuur,3,0
-13.02.2004,2003,Haarlem,Maastricht,2,0
-13.02.2004,2003,Helmond,Veendam,1,1
-13.02.2004,2003,Sittard,Graafschap,1,1
-13.02.2004,2003,Sparta Rotterdam,Den Bosch,2,2
-13.02.2004,2003,Venlo,Excelsior,4,2
-08.02.2004,2003,Heracles,Venlo,4,0
-06.02.2004,2003,Cambuur,Helmond,2,1
-06.02.2004,2003,Den Bosch,Haarlem,4,2
-06.02.2004,2003,Eindhoven FC,Dordrecht,1,1
-06.02.2004,2003,Excelsior,FC Emmen,2,1
-06.02.2004,2003,Graafschap,Sparta Rotterdam,1,0
-06.02.2004,2003,Oss,Apeldoorn,1,0
-06.02.2004,2003,Veendam,Sittard,2,2
-05.02.2004,2003,Maastricht,Telstar,1,0
-03.02.2004,2003,Venlo,Oss,1,0
-30.01.2004,2003,Apeldoorn,Telstar,2,3
-30.01.2004,2003,Den Bosch,Maastricht,5,0
-30.01.2004,2003,Dordrecht,Excelsior,1,1
-30.01.2004,2003,G.A. Eagles,Eindhoven FC,1,1
-30.01.2004,2003,Haarlem,Graafschap,1,0
-30.01.2004,2003,Sittard,Cambuur,1,0
-30.01.2004,2003,Sparta Rotterdam,Veendam,3,1
-21.12.2003,2003,Graafschap,Den Bosch,2,1
-19.12.2003,2003,Cambuur,Sparta Rotterdam,1,2
-19.12.2003,2003,Eindhoven FC,Helmond,1,2
-19.12.2003,2003,Excelsior,G.A. Eagles,5,3
-19.12.2003,2003,Heracles,Dordrecht,1,1
-19.12.2003,2003,Maastricht,Apeldoorn,0,2
-19.12.2003,2003,Oss,FC Emmen,1,4
-19.12.2003,2003,Telstar,Venlo,3,1
-19.12.2003,2003,Veendam,Haarlem,2,0
-16.12.2003,2003,Veendam,Den Bosch,2,1
-13.12.2003,2003,Oss,Dordrecht,3,2
-12.12.2003,2003,Apeldoorn,Venlo,5,0
-12.12.2003,2003,Cambuur,Haarlem,3,1
-12.12.2003,2003,Eindhoven FC,Sittard,2,3
-12.12.2003,2003,Excelsior,Helmond,0,1
-12.12.2003,2003,Heracles,G.A. Eagles,0,2
-12.12.2003,2003,Maastricht,Graafschap,0,4
-12.12.2003,2003,Telstar,FC Emmen,1,2
-05.12.2003,2003,Den Bosch,Cambuur,5,1
-05.12.2003,2003,Dordrecht,Telstar,1,3
-05.12.2003,2003,FC Emmen,Apeldoorn,1,1
-05.12.2003,2003,G.A. Eagles,Oss,4,4
-05.12.2003,2003,Graafschap,Veendam,4,0
-05.12.2003,2003,Helmond,Heracles,1,1
-05.12.2003,2003,Sittard,Excelsior,2,4
-05.12.2003,2003,Sparta Rotterdam,Eindhoven FC,4,1
-05.12.2003,2003,Venlo,Maastricht,1,0
-29.11.2003,2003,Veendam,Maastricht,2,2
-28.11.2003,2003,Apeldoorn,Dordrecht,0,0
-28.11.2003,2003,Cambuur,Graafschap,1,0
-28.11.2003,2003,Eindhoven FC,Haarlem,2,3
-28.11.2003,2003,Excelsior,Sparta Rotterdam,1,0
-28.11.2003,2003,Heracles,Sittard,3,1
-28.11.2003,2003,Oss,Helmond,1,4
-28.11.2003,2003,Telstar,G.A. Eagles,2,1
-28.11.2003,2003,Venlo,FC Emmen,2,4
-22.11.2003,2003,Veendam,Cambuur,3,2
-21.11.2003,2003,Den Bosch,Eindhoven FC,6,2
-21.11.2003,2003,Dordrecht,Venlo,0,3
-21.11.2003,2003,G.A. Eagles,Apeldoorn,2,2
-21.11.2003,2003,Haarlem,Excelsior,1,3
-21.11.2003,2003,Helmond,Telstar,3,0
-21.11.2003,2003,Maastricht,FC Emmen,3,4
-21.11.2003,2003,Sittard,Oss,1,3
-21.11.2003,2003,Sparta Rotterdam,Heracles,1,2
-14.11.2003,2003,Apeldoorn,Helmond,2,2
-14.11.2003,2003,Cambuur,Maastricht,1,3
-14.11.2003,2003,Eindhoven FC,Graafschap,0,0
-14.11.2003,2003,Excelsior,Den Bosch,0,0
-14.11.2003,2003,FC Emmen,Dordrecht,0,0
-14.11.2003,2003,Heracles,Haarlem,4,0
-14.11.2003,2003,Oss,Sparta Rotterdam,0,4
-14.11.2003,2003,Telstar,Sittard,4,2
-14.11.2003,2003,Venlo,G.A. Eagles,4,3
-09.11.2003,2003,Sparta Rotterdam,Telstar,4,1
-07.11.2003,2003,Den Bosch,Heracles,2,3
-07.11.2003,2003,G.A. Eagles,FC Emmen,0,1
-07.11.2003,2003,Graafschap,Excelsior,2,1
-07.11.2003,2003,Haarlem,Oss,1,0
-07.11.2003,2003,Helmond,Venlo,1,3
-07.11.2003,2003,Maastricht,Dordrecht,1,1
-07.11.2003,2003,Sittard,Apeldoorn,1,4
-07.11.2003,2003,Veendam,Eindhoven FC,1,0
-02.11.2003,2003,Oss,Den Bosch,2,1
-02.11.2003,2003,Telstar,Haarlem,2,1
-01.11.2003,2003,Eindhoven FC,Cambuur,1,1
-31.10.2003,2003,Apeldoorn,Sparta Rotterdam,1,2
-31.10.2003,2003,Dordrecht,G.A. Eagles,2,3
-31.10.2003,2003,Excelsior,Veendam,2,0
-31.10.2003,2003,FC Emmen,Helmond,3,1
-31.10.2003,2003,Heracles,Graafschap,2,2
-31.10.2003,2003,Venlo,Sittard,7,0
-24.10.2003,2003,Cambuur,Excelsior,0,2
-24.10.2003,2003,Den Bosch,Telstar,2,1
-24.10.2003,2003,Graafschap,Oss,3,1
-24.10.2003,2003,Haarlem,Apeldoorn,1,1
-24.10.2003,2003,Helmond,Dordrecht,2,0
-24.10.2003,2003,Maastricht,G.A. Eagles,3,1
-24.10.2003,2003,Sittard,FC Emmen,1,3
-24.10.2003,2003,Sparta Rotterdam,Venlo,3,2
-24.10.2003,2003,Veendam,Heracles,2,1
-21.10.2003,2003,Sparta Rotterdam,Helmond,0,3
-17.10.2003,2003,Apeldoorn,Den Bosch,1,2
-17.10.2003,2003,Dordrecht,Sittard,0,1
-17.10.2003,2003,Eindhoven FC,Maastricht,3,0
-17.10.2003,2003,FC Emmen,Sparta Rotterdam,1,1
-17.10.2003,2003,G.A. Eagles,Helmond,1,4
-17.10.2003,2003,Heracles,Cambuur,1,1
-17.10.2003,2003,Oss,Veendam,1,3
-17.10.2003,2003,Telstar,Graafschap,2,0
-17.10.2003,2003,Venlo,Haarlem,1,0
-14.10.2003,2003,Den Bosch,Dordrecht,1,0
-14.10.2003,2003,Telstar,Eindhoven FC,5,1
-10.10.2003,2003,Cambuur,Apeldoorn,2,0
-10.10.2003,2003,Eindhoven FC,Oss,1,1
-10.10.2003,2003,Excelsior,Heracles,1,2
-10.10.2003,2003,Graafschap,FC Emmen,2,1
-10.10.2003,2003,Haarlem,G.A. Eagles,1,1
-10.10.2003,2003,Maastricht,Sittard,2,2
-10.10.2003,2003,Veendam,Venlo,3,2
-05.10.2003,2003,G.A. Eagles,Den Bosch,3,0
-04.10.2003,2003,Helmond,Haarlem,4,3
-03.10.2003,2003,Dordrecht,Graafschap,0,0
-03.10.2003,2003,FC Emmen,Veendam,1,0
-03.10.2003,2003,Heracles,Maastricht,2,0
-03.10.2003,2003,Oss,Excelsior,1,2
-03.10.2003,2003,Sittard,Sparta Rotterdam,1,1
-03.10.2003,2003,Venlo,Cambuur,4,0
-28.09.2003,2003,Sparta Rotterdam,Dordrecht,1,2
-26.09.2003,2003,Cambuur,Oss,0,0
-26.09.2003,2003,Den Bosch,Venlo,3,0
-26.09.2003,2003,Eindhoven FC,Excelsior,0,1
-26.09.2003,2003,Graafschap,Apeldoorn,3,0
-26.09.2003,2003,Haarlem,FC Emmen,1,2
-26.09.2003,2003,Maastricht,Helmond,1,3
-26.09.2003,2003,Sittard,G.A. Eagles,1,3
-26.09.2003,2003,Veendam,Telstar,2,2
-19.09.2003,2003,Apeldoorn,Veendam,4,2
-19.09.2003,2003,Dordrecht,Haarlem,0,3
-19.09.2003,2003,Excelsior,Maastricht,2,0
-19.09.2003,2003,FC Emmen,Den Bosch,0,2
-19.09.2003,2003,G.A. Eagles,Sparta Rotterdam,2,3
-19.09.2003,2003,Helmond,Sittard,1,0
-19.09.2003,2003,Heracles,Eindhoven FC,3,0
-19.09.2003,2003,Telstar,Cambuur,4,2
-19.09.2003,2003,Venlo,Graafschap,0,1
-15.09.2003,2003,Apeldoorn,Excelsior,0,2
-15.09.2003,2003,Sittard,Den Bosch,2,3
-14.09.2003,2003,Graafschap,G.A. Eagles,2,2
-12.09.2003,2003,Cambuur,FC Emmen,3,1
-12.09.2003,2003,Den Bosch,Helmond,1,1
-12.09.2003,2003,Eindhoven FC,Apeldoorn,1,1
-12.09.2003,2003,Excelsior,Telstar,1,1
-12.09.2003,2003,Haarlem,Sittard,1,1
-12.09.2003,2003,Heracles,Oss,2,0
-12.09.2003,2003,Maastricht,Sparta Rotterdam,0,3
-12.09.2003,2003,Veendam,Dordrecht,1,1
-05.09.2003,2003,Dordrecht,Cambuur,3,0
-05.09.2003,2003,G.A. Eagles,Veendam,5,0
-05.09.2003,2003,Helmond,Graafschap,2,2
-05.09.2003,2003,Oss,Maastricht,7,0
-05.09.2003,2003,Sparta Rotterdam,Haarlem,3,0
-05.09.2003,2003,Telstar,Heracles,2,1
-05.09.2003,2003,Venlo,Eindhoven FC,3,2
-01.09.2003,2003,Cambuur,Sittard,1,1
-01.09.2003,2003,Eindhoven FC,G.A. Eagles,1,3
-01.09.2003,2003,Excelsior,Dordrecht,4,2
-01.09.2003,2003,Graafschap,Haarlem,2,0
-01.09.2003,2003,Heracles,FC Emmen,4,1
-01.09.2003,2003,Maastricht,Den Bosch,2,2
-01.09.2003,2003,Oss,Venlo,2,2
-01.09.2003,2003,Telstar,Apeldoorn,0,0
-01.09.2003,2003,Veendam,Sparta Rotterdam,0,5
-29.08.2003,2003,Apeldoorn,Maastricht,3,0
-29.08.2003,2003,Den Bosch,Graafschap,4,2
-29.08.2003,2003,Dordrecht,Heracles,2,2
-29.08.2003,2003,FC Emmen,Oss,2,2
-29.08.2003,2003,G.A. Eagles,Excelsior,2,3
-29.08.2003,2003,Haarlem,Veendam,1,0
-29.08.2003,2003,Helmond,Eindhoven FC,2,0
-29.08.2003,2003,Sparta Rotterdam,Cambuur,2,0
-29.08.2003,2003,Venlo,Telstar,3,0
-22.08.2003,2003,Cambuur,G.A. Eagles,0,4
-22.08.2003,2003,Den Bosch,Sparta Rotterdam,2,0
-22.08.2003,2003,Eindhoven FC,FC Emmen,1,1
-22.08.2003,2003,Excelsior,Venlo,0,1
-22.08.2003,2003,Graafschap,Sittard,1,1
-22.08.2003,2003,Heracles,Apeldoorn,2,4
-22.08.2003,2003,Maastricht,Haarlem,1,1
-22.08.2003,2003,Oss,Telstar,3,0
-22.08.2003,2003,Veendam,Helmond,0,3
-17.08.2003,2003,Haarlem,Den Bosch,1,3
-16.08.2003,2003,Sparta Rotterdam,Graafschap,6,1
-15.08.2003,2003,Apeldoorn,Oss,1,2
-15.08.2003,2003,Dordrecht,Eindhoven FC,1,1
-15.08.2003,2003,FC Emmen,Excelsior,0,0
-15.08.2003,2003,Helmond,Cambuur,2,0
-15.08.2003,2003,Sittard,Veendam,2,2
-15.08.2003,2003,Telstar,Maastricht,3,1
-15.08.2003,2003,Venlo,Heracles,1,1
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+16.05.2004,2003,AZ Alkmaar,PSV,2,4,2.82,3.16,2.22
+16.05.2004,2003,Breda,Waalwijk,5,3,1.92,3.24,3.44
+16.05.2004,2003,Den Haag,Nijmegen,4,1,2.08,3.23,3.04
+16.05.2004,2003,FC Volendam,Roosendaal,2,1,1.63,3.60,4.07
+16.05.2004,2003,Feyenoord,Zwolle,7,1,1.49,3.12,6.11
+16.05.2004,2003,Groningen,Roda,2,2,2.47,3.23,2.45
+16.05.2004,2003,Twente,Heerenveen,2,0,2.33,3.14,2.67
+16.05.2004,2003,Vitesse,Utrecht,3,0,1.59,3.66,4.29
+16.05.2004,2003,Willem II,Ajax,2,5,3.14,3.21,2.04
+09.05.2004,2003,Ajax,Breda,2,0,1.22,4.99,9.52
+09.05.2004,2003,Heerenveen,AZ Alkmaar,1,0,1.96,3.14,3.44
+09.05.2004,2003,Nijmegen,FC Volendam,1,1,2.08,3.38,2.70
+09.05.2004,2003,PSV,Den Haag,3,2,1.27,4.16,8.57
+09.05.2004,2003,Roda,Vitesse,2,0,1.83,3.47,3.14
+09.05.2004,2003,Roosendaal,Feyenoord,1,4,3.77,3.29,1.83
+09.05.2004,2003,Utrecht,Groningen,2,0,1.75,3.32,4.11
+09.05.2004,2003,Waalwijk,Twente,3,3,2.07,3.19,3.12
+09.05.2004,2003,Zwolle,Willem II,0,0,1.85,3.45,3.25
+02.05.2004,2003,FC Volendam,PSV,0,5,6.66,4.11,1.38
+02.05.2004,2003,Feyenoord,Groningen,1,2,1.15,5.85,10.05
+02.05.2004,2003,Vitesse,Nijmegen,2,2,1.89,3.20,3.60
+02.05.2004,2003,Waalwijk,Utrecht,1,0,2.21,3.16,2.83
+02.05.2004,2003,Zwolle,Ajax,0,5,4.85,3.45,1.60
+01.05.2004,2003,AZ Alkmaar,Breda,2,2,1.53,3.59,5.30
+01.05.2004,2003,Den Haag,Heerenveen,1,0,2.30,3.22,2.58
+01.05.2004,2003,Twente,Roda,1,2,2.11,3.15,3.02
+01.05.2004,2003,Willem II,Roosendaal,3,0,1.80,3.32,3.74
+25.04.2004,2003,Breda,Den Haag,1,0,1.98,3.21,3.22
+25.04.2004,2003,Feyenoord,FC Volendam,2,0,1.15,6.09,10.23
+25.04.2004,2003,Groningen,Zwolle,2,2,2.03,3.21,3.10
+25.04.2004,2003,Nijmegen,Ajax,0,0,4.61,3.42,1.64
+24.04.2004,2003,AZ Alkmaar,Waalwijk,7,0,1.59,3.54,4.82
+24.04.2004,2003,Heerenveen,Vitesse,0,0,1.59,3.58,4.53
+24.04.2004,2003,Roosendaal,PSV,0,3,5.23,3.69,1.52
+24.04.2004,2003,Twente,Willem II,2,0,2.05,3.20,3.11
+23.04.2004,2003,Roda,Utrecht,1,1,1.77,3.31,3.98
+18.04.2004,2003,Ajax,Roosendaal,1,1,1.16,5.78,9.91
+18.04.2004,2003,FC Volendam,Breda,4,2,2.46,3.27,2.45
+18.04.2004,2003,Groningen,AZ Alkmaar,1,1,2.72,3.21,2.27
+18.04.2004,2003,Utrecht,Feyenoord,0,3,3.48,3.30,1.90
+17.04.2004,2003,Den Haag,Twente,1,0,2.22,3.18,2.82
+17.04.2004,2003,PSV,Nijmegen,3,0,1.20,5.28,9.74
+17.04.2004,2003,Waalwijk,Roda,1,1,2.39,3.18,2.59
+17.04.2004,2003,Zwolle,Heerenveen,1,0,3.19,3.25,2.02
+16.04.2004,2003,Willem II,Vitesse,1,1,1.72,3.48,3.93
+11.04.2004,2003,Feyenoord,Ajax,1,1,2.44,3.11,2.59
+11.04.2004,2003,PSV,Groningen,5,0,1.17,5.61,9.93
+11.04.2004,2003,Roosendaal,Twente,1,2,2.05,3.21,3.14
+11.04.2004,2003,Vitesse,Breda,2,2,2.24,3.23,2.75
+10.04.2004,2003,Den Haag,Waalwijk,1,3,2.09,3.19,3.07
+10.04.2004,2003,FC Volendam,Willem II,0,1,2.65,3.21,2.34
+10.04.2004,2003,Heerenveen,Utrecht,4,0,1.66,3.41,4.50
+10.04.2004,2003,Zwolle,AZ Alkmaar,2,0,3.42,3.31,1.90
+09.04.2004,2003,Roda,Nijmegen,4,0,1.70,3.39,4.25
+04.04.2004,2003,Ajax,Groningen,2,1,1.16,5.84,10.05
+04.04.2004,2003,Breda,Feyenoord,0,3,3.21,3.21,2.02
+04.04.2004,2003,Utrecht,Den Haag,5,3,1.65,3.43,4.52
+03.04.2004,2003,AZ Alkmaar,Vitesse,2,1,1.46,3.73,6.04
+03.04.2004,2003,Roda,Heerenveen,0,1,2.21,3.18,2.85
+03.04.2004,2003,Roosendaal,Zwolle,1,1,1.62,3.49,4.63
+03.04.2004,2003,Twente,FC Volendam,1,2,1.38,4.00,6.75
+03.04.2004,2003,Waalwijk,PSV,0,4,3.73,3.35,1.82
+02.04.2004,2003,Nijmegen,Willem II,4,0,2.26,3.18,2.77
+28.03.2004,2003,AZ Alkmaar,Ajax,1,1,3.41,3.27,1.92
+28.03.2004,2003,FC Volendam,Utrecht,1,2,2.74,3.19,2.27
+28.03.2004,2003,Feyenoord,Roda,3,0,1.50,3.66,5.66
+28.03.2004,2003,Groningen,Twente,1,0,2.37,3.15,2.63
+28.03.2004,2003,Willem II,PSV,3,1,3.49,3.26,1.90
+27.03.2004,2003,Breda,Nijmegen,5,2,1.81,3.33,3.79
+27.03.2004,2003,Heerenveen,Roosendaal,1,0,1.61,3.49,4.75
+27.03.2004,2003,Vitesse,Waalwijk,3,3,2.34,3.14,2.68
+26.03.2004,2003,Den Haag,Zwolle,1,1,1.71,3.30,4.35
+21.03.2004,2003,Ajax,Vitesse,5,0,1.17,5.77,9.89
+21.03.2004,2003,Feyenoord,Waalwijk,1,0,1.33,4.36,7.53
+21.03.2004,2003,Roosendaal,Den Haag,0,0,1.76,3.34,4.01
+21.03.2004,2003,Utrecht,Twente,2,0,2.16,3.18,2.93
+20.03.2004,2003,Nijmegen,AZ Alkmaar,0,2,2.63,3.18,2.35
+20.03.2004,2003,PSV,Breda,1,1,1.32,4.40,7.63
+20.03.2004,2003,Roda,Willem II,6,1,1.93,3.20,3.48
+20.03.2004,2003,Zwolle,FC Volendam,3,0,2.06,3.22,3.08
+19.03.2004,2003,Groningen,Heerenveen,0,0,2.84,3.17,2.23
+14.03.2004,2003,Ajax,Roda,4,2,1.30,4.52,8.10
+14.03.2004,2003,AZ Alkmaar,Utrecht,1,2,1.61,3.47,4.82
+14.03.2004,2003,PSV,Feyenoord,0,1,1.69,3.32,4.52
+14.03.2004,2003,Vitesse,Den Haag,1,0,2.16,3.20,2.94
+14.03.2004,2003,Waalwijk,Willem II,1,1,2.12,3.16,3.03
+13.03.2004,2003,Breda,Zwolle,3,1,1.41,3.95,6.55
+13.03.2004,2003,Heerenveen,FC Volendam,2,1,1.27,4.70,8.68
+13.03.2004,2003,Roosendaal,Groningen,1,0,1.85,3.25,3.69
+12.03.2004,2003,Twente,Nijmegen,2,5,1.61,3.53,4.72
+07.03.2004,2003,FC Volendam,Vitesse,0,0,2.36,3.18,2.62
+07.03.2004,2003,Feyenoord,Heerenveen,2,2,1.59,3.53,4.88
+07.03.2004,2003,Utrecht,PSV,0,4,3.86,3.36,1.78
+06.03.2004,2003,Den Haag,AZ Alkmaar,2,3,2.78,3.19,2.24
+06.03.2004,2003,Nijmegen,Roosendaal,1,2,2.09,3.20,3.06
+06.03.2004,2003,Roda,Zwolle,1,1,1.30,4.46,7.84
+06.03.2004,2003,Waalwijk,Ajax,0,1,4.26,3.44,1.69
+06.03.2004,2003,Willem II,Groningen,2,0,1.66,3.43,4.42
+05.03.2004,2003,Breda,Twente,0,1,2.08,3.19,3.09
+29.02.2004,2003,FC Volendam,Den Haag,0,2,2.26,3.20,2.75
+29.02.2004,2003,Groningen,Waalwijk,1,2,2.16,3.20,2.92
+29.02.2004,2003,PSV,Roda,1,2,1.31,4.44,7.69
+29.02.2004,2003,Utrecht,Ajax,1,0,4.58,3.44,1.65
+29.02.2004,2003,Willem II,Feyenoord,0,3,2.62,3.15,2.38
+28.02.2004,2003,Nijmegen,Heerenveen,1,2,2.42,3.20,2.53
+28.02.2004,2003,Roosendaal,Breda,1,1,2.28,3.19,2.71
+28.02.2004,2003,Twente,AZ Alkmaar,4,1,2.19,3.22,2.85
+27.02.2004,2003,Zwolle,Vitesse,1,1,2.37,3.20,2.59
+25.02.2004,2003,Breda,Groningen,1,1,1.70,3.43,4.21
+25.02.2004,2003,Den Haag,Roda,1,0,2.77,3.22,2.24
+25.02.2004,2003,Heerenveen,Ajax,4,1,4.10,3.43,1.72
+22.02.2004,2003,Ajax,Twente,1,0,1.23,5.08,9.20
+22.02.2004,2003,Utrecht,Breda,1,2,2.05,3.23,3.08
+21.02.2004,2003,AZ Alkmaar,Roosendaal,2,1,1.63,3.51,4.51
+21.02.2004,2003,Heerenveen,PSV,3,2,3.75,3.35,1.81
+21.02.2004,2003,Vitesse,Groningen,1,2,2.01,3.21,3.23
+21.02.2004,2003,Zwolle,Nijmegen,2,1,2.95,3.26,2.11
+20.02.2004,2003,Roda,FC Volendam,1,0,1.36,4.14,7.01
+15.02.2004,2003,Den Haag,Feyenoord,2,2,4.74,3.52,1.61
+15.02.2004,2003,FC Volendam,Ajax,0,2,7.75,4.44,1.31
+15.02.2004,2003,Nijmegen,Utrecht,4,0,2.23,3.17,2.81
+15.02.2004,2003,Waalwijk,Zwolle,2,0,1.41,3.87,6.48
+14.02.2004,2003,Breda,Roda,0,0,2.25,3.18,2.76
+14.02.2004,2003,Heerenveen,Willem II,1,1,1.87,3.25,3.60
+14.02.2004,2003,PSV,Twente,1,0,1.24,4.96,9.23
+14.02.2004,2003,Vitesse,Roosendaal,1,2,2.27,3.19,2.75
+11.02.2004,2003,Roosendaal,Roda,1,4,2.38,3.17,2.59
+11.02.2004,2003,Utrecht,Willem II,2,2,1.94,3.23,3.39
+11.02.2004,2003,Waalwijk,Heerenveen,0,0,2.39,3.14,2.60
+11.02.2004,2003,Feyenoord,AZ Alkmaar,0,3,1.46,3.68,6.00
+11.02.2004,2003,Den Haag,Groningen,3,1,2.27,3.18,2.72
+08.02.2004,2003,Ajax,PSV,2,1,2.17,3.05,3.04
+08.02.2004,2003,Groningen,Nijmegen,2,0,2.33,3.16,2.69
+08.02.2004,2003,Vitesse,Feyenoord,0,0,3.82,3.39,1.78
+08.02.2004,2003,Willem II,Den Haag,1,0,1.56,3.63,5.01
+07.02.2004,2003,AZ Alkmaar,FC Volendam,3,0,1.40,4.11,6.26
+07.02.2004,2003,Heerenveen,Breda,3,4,1.68,3.45,4.32
+07.02.2004,2003,Twente,Zwolle,2,0,1.30,4.61,7.56
+06.02.2004,2003,Roosendaal,Waalwijk,1,3,1.92,3.28,3.43
+01.02.2004,2003,Ajax,Den Haag,4,0,1.13,6.92,9.99
+01.02.2004,2003,Feyenoord,Twente,3,2,1.44,4.00,5.83
+01.02.2004,2003,Groningen,FC Volendam,0,1,1.58,3.62,4.72
+01.02.2004,2003,Willem II,Breda,1,1,1.84,3.26,3.71
+01.02.2004,2003,Zwolle,Utrecht,1,1,3.37,3.24,1.96
+31.01.2004,2003,PSV,Vitesse,3,0,1.20,5.72,9.38
+31.01.2004,2003,Roda,AZ Alkmaar,3,1,2.23,3.07,2.93
+31.01.2004,2003,Waalwijk,Nijmegen,1,2,2.07,3.19,3.13
+28.01.2004,2003,AZ Alkmaar,Willem II,0,0,1.77,3.34,3.92
+28.01.2004,2003,FC Volendam,Waalwijk,0,4,2.58,3.05,2.50
+28.01.2004,2003,Nijmegen,Feyenoord,1,2,3.30,3.13,2.02
+28.01.2004,2003,PSV,Zwolle,5,1,1.11,7.04,11.20
+28.01.2004,2003,Twente,Vitesse,0,0,1.61,3.55,4.70
+28.01.2004,2003,Utrecht,Roosendaal,0,1,1.75,3.35,4.06
+25.01.2004,2003,Ajax,Nijmegen,1,0,1.22,5.34,9.14
+25.01.2004,2003,Feyenoord,Utrecht,3,2,1.45,3.94,5.81
+25.01.2004,2003,Groningen,PSV,0,2,5.28,3.64,1.53
+24.01.2004,2003,Breda,FC Volendam,3,2,1.49,3.78,5.57
+24.01.2004,2003,Roda,Waalwijk,2,1,1.73,3.37,4.12
+24.01.2004,2003,Vitesse,Heerenveen,0,1,2.60,3.05,2.48
+24.01.2004,2003,Willem II,Twente,2,3,1.86,3.27,3.64
+24.01.2004,2003,Zwolle,Roosendaal,0,3,2.69,3.07,2.39
+23.01.2004,2003,AZ Alkmaar,Den Haag,0,1,1.40,4.20,6.12
+21.01.2004,2003,Roda,Ajax,1,2,3.80,3.33,1.79
+21.12.2003,2003,Groningen,Willem II,1,2,2.26,3.09,2.84
+21.12.2003,2003,Twente,Ajax,2,0,4.24,3.41,1.69
+21.12.2003,2003,Utrecht,FC Volendam,3,0,1.39,4.20,6.42
+21.12.2003,2003,Waalwijk,Feyenoord,0,0,3.17,3.19,2.04
+20.12.2003,2003,Breda,Roosendaal,3,2,1.96,3.25,3.33
+20.12.2003,2003,Heerenveen,Roda,2,1,1.94,3.25,3.42
+20.12.2003,2003,Nijmegen,Zwolle,1,0,1.49,3.76,5.63
+20.12.2003,2003,Vitesse,PSV,0,0,5.39,3.72,1.52
+14.12.2003,2003,Ajax,Utrecht,1,0,1.26,5.05,7.99
+14.12.2003,2003,FC Volendam,AZ Alkmaar,0,6,3.12,3.11,2.10
+14.12.2003,2003,Nijmegen,Vitesse,2,0,2.03,3.19,3.18
+14.12.2003,2003,Zwolle,Groningen,1,1,2.72,3.12,2.31
+13.12.2003,2003,Den Haag,Willem II,0,1,2.72,3.07,2.36
+13.12.2003,2003,PSV,Waalwijk,3,1,1.22,5.32,9.18
+13.12.2003,2003,Roosendaal,Heerenveen,1,1,2.43,3.07,2.64
+13.12.2003,2003,Twente,Feyenoord,4,2,3.05,3.13,2.13
+12.12.2003,2003,Roda,Breda,2,2,1.72,3.39,4.15
+07.12.2003,2003,Breda,Heerenveen,2,3,2.20,3.11,2.93
+07.12.2003,2003,Feyenoord,Den Haag,4,1,1.22,5.36,9.14
+07.12.2003,2003,Roosendaal,AZ Alkmaar,1,0,2.61,3.05,2.47
+07.12.2003,2003,Vitesse,Zwolle,5,2,1.72,3.39,4.12
+06.12.2003,2003,Nijmegen,Waalwijk,1,1,2.04,3.20,3.21
+06.12.2003,2003,PSV,FC Volendam,7,0,1.18,5.98,10.02
+06.12.2003,2003,Willem II,Utrecht,0,2,1.80,3.36,3.80
+03.12.2003,2003,AZ Alkmaar,Groningen,2,1,1.56,3.62,4.98
+03.12.2003,2003,FC Volendam,Twente,2,0,2.72,3.08,2.36
+03.12.2003,2003,Heerenveen,Den Haag,2,0,1.49,3.72,5.59
+30.11.2003,2003,Ajax,Feyenoord,2,0,1.60,3.58,4.73
+30.11.2003,2003,Utrecht,Roda,3,1,2.56,3.17,2.44
+30.11.2003,2003,Waalwijk,AZ Alkmaar,1,1,2.49,3.13,2.53
+29.11.2003,2003,Den Haag,Vitesse,1,1,2.29,3.15,2.76
+29.11.2003,2003,Twente,Breda,2,1,1.92,3.24,3.46
+29.11.2003,2003,Willem II,Nijmegen,3,0,1.77,3.39,3.88
+29.11.2003,2003,Zwolle,PSV,0,4,6.76,4.67,1.33
+28.11.2003,2003,Groningen,Roosendaal,2,0,2.00,3.20,3.28
+23.11.2003,2003,Ajax,Heerenveen,3,1,1.30,4.71,7.44
+23.11.2003,2003,Roosendaal,Utrecht,1,1,2.22,3.10,2.92
+23.11.2003,2003,Twente,Den Haag,4,0,1.65,3.52,4.45
+22.11.2003,2003,AZ Alkmaar,Roda,1,5,1.88,3.28,3.59
+22.11.2003,2003,Feyenoord,Vitesse,3,0,1.33,4.55,7.04
+22.11.2003,2003,Nijmegen,PSV,2,3,5.07,3.60,1.56
+22.11.2003,2003,Willem II,FC Volendam,6,0,1.54,3.66,5.18
+22.11.2003,2003,Zwolle,Breda,0,2,2.68,3.05,2.40
+21.11.2003,2003,Waalwijk,Groningen,1,1,1.84,3.31,3.70
+09.11.2003,2003,Den Haag,Ajax,1,4,5.91,3.94,1.44
+09.11.2003,2003,FC Volendam,Feyenoord,1,3,4.32,3.48,1.66
+09.11.2003,2003,Nijmegen,Groningen,2,3,1.83,3.29,3.72
+09.11.2003,2003,Utrecht,Waalwijk,1,0,2.10,3.17,3.07
+08.11.2003,2003,Breda,AZ Alkmaar,1,2,2.52,3.13,2.48
+08.11.2003,2003,Heerenveen,Zwolle,1,1,1.34,4.47,6.88
+08.11.2003,2003,PSV,Roosendaal,1,1,1.20,5.66,9.68
+08.11.2003,2003,Roda,Twente,2,1,1.78,3.34,3.91
+07.11.2003,2003,Vitesse,Willem II,2,2,2.32,3.11,2.74
+02.11.2003,2003,Groningen,Feyenoord,3,3,3.75,3.33,1.82
+02.11.2003,2003,Utrecht,Heerenveen,2,1,2.55,3.07,2.52
+02.11.2003,2003,Willem II,Waalwijk,4,1,2.13,3.14,3.06
+02.11.2003,2003,Zwolle,Twente,1,0,3.09,3.15,2.11
+01.11.2003,2003,Ajax,AZ Alkmaar,3,2,1.35,4.48,6.68
+01.11.2003,2003,Breda,PSV,1,3,4.14,3.39,1.72
+01.11.2003,2003,Roosendaal,Nijmegen,1,0,2.29,3.08,2.81
+01.11.2003,2003,Vitesse,FC Volendam,2,2,1.63,3.49,4.72
+31.10.2003,2003,Roda,Den Haag,5,1,1.63,3.52,4.55
+26.10.2003,2003,Feyenoord,Willem II,2,1,1.35,4.44,6.78
+26.10.2003,2003,PSV,Ajax,2,2,2.24,3.06,2.92
+26.10.2003,2003,Twente,Utrecht,2,2,1.83,3.32,3.72
+25.10.2003,2003,AZ Alkmaar,Zwolle,4,0,1.31,4.63,7.28
+25.10.2003,2003,Den Haag,Breda,1,1,2.38,3.07,2.71
+25.10.2003,2003,Groningen,Vitesse,2,1,2.11,3.11,3.12
+25.10.2003,2003,Heerenveen,Nijmegen,1,2,1.57,3.60,4.98
+25.10.2003,2003,Waalwijk,Roosendaal,1,2,1.67,3.39,4.52
+24.10.2003,2003,FC Volendam,Roda,2,1,3.11,3.19,2.07
+19.10.2003,2003,Nijmegen,Breda,0,3,2.01,3.22,3.27
+19.10.2003,2003,Roda,Feyenoord,1,1,2.84,3.02,2.31
+19.10.2003,2003,Twente,Groningen,5,3,1.76,3.33,4.04
+19.10.2003,2003,Utrecht,AZ Alkmaar,0,3,2.45,3.05,2.62
+19.10.2003,2003,Zwolle,Den Haag,1,2,2.19,3.12,2.93
+18.10.2003,2003,PSV,Heerenveen,2,0,1.38,4.26,6.46
+18.10.2003,2003,Roosendaal,Willem II,0,0,2.39,3.07,2.69
+18.10.2003,2003,Waalwijk,Vitesse,2,2,1.71,3.39,4.22
+17.10.2003,2003,Ajax,FC Volendam,5,1,1.12,6.90,9.99
+05.10.2003,2003,FC Volendam,Zwolle,2,2,1.99,3.23,3.27
+05.10.2003,2003,Feyenoord,Roosendaal,2,0,1.30,4.69,7.48
+05.10.2003,2003,Groningen,Ajax,1,3,4.97,3.58,1.57
+04.10.2003,2003,AZ Alkmaar,Nijmegen,2,0,1.89,3.28,3.56
+04.10.2003,2003,Breda,Utrecht,1,2,1.81,3.27,3.87
+04.10.2003,2003,Den Haag,PSV,0,4,5.34,3.79,1.51
+04.10.2003,2003,Heerenveen,Waalwijk,1,0,1.81,3.33,3.79
+04.10.2003,2003,Willem II,Roda,0,2,2.18,3.11,2.97
+03.10.2003,2003,Vitesse,Twente,3,5,2.07,3.16,3.11
+28.09.2003,2003,Ajax,Willem II,6,0,1.27,4.88,8.02
+28.09.2003,2003,Nijmegen,Den Haag,1,2,1.60,3.59,4.69
+28.09.2003,2003,Roda,Groningen,0,0,1.61,3.53,4.80
+28.09.2003,2003,Utrecht,Vitesse,1,3,1.87,3.26,3.62
+28.09.2003,2003,Waalwijk,Breda,2,0,2.05,3.15,3.20
+28.09.2003,2003,Zwolle,Feyenoord,0,3,4.45,3.53,1.64
+27.09.2003,2003,Heerenveen,Twente,3,0,1.69,3.39,4.33
+27.09.2003,2003,PSV,AZ Alkmaar,0,1,1.29,4.73,7.68
+27.09.2003,2003,Roosendaal,FC Volendam,1,1,1.74,3.35,4.11
+21.09.2003,2003,Breda,Ajax,4,2,4.12,3.37,1.74
+21.09.2003,2003,Feyenoord,PSV,1,3,2.49,3.05,2.59
+21.09.2003,2003,Groningen,Utrecht,1,1,2.28,3.09,2.81
+20.09.2003,2003,AZ Alkmaar,Heerenveen,3,1,2.33,3.11,2.73
+20.09.2003,2003,Den Haag,Roosendaal,1,2,2.11,3.15,3.09
+20.09.2003,2003,Twente,Waalwijk,2,1,2.29,3.09,2.80
+20.09.2003,2003,Vitesse,Roda,1,1,2.48,3.15,2.52
+20.09.2003,2003,Willem II,Zwolle,2,1,1.48,3.79,5.64
+19.09.2003,2003,FC Volendam,Nijmegen,2,3,2.75,3.09,2.33
+14.09.2003,2003,AZ Alkmaar,Feyenoord,2,2,2.96,3.08,2.21
+14.09.2003,2003,Breda,Willem II,1,1,1.88,3.29,3.60
+14.09.2003,2003,Nijmegen,Twente,2,1,1.85,3.33,3.66
+13.09.2003,2003,Ajax,Waalwijk,4,1,1.32,4.51,7.26
+13.09.2003,2003,Heerenveen,Groningen,1,0,1.51,3.67,5.45
+13.09.2003,2003,PSV,Utrecht,2,1,1.24,5.19,8.68
+13.09.2003,2003,Roosendaal,Vitesse,1,1,2.17,3.13,2.99
+13.09.2003,2003,Zwolle,Roda,0,0,3.05,3.09,2.15
+12.09.2003,2003,Den Haag,FC Volendam,1,1,1.78,3.34,3.90
+31.08.2003,2003,Ajax,Zwolle,1,0,1.14,6.42,11.11
+31.08.2003,2003,Feyenoord,Breda,2,1,1.42,3.97,6.38
+31.08.2003,2003,Groningen,Den Haag,2,0,1.96,3.23,3.34
+31.08.2003,2003,Utrecht,Nijmegen,0,1,2.04,3.19,3.15
+31.08.2003,2003,Waalwijk,FC Volendam,3,0,1.55,3.61,5.22
+30.08.2003,2003,Roda,Roosendaal,0,2,1.46,3.91,5.72
+30.08.2003,2003,Twente,PSV,0,2,4.35,3.46,1.68
+29.08.2003,2003,Vitesse,AZ Alkmaar,1,2,2.08,3.17,3.12
+29.08.2003,2003,Willem II,Heerenveen,2,0,2.54,3.05,2.54
+24.08.2003,2003,FC Volendam,Groningen,3,0,2.42,3.09,2.64
+24.08.2003,2003,Nijmegen,Roda,1,3,2.22,3.11,2.92
+24.08.2003,2003,Zwolle,Waalwijk,0,3,2.56,3.07,2.48
+23.08.2003,2003,Breda,Vitesse,2,0,1.85,3.28,3.66
+23.08.2003,2003,Den Haag,Utrecht,1,1,2.47,3.09,2.58
+23.08.2003,2003,Heerenveen,Feyenoord,1,0,2.76,3.01,2.37
+23.08.2003,2003,PSV,Willem II,6,1,1.26,4.95,7.99
+23.08.2003,2003,Roosendaal,Ajax,0,1,5.90,3.95,1.43
+22.08.2003,2003,AZ Alkmaar,Twente,3,0,2.00,3.20,3.28
+17.08.2003,2003,FC Volendam,Heerenveen,0,1,3.21,3.17,2.05
+17.08.2003,2003,Feyenoord,Nijmegen,2,1,1.38,4.17,6.64
+17.08.2003,2003,Groningen,Breda,1,0,2.50,3.08,2.53
+17.08.2003,2003,Utrecht,Zwolle,1,0,1.61,3.54,4.77
+17.08.2003,2003,Vitesse,Ajax,1,2,4.07,3.31,1.75
+16.08.2003,2003,Twente,Roosendaal,3,1,1.74,3.38,4.07
+16.08.2003,2003,Waalwijk,Den Haag,1,0,1.63,3.50,4.67
+16.08.2003,2003,Willem II,AZ Alkmaar,1,0,1.97,3.21,3.39
+15.08.2003,2003,Roda,PSV,2,2,3.39,3.25,1.95

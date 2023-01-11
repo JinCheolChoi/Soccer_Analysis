@@ -1,553 +1,554 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-08.05.1999,1998,Brighton,Rochdale,1,1
-08.05.1999,1998,Cambridge Utd,Brentford,0,1
-08.05.1999,1998,Carlisle,Plymouth,2,1
-08.05.1999,1998,Chester,Rotherham,1,1
-08.05.1999,1998,Exeter,FC Halifax,2,1
-08.05.1999,1998,Leyton Orient,Barnet,2,2
-08.05.1999,1998,Mansfield,Cardiff,3,0
-08.05.1999,1998,Scarborough FC,Peterborough,1,1
-08.05.1999,1998,Scunthorpe,Darlington,0,1
-08.05.1999,1998,Southend,Hartlepool,1,1
-08.05.1999,1998,Swansea,Hull,2,0
-08.05.1999,1998,Torquay,Shrewsbury,0,3
-06.05.1999,1998,Swansea,Cambridge Utd,2,0
-05.05.1999,1998,Scarborough FC,Plymouth,3,0
-04.05.1999,1998,Brentford,Swansea,4,1
-04.05.1999,1998,Darlington,Exeter,4,0
-01.05.1999,1998,Barnet,Southend,0,2
-01.05.1999,1998,Brentford,Exeter,3,0
-01.05.1999,1998,Cardiff,Scunthorpe,0,0
-01.05.1999,1998,Darlington,Chester,1,2
-01.05.1999,1998,FC Halifax,Scarborough FC,1,2
-01.05.1999,1998,Hartlepool,Carlisle,0,0
-01.05.1999,1998,Hull,Torquay,1,0
-01.05.1999,1998,Peterborough,Leyton Orient,3,0
-01.05.1999,1998,Plymouth,Cambridge Utd,2,2
-01.05.1999,1998,Rochdale,Swansea,0,3
-01.05.1999,1998,Rotherham,Brighton,2,1
-01.05.1999,1998,Shrewsbury,Mansfield,1,0
-27.04.1999,1998,FC Halifax,Scunthorpe,1,0
-27.04.1999,1998,Hartlepool,Leyton Orient,1,0
-27.04.1999,1998,Mansfield,Exeter,0,1
-27.04.1999,1998,Darlington,Brentford,2,2
-27.04.1999,1998,Rotherham,Barnet,1,1
-27.04.1999,1998,Rochdale,Cambridge Utd,0,2
-24.04.1999,1998,Brighton,Hull,0,0
-24.04.1999,1998,Cambridge Utd,Peterborough,1,1
-24.04.1999,1998,Carlisle,Darlington,3,3
-24.04.1999,1998,Chester,FC Halifax,2,2
-24.04.1999,1998,Exeter,Rochdale,2,1
-24.04.1999,1998,Leyton Orient,Shrewsbury,6,1
-24.04.1999,1998,Mansfield,Hartlepool,2,0
-24.04.1999,1998,Scarborough FC,Cardiff,1,2
-24.04.1999,1998,Scunthorpe,Barnet,3,1
-24.04.1999,1998,Southend,Brentford,1,4
-24.04.1999,1998,Swansea,Plymouth,2,3
-24.04.1999,1998,Torquay,Rotherham,2,0
-21.04.1999,1998,Scarborough FC,Leyton Orient,1,3
-20.04.1999,1998,Shrewsbury,Rotherham,2,3
-18.04.1999,1998,Cardiff,Swansea,0,0
-17.04.1999,1998,Barnet,Mansfield,0,0
-17.04.1999,1998,Brentford,Leyton Orient,0,0
-17.04.1999,1998,Darlington,Cambridge Utd,0,0
-17.04.1999,1998,FC Halifax,Brighton,1,0
-17.04.1999,1998,Hartlepool,Scarborough FC,3,0
-17.04.1999,1998,Hull,Scunthorpe,2,3
-17.04.1999,1998,Peterborough,Torquay,4,0
-17.04.1999,1998,Plymouth,Southend,0,3
-17.04.1999,1998,Rochdale,Chester,3,1
-17.04.1999,1998,Rotherham,Carlisle,3,1
-17.04.1999,1998,Shrewsbury,Exeter,1,1
-14.04.1999,1998,Scarborough FC,Darlington,0,2
-13.04.1999,1998,Brighton,Shrewsbury,1,0
-13.04.1999,1998,Cambridge Utd,Rochdale,1,1
-13.04.1999,1998,Carlisle,Hull,0,0
-13.04.1999,1998,Chester,Brentford,1,3
-13.04.1999,1998,Exeter,Rotherham,3,0
-13.04.1999,1998,Leyton Orient,Plymouth,4,3
-13.04.1999,1998,Mansfield,FC Halifax,0,1
-13.04.1999,1998,Scunthorpe,Peterborough,1,1
-13.04.1999,1998,Southend,Cardiff,0,1
-13.04.1999,1998,Swansea,Hartlepool,1,0
-13.04.1999,1998,Torquay,Barnet,1,1
-10.04.1999,1998,Barnet,Scarborough FC,1,0
-10.04.1999,1998,Cambridge Utd,FC Halifax,4,0
-10.04.1999,1998,Carlisle,Peterborough,1,1
-10.04.1999,1998,Darlington,Torquay,0,2
-10.04.1999,1998,Hartlepool,Chester,2,0
-10.04.1999,1998,Hull,Exeter,2,1
-10.04.1999,1998,Leyton Orient,Cardiff,1,1
-10.04.1999,1998,Mansfield,Southend,0,0
-10.04.1999,1998,Plymouth,Brighton,1,2
-10.04.1999,1998,Rochdale,Rotherham,0,0
-10.04.1999,1998,Scunthorpe,Brentford,0,0
-09.04.1999,1998,Swansea,Shrewsbury,1,1
-06.04.1999,1998,Brighton,Cambridge Utd,1,3
-06.04.1999,1998,Shrewsbury,Hartlepool,0,1
-05.04.1999,1998,Brentford,Plymouth,3,1
-05.04.1999,1998,Cardiff,Hull,1,1
-05.04.1999,1998,Chester,Barnet,3,0
-05.04.1999,1998,Exeter,Leyton Orient,1,1
-05.04.1999,1998,FC Halifax,Rochdale,0,0
-05.04.1999,1998,Peterborough,Darlington,0,1
-05.04.1999,1998,Rotherham,Swansea,1,0
-05.04.1999,1998,Scarborough FC,Carlisle,3,0
-05.04.1999,1998,Southend,Scunthorpe,0,1
-05.04.1999,1998,Torquay,Mansfield,0,0
-03.04.1999,1998,Barnet,FC Halifax,2,2
-03.04.1999,1998,Cambridge Utd,Cardiff,0,0
-03.04.1999,1998,Carlisle,Torquay,3,0
-03.04.1999,1998,Darlington,Rotherham,1,2
-03.04.1999,1998,Hartlepool,Brentford,0,1
-03.04.1999,1998,Hull,Scarborough FC,1,1
-03.04.1999,1998,Leyton Orient,Southend,0,3
-03.04.1999,1998,Mansfield,Brighton,2,0
-03.04.1999,1998,Plymouth,Shrewsbury,2,0
-03.04.1999,1998,Rochdale,Peterborough,0,3
-03.04.1999,1998,Scunthorpe,Exeter,2,0
-03.04.1999,1998,Swansea,Chester,1,1
-30.03.1999,1998,Rochdale,Southend,1,0
-30.03.1999,1998,Plymouth,Scunthorpe,5,0
-28.03.1999,1998,Peterborough,Mansfield,1,0
-27.03.1999,1998,Brighton,Barnet,0,1
-27.03.1999,1998,Cardiff,Carlisle,2,1
-27.03.1999,1998,Chester,Plymouth,3,2
-27.03.1999,1998,Rotherham,Scunthorpe,0,0
-27.03.1999,1998,Torquay,Hartlepool,3,0
-26.03.1999,1998,Exeter,Darlington,0,0
-26.03.1999,1998,FC Halifax,Leyton Orient,1,2
-26.03.1999,1998,Scarborough FC,Rochdale,1,0
-26.03.1999,1998,Shrewsbury,Cambridge Utd,1,1
-26.03.1999,1998,Southend,Hull,0,1
-23.03.1999,1998,Scunthorpe,Swansea,1,2
-23.03.1999,1998,Darlington,Carlisle,1,1
-20.03.1999,1998,Cambridge Utd,Mansfield,7,2
-20.03.1999,1998,Carlisle,Brentford,0,1
-20.03.1999,1998,Darlington,Southend,2,1
-20.03.1999,1998,Exeter,Cardiff,0,2
-20.03.1999,1998,Hartlepool,Brighton,0,0
-20.03.1999,1998,Hull,Plymouth,1,0
-20.03.1999,1998,Rochdale,Barnet,0,0
-20.03.1999,1998,Rotherham,Peterborough,2,2
-20.03.1999,1998,Scunthorpe,Leyton Orient,2,0
-20.03.1999,1998,Shrewsbury,Chester,2,0
-20.03.1999,1998,Swansea,FC Halifax,1,2
-20.03.1999,1998,Torquay,Scarborough FC,0,1
-16.03.1999,1998,Brentford,FC Halifax,1,1
-16.03.1999,1998,Rotherham,Cardiff,1,0
-13.03.1999,1998,Barnet,Cambridge Utd,3,0
-13.03.1999,1998,Brentford,Shrewsbury,0,0
-13.03.1999,1998,Brighton,Darlington,0,4
-13.03.1999,1998,Cardiff,Torquay,2,2
-13.03.1999,1998,Chester,Scunthorpe,0,2
-13.03.1999,1998,FC Halifax,Carlisle,1,0
-13.03.1999,1998,Leyton Orient,Hull,1,2
-13.03.1999,1998,Mansfield,Rochdale,3,1
-13.03.1999,1998,Peterborough,Swansea,0,1
-13.03.1999,1998,Plymouth,Hartlepool,0,0
-13.03.1999,1998,Scarborough FC,Rotherham,0,4
-13.03.1999,1998,Southend,Exeter,0,0
-09.03.1999,1998,Barnet,Carlisle,1,0
-09.03.1999,1998,Brentford,Peterborough,3,0
-09.03.1999,1998,Brighton,Cardiff,0,2
-09.03.1999,1998,Cambridge Utd,Hull,2,0
-09.03.1999,1998,Chester,Scarborough FC,1,3
-09.03.1999,1998,Plymouth,Torquay,0,0
-09.03.1999,1998,Swansea,Darlington,2,0
-06.03.1999,1998,Carlisle,Shrewsbury,2,1
-06.03.1999,1998,Exeter,Cambridge Utd,0,3
-06.03.1999,1998,Hull,Mansfield,0,0
-06.03.1999,1998,Leyton Orient,Rochdale,3,0
-06.03.1999,1998,Peterborough,Hartlepool,1,1
-06.03.1999,1998,Scunthorpe,Brighton,3,1
-06.03.1999,1998,Southend,Swansea,2,0
-06.03.1999,1998,Torquay,FC Halifax,4,0
-05.03.1999,1998,Cardiff,Chester,0,0
-02.03.1999,1998,Leyton Orient,Torquay,2,0
-27.02.1999,1998,Barnet,Exeter,0,1
-27.02.1999,1998,Brentford,Scarborough FC,1,1
-27.02.1999,1998,Brighton,Leyton Orient,1,2
-27.02.1999,1998,Cambridge Utd,Southend,3,0
-27.02.1999,1998,Chester,Carlisle,2,1
-27.02.1999,1998,FC Halifax,Hull,0,1
-27.02.1999,1998,Hartlepool,Rotherham,0,0
-27.02.1999,1998,Mansfield,Scunthorpe,2,1
-27.02.1999,1998,Plymouth,Peterborough,0,2
-27.02.1999,1998,Rochdale,Cardiff,1,1
-27.02.1999,1998,Shrewsbury,Darlington,3,0
-27.02.1999,1998,Swansea,Torquay,0,0
-23.02.1999,1998,Swansea,Mansfield,1,0
-23.02.1999,1998,Plymouth,Chester,2,0
-20.02.1999,1998,Carlisle,Mansfield,0,0
-20.02.1999,1998,Darlington,Plymouth,1,2
-20.02.1999,1998,Exeter,Hartlepool,2,1
-20.02.1999,1998,Hull,Barnet,1,1
-20.02.1999,1998,Leyton Orient,Cambridge Utd,2,0
-20.02.1999,1998,Peterborough,Shrewsbury,2,2
-20.02.1999,1998,Rotherham,Brentford,2,4
-20.02.1999,1998,Scarborough FC,Swansea,2,1
-20.02.1999,1998,Scunthorpe,Rochdale,0,1
-20.02.1999,1998,Southend,Brighton,3,0
-20.02.1999,1998,Torquay,Chester,0,3
-19.02.1999,1998,Cardiff,FC Halifax,1,1
-16.02.1999,1998,Darlington,Hull,0,3
-16.02.1999,1998,Swansea,Brentford,2,1
-13.02.1999,1998,Barnet,Cardiff,1,0
-13.02.1999,1998,Brentford,Torquay,3,2
-13.02.1999,1998,Brighton,Exeter,0,1
-13.02.1999,1998,Cambridge Utd,Scunthorpe,0,0
-13.02.1999,1998,Chester,Peterborough,1,0
-13.02.1999,1998,FC Halifax,Southend,3,1
-13.02.1999,1998,Hartlepool,Darlington,2,3
-13.02.1999,1998,Mansfield,Leyton Orient,1,2
-13.02.1999,1998,Plymouth,Rotherham,1,0
-13.02.1999,1998,Rochdale,Hull,3,0
-13.02.1999,1998,Shrewsbury,Scarborough FC,3,1
-13.02.1999,1998,Swansea,Carlisle,1,1
-06.02.1999,1998,Brentford,Hull,0,2
-06.02.1999,1998,Carlisle,Leyton Orient,1,1
-06.02.1999,1998,Chester,Exeter,0,0
-06.02.1999,1998,Darlington,Mansfield,5,1
-06.02.1999,1998,Hartlepool,FC Halifax,2,0
-06.02.1999,1998,Peterborough,Barnet,5,2
-06.02.1999,1998,Plymouth,Cardiff,1,1
-06.02.1999,1998,Rotherham,Southend,2,2
-06.02.1999,1998,Scarborough FC,Cambridge Utd,1,5
-06.02.1999,1998,Shrewsbury,Rochdale,3,2
-06.02.1999,1998,Torquay,Scunthorpe,1,0
-05.02.1999,1998,Swansea,Brighton,2,2
-02.02.1999,1998,Brentford,Carlisle,1,1
-30.01.1999,1998,Barnet,Swansea,0,1
-30.01.1999,1998,Brighton,Peterborough,1,0
-30.01.1999,1998,Cambridge Utd,Carlisle,1,0
-30.01.1999,1998,Cardiff,Brentford,4,1
-30.01.1999,1998,Exeter,Plymouth,1,1
-30.01.1999,1998,FC Halifax,Rotherham,2,4
-30.01.1999,1998,Hull,Shrewsbury,1,1
-30.01.1999,1998,Leyton Orient,Darlington,3,2
-30.01.1999,1998,Mansfield,Chester,3,0
-30.01.1999,1998,Rochdale,Hartlepool,0,1
-30.01.1999,1998,Scunthorpe,Scarborough FC,5,1
-30.01.1999,1998,Southend,Torquay,0,0
-26.01.1999,1998,Peterborough,Hull,1,1
-23.01.1999,1998,Barnet,Shrewsbury,2,2
-23.01.1999,1998,Brighton,Scarborough FC,1,0
-23.01.1999,1998,Cambridge Utd,Chester,2,1
-23.01.1999,1998,Cardiff,Darlington,3,2
-23.01.1999,1998,Exeter,Peterborough,2,0
-23.01.1999,1998,FC Halifax,Plymouth,2,0
-23.01.1999,1998,Hull,Hartlepool,4,0
-23.01.1999,1998,Rochdale,Brentford,2,0
-23.01.1999,1998,Southend,Carlisle,0,1
-22.01.1999,1998,Mansfield,Rotherham,0,3
-16.01.1999,1998,Carlisle,Scunthorpe,0,1
-16.01.1999,1998,Hartlepool,Barnet,2,2
-16.01.1999,1998,Peterborough,Cardiff,2,1
-16.01.1999,1998,Plymouth,Mansfield,3,0
-16.01.1999,1998,Rotherham,Leyton Orient,3,1
-16.01.1999,1998,Scarborough FC,Exeter,1,0
-16.01.1999,1998,Shrewsbury,Southend,3,1
-16.01.1999,1998,Torquay,Rochdale,2,1
-15.01.1999,1998,Chester,Brighton,1,1
-09.01.1999,1998,Barnet,Darlington,3,0
-09.01.1999,1998,Brighton,Carlisle,1,3
-09.01.1999,1998,Cambridge Utd,Torquay,2,0
-09.01.1999,1998,Cardiff,Hartlepool,4,1
-09.01.1999,1998,Exeter,Swansea,4,0
-09.01.1999,1998,FC Halifax,Peterborough,2,2
-09.01.1999,1998,Hull,Rotherham,1,0
-09.01.1999,1998,Leyton Orient,Chester,2,2
-09.01.1999,1998,Mansfield,Brentford,3,1
-09.01.1999,1998,Rochdale,Plymouth,1,1
-09.01.1999,1998,Scunthorpe,Shrewsbury,3,0
-09.01.1999,1998,Southend,Scarborough FC,1,0
-02.01.1999,1998,Brentford,Barnet,3,1
-02.01.1999,1998,Carlisle,Exeter,1,3
-02.01.1999,1998,Chester,Southend,1,1
-02.01.1999,1998,Darlington,Rochdale,3,0
-02.01.1999,1998,Hartlepool,Cambridge Utd,2,2
-02.01.1999,1998,Shrewsbury,FC Halifax,2,2
-02.01.1999,1998,Torquay,Brighton,1,1
-28.12.1998,1998,Brentford,Cardiff,1,0
-28.12.1998,1998,Carlisle,Cambridge Utd,1,1
-28.12.1998,1998,Chester,Mansfield,1,1
-28.12.1998,1998,Darlington,Leyton Orient,1,1
-28.12.1998,1998,Hartlepool,Rochdale,0,1
-28.12.1998,1998,Peterborough,Brighton,1,2
-28.12.1998,1998,Plymouth,Exeter,1,0
-28.12.1998,1998,Rotherham,FC Halifax,3,1
-28.12.1998,1998,Scarborough FC,Scunthorpe,1,4
-28.12.1998,1998,Shrewsbury,Hull,3,2
-28.12.1998,1998,Swansea,Barnet,2,1
-28.12.1998,1998,Torquay,Southend,2,0
-26.12.1998,1998,Barnet,Plymouth,1,1
-26.12.1998,1998,Brighton,Brentford,3,1
-26.12.1998,1998,Cambridge Utd,Rotherham,3,2
-26.12.1998,1998,Cardiff,Shrewsbury,3,0
-26.12.1998,1998,Exeter,Torquay,1,1
-26.12.1998,1998,FC Halifax,Darlington,0,0
-26.12.1998,1998,Hull,Chester,1,2
-26.12.1998,1998,Leyton Orient,Swansea,1,1
-26.12.1998,1998,Mansfield,Scarborough FC,3,2
-26.12.1998,1998,Rochdale,Carlisle,1,1
-26.12.1998,1998,Scunthorpe,Hartlepool,1,0
-26.12.1998,1998,Southend,Peterborough,2,0
-19.12.1998,1998,Barnet,Leyton Orient,3,2
-19.12.1998,1998,Cardiff,Mansfield,4,2
-19.12.1998,1998,Darlington,Scunthorpe,3,1
-19.12.1998,1998,FC Halifax,Exeter,1,1
-19.12.1998,1998,Hartlepool,Southend,2,4
-19.12.1998,1998,Hull,Swansea,0,2
-19.12.1998,1998,Peterborough,Scarborough FC,3,1
-19.12.1998,1998,Plymouth,Carlisle,2,0
-19.12.1998,1998,Rochdale,Brighton,2,1
-18.12.1998,1998,Brentford,Cambridge Utd,1,0
-18.12.1998,1998,Rotherham,Chester,2,4
-18.12.1998,1998,Shrewsbury,Torquay,1,2
-12.12.1998,1998,Brighton,Rotherham,4,1
-12.12.1998,1998,Cambridge Utd,Plymouth,1,0
-12.12.1998,1998,Carlisle,Hartlepool,2,1
-12.12.1998,1998,Chester,Darlington,1,0
-12.12.1998,1998,Exeter,Brentford,0,1
-12.12.1998,1998,Leyton Orient,Peterborough,1,2
-12.12.1998,1998,Scarborough FC,FC Halifax,1,0
-12.12.1998,1998,Scunthorpe,Cardiff,0,2
-12.12.1998,1998,Southend,Barnet,2,3
-12.12.1998,1998,Swansea,Rochdale,1,1
-12.12.1998,1998,Torquay,Hull,2,0
-11.12.1998,1998,Mansfield,Shrewsbury,1,0
-01.12.1998,1998,Carlisle,Cardiff,0,1
-01.12.1998,1998,Mansfield,Peterborough,1,0
-28.11.1998,1998,Barnet,Torquay,3,1
-28.11.1998,1998,Brentford,Chester,2,1
-28.11.1998,1998,Cardiff,Southend,2,0
-28.11.1998,1998,Darlington,Scarborough FC,3,0
-28.11.1998,1998,Hartlepool,Swansea,1,2
-28.11.1998,1998,Hull,Carlisle,1,0
-28.11.1998,1998,Peterborough,Scunthorpe,2,1
-28.11.1998,1998,Plymouth,Leyton Orient,2,4
-28.11.1998,1998,Rotherham,Exeter,0,0
-28.11.1998,1998,Shrewsbury,Brighton,1,3
-27.11.1998,1998,FC Halifax,Mansfield,2,2
-22.11.1998,1998,Swansea,Cardiff,2,1
-21.11.1998,1998,Brighton,FC Halifax,0,1
-21.11.1998,1998,Cambridge Utd,Darlington,2,1
-21.11.1998,1998,Carlisle,Rotherham,0,0
-21.11.1998,1998,Chester,Rochdale,1,1
-21.11.1998,1998,Exeter,Shrewsbury,0,1
-21.11.1998,1998,Leyton Orient,Brentford,2,1
-21.11.1998,1998,Scarborough FC,Hartlepool,1,2
-21.11.1998,1998,Scunthorpe,Hull,3,2
-21.11.1998,1998,Southend,Plymouth,1,0
-21.11.1998,1998,Torquay,Peterborough,0,1
-20.11.1998,1998,Mansfield,Barnet,5,0
-17.11.1998,1998,Rochdale,Scarborough FC,0,1
-10.11.1998,1998,Barnet,Scunthorpe,1,0
-10.11.1998,1998,Brentford,Southend,4,1
-10.11.1998,1998,Cardiff,Scarborough FC,1,0
-10.11.1998,1998,FC Halifax,Chester,3,2
-10.11.1998,1998,Hartlepool,Mansfield,1,2
-10.11.1998,1998,Hull,Brighton,0,2
-10.11.1998,1998,Peterborough,Cambridge Utd,2,1
-10.11.1998,1998,Plymouth,Swansea,1,2
-10.11.1998,1998,Rochdale,Exeter,1,1
-10.11.1998,1998,Rotherham,Torquay,2,2
-10.11.1998,1998,Shrewsbury,Leyton Orient,1,1
-07.11.1998,1998,Cambridge Utd,Barnet,3,2
-07.11.1998,1998,Carlisle,FC Halifax,0,1
-07.11.1998,1998,Darlington,Brighton,1,2
-07.11.1998,1998,Exeter,Southend,2,1
-07.11.1998,1998,Hartlepool,Plymouth,2,0
-07.11.1998,1998,Hull,Leyton Orient,0,1
-07.11.1998,1998,Rochdale,Mansfield,1,0
-07.11.1998,1998,Rotherham,Scarborough FC,4,0
-07.11.1998,1998,Scunthorpe,Chester,2,1
-07.11.1998,1998,Shrewsbury,Brentford,2,0
-07.11.1998,1998,Swansea,Peterborough,0,0
-07.11.1998,1998,Torquay,Cardiff,0,0
-03.11.1998,1998,Plymouth,Brentford,3,0
-31.10.1998,1998,Barnet,Rochdale,0,1
-31.10.1998,1998,Brighton,Hartlepool,3,2
-31.10.1998,1998,Cardiff,Exeter,1,0
-31.10.1998,1998,Chester,Shrewsbury,1,1
-31.10.1998,1998,FC Halifax,Swansea,2,0
-31.10.1998,1998,Leyton Orient,Scunthorpe,1,0
-31.10.1998,1998,Mansfield,Cambridge Utd,1,3
-31.10.1998,1998,Peterborough,Rotherham,2,4
-31.10.1998,1998,Plymouth,Hull,0,0
-31.10.1998,1998,Scarborough FC,Torquay,1,1
-31.10.1998,1998,Southend,Darlington,2,1
-24.10.1998,1998,Barnet,Brighton,0,1
-24.10.1998,1998,Cambridge Utd,Shrewsbury,0,0
-24.10.1998,1998,Hartlepool,Torquay,4,1
-24.10.1998,1998,Hull,Southend,1,1
-24.10.1998,1998,Leyton Orient,FC Halifax,1,0
-24.10.1998,1998,Scunthorpe,Rotherham,4,3
-21.10.1998,1998,Scarborough FC,Barnet,0,0
-20.10.1998,1998,Brentford,Scunthorpe,2,1
-20.10.1998,1998,Brighton,Plymouth,1,3
-20.10.1998,1998,Cardiff,Leyton Orient,0,0
-20.10.1998,1998,Chester,Hartlepool,1,1
-20.10.1998,1998,Exeter,Hull,3,0
-20.10.1998,1998,FC Halifax,Cambridge Utd,3,3
-20.10.1998,1998,Peterborough,Carlisle,0,1
-20.10.1998,1998,Rotherham,Rochdale,2,2
-20.10.1998,1998,Shrewsbury,Swansea,1,0
-20.10.1998,1998,Southend,Mansfield,1,2
-20.10.1998,1998,Torquay,Darlington,2,2
-17.10.1998,1998,Brentford,Hartlepool,3,1
-17.10.1998,1998,Brighton,Mansfield,1,3
-17.10.1998,1998,Cardiff,Cambridge Utd,0,1
-17.10.1998,1998,Chester,Swansea,1,1
-17.10.1998,1998,Exeter,Scunthorpe,2,2
-17.10.1998,1998,Peterborough,Rochdale,2,0
-17.10.1998,1998,Rotherham,Darlington,3,1
-17.10.1998,1998,Scarborough FC,Hull,1,2
-17.10.1998,1998,Shrewsbury,Plymouth,2,1
-17.10.1998,1998,Southend,Leyton Orient,2,2
-17.10.1998,1998,Torquay,Carlisle,2,2
-16.10.1998,1998,FC Halifax,Barnet,1,1
-11.10.1998,1998,Barnet,Chester,0,0
-11.10.1998,1998,Rochdale,FC Halifax,1,0
-10.10.1998,1998,Darlington,Peterborough,3,0
-10.10.1998,1998,Hartlepool,Shrewsbury,1,1
-10.10.1998,1998,Scunthorpe,Southend,1,1
-09.10.1998,1998,Cambridge Utd,Brighton,2,3
-09.10.1998,1998,Carlisle,Scarborough FC,1,0
-09.10.1998,1998,Hull,Cardiff,1,2
-09.10.1998,1998,Leyton Orient,Exeter,2,0
-09.10.1998,1998,Mansfield,Torquay,2,1
-09.10.1998,1998,Swansea,Rotherham,1,1
-03.10.1998,1998,Cardiff,Brighton,2,0
-03.10.1998,1998,Carlisle,Barnet,2,1
-03.10.1998,1998,Darlington,Swansea,2,2
-03.10.1998,1998,Exeter,Mansfield,2,1
-03.10.1998,1998,Hull,Cambridge Utd,0,3
-03.10.1998,1998,Leyton Orient,Hartlepool,1,1
-03.10.1998,1998,Peterborough,Brentford,2,4
-03.10.1998,1998,Rotherham,Shrewsbury,0,1
-03.10.1998,1998,Scarborough FC,Chester,2,4
-03.10.1998,1998,Scunthorpe,FC Halifax,0,4
-03.10.1998,1998,Southend,Rochdale,1,1
-03.10.1998,1998,Torquay,Plymouth,1,1
-26.09.1998,1998,Barnet,Rotherham,4,2
-26.09.1998,1998,Brentford,Darlington,3,0
-26.09.1998,1998,Brighton,Scunthorpe,1,3
-26.09.1998,1998,Cambridge Utd,Exeter,1,1
-26.09.1998,1998,Chester,Cardiff,2,2
-26.09.1998,1998,FC Halifax,Torquay,1,1
-26.09.1998,1998,Hartlepool,Peterborough,1,2
-26.09.1998,1998,Mansfield,Hull,2,0
-26.09.1998,1998,Plymouth,Scarborough FC,0,0
-26.09.1998,1998,Rochdale,Leyton Orient,2,1
-26.09.1998,1998,Shrewsbury,Carlisle,1,1
-26.09.1998,1998,Swansea,Southend,3,1
-19.09.1998,1998,Cardiff,Rochdale,2,1
-19.09.1998,1998,Carlisle,Chester,1,1
-19.09.1998,1998,Darlington,Shrewsbury,1,0
-19.09.1998,1998,Exeter,Barnet,1,0
-19.09.1998,1998,Hull,FC Halifax,1,2
-19.09.1998,1998,Leyton Orient,Brighton,1,0
-19.09.1998,1998,Peterborough,Plymouth,0,2
-19.09.1998,1998,Rotherham,Hartlepool,3,0
-19.09.1998,1998,Scarborough FC,Brentford,3,1
-19.09.1998,1998,Scunthorpe,Mansfield,3,2
-19.09.1998,1998,Southend,Cambridge Utd,0,1
-19.09.1998,1998,Torquay,Swansea,1,1
-12.09.1998,1998,Barnet,Hull,4,1
-12.09.1998,1998,Brentford,Rotherham,0,3
-12.09.1998,1998,Brighton,Southend,0,2
-12.09.1998,1998,Cambridge Utd,Leyton Orient,1,0
-12.09.1998,1998,Chester,Torquay,2,0
-12.09.1998,1998,Hartlepool,Exeter,4,3
-12.09.1998,1998,Mansfield,Carlisle,1,1
-12.09.1998,1998,Plymouth,Darlington,1,2
-12.09.1998,1998,Rochdale,Scunthorpe,2,2
-12.09.1998,1998,Shrewsbury,Peterborough,1,1
-12.09.1998,1998,Swansea,Scarborough FC,2,0
-11.09.1998,1998,FC Halifax,Cardiff,1,2
-09.09.1998,1998,Scarborough FC,Shrewsbury,2,0
-08.09.1998,1998,Cardiff,Barnet,1,0
-08.09.1998,1998,Carlisle,Swansea,1,2
-08.09.1998,1998,Darlington,Hartlepool,2,0
-08.09.1998,1998,Exeter,Brighton,1,0
-08.09.1998,1998,Hull,Rochdale,2,1
-08.09.1998,1998,Leyton Orient,Mansfield,1,1
-08.09.1998,1998,Peterborough,Chester,3,0
-08.09.1998,1998,Rotherham,Plymouth,0,2
-08.09.1998,1998,Scunthorpe,Cambridge Utd,3,2
-08.09.1998,1998,Southend,FC Halifax,0,0
-08.09.1998,1998,Torquay,Brentford,3,1
-05.09.1998,1998,Barnet,Peterborough,1,9
-05.09.1998,1998,Brighton,Swansea,1,0
-05.09.1998,1998,Cambridge Utd,Scarborough FC,2,3
-05.09.1998,1998,Cardiff,Plymouth,1,0
-05.09.1998,1998,Exeter,Chester,0,1
-05.09.1998,1998,Hull,Brentford,2,3
-05.09.1998,1998,Leyton Orient,Carlisle,2,1
-05.09.1998,1998,Mansfield,Darlington,0,1
-05.09.1998,1998,Rochdale,Shrewsbury,1,0
-05.09.1998,1998,Scunthorpe,Torquay,2,0
-05.09.1998,1998,Southend,Rotherham,3,0
-04.09.1998,1998,FC Halifax,Hartlepool,2,1
-01.09.1998,1998,Carlisle,Southend,3,0
-01.09.1998,1998,Chester,Cambridge Utd,0,3
-01.09.1998,1998,Torquay,Leyton Orient,1,1
-31.08.1998,1998,Brentford,Rochdale,2,1
-31.08.1998,1998,Darlington,Cardiff,3,0
-31.08.1998,1998,Hartlepool,Hull,1,0
-31.08.1998,1998,Peterborough,Exeter,4,1
-31.08.1998,1998,Plymouth,FC Halifax,1,0
-31.08.1998,1998,Rotherham,Mansfield,0,0
-31.08.1998,1998,Scarborough FC,Brighton,1,2
-31.08.1998,1998,Shrewsbury,Barnet,0,2
-31.08.1998,1998,Swansea,Scunthorpe,1,2
-29.08.1998,1998,Barnet,Brentford,0,3
-29.08.1998,1998,Brighton,Torquay,2,0
-29.08.1998,1998,Cambridge Utd,Hartlepool,1,2
-29.08.1998,1998,Cardiff,Rotherham,0,1
-29.08.1998,1998,Exeter,Carlisle,2,0
-29.08.1998,1998,Hull,Peterborough,1,0
-29.08.1998,1998,Leyton Orient,Scarborough FC,0,3
-29.08.1998,1998,Mansfield,Swansea,1,0
-29.08.1998,1998,Rochdale,Darlington,0,0
-29.08.1998,1998,Scunthorpe,Plymouth,0,2
-29.08.1998,1998,Southend,Chester,0,1
-28.08.1998,1998,FC Halifax,Shrewsbury,2,0
-23.08.1998,1998,Chester,Hull,2,2
-22.08.1998,1998,Brentford,Brighton,2,0
-22.08.1998,1998,Carlisle,Rochdale,0,1
-22.08.1998,1998,Darlington,FC Halifax,2,2
-22.08.1998,1998,Hartlepool,Scunthorpe,1,2
-22.08.1998,1998,Peterborough,Southend,1,1
-22.08.1998,1998,Plymouth,Barnet,2,0
-22.08.1998,1998,Rotherham,Cambridge Utd,2,0
-22.08.1998,1998,Scarborough FC,Mansfield,2,3
-22.08.1998,1998,Swansea,Leyton Orient,1,1
-22.08.1998,1998,Torquay,Exeter,1,0
-21.08.1998,1998,Shrewsbury,Cardiff,0,3
-15.08.1998,1998,Barnet,Hartlepool,0,2
-15.08.1998,1998,Brighton,Chester,2,2
-15.08.1998,1998,Cambridge Utd,Swansea,2,1
-15.08.1998,1998,Cardiff,Peterborough,1,3
-15.08.1998,1998,Exeter,Scarborough FC,1,0
-15.08.1998,1998,FC Halifax,Brentford,1,0
-15.08.1998,1998,Hull,Darlington,1,2
-15.08.1998,1998,Leyton Orient,Rotherham,1,4
-15.08.1998,1998,Mansfield,Plymouth,2,0
-15.08.1998,1998,Rochdale,Torquay,0,2
-15.08.1998,1998,Scunthorpe,Carlisle,3,1
-15.08.1998,1998,Southend,Shrewsbury,2,1
-08.08.1998,1998,Brentford,Mansfield,3,0
-08.08.1998,1998,Carlisle,Brighton,1,0
-08.08.1998,1998,Chester,Leyton Orient,0,2
-08.08.1998,1998,Darlington,Barnet,0,2
-08.08.1998,1998,Hartlepool,Cardiff,1,1
-08.08.1998,1998,Peterborough,FC Halifax,0,2
-08.08.1998,1998,Plymouth,Rochdale,2,1
-08.08.1998,1998,Rotherham,Hull,3,1
-08.08.1998,1998,Scarborough FC,Southend,1,2
-08.08.1998,1998,Shrewsbury,Scunthorpe,2,1
-08.08.1998,1998,Swansea,Exeter,2,0
-08.08.1998,1998,Torquay,Cambridge Utd,0,1
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+08.05.1999,1998,Brighton,Rochdale,1,1,2.10,3.10,3.30
+08.05.1999,1998,Cambridge Utd,Brentford,0,1,2.40,2.90,3.10
+08.05.1999,1998,Carlisle,Plymouth,2,1,1.60,3.30,4.00
+08.05.1999,1998,Chester,Rotherham,1,1,2.50,3.00,2.50
+08.05.1999,1998,Exeter,FC Halifax,2,1,2.80,3.00,2.40
+08.05.1999,1998,Leyton Orient,Barnet,2,2,1.55,3.50,5.00
+08.05.1999,1998,Mansfield,Cardiff,3,0,3.00,3.10,2.29
+08.05.1999,1998,Scarborough FC,Peterborough,1,1,2.00,3.00,3.00
+08.05.1999,1998,Scunthorpe,Darlington,0,1,1.60,3.30,4.50
+08.05.1999,1998,Southend,Hartlepool,1,1,2.00,3.10,3.60
+08.05.1999,1998,Swansea,Hull,2,0,1.35,4.50,7.00
+08.05.1999,1998,Torquay,Shrewsbury,0,3,2.00,3.10,3.60
+06.05.1999,1998,Swansea,Cambridge Utd,2,0,2.60,2.90,2.60
+05.05.1999,1998,Scarborough FC,Plymouth,3,0,1.90,3.00,3.00
+04.05.1999,1998,Brentford,Swansea,4,1,1.80,3.00,3.30
+04.05.1999,1998,Darlington,Exeter,4,0,2.10,3.00,3.00
+01.05.1999,1998,Barnet,Southend,0,2,1.90,3.00,4.00
+01.05.1999,1998,Brentford,Exeter,3,0,1.33,4.20,8.00
+01.05.1999,1998,Cardiff,Scunthorpe,0,0,1.90,3.00,4.00
+01.05.1999,1998,Darlington,Chester,1,2,1.70,3.25,4.80
+01.05.1999,1998,FC Halifax,Scarborough FC,1,2,1.45,4.00,7.00
+01.05.1999,1998,Hartlepool,Carlisle,0,0,1.95,2.95,3.90
+01.05.1999,1998,Hull,Torquay,1,0,1.95,2.95,3.90
+01.05.1999,1998,Peterborough,Leyton Orient,3,0,2.40,2.85,3.00
+01.05.1999,1998,Plymouth,Cambridge Utd,2,2,3.00,2.90,2.29
+01.05.1999,1998,Rochdale,Swansea,0,3,2.90,3.00,2.29
+01.05.1999,1998,Rotherham,Brighton,2,1,1.40,4.30,7.00
+01.05.1999,1998,Shrewsbury,Mansfield,1,0,3.20,3.10,2.10
+27.04.1999,1998,FC Halifax,Scunthorpe,1,0,2.40,2.90,2.80
+27.04.1999,1998,Hartlepool,Leyton Orient,1,0,3.15,3.00,2.10
+27.04.1999,1998,Mansfield,Exeter,0,1,1.65,3.40,5.00
+27.04.1999,1998,Darlington,Brentford,2,2,3.15,3.00,2.10
+27.04.1999,1998,Rotherham,Barnet,1,1,1.40,4.00,6.00
+27.04.1999,1998,Rochdale,Cambridge Utd,0,2,3.50,3.10,1.90
+24.04.1999,1998,Brighton,Hull,0,0,2.20,3.00,3.30
+24.04.1999,1998,Cambridge Utd,Peterborough,1,1,1.65,3.40,5.60
+24.04.1999,1998,Carlisle,Darlington,3,3,2.50,3.00,2.70
+24.04.1999,1998,Chester,FC Halifax,2,2,3.10,3.00,2.29
+24.04.1999,1998,Exeter,Rochdale,2,1,2.00,3.00,3.90
+24.04.1999,1998,Leyton Orient,Shrewsbury,6,1,1.50,3.50,6.50
+24.04.1999,1998,Mansfield,Hartlepool,2,0,1.65,3.40,5.60
+24.04.1999,1998,Scarborough FC,Cardiff,1,2,3.70,3.20,1.90
+24.04.1999,1998,Scunthorpe,Barnet,3,1,1.45,4.00,7.00
+24.04.1999,1998,Southend,Brentford,1,4,3.50,3.00,2.10
+24.04.1999,1998,Swansea,Plymouth,2,3,1.65,3.40,5.60
+24.04.1999,1998,Torquay,Rotherham,2,0,3.10,3.00,2.25
+21.04.1999,1998,Scarborough FC,Leyton Orient,1,3,2.75,2.95,2.40
+20.04.1999,1998,Shrewsbury,Rotherham,2,3,3.00,3.00,2.29
+18.04.1999,1998,Cardiff,Swansea,0,0,1.85,3.20,4.30
+17.04.1999,1998,Barnet,Mansfield,0,0,2.29,3.00,3.00
+17.04.1999,1998,Brentford,Leyton Orient,0,0,1.80,3.20,4.59
+17.04.1999,1998,Darlington,Cambridge Utd,0,0,3.60,3.00,2.10
+17.04.1999,1998,FC Halifax,Brighton,1,0,1.75,3.30,4.59
+17.04.1999,1998,Hartlepool,Scarborough FC,3,0,2.20,3.00,3.60
+17.04.1999,1998,Hull,Scunthorpe,2,3,2.65,2.95,2.65
+17.04.1999,1998,Peterborough,Torquay,4,0,1.80,3.20,4.59
+17.04.1999,1998,Plymouth,Southend,0,3,1.70,3.30,5.00
+17.04.1999,1998,Rochdale,Chester,3,1,2.10,3.00,3.50
+17.04.1999,1998,Rotherham,Carlisle,3,1,1.55,3.40,6.50
+17.04.1999,1998,Shrewsbury,Exeter,1,1,1.90,3.10,4.00
+14.04.1999,1998,Scarborough FC,Darlington,0,2,2.20,3.00,3.50
+13.04.1999,1998,Brighton,Shrewsbury,1,0,2.40,3.00,3.00
+13.04.1999,1998,Cambridge Utd,Rochdale,1,1,1.35,4.50,7.00
+13.04.1999,1998,Carlisle,Hull,0,0,2.50,3.00,2.50
+13.04.1999,1998,Chester,Brentford,1,3,3.35,3.00,2.25
+13.04.1999,1998,Exeter,Rotherham,3,0,2.75,3.00,2.40
+13.04.1999,1998,Leyton Orient,Plymouth,4,3,1.80,3.20,4.00
+13.04.1999,1998,Mansfield,FC Halifax,0,1,1.80,3.20,4.00
+13.04.1999,1998,Scunthorpe,Peterborough,1,1,1.65,3.40,5.00
+13.04.1999,1998,Southend,Cardiff,0,1,3.50,3.00,2.10
+13.04.1999,1998,Swansea,Hartlepool,1,0,1.65,3.40,5.00
+13.04.1999,1998,Torquay,Barnet,1,1,2.20,3.00,3.50
+10.04.1999,1998,Barnet,Scarborough FC,1,0,1.85,3.15,4.59
+10.04.1999,1998,Cambridge Utd,FC Halifax,4,0,1.60,3.30,5.25
+10.04.1999,1998,Carlisle,Peterborough,1,1,3.00,2.95,2.40
+10.04.1999,1998,Darlington,Torquay,0,2,1.70,3.20,4.59
+10.04.1999,1998,Hartlepool,Chester,2,0,2.50,3.00,2.50
+10.04.1999,1998,Hull,Exeter,2,1,2.10,3.00,3.65
+10.04.1999,1998,Leyton Orient,Cardiff,1,1,2.60,2.85,2.85
+10.04.1999,1998,Mansfield,Southend,0,0,1.60,3.30,5.25
+10.04.1999,1998,Plymouth,Brighton,1,2,1.50,3.30,5.60
+10.04.1999,1998,Rochdale,Rotherham,0,0,2.85,2.85,2.45
+10.04.1999,1998,Scunthorpe,Brentford,0,0,2.20,3.00,3.35
+09.04.1999,1998,Swansea,Shrewsbury,1,1,1.70,3.20,4.59
+06.04.1999,1998,Brighton,Cambridge Utd,1,3,3.80,3.10,1.90
+06.04.1999,1998,Shrewsbury,Hartlepool,0,1,1.60,3.40,5.50
+05.04.1999,1998,Brentford,Plymouth,3,1,1.65,3.40,5.50
+05.04.1999,1998,Cardiff,Hull,1,1,1.50,3.50,6.00
+05.04.1999,1998,Chester,Barnet,3,0,2.29,3.00,3.25
+05.04.1999,1998,Exeter,Leyton Orient,1,1,2.50,3.00,2.50
+05.04.1999,1998,FC Halifax,Rochdale,0,0,1.65,3.40,5.50
+05.04.1999,1998,Peterborough,Darlington,0,1,1.80,3.20,4.50
+05.04.1999,1998,Rotherham,Swansea,1,0,2.25,3.00,3.35
+05.04.1999,1998,Scarborough FC,Carlisle,3,0,2.10,3.00,3.35
+05.04.1999,1998,Southend,Scunthorpe,0,1,2.95,2.95,2.40
+05.04.1999,1998,Torquay,Mansfield,0,0,2.29,3.00,3.25
+03.04.1999,1998,Barnet,FC Halifax,2,2,2.29,3.00,3.00
+03.04.1999,1998,Cambridge Utd,Cardiff,0,0,2.10,3.00,3.75
+03.04.1999,1998,Carlisle,Torquay,3,0,2.29,3.00,3.25
+03.04.1999,1998,Darlington,Rotherham,1,2,2.40,2.95,3.00
+03.04.1999,1998,Hartlepool,Brentford,0,1,3.75,3.00,2.10
+03.04.1999,1998,Hull,Scarborough FC,1,1,1.90,3.10,3.90
+03.04.1999,1998,Leyton Orient,Southend,0,3,1.50,3.50,6.50
+03.04.1999,1998,Mansfield,Brighton,2,0,1.50,3.50,6.50
+03.04.1999,1998,Plymouth,Shrewsbury,2,0,1.90,3.10,3.90
+03.04.1999,1998,Rochdale,Peterborough,0,3,2.50,3.00,2.50
+03.04.1999,1998,Scunthorpe,Exeter,2,0,1.60,3.40,5.50
+03.04.1999,1998,Swansea,Chester,1,1,1.60,3.40,5.50
+30.03.1999,1998,Rochdale,Southend,1,0,2.00,3.00,3.90
+30.03.1999,1998,Plymouth,Scunthorpe,5,0,2.40,2.95,2.80
+28.03.1999,1998,Peterborough,Mansfield,1,0,2.29,3.00,3.25
+27.03.1999,1998,Brighton,Barnet,0,1,2.25,3.00,3.50
+27.03.1999,1998,Cardiff,Carlisle,2,1,1.50,3.50,7.00
+27.03.1999,1998,Chester,Plymouth,3,2,2.60,2.95,2.85
+27.03.1999,1998,Rotherham,Scunthorpe,0,0,2.29,3.00,3.25
+27.03.1999,1998,Torquay,Hartlepool,3,0,1.90,3.10,4.00
+26.03.1999,1998,Exeter,Darlington,0,0,2.00,3.00,3.90
+26.03.1999,1998,FC Halifax,Leyton Orient,1,2,2.29,3.00,3.25
+26.03.1999,1998,Scarborough FC,Rochdale,1,0,2.60,2.95,2.85
+26.03.1999,1998,Shrewsbury,Cambridge Utd,1,1,3.25,3.00,2.29
+26.03.1999,1998,Southend,Hull,0,1,2.10,3.00,3.65
+23.03.1999,1998,Scunthorpe,Swansea,1,2,1.75,3.20,4.50
+23.03.1999,1998,Darlington,Carlisle,1,1,1.65,3.30,5.00
+20.03.1999,1998,Cambridge Utd,Mansfield,7,2,1.70,3.30,5.09
+20.03.1999,1998,Carlisle,Brentford,0,1,3.15,3.00,2.29
+20.03.1999,1998,Darlington,Southend,2,1,2.00,3.00,4.09
+20.03.1999,1998,Exeter,Cardiff,0,2,2.80,2.95,2.80
+20.03.1999,1998,Hartlepool,Brighton,0,0,2.25,3.00,3.35
+20.03.1999,1998,Hull,Plymouth,1,0,2.80,2.95,2.80
+20.03.1999,1998,Rochdale,Barnet,0,0,2.00,3.00,4.09
+20.03.1999,1998,Rotherham,Peterborough,2,2,1.90,3.15,4.09
+20.03.1999,1998,Scunthorpe,Leyton Orient,2,0,2.15,3.00,3.50
+20.03.1999,1998,Shrewsbury,Chester,2,0,1.90,3.15,4.09
+20.03.1999,1998,Swansea,FC Halifax,1,2,1.90,3.15,4.09
+20.03.1999,1998,Torquay,Scarborough FC,0,1,1.70,3.30,5.09
+16.03.1999,1998,Brentford,FC Halifax,1,1,1.70,3.30,4.50
+16.03.1999,1998,Rotherham,Cardiff,1,0,2.50,3.00,2.50
+13.03.1999,1998,Barnet,Cambridge Utd,3,0,3.25,3.00,2.00
+13.03.1999,1998,Brentford,Shrewsbury,0,0,1.60,3.40,5.00
+13.03.1999,1998,Brighton,Darlington,0,4,1.90,3.10,3.60
+13.03.1999,1998,Cardiff,Torquay,2,2,1.60,3.40,5.00
+13.03.1999,1998,Chester,Scunthorpe,0,2,2.50,3.00,2.50
+13.03.1999,1998,FC Halifax,Carlisle,1,0,1.75,3.30,4.09
+13.03.1999,1998,Leyton Orient,Hull,1,2,1.50,3.50,5.60
+13.03.1999,1998,Mansfield,Rochdale,3,1,1.70,3.30,4.09
+13.03.1999,1998,Peterborough,Swansea,0,1,1.90,3.10,3.60
+13.03.1999,1998,Plymouth,Hartlepool,0,0,1.60,3.40,5.00
+13.03.1999,1998,Scarborough FC,Rotherham,0,4,2.85,2.95,2.40
+13.03.1999,1998,Southend,Exeter,0,0,2.40,2.95,2.80
+09.03.1999,1998,Barnet,Carlisle,1,0,2.00,3.00,3.50
+09.03.1999,1998,Brentford,Peterborough,3,0,1.75,3.30,4.09
+09.03.1999,1998,Brighton,Cardiff,0,2,2.60,3.00,2.50
+09.03.1999,1998,Cambridge Utd,Hull,2,0,1.50,3.50,6.00
+09.03.1999,1998,Chester,Scarborough FC,1,3,1.65,3.40,5.00
+09.03.1999,1998,Plymouth,Torquay,0,0,1.75,3.30,4.09
+09.03.1999,1998,Swansea,Darlington,2,0,1.80,3.20,4.00
+06.03.1999,1998,Carlisle,Shrewsbury,2,1,2.50,2.90,2.50
+06.03.1999,1998,Exeter,Cambridge Utd,0,3,2.50,2.90,2.50
+06.03.1999,1998,Hull,Mansfield,0,0,2.50,2.90,2.50
+06.03.1999,1998,Leyton Orient,Rochdale,3,0,1.60,3.40,5.00
+06.03.1999,1998,Peterborough,Hartlepool,1,1,1.60,3.40,5.00
+06.03.1999,1998,Scunthorpe,Brighton,3,1,1.75,3.30,4.09
+06.03.1999,1998,Southend,Swansea,2,0,2.50,2.90,2.50
+06.03.1999,1998,Torquay,FC Halifax,4,0,2.40,2.90,2.90
+05.03.1999,1998,Cardiff,Chester,0,0,1.55,3.40,5.50
+02.03.1999,1998,Leyton Orient,Torquay,2,0,1.65,3.40,5.00
+27.02.1999,1998,Barnet,Exeter,0,1,2.29,2.95,3.30
+27.02.1999,1998,Brentford,Scarborough FC,1,1,1.40,3.60,7.50
+27.02.1999,1998,Brighton,Leyton Orient,1,2,2.25,3.00,3.30
+27.02.1999,1998,Cambridge Utd,Southend,3,0,1.60,3.35,5.50
+27.02.1999,1998,Chester,Carlisle,2,1,1.95,2.85,4.09
+27.02.1999,1998,FC Halifax,Hull,0,1,1.60,3.35,5.50
+27.02.1999,1998,Hartlepool,Rotherham,0,0,2.50,2.95,2.50
+27.02.1999,1998,Mansfield,Scunthorpe,2,1,2.20,3.00,3.30
+27.02.1999,1998,Plymouth,Peterborough,0,2,1.85,3.15,4.00
+27.02.1999,1998,Rochdale,Cardiff,1,1,2.50,2.95,2.50
+27.02.1999,1998,Shrewsbury,Darlington,3,0,2.10,3.00,3.35
+27.02.1999,1998,Swansea,Torquay,0,0,1.70,3.30,4.40
+23.02.1999,1998,Swansea,Mansfield,1,0,2.00,3.00,3.50
+23.02.1999,1998,Plymouth,Chester,2,0,1.80,3.10,4.00
+20.02.1999,1998,Carlisle,Mansfield,0,0,2.60,2.85,2.85
+20.02.1999,1998,Darlington,Plymouth,1,2,2.00,2.95,3.70
+20.02.1999,1998,Exeter,Hartlepool,2,1,1.70,3.30,4.09
+20.02.1999,1998,Hull,Barnet,1,1,2.20,2.95,3.30
+20.02.1999,1998,Leyton Orient,Cambridge Utd,2,0,2.60,2.90,2.60
+20.02.1999,1998,Peterborough,Shrewsbury,2,2,1.85,3.20,4.00
+20.02.1999,1998,Rotherham,Brentford,2,4,2.10,2.80,3.70
+20.02.1999,1998,Scarborough FC,Swansea,2,1,2.90,2.90,2.40
+20.02.1999,1998,Scunthorpe,Rochdale,0,1,1.60,3.40,5.00
+20.02.1999,1998,Southend,Brighton,3,0,2.60,2.90,2.60
+20.02.1999,1998,Torquay,Chester,0,3,2.00,2.95,3.70
+19.02.1999,1998,Cardiff,FC Halifax,1,1,1.65,3.40,5.00
+16.02.1999,1998,Darlington,Hull,0,3,1.65,3.40,5.00
+16.02.1999,1998,Swansea,Brentford,2,1,2.20,2.90,3.35
+13.02.1999,1998,Barnet,Cardiff,1,0,3.70,2.90,2.00
+13.02.1999,1998,Brentford,Torquay,3,2,1.65,3.20,5.30
+13.02.1999,1998,Brighton,Exeter,0,1,1.70,3.10,5.00
+13.02.1999,1998,Cambridge Utd,Scunthorpe,0,0,1.80,3.00,4.50
+13.02.1999,1998,Chester,Peterborough,1,0,2.50,2.70,2.95
+13.02.1999,1998,FC Halifax,Southend,3,1,1.75,3.10,4.80
+13.02.1999,1998,Hartlepool,Darlington,2,3,2.40,2.85,3.05
+13.02.1999,1998,Mansfield,Leyton Orient,1,2,1.75,3.10,4.80
+13.02.1999,1998,Plymouth,Rotherham,1,0,2.40,2.85,3.05
+13.02.1999,1998,Rochdale,Hull,3,0,2.00,2.90,3.60
+13.02.1999,1998,Shrewsbury,Scarborough FC,3,1,1.60,3.40,5.00
+13.02.1999,1998,Swansea,Carlisle,1,1,1.72,3.10,4.80
+06.02.1999,1998,Brentford,Hull,0,2,1.40,3.60,8.00
+06.02.1999,1998,Carlisle,Leyton Orient,1,1,2.60,2.80,2.80
+06.02.1999,1998,Chester,Exeter,0,0,2.20,2.85,3.40
+06.02.1999,1998,Darlington,Mansfield,5,1,2.29,2.85,3.10
+06.02.1999,1998,Hartlepool,FC Halifax,2,0,3.00,2.80,2.40
+06.02.1999,1998,Peterborough,Barnet,5,2,1.70,3.10,5.00
+06.02.1999,1998,Plymouth,Cardiff,1,1,2.60,2.90,2.60
+06.02.1999,1998,Rotherham,Southend,2,2,1.60,3.10,6.00
+06.02.1999,1998,Scarborough FC,Cambridge Utd,1,5,3.70,2.90,2.04
+06.02.1999,1998,Shrewsbury,Rochdale,3,2,2.15,2.90,3.50
+06.02.1999,1998,Torquay,Scunthorpe,1,0,2.90,2.75,2.54
+05.02.1999,1998,Swansea,Brighton,2,2,2.10,2.90,3.60
+02.02.1999,1998,Brentford,Carlisle,1,1,1.50,3.50,5.20
+30.01.1999,1998,Barnet,Swansea,0,1,2.29,2.85,3.10
+30.01.1999,1998,Brighton,Peterborough,1,0,2.00,2.95,3.70
+30.01.1999,1998,Cambridge Utd,Carlisle,1,0,1.60,3.20,5.80
+30.01.1999,1998,Cardiff,Brentford,4,1,1.85,2.90,4.30
+30.01.1999,1998,Exeter,Plymouth,1,1,2.20,2.85,3.40
+30.01.1999,1998,FC Halifax,Rotherham,2,4,2.00,2.95,3.70
+30.01.1999,1998,Hull,Shrewsbury,1,1,2.29,2.85,3.10
+30.01.1999,1998,Leyton Orient,Darlington,3,2,2.00,2.95,3.70
+30.01.1999,1998,Mansfield,Chester,3,0,1.72,3.10,5.00
+30.01.1999,1998,Rochdale,Hartlepool,0,1,1.72,3.10,5.00
+30.01.1999,1998,Scunthorpe,Scarborough FC,5,1,1.46,3.80,7.30
+30.01.1999,1998,Southend,Torquay,0,0,2.00,2.85,3.70
+26.01.1999,1998,Peterborough,Hull,1,1,1.55,3.50,5.20
+23.01.1999,1998,Barnet,Shrewsbury,2,2,1.90,2.95,3.90
+23.01.1999,1998,Brighton,Scarborough FC,1,0,1.57,3.15,6.00
+23.01.1999,1998,Cambridge Utd,Chester,2,1,1.70,3.10,5.00
+23.01.1999,1998,Cardiff,Darlington,3,2,1.60,3.00,5.80
+23.01.1999,1998,Exeter,Peterborough,2,0,2.50,2.80,2.90
+23.01.1999,1998,FC Halifax,Plymouth,2,0,2.00,2.90,3.70
+23.01.1999,1998,Hull,Hartlepool,4,0,2.29,2.80,3.20
+23.01.1999,1998,Rochdale,Brentford,2,0,3.00,2.70,2.50
+23.01.1999,1998,Southend,Carlisle,0,1,1.80,2.95,4.50
+22.01.1999,1998,Mansfield,Rotherham,0,3,1.80,2.95,4.50
+16.01.1999,1998,Carlisle,Scunthorpe,0,1,2.75,2.90,2.50
+16.01.1999,1998,Hartlepool,Barnet,2,2,2.20,2.90,3.50
+16.01.1999,1998,Peterborough,Cardiff,2,1,2.60,2.85,2.60
+16.01.1999,1998,Plymouth,Mansfield,3,0,2.50,2.80,2.90
+16.01.1999,1998,Rotherham,Leyton Orient,3,1,2.10,2.90,3.70
+16.01.1999,1998,Scarborough FC,Exeter,1,0,2.60,2.80,2.80
+16.01.1999,1998,Shrewsbury,Southend,3,1,2.29,2.85,3.15
+16.01.1999,1998,Torquay,Rochdale,2,1,2.50,2.80,2.90
+15.01.1999,1998,Chester,Brighton,1,1,2.54,2.70,2.90
+09.01.1999,1998,Barnet,Darlington,3,0,2.50,2.85,2.85
+09.01.1999,1998,Brighton,Carlisle,1,3,1.60,3.30,5.00
+09.01.1999,1998,Cambridge Utd,Torquay,2,0,1.60,3.30,5.00
+09.01.1999,1998,Cardiff,Hartlepool,4,1,1.50,3.40,6.00
+09.01.1999,1998,Exeter,Swansea,4,0,2.40,2.90,2.90
+09.01.1999,1998,FC Halifax,Peterborough,2,2,2.00,2.95,3.50
+09.01.1999,1998,Hull,Rotherham,1,0,3.00,2.90,2.25
+09.01.1999,1998,Leyton Orient,Chester,2,2,1.90,3.00,3.90
+09.01.1999,1998,Mansfield,Brentford,3,1,2.40,2.90,2.90
+09.01.1999,1998,Rochdale,Plymouth,1,1,2.20,2.90,3.30
+09.01.1999,1998,Scunthorpe,Shrewsbury,3,0,1.60,3.30,5.00
+09.01.1999,1998,Southend,Scarborough FC,1,0,1.70,3.20,4.40
+02.01.1999,1998,Brentford,Barnet,3,1,1.50,3.40,6.00
+02.01.1999,1998,Carlisle,Exeter,1,3,2.10,2.95,3.35
+02.01.1999,1998,Chester,Southend,1,1,2.00,2.95,3.50
+02.01.1999,1998,Darlington,Rochdale,3,0,1.85,3.10,4.00
+02.01.1999,1998,Hartlepool,Cambridge Utd,2,2,2.85,2.85,2.50
+02.01.1999,1998,Shrewsbury,FC Halifax,2,2,2.85,2.85,2.50
+02.01.1999,1998,Torquay,Brighton,1,1,2.60,2.85,2.60
+28.12.1998,1998,Brentford,Cardiff,1,0,2.00,2.85,3.65
+28.12.1998,1998,Carlisle,Cambridge Utd,1,1,2.80,2.80,2.50
+28.12.1998,1998,Chester,Mansfield,1,1,2.60,2.85,2.60
+28.12.1998,1998,Darlington,Leyton Orient,1,1,2.10,2.90,3.50
+28.12.1998,1998,Hartlepool,Rochdale,0,1,2.25,2.90,3.30
+28.12.1998,1998,Peterborough,Brighton,1,2,1.85,3.10,3.90
+28.12.1998,1998,Plymouth,Exeter,1,0,1.85,3.10,4.09
+28.12.1998,1998,Rotherham,FC Halifax,3,1,2.29,2.90,3.10
+28.12.1998,1998,Scarborough FC,Scunthorpe,1,4,2.60,2.85,2.60
+28.12.1998,1998,Shrewsbury,Hull,3,2,1.75,3.20,4.09
+28.12.1998,1998,Swansea,Barnet,2,1,1.75,3.20,4.09
+28.12.1998,1998,Torquay,Southend,2,0,2.20,2.90,3.50
+26.12.1998,1998,Barnet,Plymouth,1,1,2.29,2.90,2.90
+26.12.1998,1998,Brighton,Brentford,3,1,2.65,2.85,2.65
+26.12.1998,1998,Cambridge Utd,Rotherham,3,2,1.90,3.10,3.70
+26.12.1998,1998,Cardiff,Shrewsbury,3,0,1.50,3.60,6.50
+26.12.1998,1998,Exeter,Torquay,1,1,2.00,3.00,3.50
+26.12.1998,1998,FC Halifax,Darlington,0,0,1.85,3.15,3.90
+26.12.1998,1998,Hull,Chester,1,2,2.85,2.85,2.50
+26.12.1998,1998,Leyton Orient,Swansea,1,1,2.00,3.00,3.50
+26.12.1998,1998,Mansfield,Scarborough FC,3,2,1.50,3.60,6.50
+26.12.1998,1998,Rochdale,Carlisle,1,1,1.80,3.20,4.09
+26.12.1998,1998,Scunthorpe,Hartlepool,1,0,1.70,3.30,4.09
+26.12.1998,1998,Southend,Peterborough,2,0,2.85,2.85,2.50
+19.12.1998,1998,Barnet,Leyton Orient,3,2,NA,NA,NA
+19.12.1998,1998,Cardiff,Mansfield,4,2,1.90,3.10,4.25
+19.12.1998,1998,Darlington,Scunthorpe,3,1,2.10,3.00,3.35
+19.12.1998,1998,FC Halifax,Exeter,1,1,1.60,3.40,6.00
+19.12.1998,1998,Hartlepool,Southend,2,4,1.95,3.10,4.00
+19.12.1998,1998,Hull,Swansea,0,2,2.95,2.95,2.60
+19.12.1998,1998,Peterborough,Scarborough FC,3,1,1.65,3.30,6.00
+19.12.1998,1998,Plymouth,Carlisle,2,0,1.85,3.20,4.50
+19.12.1998,1998,Rochdale,Brighton,2,1,2.40,2.95,3.00
+18.12.1998,1998,Brentford,Cambridge Utd,1,0,NA,NA,NA
+18.12.1998,1998,Rotherham,Chester,2,4,NA,NA,NA
+18.12.1998,1998,Shrewsbury,Torquay,1,2,NA,NA,NA
+12.12.1998,1998,Brighton,Rotherham,4,1,NA,NA,NA
+12.12.1998,1998,Cambridge Utd,Plymouth,1,0,NA,NA,NA
+12.12.1998,1998,Carlisle,Hartlepool,2,1,NA,NA,NA
+12.12.1998,1998,Chester,Darlington,1,0,NA,NA,NA
+12.12.1998,1998,Exeter,Brentford,0,1,NA,NA,NA
+12.12.1998,1998,Leyton Orient,Peterborough,1,2,NA,NA,NA
+12.12.1998,1998,Scarborough FC,FC Halifax,1,0,NA,NA,NA
+12.12.1998,1998,Scunthorpe,Cardiff,0,2,NA,NA,NA
+12.12.1998,1998,Southend,Barnet,2,3,NA,NA,NA
+12.12.1998,1998,Swansea,Rochdale,1,1,NA,NA,NA
+12.12.1998,1998,Torquay,Hull,2,0,NA,NA,NA
+11.12.1998,1998,Mansfield,Shrewsbury,1,0,1.70,3.30,4.09
+01.12.1998,1998,Carlisle,Cardiff,0,1,2.80,2.90,2.50
+01.12.1998,1998,Mansfield,Peterborough,1,0,2.10,2.95,3.60
+28.11.1998,1998,Barnet,Torquay,3,1,2.00,3.00,3.60
+28.11.1998,1998,Brentford,Chester,2,1,1.53,3.50,6.70
+28.11.1998,1998,Cardiff,Southend,2,0,1.70,3.10,5.00
+28.11.1998,1998,Darlington,Scarborough FC,3,0,1.70,3.20,4.70
+28.11.1998,1998,Hartlepool,Swansea,1,2,2.10,3.00,3.20
+28.11.1998,1998,Hull,Carlisle,1,0,2.60,2.90,2.60
+28.11.1998,1998,Peterborough,Scunthorpe,2,1,2.50,2.85,2.85
+28.11.1998,1998,Plymouth,Leyton Orient,2,4,2.29,2.90,3.10
+28.11.1998,1998,Rotherham,Exeter,0,0,1.55,3.40,6.00
+28.11.1998,1998,Shrewsbury,Brighton,1,3,2.00,2.95,3.50
+27.11.1998,1998,FC Halifax,Mansfield,2,2,1.80,3.00,4.50
+22.11.1998,1998,Swansea,Cardiff,2,1,2.60,2.75,2.85
+21.11.1998,1998,Brighton,FC Halifax,0,1,2.60,2.80,2.80
+21.11.1998,1998,Cambridge Utd,Darlington,2,1,1.85,2.90,4.20
+21.11.1998,1998,Carlisle,Rotherham,0,0,2.85,2.75,2.60
+21.11.1998,1998,Chester,Rochdale,1,1,2.35,3.00,3.00
+21.11.1998,1998,Exeter,Shrewsbury,0,1,1.80,3.00,4.50
+21.11.1998,1998,Leyton Orient,Brentford,2,1,2.40,2.80,3.10
+21.11.1998,1998,Scarborough FC,Hartlepool,1,2,2.45,2.90,2.90
+21.11.1998,1998,Scunthorpe,Hull,3,2,1.45,3.80,7.30
+21.11.1998,1998,Southend,Plymouth,1,0,2.65,2.75,2.80
+21.11.1998,1998,Torquay,Peterborough,0,1,2.70,2.70,2.70
+20.11.1998,1998,Mansfield,Barnet,5,0,NA,NA,NA
+17.11.1998,1998,Rochdale,Scarborough FC,0,1,1.70,3.20,4.50
+10.11.1998,1998,Barnet,Scunthorpe,1,0,3.00,3.00,2.35
+10.11.1998,1998,Brentford,Southend,4,1,1.65,3.40,6.00
+10.11.1998,1998,Cardiff,Scarborough FC,1,0,1.65,3.40,6.00
+10.11.1998,1998,FC Halifax,Chester,3,2,1.75,3.20,4.65
+10.11.1998,1998,Hartlepool,Mansfield,1,2,2.25,3.00,3.70
+10.11.1998,1998,Hull,Brighton,0,2,2.95,3.00,2.54
+10.11.1998,1998,Peterborough,Cambridge Utd,2,1,2.65,3.00,2.65
+10.11.1998,1998,Plymouth,Swansea,1,2,1.75,3.20,4.65
+10.11.1998,1998,Rochdale,Exeter,1,1,1.75,3.30,4.30
+10.11.1998,1998,Rotherham,Torquay,2,2,1.60,3.50,6.10
+10.11.1998,1998,Shrewsbury,Leyton Orient,1,1,2.45,3.00,2.95
+07.11.1998,1998,Cambridge Utd,Barnet,3,2,1.55,3.50,5.60
+07.11.1998,1998,Carlisle,FC Halifax,0,1,2.25,3.00,3.15
+07.11.1998,1998,Darlington,Brighton,1,2,1.60,3.40,5.00
+07.11.1998,1998,Exeter,Southend,2,1,2.00,3.00,3.50
+07.11.1998,1998,Hartlepool,Plymouth,2,0,2.50,3.00,2.50
+07.11.1998,1998,Hull,Leyton Orient,0,1,2.70,3.00,2.50
+07.11.1998,1998,Rochdale,Mansfield,1,0,2.40,3.00,2.80
+07.11.1998,1998,Rotherham,Scarborough FC,4,0,1.55,3.50,5.60
+07.11.1998,1998,Scunthorpe,Chester,2,1,1.75,3.30,4.50
+07.11.1998,1998,Shrewsbury,Brentford,2,0,2.70,3.00,2.50
+07.11.1998,1998,Swansea,Peterborough,0,0,2.29,3.00,3.00
+07.11.1998,1998,Torquay,Cardiff,0,0,2.70,3.00,2.50
+03.11.1998,1998,Plymouth,Brentford,3,0,2.60,2.85,2.60
+31.10.1998,1998,Barnet,Rochdale,0,1,2.10,3.00,3.30
+31.10.1998,1998,Brighton,Hartlepool,3,2,2.29,3.00,3.15
+31.10.1998,1998,Cardiff,Exeter,1,0,1.70,3.30,4.09
+31.10.1998,1998,Chester,Shrewsbury,1,1,2.00,3.00,3.50
+31.10.1998,1998,FC Halifax,Swansea,2,0,1.90,3.10,3.80
+31.10.1998,1998,Leyton Orient,Scunthorpe,1,0,2.40,2.95,2.95
+31.10.1998,1998,Mansfield,Cambridge Utd,1,3,2.25,3.00,3.20
+31.10.1998,1998,Peterborough,Rotherham,2,4,2.29,3.00,3.00
+31.10.1998,1998,Plymouth,Hull,0,0,1.50,3.50,6.00
+31.10.1998,1998,Scarborough FC,Torquay,1,1,2.10,3.00,3.30
+31.10.1998,1998,Southend,Darlington,2,1,2.50,3.00,2.50
+24.10.1998,1998,Barnet,Brighton,0,1,1.80,3.20,4.09
+24.10.1998,1998,Cambridge Utd,Shrewsbury,0,0,1.65,3.30,5.00
+24.10.1998,1998,Hartlepool,Torquay,4,1,2.00,3.00,3.60
+24.10.1998,1998,Hull,Southend,1,1,2.50,3.00,2.50
+24.10.1998,1998,Leyton Orient,FC Halifax,1,0,2.50,3.00,2.75
+24.10.1998,1998,Scunthorpe,Rotherham,4,3,2.10,3.00,3.30
+21.10.1998,1998,Scarborough FC,Barnet,0,0,2.29,3.00,3.15
+20.10.1998,1998,Brentford,Scunthorpe,2,1,1.90,2.90,3.90
+20.10.1998,1998,Brighton,Plymouth,1,3,2.90,2.90,2.40
+20.10.1998,1998,Cardiff,Leyton Orient,0,0,1.65,3.40,5.00
+20.10.1998,1998,Chester,Hartlepool,1,1,1.85,3.20,4.09
+20.10.1998,1998,Exeter,Hull,3,0,1.65,3.40,5.00
+20.10.1998,1998,FC Halifax,Cambridge Utd,3,3,2.10,3.00,3.20
+20.10.1998,1998,Peterborough,Carlisle,0,1,1.75,3.30,4.09
+20.10.1998,1998,Rotherham,Rochdale,2,2,1.60,3.40,5.00
+20.10.1998,1998,Shrewsbury,Swansea,1,0,2.50,3.00,2.50
+20.10.1998,1998,Southend,Mansfield,1,2,2.29,3.00,3.15
+20.10.1998,1998,Torquay,Darlington,2,2,2.50,3.00,2.50
+17.10.1998,1998,Brentford,Hartlepool,3,1,1.65,3.10,5.75
+17.10.1998,1998,Brighton,Mansfield,1,3,2.50,2.90,2.75
+17.10.1998,1998,Cardiff,Cambridge Utd,0,1,1.90,3.00,3.60
+17.10.1998,1998,Chester,Swansea,1,1,2.25,3.00,3.15
+17.10.1998,1998,Exeter,Scunthorpe,2,2,2.60,2.90,2.60
+17.10.1998,1998,Peterborough,Rochdale,2,0,1.65,3.30,5.09
+17.10.1998,1998,Rotherham,Darlington,3,1,2.40,2.95,2.95
+17.10.1998,1998,Scarborough FC,Hull,1,2,1.65,3.30,5.09
+17.10.1998,1998,Shrewsbury,Plymouth,2,1,2.95,2.95,2.45
+17.10.1998,1998,Southend,Leyton Orient,2,2,2.00,3.00,3.50
+17.10.1998,1998,Torquay,Carlisle,2,2,2.10,3.00,3.30
+16.10.1998,1998,FC Halifax,Barnet,1,1,1.60,3.40,5.50
+11.10.1998,1998,Barnet,Chester,0,0,2.29,2.90,3.35
+11.10.1998,1998,Rochdale,FC Halifax,1,0,2.85,2.95,2.54
+10.10.1998,1998,Darlington,Peterborough,3,0,2.10,3.00,3.50
+10.10.1998,1998,Hartlepool,Shrewsbury,1,1,1.75,3.30,4.84
+10.10.1998,1998,Scunthorpe,Southend,1,1,1.75,3.30,4.84
+09.10.1998,1998,Cambridge Utd,Brighton,2,3,1.60,3.40,5.60
+09.10.1998,1998,Carlisle,Scarborough FC,1,0,2.04,3.00,3.60
+09.10.1998,1998,Hull,Cardiff,1,2,3.25,3.00,2.20
+09.10.1998,1998,Leyton Orient,Exeter,2,0,1.95,3.15,3.95
+09.10.1998,1998,Mansfield,Torquay,2,1,1.95,3.15,3.95
+09.10.1998,1998,Swansea,Rotherham,1,1,2.25,3.00,3.25
+03.10.1998,1998,Cardiff,Brighton,2,0,1.65,3.30,5.00
+03.10.1998,1998,Carlisle,Barnet,2,1,2.25,3.00,3.25
+03.10.1998,1998,Darlington,Swansea,2,2,1.80,3.20,3.80
+03.10.1998,1998,Exeter,Mansfield,2,1,2.20,3.00,3.30
+03.10.1998,1998,Hull,Cambridge Utd,0,3,2.95,2.95,2.40
+03.10.1998,1998,Leyton Orient,Hartlepool,1,1,2.10,3.00,3.60
+03.10.1998,1998,Peterborough,Brentford,2,4,2.25,3.00,3.25
+03.10.1998,1998,Rotherham,Shrewsbury,0,1,1.50,3.60,6.00
+03.10.1998,1998,Scarborough FC,Chester,2,4,1.95,3.10,3.90
+03.10.1998,1998,Scunthorpe,FC Halifax,0,4,1.90,3.15,3.70
+03.10.1998,1998,Southend,Rochdale,1,1,1.75,3.30,4.00
+03.10.1998,1998,Torquay,Plymouth,1,1,2.70,2.95,2.50
+26.09.1998,1998,Barnet,Rotherham,4,2,3.00,3.00,2.29
+26.09.1998,1998,Brentford,Darlington,3,0,2.10,3.00,3.30
+26.09.1998,1998,Brighton,Scunthorpe,1,3,2.90,2.90,2.40
+26.09.1998,1998,Cambridge Utd,Exeter,1,1,1.55,3.40,5.60
+26.09.1998,1998,Chester,Cardiff,2,2,2.40,2.90,2.90
+26.09.1998,1998,FC Halifax,Torquay,1,1,1.70,3.30,4.50
+26.09.1998,1998,Hartlepool,Peterborough,1,2,2.40,2.90,2.90
+26.09.1998,1998,Mansfield,Hull,2,0,1.60,3.40,5.50
+26.09.1998,1998,Plymouth,Scarborough FC,0,0,1.70,3.30,4.50
+26.09.1998,1998,Rochdale,Leyton Orient,2,1,2.40,2.90,2.90
+26.09.1998,1998,Shrewsbury,Carlisle,1,1,2.40,2.90,2.90
+26.09.1998,1998,Swansea,Southend,3,1,2.40,2.90,2.90
+19.09.1998,1998,Cardiff,Rochdale,2,1,1.75,3.30,4.65
+19.09.1998,1998,Carlisle,Chester,1,1,2.20,3.00,3.35
+19.09.1998,1998,Darlington,Shrewsbury,1,0,1.50,3.60,7.00
+19.09.1998,1998,Exeter,Barnet,1,0,2.10,3.00,3.50
+19.09.1998,1998,Hull,FC Halifax,1,2,2.85,2.90,2.65
+19.09.1998,1998,Leyton Orient,Brighton,1,0,1.95,3.15,4.09
+19.09.1998,1998,Peterborough,Plymouth,0,2,2.20,3.00,3.50
+19.09.1998,1998,Rotherham,Hartlepool,3,0,1.75,3.30,4.65
+19.09.1998,1998,Scarborough FC,Brentford,3,1,2.95,2.95,2.50
+19.09.1998,1998,Scunthorpe,Mansfield,3,2,1.75,3.30,4.65
+19.09.1998,1998,Southend,Cambridge Utd,0,1,1.85,3.20,4.65
+19.09.1998,1998,Torquay,Swansea,1,1,1.85,3.20,4.65
+12.09.1998,1998,Barnet,Hull,4,1,1.85,3.15,3.90
+12.09.1998,1998,Brentford,Rotherham,0,3,1.80,3.15,4.09
+12.09.1998,1998,Brighton,Southend,0,2,2.40,2.95,2.95
+12.09.1998,1998,Cambridge Utd,Leyton Orient,1,0,2.20,3.00,3.25
+12.09.1998,1998,Chester,Torquay,2,0,2.20,3.00,3.25
+12.09.1998,1998,Hartlepool,Exeter,4,3,1.65,3.30,5.00
+12.09.1998,1998,Mansfield,Carlisle,1,1,2.00,3.00,3.40
+12.09.1998,1998,Plymouth,Darlington,1,2,1.80,3.15,4.09
+12.09.1998,1998,Rochdale,Scunthorpe,2,2,2.50,2.95,2.50
+12.09.1998,1998,Shrewsbury,Peterborough,1,1,3.10,3.00,2.25
+12.09.1998,1998,Swansea,Scarborough FC,2,0,2.10,3.00,3.30
+11.09.1998,1998,FC Halifax,Cardiff,1,2,1.60,3.40,5.00
+09.09.1998,1998,Scarborough FC,Shrewsbury,2,0,1.85,3.15,3.90
+08.09.1998,1998,Cardiff,Barnet,1,0,1.75,3.30,4.59
+08.09.1998,1998,Carlisle,Swansea,1,2,1.65,3.30,5.00
+08.09.1998,1998,Darlington,Hartlepool,2,0,2.00,3.00,3.50
+08.09.1998,1998,Exeter,Brighton,1,0,2.20,3.00,3.30
+08.09.1998,1998,Hull,Rochdale,2,1,2.20,3.00,3.30
+08.09.1998,1998,Leyton Orient,Mansfield,1,1,2.00,3.00,3.50
+08.09.1998,1998,Peterborough,Chester,3,0,1.65,3.30,4.80
+08.09.1998,1998,Rotherham,Plymouth,0,2,2.10,3.00,3.50
+08.09.1998,1998,Scunthorpe,Cambridge Utd,3,2,1.80,3.15,4.09
+08.09.1998,1998,Southend,FC Halifax,0,0,2.10,3.00,3.50
+08.09.1998,1998,Torquay,Brentford,3,1,3.30,3.00,2.20
+05.09.1998,1998,Barnet,Peterborough,1,9,2.40,2.90,2.85
+05.09.1998,1998,Brighton,Swansea,1,0,2.25,3.00,3.30
+05.09.1998,1998,Cambridge Utd,Scarborough FC,2,3,1.80,3.15,3.90
+05.09.1998,1998,Cardiff,Plymouth,1,0,2.60,2.85,2.60
+05.09.1998,1998,Exeter,Chester,0,1,2.10,3.00,3.35
+05.09.1998,1998,Hull,Brentford,2,3,3.00,2.95,2.25
+05.09.1998,1998,Leyton Orient,Carlisle,2,1,2.04,3.00,3.40
+05.09.1998,1998,Mansfield,Darlington,0,1,1.90,3.10,3.50
+05.09.1998,1998,Rochdale,Shrewsbury,1,0,2.10,3.00,3.40
+05.09.1998,1998,Scunthorpe,Torquay,2,0,2.00,3.00,3.60
+05.09.1998,1998,Southend,Rotherham,3,0,2.50,2.90,2.50
+04.09.1998,1998,FC Halifax,Hartlepool,2,1,1.70,3.30,4.80
+01.09.1998,1998,Carlisle,Southend,3,0,2.29,3.00,3.15
+01.09.1998,1998,Chester,Cambridge Utd,0,3,2.45,2.95,2.90
+01.09.1998,1998,Torquay,Leyton Orient,1,1,2.25,3.00,3.25
+31.08.1998,1998,Brentford,Rochdale,2,1,1.55,3.30,5.60
+31.08.1998,1998,Darlington,Cardiff,3,0,2.20,3.00,3.25
+31.08.1998,1998,Hartlepool,Hull,1,0,1.80,3.15,4.30
+31.08.1998,1998,Peterborough,Exeter,4,1,1.65,3.30,5.00
+31.08.1998,1998,Plymouth,FC Halifax,1,0,2.10,3.00,3.35
+31.08.1998,1998,Rotherham,Mansfield,0,0,1.70,3.20,4.50
+31.08.1998,1998,Scarborough FC,Brighton,1,2,1.90,3.10,3.90
+31.08.1998,1998,Shrewsbury,Barnet,0,2,2.25,3.00,3.15
+31.08.1998,1998,Swansea,Scunthorpe,1,2,2.45,2.90,2.85
+29.08.1998,1998,Barnet,Brentford,0,3,2.50,2.85,2.50
+29.08.1998,1998,Brighton,Torquay,2,0,2.50,2.85,2.50
+29.08.1998,1998,Cambridge Utd,Hartlepool,1,2,1.90,3.10,3.50
+29.08.1998,1998,Cardiff,Rotherham,0,1,2.50,2.85,2.50
+29.08.1998,1998,Exeter,Carlisle,2,0,2.50,2.85,2.50
+29.08.1998,1998,Hull,Peterborough,1,0,2.50,2.85,2.50
+29.08.1998,1998,Leyton Orient,Scarborough FC,0,3,1.60,3.40,4.80
+29.08.1998,1998,Mansfield,Swansea,1,0,2.00,3.00,3.30
+29.08.1998,1998,Rochdale,Darlington,0,0,2.25,3.00,3.10
+29.08.1998,1998,Scunthorpe,Plymouth,0,2,2.20,3.00,3.10
+29.08.1998,1998,Southend,Chester,0,1,1.60,3.40,4.80
+28.08.1998,1998,FC Halifax,Shrewsbury,2,0,NA,NA,NA
+23.08.1998,1998,Chester,Hull,2,2,NA,NA,NA
+22.08.1998,1998,Brentford,Brighton,2,0,NA,NA,NA
+22.08.1998,1998,Carlisle,Rochdale,0,1,NA,NA,NA
+22.08.1998,1998,Darlington,FC Halifax,2,2,NA,NA,NA
+22.08.1998,1998,Hartlepool,Scunthorpe,1,2,NA,NA,NA
+22.08.1998,1998,Peterborough,Southend,1,1,NA,NA,NA
+22.08.1998,1998,Plymouth,Barnet,2,0,NA,NA,NA
+22.08.1998,1998,Rotherham,Cambridge Utd,2,0,NA,NA,NA
+22.08.1998,1998,Scarborough FC,Mansfield,2,3,NA,NA,NA
+22.08.1998,1998,Swansea,Leyton Orient,1,1,NA,NA,NA
+22.08.1998,1998,Torquay,Exeter,1,0,NA,NA,NA
+21.08.1998,1998,Shrewsbury,Cardiff,0,3,NA,NA,NA
+15.08.1998,1998,Barnet,Hartlepool,0,2,NA,NA,NA
+15.08.1998,1998,Brighton,Chester,2,2,NA,NA,NA
+15.08.1998,1998,Cambridge Utd,Swansea,2,1,NA,NA,NA
+15.08.1998,1998,Cardiff,Peterborough,1,3,NA,NA,NA
+15.08.1998,1998,Exeter,Scarborough FC,1,0,NA,NA,NA
+15.08.1998,1998,FC Halifax,Brentford,1,0,NA,NA,NA
+15.08.1998,1998,Hull,Darlington,1,2,NA,NA,NA
+15.08.1998,1998,Leyton Orient,Rotherham,1,4,NA,NA,NA
+15.08.1998,1998,Mansfield,Plymouth,2,0,NA,NA,NA
+15.08.1998,1998,Rochdale,Torquay,0,2,NA,NA,NA
+15.08.1998,1998,Scunthorpe,Carlisle,3,1,NA,NA,NA
+15.08.1998,1998,Southend,Shrewsbury,2,1,NA,NA,NA
+08.08.1998,1998,Brentford,Mansfield,3,0,NA,NA,NA
+08.08.1998,1998,Carlisle,Brighton,1,0,NA,NA,NA
+08.08.1998,1998,Chester,Leyton Orient,0,2,NA,NA,NA
+08.08.1998,1998,Darlington,Barnet,0,2,NA,NA,NA
+08.08.1998,1998,Hartlepool,Cardiff,1,1,NA,NA,NA
+08.08.1998,1998,Peterborough,FC Halifax,0,2,NA,NA,NA
+08.08.1998,1998,Plymouth,Rochdale,2,1,NA,NA,NA
+08.08.1998,1998,Rotherham,Hull,3,1,NA,NA,NA
+08.08.1998,1998,Scarborough FC,Southend,1,2,NA,NA,NA
+08.08.1998,1998,Shrewsbury,Scunthorpe,2,1,NA,NA,NA
+08.08.1998,1998,Swansea,Exeter,2,0,NA,NA,NA
+08.08.1998,1998,Torquay,Cambridge Utd,0,1,NA,NA,NA
+08.05.1999,1998,Brighton,Rochdale,1,1,,4.80,2.10

@@ -1,553 +1,553 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-06.05.2006,2005,Blackpool,Gillingham,3,3
-06.05.2006,2005,Bournemouth,Brentford,2,2
-06.05.2006,2005,Bradford City,Nottingham,1,1
-06.05.2006,2005,Chesterfield,Swansea,0,4
-06.05.2006,2005,Hartlepool,Port Vale,1,1
-06.05.2006,2005,Oldham,Scunthorpe,1,1
-06.05.2006,2005,Rotherham,MK Dons,0,0
-06.05.2006,2005,Southend,Bristol City,1,0
-06.05.2006,2005,Swindon,Huddersfield,0,0
-06.05.2006,2005,Tranmere,Doncaster,0,2
-06.05.2006,2005,Walsall,Barnsley,1,2
-06.05.2006,2005,Yeovil,Colchester,0,0
-29.04.2006,2005,Barnsley,Bradford City,0,0
-29.04.2006,2005,Brentford,Hartlepool,1,1
-29.04.2006,2005,Bristol City,Swindon,1,1
-29.04.2006,2005,Colchester,Rotherham,2,0
-29.04.2006,2005,Doncaster,Oldham,1,0
-29.04.2006,2005,Gillingham,Walsall,0,1
-29.04.2006,2005,Huddersfield,Yeovil,1,2
-29.04.2006,2005,MK Dons,Tranmere,1,2
-29.04.2006,2005,Nottingham,Bournemouth,1,1
-29.04.2006,2005,Port Vale,Chesterfield,3,1
-29.04.2006,2005,Scunthorpe,Blackpool,1,0
-29.04.2006,2005,Swansea,Southend,2,2
-22.04.2006,2005,Blackpool,Barnsley,1,1
-22.04.2006,2005,Bournemouth,Colchester,1,2
-22.04.2006,2005,Bradford City,Port Vale,1,0
-22.04.2006,2005,Chesterfield,MK Dons,1,2
-22.04.2006,2005,Hartlepool,Nottingham,3,2
-22.04.2006,2005,Oldham,Swansea,1,1
-22.04.2006,2005,Rotherham,Scunthorpe,1,1
-22.04.2006,2005,Southend,Doncaster,0,1
-22.04.2006,2005,Swindon,Brentford,1,3
-22.04.2006,2005,Tranmere,Bristol City,0,3
-22.04.2006,2005,Walsall,Huddersfield,1,3
-22.04.2006,2005,Yeovil,Gillingham,4,3
-18.04.2006,2005,Huddersfield,Chesterfield,1,2
-17.04.2006,2005,Barnsley,Southend,2,2
-17.04.2006,2005,Brentford,Blackpool,1,1
-17.04.2006,2005,Bristol City,Oldham,2,1
-17.04.2006,2005,Colchester,Tranmere,1,0
-17.04.2006,2005,Doncaster,Walsall,1,0
-17.04.2006,2005,Gillingham,Bradford City,2,1
-17.04.2006,2005,MK Dons,Hartlepool,2,1
-17.04.2006,2005,Nottingham,Yeovil,2,1
-17.04.2006,2005,Port Vale,Bournemouth,0,0
-17.04.2006,2005,Scunthorpe,Swindon,1,2
-17.04.2006,2005,Swansea,Rotherham,0,2
-15.04.2006,2005,Blackpool,Swansea,1,0
-15.04.2006,2005,Bournemouth,Huddersfield,1,1
-15.04.2006,2005,Bradford City,Doncaster,2,1
-15.04.2006,2005,Chesterfield,Colchester,2,2
-15.04.2006,2005,Hartlepool,Bristol City,1,2
-15.04.2006,2005,Oldham,Barnsley,0,3
-15.04.2006,2005,Rotherham,Brentford,2,2
-15.04.2006,2005,Swindon,MK Dons,0,1
-15.04.2006,2005,Tranmere,Nottingham,0,1
-15.04.2006,2005,Walsall,Port Vale,1,1
-14.04.2006,2005,Southend,Gillingham,0,1
-14.04.2006,2005,Yeovil,Scunthorpe,0,1
-11.04.2006,2005,Swansea,Swindon,2,1
-11.04.2006,2005,Walsall,Bournemouth,0,1
-11.04.2006,2005,Colchester,Hartlepool,2,0
-08.04.2006,2005,Barnsley,Chesterfield,1,1
-08.04.2006,2005,Brentford,Bradford City,1,1
-08.04.2006,2005,Gillingham,Huddersfield,2,0
-08.04.2006,2005,Nottingham,Colchester,1,0
-08.04.2006,2005,Oldham,MK Dons,1,2
-08.04.2006,2005,Port Vale,Swansea,3,2
-08.04.2006,2005,Rotherham,Tranmere,2,0
-08.04.2006,2005,Scunthorpe,Bournemouth,2,2
-08.04.2006,2005,Southend,Blackpool,2,1
-08.04.2006,2005,Swindon,Hartlepool,1,1
-08.04.2006,2005,Walsall,Bristol City,0,3
-08.04.2006,2005,Yeovil,Doncaster,3,0
-04.04.2006,2005,Port Vale,MK Dons,3,1
-01.04.2006,2005,Blackpool,Walsall,2,0
-01.04.2006,2005,Bournemouth,Southend,1,1
-01.04.2006,2005,Bradford City,Scunthorpe,4,2
-01.04.2006,2005,Bristol City,Yeovil,2,1
-01.04.2006,2005,Chesterfield,Nottingham,1,3
-01.04.2006,2005,Colchester,Brentford,1,1
-01.04.2006,2005,Doncaster,Rotherham,3,1
-01.04.2006,2005,Huddersfield,Barnsley,1,0
-01.04.2006,2005,MK Dons,Gillingham,1,2
-31.03.2006,2005,Hartlepool,Oldham,1,1
-31.03.2006,2005,Tranmere,Port Vale,3,0
-28.03.2006,2005,MK Dons,Brentford,0,1
-25.03.2006,2005,Barnsley,Bournemouth,0,0
-25.03.2006,2005,Brentford,Doncaster,0,1
-25.03.2006,2005,Gillingham,Swansea,1,0
-25.03.2006,2005,Nottingham,MK Dons,3,0
-25.03.2006,2005,Oldham,Blackpool,3,1
-25.03.2006,2005,Port Vale,Huddersfield,1,1
-25.03.2006,2005,Rotherham,Bristol City,3,1
-25.03.2006,2005,Scunthorpe,Colchester,0,0
-25.03.2006,2005,Southend,Hartlepool,3,0
-25.03.2006,2005,Swindon,Chesterfield,2,0
-25.03.2006,2005,Walsall,Bradford City,2,2
-25.03.2006,2005,Yeovil,Tranmere,2,2
-21.03.2006,2005,Bradford City,Blackpool,1,0
-21.03.2006,2005,Gillingham,Brentford,3,2
-21.03.2006,2005,Doncaster,Colchester,0,0
-21.03.2006,2005,Walsall,Yeovil,0,2
-18.03.2006,2005,Blackpool,Port Vale,1,0
-18.03.2006,2005,Bournemouth,Yeovil,1,0
-18.03.2006,2005,Bradford City,Oldham,1,4
-18.03.2006,2005,Bristol City,Gillingham,6,0
-18.03.2006,2005,Chesterfield,Scunthorpe,1,2
-18.03.2006,2005,Colchester,Swindon,1,0
-18.03.2006,2005,Doncaster,Nottingham,1,2
-18.03.2006,2005,Hartlepool,Barnsley,1,1
-18.03.2006,2005,Huddersfield,Rotherham,4,1
-18.03.2006,2005,MK Dons,Southend,2,1
-17.03.2006,2005,Swansea,Brentford,2,1
-17.03.2006,2005,Tranmere,Walsall,1,2
-14.03.2006,2005,Rotherham,Oldham,2,0
-14.03.2006,2005,Scunthorpe,Hartlepool,2,0
-12.03.2006,2005,Swansea,Walsall,1,1
-11.03.2006,2005,Blackpool,Rotherham,0,0
-11.03.2006,2005,Bournemouth,Bradford City,0,1
-11.03.2006,2005,Brentford,Barnsley,3,1
-11.03.2006,2005,Doncaster,Port Vale,1,1
-11.03.2006,2005,Nottingham,Gillingham,1,1
-11.03.2006,2005,Oldham,Colchester,1,0
-11.03.2006,2005,Tranmere,Chesterfield,4,1
-11.03.2006,2005,Yeovil,Swindon,0,0
-10.03.2006,2005,Hartlepool,Huddersfield,3,1
-10.03.2006,2005,MK Dons,Bristol City,0,1
-10.03.2006,2005,Southend,Scunthorpe,3,0
-07.03.2006,2005,Swindon,Tranmere,1,2
-07.03.2006,2005,Yeovil,Brentford,1,2
-04.03.2006,2005,Barnsley,Swansea,2,2
-04.03.2006,2005,Bristol City,Nottingham,1,1
-04.03.2006,2005,Chesterfield,Yeovil,0,3
-04.03.2006,2005,Colchester,Southend,0,3
-04.03.2006,2005,Huddersfield,Doncaster,2,2
-28.02.2006,2005,Port Vale,Scunthorpe,1,2
-28.02.2006,2005,Bournemouth,Barnsley,1,1
-28.02.2006,2005,Doncaster,Brentford,0,0
-25.02.2006,2005,Barnsley,Colchester,1,0
-25.02.2006,2005,Blackpool,Yeovil,2,0
-25.02.2006,2005,Brentford,Port Vale,0,1
-25.02.2006,2005,Bristol City,Bournemouth,3,1
-25.02.2006,2005,Gillingham,Scunthorpe,1,3
-25.02.2006,2005,Hartlepool,Doncaster,1,1
-25.02.2006,2005,MK Dons,Bradford City,2,1
-25.02.2006,2005,Nottingham,Swindon,7,1
-25.02.2006,2005,Oldham,Tranmere,1,0
-25.02.2006,2005,Rotherham,Chesterfield,0,4
-25.02.2006,2005,Southend,Walsall,0,0
-24.02.2006,2005,Swansea,Huddersfield,2,2
-18.02.2006,2005,Bournemouth,Blackpool,1,1
-18.02.2006,2005,Bradford City,Bristol City,1,1
-18.02.2006,2005,Chesterfield,Southend,3,4
-18.02.2006,2005,Doncaster,Gillingham,2,0
-18.02.2006,2005,Huddersfield,MK Dons,5,0
-18.02.2006,2005,Port Vale,Nottingham,0,2
-18.02.2006,2005,Scunthorpe,Swansea,2,2
-18.02.2006,2005,Swindon,Rotherham,2,3
-18.02.2006,2005,Tranmere,Barnsley,0,1
-18.02.2006,2005,Walsall,Oldham,0,2
-15.02.2006,2005,Chesterfield,Doncaster,0,1
-15.02.2006,2005,Oldham,Nottingham,3,0
-14.02.2006,2005,Barnsley,Port Vale,1,1
-14.02.2006,2005,Blackpool,Huddersfield,0,1
-14.02.2006,2005,Brentford,Southend,2,0
-14.02.2006,2005,Colchester,Walsall,0,0
-14.02.2006,2005,Rotherham,Bournemouth,2,0
-14.02.2006,2005,Scunthorpe,Bristol City,0,2
-14.02.2006,2005,Swansea,Bradford City,1,1
-14.02.2006,2005,Swindon,Gillingham,1,0
-14.02.2006,2005,Tranmere,Hartlepool,0,0
-14.02.2006,2005,Yeovil,MK Dons,1,1
-11.02.2006,2005,Bournemouth,Oldham,0,0
-11.02.2006,2005,Bradford City,Swindon,1,1
-11.02.2006,2005,Bristol City,Brentford,0,1
-11.02.2006,2005,Doncaster,Barnsley,2,0
-11.02.2006,2005,Gillingham,Tranmere,1,1
-11.02.2006,2005,Huddersfield,Colchester,2,0
-11.02.2006,2005,MK Dons,Blackpool,3,0
-11.02.2006,2005,Nottingham,Swansea,1,2
-11.02.2006,2005,Port Vale,Yeovil,1,0
-11.02.2006,2005,Walsall,Scunthorpe,2,2
-10.02.2006,2005,Hartlepool,Chesterfield,1,0
-10.02.2006,2005,Southend,Rotherham,2,0
-07.02.2006,2005,Colchester,Scunthorpe,1,0
-04.02.2006,2005,Barnsley,Bristol City,2,0
-04.02.2006,2005,Blackpool,Nottingham,2,2
-04.02.2006,2005,Brentford,Walsall,5,0
-04.02.2006,2005,Chesterfield,Gillingham,1,1
-04.02.2006,2005,Colchester,Bradford City,3,1
-04.02.2006,2005,Oldham,Port Vale,0,1
-04.02.2006,2005,Rotherham,Hartlepool,0,0
-04.02.2006,2005,Scunthorpe,MK Dons,2,0
-04.02.2006,2005,Swindon,Doncaster,2,1
-04.02.2006,2005,Yeovil,Southend,0,2
-03.02.2006,2005,Swansea,Bournemouth,1,0
-03.02.2006,2005,Tranmere,Huddersfield,2,1
-31.01.2006,2005,Swindon,Walsall,1,0
-31.01.2006,2005,MK Dons,Nottingham,1,0
-31.01.2006,2005,Swansea,Gillingham,1,2
-28.01.2006,2005,Bournemouth,Chesterfield,1,2
-28.01.2006,2005,Bradford City,Tranmere,0,0
-28.01.2006,2005,Bristol City,Swansea,1,0
-28.01.2006,2005,Gillingham,Rotherham,1,1
-28.01.2006,2005,Hartlepool,Blackpool,0,3
-28.01.2006,2005,Huddersfield,Oldham,3,2
-27.01.2006,2005,Nottingham,Barnsley,0,2
-27.01.2006,2005,Southend,Swindon,2,0
-24.01.2006,2005,Blackpool,Doncaster,4,2
-21.01.2006,2005,Barnsley,MK Dons,2,0
-21.01.2006,2005,Blackpool,Bristol City,1,1
-21.01.2006,2005,Brentford,Huddersfield,2,0
-21.01.2006,2005,Chesterfield,Walsall,2,2
-21.01.2006,2005,Colchester,Port Vale,2,1
-21.01.2006,2005,Oldham,Gillingham,2,0
-21.01.2006,2005,Rotherham,Nottingham,1,1
-21.01.2006,2005,Scunthorpe,Doncaster,1,2
-21.01.2006,2005,Swansea,Hartlepool,1,1
-21.01.2006,2005,Swindon,Bournemouth,4,2
-21.01.2006,2005,Tranmere,Southend,0,0
-21.01.2006,2005,Yeovil,Bradford City,0,1
-17.01.2006,2005,Brentford,Nottingham,1,1
-17.01.2006,2005,Colchester,Bristol City,3,2
-14.01.2006,2005,Bournemouth,Rotherham,2,0
-14.01.2006,2005,Bradford City,Swansea,1,1
-14.01.2006,2005,Bristol City,Scunthorpe,1,1
-14.01.2006,2005,Doncaster,Chesterfield,1,1
-14.01.2006,2005,Gillingham,Swindon,3,0
-14.01.2006,2005,Hartlepool,Tranmere,0,0
-14.01.2006,2005,Huddersfield,Blackpool,2,0
-14.01.2006,2005,MK Dons,Yeovil,1,1
-14.01.2006,2005,Nottingham,Oldham,3,0
-14.01.2006,2005,Port Vale,Barnsley,3,2
-14.01.2006,2005,Southend,Brentford,4,1
-14.01.2006,2005,Walsall,Colchester,0,2
-10.01.2006,2005,Barnsley,Gillingham,1,0
-10.01.2006,2005,Rotherham,Port Vale,1,1
-10.01.2006,2005,Scunthorpe,Huddersfield,2,2
-10.01.2006,2005,Swansea,MK Dons,3,1
-10.01.2006,2005,Blackpool,Oldham,1,0
-07.01.2006,2005,Chesterfield,Bradford City,1,0
-07.01.2006,2005,Oldham,Southend,0,0
-07.01.2006,2005,Tranmere,Bournemouth,0,0
-07.01.2006,2005,Yeovil,Hartlepool,2,0
-02.01.2006,2005,Blackpool,Southend,1,2
-02.01.2006,2005,Bournemouth,Scunthorpe,1,1
-02.01.2006,2005,Bradford City,Brentford,3,3
-02.01.2006,2005,Bristol City,Walsall,3,0
-02.01.2006,2005,Chesterfield,Barnsley,0,0
-02.01.2006,2005,Colchester,Nottingham,3,1
-02.01.2006,2005,Doncaster,Yeovil,0,1
-02.01.2006,2005,Hartlepool,Swindon,1,1
-02.01.2006,2005,Huddersfield,Gillingham,0,0
-02.01.2006,2005,MK Dons,Oldham,0,1
-02.01.2006,2005,Swansea,Port Vale,0,0
-02.01.2006,2005,Tranmere,Rotherham,3,2
-31.12.2005,2005,Barnsley,Huddersfield,2,2
-31.12.2005,2005,Brentford,Colchester,0,2
-31.12.2005,2005,Gillingham,MK Dons,3,0
-31.12.2005,2005,Nottingham,Chesterfield,0,0
-31.12.2005,2005,Oldham,Hartlepool,2,1
-31.12.2005,2005,Port Vale,Tranmere,0,2
-31.12.2005,2005,Rotherham,Doncaster,1,0
-31.12.2005,2005,Scunthorpe,Bradford City,0,0
-31.12.2005,2005,Southend,Bournemouth,2,1
-31.12.2005,2005,Swindon,Swansea,0,0
-31.12.2005,2005,Walsall,Blackpool,2,0
-31.12.2005,2005,Yeovil,Bristol City,1,1
-28.12.2005,2005,Bradford City,Walsall,2,0
-28.12.2005,2005,Bristol City,Rotherham,3,1
-28.12.2005,2005,Chesterfield,Swindon,1,1
-28.12.2005,2005,Hartlepool,Southend,1,2
-28.12.2005,2005,Huddersfield,Port Vale,0,3
-28.12.2005,2005,Tranmere,Yeovil,4,1
-26.12.2005,2005,Barnsley,Hartlepool,1,1
-26.12.2005,2005,Brentford,Swansea,2,1
-26.12.2005,2005,Gillingham,Bristol City,1,1
-26.12.2005,2005,Nottingham,Doncaster,4,0
-26.12.2005,2005,Oldham,Bradford City,2,1
-26.12.2005,2005,Port Vale,Blackpool,1,2
-26.12.2005,2005,Rotherham,Huddersfield,1,1
-26.12.2005,2005,Scunthorpe,Chesterfield,2,2
-26.12.2005,2005,Southend,MK Dons,0,0
-26.12.2005,2005,Swindon,Colchester,1,0
-26.12.2005,2005,Walsall,Tranmere,0,0
-23.12.2005,2005,Yeovil,Bournemouth,1,1
-17.12.2005,2005,Bournemouth,Gillingham,2,1
-17.12.2005,2005,Bradford City,Rotherham,1,2
-17.12.2005,2005,Chesterfield,Oldham,1,1
-17.12.2005,2005,Colchester,MK Dons,2,0
-17.12.2005,2005,Doncaster,Swansea,2,1
-17.12.2005,2005,Huddersfield,Southend,0,0
-17.12.2005,2005,Port Vale,Bristol City,0,1
-17.12.2005,2005,Swindon,Blackpool,0,0
-17.12.2005,2005,Tranmere,Brentford,1,4
-17.12.2005,2005,Walsall,Hartlepool,1,0
-17.12.2005,2005,Yeovil,Barnsley,2,1
-16.12.2005,2005,Scunthorpe,Nottingham,3,1
-10.12.2005,2005,Barnsley,Scunthorpe,5,2
-10.12.2005,2005,Blackpool,Tranmere,1,1
-10.12.2005,2005,Brentford,Chesterfield,1,1
-10.12.2005,2005,Bristol City,Huddersfield,2,0
-10.12.2005,2005,Gillingham,Port Vale,3,0
-10.12.2005,2005,Hartlepool,Bournemouth,2,1
-10.12.2005,2005,MK Dons,Doncaster,2,3
-10.12.2005,2005,Nottingham,Walsall,1,1
-10.12.2005,2005,Oldham,Swindon,2,2
-10.12.2005,2005,Rotherham,Yeovil,1,2
-10.12.2005,2005,Southend,Bradford City,1,1
-10.12.2005,2005,Swansea,Colchester,1,1
-06.12.2005,2005,Barnsley,Tranmere,2,1
-06.12.2005,2005,Blackpool,Bournemouth,1,3
-06.12.2005,2005,Brentford,Yeovil,3,2
-06.12.2005,2005,Bristol City,Bradford City,0,1
-06.12.2005,2005,Gillingham,Doncaster,1,0
-06.12.2005,2005,Hartlepool,Colchester,0,1
-06.12.2005,2005,MK Dons,Huddersfield,2,2
-06.12.2005,2005,Nottingham,Port Vale,1,0
-06.12.2005,2005,Oldham,Walsall,2,1
-06.12.2005,2005,Southend,Chesterfield,0,0
-06.12.2005,2005,Swansea,Scunthorpe,2,0
-03.12.2005,2005,Rotherham,Swindon,0,1
-26.11.2005,2005,Bournemouth,MK Dons,2,0
-26.11.2005,2005,Bradford City,Hartlepool,0,1
-26.11.2005,2005,Chesterfield,Blackpool,1,1
-26.11.2005,2005,Colchester,Gillingham,5,0
-26.11.2005,2005,Doncaster,Bristol City,2,0
-26.11.2005,2005,Huddersfield,Nottingham,2,1
-26.11.2005,2005,Port Vale,Southend,2,1
-26.11.2005,2005,Scunthorpe,Brentford,1,3
-26.11.2005,2005,Swindon,Barnsley,0,3
-26.11.2005,2005,Tranmere,Swansea,2,2
-26.11.2005,2005,Walsall,Rotherham,3,1
-26.11.2005,2005,Yeovil,Oldham,0,2
-19.11.2005,2005,Barnsley,Rotherham,1,1
-19.11.2005,2005,Brentford,Oldham,3,3
-19.11.2005,2005,Bristol City,Chesterfield,2,4
-19.11.2005,2005,Colchester,Blackpool,3,2
-19.11.2005,2005,Doncaster,Bournemouth,4,2
-19.11.2005,2005,Gillingham,Hartlepool,1,0
-19.11.2005,2005,Huddersfield,Bradford City,0,0
-19.11.2005,2005,MK Dons,Walsall,2,1
-19.11.2005,2005,Nottingham,Southend,2,0
-19.11.2005,2005,Port Vale,Swindon,1,1
-19.11.2005,2005,Scunthorpe,Tranmere,1,2
-18.11.2005,2005,Swansea,Yeovil,2,0
-13.11.2005,2005,Blackpool,Scunthorpe,5,2
-13.11.2005,2005,Oldham,Doncaster,0,1
-12.11.2005,2005,Bournemouth,Nottingham,1,1
-12.11.2005,2005,Bradford City,Barnsley,0,0
-12.11.2005,2005,Chesterfield,Port Vale,2,0
-12.11.2005,2005,Hartlepool,Brentford,1,2
-12.11.2005,2005,Rotherham,Colchester,1,2
-12.11.2005,2005,Southend,Swansea,1,2
-12.11.2005,2005,Tranmere,MK Dons,1,2
-12.11.2005,2005,Walsall,Gillingham,2,0
-12.11.2005,2005,Yeovil,Huddersfield,1,2
-11.11.2005,2005,Swindon,Bristol City,2,1
-01.11.2005,2005,Hartlepool,Gillingham,3,1
-29.10.2005,2005,Barnsley,Walsall,2,1
-29.10.2005,2005,Brentford,Bournemouth,0,2
-29.10.2005,2005,Bristol City,Southend,0,3
-29.10.2005,2005,Colchester,Yeovil,3,2
-29.10.2005,2005,Doncaster,Tranmere,0,2
-29.10.2005,2005,Gillingham,Blackpool,2,1
-29.10.2005,2005,Huddersfield,Swindon,1,1
-29.10.2005,2005,MK Dons,Rotherham,1,1
-29.10.2005,2005,Nottingham,Bradford City,1,0
-29.10.2005,2005,Port Vale,Hartlepool,1,2
-29.10.2005,2005,Scunthorpe,Oldham,4,2
-29.10.2005,2005,Swansea,Chesterfield,5,1
-26.10.2005,2005,Chesterfield,Bristol City,3,0
-25.10.2005,2005,Rotherham,Barnsley,0,1
-22.10.2005,2005,Blackpool,Brentford,0,0
-22.10.2005,2005,Bournemouth,Port Vale,1,2
-22.10.2005,2005,Bradford City,Gillingham,1,0
-22.10.2005,2005,Chesterfield,Huddersfield,4,3
-22.10.2005,2005,Hartlepool,MK Dons,2,1
-22.10.2005,2005,Oldham,Bristol City,4,3
-22.10.2005,2005,Rotherham,Swansea,2,2
-22.10.2005,2005,Southend,Barnsley,1,1
-22.10.2005,2005,Swindon,Scunthorpe,1,1
-22.10.2005,2005,Tranmere,Colchester,0,0
-22.10.2005,2005,Walsall,Doncaster,1,0
-22.10.2005,2005,Yeovil,Nottingham,3,0
-15.10.2005,2005,Barnsley,Blackpool,2,2
-15.10.2005,2005,Brentford,Swindon,0,0
-15.10.2005,2005,Bristol City,Tranmere,1,0
-15.10.2005,2005,Colchester,Bournemouth,0,1
-15.10.2005,2005,Doncaster,Southend,2,0
-15.10.2005,2005,Gillingham,Yeovil,0,0
-15.10.2005,2005,Huddersfield,Walsall,3,1
-15.10.2005,2005,MK Dons,Chesterfield,0,0
-15.10.2005,2005,Nottingham,Hartlepool,2,0
-15.10.2005,2005,Port Vale,Bradford City,0,1
-15.10.2005,2005,Scunthorpe,Rotherham,2,2
-15.10.2005,2005,Swansea,Oldham,0,0
-10.10.2005,2005,Bradford City,Huddersfield,1,2
-09.10.2005,2005,Blackpool,Colchester,1,2
-09.10.2005,2005,Oldham,Brentford,0,1
-09.10.2005,2005,Southend,Nottingham,1,0
-08.10.2005,2005,Swindon,Port Vale,1,2
-08.10.2005,2005,Walsall,MK Dons,1,1
-08.10.2005,2005,Yeovil,Swansea,1,0
-07.10.2005,2005,Bournemouth,Doncaster,2,1
-07.10.2005,2005,Tranmere,Scunthorpe,0,2
-01.10.2005,2005,Barnsley,Oldham,4,0
-01.10.2005,2005,Brentford,Rotherham,2,1
-01.10.2005,2005,Bristol City,Hartlepool,0,1
-01.10.2005,2005,Colchester,Chesterfield,1,2
-01.10.2005,2005,Doncaster,Bradford City,2,2
-01.10.2005,2005,Gillingham,Southend,1,2
-01.10.2005,2005,Huddersfield,Bournemouth,2,2
-01.10.2005,2005,MK Dons,Swindon,3,1
-01.10.2005,2005,Nottingham,Tranmere,1,0
-01.10.2005,2005,Port Vale,Walsall,3,2
-01.10.2005,2005,Scunthorpe,Yeovil,3,4
-01.10.2005,2005,Swansea,Blackpool,3,2
-28.09.2005,2005,Port Vale,Oldham,2,2
-27.09.2005,2005,Bournemouth,Swansea,0,1
-27.09.2005,2005,Bradford City,Colchester,1,1
-27.09.2005,2005,Bristol City,Barnsley,3,0
-27.09.2005,2005,Doncaster,Swindon,1,0
-27.09.2005,2005,Gillingham,Chesterfield,1,0
-27.09.2005,2005,Hartlepool,Rotherham,0,0
-27.09.2005,2005,Huddersfield,Tranmere,1,0
-27.09.2005,2005,MK Dons,Scunthorpe,1,0
-27.09.2005,2005,Nottingham,Blackpool,1,1
-27.09.2005,2005,Southend,Yeovil,4,1
-27.09.2005,2005,Walsall,Brentford,0,0
-24.09.2005,2005,Barnsley,Doncaster,0,2
-24.09.2005,2005,Blackpool,MK Dons,3,2
-24.09.2005,2005,Brentford,Bristol City,2,3
-24.09.2005,2005,Chesterfield,Hartlepool,3,1
-24.09.2005,2005,Colchester,Huddersfield,1,1
-24.09.2005,2005,Oldham,Bournemouth,1,0
-24.09.2005,2005,Rotherham,Southend,2,4
-24.09.2005,2005,Scunthorpe,Walsall,1,3
-24.09.2005,2005,Swansea,Nottingham,1,1
-24.09.2005,2005,Swindon,Bradford City,2,3
-24.09.2005,2005,Tranmere,Gillingham,2,2
-24.09.2005,2005,Yeovil,Port Vale,1,0
-20.09.2005,2005,Nottingham,Bristol City,3,1
-17.09.2005,2005,Bournemouth,Swindon,2,1
-17.09.2005,2005,Bradford City,Yeovil,1,1
-17.09.2005,2005,Bristol City,Blackpool,1,1
-17.09.2005,2005,Doncaster,Scunthorpe,3,1
-17.09.2005,2005,Gillingham,Oldham,0,1
-17.09.2005,2005,Hartlepool,Swansea,2,2
-17.09.2005,2005,Huddersfield,Brentford,3,2
-17.09.2005,2005,MK Dons,Barnsley,0,0
-17.09.2005,2005,Nottingham,Rotherham,2,0
-17.09.2005,2005,Port Vale,Colchester,0,1
-17.09.2005,2005,Southend,Tranmere,3,1
-17.09.2005,2005,Walsall,Chesterfield,2,3
-13.09.2005,2005,Gillingham,Barnsley,0,3
-13.09.2005,2005,MK Dons,Swansea,1,3
-10.09.2005,2005,Barnsley,Nottingham,2,0
-10.09.2005,2005,Blackpool,Hartlepool,1,2
-10.09.2005,2005,Brentford,MK Dons,1,0
-10.09.2005,2005,Chesterfield,Bournemouth,3,0
-10.09.2005,2005,Colchester,Doncaster,3,2
-10.09.2005,2005,Oldham,Huddersfield,0,3
-10.09.2005,2005,Rotherham,Gillingham,3,0
-10.09.2005,2005,Scunthorpe,Port Vale,2,0
-10.09.2005,2005,Swansea,Bristol City,7,1
-10.09.2005,2005,Swindon,Southend,1,2
-10.09.2005,2005,Yeovil,Walsall,2,1
-09.09.2005,2005,Tranmere,Bradford City,2,2
-04.09.2005,2005,Southend,Oldham,2,1
-03.09.2005,2005,Bristol City,Colchester,0,0
-03.09.2005,2005,Hartlepool,Yeovil,0,1
-03.09.2005,2005,Nottingham,Brentford,1,2
-03.09.2005,2005,Port Vale,Rotherham,2,0
-03.09.2005,2005,Walsall,Swindon,1,0
-02.09.2005,2005,Bournemouth,Tranmere,0,0
-02.09.2005,2005,Bradford City,Chesterfield,2,0
-02.09.2005,2005,Doncaster,Blackpool,0,1
-02.09.2005,2005,Huddersfield,Scunthorpe,1,4
-29.08.2005,2005,Blackpool,Bradford City,1,0
-29.08.2005,2005,Bournemouth,Walsall,0,0
-29.08.2005,2005,Brentford,Gillingham,1,1
-29.08.2005,2005,Doncaster,Huddersfield,1,2
-29.08.2005,2005,Hartlepool,Scunthorpe,3,3
-29.08.2005,2005,MK Dons,Port Vale,0,0
-29.08.2005,2005,Oldham,Rotherham,0,1
-29.08.2005,2005,Southend,Colchester,3,1
-29.08.2005,2005,Swansea,Barnsley,3,1
-29.08.2005,2005,Tranmere,Swindon,1,0
-29.08.2005,2005,Yeovil,Chesterfield,1,3
-27.08.2005,2005,Barnsley,Brentford,1,1
-27.08.2005,2005,Bradford City,Bournemouth,1,2
-27.08.2005,2005,Bristol City,MK Dons,2,2
-27.08.2005,2005,Chesterfield,Tranmere,0,2
-27.08.2005,2005,Colchester,Oldham,0,0
-27.08.2005,2005,Gillingham,Nottingham,1,3
-27.08.2005,2005,Huddersfield,Hartlepool,2,1
-27.08.2005,2005,Port Vale,Doncaster,2,0
-27.08.2005,2005,Rotherham,Blackpool,4,0
-27.08.2005,2005,Swindon,Yeovil,4,2
-27.08.2005,2005,Walsall,Swansea,2,5
-26.08.2005,2005,Scunthorpe,Southend,1,0
-20.08.2005,2005,Barnsley,Yeovil,1,0
-20.08.2005,2005,Blackpool,Swindon,0,0
-20.08.2005,2005,Brentford,Tranmere,2,0
-20.08.2005,2005,Bristol City,Port Vale,4,2
-20.08.2005,2005,Gillingham,Bournemouth,1,0
-20.08.2005,2005,Hartlepool,Walsall,1,1
-20.08.2005,2005,MK Dons,Colchester,1,1
-20.08.2005,2005,Nottingham,Scunthorpe,0,1
-20.08.2005,2005,Oldham,Chesterfield,4,1
-20.08.2005,2005,Rotherham,Bradford City,1,1
-20.08.2005,2005,Southend,Huddersfield,1,1
-20.08.2005,2005,Swansea,Doncaster,1,2
-15.08.2005,2005,Port Vale,Brentford,1,0
-13.08.2005,2005,Bournemouth,Bristol City,2,0
-13.08.2005,2005,Bradford City,MK Dons,2,0
-13.08.2005,2005,Chesterfield,Rotherham,0,1
-13.08.2005,2005,Colchester,Barnsley,1,0
-13.08.2005,2005,Doncaster,Hartlepool,0,1
-13.08.2005,2005,Huddersfield,Swansea,3,1
-13.08.2005,2005,Scunthorpe,Gillingham,1,1
-13.08.2005,2005,Swindon,Nottingham,2,1
-13.08.2005,2005,Walsall,Southend,2,2
-13.08.2005,2005,Yeovil,Blackpool,1,1
-12.08.2005,2005,Tranmere,Oldham,4,0
-10.08.2005,2005,Chesterfield,Brentford,1,3
-09.08.2005,2005,Bournemouth,Hartlepool,1,1
-09.08.2005,2005,Bradford City,Southend,0,2
-09.08.2005,2005,Colchester,Swansea,1,2
-09.08.2005,2005,Doncaster,MK Dons,1,1
-09.08.2005,2005,Huddersfield,Bristol City,1,0
-09.08.2005,2005,Port Vale,Gillingham,0,0
-09.08.2005,2005,Scunthorpe,Barnsley,2,1
-09.08.2005,2005,Swindon,Oldham,2,3
-09.08.2005,2005,Tranmere,Blackpool,2,2
-09.08.2005,2005,Walsall,Nottingham,3,2
-09.08.2005,2005,Yeovil,Rotherham,0,0
-06.08.2005,2005,Barnsley,Swindon,2,0
-06.08.2005,2005,Blackpool,Chesterfield,1,3
-06.08.2005,2005,Brentford,Scunthorpe,2,0
-06.08.2005,2005,Bristol City,Doncaster,0,0
-06.08.2005,2005,Gillingham,Colchester,2,1
-06.08.2005,2005,Hartlepool,Bradford City,0,2
-06.08.2005,2005,MK Dons,Bournemouth,2,2
-06.08.2005,2005,Nottingham,Huddersfield,2,1
-06.08.2005,2005,Oldham,Yeovil,2,0
-06.08.2005,2005,Rotherham,Walsall,1,2
-06.08.2005,2005,Southend,Port Vale,1,2
-06.08.2005,2005,Swansea,Tranmere,1,0
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+06.05.2006,2005,Blackpool,Gillingham,3,3,2.02,3.18,3.28
+06.05.2006,2005,Bournemouth,Brentford,2,2,3.50,3.35,1.89
+06.05.2006,2005,Bradford City,Nottingham,1,1,3.51,3.41,1.88
+06.05.2006,2005,Chesterfield,Swansea,0,4,3.70,3.41,1.83
+06.05.2006,2005,Hartlepool,Port Vale,1,1,1.64,3.58,4.47
+06.05.2006,2005,Oldham,Scunthorpe,1,1,1.96,3.21,3.29
+06.05.2006,2005,Rotherham,MK Dons,0,0,2.20,3.25,2.88
+06.05.2006,2005,Southend,Bristol City,1,0,1.66,3.45,4.44
+06.05.2006,2005,Swindon,Huddersfield,0,0,2.54,3.26,2.42
+06.05.2006,2005,Tranmere,Doncaster,0,2,2.68,3.21,2.33
+06.05.2006,2005,Walsall,Barnsley,1,2,3.75,3.44,1.80
+06.05.2006,2005,Yeovil,Colchester,0,0,3.65,3.22,1.90
+29.04.2006,2005,Barnsley,Bradford City,0,0,1.64,3.47,4.69
+29.04.2006,2005,Brentford,Hartlepool,1,1,1.58,3.61,5.02
+29.04.2006,2005,Bristol City,Swindon,1,1,1.47,3.92,5.60
+29.04.2006,2005,Colchester,Rotherham,2,0,1.57,3.62,5.00
+29.04.2006,2005,Doncaster,Oldham,1,0,1.99,3.40,3.18
+29.04.2006,2005,Gillingham,Walsall,0,1,1.59,3.49,5.07
+29.04.2006,2005,Huddersfield,Yeovil,1,2,1.58,3.55,4.98
+29.04.2006,2005,MK Dons,Tranmere,1,2,2.00,3.29,3.26
+29.04.2006,2005,Nottingham,Bournemouth,1,1,1.44,3.87,6.31
+29.04.2006,2005,Port Vale,Chesterfield,3,1,2.07,3.20,3.14
+29.04.2006,2005,Scunthorpe,Blackpool,1,0,2.21,3.20,2.88
+29.04.2006,2005,Swansea,Southend,2,2,2.26,3.25,2.79
+22.04.2006,2005,Blackpool,Barnsley,1,1,2.49,3.26,2.49
+22.04.2006,2005,Bournemouth,Colchester,1,2,2.65,3.24,2.38
+22.04.2006,2005,Bradford City,Port Vale,1,0,2.07,3.25,3.14
+22.04.2006,2005,Chesterfield,MK Dons,1,2,2.33,3.30,2.63
+22.04.2006,2005,Hartlepool,Nottingham,3,2,3.18,3.27,2.03
+22.04.2006,2005,Oldham,Swansea,1,1,2.21,3.24,2.85
+22.04.2006,2005,Rotherham,Scunthorpe,1,1,1.84,3.31,3.74
+22.04.2006,2005,Southend,Doncaster,0,1,1.59,3.51,5.01
+22.04.2006,2005,Swindon,Brentford,1,3,2.70,3.26,2.29
+22.04.2006,2005,Tranmere,Bristol City,0,3,2.50,3.23,2.49
+22.04.2006,2005,Walsall,Huddersfield,1,3,2.88,3.29,2.18
+22.04.2006,2005,Yeovil,Gillingham,4,3,2.11,3.31,3.03
+18.04.2006,2005,Huddersfield,Chesterfield,1,2,1.52,3.62,5.70
+17.04.2006,2005,Barnsley,Southend,2,2,2.30,3.24,2.72
+17.04.2006,2005,Brentford,Blackpool,1,1,1.55,3.58,5.42
+17.04.2006,2005,Bristol City,Oldham,2,1,2.10,3.25,3.07
+17.04.2006,2005,Colchester,Tranmere,1,0,1.62,3.47,4.87
+17.04.2006,2005,Doncaster,Walsall,1,0,1.85,3.35,3.69
+17.04.2006,2005,Gillingham,Bradford City,2,1,1.98,3.23,3.41
+17.04.2006,2005,MK Dons,Hartlepool,2,1,2.15,3.24,2.97
+17.04.2006,2005,Nottingham,Yeovil,2,1,1.52,3.57,5.79
+17.04.2006,2005,Port Vale,Bournemouth,0,0,2.11,3.23,3.02
+17.04.2006,2005,Scunthorpe,Swindon,1,2,1.93,3.28,3.47
+17.04.2006,2005,Swansea,Rotherham,0,2,1.60,3.52,4.97
+15.04.2006,2005,Blackpool,Swansea,1,0,2.64,3.21,2.38
+15.04.2006,2005,Bournemouth,Huddersfield,1,1,2.58,3.22,2.43
+15.04.2006,2005,Bradford City,Doncaster,2,1,2.28,3.22,2.77
+15.04.2006,2005,Chesterfield,Colchester,2,2,2.71,3.23,2.32
+15.04.2006,2005,Hartlepool,Bristol City,1,2,2.37,3.25,2.64
+15.04.2006,2005,Oldham,Barnsley,0,3,2.08,3.19,3.18
+15.04.2006,2005,Rotherham,Brentford,2,2,2.72,3.21,2.33
+15.04.2006,2005,Swindon,MK Dons,0,1,1.97,3.27,3.40
+15.04.2006,2005,Tranmere,Nottingham,0,1,2.70,3.21,2.34
+15.04.2006,2005,Walsall,Port Vale,1,1,2.20,3.26,2.88
+14.04.2006,2005,Southend,Gillingham,0,1,1.54,3.47,5.69
+14.04.2006,2005,Yeovil,Scunthorpe,0,1,2.06,3.24,3.17
+11.04.2006,2005,Swansea,Swindon,2,1,1.57,3.47,5.39
+11.04.2006,2005,Walsall,Bournemouth,0,1,2.18,3.22,2.94
+11.04.2006,2005,Colchester,Hartlepool,2,0,1.65,3.39,4.72
+08.04.2006,2005,Barnsley,Chesterfield,1,1,1.63,3.42,4.91
+08.04.2006,2005,Brentford,Bradford City,1,1,1.64,3.43,4.79
+08.04.2006,2005,Gillingham,Huddersfield,2,0,2.66,3.20,2.37
+08.04.2006,2005,Nottingham,Colchester,1,0,1.90,3.27,3.59
+08.04.2006,2005,Oldham,MK Dons,1,2,1.46,3.68,6.36
+08.04.2006,2005,Port Vale,Swansea,3,2,2.60,3.20,2.42
+08.04.2006,2005,Rotherham,Tranmere,2,0,2.33,3.20,2.71
+08.04.2006,2005,Scunthorpe,Bournemouth,2,2,1.98,3.17,3.43
+08.04.2006,2005,Southend,Blackpool,2,1,1.51,3.60,5.92
+08.04.2006,2005,Swindon,Hartlepool,1,1,2.16,3.22,2.98
+08.04.2006,2005,Walsall,Bristol City,0,3,2.37,3.22,2.66
+08.04.2006,2005,Yeovil,Doncaster,3,0,2.44,3.20,2.57
+04.04.2006,2005,Port Vale,MK Dons,3,1,1.81,3.28,3.94
+01.04.2006,2005,Blackpool,Walsall,2,0,2.05,3.20,3.20
+01.04.2006,2005,Bournemouth,Southend,1,1,2.93,3.21,2.18
+01.04.2006,2005,Bradford City,Scunthorpe,4,2,2.21,3.19,2.88
+01.04.2006,2005,Bristol City,Yeovil,2,1,1.81,3.29,3.94
+01.04.2006,2005,Chesterfield,Nottingham,1,3,2.65,3.19,2.38
+01.04.2006,2005,Colchester,Brentford,1,1,2.20,3.20,2.91
+01.04.2006,2005,Doncaster,Rotherham,3,1,1.85,3.23,3.90
+01.04.2006,2005,Huddersfield,Barnsley,1,0,1.88,3.25,3.68
+01.04.2006,2005,MK Dons,Gillingham,1,2,2.25,3.22,2.79
+31.03.2006,2005,Hartlepool,Oldham,1,1,2.52,3.14,2.52
+31.03.2006,2005,Tranmere,Port Vale,3,0,2.02,3.18,3.29
+28.03.2006,2005,MK Dons,Brentford,0,1,2.86,3.19,2.22
+25.03.2006,2005,Barnsley,Bournemouth,0,0,1.65,3.41,4.75
+25.03.2006,2005,Brentford,Doncaster,0,1,1.69,3.38,4.53
+25.03.2006,2005,Gillingham,Swansea,1,0,2.84,3.24,2.22
+25.03.2006,2005,Nottingham,MK Dons,3,0,1.56,3.48,5.53
+25.03.2006,2005,Oldham,Blackpool,3,1,1.62,3.39,5.05
+25.03.2006,2005,Port Vale,Huddersfield,1,1,2.68,3.19,2.37
+25.03.2006,2005,Rotherham,Bristol City,3,1,2.45,3.15,2.58
+25.03.2006,2005,Scunthorpe,Colchester,0,0,2.35,3.18,2.70
+25.03.2006,2005,Southend,Hartlepool,3,0,1.59,3.45,5.24
+25.03.2006,2005,Swindon,Chesterfield,2,0,2.29,3.17,2.77
+25.03.2006,2005,Walsall,Bradford City,2,2,2.11,3.20,3.10
+25.03.2006,2005,Yeovil,Tranmere,2,2,2.34,3.15,2.74
+21.03.2006,2005,Bradford City,Blackpool,1,0,2.14,3.19,3.05
+21.03.2006,2005,Gillingham,Brentford,3,2,3.68,3.26,1.88
+21.03.2006,2005,Doncaster,Colchester,0,0,2.34,3.16,2.71
+21.03.2006,2005,Walsall,Yeovil,0,2,1.95,3.23,3.47
+18.03.2006,2005,Blackpool,Port Vale,1,0,2.26,3.21,2.82
+18.03.2006,2005,Bournemouth,Yeovil,1,0,2.12,3.19,3.08
+18.03.2006,2005,Bradford City,Oldham,1,4,2.43,3.21,2.60
+18.03.2006,2005,Bristol City,Gillingham,6,0,1.77,3.27,4.18
+18.03.2006,2005,Chesterfield,Scunthorpe,1,2,1.95,3.25,3.46
+18.03.2006,2005,Colchester,Swindon,1,0,1.59,3.49,5.16
+18.03.2006,2005,Doncaster,Nottingham,1,2,2.11,3.20,3.12
+18.03.2006,2005,Hartlepool,Barnsley,1,1,2.48,3.18,2.55
+18.03.2006,2005,Huddersfield,Rotherham,4,1,1.55,3.56,5.53
+18.03.2006,2005,MK Dons,Southend,2,1,3.56,3.27,1.92
+17.03.2006,2005,Swansea,Brentford,2,1,2.32,3.17,2.75
+17.03.2006,2005,Tranmere,Walsall,1,2,1.75,3.29,4.28
+14.03.2006,2005,Rotherham,Oldham,2,0,2.64,3.18,2.40
+14.03.2006,2005,Scunthorpe,Hartlepool,2,0,2.07,3.20,3.14
+12.03.2006,2005,Swansea,Walsall,1,1,1.56,3.45,5.56
+11.03.2006,2005,Blackpool,Rotherham,0,0,1.98,3.23,3.37
+11.03.2006,2005,Bournemouth,Bradford City,0,1,2.08,3.17,3.19
+11.03.2006,2005,Brentford,Barnsley,3,1,2.02,3.21,3.29
+11.03.2006,2005,Doncaster,Port Vale,1,1,1.91,3.25,3.60
+11.03.2006,2005,Nottingham,Gillingham,1,1,1.57,3.45,5.43
+11.03.2006,2005,Oldham,Colchester,1,0,2.17,3.19,2.97
+11.03.2006,2005,Tranmere,Chesterfield,4,1,2.11,3.16,3.15
+11.03.2006,2005,Yeovil,Swindon,0,0,2.02,3.20,3.31
+10.03.2006,2005,Hartlepool,Huddersfield,3,1,2.67,3.22,2.35
+10.03.2006,2005,MK Dons,Bristol City,0,1,2.43,3.20,2.60
+10.03.2006,2005,Southend,Scunthorpe,3,0,1.55,3.48,5.67
+07.03.2006,2005,Swindon,Tranmere,1,2,2.31,3.20,2.75
+07.03.2006,2005,Yeovil,Brentford,1,2,2.68,3.22,2.35
+04.03.2006,2005,Barnsley,Swansea,2,2,2.10,3.19,3.12
+04.03.2006,2005,Bristol City,Nottingham,1,1,2.30,3.19,2.77
+04.03.2006,2005,Chesterfield,Yeovil,0,3,1.74,3.26,4.26
+04.03.2006,2005,Colchester,Southend,0,3,2.10,3.17,3.11
+04.03.2006,2005,Huddersfield,Doncaster,2,2,1.79,3.24,4.10
+28.02.2006,2005,Port Vale,Scunthorpe,1,2,1.87,3.28,3.70
+28.02.2006,2005,Bournemouth,Barnsley,1,1,2.55,3.16,2.48
+28.02.2006,2005,Doncaster,Brentford,0,0,2.33,3.17,2.76
+25.02.2006,2005,Barnsley,Colchester,1,0,2.24,3.20,2.84
+25.02.2006,2005,Blackpool,Yeovil,2,0,2.17,3.21,3.00
+25.02.2006,2005,Brentford,Port Vale,0,1,1.62,3.44,4.96
+25.02.2006,2005,Bristol City,Bournemouth,3,1,1.90,3.24,3.63
+25.02.2006,2005,Gillingham,Scunthorpe,1,3,1.96,3.20,3.47
+25.02.2006,2005,Hartlepool,Doncaster,1,1,2.44,3.19,2.60
+25.02.2006,2005,MK Dons,Bradford City,2,1,2.38,3.18,2.63
+25.02.2006,2005,Nottingham,Swindon,7,1,1.72,3.35,4.37
+25.02.2006,2005,Oldham,Tranmere,1,0,1.96,3.15,3.52
+25.02.2006,2005,Rotherham,Chesterfield,0,4,2.32,3.20,2.70
+25.02.2006,2005,Southend,Walsall,0,0,1.50,3.60,6.04
+24.02.2006,2005,Swansea,Huddersfield,2,2,2.17,3.19,3.00
+18.02.2006,2005,Bournemouth,Blackpool,1,1,1.94,3.22,3.55
+18.02.2006,2005,Bradford City,Bristol City,1,1,2.11,3.21,3.10
+18.02.2006,2005,Chesterfield,Southend,3,4,2.50,3.14,2.56
+18.02.2006,2005,Doncaster,Gillingham,2,0,1.86,3.25,3.75
+18.02.2006,2005,Huddersfield,MK Dons,5,0,1.55,3.50,5.66
+18.02.2006,2005,Port Vale,Nottingham,0,2,2.19,3.21,2.94
+18.02.2006,2005,Scunthorpe,Swansea,2,2,2.55,3.18,2.49
+18.02.2006,2005,Swindon,Rotherham,2,3,1.84,3.22,3.82
+18.02.2006,2005,Tranmere,Barnsley,0,1,2.24,3.16,2.89
+18.02.2006,2005,Walsall,Oldham,0,2,2.28,3.16,2.82
+15.02.2006,2005,Chesterfield,Doncaster,0,1,2.00,3.20,3.35
+15.02.2006,2005,Oldham,Nottingham,3,0,2.05,3.21,3.24
+14.02.2006,2005,Barnsley,Port Vale,1,1,1.75,3.30,4.27
+14.02.2006,2005,Blackpool,Huddersfield,0,1,2.61,3.17,2.44
+14.02.2006,2005,Brentford,Southend,2,0,2.22,3.22,2.84
+14.02.2006,2005,Colchester,Walsall,0,0,1.48,3.66,6.10
+14.02.2006,2005,Rotherham,Bournemouth,2,0,2.33,3.17,2.73
+14.02.2006,2005,Scunthorpe,Bristol City,0,2,2.22,3.19,2.88
+14.02.2006,2005,Swansea,Bradford City,1,1,1.78,3.32,4.08
+14.02.2006,2005,Swindon,Gillingham,1,0,2.21,3.21,2.88
+14.02.2006,2005,Tranmere,Hartlepool,0,0,1.80,3.26,4.03
+14.02.2006,2005,Yeovil,MK Dons,1,1,1.87,3.28,3.73
+11.02.2006,2005,Bournemouth,Oldham,0,0,2.14,3.19,3.06
+11.02.2006,2005,Bradford City,Swindon,1,1,1.96,3.23,3.46
+11.02.2006,2005,Bristol City,Brentford,0,1,2.47,3.19,2.55
+11.02.2006,2005,Doncaster,Barnsley,2,0,2.50,3.19,2.51
+11.02.2006,2005,Gillingham,Tranmere,1,1,2.19,3.20,2.93
+11.02.2006,2005,Huddersfield,Colchester,2,0,2.34,3.19,2.73
+11.02.2006,2005,MK Dons,Blackpool,3,0,2.38,3.18,2.67
+11.02.2006,2005,Nottingham,Swansea,1,2,NA,3.21,2.94
+11.02.2006,2005,Port Vale,Yeovil,1,0,2.06,3.21,3.19
+11.02.2006,2005,Walsall,Scunthorpe,2,2,2.12,3.19,3.09
+10.02.2006,2005,Hartlepool,Chesterfield,1,0,2.48,3.14,2.57
+10.02.2006,2005,Southend,Rotherham,2,0,1.50,3.67,5.95
+07.02.2006,2005,Colchester,Scunthorpe,1,0,1.51,3.58,5.98
+04.02.2006,2005,Barnsley,Bristol City,2,0,1.84,3.24,3.86
+04.02.2006,2005,Blackpool,Nottingham,2,2,2.38,3.17,2.66
+04.02.2006,2005,Brentford,Walsall,5,0,1.68,3.35,4.60
+04.02.2006,2005,Chesterfield,Gillingham,1,1,1.80,3.22,4.11
+04.02.2006,2005,Colchester,Bradford City,3,1,1.67,3.36,4.64
+04.02.2006,2005,Oldham,Port Vale,0,1,1.84,3.26,3.81
+04.02.2006,2005,Rotherham,Hartlepool,0,0,2.10,3.20,3.12
+04.02.2006,2005,Scunthorpe,MK Dons,2,0,1.82,3.24,4.00
+04.02.2006,2005,Swindon,Doncaster,2,1,2.35,3.19,2.68
+04.02.2006,2005,Yeovil,Southend,0,2,2.59,3.12,2.48
+03.02.2006,2005,Swansea,Bournemouth,1,0,1.73,3.30,4.38
+03.02.2006,2005,Tranmere,Huddersfield,2,1,2.38,3.14,2.69
+31.01.2006,2005,Swindon,Walsall,1,0,2.23,3.20,2.85
+31.01.2006,2005,MK Dons,Nottingham,1,0,2.59,3.18,2.44
+31.01.2006,2005,Swansea,Gillingham,1,2,1.61,3.41,5.19
+28.01.2006,2005,Bournemouth,Chesterfield,1,2,2.13,3.19,3.05
+28.01.2006,2005,Bradford City,Tranmere,0,0,2.12,3.19,3.07
+28.01.2006,2005,Bristol City,Swansea,1,0,2.43,3.20,2.59
+28.01.2006,2005,Gillingham,Rotherham,1,1,1.81,3.31,3.91
+28.01.2006,2005,Hartlepool,Blackpool,0,3,1.97,3.23,3.41
+28.01.2006,2005,Huddersfield,Oldham,3,2,1.89,3.26,3.62
+27.01.2006,2005,Nottingham,Barnsley,0,2,1.85,3.26,3.78
+27.01.2006,2005,Southend,Swindon,2,0,1.56,3.51,5.41
+24.01.2006,2005,Blackpool,Doncaster,4,2,2.44,3.22,2.57
+21.01.2006,2005,Barnsley,MK Dons,2,0,1.57,3.46,5.43
+21.01.2006,2005,Blackpool,Bristol City,1,1,2.40,3.20,2.62
+21.01.2006,2005,Brentford,Huddersfield,2,0,2.15,3.19,3.00
+21.01.2006,2005,Chesterfield,Walsall,2,2,1.81,3.29,3.92
+21.01.2006,2005,Colchester,Port Vale,2,1,1.65,3.40,4.70
+21.01.2006,2005,Oldham,Gillingham,2,0,1.83,3.28,3.85
+21.01.2006,2005,Rotherham,Nottingham,1,1,2.65,3.20,2.37
+21.01.2006,2005,Scunthorpe,Doncaster,1,2,2.25,3.20,2.81
+21.01.2006,2005,Swansea,Hartlepool,1,1,1.54,3.52,5.63
+21.01.2006,2005,Swindon,Bournemouth,4,2,2.49,3.19,2.53
+21.01.2006,2005,Tranmere,Southend,0,0,2.36,3.18,2.69
+21.01.2006,2005,Yeovil,Bradford City,0,1,1.95,3.25,3.44
+17.01.2006,2005,Brentford,Nottingham,1,1,2.00,3.25,3.31
+17.01.2006,2005,Colchester,Bristol City,3,2,1.68,3.39,4.39
+14.01.2006,2005,Bournemouth,Rotherham,2,0,1.76,3.32,4.13
+14.01.2006,2005,Bradford City,Swansea,1,1,2.47,3.21,2.53
+14.01.2006,2005,Bristol City,Scunthorpe,1,1,1.77,3.30,4.12
+14.01.2006,2005,Doncaster,Chesterfield,1,1,2.19,3.17,2.97
+14.01.2006,2005,Gillingham,Swindon,3,0,1.91,3.21,3.59
+14.01.2006,2005,Hartlepool,Tranmere,0,0,2.31,3.19,2.73
+14.01.2006,2005,Huddersfield,Blackpool,2,0,1.65,3.39,4.78
+14.01.2006,2005,MK Dons,Yeovil,1,1,2.52,3.19,2.51
+14.01.2006,2005,Nottingham,Oldham,3,0,1.91,3.24,3.60
+14.01.2006,2005,Port Vale,Barnsley,3,2,2.40,3.19,2.64
+14.01.2006,2005,Southend,Brentford,4,1,2.19,3.21,2.90
+14.01.2006,2005,Walsall,Colchester,0,2,2.50,3.19,2.54
+10.01.2006,2005,Barnsley,Gillingham,1,0,1.75,3.31,4.23
+10.01.2006,2005,Rotherham,Port Vale,1,1,2.26,3.17,2.82
+10.01.2006,2005,Scunthorpe,Huddersfield,2,2,2.48,3.16,2.55
+10.01.2006,2005,Swansea,MK Dons,3,1,1.46,3.78,6.14
+10.01.2006,2005,Blackpool,Oldham,1,0,2.54,3.18,2.48
+07.01.2006,2005,Chesterfield,Bradford City,1,0,2.01,3.18,3.35
+07.01.2006,2005,Oldham,Southend,0,0,2.23,3.22,2.86
+07.01.2006,2005,Tranmere,Bournemouth,0,0,2.01,3.24,3.30
+07.01.2006,2005,Yeovil,Hartlepool,2,0,2.01,3.23,3.30
+02.01.2006,2005,Blackpool,Southend,1,2,2.54,3.20,2.50
+02.01.2006,2005,Bournemouth,Scunthorpe,1,1,1.80,3.35,3.94
+02.01.2006,2005,Bradford City,Brentford,3,3,2.58,3.21,2.46
+02.01.2006,2005,Bristol City,Walsall,3,0,2.08,3.27,3.12
+02.01.2006,2005,Chesterfield,Barnsley,0,0,2.27,3.24,2.81
+02.01.2006,2005,Colchester,Nottingham,3,1,2.10,3.23,3.13
+02.01.2006,2005,Doncaster,Yeovil,0,1,1.73,3.34,4.33
+02.01.2006,2005,Hartlepool,Swindon,1,1,1.88,3.31,3.71
+02.01.2006,2005,Huddersfield,Gillingham,0,0,1.66,3.44,4.70
+02.01.2006,2005,MK Dons,Oldham,0,1,2.43,3.21,2.61
+02.01.2006,2005,Swansea,Port Vale,0,0,1.56,3.62,5.38
+02.01.2006,2005,Tranmere,Rotherham,3,2,1.91,3.30,3.56
+31.12.2005,2005,Barnsley,Huddersfield,2,2,2.17,3.23,2.94
+31.12.2005,2005,Brentford,Colchester,0,2,1.91,3.25,3.60
+31.12.2005,2005,Gillingham,MK Dons,3,0,1.96,3.26,3.43
+31.12.2005,2005,Nottingham,Chesterfield,0,0,1.74,3.33,4.19
+31.12.2005,2005,Oldham,Hartlepool,2,1,1.93,3.25,3.51
+31.12.2005,2005,Port Vale,Tranmere,0,2,2.24,3.22,2.84
+31.12.2005,2005,Rotherham,Doncaster,1,0,2.58,3.19,2.44
+31.12.2005,2005,Scunthorpe,Bradford City,0,0,2.21,3.24,2.88
+31.12.2005,2005,Southend,Bournemouth,2,1,2.16,3.22,3.01
+31.12.2005,2005,Swindon,Swansea,0,0,2.86,3.25,2.21
+31.12.2005,2005,Walsall,Blackpool,2,0,1.89,3.26,3.67
+31.12.2005,2005,Yeovil,Bristol City,1,1,2.16,3.25,2.94
+28.12.2005,2005,Bradford City,Walsall,2,0,2.13,3.29,2.99
+28.12.2005,2005,Bristol City,Rotherham,3,1,1.96,3.22,3.46
+28.12.2005,2005,Chesterfield,Swindon,1,1,1.72,3.39,4.27
+28.12.2005,2005,Hartlepool,Southend,1,2,1.98,3.25,3.34
+28.12.2005,2005,Huddersfield,Port Vale,0,3,1.57,3.55,5.19
+28.12.2005,2005,Tranmere,Yeovil,4,1,2.19,3.25,2.91
+26.12.2005,2005,Barnsley,Hartlepool,1,1,1.75,3.24,4.26
+26.12.2005,2005,Brentford,Swansea,2,1,2.21,3.19,2.87
+26.12.2005,2005,Gillingham,Bristol City,1,1,2.03,3.21,3.22
+26.12.2005,2005,Nottingham,Doncaster,4,0,1.98,3.24,3.34
+26.12.2005,2005,Oldham,Bradford City,2,1,2.10,3.19,3.09
+26.12.2005,2005,Port Vale,Blackpool,1,2,1.97,3.23,3.37
+26.12.2005,2005,Rotherham,Huddersfield,1,1,2.82,3.19,2.25
+26.12.2005,2005,Scunthorpe,Chesterfield,2,2,2.30,3.19,2.71
+26.12.2005,2005,Southend,MK Dons,0,0,1.76,3.26,4.21
+26.12.2005,2005,Swindon,Colchester,1,0,2.71,3.19,2.31
+26.12.2005,2005,Walsall,Tranmere,0,0,1.82,3.28,3.83
+23.12.2005,2005,Yeovil,Bournemouth,1,1,2.23,3.21,2.84
+17.12.2005,2005,Bournemouth,Gillingham,2,1,1.82,3.31,3.86
+17.12.2005,2005,Bradford City,Rotherham,1,2,1.83,3.23,3.98
+17.12.2005,2005,Chesterfield,Oldham,1,1,2.02,3.19,3.36
+17.12.2005,2005,Colchester,MK Dons,2,0,1.74,3.29,4.32
+17.12.2005,2005,Doncaster,Swansea,2,1,2.41,3.16,2.64
+17.12.2005,2005,Huddersfield,Southend,0,0,1.77,3.27,4.17
+17.12.2005,2005,Port Vale,Bristol City,0,1,2.18,3.18,3.03
+17.12.2005,2005,Swindon,Blackpool,0,0,2.09,3.19,3.16
+17.12.2005,2005,Tranmere,Brentford,1,4,2.47,3.22,2.54
+17.12.2005,2005,Walsall,Hartlepool,1,0,2.09,3.21,3.15
+17.12.2005,2005,Yeovil,Barnsley,2,1,2.47,3.20,2.53
+16.12.2005,2005,Scunthorpe,Nottingham,3,1,2.57,3.23,2.44
+10.12.2005,2005,Barnsley,Scunthorpe,5,2,1.75,3.32,4.18
+10.12.2005,2005,Blackpool,Tranmere,1,1,2.30,3.25,2.71
+10.12.2005,2005,Brentford,Chesterfield,1,1,1.94,3.26,3.46
+10.12.2005,2005,Bristol City,Huddersfield,2,0,2.86,3.26,2.21
+10.12.2005,2005,Gillingham,Port Vale,3,0,2.26,3.24,2.77
+10.12.2005,2005,Hartlepool,Bournemouth,2,1,2.21,3.25,2.85
+10.12.2005,2005,MK Dons,Doncaster,2,3,2.40,3.22,2.60
+10.12.2005,2005,Nottingham,Walsall,1,1,1.72,3.33,4.39
+10.12.2005,2005,Oldham,Swindon,2,2,1.76,3.34,4.13
+10.12.2005,2005,Rotherham,Yeovil,1,2,2.23,3.26,2.81
+10.12.2005,2005,Southend,Bradford City,1,1,1.99,3.25,3.33
+10.12.2005,2005,Swansea,Colchester,1,1,1.77,3.29,4.14
+06.12.2005,2005,Barnsley,Tranmere,2,1,2.02,3.17,3.39
+06.12.2005,2005,Blackpool,Bournemouth,1,3,2.31,3.23,2.73
+06.12.2005,2005,Brentford,Yeovil,3,2,1.70,3.42,4.43
+06.12.2005,2005,Bristol City,Bradford City,0,1,2.27,3.19,2.78
+06.12.2005,2005,Gillingham,Doncaster,1,0,2.68,3.20,2.36
+06.12.2005,2005,Hartlepool,Colchester,0,1,2.25,3.22,2.80
+06.12.2005,2005,MK Dons,Huddersfield,2,2,2.55,3.20,2.47
+06.12.2005,2005,Nottingham,Port Vale,1,0,1.73,3.37,4.24
+06.12.2005,2005,Oldham,Walsall,2,1,2.08,3.22,3.15
+06.12.2005,2005,Southend,Chesterfield,0,0,2.12,3.25,3.03
+06.12.2005,2005,Swansea,Scunthorpe,2,0,1.55,3.50,5.42
+03.12.2005,2005,Rotherham,Swindon,0,1,1.70,3.36,4.42
+26.11.2005,2005,Bournemouth,MK Dons,2,0,1.98,3.26,3.36
+26.11.2005,2005,Bradford City,Hartlepool,0,1,1.91,3.26,3.57
+26.11.2005,2005,Chesterfield,Blackpool,1,1,1.69,3.39,4.45
+26.11.2005,2005,Colchester,Gillingham,5,0,1.79,3.30,3.99
+26.11.2005,2005,Doncaster,Bristol City,2,0,1.77,3.28,4.10
+26.11.2005,2005,Huddersfield,Nottingham,2,1,2.03,3.22,3.25
+26.11.2005,2005,Port Vale,Southend,2,1,2.44,3.21,2.55
+26.11.2005,2005,Scunthorpe,Brentford,1,3,2.35,3.23,2.64
+26.11.2005,2005,Swindon,Barnsley,0,3,2.50,3.20,2.50
+26.11.2005,2005,Tranmere,Swansea,2,2,2.61,3.21,2.39
+26.11.2005,2005,Walsall,Rotherham,3,1,1.89,3.27,3.61
+26.11.2005,2005,Yeovil,Oldham,0,2,1.98,3.23,3.33
+19.11.2005,2005,Barnsley,Rotherham,1,1,1.73,3.30,4.37
+19.11.2005,2005,Brentford,Oldham,3,3,1.72,3.32,4.39
+19.11.2005,2005,Bristol City,Chesterfield,2,4,2.30,3.22,2.76
+19.11.2005,2005,Colchester,Blackpool,3,2,1.88,3.25,3.73
+19.11.2005,2005,Doncaster,Bournemouth,4,2,2.10,3.23,3.11
+19.11.2005,2005,Gillingham,Hartlepool,1,0,2.26,3.24,2.79
+19.11.2005,2005,Huddersfield,Bradford City,0,0,1.77,3.25,4.26
+19.11.2005,2005,MK Dons,Walsall,2,1,2.22,3.18,2.92
+19.11.2005,2005,Nottingham,Southend,2,0,2.09,3.19,3.17
+19.11.2005,2005,Port Vale,Swindon,1,1,1.84,3.27,3.86
+19.11.2005,2005,Scunthorpe,Tranmere,1,2,1.88,3.28,3.69
+18.11.2005,2005,Swansea,Yeovil,2,0,1.62,3.44,4.94
+13.11.2005,2005,Blackpool,Scunthorpe,5,2,2.50,3.21,2.54
+13.11.2005,2005,Oldham,Doncaster,0,1,2.12,3.20,3.10
+12.11.2005,2005,Bournemouth,Nottingham,1,1,2.28,3.20,2.79
+12.11.2005,2005,Bradford City,Barnsley,0,0,2.20,3.21,2.91
+12.11.2005,2005,Chesterfield,Port Vale,2,0,2.01,3.25,3.29
+12.11.2005,2005,Hartlepool,Brentford,1,2,2.24,3.14,2.92
+12.11.2005,2005,Rotherham,Colchester,1,2,2.16,3.19,3.00
+12.11.2005,2005,Southend,Swansea,1,2,2.04,3.21,3.23
+12.11.2005,2005,Tranmere,MK Dons,1,2,1.81,3.23,4.02
+12.11.2005,2005,Walsall,Gillingham,2,0,1.85,3.29,3.78
+12.11.2005,2005,Yeovil,Huddersfield,1,2,2.44,3.19,2.59
+11.11.2005,2005,Swindon,Bristol City,2,1,2.38,3.19,2.69
+01.11.2005,2005,Hartlepool,Gillingham,3,1,1.94,3.25,3.41
+29.10.2005,2005,Barnsley,Walsall,2,1,1.91,3.25,3.50
+29.10.2005,2005,Brentford,Bournemouth,0,2,1.73,3.30,4.32
+29.10.2005,2005,Bristol City,Southend,0,3,2.25,3.26,2.76
+29.10.2005,2005,Colchester,Yeovil,3,2,2.30,3.20,2.72
+29.10.2005,2005,Doncaster,Tranmere,0,2,1.86,3.24,3.73
+29.10.2005,2005,Gillingham,Blackpool,2,1,2.04,3.16,3.23
+29.10.2005,2005,Huddersfield,Swindon,1,1,1.42,3.80,6.79
+29.10.2005,2005,MK Dons,Rotherham,1,1,2.29,3.19,2.75
+29.10.2005,2005,Nottingham,Bradford City,1,0,1.92,3.24,3.52
+29.10.2005,2005,Port Vale,Hartlepool,1,2,1.84,3.33,3.71
+29.10.2005,2005,Scunthorpe,Oldham,4,2,2.08,3.29,3.05
+29.10.2005,2005,Swansea,Chesterfield,5,1,1.75,3.35,4.04
+26.10.2005,2005,Chesterfield,Bristol City,3,0,2.22,3.22,2.82
+25.10.2005,2005,Rotherham,Barnsley,0,1,2.11,3.23,2.98
+22.10.2005,2005,Blackpool,Brentford,0,0,2.67,3.24,2.32
+22.10.2005,2005,Bournemouth,Port Vale,1,2,1.97,3.23,3.38
+22.10.2005,2005,Bradford City,Gillingham,1,0,1.75,3.33,4.16
+22.10.2005,2005,Chesterfield,Huddersfield,4,3,2.78,3.22,2.26
+22.10.2005,2005,Hartlepool,MK Dons,2,1,2.04,3.19,3.27
+22.10.2005,2005,Oldham,Bristol City,4,3,2.24,3.21,2.84
+22.10.2005,2005,Rotherham,Swansea,2,2,2.43,3.21,2.56
+22.10.2005,2005,Southend,Barnsley,1,1,1.75,3.34,4.17
+22.10.2005,2005,Swindon,Scunthorpe,1,1,2.53,3.22,2.45
+22.10.2005,2005,Tranmere,Colchester,0,0,2.00,3.23,3.30
+22.10.2005,2005,Walsall,Doncaster,1,0,2.34,3.23,2.66
+22.10.2005,2005,Yeovil,Nottingham,3,0,2.35,3.22,2.64
+15.10.2005,2005,Barnsley,Blackpool,2,2,1.77,3.27,4.17
+15.10.2005,2005,Brentford,Swindon,0,0,1.51,3.58,6.07
+15.10.2005,2005,Bristol City,Tranmere,1,0,1.92,3.22,3.51
+15.10.2005,2005,Colchester,Bournemouth,0,1,2.11,3.22,3.04
+15.10.2005,2005,Doncaster,Southend,2,0,2.34,3.21,2.65
+15.10.2005,2005,Gillingham,Yeovil,0,0,2.27,3.22,2.77
+15.10.2005,2005,Huddersfield,Walsall,3,1,1.60,3.45,4.93
+15.10.2005,2005,MK Dons,Chesterfield,0,0,2.24,3.20,2.82
+15.10.2005,2005,Nottingham,Hartlepool,2,0,1.74,3.31,4.23
+15.10.2005,2005,Port Vale,Bradford City,0,1,2.13,3.22,3.01
+15.10.2005,2005,Scunthorpe,Rotherham,2,2,2.00,3.24,3.27
+15.10.2005,2005,Swansea,Oldham,0,0,1.66,3.41,4.57
+10.10.2005,2005,Bradford City,Huddersfield,1,2,2.45,3.17,2.60
+09.10.2005,2005,Blackpool,Colchester,1,2,2.08,3.22,3.10
+09.10.2005,2005,Oldham,Brentford,0,1,2.36,3.19,2.65
+09.10.2005,2005,Southend,Nottingham,1,0,2.16,3.23,2.99
+08.10.2005,2005,Swindon,Port Vale,1,2,2.25,3.20,2.80
+08.10.2005,2005,Walsall,MK Dons,1,1,1.84,3.23,3.87
+08.10.2005,2005,Yeovil,Swansea,1,0,2.57,3.24,2.41
+07.10.2005,2005,Bournemouth,Doncaster,2,1,2.28,3.23,2.73
+07.10.2005,2005,Tranmere,Scunthorpe,0,2,1.82,3.34,3.77
+01.10.2005,2005,Barnsley,Oldham,4,0,2.16,3.20,2.98
+01.10.2005,2005,Brentford,Rotherham,2,1,1.81,3.26,3.98
+01.10.2005,2005,Bristol City,Hartlepool,0,1,1.66,3.39,4.59
+01.10.2005,2005,Colchester,Chesterfield,1,2,1.99,3.19,3.31
+01.10.2005,2005,Doncaster,Bradford City,2,2,2.17,3.23,2.91
+01.10.2005,2005,Gillingham,Southend,1,2,2.36,3.21,2.64
+01.10.2005,2005,Huddersfield,Bournemouth,2,2,1.55,3.52,5.41
+01.10.2005,2005,MK Dons,Swindon,3,1,2.03,3.19,3.24
+01.10.2005,2005,Nottingham,Tranmere,1,0,1.87,3.25,3.69
+01.10.2005,2005,Port Vale,Walsall,3,2,2.19,3.23,2.88
+01.10.2005,2005,Scunthorpe,Yeovil,3,4,1.87,3.25,3.67
+01.10.2005,2005,Swansea,Blackpool,3,2,1.61,3.52,4.79
+28.09.2005,2005,Port Vale,Oldham,2,2,2.21,3.26,2.83
+27.09.2005,2005,Bournemouth,Swansea,0,1,2.43,3.24,2.58
+27.09.2005,2005,Bradford City,Colchester,1,1,1.90,3.25,3.61
+27.09.2005,2005,Bristol City,Barnsley,3,0,1.88,3.32,3.58
+27.09.2005,2005,Doncaster,Swindon,1,0,1.74,3.36,4.13
+27.09.2005,2005,Gillingham,Chesterfield,1,0,1.96,3.23,3.36
+27.09.2005,2005,Hartlepool,Rotherham,0,0,2.25,3.22,2.80
+27.09.2005,2005,Huddersfield,Tranmere,1,0,1.82,3.29,3.84
+27.09.2005,2005,MK Dons,Scunthorpe,1,0,2.43,3.23,2.59
+27.09.2005,2005,Nottingham,Blackpool,1,1,1.62,3.41,4.93
+27.09.2005,2005,Southend,Yeovil,4,1,1.75,3.34,4.13
+27.09.2005,2005,Walsall,Brentford,0,0,2.29,3.24,2.72
+24.09.2005,2005,Barnsley,Doncaster,0,2,1.88,3.28,3.66
+24.09.2005,2005,Blackpool,MK Dons,3,2,1.93,3.27,3.49
+24.09.2005,2005,Brentford,Bristol City,2,3,1.69,3.37,4.48
+24.09.2005,2005,Chesterfield,Hartlepool,3,1,2.25,3.19,2.83
+24.09.2005,2005,Colchester,Huddersfield,1,1,2.59,3.22,2.42
+24.09.2005,2005,Oldham,Bournemouth,1,0,1.95,3.25,3.43
+24.09.2005,2005,Rotherham,Southend,2,4,2.07,3.23,3.13
+24.09.2005,2005,Scunthorpe,Walsall,1,3,1.85,3.33,3.73
+24.09.2005,2005,Swansea,Nottingham,1,1,2.09,3.26,3.14
+24.09.2005,2005,Swindon,Bradford City,2,3,2.35,3.21,2.68
+24.09.2005,2005,Tranmere,Gillingham,2,2,1.79,3.34,3.91
+24.09.2005,2005,Yeovil,Port Vale,1,0,2.09,3.21,3.12
+20.09.2005,2005,Nottingham,Bristol City,3,1,1.82,3.29,3.80
+17.09.2005,2005,Bournemouth,Swindon,2,1,1.89,3.25,3.63
+17.09.2005,2005,Bradford City,Yeovil,1,1,1.80,3.33,3.95
+17.09.2005,2005,Bristol City,Blackpool,1,1,1.85,3.27,3.74
+17.09.2005,2005,Doncaster,Scunthorpe,3,1,2.30,3.21,2.73
+17.09.2005,2005,Gillingham,Oldham,0,1,1.93,3.24,3.49
+17.09.2005,2005,Hartlepool,Swansea,2,2,2.31,3.24,2.67
+17.09.2005,2005,Huddersfield,Brentford,3,2,2.09,3.23,3.09
+17.09.2005,2005,MK Dons,Barnsley,0,0,2.50,3.17,2.52
+17.09.2005,2005,Nottingham,Rotherham,2,0,2.04,3.25,3.15
+17.09.2005,2005,Port Vale,Colchester,0,1,1.84,3.28,3.78
+17.09.2005,2005,Southend,Tranmere,3,1,2.30,3.21,2.73
+17.09.2005,2005,Walsall,Chesterfield,2,3,1.80,3.24,4.02
+13.09.2005,2005,Gillingham,Barnsley,0,3,1.99,3.26,3.32
+13.09.2005,2005,MK Dons,Swansea,1,3,2.63,3.23,2.36
+10.09.2005,2005,Barnsley,Nottingham,2,0,2.36,3.21,2.67
+10.09.2005,2005,Blackpool,Hartlepool,1,2,2.13,3.22,3.04
+10.09.2005,2005,Brentford,MK Dons,1,0,1.57,3.51,5.32
+10.09.2005,2005,Chesterfield,Bournemouth,3,0,2.47,3.20,2.53
+10.09.2005,2005,Colchester,Doncaster,3,2,2.25,3.23,2.79
+10.09.2005,2005,Oldham,Huddersfield,0,3,2.33,3.21,2.70
+10.09.2005,2005,Rotherham,Gillingham,3,0,2.17,3.21,2.97
+10.09.2005,2005,Scunthorpe,Port Vale,2,0,1.95,3.25,3.42
+10.09.2005,2005,Swansea,Bristol City,7,1,2.15,3.23,3.00
+10.09.2005,2005,Swindon,Southend,1,2,2.13,3.22,3.03
+10.09.2005,2005,Yeovil,Walsall,2,1,2.42,3.23,2.57
+09.09.2005,2005,Tranmere,Bradford City,2,2,1.85,3.27,3.75
+04.09.2005,2005,Southend,Oldham,2,1,2.27,3.23,2.72
+03.09.2005,2005,Bristol City,Colchester,0,0,1.69,3.36,4.51
+03.09.2005,2005,Hartlepool,Yeovil,0,1,1.79,3.27,4.09
+03.09.2005,2005,Nottingham,Brentford,1,2,1.97,3.24,3.36
+03.09.2005,2005,Port Vale,Rotherham,2,0,2.22,3.22,2.82
+03.09.2005,2005,Walsall,Swindon,1,0,1.91,3.23,3.54
+02.09.2005,2005,Bournemouth,Tranmere,0,0,2.26,3.21,2.75
+02.09.2005,2005,Bradford City,Chesterfield,2,0,1.75,3.29,4.16
+02.09.2005,2005,Doncaster,Blackpool,0,1,1.84,3.27,3.72
+02.09.2005,2005,Huddersfield,Scunthorpe,1,4,1.69,3.36,4.41
+29.08.2005,2005,Blackpool,Bradford City,1,0,2.46,3.23,2.50
+29.08.2005,2005,Bournemouth,Walsall,0,0,2.08,3.22,3.09
+29.08.2005,2005,Brentford,Gillingham,1,1,1.98,3.27,3.28
+29.08.2005,2005,Doncaster,Huddersfield,1,2,2.26,3.22,2.74
+29.08.2005,2005,Hartlepool,Scunthorpe,3,3,1.87,3.25,3.60
+29.08.2005,2005,MK Dons,Port Vale,0,0,2.22,3.20,2.83
+29.08.2005,2005,Oldham,Rotherham,0,1,1.88,3.29,3.56
+29.08.2005,2005,Southend,Colchester,3,1,2.10,3.23,3.04
+29.08.2005,2005,Swansea,Barnsley,3,1,2.09,3.28,3.05
+29.08.2005,2005,Tranmere,Swindon,1,0,1.69,3.38,4.31
+29.08.2005,2005,Yeovil,Chesterfield,1,3,1.80,3.34,3.85
+27.08.2005,2005,Barnsley,Brentford,1,1,2.27,3.22,2.72
+27.08.2005,2005,Bradford City,Bournemouth,1,2,1.84,3.29,3.76
+27.08.2005,2005,Bristol City,MK Dons,2,2,1.60,3.35,5.21
+27.08.2005,2005,Chesterfield,Tranmere,0,2,2.73,3.22,2.27
+27.08.2005,2005,Colchester,Oldham,0,0,2.51,3.19,2.48
+27.08.2005,2005,Gillingham,Nottingham,1,3,2.15,3.23,2.91
+27.08.2005,2005,Huddersfield,Hartlepool,2,1,1.83,3.34,3.72
+27.08.2005,2005,Port Vale,Doncaster,2,0,2.45,3.23,2.52
+27.08.2005,2005,Rotherham,Blackpool,4,0,1.86,3.28,3.63
+27.08.2005,2005,Swindon,Yeovil,4,2,2.03,3.22,3.20
+27.08.2005,2005,Walsall,Swansea,2,5,1.79,3.26,3.97
+26.08.2005,2005,Scunthorpe,Southend,1,0,1.99,3.26,3.28
+20.08.2005,2005,Barnsley,Yeovil,1,0,1.87,3.26,3.71
+20.08.2005,2005,Blackpool,Swindon,0,0,2.23,3.22,2.85
+20.08.2005,2005,Brentford,Tranmere,2,0,2.23,3.23,2.85
+20.08.2005,2005,Bristol City,Port Vale,4,2,1.73,3.41,4.21
+20.08.2005,2005,Gillingham,Bournemouth,1,0,1.91,3.25,3.60
+20.08.2005,2005,Hartlepool,Walsall,1,1,2.11,3.25,3.05
+20.08.2005,2005,MK Dons,Colchester,1,1,2.11,3.24,3.08
+20.08.2005,2005,Nottingham,Scunthorpe,0,1,1.56,3.52,5.36
+20.08.2005,2005,Oldham,Chesterfield,4,1,1.66,3.42,4.59
+20.08.2005,2005,Rotherham,Bradford City,1,1,2.27,3.19,2.80
+20.08.2005,2005,Southend,Huddersfield,1,1,2.47,3.21,2.55
+20.08.2005,2005,Swansea,Doncaster,1,2,2.17,3.22,2.95
+15.08.2005,2005,Port Vale,Brentford,1,0,2.40,3.27,2.61
+13.08.2005,2005,Bournemouth,Bristol City,2,0,2.46,3.18,2.53
+13.08.2005,2005,Bradford City,MK Dons,2,0,1.78,3.29,3.93
+13.08.2005,2005,Chesterfield,Rotherham,0,1,2.21,3.23,2.81
+13.08.2005,2005,Colchester,Barnsley,1,0,2.41,3.18,2.57
+13.08.2005,2005,Doncaster,Hartlepool,0,1,1.93,3.23,3.44
+13.08.2005,2005,Huddersfield,Swansea,3,1,1.80,3.26,3.89
+13.08.2005,2005,Scunthorpe,Gillingham,1,1,2.51,3.19,2.46
+13.08.2005,2005,Swindon,Nottingham,2,1,2.72,3.23,2.27
+13.08.2005,2005,Walsall,Southend,2,2,1.70,3.32,4.31
+13.08.2005,2005,Yeovil,Blackpool,1,1,1.87,3.26,3.63
+12.08.2005,2005,Tranmere,Oldham,4,0,1.90,3.23,3.64
+10.08.2005,2005,Chesterfield,Brentford,1,3,2.36,3.17,2.63
+09.08.2005,2005,Bournemouth,Hartlepool,1,1,2.06,3.22,3.13
+09.08.2005,2005,Bradford City,Southend,0,2,1.62,3.39,4.74
+09.08.2005,2005,Colchester,Swansea,1,2,2.20,3.20,2.88
+09.08.2005,2005,Doncaster,MK Dons,1,1,1.69,3.33,4.40
+09.08.2005,2005,Huddersfield,Bristol City,1,0,2.25,3.22,2.77
+09.08.2005,2005,Port Vale,Gillingham,0,0,2.34,3.20,2.62
+09.08.2005,2005,Scunthorpe,Barnsley,2,1,2.47,3.21,2.51
+09.08.2005,2005,Swindon,Oldham,2,3,2.26,3.25,2.70
+09.08.2005,2005,Tranmere,Blackpool,2,2,1.63,3.36,4.88
+09.08.2005,2005,Walsall,Nottingham,3,2,2.49,3.18,2.50
+09.08.2005,2005,Yeovil,Rotherham,0,0,1.91,3.29,3.47
+06.08.2005,2005,Barnsley,Swindon,2,0,1.95,3.26,3.37
+06.08.2005,2005,Blackpool,Chesterfield,1,3,1.80,3.31,3.85
+06.08.2005,2005,Brentford,Scunthorpe,2,0,1.70,3.33,4.33
+06.08.2005,2005,Bristol City,Doncaster,0,0,1.73,3.40,4.13
+06.08.2005,2005,Gillingham,Colchester,2,1,1.68,3.40,4.39
+06.08.2005,2005,Hartlepool,Bradford City,0,2,2.01,3.23,3.22
+06.08.2005,2005,MK Dons,Bournemouth,2,2,2.25,3.23,2.74
+06.08.2005,2005,Nottingham,Huddersfield,2,1,1.81,3.27,3.88
+06.08.2005,2005,Oldham,Yeovil,2,0,1.98,3.24,3.30
+06.08.2005,2005,Rotherham,Walsall,1,2,2.07,3.24,3.07
+06.08.2005,2005,Southend,Port Vale,1,2,2.04,3.23,3.20
+06.08.2005,2005,Swansea,Tranmere,1,0,2.45,3.19,2.52

@@ -1,381 +1,307 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-25.04.2014,2013,Achilles 29,Eindhoven FC,1,2
-25.04.2014,2013,Almere City,Willem II,1,2
-25.04.2014,2013,Dordrecht,Sparta Rotterdam,0,0
-25.04.2014,2013,Excelsior,Oss,2,0
-25.04.2014,2013,FC Emmen,Sittard,1,1
-25.04.2014,2013,Graafschap,Jong Ajax,2,0
-25.04.2014,2013,Helmond,Den Bosch,1,2
-25.04.2014,2013,Maastricht,Jong PSV,1,1
-25.04.2014,2013,Telstar,Jong FC Twente,2,1
-25.04.2014,2013,Venlo,FC Volendam,4,0
-21.04.2014,2013,Den Bosch,Dordrecht,1,1
-21.04.2014,2013,Eindhoven FC,Graafschap,1,0
-21.04.2014,2013,FC Volendam,Achilles 29,5,1
-21.04.2014,2013,Jong Ajax,Helmond,4,0
-21.04.2014,2013,Jong FC Twente,Excelsior,1,2
-21.04.2014,2013,Jong PSV,Venlo,2,1
-21.04.2014,2013,Oss,Maastricht,2,1
-21.04.2014,2013,Sittard,Almere City,3,0
-21.04.2014,2013,Sparta Rotterdam,FC Emmen,1,2
-21.04.2014,2013,Willem II,Telstar,4,0
-18.04.2014,2013,Den Bosch,Eindhoven FC,0,0
-18.04.2014,2013,Graafschap,Sparta Rotterdam,1,0
-18.04.2014,2013,Helmond,Jong FC Twente,5,1
-18.04.2014,2013,Jong Ajax,Excelsior,0,2
-18.04.2014,2013,Jong PSV,Achilles 29,2,1
-18.04.2014,2013,Maastricht,Sittard,3,3
-18.04.2014,2013,Oss,FC Volendam,2,2
-18.04.2014,2013,Telstar,Dordrecht,2,5
-18.04.2014,2013,Venlo,Almere City,3,3
-18.04.2014,2013,Willem II,FC Emmen,3,2
-14.04.2014,2013,Jong FC Twente,Jong PSV,2,0
-13.04.2014,2013,Achilles 29,Den Bosch,2,4
-12.04.2014,2013,Eindhoven FC,Willem II,0,3
-12.04.2014,2013,Excelsior,Graafschap,2,2
-12.04.2014,2013,FC Emmen,Maastricht,1,3
-11.04.2014,2013,Almere City,Helmond,0,1
-11.04.2014,2013,Dordrecht,Oss,3,2
-11.04.2014,2013,FC Volendam,Jong Ajax,1,0
-11.04.2014,2013,Sittard,Venlo,2,1
-11.04.2014,2013,Sparta Rotterdam,Telstar,1,2
-09.04.2014,2013,Graafschap,Willem II,1,2
-07.04.2014,2013,Jong Ajax,Eindhoven FC,1,2
-07.04.2014,2013,Jong PSV,Den Bosch,1,4
-06.04.2014,2013,Jong FC Twente,Graafschap,2,1
-05.04.2014,2013,Maastricht,Achilles 29,3,0
-05.04.2014,2013,Sparta Rotterdam,Sittard,2,3
-04.04.2014,2013,Helmond,FC Volendam,0,1
-04.04.2014,2013,Oss,Almere City,0,3
-04.04.2014,2013,Telstar,Excelsior,0,8
-04.04.2014,2013,Venlo,FC Emmen,2,1
-04.04.2014,2013,Willem II,Dordrecht,3,1
-02.04.2014,2013,Maastricht,Den Bosch,0,1
-31.03.2014,2013,Almere City,Excelsior,1,0
-30.03.2014,2013,Achilles 29,Telstar,1,0
-30.03.2014,2013,Den Bosch,Oss,3,0
-30.03.2014,2013,Willem II,Jong Ajax,7,1
-29.03.2014,2013,FC Emmen,Jong FC Twente,2,0
-29.03.2014,2013,Graafschap,Venlo,3,1
-28.03.2014,2013,Almere City,Maastricht,1,0
-28.03.2014,2013,Dordrecht,Helmond,1,0
-28.03.2014,2013,Eindhoven FC,Sparta Rotterdam,4,0
-28.03.2014,2013,Excelsior,FC Volendam,2,1
-28.03.2014,2013,Sittard,Jong PSV,2,1
-21.03.2014,2013,Achilles 29,Sparta Rotterdam,1,1
-21.03.2014,2013,Dordrecht,Jong FC Twente,3,1
-21.03.2014,2013,FC Emmen,Eindhoven FC,1,0
-21.03.2014,2013,FC Volendam,Jong PSV,3,1
-21.03.2014,2013,Helmond,Telstar,1,1
-21.03.2014,2013,Sittard,Jong Ajax,0,1
-21.03.2014,2013,Venlo,Oss,3,2
-17.03.2014,2013,Jong FC Twente,Eindhoven FC,1,0
-17.03.2014,2013,Jong PSV,Willem II,2,2
-16.03.2014,2013,FC Volendam,Den Bosch,0,2
-15.03.2014,2013,Jong Ajax,Achilles 29,2,1
-15.03.2014,2013,Sparta Rotterdam,Almere City,0,1
-14.03.2014,2013,Excelsior,Maastricht,0,1
-14.03.2014,2013,Helmond,Sittard,1,1
-14.03.2014,2013,Oss,FC Emmen,8,0
-14.03.2014,2013,Telstar,Graafschap,0,2
-14.03.2014,2013,Venlo,Dordrecht,0,2
-10.03.2014,2013,FC Emmen,Graafschap,1,2
-09.03.2014,2013,Achilles 29,Venlo,0,3
-09.03.2014,2013,Sparta Rotterdam,Jong FC Twente,0,1
-08.03.2014,2013,Almere City,Jong Ajax,0,3
-08.03.2014,2013,Dordrecht,FC Volendam,3,3
-07.03.2014,2013,Den Bosch,Telstar,0,1
-07.03.2014,2013,Eindhoven FC,Jong PSV,1,2
-07.03.2014,2013,Maastricht,Helmond,0,0
-07.03.2014,2013,Sittard,Excelsior,2,2
-07.03.2014,2013,Willem II,Oss,2,1
-02.03.2014,2013,Telstar,Venlo,3,1
-01.03.2014,2013,Excelsior,Achilles 29,3,0
-01.03.2014,2013,FC Emmen,FC Volendam,4,1
-28.02.2014,2013,Almere City,Jong PSV,1,3
-28.02.2014,2013,Dordrecht,Sittard,1,1
-28.02.2014,2013,Graafschap,Maastricht,0,1
-28.02.2014,2013,Helmond,Sparta Rotterdam,1,1
-28.02.2014,2013,Jong Ajax,Den Bosch,3,2
-28.02.2014,2013,Jong FC Twente,Willem II,1,2
-28.02.2014,2013,Oss,Eindhoven FC,4,0
-24.02.2014,2013,Jong PSV,FC Emmen,2,0
-23.02.2014,2013,Achilles 29,Graafschap,1,4
-23.02.2014,2013,Sparta Rotterdam,Jong Ajax,2,4
-22.02.2014,2013,Oss,Telstar,0,1
-22.02.2014,2013,Willem II,Helmond,1,1
-21.02.2014,2013,Den Bosch,Almere City,1,0
-21.02.2014,2013,Eindhoven FC,Dordrecht,3,2
-21.02.2014,2013,FC Volendam,Maastricht,0,1
-21.02.2014,2013,Sittard,Jong FC Twente,4,1
-21.02.2014,2013,Venlo,Excelsior,0,2
-14.02.2014,2013,Achilles 29,Sittard,0,0
-14.02.2014,2013,Almere City,FC Emmen,1,4
-14.02.2014,2013,Den Bosch,Sparta Rotterdam,2,1
-14.02.2014,2013,Dordrecht,Jong Ajax,1,1
-14.02.2014,2013,Excelsior,Eindhoven FC,5,2
-14.02.2014,2013,Graafschap,FC Volendam,2,2
-14.02.2014,2013,Helmond,Oss,3,1
-14.02.2014,2013,Maastricht,Willem II,2,2
-14.02.2014,2013,Telstar,Jong PSV,2,2
-14.02.2014,2013,Venlo,Jong FC Twente,3,0
-10.02.2014,2013,Jong Ajax,Venlo,4,1
-10.02.2014,2013,Jong FC Twente,FC Volendam,2,4
-10.02.2014,2013,Jong PSV,Helmond,3,0
-09.02.2014,2013,Excelsior,Den Bosch,4,1
-08.02.2014,2013,Willem II,Achilles 29,3,2
-07.02.2014,2013,Eindhoven FC,Almere City,1,2
-07.02.2014,2013,FC Emmen,Dordrecht,1,6
-07.02.2014,2013,Oss,Graafschap,2,2
-07.02.2014,2013,Sittard,Telstar,5,0
-07.02.2014,2013,Sparta Rotterdam,Maastricht,1,2
-03.02.2014,2013,Jong PSV,Sparta Rotterdam,1,2
-02.02.2014,2013,Den Bosch,Willem II,0,1
-02.02.2014,2013,FC Volendam,Almere City,3,1
-01.02.2014,2013,Achilles 29,FC Emmen,0,0
-01.02.2014,2013,Graafschap,Sittard,0,1
-31.01.2014,2013,Helmond,Excelsior,2,1
-31.01.2014,2013,Maastricht,Dordrecht,2,0
-31.01.2014,2013,Oss,Jong FC Twente,2,1
-31.01.2014,2013,Telstar,Jong Ajax,3,1
-31.01.2014,2013,Venlo,Eindhoven FC,2,1
-27.01.2014,2013,Jong Ajax,Oss,2,1
-27.01.2014,2013,Jong FC Twente,Maastricht,1,1
-26.01.2014,2013,Excelsior,Jong PSV,2,1
-26.01.2014,2013,Sparta Rotterdam,FC Volendam,1,2
-25.01.2014,2013,Dordrecht,Achilles 29,4,2
-24.01.2014,2013,Almere City,Graafschap,1,1
-24.01.2014,2013,Eindhoven FC,Helmond,0,0
-24.01.2014,2013,FC Emmen,Telstar,4,1
-24.01.2014,2013,Sittard,Den Bosch,1,2
-24.01.2014,2013,Willem II,Venlo,0,1
-20.01.2014,2013,Jong PSV,Graafschap,0,2
-19.01.2014,2013,Sparta Rotterdam,Willem II,1,2
-18.01.2014,2013,Achilles 29,Almere City,2,1
-18.01.2014,2013,Den Bosch,Jong FC Twente,1,1
-18.01.2014,2013,Sittard,Oss,1,0
-17.01.2014,2013,Dordrecht,Excelsior,1,1
-17.01.2014,2013,FC Emmen,Jong Ajax,4,0
-17.01.2014,2013,Helmond,Venlo,1,2
-17.01.2014,2013,Maastricht,Eindhoven FC,0,4
-17.01.2014,2013,Telstar,FC Volendam,2,1
-22.12.2013,2013,Den Bosch,FC Emmen,4,3
-22.12.2013,2013,FC Volendam,Sittard,2,1
-21.12.2013,2013,Graafschap,Helmond,1,2
-21.12.2013,2013,Jong Ajax,Maastricht,3,1
-21.12.2013,2013,Jong FC Twente,Achilles 29,4,0
-21.12.2013,2013,Willem II,Excelsior,0,1
-20.12.2013,2013,Almere City,Dordrecht,0,2
-20.12.2013,2013,Eindhoven FC,Telstar,3,1
-20.12.2013,2013,Oss,Jong PSV,1,2
-20.12.2013,2013,Venlo,Sparta Rotterdam,1,0
-16.12.2013,2013,Jong FC Twente,Jong Ajax,0,1
-16.12.2013,2013,Jong PSV,Dordrecht,3,0
-15.12.2013,2013,Venlo,Maastricht,2,0
-14.12.2013,2013,Graafschap,Den Bosch,3,5
-14.12.2013,2013,Helmond,Achilles 29,3,3
-13.12.2013,2013,Excelsior,FC Emmen,2,2
-13.12.2013,2013,FC Volendam,Willem II,0,2
-13.12.2013,2013,Oss,Sparta Rotterdam,1,5
-13.12.2013,2013,Sittard,Eindhoven FC,3,2
-13.12.2013,2013,Telstar,Almere City,1,3
-09.12.2013,2013,Jong Ajax,Jong PSV,2,2
-08.12.2013,2013,Achilles 29,Oss,1,4
-08.12.2013,2013,Sparta Rotterdam,Excelsior,1,1
-07.12.2013,2013,Den Bosch,Venlo,1,0
-07.12.2013,2013,FC Emmen,Helmond,2,2
-06.12.2013,2013,Almere City,Jong FC Twente,3,0
-06.12.2013,2013,Dordrecht,Graafschap,1,1
-06.12.2013,2013,Eindhoven FC,FC Volendam,3,3
-06.12.2013,2013,Maastricht,Telstar,2,0
-06.12.2013,2013,Willem II,Sittard,2,1
-02.12.2013,2013,Jong Ajax,Almere City,1,1
-02.12.2013,2013,Jong PSV,Eindhoven FC,1,2
-01.12.2013,2013,FC Volendam,Dordrecht,2,2
-30.11.2013,2013,Jong FC Twente,Sparta Rotterdam,1,0
-30.11.2013,2013,Venlo,Achilles 29,2,0
-29.11.2013,2013,Excelsior,Sittard,2,0
-29.11.2013,2013,Graafschap,FC Emmen,4,0
-29.11.2013,2013,Helmond,Maastricht,3,1
-29.11.2013,2013,Oss,Willem II,0,1
-29.11.2013,2013,Telstar,Den Bosch,1,3
-22.11.2013,2013,Achilles 29,Excelsior,0,0
-22.11.2013,2013,Den Bosch,Jong Ajax,4,1
-22.11.2013,2013,Eindhoven FC,Oss,2,1
-22.11.2013,2013,FC Volendam,FC Emmen,1,5
-22.11.2013,2013,Jong PSV,Almere City,2,2
-22.11.2013,2013,Maastricht,Graafschap,2,1
-22.11.2013,2013,Sittard,Dordrecht,0,1
-22.11.2013,2013,Sparta Rotterdam,Helmond,5,1
-22.11.2013,2013,Venlo,Telstar,1,1
-22.11.2013,2013,Willem II,Jong FC Twente,1,2
-18.11.2013,2013,Helmond,Willem II,1,4
-17.11.2013,2013,Jong Ajax,Sparta Rotterdam,2,1
-17.11.2013,2013,Jong FC Twente,Sittard,3,2
-17.11.2013,2013,Maastricht,FC Volendam,1,2
-17.11.2013,2013,Telstar,Oss,1,2
-16.11.2013,2013,Almere City,Den Bosch,1,0
-16.11.2013,2013,Dordrecht,Eindhoven FC,4,3
-16.11.2013,2013,Excelsior,Venlo,0,1
-16.11.2013,2013,FC Emmen,Jong PSV,0,2
-16.11.2013,2013,Graafschap,Achilles 29,2,2
-11.11.2013,2013,Jong Ajax,Graafschap,1,2
-11.11.2013,2013,Jong PSV,Maastricht,3,2
-10.11.2013,2013,FC Volendam,Venlo,1,1
-09.11.2013,2013,Eindhoven FC,Achilles 29,3,1
-09.11.2013,2013,Sparta Rotterdam,Dordrecht,2,3
-08.11.2013,2013,Den Bosch,Helmond,3,1
-08.11.2013,2013,Jong FC Twente,Telstar,3,0
-08.11.2013,2013,Oss,Excelsior,2,2
-08.11.2013,2013,Sittard,FC Emmen,2,0
-08.11.2013,2013,Willem II,Almere City,5,0
-05.11.2013,2013,Sparta Rotterdam,Achilles 29,1,0
-04.11.2013,2013,Helmond,Jong Ajax,3,2
-03.11.2013,2013,Excelsior,Jong FC Twente,3,0
-03.11.2013,2013,Venlo,Jong PSV,0,2
-02.11.2013,2013,Achilles 29,FC Volendam,0,2
-02.11.2013,2013,FC Emmen,Sparta Rotterdam,0,1
-02.11.2013,2013,Graafschap,Eindhoven FC,1,3
-01.11.2013,2013,Almere City,Sittard,1,1
-01.11.2013,2013,Dordrecht,Den Bosch,5,0
-01.11.2013,2013,Maastricht,Oss,1,2
-01.11.2013,2013,Telstar,Willem II,3,1
-28.10.2013,2013,Jong Ajax,Dordrecht,0,4
-28.10.2013,2013,Jong FC Twente,Venlo,1,1
-28.10.2013,2013,Jong PSV,Telstar,3,1
-27.10.2013,2013,FC Volendam,Graafschap,0,1
-26.10.2013,2013,Sittard,Achilles 29,2,1
-26.10.2013,2013,Sparta Rotterdam,Den Bosch,7,1
-25.10.2013,2013,Eindhoven FC,Excelsior,1,3
-25.10.2013,2013,FC Emmen,Almere City,2,1
-25.10.2013,2013,Oss,Helmond,2,3
-25.10.2013,2013,Willem II,Maastricht,0,0
-21.10.2013,2013,Venlo,Jong Ajax,5,1
-20.10.2013,2013,Achilles 29,Willem II,1,5
-20.10.2013,2013,FC Volendam,Jong FC Twente,4,2
-19.10.2013,2013,Graafschap,Oss,6,1
-18.10.2013,2013,Almere City,Eindhoven FC,0,4
-18.10.2013,2013,Den Bosch,Excelsior,3,2
-18.10.2013,2013,Dordrecht,FC Emmen,4,2
-18.10.2013,2013,Helmond,Jong PSV,1,1
-18.10.2013,2013,Maastricht,Sparta Rotterdam,1,1
-18.10.2013,2013,Telstar,Sittard,0,0
-14.10.2013,2013,Den Bosch,Maastricht,0,2
-14.10.2013,2013,Jong Ajax,Sittard,0,3
-14.10.2013,2013,Jong FC Twente,Dordrecht,2,0
-14.10.2013,2013,Jong PSV,FC Volendam,3,0
-13.10.2013,2013,Telstar,Helmond,2,3
-12.10.2013,2013,Eindhoven FC,FC Emmen,2,2
-12.10.2013,2013,Excelsior,Almere City,2,1
-12.10.2013,2013,Oss,Venlo,1,2
-12.10.2013,2013,Willem II,Graafschap,0,0
-07.10.2013,2013,Jong FC Twente,Helmond,0,0
-06.10.2013,2013,Achilles 29,Jong PSV,3,2
-06.10.2013,2013,Excelsior,Jong Ajax,3,1
-05.10.2013,2013,FC Emmen,Willem II,1,0
-05.10.2013,2013,Sparta Rotterdam,Graafschap,3,0
-04.10.2013,2013,Almere City,Venlo,2,2
-04.10.2013,2013,Dordrecht,Telstar,4,3
-04.10.2013,2013,Eindhoven FC,Den Bosch,3,2
-04.10.2013,2013,FC Volendam,Oss,3,1
-04.10.2013,2013,Sittard,Maastricht,0,1
-30.09.2013,2013,Jong Ajax,FC Volendam,2,3
-30.09.2013,2013,Jong PSV,Jong FC Twente,2,1
-29.09.2013,2013,Oss,Dordrecht,0,0
-29.09.2013,2013,Telstar,Sparta Rotterdam,0,3
-29.09.2013,2013,Venlo,Sittard,1,1
-28.09.2013,2013,Den Bosch,Achilles 29,0,2
-28.09.2013,2013,Graafschap,Excelsior,2,1
-27.09.2013,2013,Helmond,Almere City,1,3
-27.09.2013,2013,Maastricht,FC Emmen,0,0
-27.09.2013,2013,Willem II,Eindhoven FC,3,2
-20.09.2013,2013,Achilles 29,Maastricht,0,2
-20.09.2013,2013,Almere City,Oss,4,1
-20.09.2013,2013,Den Bosch,Jong PSV,2,1
-20.09.2013,2013,Dordrecht,Willem II,0,2
-20.09.2013,2013,Eindhoven FC,Jong Ajax,1,2
-20.09.2013,2013,Excelsior,Telstar,1,1
-20.09.2013,2013,FC Emmen,Venlo,2,0
-20.09.2013,2013,FC Volendam,Helmond,0,3
-20.09.2013,2013,Graafschap,Jong FC Twente,3,3
-20.09.2013,2013,Sittard,Sparta Rotterdam,0,3
-16.09.2013,2013,Jong FC Twente,FC Emmen,1,2
-16.09.2013,2013,Jong PSV,Sittard,0,0
-15.09.2013,2013,Jong Ajax,Willem II,1,1
-15.09.2013,2013,Oss,Den Bosch,0,1
-14.09.2013,2013,Telstar,Achilles 29,4,0
-13.09.2013,2013,FC Volendam,Excelsior,2,2
-13.09.2013,2013,Helmond,Dordrecht,2,1
-13.09.2013,2013,Maastricht,Almere City,2,1
-13.09.2013,2013,Sparta Rotterdam,Eindhoven FC,1,1
-13.09.2013,2013,Venlo,Graafschap,0,4
-09.09.2013,2013,Eindhoven FC,Jong FC Twente,2,0
-09.09.2013,2013,FC Emmen,Oss,5,0
-08.09.2013,2013,Achilles 29,Jong Ajax,2,1
-08.09.2013,2013,Sittard,Helmond,5,2
-08.09.2013,2013,Willem II,Jong PSV,2,0
-07.09.2013,2013,Almere City,Sparta Rotterdam,2,4
-07.09.2013,2013,Den Bosch,FC Volendam,2,4
-07.09.2013,2013,Dordrecht,Venlo,5,0
-07.09.2013,2013,Graafschap,Telstar,3,0
-07.09.2013,2013,Maastricht,Excelsior,0,1
-02.09.2013,2013,Excelsior,Sparta Rotterdam,1,0
-02.09.2013,2013,FC Volendam,Eindhoven FC,1,3
-02.09.2013,2013,Graafschap,Dordrecht,1,2
-02.09.2013,2013,Helmond,FC Emmen,5,2
-02.09.2013,2013,Jong FC Twente,Almere City,0,0
-02.09.2013,2013,Jong PSV,Jong Ajax,2,4
-02.09.2013,2013,Oss,Achilles 29,0,1
-02.09.2013,2013,Sittard,Willem II,3,1
-02.09.2013,2013,Telstar,Maastricht,2,1
-02.09.2013,2013,Venlo,Den Bosch,3,0
-30.08.2013,2013,Achilles 29,Helmond,2,3
-30.08.2013,2013,Almere City,Telstar,1,1
-30.08.2013,2013,Den Bosch,Graafschap,2,2
-30.08.2013,2013,Dordrecht,Jong PSV,2,0
-30.08.2013,2013,Eindhoven FC,Sittard,3,1
-30.08.2013,2013,FC Emmen,Excelsior,1,0
-30.08.2013,2013,Jong Ajax,Jong FC Twente,2,1
-30.08.2013,2013,Maastricht,Venlo,1,3
-30.08.2013,2013,Sparta Rotterdam,Oss,2,0
-30.08.2013,2013,Willem II,FC Volendam,2,0
-26.08.2013,2013,Jong Ajax,FC Emmen,1,1
-26.08.2013,2013,Jong FC Twente,Den Bosch,0,0
-25.08.2013,2013,FC Volendam,Telstar,1,2
-24.08.2013,2013,Almere City,Achilles 29,3,1
-24.08.2013,2013,Graafschap,Jong PSV,3,0
-23.08.2013,2013,Eindhoven FC,Maastricht,3,2
-23.08.2013,2013,Excelsior,Dordrecht,1,1
-23.08.2013,2013,Oss,Sittard,1,0
-23.08.2013,2013,Venlo,Helmond,3,2
-23.08.2013,2013,Willem II,Sparta Rotterdam,3,0
-19.08.2013,2013,Jong PSV,Oss,4,0
-18.08.2013,2013,Achilles 29,Jong FC Twente,2,3
-17.08.2013,2013,FC Emmen,Den Bosch,0,0
-17.08.2013,2013,Sittard,FC Volendam,2,3
-17.08.2013,2013,Sparta Rotterdam,Venlo,1,0
-16.08.2013,2013,Dordrecht,Almere City,2,1
-16.08.2013,2013,Excelsior,Willem II,1,2
-16.08.2013,2013,Helmond,Graafschap,1,1
-16.08.2013,2013,Maastricht,Jong Ajax,1,0
-16.08.2013,2013,Telstar,Eindhoven FC,3,0
-12.08.2013,2013,Jong PSV,Excelsior,1,1
-11.08.2013,2013,FC Volendam,Sparta Rotterdam,1,1
-10.08.2013,2013,Achilles 29,Dordrecht,1,4
-10.08.2013,2013,Graafschap,Almere City,1,0
-10.08.2013,2013,Maastricht,Jong FC Twente,1,0
-09.08.2013,2013,Den Bosch,Sittard,0,0
-09.08.2013,2013,Helmond,Eindhoven FC,1,2
-09.08.2013,2013,Oss,Jong Ajax,2,0
-09.08.2013,2013,Telstar,FC Emmen,3,2
-09.08.2013,2013,Venlo,Willem II,2,0
-05.08.2013,2013,Jong Ajax,Telstar,2,0
-05.08.2013,2013,Jong FC Twente,Oss,3,0
-04.08.2013,2013,Willem II,Den Bosch,2,2
-03.08.2013,2013,Almere City,FC Volendam,2,3
-03.08.2013,2013,FC Emmen,Achilles 29,2,2
-03.08.2013,2013,Sparta Rotterdam,Jong PSV,2,2
-02.08.2013,2013,Dordrecht,Maastricht,2,1
-02.08.2013,2013,Eindhoven FC,Venlo,0,0
-02.08.2013,2013,Excelsior,Helmond,2,2
-02.08.2013,2013,Sittard,Graafschap,2,0
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+03.05.2014,2013,Ajax,Nijmegen,2,2,1.23,6.45,9.87
+03.05.2014,2013,AZ Alkmaar,Feyenoord,1,1,3.26,3.66,2.04
+03.05.2014,2013,Cambuur,Den Haag,1,2,1.91,3.59,3.74
+03.05.2014,2013,G.A. Eagles,Roda,0,1,2.19,3.67,2.94
+03.05.2014,2013,Groningen,Heracles,3,1,1.66,4.01,4.58
+03.05.2014,2013,PSV,Breda,2,0,1.17,7.14,13.19
+03.05.2014,2013,Twente,Zwolle,2,2,1.21,6.50,11.22
+03.05.2014,2013,Utrecht,Vitesse,2,1,3.88,3.77,1.83
+03.05.2014,2013,Waalwijk,Heerenveen,0,3,3.80,3.65,1.87
+27.04.2014,2013,Breda,Waalwijk,1,1,2.00,3.49,3.53
+27.04.2014,2013,Den Haag,AZ Alkmaar,2,1,2.78,3.45,2.37
+27.04.2014,2013,Feyenoord,Cambuur,5,1,1.20,6.46,12.21
+27.04.2014,2013,Heerenveen,Utrecht,4,1,1.47,4.53,5.90
+27.04.2014,2013,Heracles,Ajax,1,1,5.51,4.28,1.52
+27.04.2014,2013,Nijmegen,Twente,2,5,5.44,4.29,1.53
+27.04.2014,2013,Roda,Groningen,1,2,2.30,3.52,2.84
+27.04.2014,2013,Vitesse,G.A. Eagles,2,2,1.29,5.35,9.14
+27.04.2014,2013,Zwolle,PSV,1,2,5.07,4.02,1.60
+13.04.2014,2013,Ajax,Den Haag,3,2,1.21,6.62,10.79
+13.04.2014,2013,AZ Alkmaar,Nijmegen,1,1,1.61,4.12,4.89
+13.04.2014,2013,PSV,Feyenoord,0,2,2.22,3.46,3.04
+13.04.2014,2013,Utrecht,Heracles,2,1,2.20,3.51,3.04
+13.04.2014,2013,Waalwijk,Zwolle,1,1,2.00,3.53,3.47
+12.04.2014,2013,Cambuur,Vitesse,4,3,3.71,3.50,1.93
+12.04.2014,2013,G.A. Eagles,Heerenveen,0,2,2.78,3.48,2.37
+12.04.2014,2013,Twente,Roda,3,0,1.19,6.69,12.28
+11.04.2014,2013,Groningen,Breda,2,1,1.62,3.91,5.15
+06.04.2014,2013,Den Haag,Utrecht,4,1,2.01,3.49,3.50
+06.04.2014,2013,Feyenoord,Waalwijk,2,0,1.12,8.61,16.21
+06.04.2014,2013,Roda,AZ Alkmaar,2,2,2.69,3.44,2.45
+06.04.2014,2013,Vitesse,Ajax,1,1,3.08,3.51,2.19
+05.04.2014,2013,Breda,Twente,0,2,6.31,4.20,1.49
+05.04.2014,2013,Heerenveen,PSV,3,0,3.46,3.71,1.96
+05.04.2014,2013,Heracles,G.A. Eagles,1,2,1.75,3.85,4.22
+05.04.2014,2013,Nijmegen,Cambuur,1,1,1.96,3.54,3.64
+04.04.2014,2013,Zwolle,Groningen,0,1,2.63,3.42,2.51
+02.04.2014,2013,G.A. Eagles,Breda,2,1,1.93,3.53,3.71
+02.04.2014,2013,Heracles,Feyenoord,1,2,4.28,3.84,1.74
+02.04.2014,2013,Twente,Den Haag,1,1,1.22,6.33,11.26
+02.04.2014,2013,Utrecht,Cambuur,1,0,2.24,3.41,3.02
+02.04.2014,2013,Waalwijk,Ajax,0,2,7.48,4.96,1.36
+30.03.2014,2013,Ajax,Twente,3,0,1.88,3.57,3.91
+30.03.2014,2013,Cambuur,AZ Alkmaar,0,0,2.42,3.35,2.80
+30.03.2014,2013,Den Haag,Zwolle,1,1,1.71,3.67,4.65
+30.03.2014,2013,Feyenoord,G.A. Eagles,5,0,1.24,6.09,10.13
+30.03.2014,2013,Roda,Waalwijk,0,1,1.65,3.90,4.80
+29.03.2014,2013,Nijmegen,Heracles,1,2,2.17,3.60,3.04
+29.03.2014,2013,PSV,Groningen,2,3,1.26,5.89,9.64
+29.03.2014,2013,Vitesse,Heerenveen,2,2,1.60,4.18,4.87
+28.03.2014,2013,Breda,Utrecht,2,2,2.46,3.35,2.78
+23.03.2014,2013,AZ Alkmaar,Zwolle,2,1,1.54,4.21,5.55
+22.03.2014,2013,Groningen,Vitesse,3,1,3.30,3.48,2.09
+22.03.2014,2013,Heerenveen,Nijmegen,2,2,1.75,3.91,4.19
+22.03.2014,2013,PSV,Roda,3,1,1.17,7.34,13.07
+16.03.2014,2013,Breda,Ajax,0,0,7.90,4.59,1.38
+16.03.2014,2013,Feyenoord,Heerenveen,2,0,1.45,4.50,6.43
+16.03.2014,2013,Nijmegen,Utrecht,2,2,2.01,3.52,3.46
+16.03.2014,2013,Twente,AZ Alkmaar,2,1,1.50,4.28,5.97
+16.03.2014,2013,Zwolle,G.A. Eagles,2,0,2.15,3.40,3.23
+15.03.2014,2013,Den Haag,Groningen,2,1,2.10,3.43,3.32
+15.03.2014,2013,Heracles,Roda,2,1,1.62,3.99,4.90
+15.03.2014,2013,Vitesse,PSV,1,2,2.58,3.46,2.54
+14.03.2014,2013,Cambuur,Waalwijk,3,2,1.46,4.32,6.54
+09.03.2014,2013,Ajax,Cambuur,1,1,1.20,6.31,12.65
+09.03.2014,2013,G.A. Eagles,Twente,1,0,6.51,4.40,1.45
+09.03.2014,2013,Groningen,Feyenoord,0,2,3.59,3.51,1.97
+09.03.2014,2013,Waalwijk,Den Haag,1,1,2.73,3.39,2.43
+08.03.2014,2013,AZ Alkmaar,Heracles,4,0,1.57,4.12,5.24
+08.03.2014,2013,Breda,Vitesse,1,2,4.85,3.84,1.66
+08.03.2014,2013,Heerenveen,Zwolle,3,0,1.53,4.23,5.65
+08.03.2014,2013,PSV,Utrecht,1,0,1.25,5.92,10.36
+08.03.2014,2013,Roda,Nijmegen,3,1,2.59,3.45,2.54
+02.03.2014,2013,AZ Alkmaar,Waalwijk,4,0,1.36,4.92,7.74
+02.03.2014,2013,Feyenoord,Ajax,1,2,2.18,3.45,3.14
+02.03.2014,2013,Groningen,Cambuur,1,1,2.07,3.44,3.40
+02.03.2014,2013,Utrecht,Twente,1,1,5.14,4.11,1.58
+01.03.2014,2013,Den Haag,Breda,1,1,1.90,3.50,3.88
+01.03.2014,2013,G.A. Eagles,PSV,2,3,5.41,4.10,1.56
+01.03.2014,2013,Vitesse,Roda,3,0,1.27,5.63,9.74
+01.03.2014,2013,Zwolle,Nijmegen,3,3,2.14,3.46,3.21
+28.02.2014,2013,Heracles,Heerenveen,1,2,2.33,3.53,2.79
+23.02.2014,2013,Ajax,AZ Alkmaar,4,0,1.43,4.52,6.74
+23.02.2014,2013,Twente,Feyenoord,2,2,1.90,3.62,3.79
+23.02.2014,2013,Utrecht,Groningen,1,0,2.20,3.46,3.06
+23.02.2014,2013,Vitesse,Waalwijk,3,1,1.29,5.43,9.09
+22.02.2014,2013,Cambuur,Roda,1,0,1.68,3.81,4.72
+22.02.2014,2013,Heerenveen,Breda,0,0,1.59,4.10,5.02
+22.02.2014,2013,Nijmegen,PSV,0,2,4.77,3.88,1.66
+22.02.2014,2013,Zwolle,Heracles,1,1,2.35,3.37,2.91
+21.02.2014,2013,Den Haag,G.A. Eagles,3,2,1.84,3.61,3.96
+16.02.2014,2013,Ajax,Heerenveen,3,0,1.26,5.90,9.64
+16.02.2014,2013,Breda,Feyenoord,1,1,6.37,4.29,1.48
+16.02.2014,2013,Cambuur,Zwolle,3,1,1.98,3.43,3.65
+16.02.2014,2013,Groningen,G.A. Eagles,1,0,1.65,3.93,4.72
+15.02.2014,2013,AZ Alkmaar,Utrecht,1,1,1.45,4.53,6.37
+15.02.2014,2013,Roda,Den Haag,0,1,1.92,3.66,3.63
+15.02.2014,2013,Twente,Vitesse,2,0,1.67,3.92,4.67
+15.02.2014,2013,Waalwijk,Nijmegen,1,3,2.36,3.46,2.80
+14.02.2014,2013,PSV,Heracles,2,1,1.31,5.23,8.78
+12.02.2014,2013,Groningen,Twente,1,1,4.93,3.88,1.65
+09.02.2014,2013,Groningen,Heerenveen,1,3,2.11,3.51,3.20
+09.02.2014,2013,Heracles,Cambuur,1,1,1.88,3.58,3.83
+09.02.2014,2013,Waalwijk,Utrecht,5,2,2.14,3.50,3.15
+09.02.2014,2013,Zwolle,Ajax,1,1,5.79,4.20,1.52
+08.02.2014,2013,Breda,Roda,2,0,2.03,3.52,3.40
+08.02.2014,2013,Feyenoord,Nijmegen,5,1,1.25,5.96,9.63
+08.02.2014,2013,G.A. Eagles,AZ Alkmaar,2,1,3.25,3.51,2.10
+08.02.2014,2013,PSV,Twente,3,2,2.42,3.42,2.76
+07.02.2014,2013,Vitesse,Den Haag,0,0,1.27,5.76,9.00
+06.02.2014,2013,Ajax,Groningen,2,1,1.20,6.52,11.99
+06.02.2014,2013,Utrecht,Zwolle,1,2,2.12,3.50,3.22
+05.02.2014,2013,Cambuur,PSV,1,2,4.31,3.63,1.78
+05.02.2014,2013,G.A. Eagles,Waalwijk,2,2,2.00,3.53,3.47
+05.02.2014,2013,Heerenveen,Twente,0,2,3.92,3.76,1.82
+05.02.2014,2013,Nijmegen,Breda,1,1,1.97,3.54,3.56
+04.02.2014,2013,Den Haag,Heracles,0,3,2.15,3.56,3.11
+04.02.2014,2013,Roda,Feyenoord,1,2,5.29,4.13,1.57
+04.02.2014,2013,Vitesse,AZ Alkmaar,0,2,1.66,3.88,4.77
+02.02.2014,2013,Nijmegen,G.A. Eagles,1,1,1.67,3.96,4.57
+02.02.2014,2013,Twente,Cambuur,3,1,1.25,5.77,10.36
+02.02.2014,2013,Utrecht,Ajax,1,1,7.57,5.01,1.36
+02.02.2014,2013,Waalwijk,PSV,2,0,5.78,4.17,1.52
+01.02.2014,2013,AZ Alkmaar,Groningen,2,0,1.69,3.81,4.65
+01.02.2014,2013,Heerenveen,Den Haag,3,0,1.51,4.43,5.50
+01.02.2014,2013,Heracles,Breda,1,2,1.71,3.76,4.56
+01.02.2014,2013,Zwolle,Roda,3,1,1.70,3.78,4.64
+31.01.2014,2013,Feyenoord,Vitesse,1,1,1.77,3.83,4.18
+26.01.2014,2013,Cambuur,Heerenveen,3,1,2.58,3.41,2.58
+26.01.2014,2013,G.A. Eagles,Ajax,0,1,7.60,5.03,1.35
+26.01.2014,2013,Vitesse,Nijmegen,1,1,1.26,5.99,9.31
+25.01.2014,2013,Breda,Zwolle,1,2,2.25,3.36,3.04
+25.01.2014,2013,Den Haag,Feyenoord,3,2,6.07,4.35,1.48
+25.01.2014,2013,PSV,AZ Alkmaar,1,0,1.52,4.26,5.85
+25.01.2014,2013,Roda,Utrecht,1,0,1.87,3.60,3.89
+24.01.2014,2013,Heracles,Waalwijk,2,1,1.70,3.72,4.66
+19.01.2014,2013,Ajax,PSV,1,0,1.70,3.93,4.48
+19.01.2014,2013,Cambuur,G.A. Eagles,2,0,1.79,3.64,4.23
+19.01.2014,2013,Nijmegen,Den Haag,3,1,1.99,3.52,3.53
+19.01.2014,2013,Utrecht,Feyenoord,2,5,5.32,3.90,1.60
+18.01.2014,2013,AZ Alkmaar,Breda,3,0,1.47,4.37,6.27
+18.01.2014,2013,Heerenveen,Roda,2,2,1.51,4.45,5.50
+18.01.2014,2013,Waalwijk,Groningen,1,1,2.75,3.47,2.38
+18.01.2014,2013,Zwolle,Vitesse,1,2,4.02,3.66,1.83
+17.01.2014,2013,Twente,Heracles,3,1,1.25,5.97,10.02
+22.12.2013,2013,G.A. Eagles,Utrecht,2,1,2.06,3.50,3.26
+22.12.2013,2013,Groningen,Nijmegen,5,2,1.62,3.94,4.87
+22.12.2013,2013,PSV,Den Haag,2,0,1.29,5.66,8.84
+22.12.2013,2013,Roda,Ajax,1,2,5.64,4.23,1.52
+21.12.2013,2013,AZ Alkmaar,Heerenveen,1,5,1.75,3.83,4.17
+21.12.2013,2013,Breda,Cambuur,1,0,2.23,3.32,3.13
+21.12.2013,2013,Feyenoord,Zwolle,3,0,1.36,4.74,8.31
+21.12.2013,2013,Heracles,Vitesse,2,2,4.09,3.64,1.81
+20.12.2013,2013,Waalwijk,Twente,1,1,6.66,4.33,1.45
+15.12.2013,2013,Cambuur,Ajax,1,2,6.04,4.20,1.50
+15.12.2013,2013,Feyenoord,Groningen,1,0,1.32,5.19,8.44
+15.12.2013,2013,Heracles,AZ Alkmaar,2,0,2.67,3.39,2.51
+15.12.2013,2013,Utrecht,PSV,1,5,3.54,3.61,1.96
+15.12.2013,2013,Vitesse,Breda,3,2,1.23,6.15,11.23
+14.12.2013,2013,Den Haag,Waalwijk,1,2,1.81,3.64,4.19
+14.12.2013,2013,Nijmegen,Roda,4,3,2.43,3.45,2.69
+14.12.2013,2013,Twente,G.A. Eagles,3,1,1.19,6.65,12.65
+13.12.2013,2013,Zwolle,Heerenveen,1,2,2.12,3.50,3.19
+08.12.2013,2013,G.A. Eagles,Zwolle,4,1,2.70,3.41,2.45
+08.12.2013,2013,Groningen,Den Haag,1,2,1.57,4.14,5.15
+08.12.2013,2013,Heerenveen,Feyenoord,1,2,3.09,3.58,2.14
+08.12.2013,2013,Roda,Heracles,1,3,1.86,3.70,3.79
+07.12.2013,2013,Ajax,Breda,4,0,1.20,6.59,11.92
+07.12.2013,2013,AZ Alkmaar,Twente,1,2,3.04,3.45,2.23
+07.12.2013,2013,PSV,Vitesse,2,6,2.02,3.64,3.36
+07.12.2013,2013,Waalwijk,Cambuur,2,2,2.16,3.38,3.20
+06.12.2013,2013,Utrecht,Nijmegen,2,0,1.90,3.63,3.67
+04.12.2013,2013,G.A. Eagles,Heracles,1,1,2.70,3.30,2.70
+04.12.2013,2013,Den Haag,Heerenveen,1,1,2.77,3.59,2.29
+01.12.2013,2013,Den Haag,Ajax,0,4,5.85,4.31,1.50
+01.12.2013,2013,Feyenoord,PSV,3,1,2.03,3.53,3.45
+01.12.2013,2013,Nijmegen,AZ Alkmaar,3,2,3.27,3.49,2.09
+01.12.2013,2013,Vitesse,Cambuur,3,0,1.39,4.74,7.16
+30.11.2013,2013,Breda,Groningen,2,2,2.27,3.44,2.96
+30.11.2013,2013,Heerenveen,G.A. Eagles,3,1,1.53,4.31,5.46
+30.11.2013,2013,Heracles,Utrecht,1,2,1.84,3.67,3.85
+30.11.2013,2013,Zwolle,Waalwijk,1,1,1.73,3.64,4.55
+29.11.2013,2013,Roda,Twente,1,2,4.47,3.88,1.69
+24.11.2013,2013,G.A. Eagles,Vitesse,0,3,4.09,3.83,1.77
+24.11.2013,2013,Groningen,Zwolle,0,0,2.05,3.44,3.39
+24.11.2013,2013,Twente,Breda,5,2,1.25,5.60,10.89
+24.11.2013,2013,Utrecht,Den Haag,3,0,2.08,3.40,3.35
+24.11.2013,2013,Waalwijk,Feyenoord,1,0,5.33,4.00,1.58
+23.11.2013,2013,Ajax,Heracles,3,0,1.25,5.76,10.05
+23.11.2013,2013,AZ Alkmaar,Roda,2,2,1.41,4.60,6.80
+23.11.2013,2013,Cambuur,Nijmegen,2,1,1.83,3.62,4.01
+23.11.2013,2013,PSV,Heerenveen,1,1,1.35,5.15,7.39
+10.11.2013,2013,Breda,PSV,2,1,5.25,4.02,1.58
+10.11.2013,2013,Feyenoord,AZ Alkmaar,2,2,1.87,3.50,3.93
+10.11.2013,2013,Nijmegen,Ajax,0,3,5.54,4.23,1.52
+10.11.2013,2013,Zwolle,Twente,1,1,3.64,3.50,1.95
+09.11.2013,2013,Den Haag,Cambuur,3,0,2.37,3.29,2.82
+09.11.2013,2013,Heracles,Groningen,0,3,2.03,3.54,3.36
+09.11.2013,2013,Roda,G.A. Eagles,1,4,1.56,4.19,5.20
+09.11.2013,2013,Vitesse,Utrecht,3,1,1.44,4.37,6.59
+08.11.2013,2013,Heerenveen,Waalwijk,5,2,1.56,4.20,5.13
+03.11.2013,2013,Cambuur,Feyenoord,0,2,3.42,3.34,2.09
+03.11.2013,2013,Groningen,Roda,3,3,2.06,3.47,3.35
+03.11.2013,2013,Utrecht,Heerenveen,2,0,2.30,3.54,2.82
+02.11.2013,2013,Ajax,Vitesse,0,1,1.54,4.26,5.32
+02.11.2013,2013,AZ Alkmaar,Den Haag,2,0,1.31,5.08,8.93
+02.11.2013,2013,PSV,Zwolle,1,1,1.30,5.30,8.69
+02.11.2013,2013,Twente,Nijmegen,2,2,1.19,6.74,12.00
+01.11.2013,2013,Waalwijk,Breda,3,0,2.31,3.44,2.86
+27.10.2013,2013,Feyenoord,Heracles,1,2,1.26,5.74,9.51
+27.10.2013,2013,Roda,PSV,2,1,4.86,3.99,1.62
+27.10.2013,2013,Vitesse,Groningen,2,2,1.55,4.14,5.42
+27.10.2013,2013,Zwolle,AZ Alkmaar,0,2,2.18,3.42,3.12
+26.10.2013,2013,Ajax,Waalwijk,0,0,1.15,7.68,14.02
+26.10.2013,2013,Breda,G.A. Eagles,5,0,1.82,3.62,4.03
+26.10.2013,2013,Cambuur,Utrecht,3,1,2.07,3.45,3.35
+26.10.2013,2013,Den Haag,Twente,3,2,6.63,4.44,1.43
+25.10.2013,2013,Nijmegen,Heerenveen,2,1,3.04,3.58,2.14
+20.10.2013,2013,AZ Alkmaar,Cambuur,3,1,1.57,3.95,5.47
+20.10.2013,2013,Groningen,PSV,1,0,4.38,3.84,1.71
+20.10.2013,2013,Heracles,Nijmegen,1,1,1.63,3.95,4.88
+20.10.2013,2013,Zwolle,Den Haag,6,1,1.49,4.18,6.13
+19.10.2013,2013,G.A. Eagles,Feyenoord,2,2,4.94,3.99,1.62
+19.10.2013,2013,Heerenveen,Vitesse,2,3,2.34,3.48,2.78
+19.10.2013,2013,Twente,Ajax,1,1,1.92,3.58,3.65
+19.10.2013,2013,Utrecht,Breda,4,2,1.96,3.48,3.63
+19.10.2013,2013,Waalwijk,Roda,1,2,2.31,3.43,2.87
+06.10.2013,2013,Ajax,Utrecht,3,0,1.27,5.82,8.91
+06.10.2013,2013,Groningen,AZ Alkmaar,2,1,2.65,3.39,2.48
+06.10.2013,2013,PSV,Waalwijk,2,1,1.17,7.24,12.56
+06.10.2013,2013,Vitesse,Feyenoord,1,2,2.64,3.49,2.46
+05.10.2013,2013,Breda,Heracles,2,1,2.06,3.46,3.32
+05.10.2013,2013,G.A. Eagles,Nijmegen,4,3,1.96,3.58,3.53
+05.10.2013,2013,Roda,Zwolle,0,0,2.40,3.39,2.79
+04.10.2013,2013,Cambuur,Twente,0,1,4.93,3.84,1.63
+02.10.2013,2013,Den Haag,Vitesse,2,1,3.84,3.63,1.86
+29.09.2013,2013,Feyenoord,Den Haag,4,2,1.24,5.84,10.65
+29.09.2013,2013,Heerenveen,Cambuur,2,1,1.73,3.81,4.29
+29.09.2013,2013,Nijmegen,Vitesse,2,3,3.55,3.64,1.94
+29.09.2013,2013,Twente,Groningen,5,0,1.32,5.15,8.36
+28.09.2013,2013,Ajax,G.A. Eagles,6,0,1.23,6.16,10.48
+28.09.2013,2013,AZ Alkmaar,PSV,2,1,3.37,3.47,2.05
+28.09.2013,2013,Utrecht,Roda,3,3,1.70,3.78,4.58
+28.09.2013,2013,Waalwijk,Heracles,1,4,2.07,3.51,3.27
+28.09.2013,2013,Zwolle,Breda,0,0,1.61,3.90,5.11
+22.09.2013,2013,Breda,AZ Alkmaar,3,0,3.34,3.42,2.08
+22.09.2013,2013,Feyenoord,Utrecht,1,0,1.31,4.94,8.96
+22.09.2013,2013,PSV,Ajax,4,0,2.20,3.44,3.07
+22.09.2013,2013,Vitesse,Zwolle,3,0,1.94,3.49,3.69
+21.09.2013,2013,Den Haag,Nijmegen,1,1,2.01,3.43,3.53
+21.09.2013,2013,Groningen,Waalwijk,4,1,1.83,3.59,4.07
+21.09.2013,2013,Heracles,Twente,0,3,5.22,3.99,1.59
+21.09.2013,2013,Roda,Heerenveen,3,3,2.56,3.49,2.53
+20.09.2013,2013,G.A. Eagles,Cambuur,0,0,2.13,3.40,3.21
+15.09.2013,2013,AZ Alkmaar,G.A. Eagles,3,0,1.46,4.50,6.02
+15.09.2013,2013,Heerenveen,Groningen,4,2,1.94,3.66,3.51
+15.09.2013,2013,Nijmegen,Feyenoord,3,3,5.34,3.99,1.58
+15.09.2013,2013,Roda,Breda,1,5,1.88,3.49,3.92
+15.09.2013,2013,Utrecht,Waalwijk,2,1,1.90,3.56,3.72
+14.09.2013,2013,Ajax,Zwolle,2,1,1.35,5.00,7.48
+14.09.2013,2013,Cambuur,Heracles,2,0,2.05,3.47,3.37
+14.09.2013,2013,Twente,PSV,2,2,2.21,3.37,3.10
+01.09.2013,2013,AZ Alkmaar,Vitesse,1,1,1.82,3.73,3.90
+01.09.2013,2013,Feyenoord,Roda,4,0,1.37,4.72,7.75
+01.09.2013,2013,Groningen,Ajax,1,1,4.59,3.95,1.67
+01.09.2013,2013,Zwolle,Utrecht,1,1,1.71,3.80,4.47
+31.08.2013,2013,Heracles,Den Haag,1,0,1.67,3.95,4.58
+31.08.2013,2013,PSV,Cambuur,0,0,1.14,7.60,15.92
+31.08.2013,2013,Twente,Heerenveen,1,1,1.35,4.92,7.75
+31.08.2013,2013,Waalwijk,G.A. Eagles,1,4,1.80,3.64,4.11
+30.08.2013,2013,Breda,Nijmegen,1,1,2.04,3.46,3.39
+25.08.2013,2013,Feyenoord,Breda,3,1,1.29,5.22,9.31
+25.08.2013,2013,G.A. Eagles,Groningen,3,3,2.50,3.32,2.69
+25.08.2013,2013,Utrecht,AZ Alkmaar,2,0,3.47,3.54,1.99
+25.08.2013,2013,Vitesse,Twente,1,0,3.27,3.53,2.06
+24.08.2013,2013,Den Haag,Roda,0,4,2.05,3.43,3.39
+24.08.2013,2013,Heracles,PSV,1,1,5.76,4.61,1.47
+24.08.2013,2013,Nijmegen,Waalwijk,2,2,2.36,3.40,2.82
+24.08.2013,2013,Zwolle,Cambuur,2,0,1.57,3.99,5.45
+23.08.2013,2013,Heerenveen,Ajax,3,3,5.36,4.25,1.54
+18.08.2013,2013,Ajax,Feyenoord,2,1,1.38,4.78,7.08
+18.08.2013,2013,Breda,Den Haag,1,2,2.03,3.41,3.48
+18.08.2013,2013,Heerenveen,Heracles,2,4,1.54,4.21,5.37
+18.08.2013,2013,Twente,Utrecht,6,0,1.43,4.27,7.08
+17.08.2013,2013,Cambuur,Groningen,4,1,2.84,3.36,2.34
+17.08.2013,2013,Nijmegen,Zwolle,1,5,2.53,3.37,2.63
+17.08.2013,2013,PSV,G.A. Eagles,3,0,1.13,7.79,15.57
+17.08.2013,2013,Roda,Vitesse,1,1,2.65,3.43,2.47
+17.08.2013,2013,Waalwijk,AZ Alkmaar,1,2,3.42,3.52,2.01
+11.08.2013,2013,AZ Alkmaar,Ajax,3,2,4.36,3.74,1.74
+11.08.2013,2013,Feyenoord,Twente,1,4,1.81,3.57,4.25
+11.08.2013,2013,Groningen,Utrecht,2,0,1.90,3.55,3.83
+11.08.2013,2013,Waalwijk,Vitesse,4,2,3.12,3.42,2.18
+10.08.2013,2013,Breda,Heerenveen,0,2,2.48,3.35,2.73
+10.08.2013,2013,G.A. Eagles,Den Haag,2,1,2.22,3.41,3.06
+10.08.2013,2013,Heracles,Zwolle,1,3,2.24,3.42,3.01
+10.08.2013,2013,PSV,Nijmegen,5,0,1.13,8.18,15.93
+09.08.2013,2013,Roda,Cambuur,2,0,1.66,3.83,4.76
+04.08.2013,2013,Cambuur,Breda,0,0,2.09,3.41,3.33
+04.08.2013,2013,Utrecht,G.A. Eagles,1,1,1.57,3.96,5.42
+04.08.2013,2013,Vitesse,Heracles,3,1,1.62,3.90,4.94
+04.08.2013,2013,Zwolle,Feyenoord,2,1,4.06,3.52,1.83
+03.08.2013,2013,Den Haag,PSV,2,3,7.12,4.87,1.37
+03.08.2013,2013,Heerenveen,AZ Alkmaar,4,2,2.88,3.52,2.26
+03.08.2013,2013,Nijmegen,Groningen,1,4,2.23,3.33,3.06
+03.08.2013,2013,Twente,Waalwijk,0,0,1.34,4.69,8.90
+02.08.2013,2013,Ajax,Roda,3,0,1.12,8.14,16.14

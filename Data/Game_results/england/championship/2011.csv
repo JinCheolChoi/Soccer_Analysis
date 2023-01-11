@@ -1,6 +1,6 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-19.05.2012,2011,Blackpool,West Ham,1,2
-09.05.2012,2011,Birmingham,Blackpool,2,2
-07.05.2012,2011,West Ham,Cardiff,3,0
-04.05.2012,2011,Blackpool,Birmingham,1,0
-03.05.2012,2011,Cardiff,West Ham,0,2
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+19.05.2012,2011,Blackpool,West Ham,1,2,3.91,3.61,1.88
+09.05.2012,2011,Birmingham,Blackpool,2,2,1.90,3.71,3.71
+07.05.2012,2011,West Ham,Cardiff,3,0,1.65,3.84,5.07
+04.05.2012,2011,Blackpool,Birmingham,1,0,2.29,3.30,3.04
+03.05.2012,2011,Cardiff,West Ham,0,2,2.93,3.25,2.40
