@@ -48,506 +48,506 @@ Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Awa
 22.04.2000,1999,Preston,Scunthorpe,1,0,1.43,4.09,6.50
 22.04.2000,1999,Stoke,Bournemouth,1,0,1.54,3.60,5.50
 22.04.2000,1999,Wigan,Reading,1,0,1.64,3.40,5.50
-21.04.2000,1999,Wycombe,Notts Co,2,0,2.20,3.00,3.50
-18.04.2000,1999,Luton,Bristol City,1,2,1.59,3.50,5.65
-18.04.2000,1999,Oldham,Chesterfield,1,2,2.04,3.00,3.75
-18.04.2000,1999,Burnley,Gillingham,0,3,2.00,3.10,4.09
-15.04.2000,1999,Blackpool,Scunthorpe,0,2,4.09,3.10,2.04
-15.04.2000,1999,Brentford,Millwall,1,3,2.50,3.00,2.75
-15.04.2000,1999,Bristol Rovers,Preston,0,2,1.70,3.40,5.60
-15.04.2000,1999,Bury,Chesterfield,1,1,2.25,3.00,3.35
-15.04.2000,1999,Cardiff,Cambridge Utd,0,4,2.50,3.00,2.75
-15.04.2000,1999,Gillingham,Wigan,2,1,1.91,3.20,4.25
-15.04.2000,1999,Notts Co,Reading,1,2,3.60,3.10,2.10
-15.04.2000,1999,Oxford Utd,Burnley,1,2,2.25,3.00,3.35
-15.04.2000,1999,Wrexham,Bournemouth,1,0,2.00,3.10,4.09
-15.04.2000,1999,Wycombe,Colchester,3,0,4.00,3.10,2.04
-11.04.2000,1999,Oldham,Wigan,2,1,2.25,3.00,3.35
-08.04.2000,1999,Bournemouth,Oldham,3,0,1.86,3.20,4.59
+21.04.2000,1999,Wycombe,Notts Co,2,0,NA,NA,NA
+18.04.2000,1999,Luton,Bristol City,1,2,2.20,3.00,3.50
+18.04.2000,1999,Oldham,Chesterfield,1,2,1.59,3.50,5.65
+18.04.2000,1999,Burnley,Gillingham,0,3,2.04,3.00,3.75
+15.04.2000,1999,Blackpool,Scunthorpe,0,2,2.00,3.10,4.09
+15.04.2000,1999,Brentford,Millwall,1,3,4.09,3.10,2.04
+15.04.2000,1999,Bristol Rovers,Preston,0,2,2.50,3.00,2.75
+15.04.2000,1999,Bury,Chesterfield,1,1,1.70,3.40,5.60
+15.04.2000,1999,Cardiff,Cambridge Utd,0,4,2.25,3.00,3.35
+15.04.2000,1999,Gillingham,Wigan,2,1,2.50,3.00,2.75
+15.04.2000,1999,Notts Co,Reading,1,2,1.91,3.20,4.25
+15.04.2000,1999,Oxford Utd,Burnley,1,2,3.60,3.10,2.10
+15.04.2000,1999,Wrexham,Bournemouth,1,0,2.25,3.00,3.35
+15.04.2000,1999,Wycombe,Colchester,3,0,2.00,3.10,4.09
+11.04.2000,1999,Oldham,Wigan,2,1,4.00,3.10,2.04
+08.04.2000,1999,Bournemouth,Oldham,3,0,2.25,3.00,3.35
 08.04.2000,1999,Bristol City,Wrexham,4,0,1.86,3.20,4.59
-08.04.2000,1999,Burnley,Notts Co,2,1,3.60,3.00,2.15
-08.04.2000,1999,Cambridge Utd,Bristol Rovers,1,1,2.85,2.95,2.65
-08.04.2000,1999,Chesterfield,Wycombe,1,2,1.96,3.20,4.09
-08.04.2000,1999,Colchester,Blackpool,1,1,1.54,3.60,6.60
-08.04.2000,1999,Millwall,Bury,3,0,1.43,4.09,7.00
-08.04.2000,1999,Preston,Cardiff,0,0,2.65,2.95,2.65
-08.04.2000,1999,Scunthorpe,Luton,1,2,1.54,3.60,6.60
-08.04.2000,1999,Stoke,Brentford,1,0,1.43,4.09,7.00
-08.04.2000,1999,Wigan,Oxford Utd,2,0,2.85,2.95,2.60
-07.04.2000,1999,Reading,Gillingham,2,2,2.75,3.00,2.65
-04.04.2000,1999,Oldham,Stoke,0,1,2.20,3.10,3.30
+08.04.2000,1999,Burnley,Notts Co,2,1,1.86,3.20,4.59
+08.04.2000,1999,Cambridge Utd,Bristol Rovers,1,1,3.60,3.00,2.15
+08.04.2000,1999,Chesterfield,Wycombe,1,2,2.85,2.95,2.65
+08.04.2000,1999,Colchester,Blackpool,1,1,1.96,3.20,4.09
+08.04.2000,1999,Millwall,Bury,3,0,1.54,3.60,6.60
+08.04.2000,1999,Preston,Cardiff,0,0,1.43,4.09,7.00
+08.04.2000,1999,Scunthorpe,Luton,1,2,2.65,2.95,2.65
+08.04.2000,1999,Stoke,Brentford,1,0,1.54,3.60,6.60
+08.04.2000,1999,Wigan,Oxford Utd,2,0,1.43,4.09,7.00
+07.04.2000,1999,Reading,Gillingham,2,2,2.85,2.95,2.60
+04.04.2000,1999,Oldham,Stoke,0,1,2.75,3.00,2.65
 04.04.2000,1999,Wigan,Preston,0,1,2.20,3.10,3.30
-04.04.2000,1999,Cambridge Utd,Bury,3,0,1.55,3.60,6.00
-04.04.2000,1999,Bristol Rovers,Reading,0,1,3.75,3.10,2.00
-01.04.2000,1999,Blackpool,Preston,0,0,3.60,3.10,2.10
-01.04.2000,1999,Brentford,Wigan,0,2,1.85,3.20,4.59
-01.04.2000,1999,Bristol Rovers,Stoke,3,3,1.90,3.20,4.09
-01.04.2000,1999,Bury,Scunthorpe,3,0,2.85,3.00,2.40
-01.04.2000,1999,Cardiff,Burnley,1,2,1.40,4.09,7.00
-01.04.2000,1999,Gillingham,Chesterfield,1,0,2.15,3.10,3.60
-01.04.2000,1999,Luton,Colchester,3,2,2.40,3.00,2.85
-01.04.2000,1999,Notts Co,Millwall,1,1,1.90,3.20,4.09
-01.04.2000,1999,Oldham,Cambridge Utd,1,0,2.50,3.00,2.85
-01.04.2000,1999,Oxford Utd,Bournemouth,1,0,2.20,3.10,3.40
-01.04.2000,1999,Wrexham,Reading,0,1,2.29,3.10,3.25
-01.04.2000,1999,Wycombe,Bristol City,1,2,2.65,3.00,2.65
-28.03.2000,1999,Bristol City,Stoke,2,2,3.30,3.10,2.29
-28.03.2000,1999,Wycombe,Gillingham,1,0,2.65,3.00,2.65
-28.03.2000,1999,Chesterfield,Bury,0,1,1.85,3.20,4.40
-28.03.2000,1999,Wrexham,Scunthorpe,3,1,2.25,3.10,3.30
-25.03.2000,1999,Bournemouth,Wycombe,2,0,2.00,3.10,3.90
-25.03.2000,1999,Bristol City,Brentford,1,0,1.55,3.50,6.60
-25.03.2000,1999,Burnley,Bury,2,2,2.00,3.10,3.90
-25.03.2000,1999,Cambridge Utd,Oxford Utd,2,0,2.60,2.95,2.60
-25.03.2000,1999,Chesterfield,Luton,1,3,3.00,3.00,2.29
-25.03.2000,1999,Colchester,Gillingham,2,1,2.60,2.95,2.85
-25.03.2000,1999,Millwall,Bristol Rovers,3,0,1.50,3.60,6.60
-25.03.2000,1999,Preston,Wrexham,1,0,1.70,3.30,4.65
-25.03.2000,1999,Reading,Cardiff,0,1,2.60,2.95,2.85
-25.03.2000,1999,Scunthorpe,Oldham,1,2,1.55,3.50,6.60
-25.03.2000,1999,Stoke,Blackpool,3,0,1.75,3.30,4.65
-25.03.2000,1999,Wigan,Notts Co,2,0,3.10,3.00,2.35
-22.03.2000,1999,Reading,Bristol Rovers,2,0,3.10,3.10,2.29
-21.03.2000,1999,Blackpool,Burnley,1,1,2.70,2.95,2.50
-21.03.2000,1999,Bournemouth,Gillingham,0,1,1.85,3.25,4.20
-21.03.2000,1999,Bury,Oxford Utd,1,2,2.29,3.10,3.10
-21.03.2000,1999,Chesterfield,Cardiff,1,1,2.20,3.10,3.30
-21.03.2000,1999,Colchester,Oldham,0,1,1.90,3.15,4.00
-21.03.2000,1999,Luton,Cambridge Utd,2,2,2.70,2.90,2.50
-21.03.2000,1999,Notts Co,Preston,1,0,2.50,2.95,2.70
-21.03.2000,1999,Scunthorpe,Brentford,0,0,2.85,3.00,2.50
-21.03.2000,1999,Wrexham,Millwall,1,1,2.80,2.95,2.40
-21.03.2000,1999,Wycombe,Wigan,0,2,2.00,3.10,3.80
-18.03.2000,1999,Brentford,Bournemouth,0,2,1.35,4.50,8.00
-18.03.2000,1999,Bristol Rovers,Chesterfield,3,1,1.70,3.30,5.00
-18.03.2000,1999,Burnley,Reading,3,0,2.20,3.10,3.35
-18.03.2000,1999,Cambridge Utd,Wrexham,3,4,1.45,3.80,6.60
-18.03.2000,1999,Gillingham,Scunthorpe,3,1,1.50,3.70,6.60
-18.03.2000,1999,Millwall,Blackpool,1,1,2.10,3.10,3.50
-18.03.2000,1999,Oldham,Bristol City,1,1,3.00,3.00,2.40
-18.03.2000,1999,Oxford Utd,Notts Co,2,3,1.50,3.60,6.60
-18.03.2000,1999,Preston,Luton,1,0,1.65,3.40,5.00
-18.03.2000,1999,Stoke,Wycombe,1,1,1.60,3.40,5.00
-18.03.2000,1999,Wigan,Bury,1,0,2.50,3.00,2.50
-17.03.2000,1999,Cardiff,Colchester,3,2,1.40,4.00,7.00
-14.03.2000,1999,Preston,Oxford Utd,3,1,2.00,3.10,3.65
-14.03.2000,1999,Gillingham,Burnley,2,2,2.00,3.10,3.90
-11.03.2000,1999,Blackpool,Cardiff,2,2,3.10,3.00,2.29
-11.03.2000,1999,Bournemouth,Preston,0,1,2.65,2.95,2.65
-11.03.2000,1999,Bristol City,Gillingham,0,1,3.60,3.10,2.10
-11.03.2000,1999,Bury,Bristol Rovers,0,0,3.90,3.10,2.00
-11.03.2000,1999,Chesterfield,Wigan,1,1,1.80,3.20,4.09
-11.03.2000,1999,Colchester,Oxford Utd,1,2,3.10,3.00,2.29
-11.03.2000,1999,Luton,Millwall,0,2,2.40,3.00,2.80
-11.03.2000,1999,Notts Co,Stoke,0,0,2.15,3.10,3.50
+04.04.2000,1999,Cambridge Utd,Bury,3,0,2.20,3.10,3.30
+04.04.2000,1999,Bristol Rovers,Reading,0,1,1.55,3.60,6.00
+01.04.2000,1999,Blackpool,Preston,0,0,3.75,3.10,2.00
+01.04.2000,1999,Brentford,Wigan,0,2,3.60,3.10,2.10
+01.04.2000,1999,Bristol Rovers,Stoke,3,3,1.85,3.20,4.59
+01.04.2000,1999,Bury,Scunthorpe,3,0,1.90,3.20,4.09
+01.04.2000,1999,Cardiff,Burnley,1,2,2.85,3.00,2.40
+01.04.2000,1999,Gillingham,Chesterfield,1,0,1.40,4.09,7.00
+01.04.2000,1999,Luton,Colchester,3,2,2.15,3.10,3.60
+01.04.2000,1999,Notts Co,Millwall,1,1,2.40,3.00,2.85
+01.04.2000,1999,Oldham,Cambridge Utd,1,0,1.90,3.20,4.09
+01.04.2000,1999,Oxford Utd,Bournemouth,1,0,2.50,3.00,2.85
+01.04.2000,1999,Wrexham,Reading,0,1,2.20,3.10,3.40
+01.04.2000,1999,Wycombe,Bristol City,1,2,2.29,3.10,3.25
+28.03.2000,1999,Bristol City,Stoke,2,2,2.65,3.00,2.65
+28.03.2000,1999,Wycombe,Gillingham,1,0,3.30,3.10,2.29
+28.03.2000,1999,Chesterfield,Bury,0,1,2.65,3.00,2.65
+28.03.2000,1999,Wrexham,Scunthorpe,3,1,1.85,3.20,4.40
+25.03.2000,1999,Bournemouth,Wycombe,2,0,2.25,3.10,3.30
+25.03.2000,1999,Bristol City,Brentford,1,0,2.00,3.10,3.90
+25.03.2000,1999,Burnley,Bury,2,2,1.55,3.50,6.60
+25.03.2000,1999,Cambridge Utd,Oxford Utd,2,0,2.00,3.10,3.90
+25.03.2000,1999,Chesterfield,Luton,1,3,2.60,2.95,2.60
+25.03.2000,1999,Colchester,Gillingham,2,1,3.00,3.00,2.29
+25.03.2000,1999,Millwall,Bristol Rovers,3,0,2.60,2.95,2.85
+25.03.2000,1999,Preston,Wrexham,1,0,1.50,3.60,6.60
+25.03.2000,1999,Reading,Cardiff,0,1,1.70,3.30,4.65
+25.03.2000,1999,Scunthorpe,Oldham,1,2,2.60,2.95,2.85
+25.03.2000,1999,Stoke,Blackpool,3,0,1.55,3.50,6.60
+25.03.2000,1999,Wigan,Notts Co,2,0,1.75,3.30,4.65
+22.03.2000,1999,Reading,Bristol Rovers,2,0,3.10,3.00,2.35
+21.03.2000,1999,Blackpool,Burnley,1,1,3.10,3.10,2.29
+21.03.2000,1999,Bournemouth,Gillingham,0,1,2.70,2.95,2.50
+21.03.2000,1999,Bury,Oxford Utd,1,2,1.85,3.25,4.20
+21.03.2000,1999,Chesterfield,Cardiff,1,1,2.29,3.10,3.10
+21.03.2000,1999,Colchester,Oldham,0,1,2.20,3.10,3.30
+21.03.2000,1999,Luton,Cambridge Utd,2,2,1.90,3.15,4.00
+21.03.2000,1999,Notts Co,Preston,1,0,2.70,2.90,2.50
+21.03.2000,1999,Scunthorpe,Brentford,0,0,2.50,2.95,2.70
+21.03.2000,1999,Wrexham,Millwall,1,1,2.85,3.00,2.50
+21.03.2000,1999,Wycombe,Wigan,0,2,2.80,2.95,2.40
+18.03.2000,1999,Brentford,Bournemouth,0,2,2.00,3.10,3.80
+18.03.2000,1999,Bristol Rovers,Chesterfield,3,1,1.35,4.50,8.00
+18.03.2000,1999,Burnley,Reading,3,0,1.70,3.30,5.00
+18.03.2000,1999,Cambridge Utd,Wrexham,3,4,2.20,3.10,3.35
+18.03.2000,1999,Gillingham,Scunthorpe,3,1,1.45,3.80,6.60
+18.03.2000,1999,Millwall,Blackpool,1,1,1.50,3.70,6.60
+18.03.2000,1999,Oldham,Bristol City,1,1,2.10,3.10,3.50
+18.03.2000,1999,Oxford Utd,Notts Co,2,3,3.00,3.00,2.40
+18.03.2000,1999,Preston,Luton,1,0,1.50,3.60,6.60
+18.03.2000,1999,Stoke,Wycombe,1,1,1.65,3.40,5.00
+18.03.2000,1999,Wigan,Bury,1,0,1.60,3.40,5.00
+17.03.2000,1999,Cardiff,Colchester,3,2,2.50,3.00,2.50
+14.03.2000,1999,Preston,Oxford Utd,3,1,1.40,4.00,7.00
+14.03.2000,1999,Gillingham,Burnley,2,2,2.00,3.10,3.65
+11.03.2000,1999,Blackpool,Cardiff,2,2,2.00,3.10,3.90
+11.03.2000,1999,Bournemouth,Preston,0,1,3.10,3.00,2.29
+11.03.2000,1999,Bristol City,Gillingham,0,1,2.65,2.95,2.65
+11.03.2000,1999,Bury,Bristol Rovers,0,0,3.60,3.10,2.10
+11.03.2000,1999,Chesterfield,Wigan,1,1,3.90,3.10,2.00
+11.03.2000,1999,Colchester,Oxford Utd,1,2,1.80,3.20,4.09
+11.03.2000,1999,Luton,Millwall,0,2,3.10,3.00,2.29
+11.03.2000,1999,Notts Co,Stoke,0,0,2.40,3.00,2.80
 11.03.2000,1999,Reading,Brentford,1,0,2.15,3.10,3.50
-11.03.2000,1999,Scunthorpe,Cambridge Utd,0,3,2.70,3.00,2.50
-11.03.2000,1999,Wrexham,Burnley,0,1,2.00,3.10,3.90
-11.03.2000,1999,Wycombe,Oldham,0,0,1.90,3.15,4.09
-07.03.2000,1999,Brentford,Wrexham,0,2,1.60,3.40,5.50
+11.03.2000,1999,Scunthorpe,Cambridge Utd,0,3,2.15,3.10,3.50
+11.03.2000,1999,Wrexham,Burnley,0,1,2.70,3.00,2.50
+11.03.2000,1999,Wycombe,Oldham,0,0,2.00,3.10,3.90
+07.03.2000,1999,Brentford,Wrexham,0,2,1.90,3.15,4.09
 07.03.2000,1999,Bristol Rovers,Wycombe,1,0,1.60,3.40,5.50
-07.03.2000,1999,Burnley,Luton,0,2,2.50,3.00,2.50
+07.03.2000,1999,Burnley,Luton,0,2,1.60,3.40,5.50
 07.03.2000,1999,Cambridge Utd,Bristol City,3,0,2.50,3.00,2.50
-07.03.2000,1999,Cardiff,Bournemouth,1,2,1.80,3.20,4.40
-07.03.2000,1999,Gillingham,Notts Co,0,1,1.45,4.00,7.00
-07.03.2000,1999,Millwall,Scunthorpe,1,2,2.50,3.00,2.70
-07.03.2000,1999,Oxford Utd,Reading,1,3,1.50,3.60,6.00
-07.03.2000,1999,Preston,Colchester,2,3,1.60,3.40,5.50
-07.03.2000,1999,Wigan,Blackpool,5,1,3.10,3.00,2.40
-04.03.2000,1999,Blackpool,Notts Co,2,1,1.66,3.40,5.65
-04.03.2000,1999,Brentford,Cambridge Utd,1,1,2.00,3.10,3.75
-04.03.2000,1999,Bristol Rovers,Wigan,1,1,2.29,3.00,3.15
+07.03.2000,1999,Cardiff,Bournemouth,1,2,2.50,3.00,2.50
+07.03.2000,1999,Gillingham,Notts Co,0,1,1.80,3.20,4.40
+07.03.2000,1999,Millwall,Scunthorpe,1,2,1.45,4.00,7.00
+07.03.2000,1999,Oxford Utd,Reading,1,3,2.50,3.00,2.70
+07.03.2000,1999,Preston,Colchester,2,3,1.50,3.60,6.00
+07.03.2000,1999,Wigan,Blackpool,5,1,1.60,3.40,5.50
+04.03.2000,1999,Blackpool,Notts Co,2,1,3.10,3.00,2.40
+04.03.2000,1999,Brentford,Cambridge Utd,1,1,1.66,3.40,5.65
+04.03.2000,1999,Bristol Rovers,Wigan,1,1,2.00,3.10,3.75
 04.03.2000,1999,Burnley,Preston,0,3,2.29,3.00,3.15
-04.03.2000,1999,Bury,Oldham,2,2,1.55,3.50,6.10
-04.03.2000,1999,Gillingham,Oxford Utd,1,0,1.85,3.20,4.59
-04.03.2000,1999,Millwall,Bristol City,4,1,2.10,3.10,3.60
-04.03.2000,1999,Reading,Bournemouth,2,0,2.50,2.95,2.95
-04.03.2000,1999,Scunthorpe,Colchester,0,0,1.50,3.60,6.10
-04.03.2000,1999,Stoke,Chesterfield,5,1,2.40,3.00,3.10
-04.03.2000,1999,Wrexham,Luton,1,0,2.75,2.95,2.75
-03.03.2000,1999,Cardiff,Wycombe,2,2,1.90,3.20,4.09
-26.02.2000,1999,Bournemouth,Blackpool,2,0,1.75,3.30,5.00
-26.02.2000,1999,Bristol City,Scunthorpe,2,1,3.10,3.00,2.35
-26.02.2000,1999,Cambridge Utd,Millwall,0,2,2.65,3.00,2.65
+04.03.2000,1999,Bury,Oldham,2,2,2.29,3.00,3.15
+04.03.2000,1999,Gillingham,Oxford Utd,1,0,1.55,3.50,6.10
+04.03.2000,1999,Millwall,Bristol City,4,1,1.85,3.20,4.59
+04.03.2000,1999,Reading,Bournemouth,2,0,2.10,3.10,3.60
+04.03.2000,1999,Scunthorpe,Colchester,0,0,2.50,2.95,2.95
+04.03.2000,1999,Stoke,Chesterfield,5,1,1.50,3.60,6.10
+04.03.2000,1999,Wrexham,Luton,1,0,2.40,3.00,3.10
+03.03.2000,1999,Cardiff,Wycombe,2,2,2.75,2.95,2.75
+26.02.2000,1999,Bournemouth,Blackpool,2,0,1.90,3.20,4.09
+26.02.2000,1999,Bristol City,Scunthorpe,2,1,1.75,3.30,5.00
+26.02.2000,1999,Cambridge Utd,Millwall,0,2,3.10,3.00,2.35
 26.02.2000,1999,Chesterfield,Reading,2,0,2.65,3.00,2.65
-26.02.2000,1999,Colchester,Burnley,1,2,2.20,3.10,3.65
-26.02.2000,1999,Luton,Brentford,1,2,1.65,3.40,5.65
-26.02.2000,1999,Notts Co,Cardiff,2,1,3.10,3.00,2.35
-26.02.2000,1999,Oldham,Bristol Rovers,1,4,2.15,3.10,3.75
-26.02.2000,1999,Oxford Utd,Wrexham,1,4,1.75,3.30,4.80
-26.02.2000,1999,Preston,Gillingham,0,2,1.80,3.25,4.50
-26.02.2000,1999,Wigan,Stoke,1,2,2.15,3.10,3.65
-26.02.2000,1999,Wycombe,Bury,3,0,1.65,3.40,5.60
-22.02.2000,1999,Bury,Cambridge Utd,0,2,2.65,3.00,2.50
-22.02.2000,1999,Cardiff,Bristol City,0,0,2.10,3.10,3.50
-19.02.2000,1999,Brentford,Wycombe,0,0,2.20,3.10,3.40
+26.02.2000,1999,Colchester,Burnley,1,2,2.65,3.00,2.65
+26.02.2000,1999,Luton,Brentford,1,2,2.20,3.10,3.65
+26.02.2000,1999,Notts Co,Cardiff,2,1,1.65,3.40,5.65
+26.02.2000,1999,Oldham,Bristol Rovers,1,4,3.10,3.00,2.35
+26.02.2000,1999,Oxford Utd,Wrexham,1,4,2.15,3.10,3.75
+26.02.2000,1999,Preston,Gillingham,0,2,1.75,3.30,4.80
+26.02.2000,1999,Wigan,Stoke,1,2,1.80,3.25,4.50
+26.02.2000,1999,Wycombe,Bury,3,0,2.15,3.10,3.65
+22.02.2000,1999,Bury,Cambridge Utd,0,2,1.65,3.40,5.60
+22.02.2000,1999,Cardiff,Bristol City,0,0,2.65,3.00,2.50
+19.02.2000,1999,Brentford,Wycombe,0,0,2.10,3.10,3.50
 19.02.2000,1999,Bristol City,Notts Co,2,2,2.20,3.10,3.40
 19.02.2000,1999,Burnley,Wigan,0,0,2.20,3.10,3.40
-19.02.2000,1999,Cambridge Utd,Blackpool,0,2,2.50,3.00,2.50
+19.02.2000,1999,Cambridge Utd,Blackpool,0,2,2.20,3.10,3.40
 19.02.2000,1999,Colchester,Stoke,1,0,2.50,3.00,2.50
-19.02.2000,1999,Luton,Bristol Rovers,1,4,1.60,3.40,5.65
-19.02.2000,1999,Millwall,Bournemouth,3,1,2.00,3.10,4.00
-19.02.2000,1999,Oxford Utd,Chesterfield,2,1,1.50,3.60,6.50
-19.02.2000,1999,Preston,Bury,1,1,2.45,3.00,2.75
-19.02.2000,1999,Scunthorpe,Reading,2,2,2.40,3.00,2.95
-19.02.2000,1999,Wrexham,Oldham,0,3,1.55,3.50,6.00
-15.02.2000,1999,Notts Co,Cambridge Utd,2,3,2.60,2.85,2.60
+19.02.2000,1999,Luton,Bristol Rovers,1,4,2.50,3.00,2.50
+19.02.2000,1999,Millwall,Bournemouth,3,1,1.60,3.40,5.65
+19.02.2000,1999,Oxford Utd,Chesterfield,2,1,2.00,3.10,4.00
+19.02.2000,1999,Preston,Bury,1,1,1.50,3.60,6.50
+19.02.2000,1999,Scunthorpe,Reading,2,2,2.45,3.00,2.75
+19.02.2000,1999,Wrexham,Oldham,0,3,2.40,3.00,2.95
+15.02.2000,1999,Notts Co,Cambridge Utd,2,3,1.55,3.50,6.00
 12.02.2000,1999,Blackpool,Bristol City,1,2,2.60,2.85,2.60
-12.02.2000,1999,Bournemouth,Burnley,0,1,1.40,4.09,7.80
-12.02.2000,1999,Bristol Rovers,Scunthorpe,1,1,2.40,2.90,3.10
-12.02.2000,1999,Bury,Luton,1,0,2.50,2.90,2.70
-12.02.2000,1999,Cardiff,Brentford,1,1,4.00,3.00,1.95
-12.02.2000,1999,Chesterfield,Preston,0,1,1.70,3.20,4.80
-12.02.2000,1999,Notts Co,Wrexham,2,1,2.45,2.95,2.85
-12.02.2000,1999,Oldham,Gillingham,1,3,2.65,2.90,2.54
-12.02.2000,1999,Reading,Millwall,2,0,1.50,3.60,6.00
+12.02.2000,1999,Bournemouth,Burnley,0,1,2.60,2.85,2.60
+12.02.2000,1999,Bristol Rovers,Scunthorpe,1,1,1.40,4.09,7.80
+12.02.2000,1999,Bury,Luton,1,0,2.40,2.90,3.10
+12.02.2000,1999,Cardiff,Brentford,1,1,2.50,2.90,2.70
+12.02.2000,1999,Chesterfield,Preston,0,1,4.00,3.00,1.95
+12.02.2000,1999,Notts Co,Wrexham,2,1,1.70,3.20,4.80
+12.02.2000,1999,Oldham,Gillingham,1,3,2.45,2.95,2.85
+12.02.2000,1999,Reading,Millwall,2,0,2.65,2.90,2.54
 12.02.2000,1999,Stoke,Cambridge Utd,1,0,1.50,3.60,6.00
-12.02.2000,1999,Wigan,Colchester,0,1,1.60,3.30,5.50
-12.02.2000,1999,Wycombe,Oxford Utd,0,1,2.29,3.00,3.30
-08.02.2000,1999,Blackpool,Reading,0,2,2.60,2.90,2.60
-08.02.2000,1999,Luton,Stoke,2,1,1.95,3.00,4.00
-05.02.2000,1999,Brentford,Notts Co,0,2,1.70,3.20,5.00
-05.02.2000,1999,Bristol City,Chesterfield,3,0,2.29,3.00,3.00
-05.02.2000,1999,Burnley,Bristol Rovers,1,0,4.00,3.00,2.00
-05.02.2000,1999,Cambridge Utd,Wigan,1,1,2.00,3.00,4.00
-05.02.2000,1999,Colchester,Bury,1,3,2.35,2.90,3.10
-05.02.2000,1999,Gillingham,Stoke,3,0,1.80,3.00,4.59
-05.02.2000,1999,Luton,Bournemouth,1,2,1.70,3.20,5.00
-05.02.2000,1999,Millwall,Oldham,1,0,2.10,2.95,3.50
-05.02.2000,1999,Oxford Utd,Blackpool,0,1,1.40,4.00,7.00
-05.02.2000,1999,Preston,Reading,2,2,2.00,3.00,4.00
-05.02.2000,1999,Scunthorpe,Cardiff,0,0,2.29,3.00,3.00
-05.02.2000,1999,Wrexham,Wycombe,1,3,2.25,3.00,3.30
-01.02.2000,1999,Scunthorpe,Wrexham,0,2,2.70,2.70,2.70
-01.02.2000,1999,Chesterfield,Gillingham,0,0,4.20,3.20,1.90
-01.02.2000,1999,Oxford Utd,Preston,0,4,2.60,3.00,2.90
-30.01.2000,1999,Cardiff,Luton,1,3,2.50,3.00,2.95
-29.01.2000,1999,Blackpool,Brentford,0,1,1.85,3.20,4.65
-29.01.2000,1999,Bournemouth,Scunthorpe,1,1,1.50,2.60,7.60
-29.01.2000,1999,Bristol Rovers,Wrexham,3,1,2.50,3.00,2.95
-29.01.2000,1999,Bury,Bristol City,0,0,3.35,3.00,2.35
-29.01.2000,1999,Chesterfield,Millwall,2,0,1.80,3.20,4.84
-29.01.2000,1999,Oldham,Oxford Utd,2,0,2.65,3.00,2.85
-29.01.2000,1999,Reading,Colchester,2,0,2.10,3.10,3.75
-29.01.2000,1999,Stoke,Burnley,2,2,2.15,3.10,3.65
-22.01.2000,1999,Brentford,Bury,2,1,2.95,3.00,2.65
-22.01.2000,1999,Bristol City,Wigan,0,0,1.80,3.20,5.00
-22.01.2000,1999,Burnley,Oldham,3,0,2.25,3.00,3.55
-22.01.2000,1999,Cambridge Utd,Chesterfield,2,0,2.15,3.10,3.65
-22.01.2000,1999,Colchester,Bournemouth,3,1,1.50,3.60,7.50
-22.01.2000,1999,Gillingham,Blackpool,1,3,1.75,3.30,5.00
-22.01.2000,1999,Luton,Reading,3,1,2.25,3.00,3.45
-22.01.2000,1999,Millwall,Stoke,1,0,3.15,3.00,2.35
-22.01.2000,1999,Oxford Utd,Bristol Rovers,0,5,1.60,3.40,6.60
-22.01.2000,1999,Preston,Wycombe,3,2,2.95,3.00,2.50
-22.01.2000,1999,Scunthorpe,Notts Co,1,0,2.20,3.00,3.55
-22.01.2000,1999,Wrexham,Cardiff,2,1,2.40,3.00,2.95
-18.01.2000,1999,Colchester,Wycombe,1,0,2.75,2.95,2.75
-15.01.2000,1999,Blackpool,Luton,3,3,2.04,3.10,4.09
-15.01.2000,1999,Bournemouth,Bristol City,2,3,2.00,3.10,4.20
-15.01.2000,1999,Bristol Rovers,Gillingham,2,1,1.75,3.30,5.09
-15.01.2000,1999,Bury,Wrexham,0,2,2.20,3.00,3.60
-15.01.2000,1999,Cardiff,Oxford Utd,1,1,3.00,3.00,2.40
-15.01.2000,1999,Chesterfield,Burnley,1,1,1.70,3.30,5.09
-15.01.2000,1999,Notts Co,Colchester,1,2,2.10,3.10,3.65
-15.01.2000,1999,Oldham,Brentford,3,0,2.00,3.10,4.20
-15.01.2000,1999,Reading,Cambridge Utd,0,0,1.85,3.20,4.50
-15.01.2000,1999,Wigan,Millwall,1,1,1.75,3.30,5.09
-15.01.2000,1999,Wycombe,Scunthorpe,2,1,2.80,2.95,2.70
-14.01.2000,1999,Stoke,Preston,2,1,1.75,3.30,4.65
-09.01.2000,1999,Bristol City,Cardiff,0,0,2.25,3.00,3.20
-08.01.2000,1999,Bournemouth,Notts Co,1,1,3.10,3.00,2.29
-08.01.2000,1999,Chesterfield,Brentford,1,0,3.65,3.10,2.10
-08.01.2000,1999,Colchester,Bristol Rovers,5,4,1.70,3.30,5.00
-08.01.2000,1999,Millwall,Wycombe,1,1,2.00,3.10,4.00
-08.01.2000,1999,Reading,Blackpool,1,1,1.75,3.30,5.00
-08.01.2000,1999,Stoke,Luton,2,1,1.50,3.50,6.50
-07.01.2000,1999,Wigan,Oldham,0,1,2.60,3.00,2.60
-04.01.2000,1999,Bury,Millwall,2,2,2.29,3.00,3.10
+12.02.2000,1999,Wigan,Colchester,0,1,1.50,3.60,6.00
+12.02.2000,1999,Wycombe,Oxford Utd,0,1,1.60,3.30,5.50
+08.02.2000,1999,Blackpool,Reading,0,2,2.29,3.00,3.30
+08.02.2000,1999,Luton,Stoke,2,1,2.60,2.90,2.60
+05.02.2000,1999,Brentford,Notts Co,0,2,1.95,3.00,4.00
+05.02.2000,1999,Bristol City,Chesterfield,3,0,1.70,3.20,5.00
+05.02.2000,1999,Burnley,Bristol Rovers,1,0,2.29,3.00,3.00
+05.02.2000,1999,Cambridge Utd,Wigan,1,1,4.00,3.00,2.00
+05.02.2000,1999,Colchester,Bury,1,3,2.00,3.00,4.00
+05.02.2000,1999,Gillingham,Stoke,3,0,2.35,2.90,3.10
+05.02.2000,1999,Luton,Bournemouth,1,2,1.80,3.00,4.59
+05.02.2000,1999,Millwall,Oldham,1,0,1.70,3.20,5.00
+05.02.2000,1999,Oxford Utd,Blackpool,0,1,2.10,2.95,3.50
+05.02.2000,1999,Preston,Reading,2,2,1.40,4.00,7.00
+05.02.2000,1999,Scunthorpe,Cardiff,0,0,2.00,3.00,4.00
+05.02.2000,1999,Wrexham,Wycombe,1,3,2.29,3.00,3.00
+01.02.2000,1999,Scunthorpe,Wrexham,0,2,2.25,3.00,3.30
+01.02.2000,1999,Chesterfield,Gillingham,0,0,2.70,2.70,2.70
+01.02.2000,1999,Oxford Utd,Preston,0,4,4.20,3.20,1.90
+30.01.2000,1999,Cardiff,Luton,1,3,2.60,3.00,2.90
+29.01.2000,1999,Blackpool,Brentford,0,1,2.50,3.00,2.95
+29.01.2000,1999,Bournemouth,Scunthorpe,1,1,1.85,3.20,4.65
+29.01.2000,1999,Bristol Rovers,Wrexham,3,1,1.50,2.60,7.60
+29.01.2000,1999,Bury,Bristol City,0,0,2.50,3.00,2.95
+29.01.2000,1999,Chesterfield,Millwall,2,0,3.35,3.00,2.35
+29.01.2000,1999,Oldham,Oxford Utd,2,0,1.80,3.20,4.84
+29.01.2000,1999,Reading,Colchester,2,0,2.65,3.00,2.85
+29.01.2000,1999,Stoke,Burnley,2,2,2.10,3.10,3.75
+22.01.2000,1999,Brentford,Bury,2,1,2.15,3.10,3.65
+22.01.2000,1999,Bristol City,Wigan,0,0,2.95,3.00,2.65
+22.01.2000,1999,Burnley,Oldham,3,0,1.80,3.20,5.00
+22.01.2000,1999,Cambridge Utd,Chesterfield,2,0,2.25,3.00,3.55
+22.01.2000,1999,Colchester,Bournemouth,3,1,2.15,3.10,3.65
+22.01.2000,1999,Gillingham,Blackpool,1,3,1.50,3.60,7.50
+22.01.2000,1999,Luton,Reading,3,1,1.75,3.30,5.00
+22.01.2000,1999,Millwall,Stoke,1,0,2.25,3.00,3.45
+22.01.2000,1999,Oxford Utd,Bristol Rovers,0,5,3.15,3.00,2.35
+22.01.2000,1999,Preston,Wycombe,3,2,1.60,3.40,6.60
+22.01.2000,1999,Scunthorpe,Notts Co,1,0,2.95,3.00,2.50
+22.01.2000,1999,Wrexham,Cardiff,2,1,2.20,3.00,3.55
+18.01.2000,1999,Colchester,Wycombe,1,0,2.40,3.00,2.95
+15.01.2000,1999,Blackpool,Luton,3,3,2.75,2.95,2.75
+15.01.2000,1999,Bournemouth,Bristol City,2,3,2.04,3.10,4.09
+15.01.2000,1999,Bristol Rovers,Gillingham,2,1,2.00,3.10,4.20
+15.01.2000,1999,Bury,Wrexham,0,2,1.75,3.30,5.09
+15.01.2000,1999,Cardiff,Oxford Utd,1,1,2.20,3.00,3.60
+15.01.2000,1999,Chesterfield,Burnley,1,1,3.00,3.00,2.40
+15.01.2000,1999,Notts Co,Colchester,1,2,1.70,3.30,5.09
+15.01.2000,1999,Oldham,Brentford,3,0,2.10,3.10,3.65
+15.01.2000,1999,Reading,Cambridge Utd,0,0,2.00,3.10,4.20
+15.01.2000,1999,Wigan,Millwall,1,1,1.85,3.20,4.50
+15.01.2000,1999,Wycombe,Scunthorpe,2,1,1.75,3.30,5.09
+14.01.2000,1999,Stoke,Preston,2,1,2.80,2.95,2.70
+09.01.2000,1999,Bristol City,Cardiff,0,0,1.75,3.30,4.65
+08.01.2000,1999,Bournemouth,Notts Co,1,1,2.25,3.00,3.20
+08.01.2000,1999,Chesterfield,Brentford,1,0,3.10,3.00,2.29
+08.01.2000,1999,Colchester,Bristol Rovers,5,4,3.65,3.10,2.10
+08.01.2000,1999,Millwall,Wycombe,1,1,1.70,3.30,5.00
+08.01.2000,1999,Reading,Blackpool,1,1,2.00,3.10,4.00
+08.01.2000,1999,Stoke,Luton,2,1,1.75,3.30,5.00
+07.01.2000,1999,Wigan,Oldham,0,1,1.50,3.50,6.50
+04.01.2000,1999,Bury,Millwall,2,2,2.60,3.00,2.60
 03.01.2000,1999,Blackpool,Colchester,1,1,2.29,3.00,3.10
-03.01.2000,1999,Brentford,Stoke,0,1,1.45,4.00,7.50
-03.01.2000,1999,Bristol Rovers,Cambridge Utd,1,0,3.75,3.10,2.00
-03.01.2000,1999,Cardiff,Preston,0,4,1.45,4.00,7.50
-03.01.2000,1999,Gillingham,Reading,2,2,1.80,3.20,4.50
-03.01.2000,1999,Luton,Scunthorpe,4,1,2.29,3.00,3.10
+03.01.2000,1999,Brentford,Stoke,0,1,2.29,3.00,3.10
+03.01.2000,1999,Bristol Rovers,Cambridge Utd,1,0,1.45,4.00,7.50
+03.01.2000,1999,Cardiff,Preston,0,4,3.75,3.10,2.00
+03.01.2000,1999,Gillingham,Reading,2,2,1.45,4.00,7.50
+03.01.2000,1999,Luton,Scunthorpe,4,1,1.80,3.20,4.50
 03.01.2000,1999,Notts Co,Burnley,2,0,2.29,3.00,3.10
-03.01.2000,1999,Oldham,Bournemouth,1,0,3.60,3.10,2.10
-03.01.2000,1999,Oxford Utd,Wigan,1,2,2.29,3.00,3.10
-03.01.2000,1999,Wrexham,Bristol City,0,1,1.70,3.30,5.00
-03.01.2000,1999,Wycombe,Chesterfield,3,0,1.75,3.30,5.00
-28.12.1999,1999,Bournemouth,Wrexham,1,0,2.00,3.10,4.00
-28.12.1999,1999,Bristol City,Luton,0,0,1.55,3.50,5.60
-28.12.1999,1999,Burnley,Oxford Utd,3,2,2.25,3.00,3.50
-28.12.1999,1999,Cambridge Utd,Cardiff,0,0,1.75,3.30,5.00
-28.12.1999,1999,Millwall,Brentford,3,2,2.10,3.10,3.60
-28.12.1999,1999,Preston,Bristol Rovers,2,1,3.00,3.00,2.50
-28.12.1999,1999,Reading,Notts Co,0,0,2.10,3.10,3.60
-28.12.1999,1999,Scunthorpe,Blackpool,1,0,1.90,3.15,4.09
-28.12.1999,1999,Stoke,Oldham,0,0,1.80,3.20,5.00
-28.12.1999,1999,Wigan,Gillingham,2,0,2.75,3.00,2.50
-26.12.1999,1999,Blackpool,Stoke,1,2,2.00,3.10,4.00
-26.12.1999,1999,Brentford,Bristol City,2,1,2.10,3.10,3.50
-26.12.1999,1999,Bristol Rovers,Millwall,1,0,2.60,3.00,2.60
-26.12.1999,1999,Bury,Burnley,4,2,2.00,3.10,4.00
-26.12.1999,1999,Cardiff,Reading,1,0,1.50,3.60,6.50
-26.12.1999,1999,Gillingham,Colchester,2,1,1.70,3.40,4.80
-26.12.1999,1999,Luton,Chesterfield,1,1,2.75,3.00,2.40
-26.12.1999,1999,Notts Co,Wigan,0,2,1.95,3.15,4.09
-26.12.1999,1999,Oldham,Scunthorpe,1,1,1.85,3.20,4.50
-26.12.1999,1999,Oxford Utd,Cambridge Utd,1,0,3.50,3.00,2.10
-26.12.1999,1999,Wrexham,Preston,0,0,2.25,3.00,3.30
-26.12.1999,1999,Wycombe,Bournemouth,2,1,1.80,3.10,4.40
-18.12.1999,1999,Bournemouth,Oxford Utd,4,0,1.47,4.00,7.00
-18.12.1999,1999,Burnley,Cardiff,2,1,2.20,3.00,3.45
-18.12.1999,1999,Cambridge Utd,Oldham,2,3,1.90,3.10,4.00
-18.12.1999,1999,Millwall,Notts Co,1,0,1.40,4.09,7.20
-18.12.1999,1999,Preston,Blackpool,3,0,2.15,2.90,3.50
-18.12.1999,1999,Reading,Wrexham,2,2,2.40,3.00,2.80
-18.12.1999,1999,Scunthorpe,Bury,0,2,2.60,3.00,2.60
-18.12.1999,1999,Stoke,Bristol Rovers,1,2,1.65,3.30,5.50
-18.12.1999,1999,Wigan,Brentford,1,0,1.80,3.10,4.40
-17.12.1999,1999,Bristol City,Wycombe,0,0,2.50,2.95,2.70
-17.12.1999,1999,Colchester,Luton,3,0,1.55,3.60,5.50
-11.12.1999,1999,Bristol Rovers,Colchester,2,1,1.90,3.20,3.90
-11.12.1999,1999,Notts Co,Bournemouth,5,1,2.60,2.90,2.60
-11.12.1999,1999,Wycombe,Millwall,1,2,1.55,3.60,5.50
-10.12.1999,1999,Brentford,Chesterfield,1,1,2.60,3.00,2.50
-07.12.1999,1999,Chesterfield,Bristol City,0,2,2.20,2.95,3.60
-04.12.1999,1999,Brentford,Bristol Rovers,0,3,1.95,3.00,4.09
-04.12.1999,1999,Bristol City,Reading,3,1,1.65,3.20,5.50
-04.12.1999,1999,Burnley,Wycombe,1,0,2.29,2.90,3.20
-04.12.1999,1999,Cambridge Utd,Bournemouth,0,2,1.65,3.20,5.50
-04.12.1999,1999,Gillingham,Bury,1,0,2.35,2.90,3.10
-04.12.1999,1999,Luton,Notts Co,2,2,1.70,3.10,5.00
-04.12.1999,1999,Millwall,Cardiff,2,0,2.60,3.00,2.50
-04.12.1999,1999,Oxford Utd,Stoke,1,1,1.50,3.60,7.00
-04.12.1999,1999,Preston,Oldham,2,0,3.60,3.10,2.00
-04.12.1999,1999,Scunthorpe,Wigan,1,2,2.10,2.95,3.60
-04.12.1999,1999,Wrexham,Blackpool,1,1,2.00,2.95,4.00
-03.12.1999,1999,Colchester,Chesterfield,1,0,2.90,3.00,2.40
-27.11.1999,1999,Blackpool,Cambridge Utd,2,1,2.65,2.95,2.54
-27.11.1999,1999,Bournemouth,Millwall,1,2,2.54,2.95,2.54
-27.11.1999,1999,Bristol Rovers,Luton,3,0,2.00,3.10,3.75
-27.11.1999,1999,Bury,Preston,1,3,2.85,2.95,2.54
-27.11.1999,1999,Cardiff,Gillingham,1,2,2.25,3.00,3.30
-27.11.1999,1999,Chesterfield,Oxford Utd,0,0,2.54,2.95,2.54
-27.11.1999,1999,Notts Co,Bristol City,4,4,1.65,3.40,5.50
-27.11.1999,1999,Oldham,Wrexham,0,0,2.85,2.95,2.54
-27.11.1999,1999,Reading,Scunthorpe,1,1,1.90,3.15,4.09
-27.11.1999,1999,Stoke,Colchester,1,1,2.40,3.00,2.90
-27.11.1999,1999,Wigan,Burnley,1,1,3.30,3.00,2.25
-27.11.1999,1999,Wycombe,Brentford,2,0,3.30,3.00,2.25
-24.11.1999,1999,Reading,Burnley,0,0,1.50,3.60,7.00
-23.11.1999,1999,Blackpool,Millwall,1,2,1.85,3.20,4.59
-23.11.1999,1999,Bournemouth,Brentford,4,1,1.65,3.40,6.10
-23.11.1999,1999,Bristol City,Oldham,1,1,1.85,3.20,4.59
-23.11.1999,1999,Bury,Wigan,2,2,1.70,3.30,5.00
-23.11.1999,1999,Colchester,Cardiff,0,3,2.50,2.95,2.85
-23.11.1999,1999,Luton,Preston,0,2,2.90,3.20,2.20
-23.11.1999,1999,Notts Co,Oxford Utd,0,1,2.85,2.95,2.50
-23.11.1999,1999,Scunthorpe,Gillingham,1,4,2.00,3.10,3.95
-23.11.1999,1999,Wrexham,Cambridge Utd,1,1,1.70,3.30,5.09
-23.11.1999,1999,Wycombe,Stoke,0,4,1.66,3.30,5.60
-21.11.1999,1999,Colchester,Brentford,0,3,2.10,3.00,3.60
-20.11.1999,1999,Chesterfield,Bristol Rovers,0,1,1.60,3.40,6.10
-16.11.1999,1999,Wigan,Bournemouth,3,1,2.60,3.00,2.85
-16.11.1999,1999,Millwall,Reading,5,0,1.80,3.20,4.25
-14.11.1999,1999,Burnley,Blackpool,1,0,3.65,3.10,2.00
-14.11.1999,1999,Oldham,Colchester,1,2,1.70,3.30,4.50
-14.11.1999,1999,Stoke,Bristol City,1,1,1.70,3.30,4.50
-13.11.1999,1999,Oxford Utd,Bury,1,1,2.50,3.00,2.75
-12.11.1999,1999,Brentford,Scunthorpe,4,3,2.40,3.00,3.10
-12.11.1999,1999,Cambridge Utd,Luton,3,1,3.65,3.10,2.00
-12.11.1999,1999,Cardiff,Chesterfield,2,1,2.29,3.00,3.10
-12.11.1999,1999,Gillingham,Bournemouth,4,1,2.00,3.10,3.65
-12.11.1999,1999,Millwall,Wrexham,0,0,1.80,3.65,6.05
-12.11.1999,1999,Preston,Notts Co,2,0,2.50,3.00,2.50
-12.11.1999,1999,Wigan,Wycombe,2,1,2.50,3.00,2.50
-09.11.1999,1999,Oldham,Millwall,2,1,1.70,3.30,4.59
-07.11.1999,1999,Reading,Oxford Utd,1,2,2.20,3.00,3.30
-06.11.1999,1999,Blackpool,Wigan,2,2,1.65,3.30,5.00
-06.11.1999,1999,Bournemouth,Cardiff,1,0,1.65,3.30,5.00
-06.11.1999,1999,Bristol City,Cambridge Utd,1,1,1.60,3.40,5.00
-06.11.1999,1999,Bury,Stoke,0,0,2.50,3.00,2.50
-06.11.1999,1999,Chesterfield,Oldham,0,1,2.10,3.10,3.30
-06.11.1999,1999,Colchester,Preston,2,2,1.70,3.30,4.59
+03.01.2000,1999,Oldham,Bournemouth,1,0,2.29,3.00,3.10
+03.01.2000,1999,Oxford Utd,Wigan,1,2,3.60,3.10,2.10
+03.01.2000,1999,Wrexham,Bristol City,0,1,2.29,3.00,3.10
+03.01.2000,1999,Wycombe,Chesterfield,3,0,1.70,3.30,5.00
+28.12.1999,1999,Bournemouth,Wrexham,1,0,1.75,3.30,5.00
+28.12.1999,1999,Bristol City,Luton,0,0,2.00,3.10,4.00
+28.12.1999,1999,Burnley,Oxford Utd,3,2,1.55,3.50,5.60
+28.12.1999,1999,Cambridge Utd,Cardiff,0,0,2.25,3.00,3.50
+28.12.1999,1999,Millwall,Brentford,3,2,1.75,3.30,5.00
+28.12.1999,1999,Preston,Bristol Rovers,2,1,2.10,3.10,3.60
+28.12.1999,1999,Reading,Notts Co,0,0,3.00,3.00,2.50
+28.12.1999,1999,Scunthorpe,Blackpool,1,0,2.10,3.10,3.60
+28.12.1999,1999,Stoke,Oldham,0,0,1.90,3.15,4.09
+28.12.1999,1999,Wigan,Gillingham,2,0,1.80,3.20,5.00
+26.12.1999,1999,Blackpool,Stoke,1,2,2.75,3.00,2.50
+26.12.1999,1999,Brentford,Bristol City,2,1,2.00,3.10,4.00
+26.12.1999,1999,Bristol Rovers,Millwall,1,0,2.10,3.10,3.50
+26.12.1999,1999,Bury,Burnley,4,2,2.60,3.00,2.60
+26.12.1999,1999,Cardiff,Reading,1,0,2.00,3.10,4.00
+26.12.1999,1999,Gillingham,Colchester,2,1,1.50,3.60,6.50
+26.12.1999,1999,Luton,Chesterfield,1,1,1.70,3.40,4.80
+26.12.1999,1999,Notts Co,Wigan,0,2,2.75,3.00,2.40
+26.12.1999,1999,Oldham,Scunthorpe,1,1,1.95,3.15,4.09
+26.12.1999,1999,Oxford Utd,Cambridge Utd,1,0,1.85,3.20,4.50
+26.12.1999,1999,Wrexham,Preston,0,0,3.50,3.00,2.10
+26.12.1999,1999,Wycombe,Bournemouth,2,1,2.25,3.00,3.30
+18.12.1999,1999,Bournemouth,Oxford Utd,4,0,1.80,3.10,4.40
+18.12.1999,1999,Burnley,Cardiff,2,1,1.47,4.00,7.00
+18.12.1999,1999,Cambridge Utd,Oldham,2,3,2.20,3.00,3.45
+18.12.1999,1999,Millwall,Notts Co,1,0,1.90,3.10,4.00
+18.12.1999,1999,Preston,Blackpool,3,0,1.40,4.09,7.20
+18.12.1999,1999,Reading,Wrexham,2,2,2.15,2.90,3.50
+18.12.1999,1999,Scunthorpe,Bury,0,2,2.40,3.00,2.80
+18.12.1999,1999,Stoke,Bristol Rovers,1,2,2.60,3.00,2.60
+18.12.1999,1999,Wigan,Brentford,1,0,1.65,3.30,5.50
+17.12.1999,1999,Bristol City,Wycombe,0,0,1.80,3.10,4.40
+17.12.1999,1999,Colchester,Luton,3,0,2.50,2.95,2.70
+11.12.1999,1999,Bristol Rovers,Colchester,2,1,1.55,3.60,5.50
+11.12.1999,1999,Notts Co,Bournemouth,5,1,1.90,3.20,3.90
+11.12.1999,1999,Wycombe,Millwall,1,2,2.60,2.90,2.60
+10.12.1999,1999,Brentford,Chesterfield,1,1,1.55,3.60,5.50
+07.12.1999,1999,Chesterfield,Bristol City,0,2,2.60,3.00,2.50
+04.12.1999,1999,Brentford,Bristol Rovers,0,3,2.20,2.95,3.60
+04.12.1999,1999,Bristol City,Reading,3,1,1.95,3.00,4.09
+04.12.1999,1999,Burnley,Wycombe,1,0,1.65,3.20,5.50
+04.12.1999,1999,Cambridge Utd,Bournemouth,0,2,2.29,2.90,3.20
+04.12.1999,1999,Gillingham,Bury,1,0,1.65,3.20,5.50
+04.12.1999,1999,Luton,Notts Co,2,2,2.35,2.90,3.10
+04.12.1999,1999,Millwall,Cardiff,2,0,1.70,3.10,5.00
+04.12.1999,1999,Oxford Utd,Stoke,1,1,2.60,3.00,2.50
+04.12.1999,1999,Preston,Oldham,2,0,1.50,3.60,7.00
+04.12.1999,1999,Scunthorpe,Wigan,1,2,3.60,3.10,2.00
+04.12.1999,1999,Wrexham,Blackpool,1,1,2.10,2.95,3.60
+03.12.1999,1999,Colchester,Chesterfield,1,0,2.00,2.95,4.00
+27.11.1999,1999,Blackpool,Cambridge Utd,2,1,NA,NA,NA
+27.11.1999,1999,Bournemouth,Millwall,1,2,NA,NA,NA
+27.11.1999,1999,Bristol Rovers,Luton,3,0,NA,NA,NA
+27.11.1999,1999,Bury,Preston,1,3,NA,NA,NA
+27.11.1999,1999,Cardiff,Gillingham,1,2,NA,NA,NA
+27.11.1999,1999,Chesterfield,Oxford Utd,0,0,NA,NA,NA
+27.11.1999,1999,Notts Co,Bristol City,4,4,NA,NA,NA
+27.11.1999,1999,Oldham,Wrexham,0,0,NA,NA,NA
+27.11.1999,1999,Reading,Scunthorpe,1,1,NA,NA,NA
+27.11.1999,1999,Stoke,Colchester,1,1,NA,NA,NA
+27.11.1999,1999,Wigan,Burnley,1,1,NA,NA,NA
+27.11.1999,1999,Wycombe,Brentford,2,0,NA,NA,NA
+24.11.1999,1999,Reading,Burnley,0,0,2.90,3.00,2.40
+23.11.1999,1999,Blackpool,Millwall,1,2,2.65,2.95,2.54
+23.11.1999,1999,Bournemouth,Brentford,4,1,2.54,2.95,2.54
+23.11.1999,1999,Bristol City,Oldham,1,1,2.00,3.10,3.75
+23.11.1999,1999,Bury,Wigan,2,2,2.85,2.95,2.54
+23.11.1999,1999,Colchester,Cardiff,0,3,2.25,3.00,3.30
+23.11.1999,1999,Luton,Preston,0,2,2.54,2.95,2.54
+23.11.1999,1999,Notts Co,Oxford Utd,0,1,1.65,3.40,5.50
+23.11.1999,1999,Scunthorpe,Gillingham,1,4,2.85,2.95,2.54
+23.11.1999,1999,Wrexham,Cambridge Utd,1,1,1.90,3.15,4.09
+23.11.1999,1999,Wycombe,Stoke,0,4,2.40,3.00,2.90
+21.11.1999,1999,Colchester,Brentford,0,3,3.30,3.00,2.25
+20.11.1999,1999,Chesterfield,Bristol Rovers,0,1,3.30,3.00,2.25
+16.11.1999,1999,Wigan,Bournemouth,3,1,1.50,3.60,7.00
+16.11.1999,1999,Millwall,Reading,5,0,1.85,3.20,4.59
+14.11.1999,1999,Burnley,Blackpool,1,0,1.65,3.40,6.10
+14.11.1999,1999,Oldham,Colchester,1,2,1.85,3.20,4.59
+14.11.1999,1999,Stoke,Bristol City,1,1,1.70,3.30,5.00
+13.11.1999,1999,Oxford Utd,Bury,1,1,2.50,2.95,2.85
+12.11.1999,1999,Brentford,Scunthorpe,4,3,2.90,3.20,2.20
+12.11.1999,1999,Cambridge Utd,Luton,3,1,2.85,2.95,2.50
+12.11.1999,1999,Cardiff,Chesterfield,2,1,2.00,3.10,3.95
+12.11.1999,1999,Gillingham,Bournemouth,4,1,1.70,3.30,5.09
+12.11.1999,1999,Millwall,Wrexham,0,0,1.66,3.30,5.60
+12.11.1999,1999,Preston,Notts Co,2,0,2.10,3.00,3.60
+12.11.1999,1999,Wigan,Wycombe,2,1,1.60,3.40,6.10
+09.11.1999,1999,Oldham,Millwall,2,1,2.60,3.00,2.85
+07.11.1999,1999,Reading,Oxford Utd,1,2,1.80,3.20,4.25
+06.11.1999,1999,Blackpool,Wigan,2,2,3.65,3.10,2.00
+06.11.1999,1999,Bournemouth,Cardiff,1,0,1.70,3.30,4.50
+06.11.1999,1999,Bristol City,Cambridge Utd,1,1,1.70,3.30,4.50
+06.11.1999,1999,Bury,Stoke,0,0,2.50,3.00,2.75
+06.11.1999,1999,Chesterfield,Oldham,0,1,2.40,3.00,3.10
+06.11.1999,1999,Colchester,Preston,2,2,3.65,3.10,2.00
 06.11.1999,1999,Luton,Burnley,2,1,2.29,3.00,3.10
-06.11.1999,1999,Notts Co,Gillingham,1,1,2.29,3.00,3.10
-06.11.1999,1999,Scunthorpe,Millwall,1,4,2.00,3.10,3.65
-06.11.1999,1999,Wrexham,Brentford,0,1,1.40,4.00,6.00
-06.11.1999,1999,Wycombe,Bristol Rovers,1,1,2.00,3.10,3.65
-03.11.1999,1999,Preston,Bournemouth,3,0,1.85,3.20,4.25
-03.11.1999,1999,Stoke,Notts Co,0,1,1.90,3.15,4.09
-02.11.1999,1999,Brentford,Reading,1,1,2.35,3.00,3.20
-02.11.1999,1999,Bristol Rovers,Bury,0,0,2.75,3.00,2.50
-02.11.1999,1999,Burnley,Wrexham,5,0,1.65,3.40,5.60
-02.11.1999,1999,Cambridge Utd,Scunthorpe,1,3,2.00,3.10,4.00
-02.11.1999,1999,Cardiff,Blackpool,1,1,2.50,3.00,2.85
-02.11.1999,1999,Gillingham,Bristol City,3,0,2.00,3.00,4.09
-02.11.1999,1999,Millwall,Luton,1,0,1.60,3.40,5.60
-02.11.1999,1999,Oldham,Wycombe,2,2,1.45,4.00,6.60
-02.11.1999,1999,Oxford Utd,Colchester,1,1,1.50,3.60,6.60
-02.11.1999,1999,Wigan,Chesterfield,3,0,2.50,2.90,2.50
-26.10.1999,1999,Colchester,Wigan,2,2,2.29,3.00,3.00
-26.10.1999,1999,Notts Co,Brentford,0,1,2.40,2.90,2.90
-23.10.1999,1999,Bristol Rovers,Notts Co,0,1,1.80,3.10,3.80
-23.10.1999,1999,Burnley,Bristol City,2,0,1.60,3.30,5.00
-23.10.1999,1999,Bury,Bournemouth,2,2,2.50,2.90,2.50
-23.10.1999,1999,Chesterfield,Scunthorpe,1,1,2.50,2.90,2.50
-23.10.1999,1999,Colchester,Millwall,1,2,2.00,3.00,3.50
-23.10.1999,1999,Gillingham,Cambridge Utd,2,1,2.40,2.90,2.90
-23.10.1999,1999,Oldham,Reading,1,2,1.60,3.30,5.00
-23.10.1999,1999,Oxford Utd,Luton,0,1,2.00,3.00,3.50
-23.10.1999,1999,Preston,Brentford,2,1,3.30,3.00,2.25
-23.10.1999,1999,Stoke,Wrexham,2,0,2.65,3.10,2.50
-23.10.1999,1999,Wigan,Cardiff,2,0,2.60,3.10,2.60
-23.10.1999,1999,Wycombe,Blackpool,0,2,2.40,3.10,2.85
-20.10.1999,1999,Reading,Bury,2,0,1.65,3.40,5.50
-19.10.1999,1999,Blackpool,Oldham,1,2,1.90,3.10,4.00
-19.10.1999,1999,Bournemouth,Bristol Rovers,0,1,2.20,3.10,3.50
-19.10.1999,1999,Brentford,Gillingham,1,2,2.29,3.10,3.10
-19.10.1999,1999,Bristol City,Colchester,1,1,2.00,3.10,4.00
-19.10.1999,1999,Cambridge Utd,Burnley,0,1,3.10,3.10,2.29
-19.10.1999,1999,Cardiff,Stoke,1,2,2.50,3.10,2.50
-19.10.1999,1999,Luton,Wycombe,1,1,1.90,3.10,4.00
-19.10.1999,1999,Millwall,Preston,0,2,1.90,3.10,4.00
-19.10.1999,1999,Notts Co,Chesterfield,1,0,1.50,3.50,6.00
-19.10.1999,1999,Scunthorpe,Oxford Utd,1,0,1.55,3.50,6.00
-19.10.1999,1999,Wrexham,Wigan,1,1,2.00,3.10,3.70
-17.10.1999,1999,Bristol City,Bristol Rovers,0,0,1.85,3.20,4.09
-16.10.1999,1999,Blackpool,Bury,0,5,1.90,3.15,4.00
-16.10.1999,1999,Bournemouth,Stoke,1,1,2.75,3.00,2.40
-16.10.1999,1999,Brentford,Oxford Utd,2,0,2.10,3.00,3.50
-16.10.1999,1999,Cardiff,Oldham,1,1,1.90,3.15,4.00
-16.10.1999,1999,Luton,Gillingham,3,1,1.60,3.40,5.50
-16.10.1999,1999,Millwall,Burnley,1,1,1.65,3.40,5.00
-16.10.1999,1999,Notts Co,Wycombe,2,1,1.45,4.20,7.50
-16.10.1999,1999,Reading,Wigan,0,2,1.90,3.00,4.09
-16.10.1999,1999,Scunthorpe,Preston,1,1,1.80,3.10,4.50
-16.10.1999,1999,Wrexham,Chesterfield,1,1,2.40,2.90,3.30
-15.10.1999,1999,Cambridge Utd,Colchester,5,2,2.20,2.90,3.50
-10.10.1999,1999,Burnley,Scunthorpe,1,2,3.30,2.90,2.29
-09.10.1999,1999,Bristol Rovers,Cardiff,1,1,2.60,2.90,2.60
-09.10.1999,1999,Bury,Notts Co,1,3,1.60,3.50,5.50
-09.10.1999,1999,Chesterfield,Blackpool,0,0,1.60,3.50,5.50
-09.10.1999,1999,Gillingham,Wrexham,5,1,1.75,3.10,4.50
-09.10.1999,1999,Oldham,Luton,2,1,1.80,3.10,4.50
-09.10.1999,1999,Oxford Utd,Millwall,1,3,2.60,2.90,2.60
-09.10.1999,1999,Preston,Bristol City,1,0,1.70,3.20,4.59
-09.10.1999,1999,Stoke,Reading,2,1,2.50,2.90,2.80
-09.10.1999,1999,Wycombe,Cambridge Utd,1,0,1.90,3.10,4.09
-02.10.1999,1999,Bristol Rovers,Blackpool,3,1,2.20,2.90,3.50
-02.10.1999,1999,Burnley,Brentford,2,2,2.25,2.90,3.40
-02.10.1999,1999,Bury,Cardiff,3,2,2.40,2.90,3.10
-02.10.1999,1999,Chesterfield,Bournemouth,0,1,2.90,2.85,2.45
-02.10.1999,1999,Gillingham,Millwall,2,0,1.80,3.10,4.50
-02.10.1999,1999,Oldham,Notts Co,1,2,1.75,3.20,4.80
-02.10.1999,1999,Oxford Utd,Bristol City,3,0,2.20,2.90,3.50
-02.10.1999,1999,Preston,Cambridge Utd,2,1,1.70,3.20,5.00
-02.10.1999,1999,Stoke,Scunthorpe,1,0,2.40,2.90,3.10
-02.10.1999,1999,Wigan,Luton,1,0,2.29,2.90,3.30
-02.10.1999,1999,Wycombe,Reading,5,3,2.60,2.90,2.60
-01.10.1999,1999,Colchester,Wrexham,2,2,2.04,2.90,3.60
-28.09.1999,1999,Brentford,Cardiff,2,1,1.60,3.50,5.50
-25.09.1999,1999,Blackpool,Wycombe,1,2,1.60,3.50,5.50
-25.09.1999,1999,Bournemouth,Bury,1,1,2.10,2.90,3.50
-25.09.1999,1999,Brentford,Preston,2,2,2.80,2.90,2.50
-25.09.1999,1999,Bristol City,Burnley,0,0,2.29,2.90,3.30
-25.09.1999,1999,Cambridge Utd,Gillingham,2,2,2.00,2.90,3.60
-25.09.1999,1999,Cardiff,Wigan,0,0,2.20,2.90,3.40
-25.09.1999,1999,Luton,Oxford Utd,4,2,2.80,2.90,2.50
-25.09.1999,1999,Millwall,Colchester,1,0,2.60,2.90,2.60
-25.09.1999,1999,Notts Co,Bristol Rovers,0,2,2.10,2.90,3.50
+06.11.1999,1999,Notts Co,Gillingham,1,1,2.00,3.10,3.65
+06.11.1999,1999,Scunthorpe,Millwall,1,4,1.80,3.65,6.05
+06.11.1999,1999,Wrexham,Brentford,0,1,2.50,3.00,2.50
+06.11.1999,1999,Wycombe,Bristol Rovers,1,1,2.50,3.00,2.50
+03.11.1999,1999,Preston,Bournemouth,3,0,1.70,3.30,4.59
+03.11.1999,1999,Stoke,Notts Co,0,1,2.20,3.00,3.30
+02.11.1999,1999,Brentford,Reading,1,1,1.65,3.30,5.00
+02.11.1999,1999,Bristol Rovers,Bury,0,0,1.65,3.30,5.00
+02.11.1999,1999,Burnley,Wrexham,5,0,1.60,3.40,5.00
+02.11.1999,1999,Cambridge Utd,Scunthorpe,1,3,2.50,3.00,2.50
+02.11.1999,1999,Cardiff,Blackpool,1,1,2.10,3.10,3.30
+02.11.1999,1999,Gillingham,Bristol City,3,0,1.70,3.30,4.59
+02.11.1999,1999,Millwall,Luton,1,0,2.29,3.00,3.10
+02.11.1999,1999,Oldham,Wycombe,2,2,2.29,3.00,3.10
+02.11.1999,1999,Oxford Utd,Colchester,1,1,2.00,3.10,3.65
+02.11.1999,1999,Wigan,Chesterfield,3,0,1.40,4.00,6.00
+26.10.1999,1999,Colchester,Wigan,2,2,NA,NA,NA
+26.10.1999,1999,Notts Co,Brentford,0,1,NA,NA,NA
+23.10.1999,1999,Bristol Rovers,Notts Co,0,1,2.00,3.10,3.65
+23.10.1999,1999,Burnley,Bristol City,2,0,1.85,3.20,4.25
+23.10.1999,1999,Bury,Bournemouth,2,2,1.90,3.15,4.09
+23.10.1999,1999,Chesterfield,Scunthorpe,1,1,2.35,3.00,3.20
+23.10.1999,1999,Colchester,Millwall,1,2,2.75,3.00,2.50
+23.10.1999,1999,Gillingham,Cambridge Utd,2,1,1.65,3.40,5.60
+23.10.1999,1999,Oldham,Reading,1,2,2.00,3.10,4.00
+23.10.1999,1999,Oxford Utd,Luton,0,1,2.50,3.00,2.85
+23.10.1999,1999,Preston,Brentford,2,1,2.00,3.00,4.09
+23.10.1999,1999,Stoke,Wrexham,2,0,1.60,3.40,5.60
+23.10.1999,1999,Wigan,Cardiff,2,0,1.45,4.00,6.60
+23.10.1999,1999,Wycombe,Blackpool,0,2,1.50,3.60,6.60
+20.10.1999,1999,Reading,Bury,2,0,2.50,2.90,2.50
+19.10.1999,1999,Blackpool,Oldham,1,2,2.29,3.00,3.00
+19.10.1999,1999,Bournemouth,Bristol Rovers,0,1,2.40,2.90,2.90
+19.10.1999,1999,Brentford,Gillingham,1,2,1.80,3.10,3.80
+19.10.1999,1999,Bristol City,Colchester,1,1,1.60,3.30,5.00
+19.10.1999,1999,Cambridge Utd,Burnley,0,1,2.50,2.90,2.50
+19.10.1999,1999,Cardiff,Stoke,1,2,2.50,2.90,2.50
+19.10.1999,1999,Luton,Wycombe,1,1,2.00,3.00,3.50
+19.10.1999,1999,Millwall,Preston,0,2,2.40,2.90,2.90
+19.10.1999,1999,Notts Co,Chesterfield,1,0,1.60,3.30,5.00
+19.10.1999,1999,Scunthorpe,Oxford Utd,1,0,2.00,3.00,3.50
+19.10.1999,1999,Wrexham,Wigan,1,1,3.30,3.00,2.25
+17.10.1999,1999,Bristol City,Bristol Rovers,0,0,2.65,3.10,2.50
+16.10.1999,1999,Blackpool,Bury,0,5,2.60,3.10,2.60
+16.10.1999,1999,Bournemouth,Stoke,1,1,2.40,3.10,2.85
+16.10.1999,1999,Brentford,Oxford Utd,2,0,1.65,3.40,5.50
+16.10.1999,1999,Cardiff,Oldham,1,1,1.90,3.10,4.00
+16.10.1999,1999,Luton,Gillingham,3,1,2.20,3.10,3.50
+16.10.1999,1999,Millwall,Burnley,1,1,2.29,3.10,3.10
+16.10.1999,1999,Notts Co,Wycombe,2,1,2.00,3.10,4.00
+16.10.1999,1999,Reading,Wigan,0,2,3.10,3.10,2.29
+16.10.1999,1999,Scunthorpe,Preston,1,1,2.50,3.10,2.50
+16.10.1999,1999,Wrexham,Chesterfield,1,1,1.90,3.10,4.00
+15.10.1999,1999,Cambridge Utd,Colchester,5,2,1.90,3.10,4.00
+10.10.1999,1999,Burnley,Scunthorpe,1,2,1.50,3.50,6.00
+09.10.1999,1999,Bristol Rovers,Cardiff,1,1,1.55,3.50,6.00
+09.10.1999,1999,Bury,Notts Co,1,3,2.00,3.10,3.70
+09.10.1999,1999,Chesterfield,Blackpool,0,0,1.85,3.20,4.09
+09.10.1999,1999,Gillingham,Wrexham,5,1,1.90,3.15,4.00
+09.10.1999,1999,Oldham,Luton,2,1,2.75,3.00,2.40
+09.10.1999,1999,Oxford Utd,Millwall,1,3,2.10,3.00,3.50
+09.10.1999,1999,Preston,Bristol City,1,0,1.90,3.15,4.00
+09.10.1999,1999,Stoke,Reading,2,1,1.60,3.40,5.50
+09.10.1999,1999,Wycombe,Cambridge Utd,1,0,1.65,3.40,5.00
+02.10.1999,1999,Bristol Rovers,Blackpool,3,1,1.45,4.20,7.50
+02.10.1999,1999,Burnley,Brentford,2,2,1.90,3.00,4.09
+02.10.1999,1999,Bury,Cardiff,3,2,1.80,3.10,4.50
+02.10.1999,1999,Chesterfield,Bournemouth,0,1,2.40,2.90,3.30
+02.10.1999,1999,Gillingham,Millwall,2,0,2.20,2.90,3.50
+02.10.1999,1999,Oldham,Notts Co,1,2,3.30,2.90,2.29
+02.10.1999,1999,Oxford Utd,Bristol City,3,0,2.60,2.90,2.60
+02.10.1999,1999,Preston,Cambridge Utd,2,1,1.60,3.50,5.50
+02.10.1999,1999,Stoke,Scunthorpe,1,0,1.60,3.50,5.50
+02.10.1999,1999,Wigan,Luton,1,0,1.75,3.10,4.50
+02.10.1999,1999,Wycombe,Reading,5,3,1.80,3.10,4.50
+01.10.1999,1999,Colchester,Wrexham,2,2,2.60,2.90,2.60
+28.09.1999,1999,Brentford,Cardiff,2,1,1.70,3.20,4.59
+25.09.1999,1999,Blackpool,Wycombe,1,2,2.50,2.90,2.80
+25.09.1999,1999,Bournemouth,Bury,1,1,1.90,3.10,4.09
+25.09.1999,1999,Brentford,Preston,2,2,2.20,2.90,3.50
+25.09.1999,1999,Bristol City,Burnley,0,0,2.25,2.90,3.40
+25.09.1999,1999,Cambridge Utd,Gillingham,2,2,2.40,2.90,3.10
+25.09.1999,1999,Cardiff,Wigan,0,0,2.90,2.85,2.45
+25.09.1999,1999,Luton,Oxford Utd,4,2,1.80,3.10,4.50
+25.09.1999,1999,Millwall,Colchester,1,0,1.75,3.20,4.80
+25.09.1999,1999,Notts Co,Bristol Rovers,0,2,2.20,2.90,3.50
 25.09.1999,1999,Reading,Oldham,1,1,1.70,3.20,5.00
-25.09.1999,1999,Scunthorpe,Chesterfield,0,0,2.20,3.00,3.20
-25.09.1999,1999,Wrexham,Stoke,2,3,1.65,3.10,5.50
-18.09.1999,1999,Blackpool,Bournemouth,0,0,2.20,2.95,3.30
-18.09.1999,1999,Brentford,Luton,2,0,2.10,2.95,3.45
-18.09.1999,1999,Bristol Rovers,Oldham,3,2,1.65,3.10,5.50
-18.09.1999,1999,Burnley,Colchester,3,0,2.65,2.95,2.50
-18.09.1999,1999,Bury,Wycombe,2,0,1.90,3.00,4.09
-18.09.1999,1999,Cardiff,Notts Co,2,1,2.25,2.90,3.30
-18.09.1999,1999,Gillingham,Preston,0,2,2.50,2.90,2.50
-18.09.1999,1999,Millwall,Cambridge Utd,2,1,1.90,3.10,4.00
-18.09.1999,1999,Reading,Chesterfield,1,0,1.90,3.10,3.70
-18.09.1999,1999,Scunthorpe,Bristol City,1,2,2.20,2.90,3.50
-18.09.1999,1999,Stoke,Wigan,1,1,2.25,2.90,3.30
-18.09.1999,1999,Wrexham,Oxford Utd,1,0,1.80,3.10,4.50
-11.09.1999,1999,Bournemouth,Reading,3,1,1.70,3.20,5.00
-11.09.1999,1999,Bristol City,Millwall,0,0,2.10,2.90,3.60
-11.09.1999,1999,Cambridge Utd,Brentford,2,2,1.55,3.50,6.00
-11.09.1999,1999,Chesterfield,Stoke,0,2,1.90,3.15,4.30
-11.09.1999,1999,Colchester,Scunthorpe,0,1,1.85,3.20,4.59
-11.09.1999,1999,Luton,Wrexham,3,1,1.85,3.20,4.59
-11.09.1999,1999,Notts Co,Blackpool,2,1,2.40,3.00,3.00
-11.09.1999,1999,Oldham,Bury,2,0,2.75,2.90,2.75
-11.09.1999,1999,Oxford Utd,Gillingham,1,2,1.95,3.15,4.00
-11.09.1999,1999,Preston,Burnley,0,0,2.04,3.10,3.70
-11.09.1999,1999,Wigan,Bristol Rovers,3,1,1.85,3.20,4.59
-11.09.1999,1999,Wycombe,Cardiff,3,1,1.65,3.40,5.60
-04.09.1999,1999,Bristol City,Blackpool,5,2,2.40,3.00,3.00
-04.09.1999,1999,Cambridge Utd,Stoke,1,3,3.30,3.10,2.20
-04.09.1999,1999,Gillingham,Oldham,2,1,2.54,2.95,2.85
-04.09.1999,1999,Luton,Bury,1,1,2.29,3.00,3.00
-04.09.1999,1999,Oxford Utd,Wycombe,0,0,2.29,3.00,3.00
-04.09.1999,1999,Preston,Chesterfield,0,2,1.60,3.40,5.00
-04.09.1999,1999,Scunthorpe,Bristol Rovers,0,2,2.20,3.00,3.20
-03.09.1999,1999,Burnley,Bournemouth,2,1,2.10,3.00,3.30
-03.09.1999,1999,Wrexham,Notts Co,2,3,2.10,3.00,3.30
-01.09.1999,1999,Reading,Preston,2,2,1.70,3.30,4.50
-31.08.1999,1999,Bournemouth,Luton,1,0,2.50,3.00,2.50
-31.08.1999,1999,Wycombe,Wrexham,0,1,1.85,3.20,4.00
-30.08.1999,1999,Blackpool,Oxford Utd,1,1,1.90,3.10,3.70
-30.08.1999,1999,Bristol Rovers,Burnley,1,0,2.95,3.00,2.35
-30.08.1999,1999,Bury,Colchester,5,2,1.90,3.10,3.70
-30.08.1999,1999,Cardiff,Scunthorpe,1,1,1.65,3.40,5.00
-30.08.1999,1999,Stoke,Gillingham,1,1,1.90,3.10,3.60
-30.08.1999,1999,Wigan,Cambridge Utd,1,1,1.75,3.30,4.09
-28.08.1999,1999,Brentford,Blackpool,2,0,2.60,2.95,2.60
-28.08.1999,1999,Bristol City,Bury,1,1,2.00,3.10,3.50
-28.08.1999,1999,Burnley,Stoke,1,0,1.75,3.30,4.09
-28.08.1999,1999,Cambridge Utd,Notts Co,1,1,2.10,3.00,3.30
-28.08.1999,1999,Colchester,Reading,3,2,2.60,2.95,2.60
-28.08.1999,1999,Gillingham,Wycombe,2,2,1.85,3.20,3.90
-28.08.1999,1999,Luton,Cardiff,1,0,1.80,3.20,3.90
-28.08.1999,1999,Millwall,Chesterfield,1,1,2.25,3.00,3.35
-28.08.1999,1999,Oxford Utd,Oldham,1,0,2.45,3.00,2.90
-28.08.1999,1999,Preston,Wigan,1,4,2.25,3.00,3.30
-28.08.1999,1999,Scunthorpe,Bournemouth,3,1,1.90,3.10,4.00
-28.08.1999,1999,Wrexham,Bristol Rovers,2,1,2.29,3.00,3.10
-22.08.1999,1999,Stoke,Millwall,3,1,2.29,3.00,3.10
-21.08.1999,1999,Blackpool,Gillingham,1,1,2.29,3.00,3.10
-21.08.1999,1999,Bournemouth,Colchester,4,0,1.80,3.20,4.59
-21.08.1999,1999,Bristol Rovers,Oxford Utd,1,0,2.29,3.00,3.10
-21.08.1999,1999,Bury,Brentford,2,2,3.00,3.00,2.29
-21.08.1999,1999,Chesterfield,Cambridge Utd,4,2,2.29,3.00,3.00
-21.08.1999,1999,Notts Co,Scunthorpe,3,0,2.10,3.00,3.60
-21.08.1999,1999,Oldham,Burnley,0,1,1.60,3.40,5.25
-21.08.1999,1999,Reading,Luton,1,2,2.50,3.00,2.50
-21.08.1999,1999,Wigan,Bristol City,2,1,1.96,3.10,3.90
-21.08.1999,1999,Wycombe,Preston,1,1,3.20,3.20,2.04
-20.08.1999,1999,Cardiff,Wrexham,1,1,2.10,2.95,3.40
-14.08.1999,1999,Brentford,Oldham,2,0,2.80,2.90,2.50
-14.08.1999,1999,Bristol City,Bournemouth,3,1,2.20,3.00,3.20
-14.08.1999,1999,Burnley,Chesterfield,2,1,3.70,3.30,1.86
-14.08.1999,1999,Cambridge Utd,Reading,3,1,2.04,3.10,3.60
-14.08.1999,1999,Colchester,Notts Co,0,3,1.32,4.30,8.19
-14.08.1999,1999,Gillingham,Bristol Rovers,0,1,1.96,3.30,4.00
-14.08.1999,1999,Luton,Blackpool,3,2,3.60,3.30,1.96
-14.08.1999,1999,Millwall,Wigan,3,3,5.60,4.30,1.43
-14.08.1999,1999,Oxford Utd,Cardiff,2,3,5.60,4.20,1.48
-14.08.1999,1999,Preston,Stoke,2,1,1.35,4.00,8.00
-14.08.1999,1999,Scunthorpe,Wycombe,0,1,1.32,4.09,8.00
-14.08.1999,1999,Wrexham,Bury,1,0,1.45,4.30,6.00
-07.08.1999,1999,Blackpool,Wrexham,2,1,1.40,4.00,7.00
-07.08.1999,1999,Bournemouth,Cambridge Utd,2,1,1.35,4.20,8.00
-07.08.1999,1999,Bristol Rovers,Brentford,0,0,2.29,2.95,3.20
-07.08.1999,1999,Bury,Gillingham,2,1,3.00,2.90,2.40
-07.08.1999,1999,Cardiff,Millwall,1,1,2.50,2.95,2.60
-07.08.1999,1999,Chesterfield,Colchester,0,1,1.30,4.40,8.00
-07.08.1999,1999,Notts Co,Luton,0,0,2.10,2.90,3.70
-07.08.1999,1999,Oldham,Preston,0,1,2.00,3.00,4.00
-07.08.1999,1999,Reading,Bristol City,2,1,2.10,2.90,3.70
-07.08.1999,1999,Stoke,Oxford Utd,1,2,1.40,4.00,7.00
-07.08.1999,1999,Wigan,Scunthorpe,3,0,2.00,3.00,4.00
-07.08.1999,1999,Wycombe,Burnley,1,1,1.70,3.40,5.00
+25.09.1999,1999,Scunthorpe,Chesterfield,0,0,2.40,2.90,3.10
+25.09.1999,1999,Wrexham,Stoke,2,3,2.29,2.90,3.30
+18.09.1999,1999,Blackpool,Bournemouth,0,0,2.60,2.90,2.60
+18.09.1999,1999,Brentford,Luton,2,0,2.04,2.90,3.60
+18.09.1999,1999,Bristol Rovers,Oldham,3,2,1.60,3.50,5.50
+18.09.1999,1999,Burnley,Colchester,3,0,1.60,3.50,5.50
+18.09.1999,1999,Bury,Wycombe,2,0,2.10,2.90,3.50
+18.09.1999,1999,Cardiff,Notts Co,2,1,2.80,2.90,2.50
+18.09.1999,1999,Gillingham,Preston,0,2,2.29,2.90,3.30
+18.09.1999,1999,Millwall,Cambridge Utd,2,1,2.00,2.90,3.60
+18.09.1999,1999,Reading,Chesterfield,1,0,2.20,2.90,3.40
+18.09.1999,1999,Scunthorpe,Bristol City,1,2,2.80,2.90,2.50
+18.09.1999,1999,Stoke,Wigan,1,1,2.60,2.90,2.60
+18.09.1999,1999,Wrexham,Oxford Utd,1,0,2.10,2.90,3.50
+11.09.1999,1999,Bournemouth,Reading,3,1,NA,NA,NA
+11.09.1999,1999,Bristol City,Millwall,0,0,NA,NA,NA
+11.09.1999,1999,Cambridge Utd,Brentford,2,2,NA,NA,NA
+11.09.1999,1999,Chesterfield,Stoke,0,2,NA,NA,NA
+11.09.1999,1999,Colchester,Scunthorpe,0,1,NA,NA,NA
+11.09.1999,1999,Luton,Wrexham,3,1,NA,NA,NA
+11.09.1999,1999,Notts Co,Blackpool,2,1,NA,NA,NA
+11.09.1999,1999,Oldham,Bury,2,0,NA,NA,NA
+11.09.1999,1999,Oxford Utd,Gillingham,1,2,NA,NA,NA
+11.09.1999,1999,Preston,Burnley,0,0,NA,NA,NA
+11.09.1999,1999,Wigan,Bristol Rovers,3,1,NA,NA,NA
+11.09.1999,1999,Wycombe,Cardiff,3,1,NA,NA,NA
+04.09.1999,1999,Bristol City,Blackpool,5,2,1.70,3.20,5.00
+04.09.1999,1999,Cambridge Utd,Stoke,1,3,2.20,3.00,3.20
+04.09.1999,1999,Gillingham,Oldham,2,1,1.65,3.10,5.50
+04.09.1999,1999,Luton,Bury,1,1,2.20,2.95,3.30
+04.09.1999,1999,Oxford Utd,Wycombe,0,0,2.10,2.95,3.45
+04.09.1999,1999,Preston,Chesterfield,0,2,1.65,3.10,5.50
+04.09.1999,1999,Scunthorpe,Bristol Rovers,0,2,2.65,2.95,2.50
+03.09.1999,1999,Burnley,Bournemouth,2,1,1.90,3.00,4.09
+03.09.1999,1999,Wrexham,Notts Co,2,3,2.25,2.90,3.30
+01.09.1999,1999,Reading,Preston,2,2,2.50,2.90,2.50
+31.08.1999,1999,Bournemouth,Luton,1,0,1.90,3.10,4.00
+31.08.1999,1999,Wycombe,Wrexham,0,1,1.90,3.10,3.70
+30.08.1999,1999,Blackpool,Oxford Utd,1,1,2.20,2.90,3.50
+30.08.1999,1999,Bristol Rovers,Burnley,1,0,2.25,2.90,3.30
+30.08.1999,1999,Bury,Colchester,5,2,1.80,3.10,4.50
+30.08.1999,1999,Cardiff,Scunthorpe,1,1,1.70,3.20,5.00
+30.08.1999,1999,Stoke,Gillingham,1,1,2.10,2.90,3.60
+30.08.1999,1999,Wigan,Cambridge Utd,1,1,1.55,3.50,6.00
+28.08.1999,1999,Brentford,Blackpool,2,0,1.90,3.15,4.30
+28.08.1999,1999,Bristol City,Bury,1,1,1.85,3.20,4.59
+28.08.1999,1999,Burnley,Stoke,1,0,1.85,3.20,4.59
+28.08.1999,1999,Cambridge Utd,Notts Co,1,1,2.40,3.00,3.00
+28.08.1999,1999,Colchester,Reading,3,2,2.75,2.90,2.75
+28.08.1999,1999,Gillingham,Wycombe,2,2,1.95,3.15,4.00
+28.08.1999,1999,Luton,Cardiff,1,0,2.04,3.10,3.70
+28.08.1999,1999,Millwall,Chesterfield,1,1,1.85,3.20,4.59
+28.08.1999,1999,Oxford Utd,Oldham,1,0,1.65,3.40,5.60
+28.08.1999,1999,Preston,Wigan,1,4,2.40,3.00,3.00
+28.08.1999,1999,Scunthorpe,Bournemouth,3,1,3.30,3.10,2.20
+28.08.1999,1999,Wrexham,Bristol Rovers,2,1,2.54,2.95,2.85
+22.08.1999,1999,Stoke,Millwall,3,1,2.29,3.00,3.00
+21.08.1999,1999,Blackpool,Gillingham,1,1,2.29,3.00,3.00
+21.08.1999,1999,Bournemouth,Colchester,4,0,1.60,3.40,5.00
+21.08.1999,1999,Bristol Rovers,Oxford Utd,1,0,2.20,3.00,3.20
+21.08.1999,1999,Bury,Brentford,2,2,2.10,3.00,3.30
+21.08.1999,1999,Chesterfield,Cambridge Utd,4,2,2.10,3.00,3.30
+21.08.1999,1999,Notts Co,Scunthorpe,3,0,1.70,3.30,4.50
+21.08.1999,1999,Oldham,Burnley,0,1,2.50,3.00,2.50
+21.08.1999,1999,Reading,Luton,1,2,1.85,3.20,4.00
+21.08.1999,1999,Wigan,Bristol City,2,1,1.90,3.10,3.70
+21.08.1999,1999,Wycombe,Preston,1,1,2.95,3.00,2.35
+20.08.1999,1999,Cardiff,Wrexham,1,1,1.90,3.10,3.70
+14.08.1999,1999,Brentford,Oldham,2,0,1.65,3.40,5.00
+14.08.1999,1999,Bristol City,Bournemouth,3,1,1.90,3.10,3.60
+14.08.1999,1999,Burnley,Chesterfield,2,1,1.75,3.30,4.09
+14.08.1999,1999,Cambridge Utd,Reading,3,1,2.60,2.95,2.60
+14.08.1999,1999,Colchester,Notts Co,0,3,2.00,3.10,3.50
+14.08.1999,1999,Gillingham,Bristol Rovers,0,1,1.75,3.30,4.09
+14.08.1999,1999,Luton,Blackpool,3,2,2.10,3.00,3.30
+14.08.1999,1999,Millwall,Wigan,3,3,2.60,2.95,2.60
+14.08.1999,1999,Oxford Utd,Cardiff,2,3,1.85,3.20,3.90
+14.08.1999,1999,Preston,Stoke,2,1,1.80,3.20,3.90
+14.08.1999,1999,Scunthorpe,Wycombe,0,1,2.25,3.00,3.35
+14.08.1999,1999,Wrexham,Bury,1,0,2.45,3.00,2.90
+07.08.1999,1999,Blackpool,Wrexham,2,1,2.25,3.00,3.30
+07.08.1999,1999,Bournemouth,Cambridge Utd,2,1,1.90,3.10,4.00
+07.08.1999,1999,Bristol Rovers,Brentford,0,0,2.29,3.00,3.10
+07.08.1999,1999,Bury,Gillingham,2,1,2.29,3.00,3.10
+07.08.1999,1999,Cardiff,Millwall,1,1,2.29,3.00,3.10
+07.08.1999,1999,Chesterfield,Colchester,0,1,1.80,3.20,4.59
+07.08.1999,1999,Notts Co,Luton,0,0,2.29,3.00,3.10
+07.08.1999,1999,Oldham,Preston,0,1,3.00,3.00,2.29
+07.08.1999,1999,Reading,Bristol City,2,1,2.29,3.00,3.00
+07.08.1999,1999,Stoke,Oxford Utd,1,2,2.10,3.00,3.60
+07.08.1999,1999,Wigan,Scunthorpe,3,0,1.60,3.40,5.25
+07.08.1999,1999,Wycombe,Burnley,1,1,2.50,3.00,2.50

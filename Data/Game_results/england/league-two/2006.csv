@@ -1,553 +1,553 @@
-Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal
-05.05.2007,2006,Barnet,Wycombe,2,1
-05.05.2007,2006,Bury,Mansfield,1,1
-05.05.2007,2006,Darlington,Stockport County,0,5
-05.05.2007,2006,Hartlepool,Bristol Rovers,1,2
-05.05.2007,2006,Lincoln,Chester,2,0
-05.05.2007,2006,Macclesfield,Notts Co,1,1
-05.05.2007,2006,MK Dons,Accrington,3,1
-05.05.2007,2006,Peterborough,Rochdale,3,3
-05.05.2007,2006,Shrewsbury,Grimsby,2,2
-05.05.2007,2006,Swindon,Walsall,1,1
-05.05.2007,2006,Torquay,Hereford,0,0
-05.05.2007,2006,Wrexham,Boston Utd,3,1
-28.04.2007,2006,Accrington,Macclesfield,3,2
-28.04.2007,2006,Boston Utd,Torquay,1,1
-28.04.2007,2006,Bristol Rovers,Swindon,1,0
-28.04.2007,2006,Chester,Peterborough,1,1
-28.04.2007,2006,Grimsby,Lincoln,0,0
-28.04.2007,2006,Hereford,Shrewsbury,0,1
-28.04.2007,2006,Mansfield,Barnet,2,1
-28.04.2007,2006,Notts Co,Darlington,0,1
-28.04.2007,2006,Rochdale,Hartlepool,2,0
-28.04.2007,2006,Stockport County,Bury,0,0
-28.04.2007,2006,Walsall,Wrexham,1,0
-28.04.2007,2006,Wycombe,MK Dons,0,2
-24.04.2007,2006,Macclesfield,Bristol Rovers,0,1
-24.04.2007,2006,Shrewsbury,Wrexham,0,1
-21.04.2007,2006,Boston Utd,Chester,1,0
-21.04.2007,2006,Bristol Rovers,Lincoln,0,0
-21.04.2007,2006,Darlington,Wycombe,3,2
-21.04.2007,2006,Grimsby,Barnet,5,0
-21.04.2007,2006,Peterborough,Hereford,3,0
-21.04.2007,2006,Rochdale,Macclesfield,5,0
-21.04.2007,2006,Shrewsbury,Accrington,2,1
-21.04.2007,2006,Stockport County,MK Dons,1,2
-21.04.2007,2006,Swindon,Mansfield,2,0
-21.04.2007,2006,Walsall,Bury,0,1
-21.04.2007,2006,Wrexham,Torquay,1,0
-20.04.2007,2006,Hartlepool,Notts Co,1,1
-15.04.2007,2006,Chester,Shrewsbury,0,0
-14.04.2007,2006,Accrington,Grimsby,4,1
-14.04.2007,2006,Barnet,Bristol Rovers,1,1
-14.04.2007,2006,Bury,Swindon,0,1
-14.04.2007,2006,Hereford,Boston Utd,3,0
-14.04.2007,2006,Lincoln,Wrexham,0,3
-14.04.2007,2006,Macclesfield,Stockport County,2,0
-14.04.2007,2006,Mansfield,Rochdale,1,2
-14.04.2007,2006,MK Dons,Darlington,1,0
-14.04.2007,2006,Notts Co,Walsall,1,2
-14.04.2007,2006,Torquay,Peterborough,1,1
-14.04.2007,2006,Wycombe,Hartlepool,0,1
-09.04.2007,2006,Boston Utd,Macclesfield,4,1
-09.04.2007,2006,Bristol Rovers,Bury,2,0
-09.04.2007,2006,Darlington,Lincoln,1,1
-09.04.2007,2006,Grimsby,Wycombe,2,2
-09.04.2007,2006,Hartlepool,Accrington,1,0
-09.04.2007,2006,Peterborough,Mansfield,2,0
-09.04.2007,2006,Rochdale,Barnet,0,2
-09.04.2007,2006,Shrewsbury,MK Dons,2,1
-09.04.2007,2006,Stockport County,Chester,2,0
-09.04.2007,2006,Swindon,Torquay,2,1
-09.04.2007,2006,Walsall,Hereford,1,0
-09.04.2007,2006,Wrexham,Notts Co,0,1
-07.04.2007,2006,Accrington,Peterborough,3,2
-07.04.2007,2006,Barnet,Hartlepool,2,1
-07.04.2007,2006,Bury,Rochdale,0,1
-07.04.2007,2006,Hereford,Swindon,0,0
-07.04.2007,2006,Lincoln,Stockport County,0,0
-07.04.2007,2006,Macclesfield,Wrexham,2,0
-07.04.2007,2006,Mansfield,Bristol Rovers,0,1
-07.04.2007,2006,MK Dons,Grimsby,1,2
-07.04.2007,2006,Notts Co,Boston Utd,2,0
-07.04.2007,2006,Torquay,Walsall,1,2
-07.04.2007,2006,Wycombe,Shrewsbury,1,1
-06.04.2007,2006,Chester,Darlington,1,1
-03.04.2007,2006,Rochdale,Swindon,0,0
-03.04.2007,2006,Shrewsbury,Bury,1,3
-31.03.2007,2006,Barnet,Darlington,2,1
-31.03.2007,2006,Boston Utd,Bury,0,1
-31.03.2007,2006,Hereford,MK Dons,0,0
-31.03.2007,2006,Notts Co,Grimsby,2,0
-31.03.2007,2006,Peterborough,Wycombe,3,3
-31.03.2007,2006,Rochdale,Lincoln,2,0
-31.03.2007,2006,Swindon,Shrewsbury,2,1
-31.03.2007,2006,Torquay,Stockport County,1,0
-31.03.2007,2006,Walsall,Accrington,3,2
-31.03.2007,2006,Wrexham,Mansfield,0,0
-30.03.2007,2006,Hartlepool,Chester,3,0
-27.03.2007,2006,Wycombe,Bristol Rovers,0,1
-27.03.2007,2006,Shrewsbury,Rochdale,3,0
-25.03.2007,2006,Darlington,Hartlepool,0,3
-25.03.2007,2006,Lincoln,Swindon,2,3
-25.03.2007,2006,MK Dons,Walsall,1,1
-24.03.2007,2006,Accrington,Hereford,2,0
-24.03.2007,2006,Bristol Rovers,Wrexham,0,1
-24.03.2007,2006,Bury,Notts Co,0,1
-24.03.2007,2006,Chester,Barnet,2,0
-24.03.2007,2006,Grimsby,Peterborough,0,2
-24.03.2007,2006,Shrewsbury,Torquay,1,0
-24.03.2007,2006,Stockport County,Rochdale,2,7
-23.03.2007,2006,Mansfield,Macclesfield,1,2
-23.03.2007,2006,Wycombe,Boston Utd,0,0
-20.03.2007,2006,Bristol Rovers,Stockport County,2,1
-20.03.2007,2006,Barnet,Shrewsbury,0,0
-17.03.2007,2006,Accrington,Torquay,1,0
-17.03.2007,2006,Bristol Rovers,Notts Co,2,0
-17.03.2007,2006,Bury,Macclesfield,1,1
-17.03.2007,2006,Darlington,Hereford,1,0
-17.03.2007,2006,Grimsby,Swindon,1,0
-17.03.2007,2006,Lincoln,Barnet,1,0
-17.03.2007,2006,Mansfield,Boston Utd,1,2
-17.03.2007,2006,MK Dons,Wrexham,2,1
-17.03.2007,2006,Stockport County,Hartlepool,3,3
-17.03.2007,2006,Wycombe,Walsall,0,0
-16.03.2007,2006,Chester,Rochdale,0,1
-16.03.2007,2006,Shrewsbury,Peterborough,2,1
-13.03.2007,2006,MK Dons,Macclesfield,3,0
-10.03.2007,2006,Barnet,Stockport County,3,1
-10.03.2007,2006,Boston Utd,Bristol Rovers,2,1
-10.03.2007,2006,Hereford,Grimsby,0,1
-10.03.2007,2006,Macclesfield,Shrewsbury,2,2
-10.03.2007,2006,Notts Co,Mansfield,0,0
-10.03.2007,2006,Peterborough,MK Dons,4,0
-10.03.2007,2006,Rochdale,Darlington,0,0
-10.03.2007,2006,Swindon,Accrington,2,0
-10.03.2007,2006,Torquay,Wycombe,3,0
-10.03.2007,2006,Walsall,Chester,1,0
-09.03.2007,2006,Hartlepool,Lincoln,1,1
-09.03.2007,2006,Wrexham,Bury,1,1
-06.03.2007,2006,Accrington,Bristol Rovers,1,1
-06.03.2007,2006,Mansfield,Chester,2,1
-03.03.2007,2006,Barnet,Wrexham,1,2
-03.03.2007,2006,Darlington,Walsall,0,0
-03.03.2007,2006,Grimsby,Bury,2,0
-03.03.2007,2006,Hartlepool,Hereford,3,2
-03.03.2007,2006,Lincoln,Mansfield,1,2
-03.03.2007,2006,MK Dons,Boston Utd,3,2
-03.03.2007,2006,Peterborough,Notts Co,2,0
-03.03.2007,2006,Rochdale,Accrington,4,2
-03.03.2007,2006,Stockport County,Swindon,3,0
-03.03.2007,2006,Wycombe,Macclesfield,3,0
-02.03.2007,2006,Chester,Torquay,1,1
-02.03.2007,2006,Shrewsbury,Bristol Rovers,0,0
-27.02.2007,2006,Chester,Hereford,1,1
-25.02.2007,2006,Wrexham,Shrewsbury,1,3
-24.02.2007,2006,Accrington,Lincoln,2,2
-24.02.2007,2006,Boston Utd,Hartlepool,0,1
-24.02.2007,2006,Bury,Peterborough,0,3
-24.02.2007,2006,Hereford,Rochdale,0,0
-24.02.2007,2006,Macclesfield,Grimsby,2,1
-24.02.2007,2006,Mansfield,Wycombe,3,2
-24.02.2007,2006,Notts Co,MK Dons,2,2
-24.02.2007,2006,Swindon,Chester,1,0
-24.02.2007,2006,Torquay,Darlington,0,1
-24.02.2007,2006,Walsall,Barnet,4,1
-21.02.2007,2006,Chester,Bury,1,0
-20.02.2007,2006,Barnet,Swindon,1,0
-20.02.2007,2006,Darlington,Accrington,2,1
-20.02.2007,2006,Grimsby,Wrexham,2,1
-20.02.2007,2006,Hartlepool,Macclesfield,3,2
-20.02.2007,2006,Lincoln,Hereford,1,4
-20.02.2007,2006,MK Dons,Mansfield,1,1
-20.02.2007,2006,Peterborough,Boston Utd,1,1
-20.02.2007,2006,Rochdale,Torquay,2,0
-20.02.2007,2006,Shrewsbury,Notts Co,2,0
-20.02.2007,2006,Stockport County,Walsall,1,0
-18.02.2007,2006,Wrexham,Chester,0,0
-17.02.2007,2006,Accrington,Stockport County,0,1
-17.02.2007,2006,Boston Utd,Shrewsbury,0,3
-17.02.2007,2006,Bristol Rovers,MK Dons,1,1
-17.02.2007,2006,Bury,Wycombe,0,4
-17.02.2007,2006,Hereford,Barnet,2,0
-17.02.2007,2006,Macclesfield,Peterborough,2,1
-17.02.2007,2006,Mansfield,Grimsby,1,2
-17.02.2007,2006,Notts Co,Rochdale,1,2
-17.02.2007,2006,Swindon,Darlington,1,1
-17.02.2007,2006,Torquay,Hartlepool,0,1
-16.02.2007,2006,Walsall,Lincoln,1,2
-10.02.2007,2006,Barnet,Accrington,1,2
-10.02.2007,2006,Darlington,Boston Utd,2,0
-10.02.2007,2006,Grimsby,Bristol Rovers,4,3
-10.02.2007,2006,Hartlepool,Walsall,3,1
-10.02.2007,2006,Lincoln,Torquay,1,0
-10.02.2007,2006,Peterborough,Wrexham,3,0
-10.02.2007,2006,Stockport County,Mansfield,1,0
-10.02.2007,2006,Wycombe,Notts Co,0,0
-06.02.2007,2006,Bristol Rovers,Darlington,1,2
-03.02.2007,2006,Accrington,Chester,0,1
-03.02.2007,2006,Boston Utd,Grimsby,0,6
-03.02.2007,2006,Bristol Rovers,Peterborough,3,2
-03.02.2007,2006,Bury,MK Dons,0,2
-03.02.2007,2006,Hereford,Stockport County,0,2
-03.02.2007,2006,Macclesfield,Darlington,1,1
-03.02.2007,2006,Mansfield,Shrewsbury,1,1
-03.02.2007,2006,Notts Co,Lincoln,3,1
-03.02.2007,2006,Swindon,Hartlepool,0,1
-03.02.2007,2006,Torquay,Barnet,1,1
-03.02.2007,2006,Walsall,Rochdale,1,1
-03.02.2007,2006,Wrexham,Wycombe,0,2
-30.01.2007,2006,Bury,Hereford,2,2
-30.01.2007,2006,Macclesfield,Walsall,0,2
-30.01.2007,2006,Mansfield,Torquay,5,0
-30.01.2007,2006,Notts Co,Barnet,1,1
-30.01.2007,2006,Peterborough,Swindon,1,1
-30.01.2007,2006,Wrexham,Stockport County,0,1
-27.01.2007,2006,Chester,Mansfield,1,1
-27.01.2007,2006,Darlington,Wrexham,1,1
-27.01.2007,2006,Hartlepool,Bury,2,0
-27.01.2007,2006,Hereford,Notts Co,3,2
-27.01.2007,2006,Lincoln,Peterborough,1,0
-27.01.2007,2006,Rochdale,MK Dons,5,0
-27.01.2007,2006,Stockport County,Wycombe,2,0
-27.01.2007,2006,Swindon,Macclesfield,2,0
-27.01.2007,2006,Walsall,Boston Utd,1,1
-26.01.2007,2006,Torquay,Grimsby,4,1
-20.01.2007,2006,Boston Utd,Swindon,1,3
-20.01.2007,2006,Bristol Rovers,Chester,0,0
-20.01.2007,2006,Bury,Lincoln,2,2
-20.01.2007,2006,Grimsby,Darlington,0,1
-20.01.2007,2006,Macclesfield,Hereford,3,0
-20.01.2007,2006,Mansfield,Walsall,2,1
-20.01.2007,2006,MK Dons,Barnet,3,1
-20.01.2007,2006,Notts Co,Torquay,5,2
-20.01.2007,2006,Peterborough,Stockport County,0,3
-20.01.2007,2006,Wrexham,Hartlepool,1,1
-20.01.2007,2006,Wycombe,Accrington,1,1
-16.01.2007,2006,Bury,Darlington,1,1
-16.01.2007,2006,Accrington,Mansfield,3,2
-15.01.2007,2006,Walsall,Grimsby,2,0
-13.01.2007,2006,Accrington,Notts Co,1,2
-13.01.2007,2006,Barnet,Macclesfield,1,0
-13.01.2007,2006,Chester,Wycombe,0,1
-13.01.2007,2006,Darlington,Peterborough,3,1
-13.01.2007,2006,Hartlepool,MK Dons,1,0
-13.01.2007,2006,Hereford,Mansfield,1,3
-13.01.2007,2006,Lincoln,Shrewsbury,1,1
-13.01.2007,2006,Rochdale,Bristol Rovers,0,1
-13.01.2007,2006,Stockport County,Boston Utd,2,0
-13.01.2007,2006,Swindon,Wrexham,2,1
-13.01.2007,2006,Torquay,Bury,2,2
-09.01.2007,2006,Grimsby,Chester,0,2
-08.01.2007,2006,MK Dons,Lincoln,2,2
-06.01.2007,2006,Boston Utd,Accrington,1,0
-06.01.2007,2006,Shrewsbury,Hartlepool,1,1
-06.01.2007,2006,Wycombe,Rochdale,1,1
-01.01.2007,2006,Boston Utd,Barnet,2,1
-01.01.2007,2006,Bristol Rovers,Torquay,1,0
-01.01.2007,2006,Grimsby,Rochdale,0,4
-01.01.2007,2006,Macclesfield,Lincoln,2,1
-01.01.2007,2006,Mansfield,Hartlepool,0,1
-01.01.2007,2006,MK Dons,Swindon,0,1
-01.01.2007,2006,Notts Co,Chester,1,2
-01.01.2007,2006,Peterborough,Walsall,0,2
-01.01.2007,2006,Shrewsbury,Stockport County,4,2
-01.01.2007,2006,Wrexham,Accrington,1,3
-01.01.2007,2006,Wycombe,Hereford,0,0
-30.12.2006,2006,Barnet,Bury,2,1
-30.12.2006,2006,Chester,MK Dons,0,3
-30.12.2006,2006,Darlington,Shrewsbury,1,2
-30.12.2006,2006,Hartlepool,Peterborough,1,0
-30.12.2006,2006,Hereford,Wrexham,2,0
-30.12.2006,2006,Lincoln,Wycombe,1,0
-30.12.2006,2006,Rochdale,Boston Utd,4,0
-30.12.2006,2006,Stockport County,Grimsby,3,0
-30.12.2006,2006,Swindon,Notts Co,1,1
-30.12.2006,2006,Torquay,Macclesfield,0,1
-30.12.2006,2006,Walsall,Bristol Rovers,2,2
-26.12.2006,2006,Accrington,Bury,1,1
-26.12.2006,2006,Barnet,Peterborough,1,0
-26.12.2006,2006,Chester,Macclesfield,0,3
-26.12.2006,2006,Darlington,Mansfield,0,2
-26.12.2006,2006,Hartlepool,Grimsby,2,0
-26.12.2006,2006,Hereford,Bristol Rovers,0,0
-26.12.2006,2006,Lincoln,Boston Utd,2,1
-26.12.2006,2006,Rochdale,Wrexham,2,2
-26.12.2006,2006,Stockport County,Notts Co,2,0
-26.12.2006,2006,Swindon,Wycombe,2,1
-26.12.2006,2006,Torquay,MK Dons,0,2
-26.12.2006,2006,Walsall,Shrewsbury,1,0
-23.12.2006,2006,Boston Utd,Walsall,1,1
-23.12.2006,2006,Bristol Rovers,Accrington,4,0
-23.12.2006,2006,Bury,Hartlepool,0,1
-23.12.2006,2006,Macclesfield,Swindon,2,1
-23.12.2006,2006,MK Dons,Rochdale,2,1
-23.12.2006,2006,Peterborough,Lincoln,1,2
-23.12.2006,2006,Wrexham,Darlington,1,0
-23.12.2006,2006,Wycombe,Stockport County,2,0
-22.12.2006,2006,Grimsby,Torquay,2,0
-22.12.2006,2006,Notts Co,Hereford,0,1
-22.12.2006,2006,Shrewsbury,Barnet,0,1
-16.12.2006,2006,Barnet,Mansfield,2,1
-16.12.2006,2006,Bury,Stockport County,2,0
-16.12.2006,2006,Darlington,Notts Co,0,1
-16.12.2006,2006,Lincoln,Grimsby,2,0
-16.12.2006,2006,Macclesfield,Accrington,3,3
-16.12.2006,2006,MK Dons,Wycombe,3,1
-16.12.2006,2006,Peterborough,Chester,0,2
-16.12.2006,2006,Shrewsbury,Hereford,3,0
-16.12.2006,2006,Swindon,Bristol Rovers,2,1
-16.12.2006,2006,Torquay,Boston Utd,0,1
-16.12.2006,2006,Wrexham,Walsall,1,1
-15.12.2006,2006,Hartlepool,Rochdale,1,0
-09.12.2006,2006,Accrington,MK Dons,3,4
-09.12.2006,2006,Boston Utd,Wrexham,4,0
-09.12.2006,2006,Bristol Rovers,Hartlepool,0,2
-09.12.2006,2006,Chester,Lincoln,4,1
-09.12.2006,2006,Grimsby,Shrewsbury,2,1
-09.12.2006,2006,Hereford,Torquay,1,1
-09.12.2006,2006,Mansfield,Bury,0,2
-09.12.2006,2006,Notts Co,Macclesfield,1,2
-09.12.2006,2006,Rochdale,Peterborough,0,1
-09.12.2006,2006,Stockport County,Darlington,5,2
-09.12.2006,2006,Walsall,Swindon,0,2
-09.12.2006,2006,Wycombe,Barnet,1,1
-05.12.2006,2006,Barnet,Grimsby,0,1
-05.12.2006,2006,Bury,Walsall,1,2
-05.12.2006,2006,Chester,Boston Utd,3,1
-05.12.2006,2006,Hereford,Peterborough,0,0
-05.12.2006,2006,Lincoln,Bristol Rovers,1,0
-05.12.2006,2006,Macclesfield,Rochdale,1,0
-05.12.2006,2006,Mansfield,Swindon,2,0
-05.12.2006,2006,MK Dons,Stockport County,2,0
-05.12.2006,2006,Notts Co,Hartlepool,0,1
-05.12.2006,2006,Torquay,Wrexham,1,1
-05.12.2006,2006,Wycombe,Darlington,1,0
-02.12.2006,2006,Accrington,Shrewsbury,3,3
-26.11.2006,2006,Bristol Rovers,Barnet,2,0
-25.11.2006,2006,Boston Utd,Hereford,1,1
-25.11.2006,2006,Darlington,MK Dons,1,0
-25.11.2006,2006,Grimsby,Accrington,2,0
-25.11.2006,2006,Hartlepool,Wycombe,2,0
-25.11.2006,2006,Peterborough,Torquay,5,2
-25.11.2006,2006,Rochdale,Mansfield,2,0
-25.11.2006,2006,Shrewsbury,Chester,2,1
-25.11.2006,2006,Stockport County,Macclesfield,1,1
-25.11.2006,2006,Swindon,Bury,2,1
-25.11.2006,2006,Walsall,Notts Co,2,1
-25.11.2006,2006,Wrexham,Lincoln,2,1
-18.11.2006,2006,Accrington,Hartlepool,1,2
-18.11.2006,2006,Barnet,Rochdale,3,2
-18.11.2006,2006,Bury,Bristol Rovers,0,2
-18.11.2006,2006,Hereford,Walsall,0,1
-18.11.2006,2006,Lincoln,Darlington,1,3
-18.11.2006,2006,Macclesfield,Boston Utd,2,3
-18.11.2006,2006,Mansfield,Peterborough,0,2
-18.11.2006,2006,MK Dons,Shrewsbury,2,0
-18.11.2006,2006,Notts Co,Wrexham,2,1
-18.11.2006,2006,Torquay,Swindon,0,1
-18.11.2006,2006,Wycombe,Grimsby,1,1
-17.11.2006,2006,Chester,Stockport County,1,1
-07.11.2006,2006,Bury,Wrexham,1,0
-04.11.2006,2006,Boston Utd,Notts Co,3,3
-04.11.2006,2006,Bristol Rovers,Mansfield,1,0
-04.11.2006,2006,Grimsby,MK Dons,1,3
-04.11.2006,2006,Hartlepool,Barnet,0,1
-04.11.2006,2006,Peterborough,Accrington,4,2
-04.11.2006,2006,Rochdale,Bury,1,3
-04.11.2006,2006,Shrewsbury,Wycombe,0,0
-04.11.2006,2006,Stockport County,Lincoln,2,0
-04.11.2006,2006,Swindon,Hereford,1,2
-04.11.2006,2006,Walsall,Torquay,1,0
-04.11.2006,2006,Wrexham,Macclesfield,0,0
-03.11.2006,2006,Darlington,Chester,1,0
-28.10.2006,2006,Barnet,Chester,1,0
-28.10.2006,2006,Boston Utd,Wycombe,0,1
-28.10.2006,2006,Hartlepool,Darlington,0,0
-28.10.2006,2006,Hereford,Accrington,1,0
-28.10.2006,2006,Macclesfield,Mansfield,2,3
-28.10.2006,2006,Notts Co,Bury,0,1
-28.10.2006,2006,Peterborough,Grimsby,2,2
-28.10.2006,2006,Rochdale,Stockport County,1,3
-28.10.2006,2006,Swindon,Lincoln,0,1
-28.10.2006,2006,Torquay,Shrewsbury,0,0
-28.10.2006,2006,Walsall,MK Dons,0,0
-28.10.2006,2006,Wrexham,Bristol Rovers,2,0
-21.10.2006,2006,Accrington,Walsall,1,2
-21.10.2006,2006,Bristol Rovers,Macclesfield,0,0
-21.10.2006,2006,Bury,Boston Utd,2,1
-21.10.2006,2006,Darlington,Barnet,2,0
-21.10.2006,2006,Grimsby,Notts Co,0,2
-21.10.2006,2006,Lincoln,Rochdale,7,1
-21.10.2006,2006,Mansfield,Wrexham,3,0
-21.10.2006,2006,MK Dons,Hereford,1,3
-21.10.2006,2006,Shrewsbury,Swindon,1,2
-21.10.2006,2006,Stockport County,Torquay,1,0
-21.10.2006,2006,Wycombe,Peterborough,2,0
-20.10.2006,2006,Chester,Hartlepool,2,1
-14.10.2006,2006,Barnet,Lincoln,0,5
-14.10.2006,2006,Boston Utd,Mansfield,1,1
-14.10.2006,2006,Hartlepool,Stockport County,1,1
-14.10.2006,2006,Hereford,Darlington,1,1
-14.10.2006,2006,Macclesfield,Bury,2,3
-14.10.2006,2006,Notts Co,Bristol Rovers,1,2
-14.10.2006,2006,Peterborough,Shrewsbury,2,1
-14.10.2006,2006,Rochdale,Chester,0,0
-14.10.2006,2006,Swindon,Grimsby,3,0
-14.10.2006,2006,Torquay,Accrington,0,2
-14.10.2006,2006,Walsall,Wycombe,2,0
-14.10.2006,2006,Wrexham,MK Dons,1,2
-08.10.2006,2006,Grimsby,Hereford,2,1
-07.10.2006,2006,Accrington,Swindon,1,1
-07.10.2006,2006,Bristol Rovers,Boston Utd,1,0
-07.10.2006,2006,Mansfield,Notts Co,2,2
-07.10.2006,2006,Stockport County,Barnet,2,0
-06.10.2006,2006,Chester,Walsall,0,0
-06.10.2006,2006,Darlington,Rochdale,0,5
-06.10.2006,2006,Lincoln,Hartlepool,2,0
-06.10.2006,2006,MK Dons,Peterborough,0,2
-06.10.2006,2006,Shrewsbury,Macclesfield,2,1
-06.10.2006,2006,Wycombe,Torquay,2,0
-30.09.2006,2006,Accrington,Wycombe,2,1
-30.09.2006,2006,Barnet,MK Dons,3,3
-30.09.2006,2006,Chester,Bristol Rovers,2,0
-30.09.2006,2006,Hartlepool,Wrexham,3,0
-30.09.2006,2006,Hereford,Macclesfield,1,0
-30.09.2006,2006,Lincoln,Bury,0,2
-30.09.2006,2006,Rochdale,Shrewsbury,1,1
-30.09.2006,2006,Stockport County,Peterborough,0,1
-30.09.2006,2006,Swindon,Boston Utd,1,1
-30.09.2006,2006,Torquay,Notts Co,0,1
-30.09.2006,2006,Walsall,Mansfield,4,0
-29.09.2006,2006,Darlington,Grimsby,2,2
-27.09.2006,2006,Boston Utd,Lincoln,1,0
-27.09.2006,2006,Bristol Rovers,Hereford,2,1
-27.09.2006,2006,Wrexham,Rochdale,1,2
-26.09.2006,2006,Bury,Accrington,2,2
-26.09.2006,2006,Grimsby,Hartlepool,1,4
-26.09.2006,2006,Macclesfield,Chester,1,1
-26.09.2006,2006,Mansfield,Darlington,1,0
-26.09.2006,2006,MK Dons,Torquay,3,2
-26.09.2006,2006,Notts Co,Stockport County,1,0
-26.09.2006,2006,Peterborough,Barnet,1,1
-26.09.2006,2006,Shrewsbury,Walsall,1,1
-26.09.2006,2006,Wycombe,Swindon,1,1
-24.09.2006,2006,Wrexham,Hereford,1,0
-23.09.2006,2006,Boston Utd,Rochdale,0,3
-23.09.2006,2006,Bristol Rovers,Walsall,1,2
-23.09.2006,2006,Bury,Barnet,2,2
-23.09.2006,2006,Grimsby,Stockport County,0,1
-23.09.2006,2006,Macclesfield,Torquay,3,3
-23.09.2006,2006,Mansfield,Accrington,2,2
-23.09.2006,2006,MK Dons,Chester,1,2
-23.09.2006,2006,Notts Co,Swindon,1,1
-23.09.2006,2006,Peterborough,Hartlepool,3,5
-23.09.2006,2006,Shrewsbury,Darlington,2,2
-23.09.2006,2006,Wycombe,Lincoln,1,3
-16.09.2006,2006,Accrington,Boston Utd,2,1
-16.09.2006,2006,Barnet,Notts Co,2,3
-16.09.2006,2006,Chester,Grimsby,0,2
-16.09.2006,2006,Darlington,Bristol Rovers,1,1
-16.09.2006,2006,Hartlepool,Shrewsbury,0,3
-16.09.2006,2006,Hereford,Bury,1,0
-16.09.2006,2006,Lincoln,MK Dons,2,3
-16.09.2006,2006,Rochdale,Wycombe,0,2
-16.09.2006,2006,Stockport County,Wrexham,5,2
-16.09.2006,2006,Swindon,Peterborough,0,1
-16.09.2006,2006,Torquay,Mansfield,1,0
-16.09.2006,2006,Walsall,Macclesfield,2,0
-13.09.2006,2006,Accrington,Wrexham,5,0
-13.09.2006,2006,Torquay,Bristol Rovers,0,0
-12.09.2006,2006,Barnet,Boston Utd,3,3
-12.09.2006,2006,Chester,Notts Co,0,0
-12.09.2006,2006,Darlington,Bury,1,0
-12.09.2006,2006,Hartlepool,Mansfield,2,0
-12.09.2006,2006,Hereford,Wycombe,1,2
-12.09.2006,2006,Lincoln,Macclesfield,2,1
-12.09.2006,2006,Rochdale,Grimsby,1,0
-12.09.2006,2006,Stockport County,Shrewsbury,0,3
-12.09.2006,2006,Swindon,MK Dons,2,1
-12.09.2006,2006,Walsall,Peterborough,5,0
-09.09.2006,2006,Boston Utd,Stockport County,2,1
-09.09.2006,2006,Bristol Rovers,Rochdale,0,0
-09.09.2006,2006,Bury,Torquay,0,1
-09.09.2006,2006,Grimsby,Walsall,2,1
-09.09.2006,2006,Macclesfield,Barnet,2,3
-09.09.2006,2006,Mansfield,Hereford,4,1
-09.09.2006,2006,MK Dons,Hartlepool,0,0
-09.09.2006,2006,Notts Co,Accrington,3,2
-09.09.2006,2006,Peterborough,Darlington,1,3
-09.09.2006,2006,Shrewsbury,Lincoln,0,1
-09.09.2006,2006,Wrexham,Swindon,2,1
-09.09.2006,2006,Wycombe,Chester,1,0
-03.09.2006,2006,Peterborough,Bury,0,1
-03.09.2006,2006,Stockport County,Bristol Rovers,2,1
-02.09.2006,2006,Barnet,Walsall,1,1
-02.09.2006,2006,MK Dons,Notts Co,3,2
-02.09.2006,2006,Rochdale,Hereford,1,1
-01.09.2006,2006,Chester,Swindon,0,2
-01.09.2006,2006,Darlington,Torquay,1,1
-01.09.2006,2006,Grimsby,Macclesfield,1,1
-01.09.2006,2006,Hartlepool,Boston Utd,2,1
-01.09.2006,2006,Lincoln,Accrington,3,1
-01.09.2006,2006,Wycombe,Mansfield,1,0
-26.08.2006,2006,Accrington,Rochdale,1,1
-26.08.2006,2006,Boston Utd,MK Dons,0,1
-26.08.2006,2006,Bristol Rovers,Shrewsbury,1,0
-26.08.2006,2006,Bury,Grimsby,3,0
-26.08.2006,2006,Hereford,Hartlepool,3,1
-26.08.2006,2006,Macclesfield,Wycombe,0,2
-26.08.2006,2006,Mansfield,Lincoln,2,4
-26.08.2006,2006,Notts Co,Peterborough,0,0
-26.08.2006,2006,Swindon,Stockport County,2,0
-26.08.2006,2006,Torquay,Chester,2,2
-26.08.2006,2006,Walsall,Darlington,1,0
-26.08.2006,2006,Wrexham,Barnet,1,1
-20.08.2006,2006,Chester,Wrexham,1,2
-19.08.2006,2006,Barnet,Hereford,3,0
-19.08.2006,2006,Darlington,Swindon,1,2
-19.08.2006,2006,Hartlepool,Torquay,1,1
-19.08.2006,2006,Lincoln,Walsall,2,2
-19.08.2006,2006,MK Dons,Bristol Rovers,2,0
-19.08.2006,2006,Peterborough,Macclesfield,3,1
-19.08.2006,2006,Rochdale,Notts Co,0,1
-19.08.2006,2006,Shrewsbury,Boston Utd,5,0
-19.08.2006,2006,Wycombe,Bury,3,0
-18.08.2006,2006,Grimsby,Mansfield,1,1
-18.08.2006,2006,Stockport County,Accrington,1,1
-12.08.2006,2006,Accrington,Barnet,2,1
-12.08.2006,2006,Boston Utd,Darlington,4,1
-12.08.2006,2006,Bristol Rovers,Grimsby,1,0
-12.08.2006,2006,Bury,Shrewsbury,1,2
-12.08.2006,2006,Hereford,Chester,2,0
-12.08.2006,2006,Macclesfield,MK Dons,1,2
-12.08.2006,2006,Mansfield,Stockport County,1,1
-12.08.2006,2006,Notts Co,Wycombe,1,0
-12.08.2006,2006,Swindon,Rochdale,1,0
-12.08.2006,2006,Torquay,Lincoln,1,2
-12.08.2006,2006,Walsall,Hartlepool,2,0
-12.08.2006,2006,Wrexham,Peterborough,0,0
-09.08.2006,2006,Boston Utd,Peterborough,0,1
-08.08.2006,2006,Accrington,Darlington,0,2
-08.08.2006,2006,Bristol Rovers,Wycombe,1,2
-08.08.2006,2006,Bury,Chester,1,3
-08.08.2006,2006,Hereford,Lincoln,1,2
-08.08.2006,2006,Macclesfield,Hartlepool,0,0
-08.08.2006,2006,Mansfield,MK Dons,2,1
-08.08.2006,2006,Notts Co,Shrewsbury,1,1
-08.08.2006,2006,Swindon,Barnet,2,1
-08.08.2006,2006,Torquay,Rochdale,1,0
-08.08.2006,2006,Walsall,Stockport County,2,0
-08.08.2006,2006,Wrexham,Grimsby,3,0
-05.08.2006,2006,Barnet,Torquay,0,1
-05.08.2006,2006,Chester,Accrington,2,0
-05.08.2006,2006,Darlington,Macclesfield,4,0
-05.08.2006,2006,Grimsby,Boston Utd,3,2
-05.08.2006,2006,Hartlepool,Swindon,0,1
-05.08.2006,2006,Lincoln,Notts Co,1,1
-05.08.2006,2006,MK Dons,Bury,2,1
-05.08.2006,2006,Peterborough,Bristol Rovers,4,1
-05.08.2006,2006,Rochdale,Walsall,0,1
-05.08.2006,2006,Shrewsbury,Mansfield,2,2
-05.08.2006,2006,Stockport County,Hereford,0,2
-05.08.2006,2006,Wycombe,Wrexham,1,1
+Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
+05.05.2007,2006,Barnet,Wycombe,2,1,2.21,3.27,2.83
+05.05.2007,2006,Bury,Mansfield,1,1,2.15,3.23,2.99
+05.05.2007,2006,Darlington,Stockport County,0,5,2.75,3.34,2.23
+05.05.2007,2006,Hartlepool,Bristol Rovers,1,2,2.01,3.34,3.18
+05.05.2007,2006,Lincoln,Chester,2,0,1.55,3.51,5.50
+05.05.2007,2006,Macclesfield,Notts Co,1,1,1.77,3.13,4.46
+05.05.2007,2006,MK Dons,Accrington,3,1,1.31,4.47,7.93
+05.05.2007,2006,Peterborough,Rochdale,3,3,2.11,3.27,3.02
+05.05.2007,2006,Shrewsbury,Grimsby,2,2,1.57,3.39,5.65
+05.05.2007,2006,Swindon,Walsall,1,1,2.19,3.21,2.93
+05.05.2007,2006,Torquay,Hereford,0,0,2.40,3.27,2.57
+05.05.2007,2006,Wrexham,Boston Utd,3,1,1.82,3.38,3.74
+28.04.2007,2006,Accrington,Macclesfield,3,2,2.07,3.27,3.12
+28.04.2007,2006,Boston Utd,Torquay,1,1,1.54,3.64,5.38
+28.04.2007,2006,Bristol Rovers,Swindon,1,0,2.24,3.26,2.81
+28.04.2007,2006,Chester,Peterborough,1,1,2.95,3.29,2.15
+28.04.2007,2006,Grimsby,Lincoln,0,0,2.48,3.23,2.51
+28.04.2007,2006,Hereford,Shrewsbury,0,1,2.85,3.31,2.19
+28.04.2007,2006,Mansfield,Barnet,2,1,1.97,3.31,3.33
+28.04.2007,2006,Notts Co,Darlington,0,1,2.11,3.21,3.10
+28.04.2007,2006,Rochdale,Hartlepool,2,0,2.65,3.26,2.33
+28.04.2007,2006,Stockport County,Bury,0,0,1.76,3.35,4.13
+28.04.2007,2006,Walsall,Wrexham,1,0,1.69,3.44,4.27
+28.04.2007,2006,Wycombe,MK Dons,0,2,2.36,3.25,2.63
+24.04.2007,2006,Macclesfield,Bristol Rovers,0,1,2.38,3.24,2.62
+24.04.2007,2006,Shrewsbury,Wrexham,0,1,1.79,3.40,3.95
+21.04.2007,2006,Boston Utd,Chester,1,0,2.06,3.31,3.12
+21.04.2007,2006,Bristol Rovers,Lincoln,0,0,2.04,3.29,3.14
+21.04.2007,2006,Darlington,Wycombe,3,2,2.30,3.28,2.71
+21.04.2007,2006,Grimsby,Barnet,5,0,2.05,3.27,3.16
+21.04.2007,2006,Peterborough,Hereford,3,0,1.67,3.42,4.49
+21.04.2007,2006,Rochdale,Macclesfield,5,0,1.89,3.33,3.56
+21.04.2007,2006,Shrewsbury,Accrington,2,1,1.61,3.47,4.96
+21.04.2007,2006,Stockport County,MK Dons,1,2,2.25,3.28,2.77
+21.04.2007,2006,Swindon,Mansfield,2,0,1.39,3.98,7.18
+21.04.2007,2006,Walsall,Bury,0,1,1.54,3.63,5.43
+21.04.2007,2006,Wrexham,Torquay,1,0,1.53,3.65,5.61
+20.04.2007,2006,Hartlepool,Notts Co,1,1,1.64,3.50,4.64
+15.04.2007,2006,Chester,Shrewsbury,0,0,2.92,3.22,2.19
+14.04.2007,2006,Accrington,Grimsby,4,1,2.03,3.28,3.21
+14.04.2007,2006,Barnet,Bristol Rovers,1,1,2.36,3.24,2.65
+14.04.2007,2006,Bury,Swindon,0,1,3.02,3.24,2.13
+14.04.2007,2006,Hereford,Boston Utd,3,0,2.09,3.27,3.07
+14.04.2007,2006,Lincoln,Wrexham,0,3,1.70,3.43,4.40
+14.04.2007,2006,Macclesfield,Stockport County,2,0,2.51,3.22,2.50
+14.04.2007,2006,Mansfield,Rochdale,1,2,2.34,3.23,2.67
+14.04.2007,2006,MK Dons,Darlington,1,0,1.74,3.38,4.15
+14.04.2007,2006,Notts Co,Walsall,1,2,2.57,3.22,2.42
+14.04.2007,2006,Torquay,Peterborough,1,1,2.88,3.28,2.18
+14.04.2007,2006,Wycombe,Hartlepool,0,1,2.46,3.18,2.55
+09.04.2007,2006,Boston Utd,Macclesfield,4,1,2.35,3.24,2.65
+09.04.2007,2006,Bristol Rovers,Bury,2,0,1.73,3.37,4.24
+09.04.2007,2006,Darlington,Lincoln,1,1,2.26,3.25,2.77
+09.04.2007,2006,Grimsby,Wycombe,2,2,2.48,3.23,2.51
+09.04.2007,2006,Hartlepool,Accrington,1,0,1.43,4.02,6.15
+09.04.2007,2006,Peterborough,Mansfield,2,0,1.70,3.45,4.23
+09.04.2007,2006,Rochdale,Barnet,0,2,1.77,3.36,3.97
+09.04.2007,2006,Shrewsbury,MK Dons,2,1,2.32,3.23,2.70
+09.04.2007,2006,Stockport County,Chester,2,0,1.67,3.42,4.44
+09.04.2007,2006,Swindon,Torquay,2,1,1.40,4.01,6.60
+09.04.2007,2006,Walsall,Hereford,1,0,1.51,3.55,5.98
+09.04.2007,2006,Wrexham,Notts Co,0,1,2.31,3.26,2.70
+07.04.2007,2006,Accrington,Peterborough,3,2,2.53,3.22,2.47
+07.04.2007,2006,Barnet,Hartlepool,2,1,3.54,3.25,1.93
+07.04.2007,2006,Bury,Rochdale,0,1,2.40,3.24,2.59
+07.04.2007,2006,Hereford,Swindon,0,0,2.90,3.23,2.20
+07.04.2007,2006,Lincoln,Stockport County,0,0,1.96,3.20,3.44
+07.04.2007,2006,Macclesfield,Wrexham,2,0,2.02,3.23,3.27
+07.04.2007,2006,Mansfield,Bristol Rovers,0,1,2.26,3.24,2.80
+07.04.2007,2006,MK Dons,Grimsby,1,2,1.60,3.48,5.12
+07.04.2007,2006,Notts Co,Boston Utd,2,0,1.77,3.33,4.08
+07.04.2007,2006,Torquay,Walsall,1,2,3.29,3.26,2.00
+07.04.2007,2006,Wycombe,Shrewsbury,1,1,2.11,3.22,3.07
+06.04.2007,2006,Chester,Darlington,1,1,2.47,3.21,2.53
+03.04.2007,2006,Rochdale,Swindon,0,0,2.47,3.22,2.55
+03.04.2007,2006,Shrewsbury,Bury,1,3,1.60,3.46,5.18
+31.03.2007,2006,Barnet,Darlington,2,1,2.36,3.19,2.70
+31.03.2007,2006,Boston Utd,Bury,0,1,2.00,3.21,3.35
+31.03.2007,2006,Hereford,MK Dons,0,0,2.80,3.18,2.28
+31.03.2007,2006,Notts Co,Grimsby,2,0,2.15,3.17,3.05
+31.03.2007,2006,Peterborough,Wycombe,3,3,2.06,3.23,3.19
+31.03.2007,2006,Rochdale,Lincoln,2,0,2.31,3.20,2.74
+31.03.2007,2006,Swindon,Shrewsbury,2,1,1.90,3.23,3.66
+31.03.2007,2006,Torquay,Stockport County,1,0,2.75,3.25,2.28
+31.03.2007,2006,Walsall,Accrington,3,2,1.52,3.54,5.84
+31.03.2007,2006,Wrexham,Mansfield,0,0,2.18,3.20,2.94
+30.03.2007,2006,Hartlepool,Chester,3,0,1.46,3.70,6.66
+27.03.2007,2006,Wycombe,Bristol Rovers,0,1,1.77,3.26,4.22
+27.03.2007,2006,Shrewsbury,Rochdale,3,0,2.07,3.23,3.22
+25.03.2007,2006,Darlington,Hartlepool,0,3,2.66,3.15,2.39
+25.03.2007,2006,Lincoln,Swindon,2,3,2.14,3.19,3.04
+25.03.2007,2006,MK Dons,Walsall,1,1,2.18,3.18,2.97
+24.03.2007,2006,Accrington,Hereford,2,0,2.25,3.21,2.83
+24.03.2007,2006,Bristol Rovers,Wrexham,0,1,1.73,3.34,4.36
+24.03.2007,2006,Bury,Notts Co,0,1,2.28,3.20,2.79
+24.03.2007,2006,Chester,Barnet,2,0,2.08,3.20,3.17
+24.03.2007,2006,Grimsby,Peterborough,0,2,2.12,3.22,3.08
+24.03.2007,2006,Shrewsbury,Torquay,1,0,1.57,3.47,5.30
+24.03.2007,2006,Stockport County,Rochdale,2,7,1.73,3.28,4.26
+23.03.2007,2006,Mansfield,Macclesfield,1,2,2.03,3.21,3.29
+23.03.2007,2006,Wycombe,Boston Utd,0,0,1.58,3.52,5.24
+20.03.2007,2006,Bristol Rovers,Stockport County,2,1,2.45,3.20,2.60
+20.03.2007,2006,Barnet,Shrewsbury,0,0,2.50,3.22,2.54
+17.03.2007,2006,Accrington,Torquay,1,0,1.97,3.23,3.42
+17.03.2007,2006,Bristol Rovers,Notts Co,2,0,2.06,3.21,3.18
+17.03.2007,2006,Bury,Macclesfield,1,1,2.32,3.22,2.72
+17.03.2007,2006,Darlington,Hereford,1,0,1.86,3.23,3.80
+17.03.2007,2006,Grimsby,Swindon,1,0,2.51,3.19,2.51
+17.03.2007,2006,Lincoln,Barnet,1,0,1.66,3.40,4.66
+17.03.2007,2006,Mansfield,Boston Utd,1,2,1.73,3.32,4.36
+17.03.2007,2006,MK Dons,Wrexham,2,1,1.57,3.52,5.30
+17.03.2007,2006,Stockport County,Hartlepool,3,3,2.40,3.17,2.65
+17.03.2007,2006,Wycombe,Walsall,0,0,2.37,3.18,2.67
+16.03.2007,2006,Chester,Rochdale,0,1,2.21,3.19,2.95
+16.03.2007,2006,Shrewsbury,Peterborough,2,1,2.24,3.22,2.85
+13.03.2007,2006,MK Dons,Macclesfield,3,0,1.66,3.38,4.81
+10.03.2007,2006,Barnet,Stockport County,3,1,3.09,3.21,2.10
+10.03.2007,2006,Boston Utd,Bristol Rovers,2,1,2.55,3.20,2.45
+10.03.2007,2006,Hereford,Grimsby,0,1,2.00,3.20,3.35
+10.03.2007,2006,Macclesfield,Shrewsbury,2,2,2.36,3.17,2.72
+10.03.2007,2006,Notts Co,Mansfield,0,0,2.23,3.20,2.86
+10.03.2007,2006,Peterborough,MK Dons,4,0,2.35,3.18,2.68
+10.03.2007,2006,Rochdale,Darlington,0,0,2.19,3.21,2.92
+10.03.2007,2006,Swindon,Accrington,2,0,1.54,3.51,5.69
+10.03.2007,2006,Torquay,Wycombe,3,0,3.21,3.22,2.04
+10.03.2007,2006,Walsall,Chester,1,0,1.61,3.43,4.98
+09.03.2007,2006,Hartlepool,Lincoln,1,1,1.67,3.38,4.67
+09.03.2007,2006,Wrexham,Bury,1,1,2.04,3.20,3.25
+06.03.2007,2006,Accrington,Bristol Rovers,1,1,2.42,3.19,2.63
+06.03.2007,2006,Mansfield,Chester,2,1,2.01,3.24,3.29
+03.03.2007,2006,Barnet,Wrexham,1,2,1.82,3.25,3.96
+03.03.2007,2006,Darlington,Walsall,0,0,2.34,3.19,2.69
+03.03.2007,2006,Grimsby,Bury,2,0,1.82,3.24,3.98
+03.03.2007,2006,Hartlepool,Hereford,3,2,1.60,3.46,5.13
+03.03.2007,2006,Lincoln,Mansfield,1,2,1.72,3.32,4.39
+03.03.2007,2006,MK Dons,Boston Utd,3,2,1.50,3.67,5.98
+03.03.2007,2006,Peterborough,Notts Co,2,0,1.97,3.23,3.43
+03.03.2007,2006,Rochdale,Accrington,4,2,1.79,3.27,4.06
+03.03.2007,2006,Stockport County,Swindon,3,0,2.12,3.19,3.10
+03.03.2007,2006,Wycombe,Macclesfield,3,0,1.74,3.29,4.36
+02.03.2007,2006,Chester,Torquay,1,1,1.65,3.42,4.73
+02.03.2007,2006,Shrewsbury,Bristol Rovers,0,0,1.90,3.23,3.67
+27.02.2007,2006,Chester,Hereford,1,1,2.14,3.17,3.06
+25.02.2007,2006,Wrexham,Shrewsbury,1,3,2.46,3.18,2.56
+24.02.2007,2006,Accrington,Lincoln,2,2,2.87,3.20,2.22
+24.02.2007,2006,Boston Utd,Hartlepool,0,1,3.91,3.28,1.82
+24.02.2007,2006,Bury,Peterborough,0,3,2.34,3.18,2.69
+24.02.2007,2006,Hereford,Rochdale,0,0,2.07,3.22,3.18
+24.02.2007,2006,Macclesfield,Grimsby,2,1,2.11,3.18,3.11
+24.02.2007,2006,Mansfield,Wycombe,3,2,2.62,3.19,2.41
+24.02.2007,2006,Notts Co,MK Dons,2,2,2.54,3.18,2.49
+24.02.2007,2006,Swindon,Chester,1,0,1.64,3.42,4.79
+24.02.2007,2006,Torquay,Darlington,0,1,2.70,3.21,2.35
+24.02.2007,2006,Walsall,Barnet,4,1,1.58,3.46,5.30
+21.02.2007,2006,Chester,Bury,1,0,1.90,3.21,3.74
+20.02.2007,2006,Barnet,Swindon,1,0,2.78,3.19,2.28
+20.02.2007,2006,Darlington,Accrington,2,1,1.67,3.39,4.58
+20.02.2007,2006,Grimsby,Wrexham,2,1,1.80,3.29,3.98
+20.02.2007,2006,Hartlepool,Macclesfield,3,2,1.55,3.52,5.62
+20.02.2007,2006,Lincoln,Hereford,1,4,1.62,3.41,5.05
+20.02.2007,2006,MK Dons,Mansfield,1,1,1.65,3.40,4.76
+20.02.2007,2006,Peterborough,Boston Utd,1,1,NA,1.61,3.46
+20.02.2007,2006,Rochdale,Torquay,2,0,1.68,3.35,4.57
+20.02.2007,2006,Shrewsbury,Notts Co,2,0,2.18,3.21,2.99
+20.02.2007,2006,Stockport County,Walsall,1,0,2.25,3.21,2.84
+18.02.2007,2006,Wrexham,Chester,0,0,2.40,3.12,2.68
+17.02.2007,2006,Accrington,Stockport County,0,1,2.79,3.19,2.28
+17.02.2007,2006,Boston Utd,Shrewsbury,0,3,2.56,3.19,2.47
+17.02.2007,2006,Bristol Rovers,MK Dons,1,1,2.43,3.18,2.62
+17.02.2007,2006,Bury,Wycombe,0,4,2.53,3.19,2.50
+17.02.2007,2006,Hereford,Barnet,2,0,1.99,3.22,3.39
+17.02.2007,2006,Macclesfield,Peterborough,2,1,2.37,3.19,2.68
+17.02.2007,2006,Mansfield,Grimsby,1,2,1.99,3.20,3.39
+17.02.2007,2006,Notts Co,Rochdale,1,2,1.87,3.26,3.72
+17.02.2007,2006,Swindon,Darlington,1,1,1.73,3.35,4.29
+17.02.2007,2006,Torquay,Hartlepool,0,1,4.02,3.25,1.81
+16.02.2007,2006,Walsall,Lincoln,1,2,1.87,3.21,3.80
+10.02.2007,2006,Barnet,Accrington,1,2,1.84,3.25,3.84
+10.02.2007,2006,Darlington,Boston Utd,2,0,1.68,3.34,4.64
+10.02.2007,2006,Grimsby,Bristol Rovers,4,3,2.35,3.19,2.69
+10.02.2007,2006,Hartlepool,Walsall,3,1,2.09,3.21,3.14
+10.02.2007,2006,Lincoln,Torquay,1,0,1.54,3.50,5.77
+10.02.2007,2006,Peterborough,Wrexham,3,0,1.82,3.29,3.89
+10.02.2007,2006,Stockport County,Mansfield,1,0,1.67,3.36,4.59
+10.02.2007,2006,Wycombe,Notts Co,0,0,1.88,3.23,3.74
+06.02.2007,2006,Bristol Rovers,Darlington,1,2,1.86,3.24,3.79
+03.02.2007,2006,Accrington,Chester,0,1,2.25,3.19,2.83
+03.02.2007,2006,Boston Utd,Grimsby,0,6,1.94,3.19,3.55
+03.02.2007,2006,Bristol Rovers,Peterborough,3,2,1.93,3.25,3.52
+03.02.2007,2006,Bury,MK Dons,0,2,2.51,3.19,2.51
+03.02.2007,2006,Hereford,Stockport County,0,2,2.32,3.19,2.71
+03.02.2007,2006,Macclesfield,Darlington,1,1,2.11,3.20,3.09
+03.02.2007,2006,Mansfield,Shrewsbury,1,1,2.13,3.21,3.04
+03.02.2007,2006,Notts Co,Lincoln,3,1,2.38,3.18,2.66
+03.02.2007,2006,Swindon,Hartlepool,0,1,2.09,3.18,3.17
+03.02.2007,2006,Torquay,Barnet,1,1,2.32,3.18,2.74
+03.02.2007,2006,Walsall,Rochdale,1,1,1.56,3.50,5.50
+03.02.2007,2006,Wrexham,Wycombe,0,2,2.56,3.18,2.48
+30.01.2007,2006,Bury,Hereford,2,2,2.11,3.21,3.12
+30.01.2007,2006,Macclesfield,Walsall,0,2,2.72,3.22,2.32
+30.01.2007,2006,Mansfield,Torquay,5,0,1.80,3.28,4.01
+30.01.2007,2006,Notts Co,Barnet,1,1,1.90,3.22,3.64
+30.01.2007,2006,Peterborough,Swindon,1,1,2.74,3.19,2.32
+30.01.2007,2006,Wrexham,Stockport County,0,1,2.46,3.18,2.58
+27.01.2007,2006,Chester,Mansfield,1,1,2.12,3.21,3.08
+27.01.2007,2006,Darlington,Wrexham,1,1,1.79,3.28,4.02
+27.01.2007,2006,Hartlepool,Bury,2,0,1.66,3.37,4.72
+27.01.2007,2006,Hereford,Notts Co,3,2,2.28,3.21,2.77
+27.01.2007,2006,Lincoln,Peterborough,1,0,1.75,3.35,4.18
+27.01.2007,2006,Rochdale,MK Dons,5,0,2.87,3.20,2.22
+27.01.2007,2006,Stockport County,Wycombe,2,0,2.19,3.21,2.94
+27.01.2007,2006,Swindon,Macclesfield,2,0,1.68,3.37,4.59
+27.01.2007,2006,Walsall,Boston Utd,1,1,1.43,3.75,6.93
+26.01.2007,2006,Torquay,Grimsby,4,1,2.26,3.22,2.81
+20.01.2007,2006,Boston Utd,Swindon,1,3,2.81,3.22,2.26
+20.01.2007,2006,Bristol Rovers,Chester,0,0,1.94,3.25,3.49
+20.01.2007,2006,Bury,Lincoln,2,2,2.54,3.17,2.50
+20.01.2007,2006,Grimsby,Darlington,0,1,2.27,3.20,2.79
+20.01.2007,2006,Macclesfield,Hereford,3,0,2.12,3.20,3.07
+20.01.2007,2006,Mansfield,Walsall,2,1,2.80,3.21,2.25
+20.01.2007,2006,MK Dons,Barnet,3,1,1.66,3.38,4.63
+20.01.2007,2006,Notts Co,Torquay,5,2,1.63,3.42,4.87
+20.01.2007,2006,Peterborough,Stockport County,0,3,2.13,3.20,3.05
+20.01.2007,2006,Wrexham,Hartlepool,1,1,2.86,3.19,2.25
+20.01.2007,2006,Wycombe,Accrington,1,1,1.57,3.49,5.40
+16.01.2007,2006,Bury,Darlington,1,1,2.15,3.21,3.01
+16.01.2007,2006,Accrington,Mansfield,3,2,2.41,3.16,2.69
+15.01.2007,2006,Walsall,Grimsby,2,0,1.46,3.68,6.63
+13.01.2007,2006,Accrington,Notts Co,1,2,2.41,3.19,2.64
+13.01.2007,2006,Barnet,Macclesfield,1,0,2.14,3.22,3.00
+13.01.2007,2006,Chester,Wycombe,0,1,2.37,3.18,2.69
+13.01.2007,2006,Darlington,Peterborough,3,1,2.36,3.16,2.70
+13.01.2007,2006,Hartlepool,MK Dons,1,0,2.16,3.21,2.99
+13.01.2007,2006,Hereford,Mansfield,1,3,1.82,3.22,3.96
+13.01.2007,2006,Lincoln,Shrewsbury,1,1,1.79,3.27,4.05
+13.01.2007,2006,Rochdale,Bristol Rovers,0,1,2.25,3.21,2.81
+13.01.2007,2006,Stockport County,Boston Utd,2,0,1.81,3.26,3.96
+13.01.2007,2006,Swindon,Wrexham,2,1,1.56,3.50,5.44
+13.01.2007,2006,Torquay,Bury,2,2,2.62,3.19,2.41
+09.01.2007,2006,Grimsby,Chester,0,2,2.19,3.20,2.95
+08.01.2007,2006,MK Dons,Lincoln,2,2,1.95,3.18,3.59
+06.01.2007,2006,Boston Utd,Accrington,1,0,2.04,3.21,3.24
+06.01.2007,2006,Shrewsbury,Hartlepool,1,1,2.56,3.18,2.46
+06.01.2007,2006,Wycombe,Rochdale,1,1,1.72,3.36,4.36
+01.01.2007,2006,Boston Utd,Barnet,2,1,2.29,3.30,2.62
+01.01.2007,2006,Bristol Rovers,Torquay,1,0,1.57,3.47,5.33
+01.01.2007,2006,Grimsby,Rochdale,0,4,1.87,3.23,3.65
+01.01.2007,2006,Macclesfield,Lincoln,2,1,2.58,3.23,2.40
+01.01.2007,2006,Mansfield,Hartlepool,0,1,2.60,3.23,2.39
+01.01.2007,2006,MK Dons,Swindon,0,1,1.97,3.23,3.38
+01.01.2007,2006,Notts Co,Chester,1,2,1.90,3.27,3.53
+01.01.2007,2006,Peterborough,Walsall,0,2,2.47,3.23,2.50
+01.01.2007,2006,Shrewsbury,Stockport County,4,2,2.07,3.23,3.16
+01.01.2007,2006,Wrexham,Accrington,1,3,1.83,3.32,3.80
+01.01.2007,2006,Wycombe,Hereford,0,0,1.77,3.33,4.10
+30.12.2006,2006,Barnet,Bury,2,1,2.26,3.21,2.82
+30.12.2006,2006,Chester,MK Dons,0,3,2.81,3.22,2.25
+30.12.2006,2006,Darlington,Shrewsbury,1,2,2.46,3.17,2.56
+30.12.2006,2006,Hartlepool,Peterborough,1,0,1.89,3.20,3.63
+30.12.2006,2006,Hereford,Wrexham,2,0,1.96,3.20,3.47
+30.12.2006,2006,Lincoln,Wycombe,1,0,2.02,3.19,3.32
+30.12.2006,2006,Rochdale,Boston Utd,4,0,2.17,3.20,2.99
+30.12.2006,2006,Stockport County,Grimsby,3,0,1.96,3.21,3.47
+30.12.2006,2006,Swindon,Notts Co,1,1,1.78,3.29,4.11
+30.12.2006,2006,Torquay,Macclesfield,0,1,2.54,3.28,2.40
+30.12.2006,2006,Walsall,Bristol Rovers,2,2,1.61,3.44,5.00
+26.12.2006,2006,Accrington,Bury,1,1,2.44,3.18,2.59
+26.12.2006,2006,Barnet,Peterborough,1,0,2.48,3.21,2.52
+26.12.2006,2006,Chester,Macclesfield,0,3,1.81,3.27,3.96
+26.12.2006,2006,Darlington,Mansfield,0,2,1.92,3.17,3.72
+26.12.2006,2006,Hartlepool,Grimsby,2,0,1.76,3.28,4.20
+26.12.2006,2006,Hereford,Bristol Rovers,0,0,2.19,3.22,2.94
+26.12.2006,2006,Lincoln,Boston Utd,2,1,1.66,3.33,4.81
+26.12.2006,2006,Rochdale,Wrexham,2,2,2.26,3.21,2.82
+26.12.2006,2006,Stockport County,Notts Co,2,0,2.17,3.23,2.98
+26.12.2006,2006,Swindon,Wycombe,2,1,2.11,3.19,3.14
+26.12.2006,2006,Torquay,MK Dons,0,2,3.02,3.21,2.14
+26.12.2006,2006,Walsall,Shrewsbury,1,0,1.74,3.33,4.32
+23.12.2006,2006,Boston Utd,Walsall,1,1,2.98,3.20,2.18
+23.12.2006,2006,Bristol Rovers,Accrington,4,0,1.79,3.28,4.13
+23.12.2006,2006,Bury,Hartlepool,0,1,2.34,3.17,2.72
+23.12.2006,2006,Macclesfield,Swindon,2,1,2.89,3.19,2.21
+23.12.2006,2006,MK Dons,Rochdale,2,1,1.52,3.56,5.98
+23.12.2006,2006,Peterborough,Lincoln,1,2,2.18,3.18,2.98
+23.12.2006,2006,Wrexham,Darlington,1,0,2.29,3.18,2.79
+23.12.2006,2006,Wycombe,Stockport County,2,0,1.76,3.30,4.20
+22.12.2006,2006,Grimsby,Torquay,2,0,1.78,3.28,4.16
+22.12.2006,2006,Notts Co,Hereford,0,1,1.85,3.23,3.88
+22.12.2006,2006,Shrewsbury,Barnet,0,1,1.77,3.25,4.16
+16.12.2006,2006,Barnet,Mansfield,2,1,2.16,3.21,3.01
+16.12.2006,2006,Bury,Stockport County,2,0,2.19,3.19,2.93
+16.12.2006,2006,Darlington,Notts Co,0,1,1.99,3.23,3.35
+16.12.2006,2006,Lincoln,Grimsby,2,0,1.90,3.21,3.70
+16.12.2006,2006,Macclesfield,Accrington,3,3,2.06,3.21,3.20
+16.12.2006,2006,MK Dons,Wycombe,3,1,2.07,3.20,3.21
+16.12.2006,2006,Peterborough,Chester,0,2,1.78,3.30,4.15
+16.12.2006,2006,Shrewsbury,Hereford,3,0,2.16,3.17,3.02
+16.12.2006,2006,Swindon,Bristol Rovers,2,1,1.73,3.31,4.34
+16.12.2006,2006,Torquay,Boston Utd,0,1,2.16,3.21,2.99
+16.12.2006,2006,Wrexham,Walsall,1,1,2.79,3.19,2.27
+15.12.2006,2006,Hartlepool,Rochdale,1,0,1.61,3.44,5.08
+09.12.2006,2006,Accrington,MK Dons,3,4,2.62,3.20,2.41
+09.12.2006,2006,Boston Utd,Wrexham,4,0,2.42,3.19,2.60
+09.12.2006,2006,Bristol Rovers,Hartlepool,0,2,2.04,3.23,3.23
+09.12.2006,2006,Chester,Lincoln,4,1,2.57,3.16,2.47
+09.12.2006,2006,Grimsby,Shrewsbury,2,1,2.17,3.21,2.96
+09.12.2006,2006,Hereford,Torquay,1,1,1.66,3.37,4.68
+09.12.2006,2006,Mansfield,Bury,0,2,2.08,3.23,3.15
+09.12.2006,2006,Notts Co,Macclesfield,1,2,1.62,3.46,4.90
+09.12.2006,2006,Rochdale,Peterborough,0,1,2.79,3.21,2.27
+09.12.2006,2006,Stockport County,Darlington,5,2,2.30,3.20,2.74
+09.12.2006,2006,Walsall,Swindon,0,2,1.84,3.27,3.82
+09.12.2006,2006,Wycombe,Barnet,1,1,1.63,3.40,4.92
+05.12.2006,2006,Barnet,Grimsby,0,1,2.13,3.22,3.04
+05.12.2006,2006,Bury,Walsall,1,2,2.79,3.20,2.27
+05.12.2006,2006,Chester,Boston Utd,3,1,1.88,3.23,3.73
+05.12.2006,2006,Hereford,Peterborough,0,0,2.40,3.18,2.65
+05.12.2006,2006,Lincoln,Bristol Rovers,1,0,1.86,3.17,3.85
+05.12.2006,2006,Macclesfield,Rochdale,1,0,2.36,3.18,2.69
+05.12.2006,2006,Mansfield,Swindon,2,0,2.45,3.15,2.61
+05.12.2006,2006,MK Dons,Stockport County,2,0,1.80,3.29,4.03
+05.12.2006,2006,Notts Co,Hartlepool,0,1,1.98,3.22,3.41
+05.12.2006,2006,Torquay,Wrexham,1,1,2.32,3.19,2.74
+05.12.2006,2006,Wycombe,Darlington,1,0,1.95,3.22,3.52
+02.12.2006,2006,Accrington,Shrewsbury,3,3,2.33,3.19,2.73
+26.11.2006,2006,Bristol Rovers,Barnet,2,0,1.91,3.24,3.68
+25.11.2006,2006,Boston Utd,Hereford,1,1,2.37,3.18,2.68
+25.11.2006,2006,Darlington,MK Dons,1,0,2.32,3.17,2.75
+25.11.2006,2006,Grimsby,Accrington,2,0,2.05,3.21,3.23
+25.11.2006,2006,Hartlepool,Wycombe,2,0,2.40,3.16,2.65
+25.11.2006,2006,Peterborough,Torquay,5,2,1.61,3.48,5.02
+25.11.2006,2006,Rochdale,Mansfield,2,0,2.27,3.19,2.79
+25.11.2006,2006,Shrewsbury,Chester,2,1,2.08,3.21,3.18
+25.11.2006,2006,Stockport County,Macclesfield,1,1,1.70,3.35,4.45
+25.11.2006,2006,Swindon,Bury,2,1,1.75,3.28,4.30
+25.11.2006,2006,Walsall,Notts Co,2,1,1.71,3.36,4.39
+25.11.2006,2006,Wrexham,Lincoln,2,1,2.61,3.15,2.46
+18.11.2006,2006,Accrington,Hartlepool,1,2,2.20,3.20,2.90
+18.11.2006,2006,Barnet,Rochdale,3,2,2.05,3.19,3.22
+18.11.2006,2006,Bury,Bristol Rovers,0,2,1.96,3.23,3.44
+18.11.2006,2006,Hereford,Walsall,0,1,2.53,3.18,2.51
+18.11.2006,2006,Lincoln,Darlington,1,3,1.78,3.27,4.13
+18.11.2006,2006,Macclesfield,Boston Utd,2,3,2.11,3.19,3.11
+18.11.2006,2006,Mansfield,Peterborough,0,2,2.28,3.20,2.78
+18.11.2006,2006,MK Dons,Shrewsbury,2,0,1.81,3.26,3.96
+18.11.2006,2006,Notts Co,Wrexham,2,1,1.73,3.30,4.34
+18.11.2006,2006,Torquay,Swindon,0,1,2.76,3.19,2.30
+18.11.2006,2006,Wycombe,Grimsby,1,1,1.60,3.44,5.14
+17.11.2006,2006,Chester,Stockport County,1,1,2.27,3.20,2.80
+07.11.2006,2006,Bury,Wrexham,1,0,1.85,3.25,3.82
+04.11.2006,2006,Boston Utd,Notts Co,3,3,2.72,3.16,2.34
+04.11.2006,2006,Bristol Rovers,Mansfield,1,0,2.14,3.18,3.04
+04.11.2006,2006,Grimsby,MK Dons,1,3,2.59,3.16,2.45
+04.11.2006,2006,Hartlepool,Barnet,0,1,1.66,3.35,4.73
+04.11.2006,2006,Peterborough,Accrington,4,2,1.86,3.25,3.77
+04.11.2006,2006,Rochdale,Bury,1,3,2.37,3.18,2.68
+04.11.2006,2006,Shrewsbury,Wycombe,0,0,2.52,3.17,2.51
+04.11.2006,2006,Stockport County,Lincoln,2,0,2.82,3.13,2.30
+04.11.2006,2006,Swindon,Hereford,1,2,1.81,3.28,4.00
+04.11.2006,2006,Walsall,Torquay,1,0,1.54,3.56,5.58
+04.11.2006,2006,Wrexham,Macclesfield,0,0,1.77,3.26,4.20
+03.11.2006,2006,Darlington,Chester,1,0,1.92,3.25,3.57
+28.10.2006,2006,Barnet,Chester,1,0,2.40,3.20,2.63
+28.10.2006,2006,Boston Utd,Wycombe,0,1,2.89,3.20,2.21
+28.10.2006,2006,Hartlepool,Darlington,0,0,2.07,3.18,3.23
+28.10.2006,2006,Hereford,Accrington,1,0,2.10,3.21,3.13
+28.10.2006,2006,Macclesfield,Mansfield,2,3,2.50,3.19,2.52
+28.10.2006,2006,Notts Co,Bury,0,1,1.72,3.32,4.42
+28.10.2006,2006,Peterborough,Grimsby,2,2,1.74,3.32,4.30
+28.10.2006,2006,Rochdale,Stockport County,1,3,2.17,3.21,2.97
+28.10.2006,2006,Swindon,Lincoln,0,1,2.21,3.22,2.87
+28.10.2006,2006,Torquay,Shrewsbury,0,0,2.30,3.20,2.76
+28.10.2006,2006,Walsall,MK Dons,0,0,1.80,3.29,4.00
+28.10.2006,2006,Wrexham,Bristol Rovers,2,0,2.23,3.20,2.88
+21.10.2006,2006,Accrington,Walsall,1,2,2.67,3.19,2.37
+21.10.2006,2006,Bristol Rovers,Macclesfield,0,0,1.55,3.63,5.07
+21.10.2006,2006,Bury,Boston Utd,2,1,1.96,3.22,3.47
+21.10.2006,2006,Darlington,Barnet,2,0,1.79,3.27,4.01
+21.10.2006,2006,Grimsby,Notts Co,0,2,2.37,3.29,2.62
+21.10.2006,2006,Lincoln,Rochdale,7,1,1.70,3.31,4.51
+21.10.2006,2006,Mansfield,Wrexham,3,0,1.99,3.24,3.34
+21.10.2006,2006,MK Dons,Hereford,1,3,1.63,3.42,4.89
+21.10.2006,2006,Shrewsbury,Swindon,1,2,2.47,3.23,2.54
+21.10.2006,2006,Stockport County,Torquay,1,0,2.10,3.18,3.21
+21.10.2006,2006,Wycombe,Peterborough,2,0,1.91,3.27,3.49
+20.10.2006,2006,Chester,Hartlepool,2,1,2.27,3.21,2.81
+14.10.2006,2006,Barnet,Lincoln,0,5,2.84,3.18,2.26
+14.10.2006,2006,Boston Utd,Mansfield,1,1,2.21,3.20,2.90
+14.10.2006,2006,Hartlepool,Stockport County,1,1,1.67,3.35,4.67
+14.10.2006,2006,Hereford,Darlington,1,1,NA,2.09,3.12
+14.10.2006,2006,Macclesfield,Bury,2,3,2.35,3.20,2.69
+14.10.2006,2006,Notts Co,Bristol Rovers,1,2,1.75,3.29,4.25
+14.10.2006,2006,Peterborough,Shrewsbury,2,1,2.06,3.19,3.22
+14.10.2006,2006,Rochdale,Chester,0,0,2.07,3.22,3.17
+14.10.2006,2006,Swindon,Grimsby,3,0,1.64,3.42,4.78
+14.10.2006,2006,Torquay,Accrington,0,2,2.10,3.21,3.09
+14.10.2006,2006,Walsall,Wycombe,2,0,1.97,3.19,3.48
+14.10.2006,2006,Wrexham,MK Dons,1,2,2.38,3.18,2.65
+08.10.2006,2006,Grimsby,Hereford,2,1,2.14,3.21,3.03
+07.10.2006,2006,Accrington,Swindon,1,1,2.52,3.18,2.51
+07.10.2006,2006,Bristol Rovers,Boston Utd,1,0,1.95,3.22,3.51
+07.10.2006,2006,Mansfield,Notts Co,2,2,2.46,3.16,2.58
+07.10.2006,2006,Stockport County,Barnet,2,0,2.14,3.14,3.09
+06.10.2006,2006,Chester,Walsall,0,0,2.74,3.18,2.33
+06.10.2006,2006,Darlington,Rochdale,0,5,1.87,3.23,3.77
+06.10.2006,2006,Lincoln,Hartlepool,2,0,2.24,3.12,2.91
+06.10.2006,2006,MK Dons,Peterborough,0,2,1.81,3.29,3.96
+06.10.2006,2006,Shrewsbury,Macclesfield,2,1,1.66,3.46,4.61
+06.10.2006,2006,Wycombe,Torquay,2,0,1.76,3.28,4.25
+30.09.2006,2006,Accrington,Wycombe,2,1,2.69,3.16,2.36
+30.09.2006,2006,Barnet,MK Dons,3,3,2.74,3.22,2.28
+30.09.2006,2006,Chester,Bristol Rovers,2,0,2.06,3.19,3.17
+30.09.2006,2006,Hartlepool,Wrexham,3,0,1.81,3.26,3.98
+30.09.2006,2006,Hereford,Macclesfield,1,0,1.90,3.22,3.68
+30.09.2006,2006,Lincoln,Bury,0,2,1.54,3.52,5.55
+30.09.2006,2006,Rochdale,Shrewsbury,1,1,2.35,3.19,2.68
+30.09.2006,2006,Stockport County,Peterborough,0,1,2.24,3.21,2.82
+30.09.2006,2006,Swindon,Boston Utd,1,1,1.51,3.61,5.72
+30.09.2006,2006,Torquay,Notts Co,0,1,2.23,3.18,2.86
+30.09.2006,2006,Walsall,Mansfield,4,0,1.60,3.47,5.07
+29.09.2006,2006,Darlington,Grimsby,2,2,1.79,3.31,4.02
+27.09.2006,2006,Boston Utd,Lincoln,1,0,3.17,3.21,2.07
+27.09.2006,2006,Bristol Rovers,Hereford,2,1,2.12,3.20,3.08
+27.09.2006,2006,Wrexham,Rochdale,1,2,1.77,3.28,4.18
+26.09.2006,2006,Bury,Accrington,2,2,2.26,3.20,2.79
+26.09.2006,2006,Grimsby,Hartlepool,1,4,2.26,3.18,2.80
+26.09.2006,2006,Macclesfield,Chester,1,1,2.42,3.17,2.62
+26.09.2006,2006,Mansfield,Darlington,1,0,2.27,3.20,2.78
+26.09.2006,2006,MK Dons,Torquay,3,2,1.74,3.31,4.31
+26.09.2006,2006,Notts Co,Stockport County,1,0,1.73,3.31,4.33
+26.09.2006,2006,Peterborough,Barnet,1,1,1.80,3.27,3.99
+26.09.2006,2006,Shrewsbury,Walsall,1,1,2.41,3.17,2.62
+26.09.2006,2006,Wycombe,Swindon,1,1,2.23,3.18,2.87
+24.09.2006,2006,Wrexham,Hereford,1,0,1.96,3.21,3.45
+23.09.2006,2006,Boston Utd,Rochdale,0,3,1.98,3.21,3.37
+23.09.2006,2006,Bristol Rovers,Walsall,1,2,2.48,3.16,2.55
+23.09.2006,2006,Bury,Barnet,2,2,2.18,3.17,2.96
+23.09.2006,2006,Grimsby,Stockport County,0,1,1.83,3.24,3.92
+23.09.2006,2006,Macclesfield,Torquay,3,3,2.49,3.19,2.52
+23.09.2006,2006,Mansfield,Accrington,2,2,2.03,3.20,3.23
+23.09.2006,2006,MK Dons,Chester,1,2,1.64,3.42,4.79
+23.09.2006,2006,Notts Co,Swindon,1,1,2.39,3.16,2.65
+23.09.2006,2006,Peterborough,Hartlepool,3,5,1.95,3.21,3.52
+23.09.2006,2006,Shrewsbury,Darlington,2,2,2.05,3.21,3.22
+23.09.2006,2006,Wycombe,Lincoln,1,3,1.95,3.18,3.49
+16.09.2006,2006,Accrington,Boston Utd,2,1,1.96,3.23,3.42
+16.09.2006,2006,Barnet,Notts Co,2,3,2.26,3.19,2.80
+16.09.2006,2006,Chester,Grimsby,0,2,2.20,3.20,2.89
+16.09.2006,2006,Darlington,Bristol Rovers,1,1,1.70,3.27,4.53
+16.09.2006,2006,Hartlepool,Shrewsbury,0,3,2.06,3.18,3.20
+16.09.2006,2006,Hereford,Bury,1,0,1.90,3.20,3.63
+16.09.2006,2006,Lincoln,MK Dons,2,3,2.19,3.21,2.91
+16.09.2006,2006,Rochdale,Wycombe,0,2,2.92,3.18,2.20
+16.09.2006,2006,Stockport County,Wrexham,5,2,2.63,3.19,2.39
+16.09.2006,2006,Swindon,Peterborough,0,1,1.60,3.43,5.13
+16.09.2006,2006,Torquay,Mansfield,1,0,2.02,3.20,3.27
+16.09.2006,2006,Walsall,Macclesfield,2,0,1.48,3.58,6.40
+13.09.2006,2006,Accrington,Wrexham,5,0,2.63,3.16,2.38
+13.09.2006,2006,Torquay,Bristol Rovers,0,0,1.97,3.18,3.43
+12.09.2006,2006,Barnet,Boston Utd,3,3,1.84,3.26,3.78
+12.09.2006,2006,Chester,Notts Co,0,0,2.26,3.18,2.78
+12.09.2006,2006,Darlington,Bury,1,0,1.64,3.37,4.75
+12.09.2006,2006,Hartlepool,Mansfield,2,0,2.12,3.17,3.07
+12.09.2006,2006,Hereford,Wycombe,1,2,2.65,3.15,2.38
+12.09.2006,2006,Lincoln,Macclesfield,2,1,1.50,3.53,5.99
+12.09.2006,2006,Rochdale,Grimsby,1,0,2.39,3.15,2.64
+12.09.2006,2006,Stockport County,Shrewsbury,0,3,2.28,3.17,2.74
+12.09.2006,2006,Swindon,MK Dons,2,1,1.86,3.24,3.73
+12.09.2006,2006,Walsall,Peterborough,5,0,1.84,3.25,3.79
+09.09.2006,2006,Boston Utd,Stockport County,2,1,2.04,3.14,3.26
+09.09.2006,2006,Bristol Rovers,Rochdale,0,0,1.79,3.27,4.02
+09.09.2006,2006,Bury,Torquay,0,1,2.19,3.18,2.91
+09.09.2006,2006,Grimsby,Walsall,2,1,2.50,3.13,2.50
+09.09.2006,2006,Macclesfield,Barnet,2,3,2.25,3.19,2.79
+09.09.2006,2006,Mansfield,Hereford,4,1,2.07,3.18,3.15
+09.09.2006,2006,MK Dons,Hartlepool,0,0,1.70,3.34,4.38
+09.09.2006,2006,Notts Co,Accrington,3,2,1.84,3.24,3.77
+09.09.2006,2006,Peterborough,Darlington,1,3,1.90,3.23,3.59
+09.09.2006,2006,Shrewsbury,Lincoln,0,1,2.28,3.18,2.75
+09.09.2006,2006,Wrexham,Swindon,2,1,2.62,3.18,2.40
+09.09.2006,2006,Wycombe,Chester,1,0,1.67,3.33,4.57
+03.09.2006,2006,Peterborough,Bury,0,1,1.56,3.46,5.47
+03.09.2006,2006,Stockport County,Bristol Rovers,2,1,2.31,3.18,2.76
+02.09.2006,2006,Barnet,Walsall,1,1,2.71,3.20,2.32
+02.09.2006,2006,MK Dons,Notts Co,3,2,1.74,3.32,4.22
+02.09.2006,2006,Rochdale,Hereford,1,1,2.35,3.20,2.66
+01.09.2006,2006,Chester,Swindon,0,2,2.71,3.18,2.32
+01.09.2006,2006,Darlington,Torquay,1,1,1.77,3.27,4.14
+01.09.2006,2006,Grimsby,Macclesfield,1,1,1.72,3.33,4.39
+01.09.2006,2006,Hartlepool,Boston Utd,2,1,1.88,3.27,3.69
+01.09.2006,2006,Lincoln,Accrington,3,1,1.72,3.36,4.31
+01.09.2006,2006,Wycombe,Mansfield,1,0,1.77,3.27,4.16
+26.08.2006,2006,Accrington,Rochdale,1,1,1.82,3.24,3.93
+26.08.2006,2006,Boston Utd,MK Dons,0,1,2.72,3.18,2.33
+26.08.2006,2006,Bristol Rovers,Shrewsbury,1,0,2.27,3.21,2.79
+26.08.2006,2006,Bury,Grimsby,3,0,2.57,3.19,2.44
+26.08.2006,2006,Hereford,Hartlepool,3,1,2.18,3.21,2.91
+26.08.2006,2006,Macclesfield,Wycombe,0,2,2.74,3.21,2.30
+26.08.2006,2006,Mansfield,Lincoln,2,4,2.28,3.19,2.76
+26.08.2006,2006,Notts Co,Peterborough,0,0,2.41,3.18,2.62
+26.08.2006,2006,Swindon,Stockport County,2,0,1.51,3.54,6.09
+26.08.2006,2006,Torquay,Chester,2,2,2.14,3.22,3.00
+26.08.2006,2006,Walsall,Darlington,1,0,1.90,3.25,3.65
+26.08.2006,2006,Wrexham,Barnet,1,1,1.66,3.37,4.73
+20.08.2006,2006,Chester,Wrexham,1,2,2.17,3.18,2.96
+19.08.2006,2006,Barnet,Hereford,3,0,2.42,3.16,2.63
+19.08.2006,2006,Darlington,Swindon,1,2,2.24,3.19,2.84
+19.08.2006,2006,Hartlepool,Torquay,1,1,1.85,3.22,3.83
+19.08.2006,2006,Lincoln,Walsall,2,2,2.29,3.18,2.78
+19.08.2006,2006,MK Dons,Bristol Rovers,2,0,1.71,3.30,4.44
+19.08.2006,2006,Peterborough,Macclesfield,3,1,1.61,3.40,5.06
+19.08.2006,2006,Rochdale,Notts Co,0,1,2.33,3.17,2.74
+19.08.2006,2006,Shrewsbury,Boston Utd,5,0,2.01,3.19,3.35
+19.08.2006,2006,Wycombe,Bury,3,0,1.61,3.38,5.10
+18.08.2006,2006,Grimsby,Mansfield,1,1,2.03,3.15,3.28
+18.08.2006,2006,Stockport County,Accrington,1,1,2.23,3.18,2.88
+12.08.2006,2006,Accrington,Barnet,2,1,1.87,3.24,3.78
+12.08.2006,2006,Boston Utd,Darlington,4,1,2.52,3.22,2.50
+12.08.2006,2006,Bristol Rovers,Grimsby,1,0,2.26,3.20,2.81
+12.08.2006,2006,Bury,Shrewsbury,1,2,2.36,3.18,2.68
+12.08.2006,2006,Hereford,Chester,2,0,2.25,3.21,2.82
+12.08.2006,2006,Macclesfield,MK Dons,1,2,2.77,3.20,2.28
+12.08.2006,2006,Mansfield,Stockport County,1,1,1.78,3.26,4.09
+12.08.2006,2006,Notts Co,Wycombe,1,0,2.43,3.19,2.60
+12.08.2006,2006,Swindon,Rochdale,1,0,1.57,3.52,5.42
+12.08.2006,2006,Torquay,Lincoln,1,2,2.21,3.21,2.88
+12.08.2006,2006,Walsall,Hartlepool,2,0,2.00,3.22,3.32
+12.08.2006,2006,Wrexham,Peterborough,0,0,2.24,3.22,2.82
+09.08.2006,2006,Boston Utd,Peterborough,0,1,2.38,3.17,2.65
+08.08.2006,2006,Accrington,Darlington,0,2,2.53,3.22,2.47
+08.08.2006,2006,Bristol Rovers,Wycombe,1,2,2.32,3.20,2.72
+08.08.2006,2006,Bury,Chester,1,3,2.38,3.15,2.66
+08.08.2006,2006,Hereford,Lincoln,1,2,2.15,3.20,2.97
+08.08.2006,2006,Macclesfield,Hartlepool,0,0,2.53,3.19,2.47
+08.08.2006,2006,Mansfield,MK Dons,2,1,2.53,3.19,2.50
+08.08.2006,2006,Notts Co,Shrewsbury,1,1,2.19,3.18,2.96
+08.08.2006,2006,Swindon,Barnet,2,1,1.54,3.52,5.74
+08.08.2006,2006,Torquay,Rochdale,1,0,1.92,3.25,3.53
+08.08.2006,2006,Walsall,Stockport County,2,0,1.62,3.47,4.89
+08.08.2006,2006,Wrexham,Grimsby,3,0,2.17,3.21,2.96
+05.08.2006,2006,Barnet,Torquay,0,1,2.18,3.18,2.95
+05.08.2006,2006,Chester,Accrington,2,0,2.11,3.17,3.15
+05.08.2006,2006,Darlington,Macclesfield,4,0,1.73,3.31,4.30
+05.08.2006,2006,Grimsby,Boston Utd,3,2,1.86,3.24,3.83
+05.08.2006,2006,Hartlepool,Swindon,0,1,2.12,3.17,3.06
+05.08.2006,2006,Lincoln,Notts Co,1,1,2.01,3.19,3.33
+05.08.2006,2006,MK Dons,Bury,2,1,1.62,3.41,4.97
+05.08.2006,2006,Peterborough,Bristol Rovers,4,1,2.04,3.21,3.21
+05.08.2006,2006,Rochdale,Walsall,0,1,2.43,3.17,2.59
+05.08.2006,2006,Shrewsbury,Mansfield,2,2,1.92,3.24,3.56
+05.08.2006,2006,Stockport County,Hereford,0,2,2.21,3.17,2.90
+05.08.2006,2006,Wycombe,Wrexham,1,1,1.91,3.14,3.70

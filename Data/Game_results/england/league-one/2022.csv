@@ -1,257 +1,299 @@
 Date,Season_Year,Home_Team,Away_Team,Home_Goal,Away_Goal,Home_Odds,Draw_Odds,Away_Odds
-17.12.,2022,Barnsley,Burton,2,0,1.73,3.74,4.49
-17.12.,2022,Bolton,Exeter,2,0,1.98,3.49,3.61
-17.12.,2022,Charlton,Bristol Rovers,1,2,2.13,3.48,3.19
-17.12.,2022,Derby,Forest Green,4,0,2.80,3.10,2.50
-17.12.,2022,Plymouth,Morecambe,2,1,1.41,4.55,7.19
-17.12.,2022,Portsmouth,MK Dons,0,2,2.20,3.30,3.23
-17.12.,2022,Sheffield Wed,Oxford Utd,0,0,1.50,4.33,5.78
-17.12.,2022,Wycombe,Ipswich,1,0,1.84,3.55,4.13
-10.12.,2022,Bristol Rovers,Port Vale,1,0,1.83,3.61,4.08
-10.12.,2022,Burton,Derby,1,1,3.83,3.51,1.91
-10.12.,2022,Cambridge Utd,Plymouth,0,0,2.58,3.24,2.67
-10.12.,2022,Exeter,Sheffield Wed,1,1,3.76,3.47,1.94
-10.12.,2022,Forest Green,Cheltenham,1,0,3.14,3.55,2.13
-10.12.,2022,Ipswich,Peterborough,2,1,3.89,3.36,1.94
-10.12.,2022,Lincoln,Wycombe,0,0,2.45,3.22,2.87
-10.12.,2022,MK Dons,Fleetwood,1,2,1.58,3.91,5.57
-10.12.,2022,Shrewsbury,Bolton,3,2,2.99,3.21,2.37
-04.12.,2022,Wycombe,Portsmouth,2,0,2.09,3.27,3.49
-03.12.,2022,Accrington,Oxford Utd,1,1,3.65,3.50,2.05
-03.12.,2022,Derby,Sheffield Wed,0,0,3.29,3.18,2.23
-03.12.,2022,Forest Green,Cambridge Utd,2,1,2.61,3.38,2.56
-03.12.,2022,MK Dons,Burton,1,1,3.17,3.53,2.12
-03.12.,2022,Shrewsbury,Lincoln,2,0,2.95,3.39,2.30
-02.12.,2022,Bolton,Bristol Rovers,1,1,2.38,3.36,2.85
-02.12.,2022,Charlton,Cheltenham,0,1,2.36,3.32,2.91
-02.12.,2022,Ipswich,Fleetwood,1,1,2.33,3.08,3.18
-02.12.,2022,Morecambe,Exeter,1,1,1.75,3.69,4.40
-02.12.,2022,Peterborough,Barnsley,1,2,1.66,3.73,5.03
-02.12.,2022,Plymouth,Port Vale,0,2,1.24,5.57,12.03
-19.11.,2022,Barnsley,MK Dons,3,1,3.32,3.34,2.14
-19.11.,2022,Bristol Rovers,Peterborough,1,0,2.26,3.32,3.08
-19.11.,2022,Burton,Plymouth,2,2,2.12,3.36,3.30
-19.11.,2022,Cambridge Utd,Accrington,0,1,1.86,3.41,4.17
-19.11.,2022,Cheltenham,Wycombe,1,0,2.82,3.57,2.30
-19.11.,2022,Exeter,Ipswich,0,2,2.56,3.55,2.53
-19.11.,2022,Fleetwood,Bolton,1,2,2.26,3.43,2.99
-19.11.,2022,Lincoln,Morecambe,2,1,3.42,3.51,2.03
-19.11.,2022,Oxford Utd,Forest Green,1,1,4.43,3.72,1.74
-19.11.,2022,Port Vale,Charlton,1,0,3.23,3.33,2.19
-19.11.,2022,Sheffield Wed,Shrewsbury,1,0,1.82,3.54,4.24
-18.11.,2022,Portsmouth,Derby,0,0,1.46,4.57,6.16
-12.11.,2022,Accrington,Sheffield Wed,0,1,2.34,3.30,2.94
-12.11.,2022,Bristol Rovers,Fleetwood,2,2,1.42,4.46,7.36
-12.11.,2022,Burton,Charlton,3,3,2.16,3.37,3.25
-12.11.,2022,Cambridge Utd,Bolton,0,0,4.79,3.89,1.66
-12.11.,2022,Exeter,Peterborough,3,2,1.99,3.42,3.65
-12.11.,2022,Forest Green,Wycombe,0,2,2.74,3.37,2.44
-12.11.,2022,Ipswich,Cheltenham,1,1,3.92,3.54,1.89
-12.11.,2022,Lincoln,Plymouth,1,1,2.60,3.45,2.52
-12.11.,2022,MK Dons,Derby,1,3,3.69,3.70,1.89
-12.11.,2022,Morecambe,Portsmouth,1,1,1.24,5.81,11.76
-12.11.,2022,Oxford Utd,Port Vale,4,0,2.68,3.38,2.51
-12.11.,2022,Shrewsbury,Barnsley,0,1,3.13,3.20,2.28
-09.11.,2022,Shrewsbury,Oxford Utd,1,1,5.06,3.84,1.64
-01.11.,2022,Oxford Utd,Fleetwood,1,1,2.26,3.22,3.15
-01.11.,2022,Lincoln,Accrington,1,1,2.90,3.10,2.50
-01.11.,2022,Morecambe,Derby,1,1,3.05,3.23,2.31
-01.11.,2022,Wycombe,Port Vale,2,2,1.89,3.51,3.93
-31.10.,2022,Plymouth,Exeter,4,2,2.40,3.34,2.84
-29.10.,2022,Barnsley,Forest Green,2,0,5.37,3.84,1.61
-29.10.,2022,Bolton,Oxford Utd,1,3,2.22,3.27,3.23
-29.10.,2022,Charlton,Ipswich,4,4,1.94,3.57,3.65
-29.10.,2022,Cheltenham,MK Dons,0,0,1.51,4.15,5.95
-29.10.,2022,Derby,Bristol Rovers,4,2,1.93,3.48,3.84
-29.10.,2022,Fleetwood,Accrington,3,0,3.73,3.39,1.98
-29.10.,2022,Peterborough,Cambridge Utd,1,0,2.61,3.05,2.81
-29.10.,2022,Portsmouth,Shrewsbury,1,1,1.73,3.81,4.41
-29.10.,2022,Port Vale,Lincoln,1,0,2.20,3.48,3.07
-29.10.,2022,Sheffield Wed,Burton,4,2,1.47,4.36,6.32
-29.10.,2022,Wycombe,Morecambe,1,1,1.81,3.55,4.31
-26.10.,2022,Sheffield Wed,Bristol Rovers,1,1,1.94,3.30,4.05
-25.10.,2022,Barnsley,Lincoln,0,1,1.47,4.38,6.40
-25.10.,2022,Bolton,Burton,2,1,1.50,4.39,5.89
-25.10.,2022,Charlton,MK Dons,0,2,1.45,4.57,6.29
-25.10.,2022,Cheltenham,Morecambe,1,0,1.88,3.44,4.09
-25.10.,2022,Derby,Exeter,0,0,1.76,3.59,4.52
-25.10.,2022,Fleetwood,Forest Green,1,1,1.71,3.68,4.77
-25.10.,2022,Peterborough,Accrington,3,1,2.22,3.19,3.28
-25.10.,2022,Plymouth,Shrewsbury,2,1,2.16,3.39,3.24
-25.10.,2022,Portsmouth,Oxford Utd,1,1,1.99,3.42,3.69
-25.10.,2022,Port Vale,Ipswich,2,3,1.58,4.12,5.26
-25.10.,2022,Wycombe,Cambridge Utd,2,3,1.92,3.44,3.93
-22.10.,2022,Accrington,Bolton,2,3,2.16,3.35,3.25
-22.10.,2022,Bristol Rovers,Plymouth,2,2,4.14,3.03,2.01
-22.10.,2022,Burton,Cheltenham,1,0,1.72,3.76,4.54
-22.10.,2022,Cambridge Utd,Port Vale,0,1,3.12,3.42,2.20
-22.10.,2022,Exeter,Fleetwood,2,1,2.84,3.61,2.29
-22.10.,2022,Forest Green,Portsmouth,0,1,2.10,3.34,3.47
-22.10.,2022,Lincoln,Sheffield Wed,1,1,3.04,3.19,2.35
-22.10.,2022,MK Dons,Wycombe,0,1,1.93,3.48,3.82
-22.10.,2022,Morecambe,Barnsley,1,0,4.21,3.54,1.83
-22.10.,2022,Oxford Utd,Peterborough,1,2,4.65,3.76,1.70
-22.10.,2022,Shrewsbury,Charlton,0,1,3.04,3.28,2.32
-21.10.,2022,Ipswich,Derby,1,0,4.49,3.66,1.76
-17.10.,2022,Charlton,Portsmouth,3,0,2.24,3.60,2.93
-15.10.,2022,Accrington,Derby,0,3,2.99,3.20,2.38
-15.10.,2022,Bolton,Barnsley,0,0,1.72,3.71,4.63
-15.10.,2022,Burton,Morecambe,1,1,2.68,3.29,2.55
-15.10.,2022,Cambridge Utd,Sheffield Wed,0,2,3.18,3.42,2.16
-15.10.,2022,Cheltenham,Bristol Rovers,1,4,2.15,3.33,3.32
-15.10.,2022,Exeter,Oxford Utd,2,4,1.79,3.69,4.24
-15.10.,2022,Fleetwood,Shrewsbury,0,1,4.72,3.74,1.71
-15.10.,2022,Ipswich,Lincoln,0,1,2.48,3.29,2.78
-15.10.,2022,MK Dons,Plymouth,1,4,2.50,3.28,2.75
-15.10.,2022,Port Vale,Forest Green,2,2,2.30,3.06,3.26
-15.10.,2022,Wycombe,Peterborough,3,1,1.33,4.82,9.16
-11.10.,2022,Charlton,Exeter,4,2,2.76,3.25,2.52
-11.10.,2022,MK Dons,Bristol Rovers,0,1,1.91,3.43,4.01
-11.10.,2022,Peterborough,Forest Green,4,1,2.78,3.44,2.40
-08.10.,2022,Barnsley,Exeter,0,2,2.14,3.38,3.27
-08.10.,2022,Bristol Rovers,Cambridge Utd,2,1,2.07,3.43,3.43
-08.10.,2022,Derby,Port Vale,1,2,1.45,4.46,6.57
-08.10.,2022,Forest Green,Bolton,1,0,2.15,3.40,3.25
-08.10.,2022,Lincoln,Charlton,0,0,2.19,3.46,3.10
-08.10.,2022,Morecambe,Ipswich,1,2,1.94,3.40,3.86
-08.10.,2022,Oxford Utd,Wycombe,0,1,4.13,3.57,1.83
-08.10.,2022,Peterborough,Burton,1,1,3.15,3.39,2.19
-08.10.,2022,Plymouth,Accrington,3,0,8.58,4.47,1.37
-08.10.,2022,Portsmouth,Fleetwood,1,1,2.20,3.43,3.12
-08.10.,2022,Sheffield Wed,Cheltenham,3,0,1.60,4.13,4.95
-08.10.,2022,Shrewsbury,MK Dons,2,1,1.68,4.07,4.38
-04.10.,2022,Burton,Fleetwood,0,1,1.63,3.86,5.13
-04.10.,2022,Cheltenham,Bolton,1,0,1.39,4.54,7.86
-04.10.,2022,Ipswich,Cambridge Utd,3,0,2.36,3.12,3.10
-04.10.,2022,Plymouth,Sheffield Wed,2,1,2.19,3.51,3.05
-01.10.,2022,Accrington,Morecambe,3,1,3.94,3.41,1.92
-01.10.,2022,Bolton,Lincoln,2,0,1.33,4.85,9.12
-01.10.,2022,Burton,Forest Green,3,2,2.89,3.37,2.34
-01.10.,2022,Cambridge Utd,Derby,0,2,1.80,3.65,4.25
-01.10.,2022,Charlton,Oxford Utd,1,1,1.68,3.72,4.92
-01.10.,2022,Cheltenham,Shrewsbury,2,0,1.76,3.72,4.37
-01.10.,2022,Exeter,Bristol Rovers,2,2,3.71,3.46,1.97
-01.10.,2022,Fleetwood,Barnsley,0,1,2.27,3.49,2.94
-01.10.,2022,Ipswich,Portsmouth,3,2,2.53,3.06,2.90
-01.10.,2022,MK Dons,Peterborough,2,3,1.61,3.99,5.13
-01.10.,2022,Port Vale,Sheffield Wed,0,1,3.03,3.28,2.31
-01.10.,2022,Wycombe,Plymouth,0,1,1.75,3.60,4.58
-25.09.,2022,Plymouth,Ipswich,2,1,3.06,3.39,2.25
-24.09.,2022,Barnsley,Charlton,3,1,4.01,3.37,1.92
-24.09.,2022,Bristol Rovers,Accrington,0,1,2.45,3.47,2.70
-24.09.,2022,Forest Green,Exeter,0,4,3.30,3.35,2.15
-24.09.,2022,Morecambe,Cambridge Utd,1,2,2.44,3.35,2.78
-24.09.,2022,Peterborough,Port Vale,3,0,2.52,3.43,2.64
-24.09.,2022,Sheffield Wed,Wycombe,3,1,3.44,3.39,2.07
-24.09.,2022,Shrewsbury,Burton,2,1,2.60,3.20,2.69
-17.09.,2022,Accrington,Cheltenham,1,0,2.14,3.38,3.27
-17.09.,2022,Bolton,Peterborough,1,0,1.61,3.97,5.14
-17.09.,2022,Bristol Rovers,Lincoln,3,6,2.32,3.17,3.11
-17.09.,2022,Cambridge Utd,Barnsley,0,3,1.95,3.48,3.75
-17.09.,2022,Derby,Wycombe,2,1,1.99,3.43,3.64
-17.09.,2022,Exeter,Burton,0,2,2.64,3.31,2.58
-17.09.,2022,Fleetwood,Charlton,1,1,2.89,3.13,2.48
-17.09.,2022,Forest Green,Morecambe,1,2,2.03,3.38,3.58
-17.09.,2022,Oxford Utd,MK Dons,1,2,1.68,3.71,4.90
-17.09.,2022,Portsmouth,Plymouth,2,2,2.97,3.28,2.34
-17.09.,2022,Port Vale,Shrewsbury,2,1,1.86,3.51,4.07
-17.09.,2022,Sheffield Wed,Ipswich,2,2,1.99,3.35,3.76
-13.09.,2022,Barnsley,Port Vale,1,1,1.89,3.58,3.87
-13.09.,2022,Burton,Portsmouth,0,2,2.59,2.92,2.95
-13.09.,2022,Charlton,Forest Green,1,1,2.79,3.06,2.62
-13.09.,2022,Cheltenham,Cambridge Utd,2,1,2.17,3.12,3.49
-13.09.,2022,Ipswich,Bristol Rovers,2,0,3.63,3.66,1.94
-13.09.,2022,Lincoln,Derby,2,0,1.71,3.76,4.58
-13.09.,2022,MK Dons,Bolton,0,2,2.67,3.33,2.55
-13.09.,2022,Morecambe,Sheffield Wed,0,3,1.24,5.73,12.04
-13.09.,2022,Peterborough,Fleetwood,0,1,3.69,3.29,2.03
-13.09.,2022,Plymouth,Oxford Utd,1,0,2.67,3.31,2.56
-13.09.,2022,Shrewsbury,Exeter,3,2,5.77,3.98,1.56
-13.09.,2022,Wycombe,Accrington,1,0,1.63,4.08,4.74
-06.09.,2022,Forest Green,Accrington,2,1,2.12,3.47,3.24
-03.09.,2022,Accrington,Ipswich,0,2,2.88,3.06,2.53
-03.09.,2022,Bolton,Charlton,3,1,1.91,3.69,3.64
-03.09.,2022,Bristol Rovers,Morecambe,2,2,2.43,3.29,2.86
-03.09.,2022,Cambridge Utd,Lincoln,2,0,4.52,3.81,1.73
-03.09.,2022,Derby,Plymouth,2,3,2.21,3.40,3.14
-03.09.,2022,Exeter,MK Dons,1,0,2.02,3.50,3.54
-03.09.,2022,Fleetwood,Wycombe,1,1,2.05,3.40,3.53
-03.09.,2022,Forest Green,Shrewsbury,0,2,1.78,3.58,4.49
-03.09.,2022,Oxford Utd,Burton,2,1,2.07,3.33,3.60
-03.09.,2022,Portsmouth,Peterborough,2,1,3.16,3.36,2.22
-03.09.,2022,Port Vale,Cheltenham,2,2,2.74,3.00,2.73
-03.09.,2022,Sheffield Wed,Barnsley,0,2,1.79,3.79,4.20
-27.08.,2022,Accrington,Exeter,0,0,2.01,3.61,3.45
-27.08.,2022,Bristol Rovers,Shrewsbury,1,1,1.87,3.43,4.23
-27.08.,2022,Cambridge Utd,Burton,4,3,1.63,3.83,5.20
-27.08.,2022,Cheltenham,Oxford Utd,1,2,2.70,3.46,2.46
-27.08.,2022,Derby,Peterborough,2,1,2.88,3.11,2.53
-27.08.,2022,Ipswich,Barnsley,2,2,2.26,3.37,3.06
-27.08.,2022,Lincoln,Fleetwood,2,2,3.52,3.53,2.01
-27.08.,2022,Morecambe,MK Dons,0,4,2.09,3.42,3.39
-27.08.,2022,Plymouth,Bolton,2,0,1.48,4.08,6.80
-27.08.,2022,Port Vale,Portsmouth,0,1,2.11,3.30,3.49
-27.08.,2022,Sheffield Wed,Forest Green,5,0,3.28,3.11,2.26
-27.08.,2022,Wycombe,Charlton,1,1,2.25,3.35,3.11
-20.08.,2022,Barnsley,Wycombe,0,3,3.02,3.22,2.36
-20.08.,2022,Bolton,Sheffield Wed,0,2,1.47,4.22,6.80
-20.08.,2022,Burton,Port Vale,0,2,2.42,3.24,2.92
-20.08.,2022,Charlton,Cambridge Utd,1,1,2.13,3.33,3.37
-20.08.,2022,Exeter,Cheltenham,0,1,2.77,3.29,2.50
-20.08.,2022,Fleetwood,Derby,0,0,2.75,3.18,2.59
-20.08.,2022,Forest Green,Plymouth,0,3,1.78,3.68,4.32
-20.08.,2022,MK Dons,Accrington,1,1,1.59,3.92,5.50
-20.08.,2022,Oxford Utd,Morecambe,1,1,4.34,3.50,1.82
-20.08.,2022,Peterborough,Lincoln,4,0,2.40,3.36,2.85
-20.08.,2022,Portsmouth,Bristol Rovers,3,1,2.06,3.32,3.61
-20.08.,2022,Shrewsbury,Ipswich,0,3,1.56,4.12,5.53
-16.08.,2022,Barnsley,Bristol Rovers,3,0,1.88,3.76,3.79
-16.08.,2022,Bolton,Morecambe,1,0,1.64,3.91,5.03
-16.08.,2022,Burton,Ipswich,0,1,3.82,3.13,2.08
-16.08.,2022,Charlton,Plymouth,5,1,2.10,3.46,3.32
-16.08.,2022,Exeter,Wycombe,3,1,1.48,4.36,6.36
-16.08.,2022,Fleetwood,Cheltenham,0,0,4.95,3.91,1.65
-16.08.,2022,MK Dons,Port Vale,2,1,2.29,3.37,3.00
-16.08.,2022,Oxford Utd,Lincoln,1,2,2.09,3.39,3.43
-16.08.,2022,Peterborough,Sheffield Wed,2,0,1.96,3.51,3.70
-16.08.,2022,Portsmouth,Cambridge Utd,4,1,2.16,3.12,3.54
-16.08.,2022,Shrewsbury,Derby,0,0,1.86,3.56,4.03
-13.08.,2022,Accrington,Burton,4,4,2.84,3.29,2.43
-13.08.,2022,Bristol Rovers,Oxford Utd,1,0,1.59,3.92,5.45
-13.08.,2022,Cambridge Utd,Exeter,2,1,3.07,3.04,2.41
-13.08.,2022,Cheltenham,Portsmouth,0,2,1.84,3.65,4.03
-13.08.,2022,Derby,Barnsley,2,1,3.05,3.52,2.22
-13.08.,2022,Ipswich,MK Dons,3,0,3.10,3.33,2.24
-13.08.,2022,Lincoln,Forest Green,1,1,3.53,3.52,2.01
-13.08.,2022,Morecambe,Fleetwood,1,1,1.86,3.42,4.23
-13.08.,2022,Plymouth,Peterborough,2,0,1.60,3.75,5.77
-13.08.,2022,Port Vale,Bolton,0,0,2.24,3.32,3.12
-13.08.,2022,Sheffield Wed,Charlton,1,0,2.72,3.18,2.60
-13.08.,2022,Wycombe,Shrewsbury,1,2,2.36,3.45,2.82
-06.08.,2022,Barnsley,Cheltenham,1,0,2.74,3.19,2.58
-06.08.,2022,Bolton,Wycombe,3,0,1.74,3.60,4.73
-06.08.,2022,Burton,Bristol Rovers,0,4,2.32,3.14,3.14
-06.08.,2022,Charlton,Derby,1,0,1.84,3.61,4.16
-06.08.,2022,Exeter,Port Vale,4,0,2.34,3.26,3.02
-06.08.,2022,Fleetwood,Plymouth,2,1,2.19,3.37,3.22
-06.08.,2022,Forest Green,Ipswich,1,2,2.89,3.17,2.48
-06.08.,2022,MK Dons,Sheffield Wed,0,1,2.14,3.19,3.53
-06.08.,2022,Oxford Utd,Cambridge Utd,1,0,2.95,3.35,2.35
-06.08.,2022,Peterborough,Morecambe,3,0,3.74,3.32,2.03
-06.08.,2022,Portsmouth,Lincoln,0,0,3.05,3.23,2.34
-06.08.,2022,Shrewsbury,Accrington,0,1,1.71,3.76,4.67
-30.07.,2022,Accrington,Charlton,2,2,1.56,4.05,5.65
-30.07.,2022,Bristol Rovers,Forest Green,1,2,1.77,3.68,4.35
-30.07.,2022,Cambridge Utd,MK Dons,1,0,2.15,3.31,3.35
-30.07.,2022,Cheltenham,Peterborough,2,3,2.80,3.41,2.41
-30.07.,2022,Derby,Oxford Utd,1,0,2.40,3.23,2.93
-30.07.,2022,Ipswich,Bolton,1,1,3.09,3.15,2.35
-30.07.,2022,Lincoln,Exeter,1,1,3.08,3.45,2.22
-30.07.,2022,Morecambe,Shrewsbury,0,0,2.07,3.38,3.49
-30.07.,2022,Plymouth,Barnsley,1,0,1.89,3.30,4.26
-30.07.,2022,Port Vale,Fleetwood,2,1,2.48,3.29,2.80
-30.07.,2022,Sheffield Wed,Portsmouth,3,3,3.17,3.18,2.30
-30.07.,2022,Wycombe,Burton,3,0,2.13,3.35,3.36
-17.12.,2022,Barnsley,Burton,2,0,1.94,3.31,4.02
-17.12.,2022,Bolton,Exeter,2,0,1.72,3.77,4.61
-17.12.,2022,Charlton,Bristol Rovers,1,2,1.74,3.68,4.54
+Yesterday,2022,Morecambe,Cheltenham,2,1,2.49,3.16,2.84
+Yesterday,2022,Bolton,Plymouth,0,0,1.88,3.55,3.93
+Yesterday,2022,Cambridge Utd,Bristol Rovers,1,2,3.24,3.44,2.12
+Yesterday,2022,Charlton,Lincoln,2,1,1.75,3.54,4.64
+02.01.,2022,Barnsley,Bolton,0,3,2.16,3.19,3.42
+02.01.,2022,Derby,Accrington,4,0,1.45,4.30,6.80
+02.01.,2022,Lincoln,Ipswich,1,1,5.37,3.49,1.67
+02.01.,2022,Sheffield Wed,Cambridge Utd,5,0,1.25,5.68,10.42
+01.01.,2022,Bristol Rovers,Cheltenham,2,1,1.76,3.64,4.40
+01.01.,2022,Forest Green,Port Vale,1,3,3.00,3.02,2.46
+01.01.,2022,Morecambe,Burton,5,0,3.14,3.41,2.19
+01.01.,2022,Oxford Utd,Exeter,0,1,2.19,3.44,3.10
+01.01.,2022,Peterborough,Wycombe,0,3,1.91,3.55,3.79
+01.01.,2022,Plymouth,MK Dons,3,1,1.66,3.82,4.85
+01.01.,2022,Portsmouth,Charlton,1,3,1.90,3.56,3.82
+01.01.,2022,Shrewsbury,Fleetwood,0,3,2.28,3.05,3.28
+30.12.2022,2022,Derby,Cambridge Utd,1,0,1.33,4.90,9.07
+30.12.2022,2022,Lincoln,Bolton,1,1,3.27,3.15,2.23
+29.12.2022,2022,Barnsley,Fleetwood,2,1,1.64,3.76,5.16
+29.12.2022,2022,Bristol Rovers,Exeter,3,4,2.24,3.37,3.06
+29.12.2022,2022,Forest Green,Burton,1,2,2.73,3.35,2.48
+29.12.2022,2022,Morecambe,Accrington,2,0,2.89,3.23,2.41
+29.12.2022,2022,Oxford Utd,Charlton,3,1,1.80,3.66,4.18
+29.12.2022,2022,Peterborough,MK Dons,2,0,1.73,3.73,4.43
+29.12.2022,2022,Plymouth,Wycombe,1,0,1.74,3.72,4.48
+29.12.2022,2022,Portsmouth,Ipswich,2,2,4.08,3.25,1.94
+29.12.2022,2022,Sheffield Wed,Port Vale,2,0,1.64,3.70,5.26
+29.12.2022,2022,Shrewsbury,Cheltenham,0,1,1.98,3.19,4.01
+27.12.2022,2022,Bolton,Derby,0,0,2.52,3.28,2.72
+26.12.2022,2022,Accrington,Barnsley,1,1,3.45,3.36,2.08
+26.12.2022,2022,Burton,Lincoln,3,0,2.30,3.29,3.01
+26.12.2022,2022,Cambridge Utd,Shrewsbury,2,1,2.77,3.07,2.61
+26.12.2022,2022,Charlton,Peterborough,1,1,2.91,3.43,2.30
+26.12.2022,2022,Cheltenham,Plymouth,0,1,3.37,3.46,2.07
+26.12.2022,2022,Exeter,Portsmouth,0,0,2.58,3.32,2.63
+26.12.2022,2022,Fleetwood,Sheffield Wed,1,2,4.55,3.64,1.74
+26.12.2022,2022,Ipswich,Oxford Utd,3,0,1.56,4.08,5.51
+26.12.2022,2022,MK Dons,Forest Green,1,0,1.84,3.48,4.18
+26.12.2022,2022,Port Vale,Morecambe,1,0,1.58,3.73,5.97
+26.12.2022,2022,Wycombe,Bristol Rovers,2,1,2.02,3.53,3.46
+17.12.2022,2022,Barnsley,Burton,2,0,1.73,3.74,4.49
+17.12.2022,2022,Bolton,Exeter,2,0,1.98,3.49,3.61
+17.12.2022,2022,Charlton,Bristol Rovers,1,2,2.13,3.48,3.19
+17.12.2022,2022,Cheltenham,Lincoln,POSTP.,POSTP.,2.80,3.10,2.50
+17.12.2022,2022,Derby,Forest Green,4,0,1.41,4.55,7.19
+17.12.2022,2022,Fleetwood,Cambridge Utd,POSTP.,POSTP.,2.20,3.30,3.23
+17.12.2022,2022,Peterborough,Shrewsbury,POSTP.,POSTP.,NA,NA,NA
+17.12.2022,2022,Plymouth,Morecambe,2,1,1.50,4.33,5.78
+17.12.2022,2022,Portsmouth,MK Dons,0,2,1.84,3.55,4.13
+17.12.2022,2022,Sheffield Wed,Oxford Utd,0,0,1.83,3.61,4.08
+17.12.2022,2022,Wycombe,Ipswich,1,0,3.83,3.51,1.91
+10.12.2022,2022,Accrington,Portsmouth,POSTP.,POSTP.,NA,NA,NA
+10.12.2022,2022,Bristol Rovers,Port Vale,1,0,2.58,3.24,2.67
+10.12.2022,2022,Burton,Derby,1,1,3.76,3.47,1.94
+10.12.2022,2022,Cambridge Utd,Plymouth,0,0,3.14,3.55,2.13
+10.12.2022,2022,Exeter,Sheffield Wed,1,1,3.89,3.36,1.94
+10.12.2022,2022,Forest Green,Cheltenham,1,0,2.45,3.22,2.87
+10.12.2022,2022,Ipswich,Peterborough,2,1,1.58,3.91,5.57
+10.12.2022,2022,Lincoln,Wycombe,0,0,2.99,3.21,2.37
+10.12.2022,2022,MK Dons,Fleetwood,1,2,2.09,3.27,3.49
+10.12.2022,2022,Morecambe,Charlton,POSTP.,POSTP.,3.65,3.50,2.05
+10.12.2022,2022,Shrewsbury,Bolton,3,2,3.29,3.18,2.23
+04.12.2022,2022,Wycombe,Portsmouth,2,0,2.61,3.38,2.56
+03.12.2022,2022,Accrington,Oxford Utd,1,1,3.17,3.53,2.12
+03.12.2022,2022,Derby,Sheffield Wed,0,0,2.95,3.39,2.30
+03.12.2022,2022,Forest Green,Cambridge Utd,2,1,2.38,3.36,2.85
+03.12.2022,2022,MK Dons,Burton,1,1,2.36,3.32,2.91
+03.12.2022,2022,Shrewsbury,Lincoln,2,0,2.33,3.08,3.18
+02.12.2022,2022,Bolton,Bristol Rovers,1,1,1.75,3.69,4.40
+02.12.2022,2022,Charlton,Cheltenham,0,1,1.66,3.73,5.03
+02.12.2022,2022,Ipswich,Fleetwood,1,1,1.24,5.57,12.03
+02.12.2022,2022,Morecambe,Exeter,1,1,3.32,3.34,2.14
+02.12.2022,2022,Peterborough,Barnsley,1,2,2.26,3.32,3.08
+02.12.2022,2022,Plymouth,Port Vale,0,2,2.12,3.36,3.30
+19.11.2022,2022,Barnsley,MK Dons,3,1,1.86,3.41,4.17
+19.11.2022,2022,Bristol Rovers,Peterborough,1,0,2.82,3.57,2.30
+19.11.2022,2022,Burton,Plymouth,2,2,2.56,3.55,2.53
+19.11.2022,2022,Cambridge Utd,Accrington,0,1,2.26,3.43,2.99
+19.11.2022,2022,Cheltenham,Wycombe,1,0,3.42,3.51,2.03
+19.11.2022,2022,Exeter,Ipswich,0,2,4.43,3.72,1.74
+19.11.2022,2022,Fleetwood,Bolton,1,2,3.23,3.33,2.19
+19.11.2022,2022,Lincoln,Morecambe,2,1,1.82,3.54,4.24
+19.11.2022,2022,Oxford Utd,Forest Green,1,1,1.46,4.57,6.16
+19.11.2022,2022,Port Vale,Charlton,1,0,2.34,3.30,2.94
+19.11.2022,2022,Sheffield Wed,Shrewsbury,1,0,1.42,4.46,7.36
+18.11.2022,2022,Portsmouth,Derby,0,0,2.16,3.37,3.25
+12.11.2022,2022,Accrington,Sheffield Wed,0,1,4.79,3.89,1.66
+12.11.2022,2022,Bristol Rovers,Fleetwood,2,2,1.99,3.42,3.65
+12.11.2022,2022,Burton,Charlton,3,3,2.74,3.37,2.44
+12.11.2022,2022,Cambridge Utd,Bolton,0,0,3.92,3.54,1.89
+12.11.2022,2022,Exeter,Peterborough,3,2,2.60,3.45,2.52
+12.11.2022,2022,Forest Green,Wycombe,0,2,3.69,3.70,1.89
+12.11.2022,2022,Ipswich,Cheltenham,1,1,1.24,5.81,11.76
+12.11.2022,2022,Lincoln,Plymouth,1,1,2.68,3.38,2.51
+12.11.2022,2022,MK Dons,Derby,1,3,3.13,3.20,2.28
+12.11.2022,2022,Morecambe,Portsmouth,1,1,5.06,3.84,1.64
+12.11.2022,2022,Oxford Utd,Port Vale,4,0,2.26,3.22,3.15
+12.11.2022,2022,Shrewsbury,Barnsley,0,1,2.90,3.10,2.50
+09.11.2022,2022,Shrewsbury,Oxford Utd,1,1,3.05,3.23,2.31
+01.11.2022,2022,Oxford Utd,Fleetwood,1,1,1.89,3.51,3.93
+01.11.2022,2022,Lincoln,Accrington,1,1,2.40,3.34,2.84
+01.11.2022,2022,Morecambe,Derby,1,1,5.37,3.84,1.61
+01.11.2022,2022,Wycombe,Port Vale,2,2,2.22,3.27,3.23
+31.10.2022,2022,Plymouth,Exeter,4,2,1.94,3.57,3.65
+29.10.2022,2022,Barnsley,Forest Green,2,0,1.51,4.15,5.95
+29.10.2022,2022,Bolton,Oxford Utd,1,3,1.93,3.48,3.84
+29.10.2022,2022,Charlton,Ipswich,4,4,3.73,3.39,1.98
+29.10.2022,2022,Cheltenham,MK Dons,0,0,2.61,3.05,2.81
+29.10.2022,2022,Derby,Bristol Rovers,4,2,1.73,3.81,4.41
+29.10.2022,2022,Fleetwood,Accrington,3,0,2.20,3.48,3.07
+29.10.2022,2022,Peterborough,Cambridge Utd,1,0,1.47,4.36,6.32
+29.10.2022,2022,Portsmouth,Shrewsbury,1,1,1.81,3.55,4.31
+29.10.2022,2022,Port Vale,Lincoln,1,0,1.94,3.30,4.05
+29.10.2022,2022,Sheffield Wed,Burton,4,2,1.47,4.38,6.40
+29.10.2022,2022,Wycombe,Morecambe,1,1,1.50,4.39,5.89
+26.10.2022,2022,Sheffield Wed,Bristol Rovers,1,1,1.45,4.57,6.29
+25.10.2022,2022,Barnsley,Lincoln,0,1,1.88,3.44,4.09
+25.10.2022,2022,Bolton,Burton,2,1,1.76,3.59,4.52
+25.10.2022,2022,Charlton,MK Dons,0,2,1.71,3.68,4.77
+25.10.2022,2022,Cheltenham,Morecambe,1,0,2.22,3.19,3.28
+25.10.2022,2022,Derby,Exeter,0,0,2.16,3.39,3.24
+25.10.2022,2022,Fleetwood,Forest Green,1,1,1.99,3.42,3.69
+25.10.2022,2022,Peterborough,Accrington,3,1,1.58,4.12,5.26
+25.10.2022,2022,Plymouth,Shrewsbury,2,1,1.92,3.44,3.93
+25.10.2022,2022,Portsmouth,Oxford Utd,1,1,2.16,3.35,3.25
+25.10.2022,2022,Port Vale,Ipswich,2,3,4.14,3.03,2.01
+25.10.2022,2022,Wycombe,Cambridge Utd,2,3,1.72,3.76,4.54
+22.10.2022,2022,Accrington,Bolton,2,3,3.12,3.42,2.20
+22.10.2022,2022,Bristol Rovers,Plymouth,2,2,2.84,3.61,2.29
+22.10.2022,2022,Burton,Cheltenham,1,0,2.10,3.34,3.47
+22.10.2022,2022,Cambridge Utd,Port Vale,0,1,3.04,3.19,2.35
+22.10.2022,2022,Exeter,Fleetwood,2,1,1.93,3.48,3.82
+22.10.2022,2022,Forest Green,Portsmouth,0,1,4.21,3.54,1.83
+22.10.2022,2022,Lincoln,Sheffield Wed,1,1,4.65,3.76,1.70
+22.10.2022,2022,MK Dons,Wycombe,0,1,3.04,3.28,2.32
+22.10.2022,2022,Morecambe,Barnsley,1,0,4.49,3.66,1.76
+22.10.2022,2022,Oxford Utd,Peterborough,1,2,2.24,3.60,2.93
+22.10.2022,2022,Shrewsbury,Charlton,0,1,2.99,3.20,2.38
+21.10.2022,2022,Ipswich,Derby,1,0,1.72,3.71,4.63
+17.10.2022,2022,Charlton,Portsmouth,3,0,2.68,3.29,2.55
+15.10.2022,2022,Accrington,Derby,0,3,3.18,3.42,2.16
+15.10.2022,2022,Bolton,Barnsley,0,0,2.15,3.33,3.32
+15.10.2022,2022,Burton,Morecambe,1,1,1.79,3.69,4.24
+15.10.2022,2022,Cambridge Utd,Sheffield Wed,0,2,4.72,3.74,1.71
+15.10.2022,2022,Cheltenham,Bristol Rovers,1,4,2.48,3.29,2.78
+15.10.2022,2022,Exeter,Oxford Utd,2,4,2.50,3.28,2.75
+15.10.2022,2022,Fleetwood,Shrewsbury,0,1,2.30,3.06,3.26
+15.10.2022,2022,Ipswich,Lincoln,0,1,1.33,4.82,9.16
+15.10.2022,2022,MK Dons,Plymouth,1,4,2.76,3.25,2.52
+15.10.2022,2022,Port Vale,Forest Green,2,2,1.91,3.43,4.01
+15.10.2022,2022,Wycombe,Peterborough,3,1,2.78,3.44,2.40
+11.10.2022,2022,Charlton,Exeter,4,2,2.14,3.38,3.27
+11.10.2022,2022,MK Dons,Bristol Rovers,0,1,2.07,3.43,3.43
+11.10.2022,2022,Peterborough,Forest Green,4,1,1.45,4.46,6.57
+08.10.2022,2022,Barnsley,Exeter,0,2,2.15,3.40,3.25
+08.10.2022,2022,Bristol Rovers,Cambridge Utd,2,1,2.19,3.46,3.10
+08.10.2022,2022,Derby,Port Vale,1,2,1.94,3.40,3.86
+08.10.2022,2022,Forest Green,Bolton,1,0,4.13,3.57,1.83
+08.10.2022,2022,Lincoln,Charlton,0,0,3.15,3.39,2.19
+08.10.2022,2022,Morecambe,Ipswich,1,2,8.58,4.47,1.37
+08.10.2022,2022,Oxford Utd,Wycombe,0,1,2.20,3.43,3.12
+08.10.2022,2022,Peterborough,Burton,1,1,1.60,4.13,4.95
+08.10.2022,2022,Plymouth,Accrington,3,0,1.68,4.07,4.38
+08.10.2022,2022,Portsmouth,Fleetwood,1,1,1.63,3.86,5.13
+08.10.2022,2022,Sheffield Wed,Cheltenham,3,0,1.39,4.54,7.86
+08.10.2022,2022,Shrewsbury,MK Dons,2,1,2.36,3.12,3.10
+04.10.2022,2022,Burton,Fleetwood,0,1,2.19,3.51,3.05
+04.10.2022,2022,Cheltenham,Bolton,1,0,3.94,3.41,1.92
+04.10.2022,2022,Ipswich,Cambridge Utd,3,0,1.33,4.85,9.12
+04.10.2022,2022,Plymouth,Sheffield Wed,2,1,2.89,3.37,2.34
+01.10.2022,2022,Accrington,Morecambe,3,1,1.80,3.65,4.25
+01.10.2022,2022,Bolton,Lincoln,2,0,1.68,3.72,4.92
+01.10.2022,2022,Burton,Forest Green,3,2,1.76,3.72,4.37
+01.10.2022,2022,Cambridge Utd,Derby,0,2,3.71,3.46,1.97
+01.10.2022,2022,Charlton,Oxford Utd,1,1,2.27,3.49,2.94
+01.10.2022,2022,Cheltenham,Shrewsbury,2,0,2.53,3.06,2.90
+01.10.2022,2022,Exeter,Bristol Rovers,2,2,1.61,3.99,5.13
+01.10.2022,2022,Fleetwood,Barnsley,0,1,3.03,3.28,2.31
+01.10.2022,2022,Ipswich,Portsmouth,3,2,1.75,3.60,4.58
+01.10.2022,2022,MK Dons,Peterborough,2,3,3.06,3.39,2.25
+01.10.2022,2022,Port Vale,Sheffield Wed,0,1,4.01,3.37,1.92
+01.10.2022,2022,Wycombe,Plymouth,0,1,2.45,3.47,2.70
+25.09.2022,2022,Plymouth,Ipswich,2,1,3.30,3.35,2.15
+24.09.2022,2022,Barnsley,Charlton,3,1,2.44,3.35,2.78
+24.09.2022,2022,Bristol Rovers,Accrington,0,1,2.52,3.43,2.64
+24.09.2022,2022,Forest Green,Exeter,0,4,3.44,3.39,2.07
+24.09.2022,2022,Morecambe,Cambridge Utd,1,2,2.60,3.20,2.69
+24.09.2022,2022,Peterborough,Port Vale,3,0,2.14,3.38,3.27
+24.09.2022,2022,Sheffield Wed,Wycombe,3,1,1.61,3.97,5.14
+24.09.2022,2022,Shrewsbury,Burton,2,1,2.32,3.17,3.11
+17.09.2022,2022,Accrington,Cheltenham,1,0,1.95,3.48,3.75
+17.09.2022,2022,Bolton,Peterborough,1,0,1.99,3.43,3.64
+17.09.2022,2022,Bristol Rovers,Lincoln,3,6,2.64,3.31,2.58
+17.09.2022,2022,Cambridge Utd,Barnsley,0,3,2.89,3.13,2.48
+17.09.2022,2022,Derby,Wycombe,2,1,2.03,3.38,3.58
+17.09.2022,2022,Exeter,Burton,0,2,1.68,3.71,4.90
+17.09.2022,2022,Fleetwood,Charlton,1,1,2.97,3.28,2.34
+17.09.2022,2022,Forest Green,Morecambe,1,2,1.86,3.51,4.07
+17.09.2022,2022,Oxford Utd,MK Dons,1,2,1.99,3.35,3.76
+17.09.2022,2022,Portsmouth,Plymouth,2,2,1.89,3.58,3.87
+17.09.2022,2022,Port Vale,Shrewsbury,2,1,2.59,2.92,2.95
+17.09.2022,2022,Sheffield Wed,Ipswich,2,2,2.79,3.06,2.62
+13.09.2022,2022,Barnsley,Port Vale,1,1,2.17,3.12,3.49
+13.09.2022,2022,Burton,Portsmouth,0,2,3.63,3.66,1.94
+13.09.2022,2022,Charlton,Forest Green,1,1,1.71,3.76,4.58
+13.09.2022,2022,Cheltenham,Cambridge Utd,2,1,2.67,3.33,2.55
+13.09.2022,2022,Ipswich,Bristol Rovers,2,0,1.24,5.73,12.04
+13.09.2022,2022,Lincoln,Derby,2,0,3.69,3.29,2.03
+13.09.2022,2022,MK Dons,Bolton,0,2,2.67,3.31,2.56
+13.09.2022,2022,Morecambe,Sheffield Wed,0,3,5.77,3.98,1.56
+13.09.2022,2022,Peterborough,Fleetwood,0,1,1.63,4.08,4.74
+13.09.2022,2022,Plymouth,Oxford Utd,1,0,2.12,3.47,3.24
+13.09.2022,2022,Shrewsbury,Exeter,3,2,2.88,3.06,2.53
+13.09.2022,2022,Wycombe,Accrington,1,0,1.91,3.69,3.64
+06.09.2022,2022,Forest Green,Accrington,2,1,2.43,3.29,2.86
+03.09.2022,2022,Accrington,Ipswich,0,2,4.52,3.81,1.73
+03.09.2022,2022,Bolton,Charlton,3,1,2.21,3.40,3.14
+03.09.2022,2022,Bristol Rovers,Morecambe,2,2,2.02,3.50,3.54
+03.09.2022,2022,Cambridge Utd,Lincoln,2,0,2.05,3.40,3.53
+03.09.2022,2022,Derby,Plymouth,2,3,1.78,3.58,4.49
+03.09.2022,2022,Exeter,MK Dons,1,0,2.07,3.33,3.60
+03.09.2022,2022,Fleetwood,Wycombe,1,1,3.16,3.36,2.22
+03.09.2022,2022,Forest Green,Shrewsbury,0,2,2.74,3.00,2.73
+03.09.2022,2022,Oxford Utd,Burton,2,1,1.79,3.79,4.20
+03.09.2022,2022,Portsmouth,Peterborough,2,1,2.01,3.61,3.45
+03.09.2022,2022,Port Vale,Cheltenham,2,2,1.87,3.43,4.23
+03.09.2022,2022,Sheffield Wed,Barnsley,0,2,1.63,3.83,5.20
+27.08.2022,2022,Accrington,Exeter,0,0,2.70,3.46,2.46
+27.08.2022,2022,Bristol Rovers,Shrewsbury,1,1,2.88,3.11,2.53
+27.08.2022,2022,Cambridge Utd,Burton,4,3,2.26,3.37,3.06
+27.08.2022,2022,Cheltenham,Oxford Utd,1,2,3.52,3.53,2.01
+27.08.2022,2022,Derby,Peterborough,2,1,2.09,3.42,3.39
+27.08.2022,2022,Ipswich,Barnsley,2,2,1.48,4.08,6.80
+27.08.2022,2022,Lincoln,Fleetwood,2,2,2.11,3.30,3.49
+27.08.2022,2022,Morecambe,MK Dons,0,4,3.28,3.11,2.26
+27.08.2022,2022,Plymouth,Bolton,2,0,2.25,3.35,3.11
+27.08.2022,2022,Port Vale,Portsmouth,0,1,3.02,3.22,2.36
+27.08.2022,2022,Sheffield Wed,Forest Green,5,0,1.47,4.22,6.80
+27.08.2022,2022,Wycombe,Charlton,1,1,2.42,3.24,2.92
+20.08.2022,2022,Barnsley,Wycombe,0,3,2.13,3.33,3.37
+20.08.2022,2022,Bolton,Sheffield Wed,0,2,2.77,3.29,2.50
+20.08.2022,2022,Burton,Port Vale,0,2,2.75,3.18,2.59
+20.08.2022,2022,Charlton,Cambridge Utd,1,1,1.78,3.68,4.32
+20.08.2022,2022,Exeter,Cheltenham,0,1,1.59,3.92,5.50
+20.08.2022,2022,Fleetwood,Derby,0,0,4.34,3.50,1.82
+20.08.2022,2022,Forest Green,Plymouth,0,3,2.40,3.36,2.85
+20.08.2022,2022,MK Dons,Accrington,1,1,2.06,3.32,3.61
+20.08.2022,2022,Oxford Utd,Morecambe,1,1,1.56,4.12,5.53
+20.08.2022,2022,Peterborough,Lincoln,4,0,1.88,3.76,3.79
+20.08.2022,2022,Portsmouth,Bristol Rovers,3,1,1.64,3.91,5.03
+20.08.2022,2022,Shrewsbury,Ipswich,0,3,3.82,3.13,2.08
+16.08.2022,2022,Barnsley,Bristol Rovers,3,0,2.10,3.46,3.32
+16.08.2022,2022,Bolton,Morecambe,1,0,1.48,4.36,6.36
+16.08.2022,2022,Burton,Ipswich,0,1,4.95,3.91,1.65
+16.08.2022,2022,Charlton,Plymouth,5,1,2.29,3.37,3.00
+16.08.2022,2022,Exeter,Wycombe,3,1,2.09,3.39,3.43
+16.08.2022,2022,Fleetwood,Cheltenham,0,0,1.96,3.51,3.70
+16.08.2022,2022,MK Dons,Port Vale,2,1,2.16,3.12,3.54
+16.08.2022,2022,Oxford Utd,Lincoln,1,2,1.86,3.56,4.03
+16.08.2022,2022,Peterborough,Sheffield Wed,2,0,2.84,3.29,2.43
+16.08.2022,2022,Portsmouth,Cambridge Utd,4,1,1.59,3.92,5.45
+16.08.2022,2022,Shrewsbury,Derby,0,0,3.07,3.04,2.41
+13.08.2022,2022,Accrington,Burton,4,4,1.84,3.65,4.03
+13.08.2022,2022,Bristol Rovers,Oxford Utd,1,0,3.05,3.52,2.22
+13.08.2022,2022,Cambridge Utd,Exeter,2,1,3.10,3.33,2.24
+13.08.2022,2022,Cheltenham,Portsmouth,0,2,3.53,3.52,2.01
+13.08.2022,2022,Derby,Barnsley,2,1,1.86,3.42,4.23
+13.08.2022,2022,Ipswich,MK Dons,3,0,1.60,3.75,5.77
+13.08.2022,2022,Lincoln,Forest Green,1,1,2.24,3.32,3.12
+13.08.2022,2022,Morecambe,Fleetwood,1,1,2.72,3.18,2.60
+13.08.2022,2022,Plymouth,Peterborough,2,0,2.36,3.45,2.82
+13.08.2022,2022,Port Vale,Bolton,0,0,2.74,3.19,2.58
+13.08.2022,2022,Sheffield Wed,Charlton,1,0,1.74,3.60,4.73
+13.08.2022,2022,Wycombe,Shrewsbury,1,2,2.32,3.14,3.14
+06.08.2022,2022,Barnsley,Cheltenham,1,0,1.84,3.61,4.16
+06.08.2022,2022,Bolton,Wycombe,3,0,2.34,3.26,3.02
+06.08.2022,2022,Burton,Bristol Rovers,0,4,2.19,3.37,3.22
+06.08.2022,2022,Charlton,Derby,1,0,2.89,3.17,2.48
+06.08.2022,2022,Exeter,Port Vale,4,0,2.14,3.19,3.53
+06.08.2022,2022,Fleetwood,Plymouth,2,1,2.95,3.35,2.35
+06.08.2022,2022,Forest Green,Ipswich,1,2,3.74,3.32,2.03
+06.08.2022,2022,MK Dons,Sheffield Wed,0,1,3.05,3.23,2.34
+06.08.2022,2022,Oxford Utd,Cambridge Utd,1,0,1.71,3.76,4.67
+06.08.2022,2022,Peterborough,Morecambe,3,0,1.56,4.05,5.65
+06.08.2022,2022,Portsmouth,Lincoln,0,0,1.77,3.68,4.35
+06.08.2022,2022,Shrewsbury,Accrington,0,1,2.15,3.31,3.35
+30.07.2022,2022,Accrington,Charlton,2,2,2.80,3.41,2.41
+30.07.2022,2022,Bristol Rovers,Forest Green,1,2,2.40,3.23,2.93
+30.07.2022,2022,Cambridge Utd,MK Dons,1,0,3.09,3.15,2.35
+30.07.2022,2022,Cheltenham,Peterborough,2,3,3.08,3.45,2.22
+30.07.2022,2022,Derby,Oxford Utd,1,0,2.07,3.38,3.49
+30.07.2022,2022,Ipswich,Bolton,1,1,1.89,3.30,4.26
+30.07.2022,2022,Lincoln,Exeter,1,1,2.48,3.29,2.80
+30.07.2022,2022,Morecambe,Shrewsbury,0,0,3.17,3.18,2.30
+30.07.2022,2022,Plymouth,Barnsley,1,0,2.13,3.35,3.36
+30.07.2022,2022,Port Vale,Fleetwood,2,1,1.94,3.31,4.02
+30.07.2022,2022,Sheffield Wed,Portsmouth,3,3,1.72,3.77,4.61
+30.07.2022,2022,Wycombe,Burton,3,0,1.74,3.68,4.54
